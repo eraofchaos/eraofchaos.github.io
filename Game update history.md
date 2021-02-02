@@ -12,6 +12,24 @@ sidebar:
 
 ### Era Of Chaos - Game client update History
 
+{% capture notice-update20210126 %}
+**Client update** (version **142(3020)**):
+
+* New Commander and SSR unit in February. Awakening for Berserker is expected in February. See Schedule for more info.
+* New feature Client Speed-Up is available from 17th level (near by your avatar at right top corner).
+* Added Huawei authentication/login
+* New Team Avatars: like Springtime Sword. Ghostly Return, ...
+* New Avatars: Patroller of the Sea for new SSR Cove Unit.
+* Unit [Iron Golem](https://eraofchaos.github.io/units/Iron Golem/) got Awakening.
+* No changes in calculation for battles (version 10120)
+* No changes in Heroes
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">26 January 2021 Update:</h4>
+  {{ notice-update20210126 | markdownify }}
+</div>
 
 {% capture notice-update20210119 %}
 **Client update** (version 142):

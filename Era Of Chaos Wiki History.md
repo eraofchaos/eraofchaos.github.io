@@ -12,6 +12,25 @@ sidebar:
 
 ### Era Of Chaos - Wiki update History
 
+{% capture notice-update20210126 %}
+**Client update** (version **142(3020)**):
+
+**EraOfChaos Wiki update**:
+
+* Wiki updated to the latest state, reported issues corrected.
+* Wiki contains **equipments** for each Unit.
+* Updated [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 21 February 2021) 
+* Updated [Schedule](https://eraofchaos.github.io/Schedule/) (up to 24 February 2021).
+* Changed search engine on Wiki. Google search should provide better results for users.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">26 January 2021 Update:</h4>
+  {{ notice-update20210126 | markdownify }}
+</div>
+
+
 {% capture notice-update20210115 %}
 Released <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
 {% endcapture %}
