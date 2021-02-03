@@ -9,6 +9,26 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210203 %}
+**Client update** (version **142 (3073)**):
+
+* new Tazar skin (Flourishing Spring Festival), 
+* Update skills related to "<Burning>: causes lasting fire damage to units.", mainly related to defining CD for skill. 
+* Removed "Unknown" Hero for TROLL (related to unreleased Stronghold hero, Unit->Relevance Tab->Hero Bonus)
+* After this update, the rewards of "Own a 3-star Troll" and "Own a 4-star Troll" in "Recruitment Reward" will be replaced by [Dragon Blood Crystal](https://eraofchaos.github.io/Items/con_211/).
+* Changes for "Blazing Skyfire" skill
+* New battle calculation (version 10122)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">3 February 2021 Update:</h4>
+  {{ notice-update20210203 | markdownify }}
+</div>
+
+
+
+
 {% capture notice-update20210202 %}
 **Client update** (version **142 (3061)**):
 
@@ -54,18 +74,7 @@ New changes in Auto-Chess: Increased amount of coin per lose (on initial phase) 
   {{ notice-update20210202 | markdownify }}
 </div>
 
-{% capture notice-update20210128 %}
-Released HotSpot Spells for complete 2021! You can find it in **Magic Guild** -> **Spell Prayer**
-### <i class="fas fa-calendar-day"/> [Hotspot Artifacs and Spells](https://eraofchaos.github.io/Hotspot/) (for complete 2021)
-#### <i class="fas fa-calendar-day"/> [Hotspot Artifacs 2021](https://eraofchaos.github.io/Hotspot/HotSpot Artifact _2021/)
-#### <i class="fas fa-calendar-day"/> [Hotspot Spells 2021](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
 
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">28 January 2021 Update:</h4>
-  {{ notice-update20210128 | markdownify }}
-</div>
 
 
 

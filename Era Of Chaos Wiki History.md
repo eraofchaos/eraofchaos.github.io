@@ -11,6 +11,18 @@ sidebar:
 ---
 
 ### Era Of Chaos - Wiki update History
+{% capture notice-update20210128 %}
+Released HotSpot Spells for complete 2021! You can find it in **Magic Guild** -> **Spell Prayer**
+### <i class="fas fa-calendar-day"/> [Hotspot Artifacs and Spells](https://eraofchaos.github.io/Hotspot/) (for complete 2021)
+#### <i class="fas fa-calendar-day"/> [Hotspot Artifacs 2021](https://eraofchaos.github.io/Hotspot/HotSpot Artifact _2021/)
+#### <i class="fas fa-calendar-day"/> [Hotspot Spells 2021](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">28 January 2021 Update:</h4>
+  {{ notice-update20210128 | markdownify }}
+</div>
 
 {% capture notice-update20210126 %}
 **Client update** (version **142(3020)**):
