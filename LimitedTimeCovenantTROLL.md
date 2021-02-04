@@ -1,10 +1,10 @@
 ---
 title: "Limited-Time Covenant Chance for TROLL x1 spin (300 gems)"
-permalink: /LimitedTime Covenant TROLL/
+permalink: /LimitedTimeCovenantTROLL/
 excerpt: "Limited-Time Covenant Chance for TROLL x1 spin (300 gems)"
 last_modified_at: 2021-02-04
 lang: en
-ref: "limitedTimeCovenantTROLLChance.md"
+ref: "LimitedTimeCovenantTROLL.md"
 toc: false
 classes: wide
 ---
