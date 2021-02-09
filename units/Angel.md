@@ -97,22 +97,22 @@ toc: true
   <p id="log"></p>
   </form>
 ### Ultimate Skill: Condemn
- **Description:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="sk1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
 ### Regular Skill 1 : Resurrection
- **Description:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="sk2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
 
 ### Regular Skill 2 : Radiance
- **Description:** <span style="color: #645252;font-size:20px">When Angel is on the battlefield, all friendly units are granted extra HP regeneration each 2s equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="sk3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their Max HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Angel is on the battlefield, all friendly units are granted extra HP regeneration each 2s equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their Max HP.</span><span style="color: black">
 
 ### Regular Skill 3 : Singleminded Sniper
- **Description:** <span style="color: #645252;font-size:20px">Angel's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="sk4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit‘s damage is increased by 10% . When Angel is fighting against the Inferno Faction, unit's damage is increased by 50%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Angel's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit‘s damage is increased by 10% . When Angel is fighting against the Inferno Faction, unit's damage is increased by 50%.</span><span style="color: black">
 
 ### Faction Special Skill I : Siege Combat
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="sk5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
 ### Faction Special Skill II : Defense Resonance
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="sk6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
