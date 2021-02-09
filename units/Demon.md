@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Units Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Demon"
 toc: true
@@ -88,24 +88,61 @@ toc: true
   none
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Scalding Strike
- **Description:** <span style="color: #645252;font-size:20px">Demon units randomly deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*20+230)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> DMG to 1 hostile unit within a large range and increase their own dodge by 300 for 12s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Demon units randomly deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> DMG to 1 hostile unit within a large range and increase their own dodge by 300 for 12s.</span><span style="color: black">
 
 ### Regular Skill 1 : Burns
- **Description:** <span style="color: #645252;font-size:20px">The Demon restores <span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP for every dodge.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Demon restores <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP for every dodge.</span><span style="color: black">
 
 ### Regular Skill 2 : Inferno Minion
- **Description:** <span style="color: #645252;font-size:20px">Demon's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Healing increased by 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Demon's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Healing increased by 30%.</span><span style="color: black">
 
 ### Regular Skill 3 : Fire Unit
- **Description:** <span style="color: #645252;font-size:20px">Demon's dodge increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Demon's dodge will be increased by 40 for every Inferno unit deployed.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Demon's dodge increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Demon's dodge will be increased by 40 for every Inferno unit deployed.</span><span style="color: black">
 
 ### Faction Special Skill I : Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Resistance Resonance
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+2.5)"
+    let str5 = "(LEVEL*10+50)"
+    let str6 = "(LEVEL*0.5+7.5)"
+    let str3 = "(LEVEL*3+12)"
+    let str4 = "LEVEL*20+80"
+    let str1 = "(LEVEL*20+230)*0.01*ATK"
+    let str2 = "LEVEL*0.5+4.5"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

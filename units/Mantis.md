@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Units Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Mantis"
 toc: true
@@ -84,27 +84,80 @@ toc: true
   none
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Sonic Speed Cutting
- **Description:** <span style="color: #645252;font-size:20px">Every 3 normal attacks, deals additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*15+95}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK plus </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. Deals an additional 50% damage to units inflicted with </span><span style="color: black"><span style="color: #48b946;font-size:20px">Bleed</span><span style="color: black"><span style="color: #645252;font-size:20px">, decreases their DEF by 120 and Unit DMG Reduction by 4%, and inflicts </span><span style="color: black"><span style="color: #48b946;font-size:20px">Slow</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 8s. This cannot be dispelled. Stacks up to 10 times. Deals additional damage equal to 40% ATK to enemy units within the target range.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Every 3 normal attacks, deals additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK plus </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. Deals an additional 50% damage to units inflicted with </span><span style="color: black"><span style="color: #48b946;font-size:20px">Bleed</span><span style="color: black"><span style="color: #645252;font-size:20px">, decreases their DEF by 120 and Unit DMG Reduction by 4%, and inflicts </span><span style="color: black"><span style="color: #48b946;font-size:20px">Slow</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 8s. This cannot be dispelled. Stacks up to 10 times. Deals additional damage equal to 40% ATK to enemy units within the target range.</span><span style="color: black">
 
 ### Regular Skill 1 : First Strike
- **Description:** <span style="color: #645252;font-size:20px">Increases Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Penetration by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*15+75}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases the Pre-CD of enemy heroes' Ultimate Skills by 4s. Mantis has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to become immune to damage dealt by Ground units.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Penetration by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases the Pre-CD of enemy heroes' Ultimate Skills by 4s. Mantis has a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to become immune to damage dealt by Ground units.</span><span style="color: black">
 
 ### Regular Skill 2 : Domineering Aura
- **Description:** <span style="color: #645252;font-size:20px">Mantis becomes immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">Petrify</span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Disease</span><span style="color: black"><span style="color: #645252;font-size:20px">. For every 1 Rampart unit on the battlefield, increases Mantis' Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.4+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When landing a critical hit, dispel the debuffs on itself and 1 friendly Rampart unit within a certain range of it and grants </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Domineering Shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+3}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP (cannot be dispelled). Stacks up to 3 times. CD is 8s. When the battle starts, Mantis grants itself </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Domineering Shield&gt;.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Mantis becomes immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">Petrify</span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Disease</span><span style="color: black"><span style="color: #645252;font-size:20px">. For every 1 Rampart unit on the battlefield, increases Mantis' Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When landing a critical hit, dispel the debuffs on itself and 1 friendly Rampart unit within a certain range of it and grants </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Domineering Shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP (cannot be dispelled). Stacks up to 3 times. CD is 8s. When the battle starts, Mantis grants itself </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Domineering Shield&gt;.</span><span style="color: black">
 
 ### Regular Skill 3 : Bind
- **Description:** <span style="color: #645252;font-size:20px">When attacking a </span><span style="color: black"><span style="color: #48b946;font-size:20px">slowed</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit, there is a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to inflict<span style="color: #48b946;font-size:20px">Bind</span><span style="color: black"> on 2 enemy units within a small range of it for 3s. CD is 6s. When a Rampart unit gains </span><span style="color: black"><span style="color: #48b946;font-size:20px">Shield</span><span style="color: black"><span style="color: #645252;font-size:20px">, additionally increases Mantis' Unit DMG by 0.5%, Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.3+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+10}</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s. This effect can stack up to 50 times.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When attacking a </span><span style="color: black"><span style="color: #48b946;font-size:20px">slowed</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit, there is a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to inflict<span style="color: #48b946;font-size:20px">Bind</span><span style="color: black"> on 2 enemy units within a small range of it for 3s. CD is 6s. When a Rampart unit gains </span><span style="color: black"><span style="color: #48b946;font-size:20px">Shield</span><span style="color: black"><span style="color: #645252;font-size:20px">, additionally increases Mantis' Unit DMG by 0.5%, Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s. This effect can stack up to 50 times.</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
 ### Regular Skill 6 : Faerie Forest
- **Description:** <span style="color: #645252;font-size:20px">When 3 Rampart units are deployed, increases Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*20+300}</span><span style="color: black"><span style="color: #645252;font-size:20px">. 6s after battle starts, the </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Faerie Forest&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain</span><span style="color: black"><span style="color: #645252;font-size:20px"> forms, which expands as the skill levels up. The domain exists for 15s. The domain is triggered once every 30s after that.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Rampart units are deployed, increases Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. 6s after battle starts, the </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Faerie Forest&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain</span><span style="color: black"><span style="color: #645252;font-size:20px"> forms, which expands as the skill levels up. The domain exists for 15s. The domain is triggered once every 30s after that.</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*0.2+2"
+    let str8 = "LEVEL*0.2+3"
+    let str5 = "LEVEL*2+14"
+    let str6 = "LEVEL*0.4+4"
+    let str3 = "LEVEL*1+15"
+    let str4 = "LEVEL*15+75"
+    let str1 = "LEVEL*15+95"
+    let str2 = "LEVEL*1.5+9.5"
+    let str12 = "(LEVEL*1.5+7.5)"
+    let str13 = "(LEVEL*0.9+2.4)"
+    let str10 = "LEVEL*0.3+1.5"
+    let str11 = "LEVEL*2+10"
+    let str9 = "LEVEL*3+17"
+    let str14 = "LEVEL*1+15"
+    let str15 = "LEVEL*20+300"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
+     res = eval(str13); document.getElementById('str13').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+     res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

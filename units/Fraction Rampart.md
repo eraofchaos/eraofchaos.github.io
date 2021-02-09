@@ -2,7 +2,7 @@
 title: "Era of Chaos - Fraction Rampart -  Units"
 permalink: /units/Fraction Rampart/
 excerpt: "Fraction Rampart - List of Fraction in Era of Chaos"
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Fraction Rampart"
 toc: false

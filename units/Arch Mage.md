@@ -3,7 +3,7 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Units Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Arch Mage"
 toc: true
@@ -89,24 +89,59 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Spell Penetration
- **Description:** <span style="color: #645252;font-size:20px">Mage's normal attack increases its own ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, up to 20 stacks. The stacks are permanent if the target doesn't change. They will be cleared once a new target is chosen.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Mage's normal attack increases its own ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, up to 20 stacks. The stacks are permanent if the target doesn't change. They will be cleared once a new target is chosen.</span><span style="color: black">
 
 ### Regular Skill 1 : Hurricane
- **Description:** <span style="color: #645252;font-size:20px">The Mage unit summons a tornado to pick up 1 random enemy back-row unit, making it unable to attack and cast skills, while increasing its unit's damage reduction by 100%. A tornado applies <span style="color: #48b946;font-size:20px">\"Static\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to the target unit. The tornado and static lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. (The back-row refers to the hostile unit standing at the end of each line)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Mage unit summons a tornado to pick up 1 random enemy back-row unit, making it unable to attack and cast skills, while increasing its unit's damage reduction by 100%. A tornado applies <span style="color: #48b946;font-size:20px">\"Static\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to the target unit. The tornado and static lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. (The back-row refers to the hostile unit standing at the end of each line)</span><span style="color: black">
 
 ### Regular Skill 2 : Energy Loss
- **Description:** <span style="color: #645252;font-size:20px">When Mage units are on the battlefield, Enemy Hero's spell recovery speed decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.05+0.25}</span><span style="color: black"><span style="color: #645252;font-size:20px">,When friend hero cast air spell, Mage will recover friend hero 2 mana.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Mage units are on the battlefield, Enemy Hero's spell recovery speed decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">,When friend hero cast air spell, Mage will recover friend hero 2 mana.</span><span style="color: black">
 
 ### Regular Skill 3 : Magic Field
- **Description:** <span style="color: #645252;font-size:20px">When battle starts, the Mage unit increases all friendly units damage  in its path by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. For Caster Units, the effect doubles.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When battle starts, the Mage unit increases all friendly units damage  in its path by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. For Caster Units, the effect doubles.</span><span style="color: black">
 
 ### Faction Special Skill I : Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Energy Dynamite
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*2+10)"
+    let str6 = "(LEVEL*1.5+4)"
+    let str3 = "LEVEL*0.05+0.25"
+    let str4 = "(LEVEL*0.5+2.5)"
+    let str1 = "LEVEL*1+4"
+    let str2 = "LEVEL*0.5+4.5"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

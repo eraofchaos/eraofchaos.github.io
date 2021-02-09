@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Unicorn"
 toc: true
@@ -90,24 +90,57 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: null
  **Description:** 
 
 ### Regular Skill 1 : Flickering Figures
- **Description:** <span style="color: #645252;font-size:20px">Every time the Unicorn dodges, it has a great chance of creating a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for itself that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Every time the Unicorn dodges, it has a great chance of creating a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for itself that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP.</span><span style="color: black">
 
 ### Regular Skill 2 : Angelic Light
- **Description:** <span style="color: #645252;font-size:20px">&lt;Blind&gt; increases the unit's damage taken by the target by additional </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">&lt;Blind&gt; increases the unit's damage taken by the target by additional </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : Bold Leader
- **Description:** <span style="color: #645252;font-size:20px">Unicorn's dodge increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*20+80}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants the Unicorn 40 extra dodge for every friendly Charging Unit on the battlefield.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Unicorn's dodge increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants the Unicorn 40 extra dodge for every friendly Charging Unit on the battlefield.</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*0.9+2.4)"
+    let str3 = "LEVEL*20+80"
+    let str4 = "(LEVEL*1.5+7.5)"
+    let str1 = "(LEVEL*1.5+6)"
+    let str2 = "LEVEL*1+9"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

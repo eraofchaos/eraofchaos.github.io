@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Units Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Dendroid Guard"
 toc: true
@@ -93,24 +93,59 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Bind
- **Description:** <span style="color: #645252;font-size:20px">The Dendroid Guard unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"slow\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to surrounding hostile units within a large range and reduces their ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.5+13.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Dendroid Guard unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"slow\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to surrounding hostile units within a large range and reduces their ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
 
 ### Regular Skill 1 : Crushing Roll
- **Description:** <span style="color: #645252;font-size:20px">The Dendroid Guard's normal attack has a great chance to create a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself to absorb damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.4+3.6)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Dendroid Guard's normal attack has a great chance to create a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself to absorb damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
 ### Regular Skill 2 : Armor of Petrified Wood
- **Description:** <span style="color: #645252;font-size:20px">The Dendroid Guard is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, and his HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Dendroid Guard is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, and his HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : Wooden Stake
- **Description:** <span style="color: #645252;font-size:20px">When a Dendroid Guard is under attack, it will reflect damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.4+1.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK, making the attacker </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Dendroid Guard is under attack, it will reflect damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK, making the attacker </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*1.5+7.5)"
+    let str6 = "(LEVEL*0.9+2.4)"
+    let str3 = "(LEVEL*4+16)"
+    let str4 = "LEVEL*0.4+1.6"
+    let str1 = "LEVEL*1.5+13.5"
+    let str2 = "(LEVEL*0.4+3.6)"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

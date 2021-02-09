@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Units Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Wight"
 toc: true
@@ -89,24 +89,59 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Horrific Shrieking
- **Description:** <span style="color: #645252;font-size:20px">When a Wight unit is on the battlefield, their 1st attack </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silences&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> enemy units in its path within a large range for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.8+4}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Wight unit is on the battlefield, their 1st attack </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silences&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> enemy units in its path within a large range for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 1 : Incarnation of Horror
- **Description:** <span style="color: #645252;font-size:20px">Wight's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases ATK by 8% for every friendly unit's death on the battlefield, lasting throughout the entire battle, up to 10 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wight's ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases ATK by 8% for every friendly unit's death on the battlefield, lasting throughout the entire battle, up to 10 stacks.</span><span style="color: black">
 
 ### Regular Skill 2 : Misfortune Curse
- **Description:** <span style="color: #645252;font-size:20px">When a Wight unit is downed, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silences&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all hostile units for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Wight unit is downed, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silences&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all hostile units for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 3 : Invisibility
- **Description:** <span style="color: #645252;font-size:20px">Wight's magic resistance increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever it takes enemy spell damage, the hero restores 10 mana.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wight's magic resistance increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever it takes enemy spell damage, the hero restores 10 mana.</span><span style="color: black">
 
 ### Faction Special Skill I : Dismal Defense
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Harmony
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*1+10)"
+    let str6 = "(LEVEL*0.5+2.5)"
+    let str3 = "LEVEL*0.5+4.5"
+    let str4 = "LEVEL*1+9"
+    let str1 = "LEVEL*0.8+4"
+    let str2 = "LEVEL*3+12"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Units As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Regnan Seer"
 toc: true
@@ -87,27 +87,68 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Stormy Sea
- **Description:** <span style="color: #645252;font-size:20px">Regnan Seer summons a waterspout from the deep every 25s, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2.5+12.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.1+1.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to 2 hostile units within the area every 0.5s. At the same time, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;emaciates&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the targets. For &lt;deterred&gt; hostile units, the damage is increased by 30%. The waterspout lasts for 5s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Seer summons a waterspout from the deep every 25s, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to 2 hostile units within the area every 0.5s. At the same time, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;emaciates&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the targets. For &lt;deterred&gt; hostile units, the damage is increased by 30%. The waterspout lasts for 5s.</span><span style="color: black">
 
 ### Regular Skill 1 : Lineage of Neptune
- **Description:** <span style="color: #645252;font-size:20px">Regnan Seer's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*5+25)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When HP is lower than 40%, summons a Regnan Serpent unit and stuns all hostile units for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.1+0.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. Triggers <span style="color: #F0F000;font-size:20px">&lt;Azure Protection&gt;</span><span style="color: black"> when only 10% HP is left
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Seer's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When HP is lower than 40%, summons a Regnan Serpent unit and stuns all hostile units for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. Triggers <span style="color: #F0F000;font-size:20px">&lt;Azure Protection&gt;</span><span style="color: black"> when only 10% HP is left
 
 ### Regular Skill 2 : Deep Fear
- **Description:** <span style="color: #645252;font-size:20px">After battle has started for 5s, increases penetration of all friendly units on its path by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*15+75)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Emaciates&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units for 5s. Triggered once every 20s</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">After battle has started for 5s, increases penetration of all friendly units on its path by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Emaciates&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units for 5s. Triggered once every 20s</span><span style="color: black">
 
 ### Regular Skill 3 : Raging Waves
- **Description:** <span style="color: #645252;font-size:20px">For each additional Cove unit deployed, Regnan Seer's unit's damage will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.3+1.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Stormy Sea has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+0)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to summon 1 small waterspout</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">For each additional Cove unit deployed, Regnan Seer's unit's damage will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Stormy Sea has a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to summon 1 small waterspout</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Body
- **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
 ### Faction Special Skill II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Regular Skill 6 : Ocean's Fury
  **Description:** When 3 Cove Faction units are deployed, Regnan Seer increases her ATK speed and unit damage reduction. When the battle starts after 10s, Regnan Seer releases Deep Fear to trigger Ocean's Domain for 15. Cooldown is 30s
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*2+0)"
+    let str8 = "(LEVEL*1+5)"
+    let str5 = "(LEVEL*15+75)"
+    let str6 = "(LEVEL*0.3+1.5)"
+    let str3 = "(LEVEL*5+25)"
+    let str4 = "(LEVEL*0.1+0.5)"
+    let str1 = "(LEVEL*2.5+12.5)"
+    let str2 = "(LEVEL*0.1+1.5)"
+    let str9 = "(LEVEL*1+5)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

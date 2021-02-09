@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Units A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Manticore"
 toc: true
@@ -86,21 +86,54 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Paralyzing Venom
- **Description:** <span style="color: #645252;font-size:20px">Manticores will attack the target unit every 20s, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((LEVEL*8+72))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target and its surrounding enemies within a certain range while decreasing their DEF by 30% for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Manticores will attack the target unit every 20s, dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target and its surrounding enemies within a certain range while decreasing their DEF by 30% for 10s.</span><span style="color: black">
 
 ### Regular Skill 1 : Tactical Decision
- **Description:** <span style="color: #645252;font-size:20px">The Manticore's normal attack has a 25% chance of decreasing unit's damage reduction of Melee units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+0.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against Ranged/Caster units, the normal attack has a 25% chance to increase Crit Hit of friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+7}</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s, up to 8 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Manticore's normal attack has a 25% chance of decreasing unit's damage reduction of Melee units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against Ranged/Caster units, the normal attack has a 25% chance to increase Crit Hit of friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s, up to 8 stacks.</span><span style="color: black">
 
 ### Regular Skill 2 : null
  **Description:** 
 
 ### Regular Skill 3 : Spattered Poisoned Blood
- **Description:** <span style="color: #645252;font-size:20px">When a target is downed, all hostile units' DEF will lose 30% DEF and be <span style="color: #48b946;font-size:20px">&lt;silenced&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.3+3}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. Only triggered once throughout the entire battle.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a target is downed, all hostile units' DEF will lose 30% DEF and be <span style="color: #48b946;font-size:20px">&lt;silenced&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. Only triggered once throughout the entire battle.</span><span style="color: black">
 
 ### Faction Special Skill : Dark Conflict
- **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*1+5)"
+    let str3 = "LEVEL*3+7"
+    let str4 = "LEVEL*0.3+3"
+    let str1 = "((LEVEL*8+72))*0.01*ATK"
+    let str2 = "LEVEL*0.2+0.4"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

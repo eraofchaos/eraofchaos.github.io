@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Units A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Black Dragon"
 toc: true
@@ -88,21 +88,60 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Dragon Breath
- **Description:** <span style="color: #645252;font-size:20px">The Black Dragon deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((LEVEL*5+65))*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all hostile units in a very large area every 15s, while causing additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to nearby units and <span style="color: #48b946;font-size:20px">\"Burning\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Black Dragon deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all hostile units in a very large area every 15s, while causing additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to nearby units and <span style="color: #48b946;font-size:20px">\"Burning\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 6s.</span><span style="color: black">
 
 ### Regular Skill 1 : Black Dragon Scale
- **Description:** <span style="color: #645252;font-size:20px">The Black Dragon is immune to <span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and <span style="color: #48b946;font-size:20px">&lt;Burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. When hit by a Crit Hit, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. CD is 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Black Dragon is immune to <span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and <span style="color: #48b946;font-size:20px">&lt;Burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. When hit by a Crit Hit, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP. CD is 6s.</span><span style="color: black">
 
 ### Regular Skill 2 : Magic Immunity
- **Description:** <span style="color: #645252;font-size:20px">Immune to spell damage done by all heroes. Increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.25+1.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time &lt;Dragon Breath&gt; is cast throughout the entire battle, up to 4 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Immune to spell damage done by all heroes. Increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time &lt;Dragon Breath&gt; is cast throughout the entire battle, up to 4 stacks.</span><span style="color: black">
 
 ### Regular Skill 3 : Heat Resistance
- **Description:** <span style="color: #645252;font-size:20px">Black Dragon's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against <span style="color: #48b946;font-size:20px">&lt;Burned&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, the damage reduction effect doubles. When Black Dragon is fighting against Tower Faction units, its unit DMG is increased by 50% and unit DMG reduction increased by 50%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Black Dragon's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its Defense is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against <span style="color: #48b946;font-size:20px">&lt;Burned&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, the damage reduction effect doubles. When Black Dragon is fighting against Tower Faction units, its unit DMG is increased by 50% and unit DMG reduction increased by 50%.</span><span style="color: black">
 
 ### Faction Special Skill : Dark Conflict
- **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*1+5"
+    let str8 = "(LEVEL*1+5)"
+    let str5 = "LEVEL*0.25+1.25"
+    let str6 = "LEVEL*1+9"
+    let str3 = "LEVEL*0.5+4.5"
+    let str4 = "LEVEL*0.5+2.5"
+    let str1 = "((LEVEL*5+65))*0.01*ATK"
+    let str2 = "LEVEL*0.2+1.8"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

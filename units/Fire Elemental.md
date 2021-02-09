@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Units An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Fire Elemental"
 toc: true
@@ -85,24 +85,63 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Heavenly Fire
- **Description:** <span style="color: #645252;font-size:20px">The Fire Elemental unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*15+285)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 1 hostile unit, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> it for 15s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Fire Elemental unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 1 hostile unit, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Burns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> it for 15s.</span><span style="color: black">
 
 ### Regular Skill 1 : null
  **Description:** 
 
 ### Regular Skill 2 : Elemental Force
- **Description:** <span style="color: #645252;font-size:20px">When Fire Elemental unit is on the battlefield, it increases magic resistance of fire spells for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.8+5.7}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces magic resistance of fire spells for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.2+3.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Fire Elemental is on the battlefield, reduces enemy hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.01+0.19}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Fire Elemental unit is on the battlefield, it increases magic resistance of fire spells for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces magic resistance of fire spells for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Fire Elemental is on the battlefield, reduces enemy hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : Fire Energy Conductor
- **Description:** <span style="color: #645252;font-size:20px">Fire Elemental restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Max HP for each hostile unit it kills   and increases its ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.5+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Works throughout the entire battle, up to 3 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Fire Elemental restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Max HP for each hostile unit it kills   and increases its ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Works throughout the entire battle, up to 3 stacks.</span><span style="color: black">
 
 ### Faction Special Skill I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Elemental Conflict
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*3+15)"
+    let str8 = "(LEVEL*1+5)"
+    let str5 = "LEVEL*0.5+4.5"
+    let str6 = "LEVEL*1.5+6"
+    let str3 = "LEVEL*1.2+3.8"
+    let str4 = "LEVEL*0.01+0.19"
+    let str1 = "(LEVEL*15+285)*0.01*ATK"
+    let str2 = "LEVEL*1.8+5.7"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Units Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Berserker"
 toc: true
@@ -88,24 +88,69 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: null
  **Description:** 
 
 ### Regular Skill 1 : War Fury
- **Description:** <span style="color: #645252;font-size:20px">The Berserker's attack can increase by up to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*16+60)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> as its HP reduces. The Berserker cries out every 20s, increasing his own unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.8+3)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> while </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;deterring&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all hostile units for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Berserker's attack can increase by up to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> as its HP reduces. The Berserker cries out every 20s, increasing his own unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> while </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;deterring&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all hostile units for 10s.</span><span style="color: black">
 
 ### Regular Skill 2 : Rampage
- **Description:** <span style="color: #645252;font-size:20px">The Berserker is immune to &lt;petrification&gt; and&lt;stun&gt;. Berserker's ATK speed increased by <span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black">. The effect doubles when his HP is lower than 35%. (Still works when HP is restored)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Berserker is immune to &lt;petrification&gt; and&lt;stun&gt;. Berserker's ATK speed increased by <span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black">. The effect doubles when his HP is lower than 35%. (Still works when HP is restored)</span><span style="color: black">
 
 ### Regular Skill 3 : Immortal War God
- **Description:** <span style="color: #645252;font-size:20px">For each additional Stronghold unit deployed, increases Berserker's unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.2+0.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*3+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Berserker unit turns into a Mars Statue when it dies, increasing friendly Stronghold units' damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and regenerating </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.1+0)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">For each additional Stronghold unit deployed, increases Berserker's unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Berserker unit turns into a Mars Statue when it dies, increasing friendly Stronghold units' damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and regenerating </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
 ### Faction Special Skill I : Fight Zealot
- **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
 
 ### Faction Special Skill II : Rise of Vitality
- **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+5)"
+    let str8 = "(LEVEL*0.1+0)"
+    let str5 = "(LEVEL*0.2+0.8)"
+    let str6 = "(LEVEL*3+15)"
+    let str3 = "(LEVEL*2+10)"
+    let str4 = "(LEVEL*1+5)"
+    let str1 = "(LEVEL*16+60)"
+    let str2 = "(LEVEL*0.8+3)"
+    let str10 = "(LEVEL*300+1200)"
+    let str11 = "(LEVEL*0.3+1)"
+    let str9 = "(LEVEL*0.3+0.5)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

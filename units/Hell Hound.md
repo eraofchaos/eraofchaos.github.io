@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Units Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Hell Hound"
 toc: true
@@ -89,24 +89,61 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Fire
- **Description:** <span style="color: #645252;font-size:20px">Hell Hound is guaranteed to land a Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+9.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Hell Hound is guaranteed to land a Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 1 : Three-Headed Attack
- **Description:** <span style="color: #645252;font-size:20px">When the Hell Hound is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.08+46.17}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 members of the hostile unit, and makes them </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Hell Hound is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 members of the hostile unit, and makes them </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;bleed&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
 ### Regular Skill 2 : Bloodlust
- **Description:** <span style="color: #645252;font-size:20px">When the Hell Hound is fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, its unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Hell Hound is fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> units, its unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : Inferno
- **Description:** <span style="color: #645252;font-size:20px">Hell Hound's Crit DMG increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*3+12)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Hell Hound's Crit DMG will be increased by 3% for every Inferno Faction unit deployed.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Hell Hound's Crit DMG increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Hell Hound's Crit DMG will be increased by 3% for every Inferno Faction unit deployed.</span><span style="color: black">
 
 ### Faction Special Skill I : Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Resistance Resonance
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+2.5)"
+    let str5 = "(LEVEL*10+50)"
+    let str6 = "(LEVEL*0.5+7.5)"
+    let str3 = "LEVEL*3+12"
+    let str4 = "(LEVEL*3+12)"
+    let str1 = "LEVEL*0.5+9.5"
+    let str2 = "LEVEL*1.08+46.17"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Units Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Judicator"
 toc: true
@@ -84,27 +84,66 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Ray of Judgment
- **Description:** <span style="color: #645252;font-size:20px">The Judicator summons 2 Rays of Judgment every 25s. When the rays appear, they <span style="color: #48b946;font-size:20px">\"stun\"</span><span style="color: black"> hostile units within range for 1s and cause damage equal to <span style="color: #48b946;font-size:20px">{(LEVEL*0.1+0.2)}%</span><span style="color: black"> of Max HP, and decrease hostiles' healing by <span style="color: #48b946;font-size:20px">{(LEVEL*1.5+7.5)}%</span><span style="color: black"> for 8s</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Judicator summons 2 Rays of Judgment every 25s. When the rays appear, they <span style="color: #48b946;font-size:20px">\"stun\"</span><span style="color: black"> hostile units within range for 1s and cause damage equal to <span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"> of Max HP, and decrease hostiles' healing by <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"> for 8s</span><span style="color: black">
 
 ### Regular Skill 1 : Blessing
- **Description:** <span style="color: #645252;font-size:20px">When engaged, the Judicator applies <span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"> to all friendly units for 10s. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">The Judicator applies </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> to all friendly units in his path every <span style="color: #48b946;font-size:20px">{(LEVEL*-0.1+25)}</span><span style="color: black">s. The effect lasts for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When engaged, the Judicator applies <span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"> to all friendly units for 10s. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">The Judicator applies </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> to all friendly units in his path every <span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black">s. The effect lasts for 10s.</span><span style="color: black">
 
 ### Regular Skill 2 : Blessing of Light
- **Description:** <span style="color: #645252;font-size:20px">When a friendly unit's HP is lower than 25% for the first time, the Judicator casts <span style="color: #48b946;font-size:20px">&lt;Light Shelter&gt;</span><span style="color: black"> to protect companions for <span style="color: #48b946;font-size:20px">{(LEVEL*0.2+3.2)}</span><span style="color: black"> seconds. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When fighting Inferno units, Judicator gains an additional 30% Unit DMG and 50% Unit DMG Reduction.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a friendly unit's HP is lower than 25% for the first time, the Judicator casts <span style="color: #48b946;font-size:20px">&lt;Light Shelter&gt;</span><span style="color: black"> to protect companions for <span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"> seconds. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"></span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When fighting Inferno units, Judicator gains an additional 30% Unit DMG and 50% Unit DMG Reduction.</span><span style="color: black">
 
 ### Regular Skill 3 : null
  **Description:** 
 
 ### Faction Special Skill I : Siege Combat
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
 ### Faction Special Skill II : Defense Resonance
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Regular Skill 6 : Halo of Theocracy
- **Description:** <span style="color: #645252;font-size:20px">When 3 Castle Faction units are deployed, the Judicator increases unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and his own Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*22+70)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Judicator is in <span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"> state, he can reveal a <span style="color: #F0F000;font-size:20px">&lt;Theocratic Domain&gt;</span><span style="color: black"> <span style="color: #645252;font-size:20px">which expands as the unit skill levels up. The domain exists for 15. CD is 30s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Castle Faction units are deployed, the Judicator increases unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and his own Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Judicator is in <span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"> state, he can reveal a <span style="color: #F0F000;font-size:20px">&lt;Theocratic Domain&gt;</span><span style="color: black"> <span style="color: #645252;font-size:20px">which expands as the unit skill levels up. The domain exists for 15. CD is 30s.</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*2+5)"
+    let str8 = "(LEVEL*22+70)"
+    let str5 = "(LEVEL*1.5+2.5)"
+    let str6 = "(LEVEL*0.5+2.5)"
+    let str3 = "(LEVEL*-0.1+25)"
+    let str4 = "(LEVEL*0.2+3.2)"
+    let str1 = "(LEVEL*0.1+0.2)"
+    let str2 = "(LEVEL*1.5+7.5)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

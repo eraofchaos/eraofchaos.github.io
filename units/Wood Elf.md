@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Wood Elf"
 toc: true
@@ -92,24 +92,59 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: null
  **Description:** 
 
 ### Regular Skill 1 : Double Strike
- **Description:** <span style="color: #645252;font-size:20px">The Wood Elf has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to shoot 2 arrows when using a normal attack. The 2nd arrow causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+47}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Slow&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of &lt;Double Strike&gt; is increased to 100%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Wood Elf has a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to shoot 2 arrows when using a normal attack. The 2nd arrow causes </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the target. When fighting against </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Slow&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets, the trigger chance of &lt;Double Strike&gt; is increased to 100%.</span><span style="color: black">
 
 ### Regular Skill 2 : Elf Shelter
- **Description:** <span style="color: #645252;font-size:20px">Each Wood Elf gets 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time a hostile hero casts a spell, absorbing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.75+11.25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP for 5s. CD is 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Each Wood Elf gets 1 </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> every time a hostile hero casts a spell, absorbing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP for 5s. CD is 10s.</span><span style="color: black">
 
 ### Regular Skill 3 : Concentrate fire on their leader
- **Description:** <span style="color: #645252;font-size:20px">Wood Elf's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*20+80}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants 40 extra Crit Hit for the Wood Elf for every friendly Ranged unit on the battlefield.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Wood Elf's Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Grants 40 extra Crit Hit for the Wood Elf for every friendly Ranged unit on the battlefield.</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*1.5+7.5)"
+    let str6 = "(LEVEL*0.9+2.4)"
+    let str3 = "LEVEL*0.75+11.25"
+    let str4 = "LEVEL*20+80"
+    let str1 = "LEVEL*1+9"
+    let str2 = "LEVEL*3+47"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

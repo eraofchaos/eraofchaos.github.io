@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Units He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Dark Champion"
 toc: true
@@ -88,27 +88,70 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Sickle of Silence
- **Description:** <span style="color: #645252;font-size:20px">Causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*10+50}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+12.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to the target every 24s, while </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 10s. Dark Champion restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK per normal attack</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Causes </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to the target every 24s, while </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleeding\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 10s. Dark Champion restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK per normal attack</span><span style="color: black">
 
 ### Regular Skill 1 : The End of Fate
  **Description:** <span style="color: #645252;font-size:20px">When Dark Champion is on the battlefield, units in \"Low Morale\" will be terminated if their HP is lower than 5% at that moment. Casts </span><span style="color: black"><span style="color: #F0F000;font-size:20px">\"Misfortune Curse\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> every 13s.</span><span style="color: black">
 
 ### Regular Skill 2 : Gloomy Graves
- **Description:** <span style="color: #645252;font-size:20px">When the target's HP is less than 40%, Dark Champion buries the target unit under a tombstone for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+2.8}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. The buried unit is silenced and cannot be healed, and is also incapable of moving and attacking. During this time, all damage it takes will be shifted to 4 random enemy ranged units. While the tombstone still exists, all friendly Necropolis units within range will have </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their Max HP restored per second. CD is 28s</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the target's HP is less than 40%, Dark Champion buries the target unit under a tombstone for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. The buried unit is silenced and cannot be healed, and is also incapable of moving and attacking. During this time, all damage it takes will be shifted to 4 random enemy ranged units. While the tombstone still exists, all friendly Necropolis units within range will have </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their Max HP restored per second. CD is 28s</span><span style="color: black">
 
 ### Regular Skill 3 : Bones Monarch
- **Description:** <span style="color: #645252;font-size:20px">unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. HP given by the End of Fate will be increased by an extra 4% for every Necropolis unit on the battlefield. HP given by End of Fate will be increased by an extra 1% for every unit the Necropolis summons onto the battlefield. HP can be increased by up to 25% by The End of Fate. When a friendly hero casts an earth spell, shorten 1 random spell's CD by 4s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. HP given by the End of Fate will be increased by an extra 4% for every Necropolis unit on the battlefield. HP given by End of Fate will be increased by an extra 1% for every unit the Necropolis summons onto the battlefield. HP can be increased by up to 25% by The End of Fate. When a friendly hero casts an earth spell, shorten 1 random spell's CD by 4s.</span><span style="color: black">
 
 ### Faction Special Skill I : Dismal Defense
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Harmony
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">
 
 ### Regular Skill 6 : Silent Graveyard
- **Description:** <span style="color: #645252;font-size:20px">When 3 Necropolis units are deployed, Dark Champion increases his own ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When [Misfortune Curse] is cast, a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> reveals for 15s. Its domain expands as the skill levels up. CD is 30s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Necropolis units are deployed, Dark Champion increases his own ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When [Misfortune Curse] is cast, a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> reveals for 15s. Its domain expands as the skill levels up. CD is 30s.</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+10)"
+    let str8 = "(LEVEL*0.5+2.5)"
+    let str5 = "LEVEL*0.2+1"
+    let str6 = "LEVEL*1+15"
+    let str3 = "LEVEL*1+5"
+    let str4 = "LEVEL*0.2+2.8"
+    let str1 = "LEVEL*10+50"
+    let str2 = "LEVEL*0.5+12.5"
+    let str10 = "LEVEL*1+15"
+    let str9 = "LEVEL*1+15"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

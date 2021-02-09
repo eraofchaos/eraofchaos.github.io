@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Units They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Regnan Pirates"
 toc: true
@@ -86,24 +86,61 @@ toc: true
   none
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Tidal Plunder
- **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' normal attack can cause damage twice. At the beginning of battle, Regnan Pirates are guaranteed to hit the target when attacking. Its unit's damage is also increased by 30% for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+14.5)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' normal attack can cause damage twice. At the beginning of battle, Regnan Pirates are guaranteed to hit the target when attacking. Its unit's damage is also increased by 30% for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
 
 ### Regular Skill 1 : Tactical Skill
- **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' ATK increases by 20%. Pirates receive an increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.2+1.8)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage reduction for 6s whenever they're attacked. The effect can stack up to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(5*(LEVEL*0.2+1.8))}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' ATK increases by 20%. Pirates receive an increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage reduction for 6s whenever they're attacked. The effect can stack up to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 2 : Naked Blade
- **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*50+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Decreases target unit's DEF by 2% for 6s whenever a Crit Hit is landed. The effect can be stacked up to 20%</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates' Crit Hit increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Decreases target unit's DEF by 2% for 6s whenever a Crit Hit is landed. The effect can be stacked up to 20%</span><span style="color: black">
 
 ### Regular Skill 3 : Prudence and Greed
- **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates cause more damage as their HP reduces. Regnan Pirates' ATK increases as the target's HP decreases. Their ATK can increase by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*4+56)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> at most</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Regnan Pirates cause more damage as their HP reduces. Regnan Pirates' ATK increases as the target's HP decreases. Their ATK can increase by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> at most</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Body
- **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
 ### Faction Special Skill II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+5)"
+    let str5 = "(LEVEL*4+56)"
+    let str6 = "(LEVEL*1+5)"
+    let str3 = "(5*(LEVEL*0.2+1.8))"
+    let str4 = "(LEVEL*50+50)"
+    let str1 = "(LEVEL*0.5+14.5)"
+    let str2 = "(LEVEL*0.2+1.8)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

@@ -91,7 +91,7 @@ toc: true
 ## Skills
  <form id="form">
   <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
-  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="99999" value="1000"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
   <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>

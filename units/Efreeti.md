@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Units Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Efreeti"
 toc: true
@@ -89,24 +89,65 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Firestorm
- **Description:** <span style="color: #645252;font-size:20px">Efreeti casts Firestorm on a target area, which will deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*8+152)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all enemy units within the area, and cause </span><span style="color: black"><span style="color: #48b946;font-size:20px">burning</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15 seconds.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Efreeti casts Firestorm on a target area, which will deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to all enemy units within the area, and cause </span><span style="color: black"><span style="color: #48b946;font-size:20px">burning</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15 seconds.</span><span style="color: black">
 
 ### Regular Skill 1 : Flaming Shield
- **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Efreeti unit creates a &lt;Flaming shield&gt; for all friendly Inferno units that reflects 15% of damage taken over the next </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+13)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Efreeti unit creates a &lt;Flaming shield&gt; for all friendly Inferno units that reflects 15% of damage taken over the next </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 2 : Red-hot
- **Description:** <span style="color: #645252;font-size:20px">Efreeti's &lt;Fire Shield&gt; increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Efreeti's &lt;Fire Shield&gt; increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : God of Fire
- **Description:** <span style="color: #645252;font-size:20px">Efreeti's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Efreeti's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Resistance Resonance
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*10+50)"
+    let str8 = "(LEVEL*0.5+7.5)"
+    let str5 = "LEVEL*3+12"
+    let str6 = "LEVEL*1+4"
+    let str3 = "LEVEL*1+4"
+    let str4 = "LEVEL*1+4"
+    let str1 = "(LEVEL*8+152)*0.01*ATK"
+    let str2 = "(LEVEL*2+13)"
+    let str9 = "(LEVEL*0.5+2.5)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

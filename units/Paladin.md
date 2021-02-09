@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Units Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Paladin"
 toc: true
@@ -88,24 +88,57 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: null
  **Description:** 
 
 ### Regular Skill 1 : Leadership
- **Description:** <span style="color: #645252;font-size:20px">Paladin unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles if under </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> effect.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Paladin unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles if under </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> effect.</span><span style="color: black">
 
 ### Regular Skill 2 : Incentive
- **Description:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Low Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Paladin gives himself and friendly units within a large range </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and 500 Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+11)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Low Morale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Paladin gives himself and friendly units within a large range </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> and 500 Crit Hit for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
 
 ### Regular Skill 3 : Innocent Domain
- **Description:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases all friendly units' damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when the Paladin is on the battlefield.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Paladin is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases all friendly units' damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when the Paladin is on the battlefield.</span><span style="color: black">
 
 ### Faction Special Skill I : Siege Combat
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at slaying dragons. When fighting against 1-man unit, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black">
 
 ### Faction Special Skill II : Defense Resonance
- **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*0.5+2.5)"
+    let str3 = "LEVEL*0.5+9.5"
+    let str4 = "(LEVEL*1.5+2.5)"
+    let str1 = "LEVEL*1+9"
+    let str2 = "(LEVEL*1+11)"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

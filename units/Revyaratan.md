@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Units A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Revyaratan"
 toc: true
@@ -86,24 +86,71 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Fierce-looking Jaw
- **Description:** <span style="color: #645252;font-size:20px">Causes additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*6+30}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the targets every 10s while </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;deterring&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units on the same path for 4s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Causes additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to the targets every 10s while </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;deterring&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units on the same path for 4s.</span><span style="color: black">
 
 ### Regular Skill 1 : Ice-cold Fin
- **Description:** <span style="color: #645252;font-size:20px">Immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Freeze&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Time Stop&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> statuses, and water spell DMG. For each Cove unit deployed, Unit DMG increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.1+1.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Revyaratan is deployed, all friendly units gets a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> increase in Unit DMG, Attack Speed, and Crit DMG. For Cove faction units, this effect is increased by an additional 2.5%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Freeze&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Time Stop&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> statuses, and water spell DMG. For each Cove unit deployed, Unit DMG increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Revyaratan is deployed, all friendly units gets a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> increase in Unit DMG, Attack Speed, and Crit DMG. For Cove faction units, this effect is increased by an additional 2.5%.</span><span style="color: black">
 
 ### Regular Skill 2 : Skeleton Covet
- **Description:** <span style="color: #645252;font-size:20px">Increases Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Marks 2 enemy units at the start of battle. Marked units get a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+0}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduction in Attack Speed, Crit DMG, and Unit DMG Reduction. They also cannot be revived by Angel skills after their first death. &lt;Fierce-looking Jaw&gt; has a 30% chance of recovering </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own max HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Marks 2 enemy units at the start of battle. Marked units get a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> reduction in Attack Speed, Crit DMG, and Unit DMG Reduction. They also cannot be revived by Angel skills after their first death. &lt;Fierce-looking Jaw&gt; has a 30% chance of recovering </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own max HP.</span><span style="color: black">
 
 ### Regular Skill 3 : The Unbending Undercurrents
- **Description:** <span style="color: #645252;font-size:20px">When a friendly Cove unit suffers damage that is higher than 20% of its Max HP, the Sea Monster will be infuriated that will increase unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly Cove units for 25s, up to 5 stacks</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a friendly Cove unit suffers damage that is higher than 20% of its Max HP, the Sea Monster will be infuriated that will increase unit damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly Cove units for 25s, up to 5 stacks</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Body
- **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
 ### Faction Special Skill II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*1+0"
+    let str8 = "LEVEL*0.5+2.5"
+    let str5 = "LEVEL*0.5+0"
+    let str6 = "LEVEL*1+5"
+    let str3 = "LEVEL*0.1+1.5"
+    let str4 = "LEVEL*0.2+1"
+    let str1 = "LEVEL*0.5+4.5"
+    let str2 = "LEVEL*6+30"
+    let str12 = "(LEVEL*1+5)"
+    let str10 = "LEVEL*0.2+1"
+    let str11 = "(LEVEL*1+5)"
+    let str9 = "LEVEL*0.2+2"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

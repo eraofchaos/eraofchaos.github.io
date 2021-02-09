@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Units Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Cyclops"
 toc: true
@@ -90,24 +90,67 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Flamestone
- **Description:** <span style="color: #645252;font-size:20px">Cyclops throws fire-stones within a large range in front of it, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the hostile units there and causing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+9.5)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 2s for 8s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cyclops throws fire-stones within a large range in front of it, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the hostile units there and causing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 2s for 8s.</span><span style="color: black">
 
 ### Regular Skill 1 : Siege Strike
- **Description:** <span style="color: #645252;font-size:20px">Cyclops increase </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack speed. When HP of Cyclops  lower than 35%, effect doubles (It still works after HP is restored). When the Cyclops is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+39}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 members of the hostile unit.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cyclops increase </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">attack speed. When HP of Cyclops  lower than 35%, effect doubles (It still works after HP is restored). When the Cyclops is fighting against a 9-man unit, its normal attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> AoE damage to 3 members of the hostile unit.</span><span style="color: black">
 
 ### Regular Skill 2 : Earthshaker
- **Description:** <span style="color: #645252;font-size:20px">When under attack, the Cyclops has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage hostile units within a large range, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When under attack, the Cyclops has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage hostile units within a large range, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
 
 ### Regular Skill 3 : Giant
- **Description:** <span style="color: #645252;font-size:20px">Cyclops' HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*4+16}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When facing a 9-man unit, unit's damage taken is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cyclops' HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When facing a 9-man unit, unit's damage taken is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Fight Zealot
- **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.3+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
 
 ### Faction Special Skill II : Rise of Vitality
- **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*300+1200)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*1+14"
+    let str8 = "(LEVEL*0.3+0.5)"
+    let str5 = "(LEVEL*1+9)*0.01*ATK"
+    let str6 = "LEVEL*4+16"
+    let str3 = "LEVEL*0.5+2.5"
+    let str4 = "LEVEL*1+39"
+    let str1 = "(LEVEL*0.5+9.5)*0.01*ATK"
+    let str2 = "LEVEL*0.5+2.5"
+    let str10 = "(LEVEL*0.3+1)"
+    let str9 = "(LEVEL*300+1200)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

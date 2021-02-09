@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Units An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Psychic Elemental"
 toc: true
@@ -84,24 +84,61 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Energy Blast
- **Description:** <span style="color: #645252;font-size:20px">Psychic Elementals are immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Each Psychic Elemental attacks 3 members of the hostile unit every 4s, causing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*4+56}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Psychic Elementals are immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Each Psychic Elemental attacks 3 members of the hostile unit every 4s, causing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its ATK.</span><span style="color: black">
 
 ### Regular Skill 1 : Earth
- **Description:** <span style="color: #645252;font-size:20px">Psychic Elemental units' unit damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Psychic Elemental's &lt;Energy Blast&gt; has a 30% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stun&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target unit for 3s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Psychic Elemental units' unit damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The Psychic Elemental's &lt;Energy Blast&gt; has a 30% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stun&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target unit for 3s.</span><span style="color: black">
 
 ### Regular Skill 2 : Fire
- **Description:** <span style="color: #645252;font-size:20px">Psychic Elemental unit damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Psychic Elemental's &lt;Energy Blast&gt; has a 30% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burn&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Psychic Elemental unit damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Psychic Elemental's &lt;Energy Blast&gt; has a 30% chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;burn&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target for 6s.</span><span style="color: black">
 
 ### Regular Skill 3 : Lord of Element
- **Description:** <span style="color: #645252;font-size:20px">Psychic Elemental's magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.2+4.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+6}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever a Psychic Elemental dies, the enemy hero's Mana is reduced by 20.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Psychic Elemental's magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever a Psychic Elemental dies, the enemy hero's Mana is reduced by 20.</span><span style="color: black">
 
 ### Faction Special Skill I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Elemental Conflict
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+5)"
+    let str5 = "LEVEL*1+6"
+    let str6 = "(LEVEL*3+15)"
+    let str3 = "LEVEL*0.5+4.5"
+    let str4 = "LEVEL*1.2+4.8"
+    let str1 = "LEVEL*4+56"
+    let str2 = "LEVEL*0.5+4.5"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

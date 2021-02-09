@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Sea Elemental"
 toc: true
@@ -88,24 +88,61 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Time Spiral
- **Description:** <span style="color: #645252;font-size:20px">The Sea Elemental creates a 10s maelstrom on the ground every 30s, decreasing the ATK speed of all hostile units within the range by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+0.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every second. The maelstrom deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{((LEVEL*10+60))}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within the range when it dissipates</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Sea Elemental creates a 10s maelstrom on the ground every 30s, decreasing the ATK speed of all hostile units within the range by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every second. The maelstrom deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to hostile units within the range when it dissipates</span><span style="color: black">
 
 ### Regular Skill 1 : Gift of Full Tide
- **Description:** <span style="color: #645252;font-size:20px">After entering the battlefield, Sea Elemental creates a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ice shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly units in its path,</span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Slowing\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> the enemy that attacks them. The shield exists for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">After entering the battlefield, Sea Elemental creates a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ice shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly units in its path,</span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Slowing\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> the enemy that attacks them. The shield exists for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
 
 ### Regular Skill 2 : Tidal Rite
- **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Sea Elemental generates a circle to increase its HP by <span style="color: #48b946;font-size:20px">{(LEVEL*1+14)}%</span><span style="color: black">. Decrease healing of hostile units by 1% every 2s throughout the entire battle</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Sea Elemental generates a circle to increase its HP by <span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black">. Decrease healing of hostile units by 1% every 2s throughout the entire battle</span><span style="color: black">
 
 ### Regular Skill 3 : Abyss Cage
- **Description:** <span style="color: #645252;font-size:20px">The Sea Elemental's unit summons a water dungeon every 20s, which picks up 1 random enemy back-row unit, making it unable to attack or cast skills. The water dungeon lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.1+3)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Sea Elemental's unit summons a water dungeon every 20s, which picks up 1 random enemy back-row unit, making it unable to attack or cast skills. The water dungeon lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Body
- **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
 ### Faction Special Skill II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+5)"
+    let str5 = "(LEVEL*0.1+3)"
+    let str6 = "(LEVEL*1+5)"
+    let str3 = "(LEVEL*1+15)"
+    let str4 = "(LEVEL*1+14)"
+    let str1 = "(LEVEL*0.5+0.5)"
+    let str2 = "((LEVEL*10+60))"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Units Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Leprechaun"
 toc: true
@@ -85,24 +85,81 @@ toc: true
   none
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Direct Punch
- **Description:** <span style="color: #645252;font-size:20px">Leprechaun deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*13+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK to the current target unit every 5s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">stuns</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 2s. Also reduces the Penetration of 1 random Melee unit and Ranged/Caster unit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+20}</span><span style="color: black"><span style="color: #645252;font-size:20px"> while additionally dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK. This effect lasts for 6s and can stack up to 3 times.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Whenever skill is triggered, further increases Leprechaun's Unit DMG and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.1+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect lasts for 15s and can stack up to 40 times.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Leprechaun deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK to the current target unit every 5s and </span><span style="color: black"><span style="color: #48b946;font-size:20px">stuns</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 2s. Also reduces the Penetration of 1 random Melee unit and Ranged/Caster unit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> while additionally dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK. This effect lasts for 6s and can stack up to 3 times.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/> <span style="color: #645252;font-size:20px">Whenever skill is triggered, further increases Leprechaun's Unit DMG and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect lasts for 15s and can stack up to 40 times.</span><span style="color: black">
 
 ### Regular Skill 1 : Fortune
- **Description:** <span style="color: #645252;font-size:20px">Leprechaun casts Fortune on all friendly units once every 10s, increasing all friendly units' Dodge by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, Tenacity by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*5+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, and DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 5s. Skill effect will be doubled for 4-man units and quadrupled for 9- and 16-man units. Leprechaun will gain 3-10x the skill effect. If it gets a skill effect multiplier of 8 or higher, &lt;Direct Punch&gt; will trigger 1 additional time.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Leprechaun casts Fortune on all friendly units once every 10s, increasing all friendly units' Dodge by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, Tenacity by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, and DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 5s. Skill effect will be doubled for 4-man units and quadrupled for 9- and 16-man units. Leprechaun will gain 3-10x the skill effect. If it gets a skill effect multiplier of 8 or higher, &lt;Direct Punch&gt; will trigger 1 additional time.</span><span style="color: black">
 
 ### Regular Skill 2 : Elemental Force
- **Description:** <span style="color: #645252;font-size:20px">Increases Leprechaun's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.5+7.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, Dodge by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*25+25}</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Shield Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*6+6}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun is present on the battlefield, increases all friendly units' Shield Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+27}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*10+50}</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">During a single instance of Leprechaun taking damage, a part of damage that exceeds 20% of Leprechaun's max HP will be avoided.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Leprechaun's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, Dodge by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, and Shield Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun is present on the battlefield, increases all friendly units' Shield Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">During a single instance of Leprechaun taking damage, a part of damage that exceeds 20% of Leprechaun's max HP will be avoided.</span><span style="color: black">
 
 ### Regular Skill 3 : Tactical Block
- **Description:** <span style="color: #645252;font-size:20px">When Leprechaun is hit by a Critical Hit, its Shield Value will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*18+30}</span><span style="color: black"><span style="color: #645252;font-size:20px">, and a &lt;Direct Punch&gt; will be triggered. This effect lasts for 10s and has a CD of 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Dodge is triggered, it will recover </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.3+0.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its max HP. CD is 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Block is triggered, a &lt;Direct Punch&gt; will be immediately triggered. CD is 2s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Leprechaun is hit by a Critical Hit, its Shield Value will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, and a &lt;Direct Punch&gt; will be triggered. This effect lasts for 10s and has a CD of 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Dodge is triggered, it will recover </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its max HP. CD is 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Block is triggered, a &lt;Direct Punch&gt; will be immediately triggered. CD is 2s.</span><span style="color: black">
 
 ### Faction Special Skill I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*3+15)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Elemental Conflict
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*0.2+2"
+    let str8 = "LEVEL*1.5+7.5"
+    let str5 = "LEVEL*5+25"
+    let str6 = "LEVEL*5+25"
+    let str3 = "LEVEL*3+5"
+    let str4 = "LEVEL*0.1+0.5"
+    let str1 = "LEVEL*13+5"
+    let str2 = "LEVEL*2+20"
+    let str12 = "LEVEL*3+27"
+    let str13 = "LEVEL*10+50"
+    let str10 = "LEVEL*25+25"
+    let str11 = "LEVEL*6+6"
+    let str16 = "(LEVEL*3+15)"
+    let str17 = "(LEVEL*1+5)"
+    let str9 = "LEVEL*1.5+7.5"
+    let str14 = "LEVEL*18+30"
+    let str15 = "LEVEL*0.3+0.5"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
+     res = eval(str13); document.getElementById('str13').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str16); document.getElementById('str16').textContent = res;
+     res = eval(str17); document.getElementById('str17').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+     res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

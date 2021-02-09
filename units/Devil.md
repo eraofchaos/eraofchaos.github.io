@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Units The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Devil"
 toc: true
@@ -89,24 +89,63 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Painful Reaper
- **Description:** <span style="color: #645252;font-size:20px">Strike the furthest unit in front as soon as battle starts (attack a random back-row unit if there is no valid target), dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.8+5.2)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage, and summon a chasm of fire that causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.1+1.9)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 0.5s for 6s. Causes a 6s </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the first time. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Can be deployed in any position. Skill reset when target unit dies)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Strike the furthest unit in front as soon as battle starts (attack a random back-row unit if there is no valid target), dealing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage, and summon a chasm of fire that causes </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage every 0.5s for 6s. Causes a 6s </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silence&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the first time. </span><span style="color: black"><span style="color: #F6ECDD;font-size:20px">(Can be deployed in any position. Skill reset when target unit dies)</span><span style="color: black">
 
 ### Regular Skill 1 : Cruel Torture
- **Description:** <span style="color: #645252;font-size:20px">Deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+38)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 radom hostile units. Critical Hit dealt to </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units is increased by 500.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 radom hostile units. Critical Hit dealt to </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;burning&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> units is increased by 500.</span><span style="color: black">
 
 ### Regular Skill 2 : Withering
- **Description:** <span style="color: #645252;font-size:20px">While the Devil is on the battlefield, it deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.05+0.45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP to all hostile units every 2s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">While the Devil is on the battlefield, it deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP to all hostile units every 2s.</span><span style="color: black">
 
 ### Regular Skill 3 : Soul-Slaying
- **Description:** <span style="color: #645252;font-size:20px">Unit ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*4+16)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against the Castle unit, unit's damage is increased by 50%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Unit ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When fighting against the Castle unit, unit's damage is increased by 50%.</span><span style="color: black">
 
 ### Faction Special Skill I : Broiling Strike
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*10+50)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at controlling fire, increasing Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;burned&gt; units</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Resistance Resonance
- **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Inferno units are proficient at group defense. For every surviving unit, magic resistance is increased by</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+7.5)"
+    let str8 = "(LEVEL*0.5+2.5)"
+    let str5 = "(LEVEL*4+16)"
+    let str6 = "(LEVEL*10+50)"
+    let str3 = "(LEVEL*2+38)*0.01*ATK"
+    let str4 = "LEVEL*0.05+0.45"
+    let str1 = "(LEVEL*0.8+5.2)*0.01*ATK"
+    let str2 = "(LEVEL*0.1+1.9)*0.01*ATK"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

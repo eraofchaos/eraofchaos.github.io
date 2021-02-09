@@ -3,7 +3,7 @@ title: "Evil Sorceress"
 permalink: /units/Evil Sorceress/
 excerpt: "Units She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
 unitID: 709
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Evil Sorceress"
 toc: true
@@ -85,24 +85,75 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Soul Burst
- **Description:** <span style="color: #645252;font-size:20px">Every 18s, deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*10+150}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK plus </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.3+2.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of the target's Max HP to 2 units within a certain range of the target unit. There is also a 30% chance to inflict </span><span style="color: black"><span style="color: #48b946;font-size:20px">Evil Poison</span><span style="color: black"><span style="color: #645252;font-size:20px">. Deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.1+2.6}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of the Max HP of the Evil Sorceress' target to 1 enemy Caster unit and inflicts </span><span style="color: black"><span style="color: #48b946;font-size:20px">Evil Poison</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><span style="color: #48b946;font-size:20px">Evil Poison</span><span style="color: black"><span style="color: #645252;font-size:20px"> lasts for 2s. Normal attacks ignore 300 DEF of the enemy.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Every 18s, deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK plus </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of the target's Max HP to 2 units within a certain range of the target unit. There is also a 30% chance to inflict </span><span style="color: black"><span style="color: #48b946;font-size:20px">Evil Poison</span><span style="color: black"><span style="color: #645252;font-size:20px">. Deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of the Max HP of the Evil Sorceress' target to 1 enemy Caster unit and inflicts </span><span style="color: black"><span style="color: #48b946;font-size:20px">Evil Poison</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><span style="color: #48b946;font-size:20px">Evil Poison</span><span style="color: black"><span style="color: #645252;font-size:20px"> lasts for 2s. Normal attacks ignore 300 DEF of the enemy.</span><span style="color: black">
 
 ### Regular Skill 1 : Magic Mirror
- **Description:** <span style="color: #645252;font-size:20px">Evil Sorceress becomes immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">Silence</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Evil Sorceress is on the battlefield, increases the initial mana of your heroes by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+2}</span><span style="color: black"><span style="color: #645252;font-size:20px">. At the start of battle, she casts &lt;Magic Mirror&gt; on herself and 1 non-Large unit, which lasts for the entire battle. Increases Evil Sorceress' Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+20}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against Ranged/Caster units.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Evil Sorceress becomes immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">Silence</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Evil Sorceress is on the battlefield, increases the initial mana of your heroes by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. At the start of battle, she casts &lt;Magic Mirror&gt; on herself and 1 non-Large unit, which lasts for the entire battle. Increases Evil Sorceress' Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against Ranged/Caster units.</span><span style="color: black">
 
 ### Regular Skill 2 : Spell Breaker's Staff
- **Description:** <span style="color: #645252;font-size:20px">Increases Evil Sorceress' Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When an enemy hero casts a spell, Evil Sorceress deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+11}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK plus </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.1+0.9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to enemy units within a certain range of the target unit, and deals damage equal to 1.5% of its Max HP to all enemy units. Also inflicts </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stun</span><span style="color: black"><span style="color: #645252;font-size:20px"> to </span><span style="color: black"><span style="color: #48b946;font-size:20px">poisoned</span><span style="color: black"><span style="color: #645252;font-size:20px"> units for 4s and deals additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.1+3.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to </span><span style="color: black"><span style="color: #48b946;font-size:20px">burning</span><span style="color: black"><span style="color: #645252;font-size:20px"> units. Increases Evil Sorceress' Unit DMG by 50% when fighting against Tower units.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Evil Sorceress' Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When an enemy hero casts a spell, Evil Sorceress deals damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of ATK plus </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to enemy units within a certain range of the target unit, and deals damage equal to 1.5% of its Max HP to all enemy units. Also inflicts </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stun</span><span style="color: black"><span style="color: #645252;font-size:20px"> to </span><span style="color: black"><span style="color: #48b946;font-size:20px">poisoned</span><span style="color: black"><span style="color: #645252;font-size:20px"> units for 4s and deals additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to </span><span style="color: black"><span style="color: #48b946;font-size:20px">burning</span><span style="color: black"><span style="color: #645252;font-size:20px"> units. Increases Evil Sorceress' Unit DMG by 50% when fighting against Tower units.</span><span style="color: black">
 
 ### Regular Skill 3 : Teleport
- **Description:** <span style="color: #645252;font-size:20px">Increases Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Normal attacks of Dungeon Charging units have a 5% chance to inflict Stun on </span><span style="color: black"><span style="color: #48b946;font-size:20px">poisoned</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets for 2s. 4s after entering the battlefield, Evil Sorceress increases the Attack Speed of friendly Charging units by 15%. This effect lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+15)}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. Evil Sorceress travels between shadows and reality. Evil Sorceress is immune to Unit DMG but is unable to be healed when she is in the shadows. Lasts for 2s. CD is 5s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Normal attacks of Dungeon Charging units have a 5% chance to inflict Stun on </span><span style="color: black"><span style="color: #48b946;font-size:20px">poisoned</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets for 2s. 4s after entering the battlefield, Evil Sorceress increases the Attack Speed of friendly Charging units by 15%. This effect lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. Evil Sorceress travels between shadows and reality. Evil Sorceress is immune to Unit DMG but is unable to be healed when she is in the shadows. Lasts for 2s. CD is 5s.</span><span style="color: black">
 
 ### Faction Special Skill : Dark Conflict
- **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
 ### Regular Skill 6 : Bloody Dungeon
- **Description:** <span style="color: #645252;font-size:20px">When 3 Dungeon units are deployed, increases Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Soul Burst is cast, the </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Bloody Dungeon&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain forms</span><span style="color: black"><span style="color: #645252;font-size:20px">, which expands as the skill levels up. The domain exists for 15s. CD is 30s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Dungeon units are deployed, increases Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Soul Burst is cast, the </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Bloody Dungeon&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain forms</span><span style="color: black"><span style="color: #645252;font-size:20px">, which expands as the skill levels up. The domain exists for 15s. CD is 30s.</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*3+11"
+    let str8 = "LEVEL*0.1+0.9"
+    let str5 = "LEVEL*2+20"
+    let str6 = "LEVEL*1+2"
+    let str3 = "LEVEL*0.1+2.6"
+    let str4 = "LEVEL*1+2"
+    let str1 = "LEVEL*10+150"
+    let str2 = "LEVEL*0.3+2.5"
+    let str12 = "(LEVEL*1+5)"
+    let str13 = "LEVEL*1+15"
+    let str10 = "LEVEL*1+10"
+    let str11 = "(LEVEL*1+15)"
+    let str9 = "LEVEL*0.1+3.5"
+    let str14 = "LEVEL*1+15"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
+     res = eval(str13); document.getElementById('str13').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+     res = eval(str14); document.getElementById('str14').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

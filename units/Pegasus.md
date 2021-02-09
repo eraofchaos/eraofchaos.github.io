@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Units Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Pegasus"
 toc: true
@@ -90,24 +90,63 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label>Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Forest Guardian
- **Description:** <span style="color: #645252;font-size:20px">When Pegasus dies, it summons another Pegasus to keep fighting. The summoned Pegasus has </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*6+44)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*80+520)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, and exists throughout the entire battle.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Pegasus dies, it summons another Pegasus to keep fighting. The summoned Pegasus has </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ATK and </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP, and exists throughout the entire battle.</span><span style="color: black">
 
 ### Regular Skill 1 : Razor-sharp
- **Description:** <span style="color: #645252;font-size:20px">Pegasus' ATK speed increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.6+2.4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target unit </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleed\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Pegasus' ATK speed increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Its normal attack makes the target unit </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"bleed\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
 ### Regular Skill 2 : Vitality Protection
- **Description:** <span style="color: #645252;font-size:20px">Pegasus creates a </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly units within a large range that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Pegasus creates a </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"shield\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> for friendly units within a large range that absorbs damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
 ### Regular Skill 3 : Cavalry of Silver Wings
- **Description:** <span style="color: #645252;font-size:20px">Pegasus and the summoned Pegasus' ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Pegasus and the summoned Pegasus' ATK increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Proliferation
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+7.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at battlefield warfare. The duration of &lt;stun&gt; and &lt;petrification&gt; they suffer from is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Hatred Mark
- **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.9+2.4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Rampart units are proficient at tactical pursuit, increasing Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against &lt;Slow&gt; and &lt;Bleeding&gt; targets. If the target is suffering from both of the above states, the effect doubles</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1.5+7.5)"
+    let str8 = "(LEVEL*0.9+2.4)"
+    let str5 = "LEVEL*3+12"
+    let str6 = "LEVEL*3+12"
+    let str3 = "LEVEL*0.6+2.4"
+    let str4 = "LEVEL*0.5+9.5"
+    let str1 = "(LEVEL*6+44)*(TLEVEL+9)"
+    let str2 = "(LEVEL*80+520)*(TLEVEL+9)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

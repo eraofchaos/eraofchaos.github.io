@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Units These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Stone Gargoyle"
 toc: true
@@ -88,24 +88,65 @@ toc: true
   none
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label>Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Stone Form
- **Description:** <span style="color: #645252;font-size:20px">The Stone Gargoyle will be in &lt;Stone Form&gt; for 10s every 20s. During this time, its ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*5+25}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its ATK speed is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+14}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Stone Gargoyle will be in &lt;Stone Form&gt; for 10s every 20s. During this time, its ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and its ATK speed is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 1 : High Suppression
- **Description:** <span style="color: #645252;font-size:20px">When facing a unit that cannot fly, the stone gargoyles' attack is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*6+24}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When facing a unit that cannot fly, the stone gargoyles' attack is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 2 : Sharp Claw
- **Description:** <span style="color: #645252;font-size:20px">The Stone Gargoyle's defense penetration is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.2+0.8)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. For Defensive units, the effect doubles.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Stone Gargoyle's defense penetration is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. For Defensive units, the effect doubles.</span><span style="color: black">
 
 ### Regular Skill 3 : Stone Reinforcement
- **Description:** <span style="color: #645252;font-size:20px">When the Stone Gargoyle is in &lt;Stone Form&gt;, unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+28}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Stone Gargoyle is in &lt;Stone Form&gt;, unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Energy Dynamite
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*2+28"
+    let str8 = "(LEVEL*2+10)"
+    let str5 = "(LEVEL*0.2+0.8)*(TLEVEL+9)"
+    let str6 = "LEVEL*2+28"
+    let str3 = "LEVEL*6+24"
+    let str4 = "LEVEL*1+5"
+    let str1 = "LEVEL*5+25"
+    let str2 = "LEVEL*1+14"
+    let str9 = "(LEVEL*1.5+4)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

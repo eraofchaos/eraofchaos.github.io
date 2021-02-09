@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Units White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "White Tiger"
 toc: true
@@ -80,27 +80,84 @@ toc: true
   none
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: White Tiger Spirit
- **Description:** <span style="color: #645252;font-size:20px">Summons a White Tiger Spirit to attack the target unit, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*10+110}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK and inflicting 2 random debuffs to enemy units within a large range. These include </span><span style="color: black"><span style="color: #48b946;font-size:20px">Slow, Bleed, Burn, Blind, Static, Plague, and Disease.</span><span style="color: black"><span style="color: #645252;font-size:20px">The debuffs last for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+2.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s. The skill CD is 15s. If the target unit is a 1-man unit, the White Tiger Spirit deals additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Summons a White Tiger Spirit to attack the target unit, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK and inflicting 2 random debuffs to enemy units within a large range. These include </span><span style="color: black"><span style="color: #48b946;font-size:20px">Slow, Bleed, Burn, Blind, Static, Plague, and Disease.</span><span style="color: black"><span style="color: #645252;font-size:20px">The debuffs last for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. The skill CD is 15s. If the target unit is a 1-man unit, the White Tiger Spirit deals additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP.</span><span style="color: black">
 
 ### Regular Skill 1 : First Strike
- **Description:** <span style="color: #645252;font-size:20px">Increases White Tiger's Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. White Tiger has a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+40}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to become immune to damage dealt by Flying units. White Tiger becomes immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stun</span><span style="color: black"><span style="color: #645252;font-size:20px"> and decreases the DEF of enemy units within a large range around it by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases White Tiger's Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. White Tiger has a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to become immune to damage dealt by Flying units. White Tiger becomes immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">Stun</span><span style="color: black"><span style="color: #645252;font-size:20px"> and decreases the DEF of enemy units within a large range around it by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 2 : Plague Extermination
- **Description:** <span style="color: #645252;font-size:20px">Increases White Tiger's Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+10}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases White Tiger's Unit DMG by 5%, Unit DMG Reduction by 5%, and Critical Hit by 75 for every debuff the target has. Stacks up to 5 times. White Tiger casts &lt;Plague Extermination&gt; on enemy units within a small range, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK to enemy units for every debuff they have. CD is 30s. Pre-CD is 15s. (Valid debuffs include: </span><span style="color: black"><span style="color: #48b946;font-size:20px">Slow, Bleed, Burn, Blind, Static, Plague, Disease, and Turmoil</span><span style="color: black"><span style="color: #645252;font-size:20px">)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases White Tiger's Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Increases White Tiger's Unit DMG by 5%, Unit DMG Reduction by 5%, and Critical Hit by 75 for every debuff the target has. Stacks up to 5 times. White Tiger casts &lt;Plague Extermination&gt; on enemy units within a small range, dealing damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of own ATK to enemy units for every debuff they have. CD is 30s. Pre-CD is 15s. (Valid debuffs include: </span><span style="color: black"><span style="color: #48b946;font-size:20px">Slow, Bleed, Burn, Blind, Static, Plague, Disease, and Turmoil</span><span style="color: black"><span style="color: #645252;font-size:20px">)</span><span style="color: black">
 
 ### Regular Skill 3 : Hide
- **Description:** <span style="color: #645252;font-size:20px">At the start of the battle, increases White Tiger's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*5+45}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. For the next 30s, decreases White Tiger's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and increases Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+1}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every 2s. If it is resurrected, the decrease in its Unit DMG Reduction and increase in its Attack Speed are stacked afresh. Attacks have a 20% chance to inflict </span><span style="color: black"><span style="color: #48b946;font-size:20px">Turmoil</span><span style="color: black"><span style="color: #645252;font-size:20px"> on the target unit for 5s. &lt;White Tiger Spirit&gt; is triggered once every 7 attacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">At the start of the battle, increases White Tiger's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. For the next 30s, decreases White Tiger's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and increases Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every 2s. If it is resurrected, the decrease in its Unit DMG Reduction and increase in its Attack Speed are stacked afresh. Attacks have a 20% chance to inflict </span><span style="color: black"><span style="color: #48b946;font-size:20px">Turmoil</span><span style="color: black"><span style="color: #645252;font-size:20px"> on the target unit for 5s. &lt;White Tiger Spirit&gt; is triggered once every 7 attacks.</span><span style="color: black">
 
 ### Faction Special Skill I : Plague Strike
- **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
 
 ### Faction Special Skill II : Rise of Vitality
- **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
 ### Regular Skill 6 : Heated Hunt
- **Description:** <span style="color: #645252;font-size:20px">When 3 Fortress units are deployed, increases own Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+15}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Penetration by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*10+200}</span><span style="color: black"><span style="color: #645252;font-size:20px">. The first time &lt;White Tiger Spirit&gt; is cast, the </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Heated Hunt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain forms, which expands as the skill levels up. The domain exists for 15s. The domain forms once every 30s after that.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Fortress units are deployed, increases own Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Penetration by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. The first time &lt;White Tiger Spirit&gt; is cast, the </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Heated Hunt&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain forms, which expands as the skill levels up. The domain exists for 15s. The domain forms once every 30s after that.</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*1+5"
+    let str8 = "LEVEL*2+10"
+    let str5 = "LEVEL*1+10"
+    let str6 = "LEVEL*2+40"
+    let str3 = "LEVEL*1+9"
+    let str4 = "LEVEL*2+10"
+    let str1 = "LEVEL*10+110"
+    let str2 = "LEVEL*0.5+2.5"
+    let str12 = "LEVEL*0.2+1"
+    let str13 = "(LEVEL*1+7)"
+    let str10 = "LEVEL*5+45"
+    let str11 = "LEVEL*0.2+2"
+    let str16 = "LEVEL*1+15"
+    let str17 = "LEVEL*10+200"
+    let str9 = "LEVEL*5+45"
+    let str14 = "(LEVEL*300+2000)"
+    let str15 = "(LEVEL*0.3+1)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str12); document.getElementById('str12').textContent = res;
+     res = eval(str13); document.getElementById('str13').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str16); document.getElementById('str16').textContent = res;
+     res = eval(str17); document.getElementById('str17').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+     res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

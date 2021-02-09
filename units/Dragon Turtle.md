@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Units Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Dragon Turtle"
 toc: true
@@ -87,6 +87,13 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Crushing Roll
  **Description:** 
 
@@ -94,17 +101,43 @@ toc: true
  **Description:** 
 
 ### Regular Skill 2 : Tidal Rampart
- **Description:** <span style="color: #645252;font-size:20px">After entering the battlefield, the Dragon Turtle </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units within a large range for 2s. After &lt;Armoured Shield&gt; has been triggered over 20s, the Dragon Turtle restores 15% HP, and receives a DEF increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+11)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">After entering the battlefield, the Dragon Turtle </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units within a large range for 2s. After &lt;Armoured Shield&gt; has been triggered over 20s, the Dragon Turtle restores 15% HP, and receives a DEF increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle</span><span style="color: black">
 
 ### Regular Skill 3 : Reinforcement
- **Description:** <span style="color: #645252;font-size:20px">The Dragon Turtle creates a shield of reinforcement while increasing unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+9.5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself and all friendly Cove units every 20s. The effect lasts 8s (This effect cannot be dispelled)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Dragon Turtle creates a shield of reinforcement while increasing unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself and all friendly Cove units every 20s. The effect lasts 8s (This effect cannot be dispelled)</span><span style="color: black">
 
 ### Faction Special Skill I : Calm Body
- **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units know their way around a storm. HP is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and they have a 40% chance to be immune to &lt;stun&gt; when equipped with a Holy Emblem</span><span style="color: black">
 
 ### Faction Special Skill II : Pirate Conflict
- **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*1+5)"
+    let str3 = "(LEVEL*0.5+9.5)"
+    let str4 = "(LEVEL*1+5)"
+    let str1 = "(LEVEL*1+11)"
+    let str2 = "(LEVEL*0.5+9.5)"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

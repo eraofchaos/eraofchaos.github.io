@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Units Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Bone Dragon"
 toc: true
@@ -89,24 +89,61 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label>Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Fear
- **Description:** <span style="color: #645252;font-size:20px">The Bone Dragon causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Low Morale\" </span><span style="color: black"><span style="color: #645252;font-size:20px">to a large area of hostile units every </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*(-1)+31}</span><span style="color: black"><span style="color: #645252;font-size:20px">s for </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+14.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">s and decreases their unit's damage reduction by 20% for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Bone Dragon causes </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"Low Morale\" </span><span style="color: black"><span style="color: #645252;font-size:20px">to a large area of hostile units every </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s and decreases their unit's damage reduction by 20% for 10s.</span><span style="color: black">
 
 ### Regular Skill 1 : Crushing Roll
- **Description:** <span style="color: #645252;font-size:20px">Bone Dragon's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*6+34)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"silence\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Bone Dragon's normal attack has a chance to deal </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to its target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"silence\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 10s.</span><span style="color: black">
 
 ### Regular Skill 2 : Penetration
- **Description:** <span style="color: #645252;font-size:20px">The Bone Dragon's defense penetration increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.4+3.6)*($teamlevel+9)}</span><span style="color: black"><span style="color: #645252;font-size:20px">. When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"low morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units, the bonus doubles.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Bone Dragon's defense penetration increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. When attacking </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"low morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units, the bonus doubles.</span><span style="color: black">
 
 ### Regular Skill 3 : Ageing
- **Description:** <span style="color: #645252;font-size:20px">When a Bone Dragon is on the battlefield, all hostile units' damage reduction is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+9.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When a Bone Dragon is on the battlefield, all hostile units' damage reduction is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Dismal Defense
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Harmony
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.5+2.5)"
+    let str5 = "LEVEL*0.5+9.5"
+    let str6 = "(LEVEL*1+10)"
+    let str3 = "(LEVEL*6+34)*0.01*ATK"
+    let str4 = "(LEVEL*0.4+3.6)*(TLEVEL+9)"
+    let str1 = "LEVEL*(-1)+31"
+    let str2 = "LEVEL*0.5+14.5"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

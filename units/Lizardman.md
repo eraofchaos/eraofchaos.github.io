@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Units The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Lizardman"
 toc: true
@@ -88,24 +88,61 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Poisoned Dart
- **Description:** <span style="color: #645252;font-size:20px">Lizardman unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*30+645)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target, and gives them <span style="color: #48b946;font-size:20px">&lt;plague&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Lizardman unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target, and gives them <span style="color: #48b946;font-size:20px">&lt;plague&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s.</span><span style="color: black">
 
 ### Regular Skill 1 : Rending
- **Description:** <span style="color: #645252;font-size:20px">Increases Lizardman's normal attack damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The damage dealt to <span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets increases by 30%.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Lizardman's normal attack damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The damage dealt to <span style="color: #48b946;font-size:20px">&lt;bleeding&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> targets increases by 30%.</span><span style="color: black">
 
 ### Regular Skill 2 : Plague Aggravation
- **Description:** <span style="color: #645252;font-size:20px">Lizardman unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lizardman's unit's damage will be increased by a further 5% for every debuff the target has, up to 5 stacks.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Lizardman unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lizardman's unit's damage will be increased by a further 5% for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
 ### Regular Skill 3 : Dragon Slaying
- **Description:** <span style="color: #645252;font-size:20px">When facing a 1-man or 4-man unit, Lizardman's unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When facing a 1-man or 4-man unit, Lizardman's unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Plague Strike
- **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+7)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
 
 ### Faction Special Skill II : Rise of Vitality
- **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*300+2000)}</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.3+1)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Fortress units are adept at battlefield healing, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*0.3+1)"
+    let str5 = "(LEVEL*1+7)"
+    let str6 = "(LEVEL*300+2000)"
+    let str3 = "LEVEL*1+4"
+    let str4 = "LEVEL*1+4"
+    let str1 = "(LEVEL*30+645)*0.01*ATK"
+    let str2 = "LEVEL*1+9"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

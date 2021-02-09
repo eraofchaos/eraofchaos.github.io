@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Units The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Mummy"
 toc: true
@@ -86,24 +86,63 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label>Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Decaying Curse
- **Description:** <span style="color: #645252;font-size:20px">Within a certain range, Mummy deals </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*10+190)*0.01*$atk}</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to surrounding hostile units every 20s, and makes them suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 12s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Within a certain range, Mummy deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to surrounding hostile units every 20s, and makes them suffer from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 12s.</span><span style="color: black">
 
 ### Regular Skill 1 : Shroud
- **Description:** <span style="color: #645252;font-size:20px">When &lt;Decaying Curse&gt; is cast, restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.5+4.5}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP, increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When &lt;Decaying Curse&gt; is cast, restores HP equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP, increases unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 10s.</span><span style="color: black">
 
 ### Regular Skill 2 : Source of Disease
- **Description:** <span style="color: #645252;font-size:20px">Mummy is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Mummy's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+5}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Mummy is on the battlefield, all healing effects received by enemy units are reduced by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Mummy is immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Mummy's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Mummy is on the battlefield, all healing effects received by enemy units are reduced by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : God of Plague
- **Description:** <span style="color: #645252;font-size:20px">Mummy's DEF increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If the enemy attacking the Mummy is suffering from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, the effect doubles.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Mummy's DEF increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. If the enemy attacking the Mummy is suffering from </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;disease&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, the effect doubles.</span><span style="color: black">
 
 ### Faction Special Skill I : Dismal Defense
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when they are fighting against units in \"low morale\"</span><span style="color: black">
 
 ### Faction Special Skill II : Spell Harmony
- **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*0.5+2.5)}%</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1+10)"
+    let str8 = "(LEVEL*0.5+2.5)"
+    let str5 = "LEVEL*2+8"
+    let str6 = "LEVEL*3+12"
+    let str3 = "LEVEL*1+9"
+    let str4 = "LEVEL*1+5"
+    let str1 = "(LEVEL*10+190)*0.01*ATK"
+    let str2 = "LEVEL*0.5+4.5"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

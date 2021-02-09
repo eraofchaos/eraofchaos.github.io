@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Units The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Magic Airship"
 toc: true
@@ -84,24 +84,65 @@ toc: true
 
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Energy Support
- **Description:** <span style="color: #645252;font-size:20px">When any of friendly unit's HP is lower than 30%, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*3+12}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP, dispels all debuffs, increases unit's damage reduction and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s. Can only be cast once per battle.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When any of friendly unit's HP is lower than 30%, restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP, dispels all debuffs, increases unit's damage reduction and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s. Can only be cast once per battle.</span><span style="color: black">
 
 ### Regular Skill 1 : Frost Bombing
- **Description:** <span style="color: #645252;font-size:20px">Normal attacks have a </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+1.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Freeze&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target and the hostile units around it for 2s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Normal attacks have a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> chance to </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Freeze&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the target and the hostile units around it for 2s.</span><span style="color: black">
 
 ### Regular Skill 2 : Spell Field
- **Description:** <span style="color: #645252;font-size:20px">The Magic Airship's magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When &lt;Magic Awakening&gt; is used, the hostile hero loses 2 mana and friendly hero restores 3 mana.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Magic Airship's magic resistance is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When &lt;Magic Awakening&gt; is used, the hostile hero loses 2 mana and friendly hero restores 3 mana.</span><span style="color: black">
 
 ### Regular Skill 3 : Magic Awakening
- **Description:** <span style="color: #645252;font-size:20px">When the Magic Airship unit is enhanced by a friendly hero's spell, it increases all Caster Units' ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+9}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s. Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.8+3.2}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for all Caster Units throughout the entire battle, up to 4 stacks</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When the Magic Airship unit is enhanced by a friendly hero's spell, it increases all Caster Units' ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 15s. Increases ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for all Caster Units throughout the entire battle, up to 4 stacks</span><span style="color: black">
 
 ### Faction Special Skill I : Sober Mind
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*2+10)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at resisting silence. The duration of &lt;silence&gt; is shortened by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Energy Dynamite
- **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1.5+4)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Tower units are proficient at energy conversion, increasing themselves Crit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "LEVEL*0.8+3.2"
+    let str8 = "(LEVEL*2+10)"
+    let str5 = "LEVEL*2+8"
+    let str6 = "LEVEL*1+9"
+    let str3 = "LEVEL*0.2+1.8"
+    let str4 = "LEVEL*2+8"
+    let str1 = "LEVEL*3+12"
+    let str2 = "LEVEL*1+9"
+    let str9 = "(LEVEL*1.5+4)"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str9); document.getElementById('str9').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 

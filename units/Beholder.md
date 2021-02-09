@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Units These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-09
 lang: en
 ref: "Beholder"
 toc: true
@@ -87,21 +87,54 @@ toc: true
   none
 
 ## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
 ### Ultimate Skill: Mind Control
- **Description:** <span style="color: #645252;font-size:20px">Beholder units control 1 random hostile unit. The target will take damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*0.2+0.8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP per second for 8s. When being controlled, the target unit is unable to attack, move and cast skills.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Beholder units control 1 random hostile unit. The target will take damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its Max HP per second for 8s. When being controlled, the target unit is unable to attack, move and cast skills.</span><span style="color: black">
 
 ### Regular Skill 1 : Spell Penetration
- **Description:** <span style="color: #645252;font-size:20px">When Beholder units enter the battlefield, they will open their 4 eyes of death. Each eye grants </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1+4}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage. 1 eye of death will be closed for every target killed. Only 3 eyes can be closed at most.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Beholder units enter the battlefield, they will open their 4 eyes of death. Each eye grants </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> unit's damage. 1 eye of death will be closed for every target killed. Only 3 eyes can be closed at most.</span><span style="color: black">
 
 ### Regular Skill 2 : Debility
- **Description:** <span style="color: #645252;font-size:20px">When Beholder unit is on the battlefield, enemy heroes' initial Mana is reduced by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*1.5+8.5}</span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever an enemy unit dies, reduces enemy heroes' Mana by an additional 10.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Beholder unit is on the battlefield, enemy heroes' initial Mana is reduced by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Whenever an enemy unit dies, reduces enemy heroes' Mana by an additional 10.</span><span style="color: black">
 
 ### Regular Skill 3 : Gather Energy
- **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{LEVEL*2+8}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
 
 ### Faction Special Skill : Dark Conflict
- **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px">{(LEVEL*1+5)}%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Dungeon units are proficient at making use of terrain, increasing their unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against the non-Dungeon units</span><span style="color: black">
 
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str5 = "(LEVEL*1+5)"
+    let str3 = "LEVEL*1.5+8.5"
+    let str4 = "LEVEL*2+8"
+    let str1 = "LEVEL*0.2+0.8"
+    let str2 = "LEVEL*1+4"
+    let res="ERR";
+    try {
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
 ## Relevance
 ### Roster Connection
 
