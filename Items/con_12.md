@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Revelations: Ezio"
+title: "Item - Consumables -  Guild Fund"
 permalink: /Items/con_12/
-excerpt: " Revelations: Ezio"
-last_modified_at: 2021-01-12
+excerpt: " Guild Fund"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 980 Diamonds and 1 Revelations: Ezio Skin.
+ **Description:** Obtained through donations. Can be used for City Bidding in the Cross-server Guild War
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Other
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **980x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Revelations: Ezio | Grants the Revelations: Ezio skin.  | 

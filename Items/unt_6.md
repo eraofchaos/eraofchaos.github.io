@@ -1,8 +1,8 @@
 ---
-title: "Item - Units -  Enraged Cyclops Soul Stone"
+title: "Item - Units -  Cyclops King Soul Stone"
 permalink: /Items/unt_6/
-excerpt: " Enraged Cyclops Soul Stone"
-last_modified_at: 2021-01-12
+excerpt: " Cyclops King Soul Stone"
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_6.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Enraged Cyclops' Awakening level enhancement
+ **Description:** Soul Stone for Cyclops King's Awakening level enhancement
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Kingdom Store 
+*    Plane Store 
 
 ## This item contains:
 

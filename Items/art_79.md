@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Sword of Judgement"
 permalink: /Items/art_79/
 excerpt: " Sword of Judgement"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_79.md"
 toc: false

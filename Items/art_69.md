@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Ring of Life"
 permalink: /Items/art_69/
 excerpt: " Ring of Life"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_69.md"
 toc: false

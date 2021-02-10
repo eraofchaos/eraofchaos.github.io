@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Candy Witch"
+title: "Item - Consumables -  Naga Sword Token"
 permalink: /Items/con_93/
-excerpt: " Candy Witch"
-last_modified_at: 2021-01-12
+excerpt: " Naga Sword Token"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_93.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get a skin: Candy Witch Vidomina
+ **Description:** A Naga Sword token from an ancient campaign that can be used for awakening Naga's general exclusive potential - Naga Sword
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unknown
+ **Type:** EXCLUSIVE_SPLICE
 
 ## Gather
 

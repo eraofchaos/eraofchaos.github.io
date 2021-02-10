@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Candy Variety Gift Box"
+title: "Item - Consumables -  Small Campaign Treasure"
 permalink: /Items/con_24/
-excerpt: " Candy Variety Gift Box"
-last_modified_at: 2021-01-12
+excerpt: " Small Campaign Treasure"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_24.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 2 Red Candy, 2 Yellow Candy, 2 Blue Candy, and 2 Green Candy.
+ **Description:** A treasure chest containing 6 Empire Medals!
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #32CD32">OK</span>
 
- **Type:** Gift
+ **Type:** EXP
 
 ## Gather
 
@@ -23,13 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **2x** | Red Candy | A beautifully packaged red candy. Can be used in the New Year Double Discounts event.  | 
-  | 2 |  **2x** | Yellow Candy | A beautifully packaged yellow candy. Can be used in the New Year Double Discounts event.  | 
-  | 3 |  **2x** | Blue Candy | A beautifully packaged blue candy. Can be used in the New Year Double Discounts event.  | 
-  | 4 |  **2x** | Green Candy | A beautifully packaged green candy. Can be used in the New Year Double Discounts event.  | 

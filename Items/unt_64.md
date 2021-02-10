@@ -2,7 +2,7 @@
 title: "Item - Units -  Vampire Lord Soul Stone"
 permalink: /Items/unt_64/
 excerpt: " Vampire Lord Soul Stone"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_64.md"
 toc: false

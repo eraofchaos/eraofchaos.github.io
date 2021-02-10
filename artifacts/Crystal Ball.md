@@ -2,7 +2,7 @@
 title: "Artifacts - Apple of Eden - Crystal Ball"
 permalink: /artifacts/Crystal Ball/
 excerpt: "Apple of Eden - Crystal Ball. A shining crystal ball. Legend says it can see the future."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Crystal Ball.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Crystal Ball](/Items/art_1/)
 

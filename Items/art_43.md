@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Sword of Eden"
 permalink: /Items/art_43/
 excerpt: " Sword of Eden"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_43.md"
 toc: false

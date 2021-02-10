@@ -2,7 +2,7 @@
 title: "Item - Units -  Regnan Serpent"
 permalink: /Items/unt_87/
 excerpt: " Regnan Serpent"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_87.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Ring of Eagle Vision"
 permalink: /Items/art_80/
 excerpt: " Ring of Eagle Vision"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_80.md"
 toc: false

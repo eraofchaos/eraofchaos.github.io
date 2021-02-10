@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Orb of Tempestuous Fire"
 permalink: /Items/art_66/
 excerpt: " Orb of Tempestuous Fire"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_66.md"
 toc: false

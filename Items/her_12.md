@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Yog"
 permalink: /Items/her_12/
 excerpt: " Yog"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_12.md"
 toc: false

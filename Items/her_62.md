@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Ice Condensation"
 permalink: /Items/her_62/
 excerpt: " Ice Condensation"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_62.md"
 toc: false

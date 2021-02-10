@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Inferno Flame"
 permalink: /Items/her_27/
 excerpt: " Inferno Flame"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_27.md"
 toc: false

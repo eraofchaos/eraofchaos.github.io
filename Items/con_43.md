@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Daily Special Offer Pack A"
+title: "Item - Consumables -  Gauze Token"
 permalink: /Items/con_43/
-excerpt: " Daily Special Offer Pack A"
-last_modified_at: 2021-01-12
+excerpt: " Gauze Token"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_43.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 2 random unit token packs and 20 diamonds.
+ **Description:** A Gauze token from an ancient campaign that can be used for awakening Mummy's exclusive potential, Gauze.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** EXCLUSIVE_SPLICE
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **20x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **2x** | Random Unit Token Pack | Randomly grants 1 R or SR unit token.  | 

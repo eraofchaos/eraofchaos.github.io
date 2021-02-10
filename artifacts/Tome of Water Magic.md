@@ -2,7 +2,7 @@
 title: "Artifacts - Spellbinder's Hat - Tome of Water Magic"
 permalink: /artifacts/Tome of Water Magic/
 excerpt: "Spellbinder's Hat - Tome of Water Magic. This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat"
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Tome of Water Magic.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 75x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Tome of Water Magic](/Items/art_44/)
 

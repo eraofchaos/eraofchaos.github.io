@@ -2,7 +2,7 @@
 title: "Item - Units -  Manticore"
 permalink: /Items/unt_74/
 excerpt: " Manticore"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_74.md"
 toc: false

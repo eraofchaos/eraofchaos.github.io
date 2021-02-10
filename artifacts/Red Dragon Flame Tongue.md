@@ -2,7 +2,7 @@
 title: "Artifacts - Power of the Dragon Father - Red Dragon Flame Tongue"
 permalink: /artifacts/Red Dragon Flame Tongue/
 excerpt: "Power of the Dragon Father - Red Dragon Flame Tongue. A sword forged from flame dragon crystals. One of the components of Power of the Dragon Father."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Red Dragon Flame Tongue.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Red Dragon Flame Tongue](/Items/art_62/)
 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Thunder Rage Soul Stone"
 permalink: /Items/unt_55/
 excerpt: " Thunder Rage Soul Stone"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_55.md"
 toc: false

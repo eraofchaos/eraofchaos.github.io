@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Divine Protection"
 permalink: /Items/her_11/
 excerpt: " Divine Protection"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_11.md"
 toc: false

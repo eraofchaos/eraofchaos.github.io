@@ -2,7 +2,7 @@
 title: "Item - Units -  War Unicorn Soul Stone"
 permalink: /Items/unt_46/
 excerpt: " War Unicorn Soul Stone"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_46.md"
 toc: false

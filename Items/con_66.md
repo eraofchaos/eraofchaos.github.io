@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Night Tides Special Skin"
+title: "Item - Consumables -  Realm Package"
 permalink: /Items/con_66/
-excerpt: " Night Tides Special Skin"
-last_modified_at: 2021-01-12
+excerpt: " Realm Package"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_66.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Unlock the skin when Night Tides is awakened.
+ **Description:** A pack obtained from a realm. You have a chance to obtain Guild Coins, Skill Runes, and Rosters Box after opening it
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,15 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 3 You would get **1** item  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **20x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 2 |  **88x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 3 |  **166x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 4 |  **3x** | Blue Crystal | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used.  | 
+  | 5 |  **3x** | Purple Crystal | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.  | 
+  | 6 |  **2x** | Expert Roster Box | A rare chest that can be found in Dragon's Treasures. Open to receive 3 random Roster runes.  | 

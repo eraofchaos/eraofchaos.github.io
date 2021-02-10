@@ -2,7 +2,7 @@
 title: "Item - Units -  Stone Elemental"
 permalink: /Items/unt_51/
 excerpt: " Stone Elemental"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_51.md"
 toc: false

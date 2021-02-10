@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Chain Lightning"
 permalink: /Items/her_2/
 excerpt: " Chain Lightning"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_2.md"
 toc: false

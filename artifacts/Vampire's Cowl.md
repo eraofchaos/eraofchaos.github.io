@@ -2,7 +2,7 @@
 title: "Artifacts - Cloak of the Undead King - Vampire's Cowl"
 permalink: /artifacts/Vampire's Cowl/
 excerpt: "Cloak of the Undead King - Vampire's Cowl. A vampire's precious cape. One of the components of the Cloak of the Undead King."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Vampire's Cowl.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Vampire's Cowl](/Items/art_75/)
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Free reward package"
+title: "Item - Consumables -  Evil Sigil"
 permalink: /Items/con_30/
-excerpt: " Free reward package"
-last_modified_at: 2021-01-12
+excerpt: " Evil Sigil"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_30.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** You've cleared level 3-14! You receive a free chance to send a red envelope to your guild members!
+ **Description:** A seal containing deadly powers. Can be exchanged for Necropolis Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

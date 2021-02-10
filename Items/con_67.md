@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Astro Silver Pack B"
+title: "Item - Consumables -  Vega Ciele"
 permalink: /Items/con_67/
-excerpt: " Astro Silver Pack B"
-last_modified_at: 2021-01-12
+excerpt: " Vega Ciele"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_67.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Buy to get 5 astro silvers, 780 diamonds, and 780 VIP EXP.
+ **Description:** Grants 1,980 Diamonds and 1 Vega Ciele skin.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,5 +29,5 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **5x** | Astro Silver | A mysterious coin of unknown source said to grant free Astrology silver to the user once.  | 
-  | 2 |  **780x** | <i class="fas fa-gem"/> |  | 
+  | 1 |  **980x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Vega Ciele | Use to get a skin: Vega Ciele  | 

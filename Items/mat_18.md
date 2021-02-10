@@ -2,7 +2,7 @@
 title: "Item - Materials -  Legendary Sulfur"
 permalink: /Items/mat_18/
 excerpt: " Legendary Sulfur"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "mat_18.md"
 toc: false

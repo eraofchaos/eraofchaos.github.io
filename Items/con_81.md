@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Chronicles Chest"
+title: "Item - Consumables -  Conflux Crystal"
 permalink: /Items/con_81/
-excerpt: " Chronicles Chest"
-last_modified_at: 2021-01-12
+excerpt: " Conflux Crystal"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_81.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** You can select one from the SR+ Soul Stones after opening.
+ **Description:** A crystal stone forged by the powers of true elementals. Can be exchanged for Conflux Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
@@ -23,14 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- You would need to choose 1 item from the list (1):
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Archdruid Soul Stone | Soul Stone for Archdruid's Awakening level enhancement.  | 
-  | 2 |  **1x** | Scorpicore Soul Stone | Soul Stone for Scorpicore's Awakening level enhancement  | 
-  | 3 |  **1x** | Mummy King Soul Stone | Soul Stone for Mummy King's Awakening level enhancement  | 
-  | 4 |  **1x** | Evil Eye Soul Stone | Soul Stone for Evil Eye' Awakening level enhancement  | 
-  | 5 |  **1x** | Power Lich Soul Stone | Soul Stone for Power Lich's Awakening level enhancement  | 

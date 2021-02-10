@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Oracle Covenant"
+title: "Item - Consumables -  Market Entry Ticket"
 permalink: /Items/con_3/
-excerpt: " Oracle Covenant"
-last_modified_at: 2021-01-12
+excerpt: " Market Entry Ticket"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_3.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A mysterious scroll left by the prophet, open it to summon unimaginable power.
+ **Description:** Necessary item to enter the market and buy ingredients. Can be claimed from the mailbox after spending Energy.
 
- **Quality:** <span style="color: #FF0000">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Event related
 

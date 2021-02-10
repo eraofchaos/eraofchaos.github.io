@@ -2,7 +2,7 @@
 title: "Item - Units -  Halberdier Soul Stone"
 permalink: /Items/unt_59/
 excerpt: " Halberdier Soul Stone"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_59.md"
 toc: false

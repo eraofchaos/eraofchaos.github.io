@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Crystal Ball"
 permalink: /Items/art_1/
 excerpt: " Crystal Ball"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_1.md"
 toc: false

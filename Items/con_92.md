@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Energy Pack"
+title: "Item - Consumables -  Pre-registration Reward Package"
 permalink: /Items/con_92/
-excerpt: " Energy Pack"
-last_modified_at: 2021-01-12
+excerpt: " Pre-registration Reward Package"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_92.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 60 diamonds and 1 large energy potion.
+ **Description:** A symbol of glory and skill. Unlocks after lvl 30. Use it to receive Gryphonheart profile picture frame, Wizard's Well Chest, and 1 lvl 40 Prestige Preorder Pack.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -23,11 +23,12 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+ **Required Level to open:** 30
 
  1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **60x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Large Energy Potion | A bottle of highly purified energy potion. You will gain 60 energy after drinking it.  | 
+  | 1 | AVATARFRAME1006 | 
+  | 2 |  **1x** | Mana Chest | Use it to receive Charm of Mana, Talisman of Mana and Mystic Orb of Mana.  | 
+  | 3 |  **1x** | Pre-registration Reward Package | A symbol of glory and skill. Unlocks after lvl 40. Use it to receive 800 Starsilver, 500 Shadowsteel and 200 Dragonsteel.  | 

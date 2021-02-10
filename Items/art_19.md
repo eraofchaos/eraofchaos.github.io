@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Bone Armour"
 permalink: /Items/art_19/
 excerpt: " Bone Armour"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_19.md"
 toc: false

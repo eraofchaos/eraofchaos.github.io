@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder - Thunder Helmet"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "Titan's Thunder - Thunder Helmet. A helmet used by the thunder god. One of the components of the Titan's Thunder."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Thunder Helmet.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 75x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Thunder Helmet](/Items/art_58/)
 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Fire Elemental"
 permalink: /Items/unt_8/
 excerpt: " Fire Elemental"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_8.md"
 toc: false

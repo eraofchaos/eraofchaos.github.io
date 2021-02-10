@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Angel Feather Arrows"
 permalink: /Items/art_32/
 excerpt: " Angel Feather Arrows"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_32.md"
 toc: false

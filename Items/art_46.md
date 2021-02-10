@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Ladybird of Luck"
 permalink: /Items/art_46/
 excerpt: " Ladybird of Luck"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_46.md"
 toc: false

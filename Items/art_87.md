@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Pendant of Holiness"
 permalink: /Items/art_87/
 excerpt: " Pendant of Holiness"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_87.md"
 toc: false

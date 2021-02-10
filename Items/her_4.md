@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Spell Master"
 permalink: /Items/her_4/
 excerpt: " Spell Master"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_4.md"
 toc: false

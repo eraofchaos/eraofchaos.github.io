@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Expert Book of Essences"
+title: "Item - Consumables -  Free reward package"
 permalink: /Items/con_29/
-excerpt: " Expert Book of Essences"
-last_modified_at: 2021-01-12
+excerpt: " Free reward package"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_29.md"
 toc: false
@@ -11,23 +11,17 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Records the advanced secrets of battle. Can be used to improve units' magic resistance.
+ **Description:** You've reached VIP level 6! You receive a free chance to send a red envelope to your guild members!
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Gift
+ **Type:** Unknown
 
 ## Gather
 
-*    Duel of Champions 
+  None
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 2 You would get **1** item  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Damage reduction skill essence | Records the expert secrets of battle. Can be used to improve units' damage reduction.  | 
-  | 2 |  **1x** | Damage augmentation skill essence | Records the expert secrets of battle. Can be used to improve units' damage augmentation.  | 

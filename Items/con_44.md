@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Dungeon Faction Selection Chest"
+title: "Item - Consumables -  Darkness Dominance Pack"
 permalink: /Items/con_44/
-excerpt: " Dungeon Faction Selection Chest"
-last_modified_at: 2021-01-12
+excerpt: " Darkness Dominance Pack"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_44.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 Troglodyte, Harpy, or Minotaur token.
+ **Description:** Use it to select one from the following: Darkness Dominance Avatar Frame *1 or Bone Dragon Token *5
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -29,6 +29,5 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Troglodyte | Once you have gathered 10 soul tokens you can summon a Troglodyte. Tokens can also be used to upgrade or increase the rank of Troglodytes.  | 
-  | 2 |  **1x** | Harpy | Once you have gathered 30 soul tokens you can summon a Harpy. Tokens can also be used to upgrade or increase the rank of harpies.  | 
-  | 3 |  **1x** | Minotaur | Once you have gathered 30 soul tokens you can summon a Minotaur. Tokens can also be used to upgrade or increase the rank of minotaurs.  | 
+  | 1 | AVATARFRAME1034 | 
+  | 2 |  **5x** | Bone Dragon | Once you have gathered 80 soul tokens you can summon a Bone Dragon, an SSR aptitude unit.  | 

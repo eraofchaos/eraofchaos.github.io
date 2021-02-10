@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Rush Tactic"
 permalink: /Items/her_84/
 excerpt: " Rush Tactic"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_84.md"
 toc: false

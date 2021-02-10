@@ -2,7 +2,7 @@
 title: "Artifacts - Antimagic Runestone"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Antimagic Runestone Antimagic runestone forged from enchanted items. Able to resist against spell damage"
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Antimagic Runestone.md"
 toc: false

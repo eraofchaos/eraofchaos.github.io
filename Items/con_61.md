@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Revelations: Ezio Special Offer"
+title: "Item - Consumables -  Thunder Rage Chest"
 permalink: /Items/con_61/
-excerpt: " Revelations: Ezio Special Offer"
-last_modified_at: 2021-01-12
+excerpt: " Thunder Rage Chest"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_61.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 680 Diamonds, 1 Revelations: Ezio Skin, and 10 Ancient Temple Scrolls.
+ **Description:** A treasure chest with ancient power, only the lords having Giant can open it.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -29,6 +29,4 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **680x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Revelations: Ezio | Grants the Revelations: Ezio skin.  | 
-  | 3 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
+  | 1 |  **1x** | Giant  | Once you have gathered 80 soul tokens you can summon a Giant . Tokens can also be used to upgrade or increase the rank of Giant.  | 

@@ -2,7 +2,7 @@
 title: "Item - Units -  Arch Devil Soul Stone"
 permalink: /Items/unt_72/
 excerpt: " Arch Devil Soul Stone"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_72.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-  None
+*    Cross-server Store 
 
 ## This item contains:
 

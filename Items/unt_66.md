@@ -2,7 +2,7 @@
 title: "Item - Units -  Gold Dragon Soul Stone"
 permalink: /Items/unt_66/
 excerpt: " Gold Dragon Soul Stone"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_66.md"
 toc: false
@@ -20,6 +20,7 @@ classes: wide
 ## Gather
 
 *    Gods Store 
+*    Cross-server Store 
 
 ## This item contains:
 

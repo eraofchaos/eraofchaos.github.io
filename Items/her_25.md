@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Prayer"
 permalink: /Items/her_25/
 excerpt: " Prayer"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_25.md"
 toc: false

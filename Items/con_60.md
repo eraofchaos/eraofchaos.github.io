@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Hero Leader Pack"
+title: "Item - Consumables -  Obsidian"
 permalink: /Items/con_60/
-excerpt: " Hero Leader Pack"
-last_modified_at: 2021-01-12
+excerpt: " Obsidian"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_60.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select one of the following heroes to recruit: Roland, Sandro, or Kilgor. If you select a hero that you already own, then you will receive 30 tokens for that hero.
+ **Description:** An exotic gem only found in the Inferno. Can be exchanged for Inferno Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
@@ -23,12 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- You would need to choose 1 item from the list (0):
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **30x** | Roland | Collect 30 tokens to summon Roland to join your party. Tokens are also required to increase his rank.  | 
-  | 2 |  **30x** | Sandro | Collect 30 tokens to summon Sandro to join your party. Tokens are also required to increase his rank.  | 
-  | 3 |  **30x** | Kilgor | Collect 30 tokens to summon Kilgor to join your party. Tokens are also required to increase his rank.  | 

@@ -2,7 +2,7 @@
 title: "Alchemy Workshop"
 permalink: /Alchemy Workshop/
 excerpt: "Alchemy Workshop.The Alchemy Workshop is a truly wonderful place. It not only gathers the wisdom of different races, but also invents amazing things one after another."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "index.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
   The Alchemy Workshop is a truly wonderful place. It not only gathers the wisdom of different races, but also invents amazing things one after another.
 
-  You can get **[ Alchemy Potion](/Items/con_769/)** (Alchemy Potion, obtained by refining materials in the Alchemy Workshop) **by refining materials:**
+  You can get **[ Alchemy Potion](/Items/con_441/)** (Alchemy Potion, obtained by refining materials in the Alchemy Workshop) **by refining materials:**
 
   |  Nr  |    Material    |   Refining points    |   Material description   |
   |:-----|:---------------|:--------------------:|:------------------------:|
-  | 1  | [ Blue Crystal](/Items/con_845/) | **375**  | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used. |
+  | 1  | [ Blue Crystal](/Items/con_1179/) | **375**  | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used. |
   | 2  | [ Book of Arms](/Items/mat_32/) | **150**  | Rare materials to upgrade equipment from blue to blue +1. |
   | 3  | [ Book of Arms](/Items/mat_71/) | **300**  | Rare materials to upgrade equipment from blue +1 to blue +2. |
   | 4  | [ Book of Arms](/Items/mat_6/) | **300**  | Normal materials to upgrade equipment from blue +2 to purple. |
@@ -58,7 +58,7 @@ classes: wide
   | 41  | [ Good Ore](/Items/mat_78/) | **50**  | Common materials to upgrade equipment from blue to blue +1. |
   | 42  | [ Good Sulfur](/Items/mat_92/) | **50**  | Common materials to upgrade equipment from blue to blue +1. |
   | 43  | [ Good Wood](/Items/mat_90/) | **50**  | Common materials to upgrade equipment from blue to blue +1. |
-  | 44  | [ Green Crystal](/Items/con_774/) | **125**  | A mysterious runestone. Can improve your unit's skill insight a little. Provides 50 skill EXP when used. |
+  | 44  | [ Green Crystal](/Items/con_1135/) | **125**  | A mysterious runestone. Can improve your unit's skill insight a little. Provides 50 skill EXP when used. |
   | 45  | [ Inferior Crystal](/Items/mat_45/) | **25**  | Common materials to upgrade equipment from white to green. |
   | 46  | [ Inferior Gems](/Items/mat_54/) | **25**  | Common materials to upgrade equipment from white to green. |
   | 47  | [ Inferior Mercury](/Items/mat_27/) | **25**  | Common materials to upgrade equipment from white to green. |
@@ -78,8 +78,8 @@ classes: wide
   | 61  | [ Mythical Ore](/Items/mat_23/) | **200**  | Common materials to upgrade equipment from orange to orange +1. |
   | 62  | [ Mythical Sulfur](/Items/mat_35/) | **200**  | Common materials to upgrade equipment from orange to orange +1. |
   | 63  | [ Mythical Wood](/Items/mat_9/) | **200**  | Common materials to upgrade equipment from orange to orange +1. |
-  | 64  | [ Orange Crystal](/Items/con_889/) | **2500**  | A mysterious runestone. Greatly improves your units' skill insight. Provides 1000 skill EXP when used. |
-  | 65  | [ Purple Crystal](/Items/con_824/) | **1125**  | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used. |
+  | 64  | [ Orange Crystal](/Items/con_1209/) | **2500**  | A mysterious runestone. Greatly improves your units' skill insight. Provides 1000 skill EXP when used. |
+  | 65  | [ Purple Crystal](/Items/con_1166/) | **1125**  | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used. |
   | 66  | [ Radiant Crystal](/Items/mat_37/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
   | 67  | [ Radiant Gems](/Items/mat_52/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
   | 68  | [ Radiant Mercury](/Items/mat_24/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
@@ -122,7 +122,7 @@ classes: wide
   | 105  | [ Valuable Ore](/Items/mat_55/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
   | 106  | [ Valuable Sulfur](/Items/mat_66/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
   | 107  | [ Valuable Wood](/Items/mat_43/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
-  | 108  | [ White Crystal](/Items/con_794/) | **25**  | A mysterious runestone. Can improve your units' skill insight slightly. Provides 10 skill EXP when used. |
+  | 108  | [ White Crystal](/Items/con_1147/) | **25**  | A mysterious runestone. Can improve your units' skill insight slightly. Provides 10 skill EXP when used. |
 
 
 ## Rules

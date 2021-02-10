@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Kendal"
 permalink: /Items/her_30/
 excerpt: " Kendal"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_30.md"
 toc: false

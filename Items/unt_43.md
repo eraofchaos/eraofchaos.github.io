@@ -2,7 +2,7 @@
 title: "Item - Units -  Gog"
 permalink: /Items/unt_43/
 excerpt: " Gog"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_43.md"
 toc: false

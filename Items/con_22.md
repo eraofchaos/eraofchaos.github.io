@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Orange +1 Material Chest"
+title: "Item - Consumables -  New Year Gift Box"
 permalink: /Items/con_22/
-excerpt: " Orange +1 Material Chest"
-last_modified_at: 2021-01-12
+excerpt: " New Year Gift Box"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_22.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Receive a random orange +1 equipment-upgrading item.
+ **Description:** Grants 4,480 diamonds and 1 New Year Selection Chest. (New Year Selection Chest: Use to select 1 of the following - 1 Dragon King Component Chest, 1 Frost Component Chest, 1 Heavenly Component Chest, 1 Piece of Eden Component Chest, 1 Doomsday Component Chest, 40 Angel Soul Stones, 40 Behemoth Soul Stones, 40 Naga Soul Stones, 40 Psychic Soul Stones, 40 Bone Dragon Soul Stones, 40 Green Dragon Soul Stones, 40 Black Dragon Soul Stones, or 40 Demon Soul Stones.)
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -25,13 +25,9 @@ classes: wide
 
  **Required Level to open:** 1
 
- 3 You would get **1** item  from:
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Eternal Ore | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 2 |  **1x** | Eternal Wood | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 3 |  **1x** | Eternal Mercury | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 4 |  **1x** | Eternal Sulfur | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 5 |  **1x** | Eternal Gems | Common materials to upgrade equipment from orange +1 to orange +2.  | 
-  | 6 |  **1x** | Eternal Crystal | Common materials to upgrade equipment from orange +1 to orange +2.  | 
+  | 1 |  **4480x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | New Year Selection Chest | Use to select 1 of the following: 1 Dragon King Component Chest, 1 Frost Component Chest, 1 Heavenly Component Chest, 1 Piece of Eden Component Chest, 1 Doomsday Component Chest, 40 Angel Soul Stones, 40 Behemoth Soul Stones, 40 Naga Soul Stones, 40 Psychic Soul Stones, 40 Bone Dragon Soul Stones, 40 Green Dragon Soul Stones, 40 Black Dragon Soul Stones, or 40 Demon Soul Stones.  | 

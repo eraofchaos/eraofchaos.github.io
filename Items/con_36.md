@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Orange +2 Material Chest"
+title: "Item - Consumables -  Qiandongnan Herbal Cattle Hotpot"
 permalink: /Items/con_36/
-excerpt: " Orange +2 Material Chest"
-last_modified_at: 2021-01-12
+excerpt: " Qiandongnan Herbal Cattle Hotpot"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_36.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Receive a random orange +2 equipment-upgrading item.
+ **Description:** This ingredients of this dish have a faint gymnosiphon scent before they are cooked. The locals call this a hundred-herb soup, and it tastes better with every bite after it is cooked with various Chinese medicinal spices and beef offal.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
@@ -23,15 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 3 You would get **1** item  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Secret Ore | Common materials to upgrade equipment from orange +2 to orange +3.  | 
-  | 2 |  **1x** | Secret Wood | Common materials to upgrade equipment from orange +2 to orange +3.  | 
-  | 3 |  **1x** | Secret Mercury | Common materials to upgrade equipment from orange +2 to orange +3.  | 
-  | 4 |  **1x** | Secret Sulfur | Common materials to upgrade equipment from orange +2 to orange +3.  | 
-  | 5 |  **1x** | Secret Gems | Common materials to upgrade equipment from orange +2 to orange +3.  | 
-  | 6 |  **1x** | Secret Crystal | Common materials to upgrade equipment from orange +2 to orange +3.  | 

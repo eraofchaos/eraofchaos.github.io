@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Fortune"
 permalink: /Items/her_85/
 excerpt: " Fortune"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_85.md"
 toc: false

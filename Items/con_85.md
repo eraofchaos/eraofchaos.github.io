@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Wings of Triumph: Gelu"
+title: "Item - Consumables -  Festival Prayer Special Offer"
 permalink: /Items/con_85/
-excerpt: " Wings of Triumph: Gelu"
-last_modified_at: 2021-01-12
+excerpt: " Festival Prayer Special Offer"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_85.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** 
+ **Description:** Grants 10 Prayer Stones and 180 diamonds.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Gift
 
 ## Gather
 
@@ -25,8 +25,9 @@ classes: wide
 
  **Required Level to open:** 1
 
- 5 You would get **ALL** items  from:
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Wings of Triumph: Gelu |  | 
+  | 1 |  **180x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **10x** | Prayer Stone | A spirit stone meticulously refined by sorcerers for use in Spell Prayer.  | 

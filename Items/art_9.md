@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Tome of Earth Magic"
 permalink: /Items/art_9/
 excerpt: " Tome of Earth Magic"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_9.md"
 toc: false

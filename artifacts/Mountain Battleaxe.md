@@ -2,7 +2,7 @@
 title: "Artifacts - Armageddon's Blade - Mountain Battleaxe"
 permalink: /artifacts/Mountain Battleaxe/
 excerpt: "Armageddon's Blade - Mountain Battleaxe. A relic left by the Dwarf King after the battle of Enroth. One of the components of Armageddon's Blade."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Mountain Battleaxe.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Mountain Battleaxe](/Items/art_15/)
 

@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Wind Howling"
 permalink: /Items/her_69/
 excerpt: " Wind Howling"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_69.md"
 toc: false

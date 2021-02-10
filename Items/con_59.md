@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Soul Stone Pack 1"
+title: "Item - Consumables -  Realm Package"
 permalink: /Items/con_59/
-excerpt: " Soul Stone Pack 1"
-last_modified_at: 2021-01-12
+excerpt: " Realm Package"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_59.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 7,000 Soul Stones.
+ **Description:** A pack obtained from a realm. You have a chance to obtain Guild Coins, Skill Runes, and Rosters Box after opening it
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -25,8 +25,14 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ 3 You would get **1** item  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **7000x** | Soul Stone | Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store  | 
+  | 1 |  **88x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 2 |  **166x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 3 |  **388x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 4 |  **3x** | Blue Crystal | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used.  | 
+  | 5 |  **3x** | Purple Crystal | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.  | 
+  | 6 |  **3x** | Orange Crystal | A mysterious runestone. Greatly improves your units' skill insight. Provides 1000 skill EXP when used.  | 
+  | 7 |  **2x** | Expert Roster Box | A rare chest that can be found in Dragon's Treasures. Open to receive 3 random Roster runes.  | 

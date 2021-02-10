@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Total Darkness"
 permalink: /Items/her_37/
 excerpt: " Total Darkness"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_37.md"
 toc: false

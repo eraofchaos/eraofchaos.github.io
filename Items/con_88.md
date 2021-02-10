@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Elite Unit Pack"
+title: "Item - Consumables -  Elite Unit Special Offer"
 permalink: /Items/con_88/
-excerpt: " Elite Unit Pack"
-last_modified_at: 2021-01-12
+excerpt: " Elite Unit Special Offer"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_88.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use it to select 1 of the following: Medusa Token *40 or Druid Token *40
+ **Description:** Use it to get Diamond *3280, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -25,9 +25,11 @@ classes: wide
 
  **Required Level to open:** 1
 
- You would need to choose 1 item from the list (0):
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **40x** | Medusa | Once you have gathered 80 soul tokens you can summon a Medusa. Tokens can also be used to upgrade or increase the rank of medusas.  | 
-  | 2 |  **40x** | Druid | Once you have gathered 80 soul tokens you can summon a Druid, an SR aptitude unit.  | 
+  | 1 |  **3280x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Elite Unit Pack | Use it to select 1 of the following: Druid, Lich, Mummy, Nightmare, Genie, Magic Airship, Medusa, Beholder, Manticore, Wyvern, Basilisk, Stone Elemental, Mermaid Token *81  | 
+  | 3 |  **288x** | Talent potion ingredients | The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit.   | 
+  | 4 |  **20x** | Huge EXP potion | A bottle of highly purified EXP potion. You will gain 7500 unit EXP after drinking it.  | 

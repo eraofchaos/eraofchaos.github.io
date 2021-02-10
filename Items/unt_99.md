@@ -2,7 +2,7 @@
 title: "Item - Units -  Orc Commander Soul Stone"
 permalink: /Items/unt_99/
 excerpt: " Orc Commander Soul Stone"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_99.md"
 toc: false

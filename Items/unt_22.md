@@ -2,7 +2,7 @@
 title: "Item - Units -  Ice Elemental"
 permalink: /Items/unt_22/
 excerpt: " Ice Elemental"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_22.md"
 toc: false

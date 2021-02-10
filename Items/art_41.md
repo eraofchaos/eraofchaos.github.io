@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Necklace of Dragonteeth"
 permalink: /Items/art_41/
 excerpt: " Necklace of Dragonteeth"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_41.md"
 toc: false

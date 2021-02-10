@@ -2,7 +2,7 @@
 title: "Artifacts - Ring of the Mage - Collar of Conjuring"
 permalink: /artifacts/Collar of Conjuring/
 excerpt: "Ring of the Mage - Collar of Conjuring. Enhances the wearer's magic power. One of the components of Ring of the Mage."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Collar of Conjuring.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Ring of the Mage](/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 3x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Collar of Conjuring](/Items/art_73/)
 

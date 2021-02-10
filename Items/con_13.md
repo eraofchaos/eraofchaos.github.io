@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Epic Artifact Selection Special Offer"
+title: "Item - Consumables -  Candy Variety Gift Box"
 permalink: /Items/con_13/
-excerpt: " Epic Artifact Selection Special Offer"
-last_modified_at: 2021-01-12
+excerpt: " Candy Variety Gift Box"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_13.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 1 Epic Artifact Component Chest, 50 Heaven-Cast Stones, 50,000 gold, and 60 diamonds.
+ **Description:** Grants 2 Red Candy, 2 Yellow Candy, 2 Blue Candy, and 2 Green Candy.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,7 +29,7 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **60x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | _TOOL_907549 |  | 
-  | 3 |  **50x** | Heaven-Cast Stone | A crystal stone left over from the age of miracles. Essential material for Artifact upgrades.  | 
-  | 4 |  **50000x** | <i class="fas fa-coins"/> |  | 
+  | 1 |  **2x** | Red Candy | A beautifully packaged red candy. Can be used in the New Year Double Discounts event.  | 
+  | 2 |  **2x** | Yellow Candy | A beautifully packaged yellow candy. Can be used in the New Year Double Discounts event.  | 
+  | 3 |  **2x** | Blue Candy | A beautifully packaged blue candy. Can be used in the New Year Double Discounts event.  | 
+  | 4 |  **2x** | Green Candy | A beautifully packaged green candy. Can be used in the New Year Double Discounts event.  | 

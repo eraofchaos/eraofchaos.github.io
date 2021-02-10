@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Orange +4 Material Chest"
+title: "Item - Consumables -  Newcomer Pack"
 permalink: /Items/con_68/
-excerpt: " Orange +4 Material Chest"
-last_modified_at: 2021-01-12
+excerpt: " Newcomer Pack"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_68.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Receive a random orange +4 equipment-upgrading item.
+ **Description:** We've prepared great units and supplies to help you embark on your campaign!
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -25,13 +25,11 @@ classes: wide
 
  **Required Level to open:** 1
 
- 3 You would get **1** item  from:
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Star Ore | Common materials to upgrade equipment from orange +4 to orange +5.  | 
-  | 2 |  **1x** | Star Wood | Common materials to upgrade equipment from orange +4 to orange +5.  | 
-  | 3 |  **1x** | Star Mercury | Common materials to upgrade equipment from orange +4 to orange +5.  | 
-  | 4 |  **1x** | Star Sulfur | Common materials to upgrade equipment from orange +4 to orange +5.  | 
-  | 5 |  **1x** | Star Gems | Common materials to upgrade equipment from orange +4 to orange +5.  | 
-  | 6 |  **1x** | Star Crystal | Common materials to upgrade equipment from orange +4 to orange +5.  | 
+  | 1 | _TEAM_102 | 
+  | 2 |  **40x** | Marksman | Once you have gathered 10 soul tokens you can summon a Marksman, an R aptitude unit.  | 
+  | 3 |  **5x** | Castle Unit Chest | Receive a random Castle Faction Unit token.  | 
+  | 4 |  **50000x** | <i class="fas fa-coins"/> |  | 

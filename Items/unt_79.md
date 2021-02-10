@@ -2,7 +2,7 @@
 title: "Item - Units -  Wolf Raider Soul Stone"
 permalink: /Items/unt_79/
 excerpt: " Wolf Raider Soul Stone"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "unt_79.md"
 toc: false

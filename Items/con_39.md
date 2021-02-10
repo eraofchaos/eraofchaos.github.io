@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  New Year Gift Box"
+title: "Item - Consumables -  Revelations: Ezio Special Offer"
 permalink: /Items/con_39/
-excerpt: " New Year Gift Box"
-last_modified_at: 2021-01-12
+excerpt: " Revelations: Ezio Special Offer"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_39.md"
 toc: false
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 4,480 diamonds and 1 New Year Selection Chest. (New Year Selection Chest: Use to select 1 of the following - 1 Dragon King Component Chest, 1 Frost Component Chest, 1 Heavenly Component Chest, 1 Piece of Eden Component Chest, 1 Doomsday Component Chest, 40 Angel Soul Stones, 40 Behemoth Soul Stones, 40 Naga Soul Stones, 40 Psychic Soul Stones, 40 Bone Dragon Soul Stones, 40 Green Dragon Soul Stones, 40 Black Dragon Soul Stones, or 40 Demon Soul Stones.)
+ **Description:** Grants 680 Diamonds, 1 Revelations: Ezio Skin, and 10 Ancient Temple Scrolls.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -29,5 +29,6 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **4480x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | New Year Selection Chest | Use to select 1 of the following: 1 Dragon King Component Chest, 1 Frost Component Chest, 1 Heavenly Component Chest, 1 Piece of Eden Component Chest, 1 Doomsday Component Chest, 40 Angel Soul Stones, 40 Behemoth Soul Stones, 40 Naga Soul Stones, 40 Psychic Soul Stones, 40 Bone Dragon Soul Stones, 40 Green Dragon Soul Stones, 40 Black Dragon Soul Stones, or 40 Demon Soul Stones.  | 
+  | 1 |  **680x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Revelations: Ezio | Grants the Revelations: Ezio skin.  | 
+  | 3 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 

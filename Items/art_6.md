@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Shroud of Eden"
 permalink: /Items/art_6/
 excerpt: " Shroud of Eden"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_6.md"
 toc: false

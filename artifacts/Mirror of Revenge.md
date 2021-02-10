@@ -2,7 +2,7 @@
 title: "Artifacts - Mirror of Revenge"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Mirror of Revenge A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Mirror of Revenge.md"
 toc: false

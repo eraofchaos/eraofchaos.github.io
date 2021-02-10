@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Medium Campaign Treasure"
+title: "Item - Consumables -  Guardian of Vernin Ryland"
 permalink: /Items/con_57/
-excerpt: " Medium Campaign Treasure"
-last_modified_at: 2021-01-12
+excerpt: " Guardian of Vernin Ryland"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_57.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A treasure chest containing 30 Empire Medals!
+ **Description:** Use to get a skin: Guardian of Vernin Ryland
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** EXP
+ **Type:** Unknown
 
 ## Gather
 

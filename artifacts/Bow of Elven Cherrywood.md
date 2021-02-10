@@ -2,7 +2,7 @@
 title: "Artifacts - Bow of the Sharpshooter - Bow of Elven Cherrywood"
 permalink: /artifacts/Bow of Elven Cherrywood/
 excerpt: "Bow of the Sharpshooter - Bow of Elven Cherrywood. A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Bow of Elven Cherrywood.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Bow of the Sharpshooter](/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Bow of Elven Cherrywood](/Items/art_4/)
 

@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Recanter`s Cloak"
 permalink: /Items/art_71/
 excerpt: " Recanter`s Cloak"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_71.md"
 toc: false

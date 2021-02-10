@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Crown of Dragontooth"
 permalink: /Items/art_86/
 excerpt: " Crown of Dragontooth"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_86.md"
 toc: false

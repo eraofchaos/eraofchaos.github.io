@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Titan's Thunder A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Titan's Thunder.md"
 toc: false

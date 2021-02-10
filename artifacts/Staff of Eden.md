@@ -2,7 +2,7 @@
 title: "Artifacts - Apple of Eden - Staff of Eden"
 permalink: /artifacts/Staff of Eden/
 excerpt: "Apple of Eden - Staff of Eden. A staff from the First Civilization. It can grant the wielder limitless time and knowledge."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Staff of Eden.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Staff of Eden](/Items/art_67/)
 

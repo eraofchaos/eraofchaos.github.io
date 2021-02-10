@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Kassandra Pack"
+title: "Item - Consumables -  Stone Elemental Special Offer Pack"
 permalink: /Items/con_40/
-excerpt: " Kassandra Pack"
-last_modified_at: 2021-01-12
+excerpt: " Stone Elemental Special Offer Pack"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_40.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 680 Diamonds, 30 Kassandra Tokens, and 100 Spell Scrolls.
+ **Description:** Use it to get 3-star Stone Elemental *1, Defense Talent Potion *288, Elemental Roster runes *30 and Diamond *3280
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,6 +29,7 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **680x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **30x** | Kassandra | Collect 30 tokens to summon Kassandra to join your party. Tokens are also required to increase her rank.  | 
-  | 3 |  **100x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 
+  | 1 | _TEAM_905 | 
+  | 2 |  **288x** | Defensive Talent Potion | This potion improves your Defensive units' attributes and upgrades their skills.  | 
+  | 3 |  **30x** | Conflux Roster runes | Important item to increase your Conflux rankings.  | 
+  | 4 |  **3280x** | <i class="fas fa-gem"/> |  | 

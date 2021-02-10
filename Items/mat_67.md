@@ -2,7 +2,7 @@
 title: "Item - Materials -  Exceptional Ore"
 permalink: /Items/mat_67/
 excerpt: " Exceptional Ore"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "mat_67.md"
 toc: false

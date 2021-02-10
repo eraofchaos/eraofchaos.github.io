@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Dungeon SR+ Unit Token Selection Chest"
+title: "Item - Consumables -  Qiandongnan Herbal Cattle Hotpot"
 permalink: /Items/con_26/
-excerpt: " Dungeon SR+ Unit Token Selection Chest"
-last_modified_at: 2021-01-12
+excerpt: " Qiandongnan Herbal Cattle Hotpot"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_26.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 Medusa, Beholder, or Manticore token.
+ **Description:** This ingredients of this dish have a faint gymnosiphon scent before they are cooked. The locals call this a hundred-herb soup, and it tastes better with every bite after it is cooked with various Chinese medicinal spices and beef offal. This particular pot of food seems to be insufficiently heated.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
@@ -23,12 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- You would need to choose 1 item from the list (0):
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Medusa | Once you have gathered 80 soul tokens you can summon a Medusa. Tokens can also be used to upgrade or increase the rank of medusas.  | 
-  | 2 |  **1x** | Beholder | Once you have gathered 80 soul tokens you can summon a Beholder. Tokens can also be used to upgrade or increase the rank of Beholders.  | 
-  | 3 |  **1x** | Manticore | Once you have gathered 80 soul tokens you can summon a Manticore. Tokens can also be used to upgrade or increase the rank of manticores.  | 

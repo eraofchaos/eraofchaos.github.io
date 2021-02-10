@@ -2,7 +2,7 @@
 title: "Artifacts - Mirror of Revenge - Ice Scale"
 permalink: /artifacts/Ice Scale/
 excerpt: "Mirror of Revenge - Ice Scale. An item used to regulate powerful frost magic. One of the components of the Mirror of Revenge."
-last_modified_at: 2021-02-02
+last_modified_at: 2021-02-10
 lang: en
 ref: "Ice Scale.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_277/)
+ **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
 
  **Related Item**: [ Ice Scale](/Items/art_24/)
 

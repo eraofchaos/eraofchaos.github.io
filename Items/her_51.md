@@ -2,7 +2,7 @@
 title: "Item - Heroes -  Zydar"
 permalink: /Items/her_51/
 excerpt: " Zydar"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "her_51.md"
 toc: false

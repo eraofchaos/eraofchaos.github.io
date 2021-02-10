@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables -  Gold Compass"
+title: "Item - Consumables -  Gorgon's Horn Special Skin"
 permalink: /Items/con_15/
-excerpt: " Gold Compass"
-last_modified_at: 2021-01-12
+excerpt: " Gorgon's Horn Special Skin"
+last_modified_at: 2021-02-10
 lang: en
 ref: "con_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A gold compass to predict the future. Can be exchanged for Cove Faction items in corresponding events!
+ **Description:** Unlock the skin when Gorgon's Horn is awakened.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Event related
+ **Type:** Unknown
 
 ## Gather
 

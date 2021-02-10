@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Magic Charm"
 permalink: /Items/art_56/
 excerpt: " Magic Charm"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_56.md"
 toc: false

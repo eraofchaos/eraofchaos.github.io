@@ -2,7 +2,7 @@
 title: "Item - Artifacts -  Bird of Perception"
 permalink: /Items/art_7/
 excerpt: " Bird of Perception"
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-10
 lang: en
 ref: "art_7.md"
 toc: false
