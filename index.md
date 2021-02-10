@@ -2,12 +2,27 @@
 title: "Era Of Chaos Wiki portal"
 excerpt: "Era of Chaos Wiki portal. Complete information about the game: Units, Heroes, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
 author_profile: false
-last_modified_at: 2021-01-19
+last_modified_at: 2021-02-7
 toc: false
 classes: wide
 sidebar:
   nav: "docs"
 ---
+
+{% capture notice-update20210205 %}
+**Client update** (version **142 (3090)**):
+
+* New event - **Dine With Heroes**:
+*    [Kitchen Recipes](https://eraofchaos.github.io/DineWithHeroesKitchenRecipes/)
+*    Market and Restaurant on the way...
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">5 February 2021 Update:</h4>
+  {{ notice-update20210205 | markdownify }}
+</div>
+
+
 
 {% capture notice-update20210203 %}
 **Client update** (version **142 (3073)**):
@@ -25,60 +40,6 @@ sidebar:
   <h4 class="no_toc">3 February 2021 Update:</h4>
   {{ notice-update20210203 | markdownify }}
 </div>
-
-
-
-
-{% capture notice-update20210202 %}
-**Client update** (version **142 (3061)**):
-
-* New date for Auto-Chess (2nd time): from 9 February up to 22 February 2021. 
-
-New changes in Auto-Chess: Increased amount of coin per lose (on initial phase) from 1 to 2 and from 2 to 3.
-* Added **100+** [Items](https://eraofchaos.github.io/Items/) into game
-* Changed login screen, logon button and "snow mode" is activated
-* New battle calculation (version 10121)
-* About 30 changes in Skills (some adjustments + new one)
-* New Hero Skin **Spring Festival Celebrations** for [Gelu](https://eraofchaos.github.io/heroes/Gelu/)
-* New Hero Skin **Spring Festival Celebrations** for [Xeron](https://eraofchaos.github.io/heroes/Xeron/)
-* New Hero Skin **Heart-pounding Summer** for [Cassanbel](https://eraofchaos.github.io/heroes/Cassanbel/)
-* New Avatar Frame - **Deep Ice Crystal** (Deep Ice Crystal Avatar Frame)
-* New Hero Avatars: Gelu Spring Festival Celebrations, Xeron Spring Festival Celebrations, Heart-pounding Summer
-* New Unit Avatars: **Death Howler Avatar**, **Shark Trainer Avatar**
-* Added Second Artifact selection for Weekly HotSpot (wiki will be updated soon)
-* Added "**Cyclops King Soul Stone**" to shop
-* New feature with 2 Realms (released date is unknown): 
-
- - **Phantom Realm** (Get rewards after defeating other players' phantoms) 
- - **Wizard Realm** (Get rewards after completing wizards' requests)
-
-* NEW Market Tickets (released date is unknown):
-
- - You have "Market Entry Ticket" (Necessary item to enter the market and buy ingredients. Can be claimed from the mailbox after spending Energy).
- - I'll post later information about it. I can see nice rewards from it.
-
-* New Events and more...
-
-
-**EraOfChaos Wiki update**:
-
-* Wiki updated to the latest state (changed 730 files).
-* Wiki contains **equipments** for each Unit.
-* Updated [Faction Future Week Info](/Weekly Sign Rewards/) (up to 7 March 2021) 
-* Updated [Schedule](https://eraofchaos.github.io/Schedule/) (up to 1 March 2021).
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">2 February 2021 Update:</h4>
-  {{ notice-update20210202 | markdownify }}
-</div>
-
-
-
-
-
-
 
 
 
