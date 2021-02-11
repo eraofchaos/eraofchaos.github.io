@@ -13,7 +13,7 @@ sidebar:
 **Client update** (version **142 (3090)**):
 
 * New event - **Dine With Heroes**:
-*    [Kitchen Recipes](https://eraofchaos.github.io/DineWithHeroesKitchenRecipes/)
+*    [Kitchen Recipes](https://eraofchaos.github.io/DineWithHeroesKitchenRecipes.html)
 *    Market and Restaurant on the way...
 {% endcapture %}
 
