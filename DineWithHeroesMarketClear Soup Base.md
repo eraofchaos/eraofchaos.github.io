@@ -6,6 +6,7 @@ last_modified_at: 2021-02-11
 lang: en
 ref: "DineWithHeroesMarketClear Soup Base.html"
 toc: true
+layout: single
 sidebar:
   nav: "docs"
 ---
@@ -30,11 +31,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Swordsman](/units/Swordsman/) | - | - |
-  | [Swordsman](/units/Swordsman/) | - | - | - |
-  | - | [Swordsman](/units/Swordsman/) | - | - |
-  | - | - | - | - |
+  | - | [Swordsman](/units/Swordsman/) | - | - | 
+  | [Swordsman](/units/Swordsman/) | - | - | - | 
+  | - | [Swordsman](/units/Swordsman/) | - | - | 
+  | - | - | - | - | 
 
 
 ## Clear Soup Base <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -55,11 +58,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Swordsman](/units/Swordsman/) | - | - |
-  | [Swordsman](/units/Swordsman/) | - | [Monk](/units/Monk/) | [Marksman](/units/Marksman/) |
-  | - | [Swordsman](/units/Swordsman/) | - | [Cavalier](/units/Cavalier/) |
-  | - | - | - | - |
+  | - | [Swordsman](/units/Swordsman/) | - | - | 
+  | [Swordsman](/units/Swordsman/) | - | [Monk](/units/Monk/) | [Marksman](/units/Marksman/) | 
+  | - | [Swordsman](/units/Swordsman/) | - | [Cavalier](/units/Cavalier/) | 
+  | - | - | - | - | 
 
 
 ## Clear Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -80,11 +85,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Swordsman](/units/Swordsman/) | - | - |
-  | [Swordsman](/units/Swordsman/) | [Angel](/units/Angel/) | [Angel](/units/Angel/) | [Marksman](/units/Marksman/) |
-  | - | [Swordsman](/units/Swordsman/) | - | [Griffin](/units/Griffin/) |
-  | - | - | - | - |
+  | - | [Swordsman](/units/Swordsman/) | - | - | 
+  | [Swordsman](/units/Swordsman/) | [Angel](/units/Angel/) | [Angel](/units/Angel/) | [Marksman](/units/Marksman/) | 
+  | - | [Swordsman](/units/Swordsman/) | - | [Griffin](/units/Griffin/) | 
+  | - | - | - | - | 
 
 
 ## Clear Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -105,11 +112,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Paladin](/units/Paladin/) | - | - |
-  | [Swordsman](/units/Swordsman/) | [Angel](/units/Angel/) | [Monk](/units/Monk/) | [Giant](/units/Giant/) |
-  | - | [Paladin](/units/Paladin/) | - | [Cavalier](/units/Cavalier/) |
-  | - | - | - | - |
+  | - | [Paladin](/units/Paladin/) | - | - | 
+  | [Swordsman](/units/Swordsman/) | [Angel](/units/Angel/) | [Monk](/units/Monk/) | [Giant](/units/Giant/) | 
+  | - | [Paladin](/units/Paladin/) | - | [Cavalier](/units/Cavalier/) | 
+  | - | - | - | - | 
 
 
 

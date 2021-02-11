@@ -6,6 +6,7 @@ last_modified_at: 2021-02-11
 lang: en
 ref: "DineWithHeroesMarketSpicy Soup Base.html"
 toc: true
+layout: single
 sidebar:
   nav: "docs"
 ---
@@ -30,11 +31,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | - | - | - |
-  | [Imp](/units/Imp/) | [Demon](/units/Demon/) | - | [Efreeti](/units/Efreeti/) |
-  | - | - | - | - |
-  | - | - | - | - |
+  | - | - | - | - | 
+  | [Imp](/units/Imp/) | [Demon](/units/Demon/) | - | [Efreeti](/units/Efreeti/) | 
+  | - | - | - | - | 
+  | - | - | - | - | 
 
 
 ## Spicy Soup Base <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -55,11 +58,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | [Imp](/units/Imp/) | - | [Firebird](/units/Firebird/) | [Firebird](/units/Firebird/) |
-  | [Demon](/units/Demon/) | [Nightmare](/units/Nightmare/) | - | [Efreeti](/units/Efreeti/) |
-  | [Imp](/units/Imp/) | - | [Firebird](/units/Firebird/) | - |
-  | - | - | - | - |
+  | [Imp](/units/Imp/) | - | [Firebird](/units/Firebird/) | [Firebird](/units/Firebird/) | 
+  | [Demon](/units/Demon/) | [Nightmare](/units/Nightmare/) | - | [Efreeti](/units/Efreeti/) | 
+  | [Imp](/units/Imp/) | - | [Firebird](/units/Firebird/) | - | 
+  | - | - | - | - | 
 
 
 ## Spicy Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -80,11 +85,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | [Devil](/units/Devil/) | [Fire Elemental](/units/Fire Elemental/) | - | - |
-  | [Demon](/units/Demon/) | [Pit Fiend](/units/Pit Fiend/) | [Firebird](/units/Firebird/) | [Efreeti](/units/Efreeti/) |
-  | [Devil](/units/Devil/) | [Fire Elemental](/units/Fire Elemental/) | - | - |
-  | - | - | - | - |
+  | [Devil](/units/Devil/) | [Fire Elemental](/units/Fire Elemental/) | - | - | 
+  | [Demon](/units/Demon/) | [Pit Fiend](/units/Pit Fiend/) | [Firebird](/units/Firebird/) | [Efreeti](/units/Efreeti/) | 
+  | [Devil](/units/Devil/) | [Fire Elemental](/units/Fire Elemental/) | - | - | 
+  | - | - | - | - | 
 
 
 ## Spicy Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -105,11 +112,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | [Devil](/units/Devil/) | - | [Gog](/units/Gog/) | [Gog](/units/Gog/) |
-  | [Behemoth](/units/Behemoth/) | [Nightmare](/units/Nightmare/) | [Psychic Elemental](/units/Psychic Elemental/) | [Efreeti](/units/Efreeti/) |
-  | [Devil](/units/Devil/) | - | [Gog](/units/Gog/) | - |
-  | - | - | - | - |
+  | [Devil](/units/Devil/) | - | [Gog](/units/Gog/) | [Gog](/units/Gog/) | 
+  | [Behemoth](/units/Behemoth/) | [Nightmare](/units/Nightmare/) | [Psychic Elemental](/units/Psychic Elemental/) | [Efreeti](/units/Efreeti/) | 
+  | [Devil](/units/Devil/) | - | [Gog](/units/Gog/) | - | 
+  | - | - | - | - | 
 
 
 

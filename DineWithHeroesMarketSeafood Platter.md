@@ -6,6 +6,7 @@ last_modified_at: 2021-02-11
 lang: en
 ref: "DineWithHeroesMarketSeafood Platter.html"
 toc: true
+layout: single
 sidebar:
   nav: "docs"
 ---
@@ -30,11 +31,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Regnan Pirates](/units/Regnan Pirates/) | - | - |
-  | [Regnan Pirates](/units/Regnan Pirates/) | - | - | - |
-  | - | [Regnan Pirates](/units/Regnan Pirates/) | - | - |
-  | - | - | - | - |
+  | - | [Regnan Pirates](/units/Regnan Pirates/) | - | - | 
+  | [Regnan Pirates](/units/Regnan Pirates/) | - | - | - | 
+  | - | [Regnan Pirates](/units/Regnan Pirates/) | - | - | 
+  | - | - | - | - | 
 
 
 ## Seafood Platter <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -55,11 +58,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Regnan Serpent](/units/Regnan Serpent/) | [Genie](/units/Genie/) | [Genie](/units/Genie/) |
-  | [Regnan Pirates](/units/Regnan Pirates/) | - | [Sea Elemental](/units/Sea Elemental/) | [Mermaid](/units/Mermaid/) |
-  | - | [Regnan Serpent](/units/Regnan Serpent/) | [Genie](/units/Genie/) | - |
-  | - | - | - | - |
+  | - | [Regnan Serpent](/units/Regnan Serpent/) | [Genie](/units/Genie/) | [Genie](/units/Genie/) | 
+  | [Regnan Pirates](/units/Regnan Pirates/) | - | [Sea Elemental](/units/Sea Elemental/) | [Mermaid](/units/Mermaid/) | 
+  | - | [Regnan Serpent](/units/Regnan Serpent/) | [Genie](/units/Genie/) | - | 
+  | - | - | - | - | 
 
 
 ## Seafood Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -80,11 +85,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Dragon Turtle](/units/Dragon Turtle/) | - | - |
-  | [Regnan Pirates](/units/Regnan Pirates/) | [Regnan Serpent](/units/Regnan Serpent/) | [Mermaid](/units/Mermaid/) | [Regnan Archer](/units/Regnan Archer/) |
-  | - | [Dragon Turtle](/units/Dragon Turtle/) | - | [Sea Elemental](/units/Sea Elemental/) |
-  | - | - | - | - |
+  | - | [Dragon Turtle](/units/Dragon Turtle/) | - | - | 
+  | [Regnan Pirates](/units/Regnan Pirates/) | [Regnan Serpent](/units/Regnan Serpent/) | [Mermaid](/units/Mermaid/) | [Regnan Archer](/units/Regnan Archer/) | 
+  | - | [Dragon Turtle](/units/Dragon Turtle/) | - | [Sea Elemental](/units/Sea Elemental/) | 
+  | - | - | - | - | 
 
 
 ## Seafood Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -105,11 +112,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Dragon Turtle](/units/Dragon Turtle/) | - | - |
-  | [Regnan Pirates](/units/Regnan Pirates/) | [Regnan Serpent](/units/Regnan Serpent/) | [Sea Elemental](/units/Sea Elemental/) | [Mermaid](/units/Mermaid/) |
-  | - | [Dragon Turtle](/units/Dragon Turtle/) | - | [Shark Trainer](/units/Shark Trainer/) |
-  | - | - | - | - |
+  | - | [Dragon Turtle](/units/Dragon Turtle/) | - | - | 
+  | [Regnan Pirates](/units/Regnan Pirates/) | [Regnan Serpent](/units/Regnan Serpent/) | [Sea Elemental](/units/Sea Elemental/) | [Mermaid](/units/Mermaid/) | 
+  | - | [Dragon Turtle](/units/Dragon Turtle/) | - | [Shark Trainer](/units/Shark Trainer/) | 
+  | - | - | - | - | 
 
 
 

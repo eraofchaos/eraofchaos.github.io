@@ -7,6 +7,7 @@ lang: en
 ref: "index.md"
 toc: false
 classes: wide
+layout: single
 sidebar:
   nav: "docs"
 ---

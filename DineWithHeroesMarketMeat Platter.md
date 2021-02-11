@@ -6,6 +6,7 @@ last_modified_at: 2021-02-11
 lang: en
 ref: "DineWithHeroesMarketMeat Platter.html"
 toc: true
+layout: single
 sidebar:
   nav: "docs"
 ---
@@ -30,11 +31,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Wolf Rider](/units/Wolf Rider/) | - | - |
-  | [Ogre](/units/Ogre/) | - | - | - |
-  | - | [Wolf Rider](/units/Wolf Rider/) | - | - |
-  | - | - | - | - |
+  | - | [Wolf Rider](/units/Wolf Rider/) | - | - | 
+  | [Ogre](/units/Ogre/) | - | - | - | 
+  | - | [Wolf Rider](/units/Wolf Rider/) | - | - | 
+  | - | - | - | - | 
 
 
 ## Meat Platter <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -55,11 +58,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Stone Elemental](/units/Stone Elemental/) | - | - |
-  | [Ogre](/units/Ogre/) | - | [Roc](/units/Roc/) | [Cyclops](/units/Cyclops/) |
-  | - | [Stone Elemental](/units/Stone Elemental/) | - | [Orc](/units/Orc/) |
-  | - | - | - | - |
+  | - | [Stone Elemental](/units/Stone Elemental/) | - | - | 
+  | [Ogre](/units/Ogre/) | - | [Roc](/units/Roc/) | [Cyclops](/units/Cyclops/) | 
+  | - | [Stone Elemental](/units/Stone Elemental/) | - | [Orc](/units/Orc/) | 
+  | - | - | - | - | 
 
 
 ## Meat Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -80,11 +85,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Behemoth](/units/Behemoth/) | [Cyclops](/units/Cyclops/) | [Cyclops](/units/Cyclops/) |
-  | [Ogre](/units/Ogre/) | [Goblin](/units/Goblin/) | [Orc](/units/Orc/) | [Roc](/units/Roc/) |
-  | - | [Behemoth](/units/Behemoth/) | [Cyclops](/units/Cyclops/) | - |
-  | - | - | - | - |
+  | - | [Behemoth](/units/Behemoth/) | [Cyclops](/units/Cyclops/) | [Cyclops](/units/Cyclops/) | 
+  | [Ogre](/units/Ogre/) | [Goblin](/units/Goblin/) | [Orc](/units/Orc/) | [Roc](/units/Roc/) | 
+  | - | [Behemoth](/units/Behemoth/) | [Cyclops](/units/Cyclops/) | - | 
+  | - | - | - | - | 
 
 
 ## Meat Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -105,11 +112,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | [Behemoth](/units/Behemoth/) | [Berserker](/units/Berserker/) | [Berserker](/units/Berserker/) |
-  | [Ogre](/units/Ogre/) | [Goblin](/units/Goblin/) | [Orc](/units/Orc/) | [Cyclops](/units/Cyclops/) |
-  | - | [Behemoth](/units/Behemoth/) | [Berserker](/units/Berserker/) | - |
-  | - | - | - | - |
+  | - | [Behemoth](/units/Behemoth/) | [Berserker](/units/Berserker/) | [Berserker](/units/Berserker/) | 
+  | [Ogre](/units/Ogre/) | [Goblin](/units/Goblin/) | [Orc](/units/Orc/) | [Cyclops](/units/Cyclops/) | 
+  | - | [Behemoth](/units/Behemoth/) | [Berserker](/units/Berserker/) | - | 
+  | - | - | - | - | 
 
 
 

@@ -6,6 +6,7 @@ last_modified_at: 2021-02-11
 lang: en
 ref: "DineWithHeroesMarketVegetable Platter.html"
 toc: true
+layout: single
 sidebar:
   nav: "docs"
 ---
@@ -30,11 +31,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | - | - | - |
-  | [Dendroid Guard](/units/Dendroid Guard/) | [Dwarf](/units/Dwarf/) | - | [Druid](/units/Druid/) |
-  | - | - | - | - |
-  | - | - | - | - |
+  | - | - | - | - | 
+  | [Dendroid Guard](/units/Dendroid Guard/) | [Dwarf](/units/Dwarf/) | - | [Druid](/units/Druid/) | 
+  | - | - | - | - | 
+  | - | - | - | - | 
 
 
 ## Vegetable Platter <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -55,11 +58,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | [Centaur](/units/Centaur/) | - | [Unicorn](/units/Unicorn/) | [Unicorn](/units/Unicorn/) |
-  | [Dwarf](/units/Dwarf/) | [Pegasus](/units/Pegasus/) | - | [Druid](/units/Druid/) |
-  | [Centaur](/units/Centaur/) | - | [Unicorn](/units/Unicorn/) | - |
-  | - | - | - | - |
+  | [Centaur](/units/Centaur/) | - | [Unicorn](/units/Unicorn/) | [Unicorn](/units/Unicorn/) | 
+  | [Dwarf](/units/Dwarf/) | [Pegasus](/units/Pegasus/) | - | [Druid](/units/Druid/) | 
+  | [Centaur](/units/Centaur/) | - | [Unicorn](/units/Unicorn/) | - | 
+  | - | - | - | - | 
 
 
 ## Vegetable Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -80,11 +85,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | [Dwarf](/units/Dwarf/) | - | [Green Dragon](/units/Green Dragon/) | [Green Dragon](/units/Green Dragon/) |
-  | [Dendroid Guard](/units/Dendroid Guard/) | [Centaur](/units/Centaur/) | [Pegasus](/units/Pegasus/) | [Druid](/units/Druid/) |
-  | [Dwarf](/units/Dwarf/) | - | [Green Dragon](/units/Green Dragon/) | - |
-  | - | - | - | - |
+  | [Dwarf](/units/Dwarf/) | - | [Green Dragon](/units/Green Dragon/) | [Green Dragon](/units/Green Dragon/) | 
+  | [Dendroid Guard](/units/Dendroid Guard/) | [Centaur](/units/Centaur/) | [Pegasus](/units/Pegasus/) | [Druid](/units/Druid/) | 
+  | [Dwarf](/units/Dwarf/) | - | [Green Dragon](/units/Green Dragon/) | - | 
+  | - | - | - | - | 
 
 
 ## Vegetable Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -105,11 +112,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | [Leprechaun](/units/Leprechaun/) | [Pegasus](/units/Pegasus/) | - | - |
-  | [Dendroid Guard](/units/Dendroid Guard/) | [Green Dragon](/units/Green Dragon/) | [Green Dragon](/units/Green Dragon/) | [Druid](/units/Druid/) |
-  | [Leprechaun](/units/Leprechaun/) | [Pegasus](/units/Pegasus/) | - | - |
-  | - | - | - | - |
+  | [Leprechaun](/units/Leprechaun/) | [Pegasus](/units/Pegasus/) | - | - | 
+  | [Dendroid Guard](/units/Dendroid Guard/) | [Green Dragon](/units/Green Dragon/) | [Green Dragon](/units/Green Dragon/) | [Druid](/units/Druid/) | 
+  | [Leprechaun](/units/Leprechaun/) | [Pegasus](/units/Pegasus/) | - | - | 
+  | - | - | - | - | 
 
 
 

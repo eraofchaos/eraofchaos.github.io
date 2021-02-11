@@ -6,6 +6,7 @@ last_modified_at: 2021-02-11
 lang: en
 ref: "DineWithHeroesMarketSpecial Soup Base.html"
 toc: true
+layout: single
 sidebar:
   nav: "docs"
 ---
@@ -30,11 +31,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | - | - | - | - |
-  | [Skeleton](/units/Skeleton/) | [Skeleton](/units/Skeleton/) | - | [Lich](/units/Lich/) |
-  | - | - | - | - |
-  | - | - | - | - |
+  | - | - | - | - | 
+  | [Skeleton](/units/Skeleton/) | [Skeleton](/units/Skeleton/) | - | [Lich](/units/Lich/) | 
+  | - | - | - | - | 
+  | - | - | - | - | 
 
 
 ## Special Soup Base <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -55,11 +58,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | [Ogre](/units/Ogre/) | [Vampire](/units/Vampire/) | - | - |
-  | [Walking Dead](/units/Walking Dead/) | [Skeleton](/units/Skeleton/) | - | [Lich](/units/Lich/) |
-  | [Ogre](/units/Ogre/) | [Vampire](/units/Vampire/) | - | - |
-  | - | - | - | - |
+  | [Ogre](/units/Ogre/) | [Vampire](/units/Vampire/) | - | - | 
+  | [Walking Dead](/units/Walking Dead/) | [Skeleton](/units/Skeleton/) | - | [Lich](/units/Lich/) | 
+  | [Ogre](/units/Ogre/) | [Vampire](/units/Vampire/) | - | - | 
+  | - | - | - | - | 
 
 
 ## Special Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -80,11 +85,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | [Basilisk](/units/Basilisk/) | - | [Black Knight](/units/Black Knight/) | [Black Knight](/units/Black Knight/) |
-  | [Walking Dead](/units/Walking Dead/) | [Mummy](/units/Mummy/) | [Wight](/units/Wight/) | [Lich](/units/Lich/) |
-  | [Basilisk](/units/Basilisk/) | - | [Black Knight](/units/Black Knight/) | - |
-  | - | - | - | - |
+  | [Basilisk](/units/Basilisk/) | - | [Black Knight](/units/Black Knight/) | [Black Knight](/units/Black Knight/) | 
+  | [Walking Dead](/units/Walking Dead/) | [Mummy](/units/Mummy/) | [Wight](/units/Wight/) | [Lich](/units/Lich/) | 
+  | [Basilisk](/units/Basilisk/) | - | [Black Knight](/units/Black Knight/) | - | 
+  | - | - | - | - | 
 
 
 ## Special Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -105,11 +112,13 @@ sidebar:
 
  **Team:**
 
+
+
   |:---:|:---:|:---|:---:|
-  | [Bone Dragon](/units/Bone Dragon/) | - | [Wight](/units/Wight/) | [Wight](/units/Wight/) |
-  | [Mummy](/units/Mummy/) | [Black Knight](/units/Black Knight/) | [Black Knight](/units/Black Knight/) | [Lich](/units/Lich/) |
-  | [Bone Dragon](/units/Bone Dragon/) | - | [Wight](/units/Wight/) | - |
-  | - | - | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) | - | [Wight](/units/Wight/) | [Wight](/units/Wight/) | 
+  | [Mummy](/units/Mummy/) | [Black Knight](/units/Black Knight/) | [Black Knight](/units/Black Knight/) | [Lich](/units/Lich/) | 
+  | [Bone Dragon](/units/Bone Dragon/) | - | [Wight](/units/Wight/) | - | 
+  | - | - | - | - | 
 
 
 

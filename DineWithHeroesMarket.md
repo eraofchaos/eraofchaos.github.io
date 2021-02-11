@@ -6,6 +6,7 @@ last_modified_at: 2021-02-11
 lang: en
 ref: "DineWithHeroesMarket.html"
 toc: false
+layout: single
 sidebar:
   nav: "docs"
 ---
