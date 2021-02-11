@@ -5,7 +5,10 @@ excerpt: "Dine with Heroes - Kitchen - Recipe."
 last_modified_at: 2021-02-11
 lang: en
 ref: "index.md"
-toc: true
+toc: false
+classes: wide
+sidebar:
+  nav: "docs"
 ---
 
 **Warning** The cooking result depends on your hits in the cooking bar. You must hit into red area to get best component grade. The red area has 100 size for first try, 70 for second and 30 for last one. If you fail on first bar the process would fail and you can try again. Fail on second one brings BLUE component. Fail on third bar gives VIOLET component! All hits give ORANGE!
