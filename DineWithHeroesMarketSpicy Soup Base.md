@@ -13,7 +13,7 @@ sidebar:
 
 [Clear Soup Base](/DineWithHeroesMarket Clear Soup Base.html){: .btn .btn--primary}[Spicy Soup Base](/DineWithHeroesMarket Spicy Soup Base.html){: .btn .btn--success}[Special Soup Base](/DineWithHeroesMarket Special Soup Base.html){: .btn .btn--warning}[Meat Platter](/DineWithHeroesMarket Meat Platter.html){: .btn .btn--danger}[Vegetable Platter](/DineWithHeroesMarket Vegetable Platter.html){: .btn .btn--info}[Seafood Platter](/DineWithHeroesMarket Seafood Platter.html){: .btn .btn--primary}
 
-## Spicy Soup Base <i class="fas fa-star"/>
+## Spicy Soup Base 1*
  **Description:** This spicy soup base is addictive. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/>
@@ -33,14 +33,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | - | - | - | 
-  | [Imp](/units/Imp/) | [Demon](/units/Demon/) | - | [Efreeti](/units/Efreeti/) | 
-  | - | - | - | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Imp](/units/Imp/) | [Demon](/units/Demon/) | - | [Efreeti](/units/Efreeti/) |
+  | - | - | - | - |
+  | - | - | - | - |
 
 
-## Spicy Soup Base <i class="fas fa-star"/><i class="fas fa-star"/>
+## Spicy Soup Base 2*
  **Description:** This spicy soup base is addictive. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -60,14 +61,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | [Imp](/units/Imp/) | - | [Firebird](/units/Firebird/) | [Firebird](/units/Firebird/) | 
-  | [Demon](/units/Demon/) | [Nightmare](/units/Nightmare/) | - | [Efreeti](/units/Efreeti/) | 
-  | [Imp](/units/Imp/) | - | [Firebird](/units/Firebird/) | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Imp](/units/Imp/) | - | [Firebird](/units/Firebird/) | [Firebird](/units/Firebird/) |
+  | [Demon](/units/Demon/) | [Nightmare](/units/Nightmare/) | - | [Efreeti](/units/Efreeti/) |
+  | [Imp](/units/Imp/) | - | [Firebird](/units/Firebird/) | - |
+  | - | - | - | - |
 
 
-## Spicy Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Spicy Soup Base 3*
  **Description:** This spicy soup base is addictive. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -87,14 +89,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | [Devil](/units/Devil/) | [Fire Elemental](/units/Fire Elemental/) | - | - | 
-  | [Demon](/units/Demon/) | [Pit Fiend](/units/Pit Fiend/) | [Firebird](/units/Firebird/) | [Efreeti](/units/Efreeti/) | 
-  | [Devil](/units/Devil/) | [Fire Elemental](/units/Fire Elemental/) | - | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Devil](/units/Devil/) | [Fire Elemental](/units/Fire Elemental/) | - | - |
+  | [Demon](/units/Demon/) | [Pit Fiend](/units/Pit Fiend/) | [Firebird](/units/Firebird/) | [Efreeti](/units/Efreeti/) |
+  | [Devil](/units/Devil/) | [Fire Elemental](/units/Fire Elemental/) | - | - |
+  | - | - | - | - |
 
 
-## Spicy Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Spicy Soup Base 4*
  **Description:** This spicy soup base is addictive. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -114,11 +117,12 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | [Devil](/units/Devil/) | - | [Gog](/units/Gog/) | [Gog](/units/Gog/) | 
-  | [Behemoth](/units/Behemoth/) | [Nightmare](/units/Nightmare/) | [Psychic Elemental](/units/Psychic Elemental/) | [Efreeti](/units/Efreeti/) | 
-  | [Devil](/units/Devil/) | - | [Gog](/units/Gog/) | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Devil](/units/Devil/) | - | [Gog](/units/Gog/) | [Gog](/units/Gog/) |
+  | [Behemoth](/units/Behemoth/) | [Nightmare](/units/Nightmare/) | [Psychic Elemental](/units/Psychic Elemental/) | [Efreeti](/units/Efreeti/) |
+  | [Devil](/units/Devil/) | - | [Gog](/units/Gog/) | - |
+  | - | - | - | - |
 
 
 

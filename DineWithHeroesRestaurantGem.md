@@ -20,7 +20,7 @@ sidebar:
 
  **Level EXP: 100**
 
- **Reward: **5x** [ Huge EXP potion](/Items/con_259/)**
+ **Reward:**  **5x** [ Huge EXP potion](/Items/con_259/)
 
  **Like Talk:** This dish tastes really authentic! I love this type of cuisine!
 
@@ -37,7 +37,7 @@ sidebar:
 
  **Level EXP: 300**
 
- **Reward: **40x**  Knowledge Token**
+ **Reward:**  **40x**  Knowledge Token
 
  **Like Talk:** This dish's sauce has an incredible aroma, making it simply irresistible! Let's dig in!
 
@@ -54,7 +54,7 @@ sidebar:
 
  **Level EXP: 600**
 
- **Reward: **4x** [ Ancient Temple Scroll](/Items/con_160/)**
+ **Reward:**  **4x** [ Ancient Temple Scroll](/Items/con_160/)
 
  **Like Talk:** Both the broth and the meat have an incredibly satisfying aftertaste, making me feel warm and fuzzy inside!
 
@@ -71,7 +71,7 @@ sidebar:
 
  **Level EXP: 1000**
 
- **Reward: **300x**  <i class="fas fa-gem"/>**
+ **Reward:**  **300x**  <i class="fas fa-gem"/>
 
  **Like Talk:** The texture of the beef is just right. It's pretty tasty!
 
@@ -88,7 +88,7 @@ sidebar:
 
  **Level EXP: 1500**
 
- **Reward: **800x**  Dragonsteel**
+ **Reward:**  **800x**  Dragonsteel
 
  **Like Talk:** The taste of food cooked in a specially made pot is in a class of its own.
 
@@ -105,7 +105,7 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward: **6x** [ Orange Crystal](/Items/con_1209/)**
+ **Reward:**  **6x** [ Orange Crystal](/Items/con_1209/)
 
  **Like Talk:** Incredible, this Teochew Beef Hotpot really hits the spot! The texture of the beef is really amazing!
 
@@ -122,7 +122,7 @@ sidebar:
 
  **Level EXP: 2900**
 
- **Reward: **5x** [ Gold Key](/Items/con_418/)**
+ **Reward:**  **5x** [ Gold Key](/Items/con_418/)
 
  **Like Talk:** This is the spicy hotpot I was looking for! The mala soup base goes so well with the other ingredients.
 
@@ -139,7 +139,7 @@ sidebar:
 
  **Level EXP: 4100**
 
- **Reward: **1000x**  Dragon Blood Crystal**
+ **Reward:**  **1000x**  Dragon Blood Crystal
 
  **Like Talk:** This is odd, I'm getting this warm fuzzy feeling while having dinner with you. How strange.
 
@@ -156,7 +156,7 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward: [ Premium Artifact Component Pack](/Items/con_1267/)**
+ **Reward:** [ Premium Artifact Component Pack](/Items/con_1267/)
 
  **Like Talk:** This dish tastes slightly strange when first eaten, but I can detect a sweet aftertaste a long while after eating it.
 
@@ -173,7 +173,7 @@ sidebar:
 
  **Level EXP: 9100**
 
- **Reward: **90x** [ Holy Emblem Redemption Ticket](/Items/con_1391/)**
+ **Reward:**  **90x** [ Holy Emblem Redemption Ticket](/Items/con_1391/)
 
  **Like Talk:** How intriguing! This dish has a unique flavor profile despite its pungent smell.
 

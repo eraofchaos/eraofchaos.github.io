@@ -20,7 +20,7 @@ sidebar:
 
  **Level EXP: 100**
 
- **Reward: **5x** [ Sack of Gold](/Items/con_640/)**
+ **Reward:**  **5x** [ Sack of Gold](/Items/con_640/)
 
  **Like Talk:** These pig's trotters are indeed delicious and nutritious. I've even heard that eating them frequently does wonders for your skin.
 
@@ -37,7 +37,7 @@ sidebar:
 
  **Level EXP: 300**
 
- **Reward: **2x** [ Multi-choice Cast Stone Pack](/Items/con_432/)**
+ **Reward:**  **2x** [ Multi-choice Cast Stone Pack](/Items/con_432/)
 
  **Like Talk:** The combination of specialty blood sausages and pickled cabbage sourced from the Northeast of China and pork belly in this dish is simply wonderful!
 
@@ -54,7 +54,7 @@ sidebar:
 
  **Level EXP: 600**
 
- **Reward: **10x** [ Prayer Stone](/Items/con_508/)**
+ **Reward:**  **10x** [ Prayer Stone](/Items/con_508/)
 
  **Like Talk:** Oh my, adding the goose giblets to this type of master stock is simply a match made in heaven!
 
@@ -71,7 +71,7 @@ sidebar:
 
  **Level EXP: 1000**
 
- **Reward: **200x** [ Heaven-Cast Stone](/Items/art_42/)**
+ **Reward:**  **200x** [ Heaven-Cast Stone](/Items/art_42/)
 
  **Like Talk:** This hotpot tastes savory yet fresh. The people who first invented this type of hotpot dish must be geniuses indeed!
 
@@ -88,7 +88,7 @@ sidebar:
 
  **Level EXP: 1500**
 
- **Reward: **4x** [ Universal Hero Tokens](/Items/her_87/)**
+ **Reward:**  **4x** [ Universal Hero Tokens](/Items/her_87/)
 
  **Like Talk:** Crisp coconut meat is soaked in a bowl of sweet soup alongside tender chicken meat. When accompanied by a unique dipping sauce, this dish is simply marvelous!
 
@@ -105,7 +105,7 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward: **1000x**  Dragonsteel**
+ **Reward:**  **1000x**  Dragonsteel
 
  **Like Talk:** This dish is simply delectable due to the included sour and sweet pickled vegetables and refreshing offal!
 
@@ -122,7 +122,7 @@ sidebar:
 
  **Level EXP: 2900**
 
- **Reward: **8x** [ Astro Silver](/Items/con_530/)**
+ **Reward:**  **8x** [ Astro Silver](/Items/con_530/)
 
  **Like Talk:** The dish's one-of-a-kind soup base is made of porridge and it pairs perfectly well with the freshness of the seafood. It's absolutely delicious!
 
@@ -139,7 +139,7 @@ sidebar:
 
  **Level EXP: 4100**
 
- **Reward: **20x** [ Random Orange Spell Token Chest](/Items/con_233/)**
+ **Reward:**  **20x** [ Random Orange Spell Token Chest](/Items/con_233/)
 
  **Like Talk:** Amazing! The freshness of oceanic delicacies has been concentrated in this single pot of soup, enhancing the rich flavor of the soup base.
 
@@ -156,7 +156,7 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward: [ Premium Artifact Component Pack](/Items/con_1267/)**
+ **Reward:** [ Premium Artifact Component Pack](/Items/con_1267/)
 
  **Like Talk:** The tofu is spicy yet silky, while the fish is spicy and fresh. Together, they form the delicacy that is the Fushun Tofu Fish.
 
@@ -173,7 +173,7 @@ sidebar:
 
  **Level EXP: 9100**
 
- **Reward: **30x** [ Orange Spell Token Selection Chest](/Items/con_383/)**
+ **Reward:**  **30x** [ Orange Spell Token Selection Chest](/Items/con_383/)
 
  **Like Talk:** The experience of eating fish offal without having to spit out fish bones is simply incredible! The different types of fish offal found in this hotpot have incredibly rich flavors.
 

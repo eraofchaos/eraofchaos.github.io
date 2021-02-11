@@ -13,7 +13,7 @@ sidebar:
 
 [Clear Soup Base](/DineWithHeroesMarket Clear Soup Base.html){: .btn .btn--primary}[Spicy Soup Base](/DineWithHeroesMarket Spicy Soup Base.html){: .btn .btn--success}[Special Soup Base](/DineWithHeroesMarket Special Soup Base.html){: .btn .btn--warning}[Meat Platter](/DineWithHeroesMarket Meat Platter.html){: .btn .btn--danger}[Vegetable Platter](/DineWithHeroesMarket Vegetable Platter.html){: .btn .btn--info}[Seafood Platter](/DineWithHeroesMarket Seafood Platter.html){: .btn .btn--primary}
 
-## Vegetable Platter <i class="fas fa-star"/>
+## Vegetable Platter 1*
  **Description:** Be nutritionally balanced and eat more vegetables!
 
  **Difficulty:** <i class="fas fa-star"/>
@@ -33,14 +33,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | - | - | - | 
-  | [Dendroid Guard](/units/Dendroid Guard/) | [Dwarf](/units/Dwarf/) | - | [Druid](/units/Druid/) | 
-  | - | - | - | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) | [Dwarf](/units/Dwarf/) | - | [Druid](/units/Druid/) |
+  | - | - | - | - |
+  | - | - | - | - |
 
 
-## Vegetable Platter <i class="fas fa-star"/><i class="fas fa-star"/>
+## Vegetable Platter 2*
  **Description:** Be nutritionally balanced and eat more vegetables!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -60,14 +61,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | [Centaur](/units/Centaur/) | - | [Unicorn](/units/Unicorn/) | [Unicorn](/units/Unicorn/) | 
-  | [Dwarf](/units/Dwarf/) | [Pegasus](/units/Pegasus/) | - | [Druid](/units/Druid/) | 
-  | [Centaur](/units/Centaur/) | - | [Unicorn](/units/Unicorn/) | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Centaur](/units/Centaur/) | - | [Unicorn](/units/Unicorn/) | [Unicorn](/units/Unicorn/) |
+  | [Dwarf](/units/Dwarf/) | [Pegasus](/units/Pegasus/) | - | [Druid](/units/Druid/) |
+  | [Centaur](/units/Centaur/) | - | [Unicorn](/units/Unicorn/) | - |
+  | - | - | - | - |
 
 
-## Vegetable Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Vegetable Platter 3*
  **Description:** Be nutritionally balanced and eat more vegetables!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -87,14 +89,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | [Dwarf](/units/Dwarf/) | - | [Green Dragon](/units/Green Dragon/) | [Green Dragon](/units/Green Dragon/) | 
-  | [Dendroid Guard](/units/Dendroid Guard/) | [Centaur](/units/Centaur/) | [Pegasus](/units/Pegasus/) | [Druid](/units/Druid/) | 
-  | [Dwarf](/units/Dwarf/) | - | [Green Dragon](/units/Green Dragon/) | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Dwarf](/units/Dwarf/) | - | [Green Dragon](/units/Green Dragon/) | [Green Dragon](/units/Green Dragon/) |
+  | [Dendroid Guard](/units/Dendroid Guard/) | [Centaur](/units/Centaur/) | [Pegasus](/units/Pegasus/) | [Druid](/units/Druid/) |
+  | [Dwarf](/units/Dwarf/) | - | [Green Dragon](/units/Green Dragon/) | - |
+  | - | - | - | - |
 
 
-## Vegetable Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Vegetable Platter 4*
  **Description:** Be nutritionally balanced and eat more vegetables!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -114,11 +117,12 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | [Leprechaun](/units/Leprechaun/) | [Pegasus](/units/Pegasus/) | - | - | 
-  | [Dendroid Guard](/units/Dendroid Guard/) | [Green Dragon](/units/Green Dragon/) | [Green Dragon](/units/Green Dragon/) | [Druid](/units/Druid/) | 
-  | [Leprechaun](/units/Leprechaun/) | [Pegasus](/units/Pegasus/) | - | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Leprechaun](/units/Leprechaun/) | [Pegasus](/units/Pegasus/) | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) | [Green Dragon](/units/Green Dragon/) | [Green Dragon](/units/Green Dragon/) | [Druid](/units/Druid/) |
+  | [Leprechaun](/units/Leprechaun/) | [Pegasus](/units/Pegasus/) | - | - |
+  | - | - | - | - |
 
 
 

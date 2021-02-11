@@ -13,7 +13,7 @@ sidebar:
 
 [Clear Soup Base](/DineWithHeroesMarket Clear Soup Base.html){: .btn .btn--primary}[Spicy Soup Base](/DineWithHeroesMarket Spicy Soup Base.html){: .btn .btn--success}[Special Soup Base](/DineWithHeroesMarket Special Soup Base.html){: .btn .btn--warning}[Meat Platter](/DineWithHeroesMarket Meat Platter.html){: .btn .btn--danger}[Vegetable Platter](/DineWithHeroesMarket Vegetable Platter.html){: .btn .btn--info}[Seafood Platter](/DineWithHeroesMarket Seafood Platter.html){: .btn .btn--primary}
 
-## Clear Soup Base <i class="fas fa-star"/>
+## Clear Soup Base 1*
  **Description:** This clear soup base is nourishing. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/>
@@ -33,14 +33,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | [Swordsman](/units/Swordsman/) | - | - | 
-  | [Swordsman](/units/Swordsman/) | - | - | - | 
-  | - | [Swordsman](/units/Swordsman/) | - | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Swordsman](/units/Swordsman/) | - | - |
+  | [Swordsman](/units/Swordsman/) | - | - | - |
+  | - | [Swordsman](/units/Swordsman/) | - | - |
+  | - | - | - | - |
 
 
-## Clear Soup Base <i class="fas fa-star"/><i class="fas fa-star"/>
+## Clear Soup Base 2*
  **Description:** This clear soup base is nourishing. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -60,14 +61,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | [Swordsman](/units/Swordsman/) | - | - | 
-  | [Swordsman](/units/Swordsman/) | - | [Monk](/units/Monk/) | [Marksman](/units/Marksman/) | 
-  | - | [Swordsman](/units/Swordsman/) | - | [Cavalier](/units/Cavalier/) | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Swordsman](/units/Swordsman/) | - | - |
+  | [Swordsman](/units/Swordsman/) | - | [Monk](/units/Monk/) | [Marksman](/units/Marksman/) |
+  | - | [Swordsman](/units/Swordsman/) | - | [Cavalier](/units/Cavalier/) |
+  | - | - | - | - |
 
 
-## Clear Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Clear Soup Base 3*
  **Description:** This clear soup base is nourishing. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -87,14 +89,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | [Swordsman](/units/Swordsman/) | - | - | 
-  | [Swordsman](/units/Swordsman/) | [Angel](/units/Angel/) | [Angel](/units/Angel/) | [Marksman](/units/Marksman/) | 
-  | - | [Swordsman](/units/Swordsman/) | - | [Griffin](/units/Griffin/) | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Swordsman](/units/Swordsman/) | - | - |
+  | [Swordsman](/units/Swordsman/) | [Angel](/units/Angel/) | [Angel](/units/Angel/) | [Marksman](/units/Marksman/) |
+  | - | [Swordsman](/units/Swordsman/) | - | [Griffin](/units/Griffin/) |
+  | - | - | - | - |
 
 
-## Clear Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Clear Soup Base 4*
  **Description:** This clear soup base is nourishing. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -114,11 +117,12 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | [Paladin](/units/Paladin/) | - | - | 
-  | [Swordsman](/units/Swordsman/) | [Angel](/units/Angel/) | [Monk](/units/Monk/) | [Giant](/units/Giant/) | 
-  | - | [Paladin](/units/Paladin/) | - | [Cavalier](/units/Cavalier/) | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Paladin](/units/Paladin/) | - | - |
+  | [Swordsman](/units/Swordsman/) | [Angel](/units/Angel/) | [Monk](/units/Monk/) | [Giant](/units/Giant/) |
+  | - | [Paladin](/units/Paladin/) | - | [Cavalier](/units/Cavalier/) |
+  | - | - | - | - |
 
 
 

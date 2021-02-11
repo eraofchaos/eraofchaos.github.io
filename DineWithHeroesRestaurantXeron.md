@@ -20,7 +20,7 @@ sidebar:
 
  **Level EXP: 100**
 
- **Reward: **5x** [ Huge EXP potion](/Items/con_259/)**
+ **Reward:**  **5x** [ Huge EXP potion](/Items/con_259/)
 
  **Like Talk:** Huff, this dish is not spicy at all, huff, huff. The beef tripe, pork aorta, and duck intestines in this dish are all extremely crisp.
 
@@ -37,7 +37,7 @@ sidebar:
 
  **Level EXP: 300**
 
- **Reward: **7x** [ Rare Material Chest](/Items/con_915/)**
+ **Reward:**  **7x** [ Rare Material Chest](/Items/con_915/)
 
  **Like Talk:** These skewers are pretty tasty, especially the avian giblet skewers, which are spicy, crispy and tender. They taste great!
 
@@ -54,7 +54,7 @@ sidebar:
 
  **Level EXP: 600**
 
- **Reward: **2x** [ Orange Crystal](/Items/con_1209/)**
+ **Reward:**  **2x** [ Orange Crystal](/Items/con_1209/)
 
  **Like Talk:** Huff, the carp meat is so tender. It doesn't taste spicy at first, but the spicy aftertaste certainly packs a punch!
 
@@ -71,7 +71,7 @@ sidebar:
 
  **Level EXP: 1000**
 
- **Reward: **20x** siegePropExp**
+ **Reward:**  **20x** siegePropExp
 
  **Like Talk:** The chicken in this dish is tender and spicy while the taro has a sticky texture. While the dish is rather spicy, it does not leave you feeling parched after eating it. Instead, it has a sweet aftertaste. What an amazing delicacy!
 
@@ -88,7 +88,7 @@ sidebar:
 
  **Level EXP: 1500**
 
- **Reward: **8x** [ Energy Scroll](/Items/con_157/)**
+ **Reward:**  **8x** [ Energy Scroll](/Items/con_157/)
 
  **Like Talk:** The Dragon Turtle can only handle spiciness up to this level? Well then, it should hurry up and go drink some milk!
 
@@ -105,7 +105,7 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward: **10x** [ Multi-choice Cast Stone Pack](/Items/con_432/)**
+ **Reward:**  **10x** [ Multi-choice Cast Stone Pack](/Items/con_432/)
 
  **Like Talk:** That's right, I'm talking about this Sichuan Hyssop Fish Hotpot! The dish is simply delectable due to the combination of the sourness of the pickled cabbage, the fragrance of the hyssop and the aroma of the fish.
 
@@ -122,7 +122,7 @@ sidebar:
 
  **Level EXP: 2900**
 
- **Reward: **8x** [ Astro Silver](/Items/con_530/)**
+ **Reward:**  **8x** [ Astro Silver](/Items/con_530/)
 
  **Like Talk:** This dish really tantalizes my taste buds! The tangy fragrance emitted from the fermented distillers grains pairs perfectly well with the seafood.
 
@@ -139,7 +139,7 @@ sidebar:
 
  **Level EXP: 4100**
 
- **Reward: **30x** [ Holy Emblem Redemption Ticket](/Items/con_1391/)**
+ **Reward:**  **30x** [ Holy Emblem Redemption Ticket](/Items/con_1391/)
 
  **Like Talk:** This sour soup is absolutely delectable and pairs well with the fresh fish. It's a match made in heaven!
 
@@ -156,7 +156,7 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward: [ Premium Artifact Component Pack](/Items/con_1267/)**
+ **Reward:** [ Premium Artifact Component Pack](/Items/con_1267/)
 
  **Like Talk:** Even though this dish has no meat, the assortment of mushrooms in this delicacy have wildly varying textures that are comparable to even the best meat!
 
@@ -173,7 +173,7 @@ sidebar:
 
  **Level EXP: 9100**
 
- **Reward: **90x** [ Holy Emblem Redemption Ticket](/Items/con_1391/)**
+ **Reward:**  **90x** [ Holy Emblem Redemption Ticket](/Items/con_1391/)
 
  **Like Talk:** The Dragon Turtle has come out to perform some live entertainment just as we are about to finish our meal. That's pretty good!
 

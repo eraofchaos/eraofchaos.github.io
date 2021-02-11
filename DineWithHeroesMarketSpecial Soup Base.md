@@ -13,7 +13,7 @@ sidebar:
 
 [Clear Soup Base](/DineWithHeroesMarket Clear Soup Base.html){: .btn .btn--primary}[Spicy Soup Base](/DineWithHeroesMarket Spicy Soup Base.html){: .btn .btn--success}[Special Soup Base](/DineWithHeroesMarket Special Soup Base.html){: .btn .btn--warning}[Meat Platter](/DineWithHeroesMarket Meat Platter.html){: .btn .btn--danger}[Vegetable Platter](/DineWithHeroesMarket Vegetable Platter.html){: .btn .btn--info}[Seafood Platter](/DineWithHeroesMarket Seafood Platter.html){: .btn .btn--primary}
 
-## Special Soup Base <i class="fas fa-star"/>
+## Special Soup Base 1*
  **Description:** This special soup base is novel. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/>
@@ -33,14 +33,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | - | - | - | 
-  | [Skeleton](/units/Skeleton/) | [Skeleton](/units/Skeleton/) | - | [Lich](/units/Lich/) | 
-  | - | - | - | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Skeleton](/units/Skeleton/) | [Skeleton](/units/Skeleton/) | - | [Lich](/units/Lich/) |
+  | - | - | - | - |
+  | - | - | - | - |
 
 
-## Special Soup Base <i class="fas fa-star"/><i class="fas fa-star"/>
+## Special Soup Base 2*
  **Description:** This special soup base is novel. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -60,14 +61,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | [Ogre](/units/Ogre/) | [Vampire](/units/Vampire/) | - | - | 
-  | [Walking Dead](/units/Walking Dead/) | [Skeleton](/units/Skeleton/) | - | [Lich](/units/Lich/) | 
-  | [Ogre](/units/Ogre/) | [Vampire](/units/Vampire/) | - | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Ogre](/units/Ogre/) | [Vampire](/units/Vampire/) | - | - |
+  | [Walking Dead](/units/Walking Dead/) | [Skeleton](/units/Skeleton/) | - | [Lich](/units/Lich/) |
+  | [Ogre](/units/Ogre/) | [Vampire](/units/Vampire/) | - | - |
+  | - | - | - | - |
 
 
-## Special Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Special Soup Base 3*
  **Description:** This special soup base is novel. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -87,14 +89,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | [Basilisk](/units/Basilisk/) | - | [Black Knight](/units/Black Knight/) | [Black Knight](/units/Black Knight/) | 
-  | [Walking Dead](/units/Walking Dead/) | [Mummy](/units/Mummy/) | [Wight](/units/Wight/) | [Lich](/units/Lich/) | 
-  | [Basilisk](/units/Basilisk/) | - | [Black Knight](/units/Black Knight/) | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Basilisk](/units/Basilisk/) | - | [Black Knight](/units/Black Knight/) | [Black Knight](/units/Black Knight/) |
+  | [Walking Dead](/units/Walking Dead/) | [Mummy](/units/Mummy/) | [Wight](/units/Wight/) | [Lich](/units/Lich/) |
+  | [Basilisk](/units/Basilisk/) | - | [Black Knight](/units/Black Knight/) | - |
+  | - | - | - | - |
 
 
-## Special Soup Base <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Special Soup Base 4*
  **Description:** This special soup base is novel. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -114,11 +117,12 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | [Bone Dragon](/units/Bone Dragon/) | - | [Wight](/units/Wight/) | [Wight](/units/Wight/) | 
-  | [Mummy](/units/Mummy/) | [Black Knight](/units/Black Knight/) | [Black Knight](/units/Black Knight/) | [Lich](/units/Lich/) | 
-  | [Bone Dragon](/units/Bone Dragon/) | - | [Wight](/units/Wight/) | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Bone Dragon](/units/Bone Dragon/) | - | [Wight](/units/Wight/) | [Wight](/units/Wight/) |
+  | [Mummy](/units/Mummy/) | [Black Knight](/units/Black Knight/) | [Black Knight](/units/Black Knight/) | [Lich](/units/Lich/) |
+  | [Bone Dragon](/units/Bone Dragon/) | - | [Wight](/units/Wight/) | - |
+  | - | - | - | - |
 
 
 

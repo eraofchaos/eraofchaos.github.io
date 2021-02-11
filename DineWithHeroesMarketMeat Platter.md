@@ -13,7 +13,7 @@ sidebar:
 
 [Clear Soup Base](/DineWithHeroesMarket Clear Soup Base.html){: .btn .btn--primary}[Spicy Soup Base](/DineWithHeroesMarket Spicy Soup Base.html){: .btn .btn--success}[Special Soup Base](/DineWithHeroesMarket Special Soup Base.html){: .btn .btn--warning}[Meat Platter](/DineWithHeroesMarket Meat Platter.html){: .btn .btn--danger}[Vegetable Platter](/DineWithHeroesMarket Vegetable Platter.html){: .btn .btn--info}[Seafood Platter](/DineWithHeroesMarket Seafood Platter.html){: .btn .btn--primary}
 
-## Meat Platter <i class="fas fa-star"/>
+## Meat Platter 1*
  **Description:** Don't waste this huge platter of meat. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/>
@@ -33,14 +33,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | [Wolf Rider](/units/Wolf Rider/) | - | - | 
-  | [Ogre](/units/Ogre/) | - | - | - | 
-  | - | [Wolf Rider](/units/Wolf Rider/) | - | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Wolf Rider](/units/Wolf Rider/) | - | - |
+  | [Ogre](/units/Ogre/) | - | - | - |
+  | - | [Wolf Rider](/units/Wolf Rider/) | - | - |
+  | - | - | - | - |
 
 
-## Meat Platter <i class="fas fa-star"/><i class="fas fa-star"/>
+## Meat Platter 2*
  **Description:** Don't waste this huge platter of meat. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/>
@@ -60,14 +61,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | [Stone Elemental](/units/Stone Elemental/) | - | - | 
-  | [Ogre](/units/Ogre/) | - | [Roc](/units/Roc/) | [Cyclops](/units/Cyclops/) | 
-  | - | [Stone Elemental](/units/Stone Elemental/) | - | [Orc](/units/Orc/) | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Stone Elemental](/units/Stone Elemental/) | - | - |
+  | [Ogre](/units/Ogre/) | - | [Roc](/units/Roc/) | [Cyclops](/units/Cyclops/) |
+  | - | [Stone Elemental](/units/Stone Elemental/) | - | [Orc](/units/Orc/) |
+  | - | - | - | - |
 
 
-## Meat Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Meat Platter 3*
  **Description:** Don't waste this huge platter of meat. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -87,14 +89,15 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | [Behemoth](/units/Behemoth/) | [Cyclops](/units/Cyclops/) | [Cyclops](/units/Cyclops/) | 
-  | [Ogre](/units/Ogre/) | [Goblin](/units/Goblin/) | [Orc](/units/Orc/) | [Roc](/units/Roc/) | 
-  | - | [Behemoth](/units/Behemoth/) | [Cyclops](/units/Cyclops/) | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Behemoth](/units/Behemoth/) | [Cyclops](/units/Cyclops/) | [Cyclops](/units/Cyclops/) |
+  | [Ogre](/units/Ogre/) | [Goblin](/units/Goblin/) | [Orc](/units/Orc/) | [Roc](/units/Roc/) |
+  | - | [Behemoth](/units/Behemoth/) | [Cyclops](/units/Cyclops/) | - |
+  | - | - | - | - |
 
 
-## Meat Platter <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
+## Meat Platter 4*
  **Description:** Don't waste this huge platter of meat. Eat up!
 
  **Difficulty:** <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>
@@ -114,11 +117,12 @@ sidebar:
 
 
 
-  |:---:|:---:|:---|:---:|
-  | - | [Behemoth](/units/Behemoth/) | [Berserker](/units/Berserker/) | [Berserker](/units/Berserker/) | 
-  | [Ogre](/units/Ogre/) | [Goblin](/units/Goblin/) | [Orc](/units/Orc/) | [Cyclops](/units/Cyclops/) | 
-  | - | [Behemoth](/units/Behemoth/) | [Berserker](/units/Berserker/) | - | 
-  | - | - | - | - | 
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Behemoth](/units/Behemoth/) | [Berserker](/units/Berserker/) | [Berserker](/units/Berserker/) |
+  | [Ogre](/units/Ogre/) | [Goblin](/units/Goblin/) | [Orc](/units/Orc/) | [Cyclops](/units/Cyclops/) |
+  | - | [Behemoth](/units/Behemoth/) | [Berserker](/units/Berserker/) | - |
+  | - | - | - | - |
 
 
 
