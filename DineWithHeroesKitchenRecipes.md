@@ -12,7 +12,7 @@ sidebar:
   nav: "docs"
 ---
 
-**Warning** The cooking result depends on your hits in the cooking bar. You must hit into red area to get best component grade. The red area has 100 size for first try, 70 for second and 30 for last one. If you fail on first bar the process would fail and you can try again. Fail on second one brings BLUE component. Fail on third bar gives VIOLET component! All hits give ORANGE!
+**Warning** The cooking result depends on your hits in the cooking bar. You must hit into red area to get best component grade. If you fail on first bar the process would fail and you can try again. Fail on second one brings BLUE component. Fail on third bar gives VIOLET component! All hits give ORANGE!
 {: .notice--danger}
 
   | Nr | 1 Ingredient | 2 Ingredient | 3 Ingredient | 4 Ingredient | Result 1 | Result 2 | Result 3 |  
