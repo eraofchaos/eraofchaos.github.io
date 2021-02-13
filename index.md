@@ -1,8 +1,8 @@
 ---
-title: "Era Of Chaos Wiki portal"
-excerpt: "Era of Chaos Wiki portal. Complete information about the game: Units, Heroes, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
+title: "Era Of Chaos Wiki: Units, Heroes, Items, Artifacts, Quests and more"
+excerpt: "Era of Chaos, Era of Chaos Wiki. Complete information about the Era Of Chaos: Units, Heroes, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
 author_profile: false
-last_modified_at: 2021-02-7
+last_modified_at: 2021-02-12
 toc: false
 classes: wide
 sidebar:
