@@ -12,10 +12,11 @@ sidebar:
 {% capture notice-update20210205 %}
 **Client update** (version **142 (3090)**):
 
-* New **Dine With Heroes** event:
+New **Dine With Heroes** event:
 *    [Dine With Heroes - Kitchen Recipes](https://eraofchaos.github.io/DineWithHeroesKitchenRecipes.html)
 *    [Dine with Heroes - Market](https://eraofchaos.github.io/DineWithHeroesMarket.html)
 *    [Dine with Heroes - Restaurant](https://eraofchaos.github.io/DineWithHeroesRestaurant.html)
+*    [Spring Special - Mysterious Treasure Trove](https://eraofchaos.github.io/SpringSpecialMysteriousTreasureTrove.html)
 
 {% endcapture %}
 
