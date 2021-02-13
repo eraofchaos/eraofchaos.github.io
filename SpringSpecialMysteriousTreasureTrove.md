@@ -20,7 +20,7 @@ sidebar:
   | 4 |  **500x**  Dragonsteel | 0/**6** |  **400x** [ Shadowy Diamond](/Items/con_1219/) |  **400x**  <i class="fas fa-gem"/> | 
   | 5 |  **500x**  Shadowsteel | 0/**10** |  **180x** [ Shadowy Diamond](/Items/con_1219/) |  **180x**  <i class="fas fa-gem"/> | 
   | 6 | [ Random Universal Machine Component Chest](/Items/con_1161/) | 0/**1** |  **3600x** [ Shadowy Diamond](/Items/con_1219/) | - | 
-  | 7 | _SIEGE_40 | 0/**1** |  **3100x** [ Shadowy Diamond](/Items/con_1219/) |  **3100x**  <i class="fas fa-gem"/> | 
+  | 7 | Dragon Alloy steel | 0/**1** |  **3100x** [ Shadowy Diamond](/Items/con_1219/) |  **3100x**  <i class="fas fa-gem"/> | 
   | 8 | [ Premium Artifact Component Chest](/Items/con_613/) | 0/**1** |  **7300x** [ Shadowy Diamond](/Items/con_1219/) | - | 
   | 9 | [ Piece of Eden Component Chest](/Items/con_226/) | 0/**1** |  **6900x** [ Shadowy Diamond](/Items/con_1219/) |  **6900x**  <i class="fas fa-gem"/> | 
   | 10 | [ Frost Component Pack](/Items/con_513/) | 0/**1** |  **6900x** [ Shadowy Diamond](/Items/con_1219/) |  **6900x**  <i class="fas fa-gem"/> | 
