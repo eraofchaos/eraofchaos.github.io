@@ -9,6 +9,26 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210216 %}
+**Client update** (version **142 (3100)**):
+
+* Corrected some tips for current event
+* Added 1 string into localization files (main impact on update size)
+* New battle calculation (version 10124): no changes on client side, may be some correction on server side.
+
+**Wiki update** 
+
+Thanks for your activity. We have **3.6k unique users**, about **30K visitors per week** from **86 countries**.
+Due to technical limitation on github (we have about 4000 pages on wiki), we should split wiki for each language. After it, DE/FR/RU/IT/ES languages would be updated to current game state.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">16 February 2021 Update:</h4>
+  {{ notice-update20210216 | markdownify }}
+</div>
+
+
 {% capture notice-update20210205 %}
 **Client update** (version **142 (3090)**):
 
@@ -18,30 +38,18 @@ New **Dine With Heroes** event:
 *    [Dine with Heroes - Restaurant](https://eraofchaos.github.io/DineWithHeroesRestaurant.html)
 *    [Spring Special - Mysterious Treasure Trove](https://eraofchaos.github.io/SpringSpecialMysteriousTreasureTrove.html)
 
+* New battle calculation (version 10123): 
+  * Added Fire/Water/Air/Earth damage,
+  * Team deffence for Fire/Water/Air/Earth magic
+  * Increase unit's HP%/Atk% at unit death
+  * Defined "ANTIKNOCK" and "Hot_Attack" type of unit activity/property
+* Corrected drop for some items (like "Legendary Nian Monster Chest", "Rare Nian Monster Chest", etc)
+
 {% endcapture %}
 
 <div class="notice--danger">
   <h4 class="no_toc">5 February 2021 Update:</h4>
   {{ notice-update20210205 | markdownify }}
-</div>
-
-
-
-{% capture notice-update20210203 %}
-**Client update** (version **142 (3073)**):
-
-* new Tazar skin (Flourishing Spring Festival), 
-* Update skills related to "<Burning>: causes lasting fire damage to units.", mainly related to defining CD for skill. 
-* Removed "Unknown" Hero for TROLL (related to unreleased Stronghold hero, Unit->Relevance Tab->Hero Bonus)
-* After this update, the rewards of "Own a 3-star Troll" and "Own a 4-star Troll" in "Recruitment Reward" will be replaced by [Dragon Blood Crystal](https://eraofchaos.github.io/Items/con_211/).
-* Changes for "Blazing Skyfire" skill
-* New battle calculation (version 10122)
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">3 February 2021 Update:</h4>
-  {{ notice-update20210203 | markdownify }}
 </div>
 
 
