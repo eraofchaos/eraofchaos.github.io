@@ -15,6 +15,12 @@ classes: wide
 
 ## November 2021:
 
+  **Price for 1 spin: 300x** <i class="fas fa-gem"/>
+
+  **Price for 10 spins: 2700x** <i class="fas fa-gem"/>
+
+  **Lucky points range:** from **20** to **22**
+
   |  Date  |  Race  |  Details  | Drop Souls | Drop Units |
   |:-------|:-------|:---------:|:----------:|:----------:|
   | 25 Oct - 1 Nov | Rampart | [Faction Altar Drop Details](/FactionAltar/DROP_102/) | [ Centaur Captain Soul Stone](/Items/unt_121/), [ Grand Elf Soul Stone](/Items/unt_142/), [ Silver Pegasus Soul Stone](/Items/unt_13/), [ Dendroid Soldier Soul Stone](/Items/unt_29/), [ War Unicorn Soul Stone](/Items/unt_46/), [ Gold Dragon Soul Stone](/Items/unt_66/) | [ Centaur](/Items/unt_58/), [ Dwarf](/Items/unt_42/), [ Wood Elf](/Items/unt_101/), [ Pegasus](/Items/unt_102/), [ Dendroid Guard](/Items/unt_83/), [ Unicorn](/Items/unt_143/), [ Green Dragon](/Items/unt_124/) | 
@@ -23,6 +29,8 @@ classes: wide
   | 15 - 22 Nov | Fortress | [Faction Altar Drop Details](/FactionAltar/DROP_108/) | [ Chaos Hydra Soul Stone](/Items/unt_91/) | [ Gnoll](/Items/unt_41/), [ Lizardman](/Items/unt_96/), [ Serpent Fly](/Items/unt_77/), [ Gorgon](/Items/unt_115/), [ Hydra](/Items/unt_4/) | 
   | 22 - 29 Nov | Dungeon | [Faction Altar Drop Details](/FactionAltar/DROP_107/) | [ Dark Troglodyte Soul Stone](/Items/unt_76/), [ Minotaur King Soul Stone](/Items/unt_3/), [ Black Dragon King Soul Stone](/Items/unt_34/) | [ Troglodyte](/Items/unt_23/), [ Harpy](/Items/unt_9/), [ Minotaur](/Items/unt_94/), [ Black Dragon](/Items/unt_128/), [ Red Dragon](/Items/unt_111/) | 
   | 29 Nov - 6 Dec | Necropolis | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [ Skeleton Warrior Soul Stone](/Items/unt_12/), [ Zombie Soul Stone](/Items/unt_27/), [ Vampire Lord Soul Stone](/Items/unt_64/), [ Ghost Dragon Soul Stone](/Items/unt_125/) | [ Skeleton](/Items/unt_80/), [ Walking Dead](/Items/unt_140/), [ Wight](/Items/unt_141/), [ Vampire](/Items/unt_122/), [ Bone Dragon](/Items/unt_65/) | 
+
+
 
 
 ## Faction Altar Rules

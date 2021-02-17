@@ -15,6 +15,12 @@ classes: wide
 
 ## May 2021:
 
+  **Price for 1 spin: 300x** <i class="fas fa-gem"/>
+
+  **Price for 10 spins: 2700x** <i class="fas fa-gem"/>
+
+  **Lucky points range:** from **20** to **22**
+
   |  Date  |  Race  |  Details  | Drop Souls | Drop Units |
   |:-------|:-------|:---------:|:----------:|:----------:|
   | 26 Apr - 3 May | Rampart | [Faction Altar Drop Details](/FactionAltar/DROP_102/) | [ Centaur Captain Soul Stone](/Items/unt_121/), [ Grand Elf Soul Stone](/Items/unt_142/), [ Silver Pegasus Soul Stone](/Items/unt_13/), [ Dendroid Soldier Soul Stone](/Items/unt_29/), [ War Unicorn Soul Stone](/Items/unt_46/), [ Gold Dragon Soul Stone](/Items/unt_66/) | [ Centaur](/Items/unt_58/), [ Dwarf](/Items/unt_42/), [ Wood Elf](/Items/unt_101/), [ Pegasus](/Items/unt_102/), [ Dendroid Guard](/Items/unt_83/), [ Unicorn](/Items/unt_143/), [ Green Dragon](/Items/unt_124/) | 
@@ -23,6 +29,8 @@ classes: wide
   | 17 - 24 May | Necropolis | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [ Skeleton Warrior Soul Stone](/Items/unt_12/), [ Zombie Soul Stone](/Items/unt_27/), [ Vampire Lord Soul Stone](/Items/unt_64/), [ Ghost Dragon Soul Stone](/Items/unt_125/) | [ Skeleton](/Items/unt_80/), [ Walking Dead](/Items/unt_140/), [ Wight](/Items/unt_141/), [ Vampire](/Items/unt_122/), [ Bone Dragon](/Items/unt_65/) | 
   | 24 - 31 May | Cove | [Faction Altar Drop Details](/FactionAltar/DROP_112/) |  - | [ Regnan Pirates](/Items/unt_32/), [ Regnan Archer](/Items/unt_48/), [ Sea Elemental](/Items/unt_68/), [ Dragon Turtle](/Items/unt_89/), [ Shark Trainer](/Items/unt_1/) | 
   | 31 May - 7 Jun | Castle | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [ Halberdier Soul Stone](/Items/unt_59/), [ Master Archer Soul Stone](/Items/unt_82/), [ Crusader Soul Stone](/Items/unt_103/), [ Zealot Soul Stone](/Items/unt_123/), [ Champions Knight's Soul Stone](/Items/unt_144/), [ Archangel Soul Stone](/Items/unt_15/) | [ Pikeman](/Items/unt_119/), [ Marksman](/Items/unt_24/), [ Griffin](/Items/unt_11/), [ Swordsman](/Items/unt_61/), [ Monk](/Items/unt_63/), [ Cavalier ](/Items/unt_44/), [ Angel](/Items/unt_104/), [ Paladin](/Items/unt_84/) | 
+
+
 
 
 ## Faction Altar Rules

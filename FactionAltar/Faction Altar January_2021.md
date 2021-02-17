@@ -15,12 +15,20 @@ classes: wide
 
 ## January 2021:
 
+  **Price for 1 spin: 300x** <i class="fas fa-gem"/>
+
+  **Price for 10 spins: 2700x** <i class="fas fa-gem"/>
+
+  **Lucky points range:** from **20** to **22**
+
   |  Date  |  Race  |  Details  | Drop Souls | Drop Units |
   |:-------|:-------|:---------:|:----------:|:----------:|
   | 4 - 11 Jan | Castle | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [ Halberdier Soul Stone](/Items/unt_59/), [ Master Archer Soul Stone](/Items/unt_82/), [ Crusader Soul Stone](/Items/unt_103/), [ Zealot Soul Stone](/Items/unt_123/), [ Champions Knight's Soul Stone](/Items/unt_144/), [ Archangel Soul Stone](/Items/unt_15/) | [ Pikeman](/Items/unt_119/), [ Marksman](/Items/unt_24/), [ Griffin](/Items/unt_11/), [ Swordsman](/Items/unt_61/), [ Monk](/Items/unt_63/), [ Cavalier ](/Items/unt_44/), [ Angel](/Items/unt_104/), [ Paladin](/Items/unt_84/) | 
   | 11 - 18 Jan | Inferno | [Faction Altar Drop Details](/FactionAltar/DROP_105/) | [ Familiar Soul Stone](/Items/unt_120/), [ Magog Soul Stone](/Items/unt_138/), [ Pit Lord Soul Stone](/Items/unt_37/), [ Efreet Sultan Soul Stone](/Items/unt_52/), [ Arch Devil Soul Stone](/Items/unt_72/) | [ Imp](/Items/unt_62/), [ Gog](/Items/unt_43/), [ Hell Hound](/Items/unt_100/), [ Demon](/Items/unt_78/), [ Pit Fiend](/Items/unt_137/), [ Efreeti](/Items/unt_116/), [ Devil](/Items/unt_19/) | 
   | 18 - 25 Jan | Fortress | [Faction Altar Drop Details](/FactionAltar/DROP_108/) | [ Chaos Hydra Soul Stone](/Items/unt_91/) | [ Gnoll](/Items/unt_41/), [ Lizardman](/Items/unt_96/), [ Serpent Fly](/Items/unt_77/), [ Gorgon](/Items/unt_115/), [ Hydra](/Items/unt_4/) | 
   | 25 Jan - 1 Feb | Necropolis | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [ Skeleton Warrior Soul Stone](/Items/unt_12/), [ Zombie Soul Stone](/Items/unt_27/), [ Vampire Lord Soul Stone](/Items/unt_64/), [ Ghost Dragon Soul Stone](/Items/unt_125/) | [ Skeleton](/Items/unt_80/), [ Walking Dead](/Items/unt_140/), [ Wight](/Items/unt_141/), [ Vampire](/Items/unt_122/), [ Bone Dragon](/Items/unt_65/) | 
+
+
 
 
 ## Faction Altar Rules

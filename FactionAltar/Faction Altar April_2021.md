@@ -15,6 +15,12 @@ classes: wide
 
 ## April 2021:
 
+  **Price for 1 spin: 300x** <i class="fas fa-gem"/>
+
+  **Price for 10 spins: 2700x** <i class="fas fa-gem"/>
+
+  **Lucky points range:** from **20** to **22**
+
   |  Date  |  Race  |  Details  | Drop Souls | Drop Units |
   |:-------|:-------|:---------:|:----------:|:----------:|
   | 29 Mar - 5 Apr | Dungeon | [Faction Altar Drop Details](/FactionAltar/DROP_107/) | [ Dark Troglodyte Soul Stone](/Items/unt_76/), [ Minotaur King Soul Stone](/Items/unt_3/), [ Black Dragon King Soul Stone](/Items/unt_34/) | [ Troglodyte](/Items/unt_23/), [ Harpy](/Items/unt_9/), [ Minotaur](/Items/unt_94/), [ Black Dragon](/Items/unt_128/), [ Red Dragon](/Items/unt_111/) | 
@@ -22,6 +28,8 @@ classes: wide
   | 12 - 19 Apr | Conflux | [Faction Altar Drop Details](/FactionAltar/DROP_109/) | [ Thunder Rage Soul Stone](/Items/unt_55/), [ Silent Snow Spirit Soul Stone](/Items/unt_69/), [ Magic Elemental Soul Stone](/Items/unt_129/), [ Phoenix Soul Stone](/Items/unt_2/) | [ Sprite](/Items/unt_134/), [ Storm Elemental](/Items/unt_113/), [ Ice Elemental](/Items/unt_22/), [ Psychic Elemental](/Items/unt_33/), [ Firebird](/Items/unt_93/), [ Leprechaun](/Items/unt_126/) | 
   | 19 - 26 Apr | Stronghold | [Faction Altar Drop Details](/FactionAltar/DROP_103/) | [ Hobgoblin Soul Stone](/Items/unt_60/), [ Wolf Raider Soul Stone](/Items/unt_79/), [ Orc Commander Soul Stone](/Items/unt_99/), [ Ogre Mage Soul Stone](/Items/unt_117/), [ Thunderbird Soul Stone](/Items/unt_136/), [ Cyclops King Soul Stone](/Items/unt_6/), [ Ancient Behemoth Soul Stone](/Items/unt_18/) | [ Goblin](/Items/unt_26/), [ Wolf Rider](/Items/unt_25/), [ Orc](/Items/unt_10/), [ Ogre](/Items/unt_57/), [ Roc](/Items/unt_40/), [ Cyclops](/Items/unt_97/), [ Behemoth](/Items/unt_75/), [ Berserker](/Items/unt_133/) | 
   | 26 Apr - 3 May | Rampart | [Faction Altar Drop Details](/FactionAltar/DROP_102/) | [ Centaur Captain Soul Stone](/Items/unt_121/), [ Grand Elf Soul Stone](/Items/unt_142/), [ Silver Pegasus Soul Stone](/Items/unt_13/), [ Dendroid Soldier Soul Stone](/Items/unt_29/), [ War Unicorn Soul Stone](/Items/unt_46/), [ Gold Dragon Soul Stone](/Items/unt_66/) | [ Centaur](/Items/unt_58/), [ Dwarf](/Items/unt_42/), [ Wood Elf](/Items/unt_101/), [ Pegasus](/Items/unt_102/), [ Dendroid Guard](/Items/unt_83/), [ Unicorn](/Items/unt_143/), [ Green Dragon](/Items/unt_124/) | 
+
+
 
 
 ## Faction Altar Rules

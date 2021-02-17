@@ -13,6 +13,12 @@ classes: wide
 
   [January](/FactionAltar/Faction Altar January_2021/){: .btn .btn--success} [February](/FactionAltar/Faction Altar February_2021/){: .btn .btn--warning} [March](/FactionAltar/Faction Altar March_2021/){: .btn .btn--danger} [April](/FactionAltar/Faction Altar April_2021/){: .btn .btn--info} [May](/FactionAltar/Faction Altar May_2021/){: .btn .btn--primary} [June](/FactionAltar/Faction Altar June_2021/){: .btn .btn--success} [July](/FactionAltar/Faction Altar July_2021/){: .btn .btn--warning} [August](/FactionAltar/Faction Altar August_2021/){: .btn .btn--danger} [September](/FactionAltar/Faction Altar September_2021/){: .btn .btn--info} [October](/FactionAltar/Faction Altar October_2021/){: .btn .btn--primary} [November](/FactionAltar/Faction Altar November_2021/){: .btn .btn--success} [December](/FactionAltar/Faction Altar December_2021/){: .btn .btn--warning} 
 
+  **Price for 1 spin: 300x** <i class="fas fa-gem"/>
+
+  **Price for 10 spins: 2700x** <i class="fas fa-gem"/>
+
+  **Lucky points range:** from **20** to **22**
+
   |  Date  |  Race  |  Details  | Drop Souls | Drop Units |
   |:-------|:-------|:---------:|:----------:|:----------:|
   | 25 Jan - 1 Feb | Necropolis | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [ Skeleton Warrior Soul Stone](/Items/unt_12/), [ Zombie Soul Stone](/Items/unt_27/), [ Vampire Lord Soul Stone](/Items/unt_64/), [ Ghost Dragon Soul Stone](/Items/unt_125/) | [ Skeleton](/Items/unt_80/), [ Walking Dead](/Items/unt_140/), [ Wight](/Items/unt_141/), [ Vampire](/Items/unt_122/), [ Bone Dragon](/Items/unt_65/) | 

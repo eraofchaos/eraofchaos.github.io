@@ -15,6 +15,12 @@ classes: wide
 
 ## August 2021:
 
+  **Price for 1 spin: 300x** <i class="fas fa-gem"/>
+
+  **Price for 10 spins: 2700x** <i class="fas fa-gem"/>
+
+  **Lucky points range:** from **20** to **22**
+
   |  Date  |  Race  |  Details  | Drop Souls | Drop Units |
   |:-------|:-------|:---------:|:----------:|:----------:|
   | 26 Jul - 2 Aug | Necropolis | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [ Skeleton Warrior Soul Stone](/Items/unt_12/), [ Zombie Soul Stone](/Items/unt_27/), [ Vampire Lord Soul Stone](/Items/unt_64/), [ Ghost Dragon Soul Stone](/Items/unt_125/) | [ Skeleton](/Items/unt_80/), [ Walking Dead](/Items/unt_140/), [ Wight](/Items/unt_141/), [ Vampire](/Items/unt_122/), [ Bone Dragon](/Items/unt_65/) | 
@@ -23,6 +29,8 @@ classes: wide
   | 16 - 23 Aug | Cove | [Faction Altar Drop Details](/FactionAltar/DROP_112/) |  - | [ Regnan Pirates](/Items/unt_32/), [ Regnan Archer](/Items/unt_48/), [ Sea Elemental](/Items/unt_68/), [ Dragon Turtle](/Items/unt_89/), [ Shark Trainer](/Items/unt_1/) | 
   | 23 - 30 Aug | Tower | [Faction Altar Drop Details](/FactionAltar/DROP_106/) | [ Gold Golem Soul Stone](/Items/unt_56/), [ Arch Mage Soul Stone](/Items/unt_73/), [ Naga Queen Soul Stone](/Items/unt_110/), [ Titan Soul Stone](/Items/unt_130/) | [ Gremlin](/Items/unt_81/), [ Stone Gargoyle](/Items/unt_139/), [ Iron Golem](/Items/unt_118/), [ Mage](/Items/unt_21/), [ Naga](/Items/unt_53/), [ Giant ](/Items/unt_36/) | 
   | 30 Aug - 6 Sep | Conflux | [Faction Altar Drop Details](/FactionAltar/DROP_109/) | [ Thunder Rage Soul Stone](/Items/unt_55/), [ Silent Snow Spirit Soul Stone](/Items/unt_69/), [ Magic Elemental Soul Stone](/Items/unt_129/), [ Phoenix Soul Stone](/Items/unt_2/) | [ Sprite](/Items/unt_134/), [ Storm Elemental](/Items/unt_113/), [ Ice Elemental](/Items/unt_22/), [ Psychic Elemental](/Items/unt_33/), [ Firebird](/Items/unt_93/), [ Leprechaun](/Items/unt_126/) | 
+
+
 
 
 ## Faction Altar Rules

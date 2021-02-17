@@ -15,6 +15,12 @@ classes: wide
 
 ## December 2021:
 
+  **Price for 1 spin: 300x** <i class="fas fa-gem"/>
+
+  **Price for 10 spins: 2700x** <i class="fas fa-gem"/>
+
+  **Lucky points range:** from **20** to **22**
+
   |  Date  |  Race  |  Details  | Drop Souls | Drop Units |
   |:-------|:-------|:---------:|:----------:|:----------:|
   | 29 Nov - 6 Dec | Necropolis | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [ Skeleton Warrior Soul Stone](/Items/unt_12/), [ Zombie Soul Stone](/Items/unt_27/), [ Vampire Lord Soul Stone](/Items/unt_64/), [ Ghost Dragon Soul Stone](/Items/unt_125/) | [ Skeleton](/Items/unt_80/), [ Walking Dead](/Items/unt_140/), [ Wight](/Items/unt_141/), [ Vampire](/Items/unt_122/), [ Bone Dragon](/Items/unt_65/) | 
@@ -22,6 +28,8 @@ classes: wide
   | 13 - 20 Dec | Stronghold | [Faction Altar Drop Details](/FactionAltar/DROP_103/) | [ Hobgoblin Soul Stone](/Items/unt_60/), [ Wolf Raider Soul Stone](/Items/unt_79/), [ Orc Commander Soul Stone](/Items/unt_99/), [ Ogre Mage Soul Stone](/Items/unt_117/), [ Thunderbird Soul Stone](/Items/unt_136/), [ Cyclops King Soul Stone](/Items/unt_6/), [ Ancient Behemoth Soul Stone](/Items/unt_18/) | [ Goblin](/Items/unt_26/), [ Wolf Rider](/Items/unt_25/), [ Orc](/Items/unt_10/), [ Ogre](/Items/unt_57/), [ Roc](/Items/unt_40/), [ Cyclops](/Items/unt_97/), [ Behemoth](/Items/unt_75/), [ Berserker](/Items/unt_133/) | 
   | 20 - 27 Dec | Rampart | [Faction Altar Drop Details](/FactionAltar/DROP_102/) | [ Centaur Captain Soul Stone](/Items/unt_121/), [ Grand Elf Soul Stone](/Items/unt_142/), [ Silver Pegasus Soul Stone](/Items/unt_13/), [ Dendroid Soldier Soul Stone](/Items/unt_29/), [ War Unicorn Soul Stone](/Items/unt_46/), [ Gold Dragon Soul Stone](/Items/unt_66/) | [ Centaur](/Items/unt_58/), [ Dwarf](/Items/unt_42/), [ Wood Elf](/Items/unt_101/), [ Pegasus](/Items/unt_102/), [ Dendroid Guard](/Items/unt_83/), [ Unicorn](/Items/unt_143/), [ Green Dragon](/Items/unt_124/) | 
   | 27 Dec - 3 Jan | Inferno | [Faction Altar Drop Details](/FactionAltar/DROP_105/) | [ Familiar Soul Stone](/Items/unt_120/), [ Magog Soul Stone](/Items/unt_138/), [ Pit Lord Soul Stone](/Items/unt_37/), [ Efreet Sultan Soul Stone](/Items/unt_52/), [ Arch Devil Soul Stone](/Items/unt_72/) | [ Imp](/Items/unt_62/), [ Gog](/Items/unt_43/), [ Hell Hound](/Items/unt_100/), [ Demon](/Items/unt_78/), [ Pit Fiend](/Items/unt_137/), [ Efreeti](/Items/unt_116/), [ Devil](/Items/unt_19/) | 
+
+
 
 
 ## Faction Altar Rules

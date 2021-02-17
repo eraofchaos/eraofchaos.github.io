@@ -15,6 +15,12 @@ classes: wide
 
 ## February 2021:
 
+  **Price for 1 spin: 300x** <i class="fas fa-gem"/>
+
+  **Price for 10 spins: 2700x** <i class="fas fa-gem"/>
+
+  **Lucky points range:** from **20** to **22**
+
   |  Date  |  Race  |  Details  | Drop Souls | Drop Units |
   |:-------|:-------|:---------:|:----------:|:----------:|
   | 25 Jan - 1 Feb | Necropolis | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [ Skeleton Warrior Soul Stone](/Items/unt_12/), [ Zombie Soul Stone](/Items/unt_27/), [ Vampire Lord Soul Stone](/Items/unt_64/), [ Ghost Dragon Soul Stone](/Items/unt_125/) | [ Skeleton](/Items/unt_80/), [ Walking Dead](/Items/unt_140/), [ Wight](/Items/unt_141/), [ Vampire](/Items/unt_122/), [ Bone Dragon](/Items/unt_65/) | 
@@ -22,6 +28,8 @@ classes: wide
   | 8 - 15 Feb | Rampart | [Faction Altar Drop Details](/FactionAltar/DROP_102/) | [ Centaur Captain Soul Stone](/Items/unt_121/), [ Grand Elf Soul Stone](/Items/unt_142/), [ Silver Pegasus Soul Stone](/Items/unt_13/), [ Dendroid Soldier Soul Stone](/Items/unt_29/), [ War Unicorn Soul Stone](/Items/unt_46/), [ Gold Dragon Soul Stone](/Items/unt_66/) | [ Centaur](/Items/unt_58/), [ Dwarf](/Items/unt_42/), [ Wood Elf](/Items/unt_101/), [ Pegasus](/Items/unt_102/), [ Dendroid Guard](/Items/unt_83/), [ Unicorn](/Items/unt_143/), [ Green Dragon](/Items/unt_124/) | 
   | 15 - 22 Feb | Cove | [Faction Altar Drop Details](/FactionAltar/DROP_112/) |  - | [ Regnan Pirates](/Items/unt_32/), [ Regnan Archer](/Items/unt_48/), [ Sea Elemental](/Items/unt_68/), [ Dragon Turtle](/Items/unt_89/), [ Shark Trainer](/Items/unt_1/) | 
   | 22 Feb - 1 Mar | Tower | [Faction Altar Drop Details](/FactionAltar/DROP_106/) | [ Gold Golem Soul Stone](/Items/unt_56/), [ Arch Mage Soul Stone](/Items/unt_73/), [ Naga Queen Soul Stone](/Items/unt_110/), [ Titan Soul Stone](/Items/unt_130/) | [ Gremlin](/Items/unt_81/), [ Stone Gargoyle](/Items/unt_139/), [ Iron Golem](/Items/unt_118/), [ Mage](/Items/unt_21/), [ Naga](/Items/unt_53/), [ Giant ](/Items/unt_36/) | 
+
+
 
 
 ## Faction Altar Rules

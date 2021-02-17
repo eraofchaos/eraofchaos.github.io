@@ -15,6 +15,12 @@ classes: wide
 
 ## March 2021:
 
+  **Price for 1 spin: 300x** <i class="fas fa-gem"/>
+
+  **Price for 10 spins: 2700x** <i class="fas fa-gem"/>
+
+  **Lucky points range:** from **20** to **22**
+
   |  Date  |  Race  |  Details  | Drop Souls | Drop Units |
   |:-------|:-------|:---------:|:----------:|:----------:|
   | 22 Feb - 1 Mar | Tower | [Faction Altar Drop Details](/FactionAltar/DROP_106/) | [ Gold Golem Soul Stone](/Items/unt_56/), [ Arch Mage Soul Stone](/Items/unt_73/), [ Naga Queen Soul Stone](/Items/unt_110/), [ Titan Soul Stone](/Items/unt_130/) | [ Gremlin](/Items/unt_81/), [ Stone Gargoyle](/Items/unt_139/), [ Iron Golem](/Items/unt_118/), [ Mage](/Items/unt_21/), [ Naga](/Items/unt_53/), [ Giant ](/Items/unt_36/) | 
@@ -23,6 +29,8 @@ classes: wide
   | 15 - 22 Mar | Castle | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [ Halberdier Soul Stone](/Items/unt_59/), [ Master Archer Soul Stone](/Items/unt_82/), [ Crusader Soul Stone](/Items/unt_103/), [ Zealot Soul Stone](/Items/unt_123/), [ Champions Knight's Soul Stone](/Items/unt_144/), [ Archangel Soul Stone](/Items/unt_15/) | [ Pikeman](/Items/unt_119/), [ Marksman](/Items/unt_24/), [ Griffin](/Items/unt_11/), [ Swordsman](/Items/unt_61/), [ Monk](/Items/unt_63/), [ Cavalier ](/Items/unt_44/), [ Angel](/Items/unt_104/), [ Paladin](/Items/unt_84/) | 
   | 22 - 29 Mar | Fortress | [Faction Altar Drop Details](/FactionAltar/DROP_108/) | [ Chaos Hydra Soul Stone](/Items/unt_91/) | [ Gnoll](/Items/unt_41/), [ Lizardman](/Items/unt_96/), [ Serpent Fly](/Items/unt_77/), [ Gorgon](/Items/unt_115/), [ Hydra](/Items/unt_4/) | 
   | 29 Mar - 5 Apr | Dungeon | [Faction Altar Drop Details](/FactionAltar/DROP_107/) | [ Dark Troglodyte Soul Stone](/Items/unt_76/), [ Minotaur King Soul Stone](/Items/unt_3/), [ Black Dragon King Soul Stone](/Items/unt_34/) | [ Troglodyte](/Items/unt_23/), [ Harpy](/Items/unt_9/), [ Minotaur](/Items/unt_94/), [ Black Dragon](/Items/unt_128/), [ Red Dragon](/Items/unt_111/) | 
+
+
 
 
 ## Faction Altar Rules
