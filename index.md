@@ -18,6 +18,8 @@ sidebar:
 
 **Wiki update** 
 
+[Faction Altar for 2021](https://eraofchaos.github.io/FactionAltar/) - Complete Faction Altar with drop units/souls and drop chance. Click on "Faction Altar Drop Details" to see more.
+
 Thanks for your activity. We have **3.6k unique users**, about **30K visitors per week** from **86 countries**.
 Due to technical limitation on github (we have about 4000 pages on wiki), we should split wiki for each language. After it, DE/FR/RU/IT/ES languages would be updated to current game state.
 
