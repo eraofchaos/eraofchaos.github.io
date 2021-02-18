@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Cove Limited Edition Pack](/Items/con_180/) |
   | 2 | **12%** | **2x** | [ Cove Limited Edition Pack](/Items/con_180/) |
   | 3 | **12%** | **3x** | [ Cove Limited Edition Pack](/Items/con_180/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **100%** [ Regnan Pirates](/Items/unt_32/),  |
+  | 5 | **12%** | **3x** |  **100%** [ Regnan Pirates](/Items/unt_32/),  |
+  | 6 | **12%** | **5x** |  **100%** [ Sea Elemental](/Items/unt_68/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Cove Limited Edition Pack](/Items/con_180/)
+  **Drop by 10x spin: X** [ Cove Limited Edition Pack](/Items/con_180/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|

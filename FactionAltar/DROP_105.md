@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Inferno Limited Edition Pack](/Items/con_1019/) |
   | 2 | **12%** | **2x** | [ Inferno Limited Edition Pack](/Items/con_1019/) |
   | 3 | **12%** | **3x** | [ Inferno Limited Edition Pack](/Items/con_1019/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **21%** [ Hell Hound](/Items/unt_100/),  **21%** [ Demon](/Items/unt_78/),  **6%** [ Efreeti](/Items/unt_116/),  **21%** [ Pit Fiend](/Items/unt_137/),  **21%** [ Pit Lord Soul Stone](/Items/unt_37/),  **6%** [ Efreet Sultan Soul Stone](/Items/unt_52/),  |
+  | 5 | **12%** | **3x** |  **21%** [ Hell Hound](/Items/unt_100/),  **21%** [ Demon](/Items/unt_78/),  **6%** [ Efreeti](/Items/unt_116/),  **21%** [ Pit Fiend](/Items/unt_137/),  **21%** [ Pit Lord Soul Stone](/Items/unt_37/),  **6%** [ Efreet Sultan Soul Stone](/Items/unt_52/),  |
+  | 6 | **12%** | **5x** |  **30%** [ Imp](/Items/unt_62/),  **30%** [ Gog](/Items/unt_43/),  **9%** [ Familiar Soul Stone](/Items/unt_120/),  **30%** [ Magog Soul Stone](/Items/unt_138/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Inferno Limited Edition Pack](/Items/con_1019/)
+  **Drop by 10x spin: X** [ Inferno Limited Edition Pack](/Items/con_1019/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|

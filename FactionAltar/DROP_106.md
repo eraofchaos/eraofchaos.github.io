@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Tower Limited Edition Pack](/Items/con_1362/) |
   | 2 | **12%** | **2x** | [ Tower Limited Edition Pack](/Items/con_1362/) |
   | 3 | **12%** | **3x** | [ Tower Limited Edition Pack](/Items/con_1362/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **23%** [ Stone Gargoyle](/Items/unt_139/),  **23%** [ Iron Golem](/Items/unt_118/),  **23%** [ Mage](/Items/unt_21/),  **23%** [ Gold Golem Soul Stone](/Items/unt_56/),  **6%** [ Arch Mage Soul Stone](/Items/unt_73/),  |
+  | 5 | **12%** | **3x** |  **23%** [ Stone Gargoyle](/Items/unt_139/),  **23%** [ Iron Golem](/Items/unt_118/),  **23%** [ Mage](/Items/unt_21/),  **23%** [ Gold Golem Soul Stone](/Items/unt_56/),  **6%** [ Arch Mage Soul Stone](/Items/unt_73/),  |
+  | 6 | **12%** | **5x** |  **100%** [ Gremlin](/Items/unt_81/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Tower Limited Edition Pack](/Items/con_1362/)
+  **Drop by 10x spin: X** [ Tower Limited Edition Pack](/Items/con_1362/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|

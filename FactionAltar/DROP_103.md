@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Stronghold Limited Edition Pack](/Items/con_1012/) |
   | 2 | **12%** | **2x** | [ Stronghold Limited Edition Pack](/Items/con_1012/) |
   | 3 | **12%** | **3x** | [ Stronghold Limited Edition Pack](/Items/con_1012/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **22%** [ Ogre](/Items/unt_57/),  **22%** [ Orc](/Items/unt_10/),  **6%** [ Roc](/Items/unt_40/),  **22%** [ Cyclops](/Items/unt_97/),  **6%** [ Ogre Mage Soul Stone](/Items/unt_117/),  **6%** [ Thunderbird Soul Stone](/Items/unt_136/),  **13%** [ Cyclops King Soul Stone](/Items/unt_6/),  |
+  | 5 | **12%** | **3x** |  **22%** [ Ogre](/Items/unt_57/),  **22%** [ Orc](/Items/unt_10/),  **6%** [ Roc](/Items/unt_40/),  **22%** [ Cyclops](/Items/unt_97/),  **6%** [ Ogre Mage Soul Stone](/Items/unt_117/),  **6%** [ Thunderbird Soul Stone](/Items/unt_136/),  **13%** [ Cyclops King Soul Stone](/Items/unt_6/),  |
+  | 6 | **12%** | **5x** |  **25%** [ Goblin](/Items/unt_26/),  **25%** [ Wolf Rider](/Items/unt_25/),  **25%** [ Hobgoblin Soul Stone](/Items/unt_60/),  **25%** [ Wolf Raider Soul Stone](/Items/unt_79/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Stronghold Limited Edition Pack](/Items/con_1012/)
+  **Drop by 10x spin: X** [ Stronghold Limited Edition Pack](/Items/con_1012/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|

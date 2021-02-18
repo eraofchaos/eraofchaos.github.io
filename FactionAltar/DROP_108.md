@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Fortress Limited Edition Pack](/Items/con_1394/) |
   | 2 | **12%** | **2x** | [ Fortress Limited Edition Pack](/Items/con_1394/) |
   | 3 | **12%** | **3x** | [ Fortress Limited Edition Pack](/Items/con_1394/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **50%** [ Lizardman](/Items/unt_96/),  **50%** [ Serpent Fly](/Items/unt_77/),  |
+  | 5 | **12%** | **3x** |  **50%** [ Lizardman](/Items/unt_96/),  **50%** [ Serpent Fly](/Items/unt_77/),  |
+  | 6 | **12%** | **5x** |  **100%** [ Gnoll](/Items/unt_41/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Fortress Limited Edition Pack](/Items/con_1394/)
+  **Drop by 10x spin: X** [ Fortress Limited Edition Pack](/Items/con_1394/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|

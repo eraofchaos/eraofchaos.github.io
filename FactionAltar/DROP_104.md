@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Necropolis Limited Edition Pack](/Items/con_919/) |
   | 2 | **12%** | **2x** | [ Necropolis Limited Edition Pack](/Items/con_919/) |
   | 3 | **12%** | **3x** | [ Necropolis Limited Edition Pack](/Items/con_919/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **18%** [ Wight](/Items/unt_141/),  **62%** [ Vampire](/Items/unt_122/),  **18%** [ Vampire Lord Soul Stone](/Items/unt_64/),  |
+  | 5 | **12%** | **3x** |  **18%** [ Wight](/Items/unt_141/),  **62%** [ Vampire](/Items/unt_122/),  **18%** [ Vampire Lord Soul Stone](/Items/unt_64/),  |
+  | 6 | **12%** | **5x** |  **25%** [ Skeleton](/Items/unt_80/),  **25%** [ Walking Dead](/Items/unt_140/),  **25%** [ Skeleton Warrior Soul Stone](/Items/unt_12/),  **25%** [ Zombie Soul Stone](/Items/unt_27/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Necropolis Limited Edition Pack](/Items/con_919/)
+  **Drop by 10x spin: X** [ Necropolis Limited Edition Pack](/Items/con_919/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|

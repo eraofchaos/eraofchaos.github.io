@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Dungeon Limited Edition Pack](/Items/con_1046/) |
   | 2 | **12%** | **2x** | [ Dungeon Limited Edition Pack](/Items/con_1046/) |
   | 3 | **12%** | **3x** | [ Dungeon Limited Edition Pack](/Items/con_1046/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **43%** [ Harpy](/Items/unt_9/),  **13%** [ Minotaur](/Items/unt_94/),  **43%** [ Minotaur King Soul Stone](/Items/unt_3/),  |
+  | 5 | **12%** | **3x** |  **43%** [ Harpy](/Items/unt_9/),  **13%** [ Minotaur](/Items/unt_94/),  **43%** [ Minotaur King Soul Stone](/Items/unt_3/),  |
+  | 6 | **12%** | **5x** |  **50%** [ Troglodyte](/Items/unt_23/),  **50%** [ Dark Troglodyte Soul Stone](/Items/unt_76/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Dungeon Limited Edition Pack](/Items/con_1046/)
+  **Drop by 10x spin: X** [ Dungeon Limited Edition Pack](/Items/con_1046/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|

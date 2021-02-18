@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Rampart Limited Edition Pack](/Items/con_903/) |
   | 2 | **12%** | **2x** | [ Rampart Limited Edition Pack](/Items/con_903/) |
   | 3 | **12%** | **3x** | [ Rampart Limited Edition Pack](/Items/con_903/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **4%** [ Dwarf](/Items/unt_42/),  **14%** [ Wood Elf](/Items/unt_101/),  **14%** [ Pegasus](/Items/unt_102/),  **14%** [ Dendroid Guard](/Items/unt_83/),  **14%** [ Unicorn](/Items/unt_143/),  **14%** [ Grand Elf Soul Stone](/Items/unt_142/),  **4%** [ Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [ Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [ War Unicorn Soul Stone](/Items/unt_46/),  |
+  | 5 | **12%** | **3x** |  **4%** [ Dwarf](/Items/unt_42/),  **14%** [ Wood Elf](/Items/unt_101/),  **14%** [ Pegasus](/Items/unt_102/),  **14%** [ Dendroid Guard](/Items/unt_83/),  **14%** [ Unicorn](/Items/unt_143/),  **14%** [ Grand Elf Soul Stone](/Items/unt_142/),  **4%** [ Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [ Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [ War Unicorn Soul Stone](/Items/unt_46/),  |
+  | 6 | **12%** | **5x** |  **76%** [ Centaur](/Items/unt_58/),  **23%** [ Centaur Captain Soul Stone](/Items/unt_121/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Rampart Limited Edition Pack](/Items/con_903/)
+  **Drop by 10x spin: X** [ Rampart Limited Edition Pack](/Items/con_903/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|

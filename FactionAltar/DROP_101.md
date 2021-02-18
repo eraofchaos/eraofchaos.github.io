@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Castle Limited Edition Pack](/Items/con_891/) |
   | 2 | **12%** | **2x** | [ Castle Limited Edition Pack](/Items/con_891/) |
   | 3 | **12%** | **3x** | [ Castle Limited Edition Pack](/Items/con_891/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **20%** [ Griffin](/Items/unt_11/),  **6%** [ Swordsman](/Items/unt_61/),  **20%** [ Monk](/Items/unt_63/),  **20%** [ Cavalier ](/Items/unt_44/),  **6%** [ Crusader Soul Stone](/Items/unt_103/),  **20%** [ Champions Knight's Soul Stone](/Items/unt_144/),  **6%** [ Zealot Soul Stone](/Items/unt_123/),  |
+  | 5 | **12%** | **3x** |  **20%** [ Griffin](/Items/unt_11/),  **6%** [ Swordsman](/Items/unt_61/),  **20%** [ Monk](/Items/unt_63/),  **20%** [ Cavalier ](/Items/unt_44/),  **6%** [ Crusader Soul Stone](/Items/unt_103/),  **20%** [ Champions Knight's Soul Stone](/Items/unt_144/),  **6%** [ Zealot Soul Stone](/Items/unt_123/),  |
+  | 6 | **12%** | **5x** |  **25%** [ Pikeman](/Items/unt_119/),  **25%** [ Marksman](/Items/unt_24/),  **25%** [ Halberdier Soul Stone](/Items/unt_59/),  **25%** [ Master Archer Soul Stone](/Items/unt_82/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Castle Limited Edition Pack](/Items/con_891/)
+  **Drop by 10x spin: X** [ Castle Limited Edition Pack](/Items/con_891/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|

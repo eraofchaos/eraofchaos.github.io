@@ -28,9 +28,9 @@ classes: wide
   | 1 | **25%** | **1x** | [ Elemental Limited Edition Pack](/Items/con_1032/) |
   | 2 | **12%** | **2x** | [ Elemental Limited Edition Pack](/Items/con_1032/) |
   | 3 | **12%** | **3x** | [ Elemental Limited Edition Pack](/Items/con_1032/) |
-  | 4 | **12%** | **5x** |  ToBeDONE  |
-  | 5 | **12%** | **3x** |  ToBeDONE  |
-  | 6 | **12%** | **5x** |  ToBeDONE  |
+  | 4 | **12%** | **5x** |  **31%** [ Storm Elemental](/Items/unt_113/),  **31%** [ Ice Elemental](/Items/unt_22/),  **9%** [ Firebird](/Items/unt_93/),  **9%** [ Phoenix Soul Stone](/Items/unt_2/),  **9%** [ Thunder Rage Soul Stone](/Items/unt_55/),  **9%** [ Silent Snow Spirit Soul Stone](/Items/unt_69/),  |
+  | 5 | **12%** | **3x** |  **31%** [ Storm Elemental](/Items/unt_113/),  **31%** [ Ice Elemental](/Items/unt_22/),  **9%** [ Firebird](/Items/unt_93/),  **9%** [ Phoenix Soul Stone](/Items/unt_2/),  **9%** [ Thunder Rage Soul Stone](/Items/unt_55/),  **9%** [ Silent Snow Spirit Soul Stone](/Items/unt_69/),  |
+  | 6 | **12%** | **5x** |  **100%** [ Sprite](/Items/unt_134/),  |
 
 
 ####  1x SPIN 
@@ -45,7 +45,7 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: xxx** [ Elemental Limited Edition Pack](/Items/con_1032/)
+  **Drop by 10x spin: X** [ Elemental Limited Edition Pack](/Items/con_1032/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
