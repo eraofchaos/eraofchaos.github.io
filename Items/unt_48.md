@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Regnan Archer"
+title: "Item - Units - Regnan Archer"
 permalink: /Items/unt_48/
-excerpt: " Regnan Archer"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Regnan Archer"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_48.md"
 toc: false
 classes: wide

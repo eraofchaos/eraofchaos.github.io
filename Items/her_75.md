@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Echo of the Abyss"
+title: "Item - Heroes - Echo of the Abyss"
 permalink: /Items/her_75/
-excerpt: " Echo of the Abyss"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Echo of the Abyss"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_75.md"
 toc: false
 classes: wide

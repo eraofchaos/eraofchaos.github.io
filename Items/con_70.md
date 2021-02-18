@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Diamond"
+title: "Item - Consumables - Red rose"
 permalink: /Items/con_70/
-excerpt: " Diamond"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Red rose"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_70.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Diamonds represent wealth.
+ **Description:** 
 
- **Quality:** <span style="color: #000080">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

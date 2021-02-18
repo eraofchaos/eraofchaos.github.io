@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Dragon Turtle"
+title: "Item - Units - Dragon Turtle"
 permalink: /Items/unt_89/
-excerpt: " Dragon Turtle"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Dragon Turtle"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_89.md"
 toc: false
 classes: wide

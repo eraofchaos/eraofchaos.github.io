@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Staff of Wisdom"
+title: "Item - Artifacts - Staff of Wisdom"
 permalink: /Items/art_77/
-excerpt: " Staff of Wisdom"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Staff of Wisdom"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_77.md"
 toc: false
 classes: wide

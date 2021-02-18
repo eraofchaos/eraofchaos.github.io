@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Star Mercury"
+title: "Item - Materials - Star Mercury"
 permalink: /Items/mat_98/
-excerpt: " Star Mercury"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Star Mercury"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_98.md"
 toc: false
 classes: wide

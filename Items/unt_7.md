@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Genie"
+title: "Item - Units - Genie"
 permalink: /Items/unt_7/
-excerpt: " Genie"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Genie"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_7.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Fast Attack"
+title: "Item - Heroes - Fast Attack"
 permalink: /Items/her_92/
-excerpt: " Fast Attack"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Fast Attack"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_92.md"
 toc: false
 classes: wide

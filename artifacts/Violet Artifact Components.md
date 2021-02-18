@@ -2,8 +2,8 @@
 title: "Violet Artifact Components"
 permalink: /artifacts/Violet Artifact Components/
 excerpt: "Lis of all Violet Artifact Components  in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Violet Artifact Components.md"
 toc: false
 classes: wide

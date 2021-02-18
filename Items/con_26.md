@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Qiandongnan Herbal Cattle Hotpot"
+title: "Item - Consumables - Daily Special Offer Pack A"
 permalink: /Items/con_26/
-excerpt: " Qiandongnan Herbal Cattle Hotpot"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Daily Special Offer Pack A"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_26.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** This ingredients of this dish have a faint gymnosiphon scent before they are cooked. The locals call this a hundred-herb soup, and it tastes better with every bite after it is cooked with various Chinese medicinal spices and beef offal. This particular pot of food seems to be insufficiently heated.
+ **Description:** Grants 2 random unit token packs and 20 diamonds.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Event related
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,11 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **20x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **2x** | Random Unit Token Pack | Randomly grants 1 R or SR unit token.  | 

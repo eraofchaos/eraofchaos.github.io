@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Thunder Rage Pack"
+title: "Item - Consumables - Lunar Invitation Gem Offer"
 permalink: /Items/con_97/
-excerpt: " Thunder Rage Pack"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Lunar Invitation Gem Offer"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_97.md"
 toc: false
 classes: wide
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use it to select 1 of the following: Thunder Rage Avatar Frame *1 or Giant Token *5
+ **Description:** Grants 6,480 diamonds, 1 Lunar Invitation Gem skin, 40 Gem Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -25,9 +25,12 @@ classes: wide
 
  **Required Level to open:** 1
 
- You would need to choose 1 item from the list (0):
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 | AVATARFRAME1057 | 
-  | 2 |  **5x** | Giant  | Once you have gathered 80 soul tokens you can summon a Giant . Tokens can also be used to upgrade or increase the rank of Giant.  | 
+  | 1 |  **6480x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Moonlight Invitation - Gem | Use to get Gem's Moonlight Invitation skin  | 
+  | 3 |  **40x** | Gem | Collect 30 tokens to summon Gem to join your party. Tokens are also required to increase her rank.  | 
+  | 4 |  **5x** | Universal Hero Tokens | Gathering wondrous magic, these tokens can be used to increase the rank of any hero.  | 
+  | 5 |  **15x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 

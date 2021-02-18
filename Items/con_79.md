@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  V15 Premium Package"
+title: "Item - Consumables - Realm Package"
 permalink: /Items/con_79/
-excerpt: " V15 Premium Package"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Realm Package"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_79.md"
 toc: false
 classes: wide
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A premium pack for those of VIP level 15 and above
+ **Description:** A pack obtained from a realm. You have a chance to obtain Guild Coins, Skill Runes, and Rosters Box after opening it
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -25,13 +25,14 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ 3 You would get **1** item  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | SSR Unit 200 Token Selection Pack (Angel, Devil, Black Knight) | Use to select 200 Angel, Devil, or Black Knight tokens.  | 
-  | 2 |  **1x** | Premium Orange Artifact Component Selection Gift Box | Use to select one of the following Component Selection Packs: Power of the Dragon Father, Sword of Frost, Armageddon's Blade, Angelic Alliance, or Golden Apple.  | 
-  | 3 | AVATARFRAME1080 | 
-  | 4 |  **20x** | Orange Crystal | A mysterious runestone. Greatly improves your units' skill insight. Provides 1000 skill EXP when used.  | 
-  | 5 |  **500000x** | <i class="fas fa-coins"/> |  | 
-  | 6 |  **50000x** | Unit EXP | Leveling up your units consumes unit experience.  | 
+  | 1 |  **88x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 2 |  **166x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 3 |  **388x** | Guild coin | Can be exchanged for items in the Guild Store.  | 
+  | 4 |  **3x** | Blue Crystal | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used.  | 
+  | 5 |  **3x** | Purple Crystal | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.  | 
+  | 6 |  **3x** | Orange Crystal | A mysterious runestone. Greatly improves your units' skill insight. Provides 1000 skill EXP when used.  | 
+  | 7 |  **2x** | Expert Roster Box | A rare chest that can be found in Dragon's Treasures. Open to receive 3 random Roster runes.  | 

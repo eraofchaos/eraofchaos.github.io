@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Epic Crystal"
+title: "Item - Materials - Epic Crystal"
 permalink: /Items/mat_5/
-excerpt: " Epic Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Epic Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_5.md"
 toc: false
 classes: wide

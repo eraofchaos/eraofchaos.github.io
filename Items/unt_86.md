@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Archdruid Soul Stone"
+title: "Item - Units - Archdruid Soul Stone"
 permalink: /Items/unt_86/
-excerpt: " Archdruid Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Archdruid Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_86.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Cure"
+title: "Item - Heroes - Cure"
 permalink: /Items/her_16/
-excerpt: " Cure"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Cure"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_16.md"
 toc: false
 classes: wide

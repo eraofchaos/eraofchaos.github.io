@@ -2,8 +2,8 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "index.md"
 toc: true
 ---

@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Clear Soup Base"
+title: "Item - Consumables - Clear Soup Base"
 permalink: /Items/con_10/
-excerpt: " Clear Soup Base"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Clear Soup Base"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_10.md"
 toc: false
 classes: wide

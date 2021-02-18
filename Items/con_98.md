@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Daily Special Offer Pack A"
+title: "Item - Consumables - Thunder Rage Pack"
 permalink: /Items/con_98/
-excerpt: " Daily Special Offer Pack A"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Thunder Rage Pack"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_98.md"
 toc: false
 classes: wide
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 2 Stronghold Faction Chests and 20 diamonds.
+ **Description:** Use it to select 1 of the following: Thunder Rage Avatar Frame *1 or Giant Token *5
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Gift
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ You would need to choose 1 item from the list (0):
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **20x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **2x** | Stronghold Unit Chest | Receive a random Stronghold Faction Unit token.  | 
+  | 1 | AVATARFRAME1057 | 
+  | 2 |  **5x** | Giant  | Once you have gathered 80 soul tokens you can summon a Giant . Tokens can also be used to upgrade or increase the rank of Giant.  | 

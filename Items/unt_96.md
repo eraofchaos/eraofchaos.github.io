@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Lizardman"
+title: "Item - Units - Lizardman"
 permalink: /Items/unt_96/
-excerpt: " Lizardman"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Lizardman"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_96.md"
 toc: false
 classes: wide

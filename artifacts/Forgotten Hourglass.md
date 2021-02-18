@@ -2,8 +2,8 @@
 title: "Artifacts - Mirror of Revenge - Forgotten Hourglass"
 permalink: /artifacts/Forgotten Hourglass/
 excerpt: "Mirror of Revenge - Forgotten Hourglass. When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Forgotten Hourglass.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Forgotten Hourglass](/Items/art_74/)
+ **Related Item**: [Forgotten Hourglass](/Items/art_74/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

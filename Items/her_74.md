@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Lifelink"
+title: "Item - Heroes - Lifelink"
 permalink: /Items/her_74/
-excerpt: " Lifelink"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Lifelink"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_74.md"
 toc: false
 classes: wide

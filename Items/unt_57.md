@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Ogre"
+title: "Item - Units - Ogre"
 permalink: /Items/unt_57/
-excerpt: " Ogre"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ogre"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_57.md"
 toc: false
 classes: wide

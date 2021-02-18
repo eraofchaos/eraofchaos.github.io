@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Withering Staff"
+title: "Item - Artifacts - Withering Staff"
 permalink: /Items/art_33/
-excerpt: " Withering Staff"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Withering Staff"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_33.md"
 toc: false
 classes: wide

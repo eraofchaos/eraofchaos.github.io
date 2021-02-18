@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Thorn Halo"
+title: "Item - Heroes - Thorn Halo"
 permalink: /Items/her_66/
-excerpt: " Thorn Halo"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Thorn Halo"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_66.md"
 toc: false
 classes: wide

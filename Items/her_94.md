@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Hero Human Sandro"
+title: "Item - Heroes - Hero Human Sandro"
 permalink: /Items/her_94/
-excerpt: " Hero Human Sandro"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Hero Human Sandro"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_94.md"
 toc: false
 classes: wide

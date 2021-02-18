@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Cross-server Guild Coin"
+title: "Item - Consumables - Cross-server Guild Coin"
 permalink: /Items/con_4/
-excerpt: " Cross-server Guild Coin"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Cross-server Guild Coin"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_4.md"
 toc: false
 classes: wide

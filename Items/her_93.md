@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Crystallized Earth"
+title: "Item - Heroes - Crystallized Earth"
 permalink: /Items/her_93/
-excerpt: " Crystallized Earth"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Crystallized Earth"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_93.md"
 toc: false
 classes: wide

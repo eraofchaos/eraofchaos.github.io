@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Hobgoblin Soul Stone"
+title: "Item - Units - Hobgoblin Soul Stone"
 permalink: /Items/unt_60/
-excerpt: " Hobgoblin Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Hobgoblin Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_60.md"
 toc: false
 classes: wide

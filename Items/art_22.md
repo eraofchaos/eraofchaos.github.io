@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Garniture of Interference"
+title: "Item - Artifacts - Garniture of Interference"
 permalink: /Items/art_22/
-excerpt: " Garniture of Interference"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Garniture of Interference"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_22.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Red Dragon Flame Tongue"
+title: "Item - Artifacts - Red Dragon Flame Tongue"
 permalink: /Items/art_62/
-excerpt: " Red Dragon Flame Tongue"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Red Dragon Flame Tongue"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_62.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Exceptional Crystal"
+title: "Item - Materials - Exceptional Crystal"
 permalink: /Items/mat_33/
-excerpt: " Exceptional Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Exceptional Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_33.md"
 toc: false
 classes: wide

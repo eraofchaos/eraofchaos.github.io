@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Legendary Certificate"
+title: "Item - Materials - Legendary Certificate"
 permalink: /Items/mat_76/
-excerpt: " Legendary Certificate"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Legendary Certificate"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_76.md"
 toc: false
 classes: wide

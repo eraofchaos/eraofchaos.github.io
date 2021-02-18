@@ -2,8 +2,8 @@
 title: "Artifacts - Angelic Alliance - Sandals of the Saint"
 permalink: /artifacts/Sandals of the Saint/
 excerpt: "Angelic Alliance - Sandals of the Saint. A holy relic made in celebration of a united Erathia. One of the components of the Angelic Alliance."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Sandals of the Saint.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Sandals of the Saint](/Items/art_63/)
+ **Related Item**: [Sandals of the Saint](/Items/art_63/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

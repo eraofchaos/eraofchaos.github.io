@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Rush Tactic"
+title: "Item - Heroes - Rush Tactic"
 permalink: /Items/her_84/
-excerpt: " Rush Tactic"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Rush Tactic"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_84.md"
 toc: false
 classes: wide

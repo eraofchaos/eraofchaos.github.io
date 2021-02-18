@@ -2,8 +2,8 @@
 title: "Artifacts - Lucky Horseshoe - Cards of Prophecy"
 permalink: /artifacts/Cards of Prophecy/
 excerpt: "Lucky Horseshoe - Cards of Prophecy. Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Cards of Prophecy.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Lucky Horseshoe](/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 1x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Cards of Prophecy](/Items/art_29/)
+ **Related Item**: [Cards of Prophecy](/Items/art_29/)
 
  **Quality:** [Green Artifact Components](/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Luck Card"
+title: "Item - Consumables - Ranger Medal"
 permalink: /Items/con_48/
-excerpt: " Luck Card"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ranger Medal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_48.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants the following items every day for the next 7 days after purchasing: 10 diamonds and 10 Energy.
+ **Description:** A keepsake of the legendary ranger. Can be exchanged for Rampart Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 7 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **10x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **10x** | Energy | Energy will be consumed when you play in story mode or Underground mode.  | 

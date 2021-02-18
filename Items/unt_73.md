@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Arch Mage Soul Stone"
+title: "Item - Units - Arch Mage Soul Stone"
 permalink: /Items/unt_73/
-excerpt: " Arch Mage Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Arch Mage Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_73.md"
 toc: false
 classes: wide

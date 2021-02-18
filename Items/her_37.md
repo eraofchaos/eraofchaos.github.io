@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Total Darkness"
+title: "Item - Heroes - Total Darkness"
 permalink: /Items/her_37/
-excerpt: " Total Darkness"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Total Darkness"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_37.md"
 toc: false
 classes: wide

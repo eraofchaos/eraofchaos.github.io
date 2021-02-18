@@ -2,8 +2,8 @@
 title: "Artifacts - Power of the Dragon Father - Crown of Dragontooth"
 permalink: /artifacts/Crown of Dragontooth/
 excerpt: "Power of the Dragon Father - Crown of Dragontooth. A helmet cast from dragon teeth. One of the components of Power of the Dragon Father."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Crown of Dragontooth.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Crown of Dragontooth](/Items/art_86/)
+ **Related Item**: [Crown of Dragontooth](/Items/art_86/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

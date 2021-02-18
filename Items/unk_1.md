@@ -1,9 +1,9 @@
 ---
-title: "Item - Unknown -  Apparition · Grace (14 Days)"
+title: "Item - Unknown - Apparition · Grace (14 Days)"
 permalink: /Items/unk_1/
-excerpt: " Apparition · Grace (14 Days)"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Apparition · Grace (14 Days)"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unk_1.md"
 toc: false
 classes: wide

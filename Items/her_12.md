@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Yog"
+title: "Item - Heroes - Yog"
 permalink: /Items/her_12/
-excerpt: " Yog"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Yog"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_12.md"
 toc: false
 classes: wide

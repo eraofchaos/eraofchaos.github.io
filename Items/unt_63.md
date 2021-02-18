@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Monk"
+title: "Item - Units - Monk"
 permalink: /Items/unt_63/
-excerpt: " Monk"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Monk"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_63.md"
 toc: false
 classes: wide

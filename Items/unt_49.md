@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Waspwort"
+title: "Item - Units - Waspwort"
 permalink: /Items/unt_49/
-excerpt: " Waspwort"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Waspwort"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_49.md"
 toc: false
 classes: wide

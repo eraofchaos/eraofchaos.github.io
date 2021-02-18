@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Undead Army"
+title: "Item - Heroes - Undead Army"
 permalink: /Items/her_19/
-excerpt: " Undead Army"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Undead Army"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_19.md"
 toc: false
 classes: wide

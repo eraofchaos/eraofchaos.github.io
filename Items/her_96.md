@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Ciele"
+title: "Item - Heroes - Ciele"
 permalink: /Items/her_96/
-excerpt: " Ciele"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ciele"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_96.md"
 toc: false
 classes: wide

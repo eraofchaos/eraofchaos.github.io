@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Cooling Curse"
+title: "Item - Heroes - Cooling Curse"
 permalink: /Items/her_61/
-excerpt: " Cooling Curse"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Cooling Curse"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_61.md"
 toc: false
 classes: wide

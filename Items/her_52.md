@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Clone"
+title: "Item - Heroes - Clone"
 permalink: /Items/her_52/
-excerpt: " Clone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Clone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_52.md"
 toc: false
 classes: wide

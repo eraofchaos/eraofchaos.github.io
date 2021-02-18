@@ -2,8 +2,8 @@
 title: "Artifacts - Armour of the Damned - Skull Helmet"
 permalink: /artifacts/Skull Helmet/
 excerpt: "Armour of the Damned - Skull Helmet. A helmet found in the underworld. One of the components of the Armour of the Damned."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Skull Helmet.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armour of the Damned](/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Skull Helmet](/Items/art_84/)
+ **Related Item**: [Skull Helmet](/Items/art_84/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

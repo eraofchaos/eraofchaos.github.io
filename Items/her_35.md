@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Frozen Arrow"
+title: "Item - Heroes - Frozen Arrow"
 permalink: /Items/her_35/
-excerpt: " Frozen Arrow"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Frozen Arrow"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_35.md"
 toc: false
 classes: wide

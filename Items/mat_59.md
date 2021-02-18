@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Rare Gems"
+title: "Item - Materials - Rare Gems"
 permalink: /Items/mat_59/
-excerpt: " Rare Gems"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Rare Gems"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_59.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Water Mastery"
+title: "Item - Heroes - Water Mastery"
 permalink: /Items/her_44/
-excerpt: " Water Mastery"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Water Mastery"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_44.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Efreet Sultan Soul Stone"
+title: "Item - Units - Efreet Sultan Soul Stone"
 permalink: /Items/unt_52/
-excerpt: " Efreet Sultan Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Efreet Sultan Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_52.md"
 toc: false
 classes: wide

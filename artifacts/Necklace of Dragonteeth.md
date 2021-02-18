@@ -2,8 +2,8 @@
 title: "Artifacts - Power of the Dragon Father - Necklace of Dragonteeth"
 permalink: /artifacts/Necklace of Dragonteeth/
 excerpt: "Power of the Dragon Father - Necklace of Dragonteeth. A necklace blessed by the Holy Dragon. One of the components of Power of the Dragon Father."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Necklace of Dragonteeth.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Necklace of Dragonteeth](/Items/art_41/)
+ **Related Item**: [Necklace of Dragonteeth](/Items/art_41/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

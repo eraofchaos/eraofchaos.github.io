@@ -2,8 +2,8 @@
 title: "Artifacts - Wizard's Well - Mystic Orb of Mana"
 permalink: /artifacts/Mystic Orb of Mana/
 excerpt: "Wizard's Well - Mystic Orb of Mana. A crystal ball with strong magic. One of the components of the Wizard's Well."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Mystic Orb of Mana.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Wizard's Well](/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 3x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Mystic Orb of Mana](/Items/art_76/)
+ **Related Item**: [Mystic Orb of Mana](/Items/art_76/)
 
  **Quality:** [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

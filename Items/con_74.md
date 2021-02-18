@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Holiday Hero Special Offer"
+title: "Item - Consumables - Holiday SSR Special Offer"
 permalink: /Items/con_74/
-excerpt: " Holiday Hero Special Offer"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Holiday SSR Special Offer"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_74.md"
 toc: false
 classes: wide
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 5,180 diamonds, 1 Elite Hero Pack, 300 Spell Scrolls, and 10 Ancient Temple Scrolls.
+ **Description:** Grants 6,480 diamonds, and 80 SSR Souls.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,7 +29,5 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **5180x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Elite Hero Pack | Use to select 1 of the following: 40 Roland tokens, 40 Kilgor tokens, 40 Sandro tokens, 40 Astral tokens, 40 Dragon Mutare tokens, 40 Xeron tokens, 40 Ciele tokens, 40 Tazar tokens, or 40 Gem tokens.  | 
-  | 3 |  **300x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 
-  | 4 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
+  | 1 |  **6480x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **80x** | SSR Unit Soul | Collect 80 of these to get a random SSR aptitude unit (excluding Black Knight, Assassin, and Spartan Warriors).  | 

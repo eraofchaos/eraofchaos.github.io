@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Valentine's Day Chest A"
+title: "Item - Consumables - Elite Unit Special Offer"
 permalink: /Items/con_89/
-excerpt: " Valentine's Day Chest A"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Elite Unit Special Offer"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_89.md"
 toc: false
 classes: wide
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest and Starlit Rose*70
+ **Description:** Use it to get Diamond *3280, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -30,8 +30,6 @@ classes: wide
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
   | 1 |  **3280x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **25x** | Gold Key | A credential for recruitment. You can recruit high-level units once for free when using it.  | 
-  | 3 |  **1x** | SR+ Unit Token Chest | Randomly grants 80 Lich, Genie, or Stone Elemental tokens.  | 
-  | 4 |  **500000x** | <i class="fas fa-coins"/> |  | 
-  | 5 |  **20x** | Purple Crystal | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.  | 
-  | 6 |  **70x** | Starlit Rose | The exclusive items during Valentine's Day, used to exchange for event items  | 
+  | 2 |  **1x** | Elite Unit Pack | Use it to select 1 of the following: Druid, Lich, Mummy, Nightmare, Genie, Magic Airship, Medusa, Beholder, Manticore, Wyvern, Basilisk, Stone Elemental, Mermaid Token *81  | 
+  | 3 |  **288x** | Talent potion ingredients | The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit.   | 
+  | 4 |  **20x** | Huge EXP potion | A bottle of highly purified EXP potion. You will gain 7500 unit EXP after drinking it.  | 

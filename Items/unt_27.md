@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Zombie Soul Stone"
+title: "Item - Units - Zombie Soul Stone"
 permalink: /Items/unt_27/
-excerpt: " Zombie Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Zombie Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_27.md"
 toc: false
 classes: wide

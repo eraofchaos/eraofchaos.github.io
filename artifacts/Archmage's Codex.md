@@ -2,8 +2,8 @@
 title: "Artifacts - Archmage's Codex"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "Archmage's Codex Records Arcane spells. Strengthens Ranged/Caster units."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Archmage's Codex.md"
 toc: false
 classes: wide

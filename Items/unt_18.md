@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Ancient Behemoth Soul Stone"
+title: "Item - Units - Ancient Behemoth Soul Stone"
 permalink: /Items/unt_18/
-excerpt: " Ancient Behemoth Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ancient Behemoth Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_18.md"
 toc: false
 classes: wide

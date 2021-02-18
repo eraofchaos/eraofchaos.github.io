@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Dendroid Guard"
+title: "Item - Units - Dendroid Guard"
 permalink: /Items/unt_83/
-excerpt: " Dendroid Guard"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Dendroid Guard"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_83.md"
 toc: false
 classes: wide

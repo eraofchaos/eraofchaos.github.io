@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Knight Sword"
+title: "Item - Artifacts - Knight Sword"
 permalink: /Items/art_26/
-excerpt: " Knight Sword"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Knight Sword"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_26.md"
 toc: false
 classes: wide

@@ -2,8 +2,8 @@
 title: "Artifacts - Elixir of Life - Ring of Life"
 permalink: /artifacts/Ring of Life/
 excerpt: "Elixir of Life - Ring of Life. A ring that supplies vast health to its wearer. One of the components of the Elixir of Life"
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Ring of Life.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Elixir of Life](/artifacts/Elixir of Life/){: .btn .btn--era2}
 
- **Dismantle: 1x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 1x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Ring of Life](/Items/art_69/)
+ **Related Item**: [Ring of Life](/Items/art_69/)
 
  **Quality:** [Green Artifact Components](/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

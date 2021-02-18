@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Mutare"
+title: "Item - Heroes - Mutare"
 permalink: /Items/her_5/
-excerpt: " Mutare"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Mutare"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_5.md"
 toc: false
 classes: wide

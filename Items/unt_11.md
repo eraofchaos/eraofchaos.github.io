@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Griffin"
+title: "Item - Units - Griffin"
 permalink: /Items/unt_11/
-excerpt: " Griffin"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Griffin"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_11.md"
 toc: false
 classes: wide

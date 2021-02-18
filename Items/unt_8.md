@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Fire Elemental"
+title: "Item - Units - Fire Elemental"
 permalink: /Items/unt_8/
-excerpt: " Fire Elemental"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Fire Elemental"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_8.md"
 toc: false
 classes: wide

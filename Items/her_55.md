@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Slayer"
+title: "Item - Heroes - Slayer"
 permalink: /Items/her_55/
-excerpt: " Slayer"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Slayer"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_55.md"
 toc: false
 classes: wide

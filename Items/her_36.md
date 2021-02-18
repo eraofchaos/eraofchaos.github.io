@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Ice Wall"
+title: "Item - Heroes - Ice Wall"
 permalink: /Items/her_36/
-excerpt: " Ice Wall"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ice Wall"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_36.md"
 toc: false
 classes: wide

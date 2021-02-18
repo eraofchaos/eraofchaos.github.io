@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Eternal Wood"
+title: "Item - Materials - Eternal Wood"
 permalink: /Items/mat_75/
-excerpt: " Eternal Wood"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Eternal Wood"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_75.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Exceptional Sulfur"
+title: "Item - Materials - Exceptional Sulfur"
 permalink: /Items/mat_1/
-excerpt: " Exceptional Sulfur"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Exceptional Sulfur"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_1.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Rashka"
+title: "Item - Heroes - Rashka"
 permalink: /Items/her_89/
-excerpt: " Rashka"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Rashka"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_89.md"
 toc: false
 classes: wide

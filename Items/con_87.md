@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Elite Unit Pack"
+title: "Item - Consumables - Peak Trial Special Offer"
 permalink: /Items/con_87/
-excerpt: " Elite Unit Pack"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Peak Trial Special Offer"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_87.md"
 toc: false
 classes: wide
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 of the following: 3-star Lich, 3-star Stone Elemental, 3-star Genie, 3-star Mummy, 3-star Manticore, 3-star Beholder, 3-star Medusa, 3-star Druid, 3-star Wyvern, 3-star Basilisk, or 3-star Magic Airship.
+ **Description:** Grants 1,580 diamonds, Tazar's Peak Trial Skin, and 10 Shrine Scrolls.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -25,18 +25,10 @@ classes: wide
 
  **Required Level to open:** 1
 
- 8 You would get **ALL** items  from:
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 | _TEAM_305 | 
-  | 2 | _TEAM_905 | 
-  | 3 | _TEAM_605 | 
-  | 4 | _TEAM_308 | 
-  | 5 | _TEAM_706 | 
-  | 6 | _TEAM_703 | 
-  | 7 | _TEAM_704 | 
-  | 8 | _TEAM_208 | 
-  | 9 | _TEAM_806 | 
-  | 10 | _TEAM_804 | 
-  | 11 | _TEAM_608 | 
+  | 1 |  **1580x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Peak Trial Tazar | Use to get Tazar's Peak Trial skin.  | 
+  | 3 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 

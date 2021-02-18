@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Tome of Fire Magic"
+title: "Item - Artifacts - Tome of Fire Magic"
 permalink: /Items/art_23/
-excerpt: " Tome of Fire Magic"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Tome of Fire Magic"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_23.md"
 toc: false
 classes: wide

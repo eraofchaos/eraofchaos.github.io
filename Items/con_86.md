@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Peak Trial Special Offer"
+title: "Item - Consumables - Festival Prayer Special Offer"
 permalink: /Items/con_86/
-excerpt: " Peak Trial Special Offer"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Festival Prayer Special Offer"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_86.md"
 toc: false
 classes: wide
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 1,580 diamonds, Tazar's Peak Trial Skin, and 10 Shrine Scrolls.
+ **Description:** Grants 10 Prayer Stones and 180 diamonds.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,6 +29,5 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1580x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Peak Trial Tazar | Use to get Tazar's Peak Trial skin.  | 
-  | 3 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
+  | 1 |  **180x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **10x** | Prayer Stone | A spirit stone meticulously refined by sorcerers for use in Spell Prayer.  | 

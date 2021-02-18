@@ -2,8 +2,8 @@
 title: "Artifacts - Sword of Frost - Ice Crystal Shield"
 permalink: /artifacts/Ice Crystal Shield/
 excerpt: "Sword of Frost - Ice Crystal Shield. A holy shield sealed on the plateau of Bracada. One of the components of the Sword of Frost."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Ice Crystal Shield.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Ice Crystal Shield](/Items/art_60/)
+ **Related Item**: [Ice Crystal Shield](/Items/art_60/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

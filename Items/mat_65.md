@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Common Mercury"
+title: "Item - Materials - Common Mercury"
 permalink: /Items/mat_65/
-excerpt: " Common Mercury"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Common Mercury"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_65.md"
 toc: false
 classes: wide

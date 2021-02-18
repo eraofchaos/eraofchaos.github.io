@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Superior Mercury"
+title: "Item - Materials - Superior Mercury"
 permalink: /Items/mat_15/
-excerpt: " Superior Mercury"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Superior Mercury"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_15.md"
 toc: false
 classes: wide

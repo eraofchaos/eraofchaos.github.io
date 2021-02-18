@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Behemoth"
+title: "Item - Units - Behemoth"
 permalink: /Items/unt_75/
-excerpt: " Behemoth"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Behemoth"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_75.md"
 toc: false
 classes: wide

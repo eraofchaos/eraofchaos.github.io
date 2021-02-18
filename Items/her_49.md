@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Mullich"
+title: "Item - Heroes - Mullich"
 permalink: /Items/her_49/
-excerpt: " Mullich"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Mullich"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_49.md"
 toc: false
 classes: wide

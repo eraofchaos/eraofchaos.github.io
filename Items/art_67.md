@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Staff of Eden"
+title: "Item - Artifacts - Staff of Eden"
 permalink: /Items/art_67/
-excerpt: " Staff of Eden"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Staff of Eden"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_67.md"
 toc: false
 classes: wide

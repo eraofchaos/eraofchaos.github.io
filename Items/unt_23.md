@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Troglodyte"
+title: "Item - Units - Troglodyte"
 permalink: /Items/unt_23/
-excerpt: " Troglodyte"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Troglodyte"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_23.md"
 toc: false
 classes: wide

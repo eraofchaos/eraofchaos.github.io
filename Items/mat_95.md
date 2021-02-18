@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Valuable Crystal"
+title: "Item - Materials - Valuable Crystal"
 permalink: /Items/mat_95/
-excerpt: " Valuable Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Valuable Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_95.md"
 toc: false
 classes: wide

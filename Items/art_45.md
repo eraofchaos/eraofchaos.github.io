@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Pendant of Negativity"
+title: "Item - Artifacts - Pendant of Negativity"
 permalink: /Items/art_45/
-excerpt: " Pendant of Negativity"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Pendant of Negativity"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_45.md"
 toc: false
 classes: wide

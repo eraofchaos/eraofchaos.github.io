@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Peter Lee"
+title: "Item - Heroes - Peter Lee"
 permalink: /Items/her_68/
-excerpt: " Peter Lee"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Peter Lee"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_68.md"
 toc: false
 classes: wide

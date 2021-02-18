@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Animate Dead"
+title: "Item - Heroes - Animate Dead"
 permalink: /Items/her_63/
-excerpt: " Animate Dead"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Animate Dead"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_63.md"
 toc: false
 classes: wide

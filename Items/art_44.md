@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Tome of Water Magic"
+title: "Item - Artifacts - Tome of Water Magic"
 permalink: /Items/art_44/
-excerpt: " Tome of Water Magic"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Tome of Water Magic"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_44.md"
 toc: false
 classes: wide

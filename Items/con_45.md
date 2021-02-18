@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Viking God of War: Crag Hack"
+title: "Item - Consumables - Darkness Dominance Pack"
 permalink: /Items/con_45/
-excerpt: " Viking God of War: Crag Hack"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Darkness Dominance Pack"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_45.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get Crag Hack's Viking God of War skin
+ **Description:** Use it to select one from the following: Darkness Dominance Avatar Frame *1 or Bone Dragon Token *5
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unknown
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,11 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ You would need to choose 1 item from the list (0):
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 | AVATARFRAME1034 | 
+  | 2 |  **5x** | Bone Dragon | Once you have gathered 80 soul tokens you can summon a Bone Dragon, an SSR aptitude unit.  | 

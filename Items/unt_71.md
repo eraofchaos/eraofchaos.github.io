@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Wyvern Monarch Soul Stone"
+title: "Item - Units - Wyvern Monarch Soul Stone"
 permalink: /Items/unt_71/
-excerpt: " Wyvern Monarch Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Wyvern Monarch Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_71.md"
 toc: false
 classes: wide

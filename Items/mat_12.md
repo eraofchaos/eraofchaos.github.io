@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Inferior Wood"
+title: "Item - Materials - Inferior Wood"
 permalink: /Items/mat_12/
-excerpt: " Inferior Wood"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Inferior Wood"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_12.md"
 toc: false
 classes: wide

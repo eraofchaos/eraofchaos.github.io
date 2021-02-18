@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Regnan Pirates"
+title: "Item - Units - Regnan Pirates"
 permalink: /Items/unt_32/
-excerpt: " Regnan Pirates"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Regnan Pirates"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_32.md"
 toc: false
 classes: wide

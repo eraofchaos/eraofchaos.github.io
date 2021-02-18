@@ -2,8 +2,8 @@
 title: "Artifacts - Armour of the Damned - Bone Armour"
 permalink: /artifacts/Bone Armour/
 excerpt: "Armour of the Damned - Bone Armour. A shield made from hard bones. One of the components of the Armour of the Damned."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Bone Armour.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armour of the Damned](/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Bone Armour](/Items/art_19/)
+ **Related Item**: [Bone Armour](/Items/art_19/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

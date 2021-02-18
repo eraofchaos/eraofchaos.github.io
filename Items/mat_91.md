@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Exceptional Mercury"
+title: "Item - Materials - Exceptional Mercury"
 permalink: /Items/mat_91/
-excerpt: " Exceptional Mercury"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Exceptional Mercury"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_91.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Good Sulfur"
+title: "Item - Materials - Good Sulfur"
 permalink: /Items/mat_92/
-excerpt: " Good Sulfur"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Good Sulfur"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_92.md"
 toc: false
 classes: wide

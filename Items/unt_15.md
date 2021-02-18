@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Archangel Soul Stone"
+title: "Item - Units - Archangel Soul Stone"
 permalink: /Items/unt_15/
-excerpt: " Archangel Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Archangel Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_15.md"
 toc: false
 classes: wide

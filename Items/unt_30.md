@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Druid"
+title: "Item - Units - Druid"
 permalink: /Items/unt_30/
-excerpt: " Druid"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Druid"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_30.md"
 toc: false
 classes: wide

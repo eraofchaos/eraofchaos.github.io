@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Distracted"
+title: "Item - Heroes - Distracted"
 permalink: /Items/her_28/
-excerpt: " Distracted"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Distracted"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_28.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Blizzard"
+title: "Item - Heroes - Blizzard"
 permalink: /Items/her_86/
-excerpt: " Blizzard"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Blizzard"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_86.md"
 toc: false
 classes: wide

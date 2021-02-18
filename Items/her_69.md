@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Wind Howling"
+title: "Item - Heroes - Wind Howling"
 permalink: /Items/her_69/
-excerpt: " Wind Howling"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Wind Howling"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_69.md"
 toc: false
 classes: wide

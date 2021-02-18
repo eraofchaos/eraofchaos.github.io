@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Guizhou Sour Fish Hotpot"
+title: "Item - Consumables - Holy Crystal"
 permalink: /Items/con_33/
-excerpt: " Guizhou Sour Fish Hotpot"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Holy Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_33.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Wild tomatos, red peppers, white wine, ginger, and garlic are fermented together for half a month to make a sour red soup. Gutted fresh fish is then boiled in this sour soup to give it a fresh and refreshing taste.This particular pot of food still seems rather raw.
+ **Description:** A supernatural-condensed crystal that can be used to exchange for rare supplies in the Cross-server Store. Obtained in Cross-server Clash of Gods.
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Event related
+ **Type:** Other
 
 ## Gather
 

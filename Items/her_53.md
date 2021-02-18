@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Crag Hack"
+title: "Item - Heroes - Crag Hack"
 permalink: /Items/her_53/
-excerpt: " Crag Hack"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Crag Hack"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_53.md"
 toc: false
 classes: wide

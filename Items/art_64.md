@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Casting Crystal"
+title: "Item - Artifacts - Casting Crystal"
 permalink: /Items/art_64/
-excerpt: " Casting Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Casting Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_64.md"
 toc: false
 classes: wide

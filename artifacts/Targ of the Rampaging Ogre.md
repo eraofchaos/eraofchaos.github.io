@@ -2,8 +2,8 @@
 title: "Artifacts - Axe of Ferocity - Targ of the Rampaging Ogre"
 permalink: /artifacts/Targ of the Rampaging Ogre/
 excerpt: "Axe of Ferocity - Targ of the Rampaging Ogre. A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Targ of the Rampaging Ogre.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Axe of Ferocity](/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Targ of the Rampaging Ogre](/Items/art_35/)
+ **Related Item**: [Targ of the Rampaging Ogre](/Items/art_35/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

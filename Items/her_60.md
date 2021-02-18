@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Quicksand"
+title: "Item - Heroes - Quicksand"
 permalink: /Items/her_60/
-excerpt: " Quicksand"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Quicksand"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_60.md"
 toc: false
 classes: wide

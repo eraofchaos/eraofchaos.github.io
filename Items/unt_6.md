@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Cyclops King Soul Stone"
+title: "Item - Units - Cyclops King Soul Stone"
 permalink: /Items/unt_6/
-excerpt: " Cyclops King Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Cyclops King Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_6.md"
 toc: false
 classes: wide

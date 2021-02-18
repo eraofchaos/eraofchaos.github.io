@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Holy Crystal"
+title: "Item - Consumables - Christmas Carol"
 permalink: /Items/con_32/
-excerpt: " Holy Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Christmas Carol"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_32.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A supernatural-condensed crystal that can be used to exchange for rare supplies in the Cross-server Store. Obtained in Cross-server Clash of Gods.
+ **Description:** Use to get a skin: Christmas Carol Crag Hack
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Other
+ **Type:** Unknown
 
 ## Gather
 

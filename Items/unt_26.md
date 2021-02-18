@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Goblin"
+title: "Item - Units - Goblin"
 permalink: /Items/unt_26/
-excerpt: " Goblin"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Goblin"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_26.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Dungeon Faction Selection Chest"
+title: "Item - Consumables - Qiandongnan Herbal Cattle Hotpot"
 permalink: /Items/con_27/
-excerpt: " Dungeon Faction Selection Chest"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Qiandongnan Herbal Cattle Hotpot"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_27.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 Troglodyte, Harpy, or Minotaur token.
+ **Description:** This ingredients of this dish have a faint gymnosiphon scent before they are cooked. The locals call this a hundred-herb soup, and it tastes better with every bite after it is cooked with various Chinese medicinal spices and beef offal. This particular pot of food seems to be insufficiently heated.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Event related
 
 ## Gather
 
@@ -23,12 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- You would need to choose 1 item from the list (0):
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Troglodyte | Once you have gathered 10 soul tokens you can summon a Troglodyte. Tokens can also be used to upgrade or increase the rank of Troglodytes.  | 
-  | 2 |  **1x** | Harpy | Once you have gathered 30 soul tokens you can summon a Harpy. Tokens can also be used to upgrade or increase the rank of harpies.  | 
-  | 3 |  **1x** | Minotaur | Once you have gathered 30 soul tokens you can summon a Minotaur. Tokens can also be used to upgrade or increase the rank of minotaurs.  | 

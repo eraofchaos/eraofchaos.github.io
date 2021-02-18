@@ -2,8 +2,8 @@
 title: "Artifacts - Spellbinder's Hat - Tome of Fire Magic"
 permalink: /artifacts/Tome of Fire Magic/
 excerpt: "Spellbinder's Hat - Tome of Fire Magic. This is a spell book recording advanced fire magic. It was Luna's bedtime readings. One of the components of Spellbinder's Hat"
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Tome of Fire Magic.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 75x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Tome of Fire Magic](/Items/art_23/)
+ **Related Item**: [Tome of Fire Magic](/Items/art_23/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

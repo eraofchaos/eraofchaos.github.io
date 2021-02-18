@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Kendal"
+title: "Item - Heroes - Kendal"
 permalink: /Items/her_30/
-excerpt: " Kendal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Kendal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_30.md"
 toc: false
 classes: wide

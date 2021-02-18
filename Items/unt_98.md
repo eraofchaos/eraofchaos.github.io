@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Harpy Hag Soul Stone"
+title: "Item - Units - Harpy Hag Soul Stone"
 permalink: /Items/unt_98/
-excerpt: " Harpy Hag Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Harpy Hag Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_98.md"
 toc: false
 classes: wide

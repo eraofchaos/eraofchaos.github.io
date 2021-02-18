@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Pit Lord Soul Stone"
+title: "Item - Units - Pit Lord Soul Stone"
 permalink: /Items/unt_37/
-excerpt: " Pit Lord Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Pit Lord Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_37.md"
 toc: false
 classes: wide

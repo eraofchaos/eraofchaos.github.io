@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Mage"
+title: "Item - Units - Mage"
 permalink: /Items/unt_21/
-excerpt: " Mage"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Mage"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_21.md"
 toc: false
 classes: wide

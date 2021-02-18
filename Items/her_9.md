@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Holy Shield"
+title: "Item - Heroes - Holy Shield"
 permalink: /Items/her_9/
-excerpt: " Holy Shield"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Holy Shield"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_9.md"
 toc: false
 classes: wide

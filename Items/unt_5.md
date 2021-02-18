@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Nightmare"
+title: "Item - Units - Nightmare"
 permalink: /Items/unt_5/
-excerpt: " Nightmare"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Nightmare"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_5.md"
 toc: false
 classes: wide

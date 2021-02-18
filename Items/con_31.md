@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Christmas Carol"
+title: "Item - Consumables - Evil Sigil"
 permalink: /Items/con_31/
-excerpt: " Christmas Carol"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Evil Sigil"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_31.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to get a skin: Christmas Carol Crag Hack
+ **Description:** A seal containing deadly powers. Can be exchanged for Necropolis Faction items in corresponding events.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Unknown
+ **Type:** Event related
 
 ## Gather
 

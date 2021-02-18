@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Abyss of Flames"
+title: "Item - Heroes - Abyss of Flames"
 permalink: /Items/her_24/
-excerpt: " Abyss of Flames"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Abyss of Flames"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_24.md"
 toc: false
 classes: wide

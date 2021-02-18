@@ -2,8 +2,8 @@
 title: "Artifacts - Sword of Frost - Staff of the Netherworld"
 permalink: /artifacts/Staff of the Netherworld/
 excerpt: "Sword of Frost - Staff of the Netherworld. An ultimate staff sealed in Deyja. One of the components of the Sword of Frost."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Staff of the Netherworld.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Staff of the Netherworld](/Items/art_85/)
+ **Related Item**: [Staff of the Netherworld](/Items/art_85/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

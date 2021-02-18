@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Gog"
+title: "Item - Units - Gog"
 permalink: /Items/unt_43/
-excerpt: " Gog"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Gog"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_43.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Ice Shield"
+title: "Item - Heroes - Ice Shield"
 permalink: /Items/her_76/
-excerpt: " Ice Shield"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ice Shield"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_76.md"
 toc: false
 classes: wide

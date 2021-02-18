@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Good Ore"
+title: "Item - Materials - Good Ore"
 permalink: /Items/mat_78/
-excerpt: " Good Ore"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Good Ore"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_78.md"
 toc: false
 classes: wide

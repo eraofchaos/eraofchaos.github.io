@@ -2,8 +2,8 @@
 title: "Artifacts - Live Hawkeye - Medal of Truth"
 permalink: /artifacts/Medal of Truth/
 excerpt: "Live Hawkeye - Medal of Truth. A witch charm with mounted eyeballs. One of the components of the Live Hawkeye."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Medal of Truth.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 75x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Medal of Truth](/Items/art_54/)
+ **Related Item**: [Medal of Truth](/Items/art_54/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

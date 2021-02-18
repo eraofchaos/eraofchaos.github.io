@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Mythical Wood"
+title: "Item - Materials - Mythical Wood"
 permalink: /Items/mat_9/
-excerpt: " Mythical Wood"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Mythical Wood"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_9.md"
 toc: false
 classes: wide

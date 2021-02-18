@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Monere"
+title: "Item - Heroes - Monere"
 permalink: /Items/her_34/
-excerpt: " Monere"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Monere"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_34.md"
 toc: false
 classes: wide

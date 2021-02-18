@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Eternal Sulfur"
+title: "Item - Materials - Eternal Sulfur"
 permalink: /Items/mat_97/
-excerpt: " Eternal Sulfur"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Eternal Sulfur"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_97.md"
 toc: false
 classes: wide

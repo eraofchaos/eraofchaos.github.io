@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Staff of Disruption"
+title: "Item - Artifacts - Staff of Disruption"
 permalink: /Items/art_31/
-excerpt: " Staff of Disruption"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Staff of Disruption"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_31.md"
 toc: false
 classes: wide

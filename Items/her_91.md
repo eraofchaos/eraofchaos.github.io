@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Call of the Wild"
+title: "Item - Heroes - Call of the Wild"
 permalink: /Items/her_91/
-excerpt: " Call of the Wild"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Call of the Wild"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_91.md"
 toc: false
 classes: wide

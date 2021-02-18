@@ -2,8 +2,8 @@
 title: "Artifacts - Axe of Ferocity - Ogre's Club of Havoc"
 permalink: /artifacts/Ogre's Club of Havoc/
 excerpt: "Axe of Ferocity - Ogre's Club of Havoc. A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Ogre's Club of Havoc.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Axe of Ferocity](/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Ogre's Club of Havoc](/Items/art_12/)
+ **Related Item**: [Ogre's Club of Havoc](/Items/art_12/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

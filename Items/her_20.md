@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Lightning Bolt"
+title: "Item - Heroes - Lightning Bolt"
 permalink: /Items/her_20/
-excerpt: " Lightning Bolt"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Lightning Bolt"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_20.md"
 toc: false
 classes: wide

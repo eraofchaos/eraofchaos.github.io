@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Phantom Component Chest"
+title: "Item - Consumables - V15 Premium Package"
 permalink: /Items/con_80/
-excerpt: " Phantom Component Chest"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "V15 Premium Package"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_80.md"
 toc: false
 classes: wide
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A component chest of the Bow of the Sharpshooter. Open it to receive one of the components of the Bow of the Sharpshooter.
+ **Description:** A premium pack for those of VIP level 15 and above
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -25,10 +25,13 @@ classes: wide
 
  **Required Level to open:** 1
 
- You would need to choose 1 item from the list (0):
+ 1 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **1x** | Bow of Elven Cherrywood | A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter.  | 
-  | 2 |  **1x** | Angel Feather Arrows | A magic arrow made by elves. One of the components of the Bow of the Sharpshooter.  | 
-  | 3 |  **1x** | Bowstring of the Unicorn's Mane | A mane gifted by a sacred beast to the elves. One of the components of the Bow of the Sharpshooter.  | 
+  | 1 |  **1x** | SSR Unit 200 Token Selection Pack (Angel, Devil, Black Knight) | Use to select 200 Angel, Devil, or Black Knight tokens.  | 
+  | 2 |  **1x** | Premium Orange Artifact Component Selection Gift Box | Use to select one of the following Component Selection Packs: Power of the Dragon Father, Sword of Frost, Armageddon's Blade, Angelic Alliance, or Golden Apple.  | 
+  | 3 | AVATARFRAME1080 | 
+  | 4 |  **20x** | Orange Crystal | A mysterious runestone. Greatly improves your units' skill insight. Provides 1000 skill EXP when used.  | 
+  | 5 |  **500000x** | <i class="fas fa-coins"/> |  | 
+  | 6 |  **50000x** | Unit EXP | Leveling up your units consumes unit experience.  | 

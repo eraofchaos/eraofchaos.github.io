@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Fortune"
+title: "Item - Heroes - Fortune"
 permalink: /Items/her_85/
-excerpt: " Fortune"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Fortune"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_85.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Lion's Shield of Courage"
+title: "Item - Artifacts - Lion's Shield of Courage"
 permalink: /Items/art_82/
-excerpt: " Lion's Shield of Courage"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Lion's Shield of Courage"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_82.md"
 toc: false
 classes: wide

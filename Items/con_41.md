@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Bonetooth Necklace"
+title: "Item - Consumables - Stone Elemental Special Offer Pack"
 permalink: /Items/con_41/
-excerpt: " Bonetooth Necklace"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Stone Elemental Special Offer Pack"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_41.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A necklace made from the skulls of powerful beasts. Can be exchanged for Stronghold Faction items in corresponding events.
+ **Description:** Use it to get 3-star Stone Elemental *1, Defense Talent Potion *288, Elemental Roster runes *30 and Diamond *3280
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Event related
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,13 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 | _TEAM_905 | 
+  | 2 |  **288x** | Defensive Talent Potion | This potion improves your Defensive units' attributes and upgrades their skills.  | 
+  | 3 |  **30x** | Conflux Roster runes | Important item to increase your Conflux rankings.  | 
+  | 4 |  **3280x** | <i class="fas fa-gem"/> |  | 

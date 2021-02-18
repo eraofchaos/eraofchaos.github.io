@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Imp"
+title: "Item - Units - Imp"
 permalink: /Items/unt_62/
-excerpt: " Imp"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Imp"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_62.md"
 toc: false
 classes: wide

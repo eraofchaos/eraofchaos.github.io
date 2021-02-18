@@ -2,8 +2,8 @@
 title: "Artifacts - Sword of Frost - Deep-Sea Trident"
 permalink: /artifacts/Deep-Sea Trident/
 excerpt: "Sword of Frost - Deep-Sea Trident. A weapon used by Poseidon. One of the components of the Sword of Frost"
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Deep-Sea Trident.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Deep-Sea Trident](/Items/art_72/)
+ **Related Item**: [Deep-Sea Trident](/Items/art_72/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

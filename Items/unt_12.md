@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Skeleton Warrior Soul Stone"
+title: "Item - Units - Skeleton Warrior Soul Stone"
 permalink: /Items/unt_12/
-excerpt: " Skeleton Warrior Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Skeleton Warrior Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_12.md"
 toc: false
 classes: wide

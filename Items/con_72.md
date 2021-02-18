@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Hero Training Special Offer"
+title: "Item - Consumables - V16 Premium Package"
 permalink: /Items/con_72/
-excerpt: " Hero Training Special Offer"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "V16 Premium Package"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_72.md"
 toc: false
 classes: wide
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 5 universal tokens, 10 Ancient Temple Scrolls, and 200 Spell Scrolls.
+ **Description:** A premium pack for those of VIP 16 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,6 +29,9 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **5x** | Universal Hero Tokens | Gathering wondrous magic, these tokens can be used to increase the rank of any hero.  | 
-  | 2 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
-  | 3 |  **200x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 
+  | 1 |  **100x** | Nether Sabre Token | A Nether Sabre token from an ancient campaign that can be used for awakening Black Knight's general exclusive potential - Nether Sabre  | 
+  | 2 |  **1x** | Premium Component Pack | Choose to get one of the following: Power of the Dragon Father Accessory*1, Sword of Frost Accessory*1, Angelic Alliance Accessory*1, Armageddon's Blade*1  | 
+  | 3 |  **1000x** | Dragon Blood Crystal | A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks  | 
+  | 4 |  **500x** | Refinement Stone | A condensed refinement stone with weapon essence, used for forging powerful exclusive items, obtained by fighting in Glory Arena  | 
+  | 5 |  **40x** | Purple Crystal | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.  | 
+  | 6 |  **100000x** | Unit EXP | Leveling up your units consumes unit experience.  | 

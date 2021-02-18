@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Daily Special Offer Pack A"
+title: "Item - Consumables - Small Campaign Treasure"
 permalink: /Items/con_25/
-excerpt: " Daily Special Offer Pack A"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Small Campaign Treasure"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_25.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 2 random unit token packs and 20 diamonds.
+ **Description:** A treasure chest containing 6 Empire Medals!
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #32CD32">OK</span>
 
- **Type:** Gift
+ **Type:** EXP
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **20x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **2x** | Random Unit Token Pack | Randomly grants 1 R or SR unit token.  | 

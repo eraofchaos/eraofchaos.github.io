@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Zydar"
+title: "Item - Heroes - Zydar"
 permalink: /Items/her_51/
-excerpt: " Zydar"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Zydar"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_51.md"
 toc: false
 classes: wide

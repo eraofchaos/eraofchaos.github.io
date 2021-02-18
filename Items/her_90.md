@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Gate of Fire"
+title: "Item - Heroes - Gate of Fire"
 permalink: /Items/her_90/
-excerpt: " Gate of Fire"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Gate of Fire"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_90.md"
 toc: false
 classes: wide

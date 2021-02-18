@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Recanter`s Cloak"
+title: "Item - Artifacts - Recanter`s Cloak"
 permalink: /Items/art_71/
-excerpt: " Recanter`s Cloak"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Recanter`s Cloak"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_71.md"
 toc: false
 classes: wide

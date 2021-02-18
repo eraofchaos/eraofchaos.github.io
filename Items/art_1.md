@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Crystal Ball"
+title: "Item - Artifacts - Crystal Ball"
 permalink: /Items/art_1/
-excerpt: " Crystal Ball"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Crystal Ball"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_1.md"
 toc: false
 classes: wide

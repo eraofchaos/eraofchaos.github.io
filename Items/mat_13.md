@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Superior Ore"
+title: "Item - Materials - Superior Ore"
 permalink: /Items/mat_13/
-excerpt: " Superior Ore"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Superior Ore"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_13.md"
 toc: false
 classes: wide

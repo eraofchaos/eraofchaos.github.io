@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Ogre's Club of Havoc"
+title: "Item - Artifacts - Ogre's Club of Havoc"
 permalink: /Items/art_12/
-excerpt: " Ogre's Club of Havoc"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ogre's Club of Havoc"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_12.md"
 toc: false
 classes: wide

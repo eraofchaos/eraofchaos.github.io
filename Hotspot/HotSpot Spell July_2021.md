@@ -2,8 +2,8 @@
 title: "Hotspot Spells for July 2021"
 permalink: /Hotspot/HotSpot Spell July_2021/
 excerpt: "Spells Hotspot for July 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "HotSpot Spell July_2021.md"
 toc: false
 classes: wide
@@ -17,8 +17,8 @@ classes: wide
 
   |  Date  |  Orange Spell  |  Violet Spells  | Blue Spells | Green Spells |
   |:-------|:---------------|:---------------:|:-----------:|:------------:|
-  | 28 Jun - 5 Jul | [ Inferno Flame](/Items/her_27/) | [ Water Mastery](/Items/her_44/), [ Air Shield](/Items/her_127/) | [ Fire Elemental](/Items/her_148/), [ Forest Resonance](/Items/her_43/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 5 - 12 Jul | [ Replenished Magic](/Items/her_104/) | [ Fire Mastery](/Items/her_122/), [ Wind Wall](/Items/her_146/) | [ Stone Skin](/Items/her_54/), [ Sorrow](/Items/her_133/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 12 - 19 Jul | [ Replenished Magic](/Items/her_104/) | [ Spell Master](/Items/her_4/), [ Fireball](/Items/her_13/) | [ Mirth](/Items/her_103/), [ Curse](/Items/her_132/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 19 - 26 Jul | [ Mana Suppression](/Items/her_59/) | [ Air Mastery](/Items/her_81/), [ Fast Attack](/Items/her_92/) | [ Water Elemental](/Items/her_113/), [ Sorrow](/Items/her_133/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 26 Jul - 2 Aug | [ Prayer](/Items/her_25/) | [ Water Mastery](/Items/her_44/), [ Lightning Bolt](/Items/her_20/) | [ Fire Elemental](/Items/her_148/), [ Air Elemental](/Items/her_145/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
+  | 28 Jun - 5 Jul | [Inferno Flame](/Items/her_27/) | [Water Mastery](/Items/her_44/), [Air Shield](/Items/her_127/) | [Fire Elemental](/Items/her_148/), [Forest Resonance](/Items/her_43/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 5 - 12 Jul | [Replenished Magic](/Items/her_104/) | [Fire Mastery](/Items/her_122/), [Wind Wall](/Items/her_146/) | [Stone Skin](/Items/her_54/), [Sorrow](/Items/her_133/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 12 - 19 Jul | [Replenished Magic](/Items/her_104/) | [Spell Master](/Items/her_4/), [Fireball](/Items/her_13/) | [Mirth](/Items/her_103/), [Curse](/Items/her_132/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 19 - 26 Jul | [Mana Suppression](/Items/her_59/) | [Air Mastery](/Items/her_81/), [Fast Attack](/Items/her_92/) | [Water Elemental](/Items/her_113/), [Sorrow](/Items/her_133/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 26 Jul - 2 Aug | [Prayer](/Items/her_25/) | [Water Mastery](/Items/her_44/), [Lightning Bolt](/Items/her_20/) | [Fire Elemental](/Items/her_148/), [Air Elemental](/Items/her_145/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |

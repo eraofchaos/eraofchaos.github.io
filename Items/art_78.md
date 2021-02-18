@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Orb of Inhibition"
+title: "Item - Artifacts - Orb of Inhibition"
 permalink: /Items/art_78/
-excerpt: " Orb of Inhibition"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Orb of Inhibition"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_78.md"
 toc: false
 classes: wide

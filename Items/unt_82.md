@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Master Archer Soul Stone"
+title: "Item - Units - Master Archer Soul Stone"
 permalink: /Items/unt_82/
-excerpt: " Master Archer Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Master Archer Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_82.md"
 toc: false
 classes: wide

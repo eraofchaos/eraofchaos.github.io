@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Ogre's Staff"
+title: "Item - Artifacts - Ogre's Staff"
 permalink: /Items/art_36/
-excerpt: " Ogre's Staff"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ogre's Staff"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_36.md"
 toc: false
 classes: wide

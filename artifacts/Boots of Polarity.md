@@ -2,8 +2,8 @@
 title: "Artifacts - Antimagic Runestone - Boots of Polarity"
 permalink: /artifacts/Boots of Polarity/
 excerpt: "Antimagic Runestone - Boots of Polarity. Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Boots of Polarity.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Antimagic Runestone](/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
- **Dismantle: 3x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 3x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Boots of Polarity](/Items/art_68/)
+ **Related Item**: [Boots of Polarity](/Items/art_68/)
 
  **Quality:** [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

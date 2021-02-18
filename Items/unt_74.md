@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Manticore"
+title: "Item - Units - Manticore"
 permalink: /Items/unt_74/
-excerpt: " Manticore"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Manticore"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_74.md"
 toc: false
 classes: wide

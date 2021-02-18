@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  5 Candy Variety Gift Boxes"
+title: "Item - Consumables - Guardian of Vernin Ryland"
 permalink: /Items/con_58/
-excerpt: " 5 Candy Variety Gift Boxes"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Guardian of Vernin Ryland"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_58.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 5 Candy Variety Gift Boxes. A Candy Variety Gift Box grants 2 Red Candy, 2 Yellow Candy, 2 Blue Candy, and 2 Green Candy.
+ **Description:** Use to get a skin: Guardian of Vernin Ryland
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Gift
+ **Type:** Unknown
 
 ## Gather
 
@@ -23,10 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 1 You would get **ALL** items  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **5x** | Candy Variety Gift Box | Grants 2 Red Candy, 2 Yellow Candy, 2 Blue Candy, and 2 Green Candy.  | 

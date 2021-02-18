@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Silent Deep Sea"
+title: "Item - Heroes - Silent Deep Sea"
 permalink: /Items/her_22/
-excerpt: " Silent Deep Sea"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Silent Deep Sea"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_22.md"
 toc: false
 classes: wide

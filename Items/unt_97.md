@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Cyclops"
+title: "Item - Units - Cyclops"
 permalink: /Items/unt_97/
-excerpt: " Cyclops"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Cyclops"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_97.md"
 toc: false
 classes: wide

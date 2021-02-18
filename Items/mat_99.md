@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Secret Ore"
+title: "Item - Materials - Secret Ore"
 permalink: /Items/mat_99/
-excerpt: " Secret Ore"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Secret Ore"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_99.md"
 toc: false
 classes: wide

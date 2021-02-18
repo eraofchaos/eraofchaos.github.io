@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Certificate of Legend"
+title: "Item - Materials - Certificate of Legend"
 permalink: /Items/mat_11/
-excerpt: " Certificate of Legend"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Certificate of Legend"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_11.md"
 toc: false
 classes: wide

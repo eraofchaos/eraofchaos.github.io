@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Well prepared"
+title: "Item - Heroes - Well prepared"
 permalink: /Items/her_17/
-excerpt: " Well prepared"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Well prepared"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_17.md"
 toc: false
 classes: wide

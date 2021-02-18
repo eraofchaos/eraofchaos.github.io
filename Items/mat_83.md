@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Epic Sulfur"
+title: "Item - Materials - Epic Sulfur"
 permalink: /Items/mat_83/
-excerpt: " Epic Sulfur"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Epic Sulfur"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_83.md"
 toc: false
 classes: wide

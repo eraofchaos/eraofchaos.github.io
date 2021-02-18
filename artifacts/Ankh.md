@@ -2,8 +2,8 @@
 title: "Artifacts - Apple of Eden - Ankh"
 permalink: /artifacts/Ankh/
 excerpt: "Apple of Eden - Ankh. A cross that grants the wearer immortality. No one knows what happened to its previous owner."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Ankh.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Ankh](/Items/art_21/)
+ **Related Item**: [Ankh](/Items/art_21/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Catherine"
+title: "Item - Heroes - Catherine"
 permalink: /Items/her_72/
-excerpt: " Catherine"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Catherine"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_72.md"
 toc: false
 classes: wide

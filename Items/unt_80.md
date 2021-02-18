@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Skeleton"
+title: "Item - Units - Skeleton"
 permalink: /Items/unt_80/
-excerpt: " Skeleton"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Skeleton"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_80.md"
 toc: false
 classes: wide

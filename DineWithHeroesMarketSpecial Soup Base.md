@@ -2,8 +2,8 @@
 title: "Dine with Heroes - Market - Special Soup Base"
 permalink: /DineWithHeroesMarket Special Soup Base.html
 excerpt: "Dine with Heroes - Market - Special Soup Base. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-02-11
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "DineWithHeroesMarketSpecial Soup Base.html"
 toc: true
 layout: single
@@ -20,11 +20,11 @@ sidebar:
 
  **Recommended Power: 1000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Special Soup Base](/Items/con_158/)
+ **Reward:** [Special Soup Base](/Items/con_159/)
 
- **Extra Reward:** 20% [ Special Soup Base](/Items/con_158/)
+ **Extra Reward:** 20% [Special Soup Base](/Items/con_159/)
 
 #### Fight against Team
  **Hero:** [Vidomina](/heroes/Vidomina/)
@@ -48,11 +48,11 @@ sidebar:
 
  **Recommended Power: 4000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Special Soup Base](/Items/con_158/)
+ **Reward:** [Special Soup Base](/Items/con_159/)
 
- **Extra Reward:** 40% [ Special Soup Base](/Items/con_158/)
+ **Extra Reward:** 40% [Special Soup Base](/Items/con_159/)
 
 #### Fight against Team
  **Hero:** [Human Sandro](/heroes/Human Sandro/)
@@ -76,11 +76,11 @@ sidebar:
 
  **Recommended Power: 7000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Special Soup Base](/Items/con_158/)
+ **Reward:** [Special Soup Base](/Items/con_159/)
 
- **Extra Reward:** 70% [ Special Soup Base](/Items/con_158/)
+ **Extra Reward:** 70% [Special Soup Base](/Items/con_159/)
 
 #### Fight against Team
  **Hero:** [Human Sandro](/heroes/Human Sandro/)
@@ -104,11 +104,11 @@ sidebar:
 
  **Recommended Power: 10000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Special Soup Base](/Items/con_158/)
+ **Reward:** [Special Soup Base](/Items/con_159/)
 
- **Extra Reward:** 100% [ Special Soup Base](/Items/con_158/)
+ **Extra Reward:** 100% [Special Soup Base](/Items/con_159/)
 
 #### Fight against Team
  **Hero:** [Sandro](/heroes/Sandro/)

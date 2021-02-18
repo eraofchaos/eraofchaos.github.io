@@ -2,8 +2,8 @@
 title: "Hotspot Spells for  2021"
 permalink: /Hotspot/HotSpot Spell _2021/
 excerpt: "Spells Hotspot for  2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "HotSpot Spell _2021.md"
 toc: false
 classes: wide
@@ -15,8 +15,8 @@ classes: wide
 
   |  Date  |  Orange Spell  |  Violet Spells  | Blue Spells | Green Spells |
   |:-------|:---------------|:---------------:|:-----------:|:------------:|
-  | 25 Jan - 1 Feb | [ Prayer](/Items/her_25/) | [ Slayer](/Items/her_55/), [ Lightning Bolt](/Items/her_20/) | [ Mirth](/Items/her_103/), [ Forest Resonance](/Items/her_43/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 1 - 8 Feb | [ Storm](/Items/her_14/) | [ Bloodlust](/Items/her_109/), [ Ice Bolt](/Items/her_136/) | [ Water Elemental](/Items/her_113/), [ Stone Skin](/Items/her_54/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 8 - 15 Feb | [ Inferno Flame](/Items/her_27/) | [ Slayer](/Items/her_55/), [ Lightning Bolt](/Items/her_20/) | [ Mirth](/Items/her_103/), [ Forest Resonance](/Items/her_43/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 15 - 22 Feb | [ Mystic Domain](/Items/her_18/) | [ Meteor Shower](/Items/her_7/), [ Animate Dead](/Items/her_63/) | [ Mirth](/Items/her_103/), [ Air Elemental](/Items/her_145/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 22 Feb - 1 Mar | [ Mana Suppression](/Items/her_59/) | [ Slayer](/Items/her_55/), [ Air Shield](/Items/her_127/) | [ Wind Wall](/Items/her_146/), [ Sorrow](/Items/her_133/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
+  | 25 Jan - 1 Feb | [Prayer](/Items/her_25/) | [Slayer](/Items/her_55/), [Lightning Bolt](/Items/her_20/) | [Mirth](/Items/her_103/), [Forest Resonance](/Items/her_43/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 1 - 8 Feb | [Storm](/Items/her_14/) | [Bloodlust](/Items/her_109/), [Ice Bolt](/Items/her_136/) | [Water Elemental](/Items/her_113/), [Stone Skin](/Items/her_54/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 8 - 15 Feb | [Inferno Flame](/Items/her_27/) | [Slayer](/Items/her_55/), [Lightning Bolt](/Items/her_20/) | [Mirth](/Items/her_103/), [Forest Resonance](/Items/her_43/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 15 - 22 Feb | [Mystic Domain](/Items/her_18/) | [Meteor Shower](/Items/her_7/), [Animate Dead](/Items/her_63/) | [Mirth](/Items/her_103/), [Air Elemental](/Items/her_145/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 22 Feb - 1 Mar | [Mana Suppression](/Items/her_59/) | [Slayer](/Items/her_55/), [Air Shield](/Items/her_127/) | [Wind Wall](/Items/her_146/), [Sorrow](/Items/her_133/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |

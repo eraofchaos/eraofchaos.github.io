@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Spring Festival Unit Special Offer"
+title: "Item - Consumables - Valentine's Day Chest A"
 permalink: /Items/con_90/
-excerpt: " Spring Festival Unit Special Offer"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Valentine's Day Chest A"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_90.md"
 toc: false
 classes: wide
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 4,470 diamonds, 1 Elite Unit Pack, 300 Talent Potion Materials, and 10 Huge EXP Potions.
+ **Description:** Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest and Starlit Rose*70
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -29,7 +29,9 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **4470x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Elite Unit Pack | Use to select 1 of the following: 3-star Waspwort, 3-star Regnan Serpent, 3-star Mermaid, 3-star Revyaratan, 3-star Nightmare, 3-star Magic Airship, 3-star Basilisk, 3-star Wyvern, 3-star Druid, 3-star Medusa, 3-star Beholder, 3-star Manticore, 3-star Mummy, 3-star Genie, 3-star Stone Elemental, or 3-star Lich.  | 
-  | 3 |  **300x** | Talent potion ingredients | The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit.   | 
-  | 4 |  **10x** | Huge EXP potion | A bottle of highly purified EXP potion. You will gain 7500 unit EXP after drinking it.  | 
+  | 1 |  **3280x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **25x** | Gold Key | A credential for recruitment. You can recruit high-level units once for free when using it.  | 
+  | 3 |  **1x** | SR+ Unit Token Chest | Randomly grants 80 Lich, Genie, or Stone Elemental tokens.  | 
+  | 4 |  **500000x** | <i class="fas fa-coins"/> |  | 
+  | 5 |  **20x** | Purple Crystal | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.  | 
+  | 6 |  **70x** | Starlit Rose | The exclusive items during Valentine's Day, used to exchange for event items  | 

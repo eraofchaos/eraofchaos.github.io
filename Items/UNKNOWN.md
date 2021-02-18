@@ -2,8 +2,8 @@
 title: "Item - Unknown"
 permalink: /Items/Unknown/
 excerpt: "Unknown in Era of Chaos"
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Unknown.md"
 toc: false
 classes: wide
@@ -12,4 +12,4 @@ classes: wide
 
   | Nr |         Name        |   Description     |
   |:---|:--------------------|:------------------|
-  | 1 | [ Apparition · Grace (14 Days)](/Items/unk_1/){: .btn .btn--era5} | Show off the Grace of the Gods over the next 14 days. The Cross-server Clash of Gods Champion will receive: |
+  | 1 | [Apparition · Grace (14 Days)](/Items/unk_1/){: .btn .btn--era5} | Show off the Grace of the Gods over the next 14 days. The Cross-server Clash of Gods Champion will receive: |

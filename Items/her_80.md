@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Cassanbel"
+title: "Item - Heroes - Cassanbel"
 permalink: /Items/her_80/
-excerpt: " Cassanbel"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Cassanbel"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_80.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Serpent Fly"
+title: "Item - Units - Serpent Fly"
 permalink: /Items/unt_77/
-excerpt: " Serpent Fly"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Serpent Fly"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_77.md"
 toc: false
 classes: wide

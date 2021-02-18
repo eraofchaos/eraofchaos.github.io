@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Eternal Crystal"
+title: "Item - Materials - Eternal Crystal"
 permalink: /Items/mat_19/
-excerpt: " Eternal Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Eternal Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_19.md"
 toc: false
 classes: wide

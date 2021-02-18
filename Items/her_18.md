@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Mystic Domain"
+title: "Item - Heroes - Mystic Domain"
 permalink: /Items/her_18/
-excerpt: " Mystic Domain"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Mystic Domain"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_18.md"
 toc: false
 classes: wide

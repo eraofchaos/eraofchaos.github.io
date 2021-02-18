@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Lord Haart"
+title: "Item - Heroes - Lord Haart"
 permalink: /Items/her_70/
-excerpt: " Lord Haart"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Lord Haart"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_70.md"
 toc: false
 classes: wide

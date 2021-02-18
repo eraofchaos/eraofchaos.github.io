@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Fragmentation"
+title: "Item - Heroes - Fragmentation"
 permalink: /Items/her_33/
-excerpt: " Fragmentation"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Fragmentation"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_33.md"
 toc: false
 classes: wide

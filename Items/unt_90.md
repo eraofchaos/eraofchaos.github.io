@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Energy Elemental Soul Stone"
+title: "Item - Units - Energy Elemental Soul Stone"
 permalink: /Items/unt_90/
-excerpt: " Energy Elemental Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Energy Elemental Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_90.md"
 toc: false
 classes: wide

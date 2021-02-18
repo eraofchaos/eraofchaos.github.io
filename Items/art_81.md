@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Sphere of Permanence"
+title: "Item - Artifacts - Sphere of Permanence"
 permalink: /Items/art_81/
-excerpt: " Sphere of Permanence"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Sphere of Permanence"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_81.md"
 toc: false
 classes: wide

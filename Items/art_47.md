@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Necklace of Balance"
+title: "Item - Artifacts - Necklace of Balance"
 permalink: /Items/art_47/
-excerpt: " Necklace of Balance"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Necklace of Balance"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_47.md"
 toc: false
 classes: wide

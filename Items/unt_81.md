@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Gremlin"
+title: "Item - Units - Gremlin"
 permalink: /Items/unt_81/
-excerpt: " Gremlin"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Gremlin"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_81.md"
 toc: false
 classes: wide

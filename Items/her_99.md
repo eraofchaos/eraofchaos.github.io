@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Precision"
+title: "Item - Heroes - Precision"
 permalink: /Items/her_99/
-excerpt: " Precision"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Precision"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_99.md"
 toc: false
 classes: wide

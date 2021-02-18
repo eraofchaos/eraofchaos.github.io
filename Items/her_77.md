@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Shiva"
+title: "Item - Heroes - Shiva"
 permalink: /Items/her_77/
-excerpt: " Shiva"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Shiva"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_77.md"
 toc: false
 classes: wide

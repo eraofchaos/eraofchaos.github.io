@@ -2,8 +2,8 @@
 title: "Artifacts - Angelic Alliance - Armor of Wonders"
 permalink: /artifacts/Armor of Wonders/
 excerpt: "Angelic Alliance - Armor of Wonders. Armour that witnessed the heights of the Empire. One of the components of the Angelic Alliance."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Armor of Wonders.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Armor of Wonders](/Items/art_40/)
+ **Related Item**: [Armor of Wonders](/Items/art_40/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

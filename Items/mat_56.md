@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Superior Crystal"
+title: "Item - Materials - Superior Crystal"
 permalink: /Items/mat_56/
-excerpt: " Superior Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Superior Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_56.md"
 toc: false
 classes: wide

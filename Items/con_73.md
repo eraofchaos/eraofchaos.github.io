@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Holiday SSR Special Offer"
+title: "Item - Consumables - Hero Training Special Offer"
 permalink: /Items/con_73/
-excerpt: " Holiday SSR Special Offer"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Hero Training Special Offer"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_73.md"
 toc: false
 classes: wide
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 6,480 diamonds, and 80 SSR Souls.
+ **Description:** Grants 5 universal tokens, 10 Ancient Temple Scrolls, and 200 Spell Scrolls.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,5 +29,6 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **6480x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **80x** | SSR Unit Soul | Collect 80 of these to get a random SSR aptitude unit (excluding Black Knight, Assassin, and Spartan Warriors).  | 
+  | 1 |  **5x** | Universal Hero Tokens | Gathering wondrous magic, these tokens can be used to increase the rank of any hero.  | 
+  | 2 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
+  | 3 |  **200x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 

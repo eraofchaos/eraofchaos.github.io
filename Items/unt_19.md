@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Devil"
+title: "Item - Units - Devil"
 permalink: /Items/unt_19/
-excerpt: " Devil"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Devil"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_19.md"
 toc: false
 classes: wide

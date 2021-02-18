@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Radiant Crystal"
+title: "Item - Materials - Radiant Crystal"
 permalink: /Items/mat_37/
-excerpt: " Radiant Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Radiant Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_37.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Resurrection"
+title: "Item - Heroes - Resurrection"
 permalink: /Items/her_79/
-excerpt: " Resurrection"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Resurrection"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_79.md"
 toc: false
 classes: wide

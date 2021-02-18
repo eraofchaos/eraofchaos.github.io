@@ -2,8 +2,8 @@
 title: "Hotspot Spells for May 2021"
 permalink: /Hotspot/HotSpot Spell May_2021/
 excerpt: "Spells Hotspot for May 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "HotSpot Spell May_2021.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
   |  Date  |  Orange Spell  |  Violet Spells  | Blue Spells | Green Spells |
   |:-------|:---------------|:---------------:|:-----------:|:------------:|
-  | 26 Apr - 3 May | [ Petrification](/Items/her_32/) | [ Slayer](/Items/her_55/), [ Air Shield](/Items/her_127/) | [ Wind Wall](/Items/her_146/), [ Earth Elemental](/Items/her_143/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 3 - 10 May | [ Rush Tactic](/Items/her_84/) | [ Fast Attack](/Items/her_92/), [ Necromancy](/Items/her_126/) | [ Animate Dead](/Items/her_63/), [ Air Elemental](/Items/her_145/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 10 - 17 May | [ Mana Suppression](/Items/her_59/) | [ Slayer](/Items/her_55/), [ Air Shield](/Items/her_127/) | [ Wind Wall](/Items/her_146/), [ Sorrow](/Items/her_133/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 17 - 24 May | [ Inferno Flame](/Items/her_27/) | [ Slayer](/Items/her_55/), [ Lightning Bolt](/Items/her_20/) | [ Mirth](/Items/her_103/), [ Forest Resonance](/Items/her_43/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 24 - 31 May | [ Replenished Magic](/Items/her_104/) | [ Fire Mastery](/Items/her_122/), [ Wind Wall](/Items/her_146/) | [ Stone Skin](/Items/her_54/), [ Sorrow](/Items/her_133/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
-  | 31 May - 7 Jun | [ Death Ripple](/Items/her_26/) | [ Bloodlust](/Items/her_109/), [ Wind Wall](/Items/her_146/) | [ Water Elemental](/Items/her_113/), [ Stone Skin](/Items/her_54/) | [ Fire Arrow](/Items/her_111/), [ Frozen Arrow](/Items/her_35/), [ Air Arrow](/Items/her_138/), [ Earth Arrow](/Items/her_98/) |
+  | 26 Apr - 3 May | [Petrification](/Items/her_32/) | [Slayer](/Items/her_55/), [Air Shield](/Items/her_127/) | [Wind Wall](/Items/her_146/), [Earth Elemental](/Items/her_143/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 3 - 10 May | [Rush Tactic](/Items/her_84/) | [Fast Attack](/Items/her_92/), [Necromancy](/Items/her_126/) | [Animate Dead](/Items/her_63/), [Air Elemental](/Items/her_145/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 10 - 17 May | [Mana Suppression](/Items/her_59/) | [Slayer](/Items/her_55/), [Air Shield](/Items/her_127/) | [Wind Wall](/Items/her_146/), [Sorrow](/Items/her_133/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 17 - 24 May | [Inferno Flame](/Items/her_27/) | [Slayer](/Items/her_55/), [Lightning Bolt](/Items/her_20/) | [Mirth](/Items/her_103/), [Forest Resonance](/Items/her_43/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 24 - 31 May | [Replenished Magic](/Items/her_104/) | [Fire Mastery](/Items/her_122/), [Wind Wall](/Items/her_146/) | [Stone Skin](/Items/her_54/), [Sorrow](/Items/her_133/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 31 May - 7 Jun | [Death Ripple](/Items/her_26/) | [Bloodlust](/Items/her_109/), [Wind Wall](/Items/her_146/) | [Water Elemental](/Items/her_113/), [Stone Skin](/Items/her_54/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |

@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Mummy"
+title: "Item - Units - Mummy"
 permalink: /Items/unt_47/
-excerpt: " Mummy"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Mummy"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_47.md"
 toc: false
 classes: wide

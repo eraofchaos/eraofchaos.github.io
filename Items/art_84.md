@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Skull Helmet"
+title: "Item - Artifacts - Skull Helmet"
 permalink: /Items/art_84/
-excerpt: " Skull Helmet"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Skull Helmet"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_84.md"
 toc: false
 classes: wide

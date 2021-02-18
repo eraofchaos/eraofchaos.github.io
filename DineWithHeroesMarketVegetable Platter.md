@@ -2,8 +2,8 @@
 title: "Dine with Heroes - Market - Vegetable Platter"
 permalink: /DineWithHeroesMarket Vegetable Platter.html
 excerpt: "Dine with Heroes - Market - Vegetable Platter. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-02-11
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "DineWithHeroesMarketVegetable Platter.html"
 toc: true
 layout: single
@@ -20,11 +20,11 @@ sidebar:
 
  **Recommended Power: 1000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Vegetable Platter](/Items/con_362/)
+ **Reward:** [Vegetable Platter](/Items/con_363/)
 
- **Extra Reward:** 20% [ Vegetable Platter](/Items/con_362/)
+ **Extra Reward:** 20% [Vegetable Platter](/Items/con_363/)
 
 #### Fight against Team
  **Hero:** [Ryland](/heroes/Ryland/)
@@ -48,11 +48,11 @@ sidebar:
 
  **Recommended Power: 4000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Vegetable Platter](/Items/con_362/)
+ **Reward:** [Vegetable Platter](/Items/con_363/)
 
- **Extra Reward:** 40% [ Vegetable Platter](/Items/con_362/)
+ **Extra Reward:** 40% [Vegetable Platter](/Items/con_363/)
 
 #### Fight against Team
  **Hero:** [Mephala](/heroes/Mephala/)
@@ -76,11 +76,11 @@ sidebar:
 
  **Recommended Power: 7000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Vegetable Platter](/Items/con_362/)
+ **Reward:** [Vegetable Platter](/Items/con_363/)
 
- **Extra Reward:** 70% [ Vegetable Platter](/Items/con_362/)
+ **Extra Reward:** 70% [Vegetable Platter](/Items/con_363/)
 
 #### Fight against Team
  **Hero:** [Mephala](/heroes/Mephala/)
@@ -104,11 +104,11 @@ sidebar:
 
  **Recommended Power: 10000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Vegetable Platter](/Items/con_362/)
+ **Reward:** [Vegetable Platter](/Items/con_363/)
 
- **Extra Reward:** 100% [ Vegetable Platter](/Items/con_362/)
+ **Extra Reward:** 100% [Vegetable Platter](/Items/con_363/)
 
 #### Fight against Team
  **Hero:** [Gem](/heroes/Gem/)

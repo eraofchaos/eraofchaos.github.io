@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Newcomer Pack"
+title: "Item - Consumables - Vega Ciele"
 permalink: /Items/con_68/
-excerpt: " Newcomer Pack"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Vega Ciele"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_68.md"
 toc: false
 classes: wide
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** We've prepared great units and supplies to help you embark on your campaign!
+ **Description:** Grants 1,980 Diamonds and 1 Vega Ciele skin.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Gift
 
@@ -29,7 +29,5 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 | _TEAM_102 | 
-  | 2 |  **40x** | Marksman | Once you have gathered 10 soul tokens you can summon a Marksman, an R aptitude unit.  | 
-  | 3 |  **5x** | Castle Unit Chest | Receive a random Castle Faction Unit token.  | 
-  | 4 |  **50000x** | <i class="fas fa-coins"/> |  | 
+  | 1 |  **980x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **1x** | Vega Ciele | Use to get a skin: Vega Ciele  | 

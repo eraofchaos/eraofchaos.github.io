@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Paladin"
+title: "Item - Units - Paladin"
 permalink: /Items/unt_84/
-excerpt: " Paladin"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Paladin"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_84.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Forest Bow"
+title: "Item - Artifacts - Forest Bow"
 permalink: /Items/art_51/
-excerpt: " Forest Bow"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Forest Bow"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_51.md"
 toc: false
 classes: wide

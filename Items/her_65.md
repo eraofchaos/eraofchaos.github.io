@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Time Stop"
+title: "Item - Heroes - Time Stop"
 permalink: /Items/her_65/
-excerpt: " Time Stop"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Time Stop"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_65.md"
 toc: false
 classes: wide

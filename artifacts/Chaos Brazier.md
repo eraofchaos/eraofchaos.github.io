@@ -2,8 +2,8 @@
 title: "Artifacts - Mirror of Revenge - Chaos Brazier"
 permalink: /artifacts/Chaos Brazier/
 excerpt: "Mirror of Revenge - Chaos Brazier. An item used to store powerful fire magic. One of the components of the Mirror of Revenge."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Chaos Brazier.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Chaos Brazier](/Items/art_3/)
+ **Related Item**: [Chaos Brazier](/Items/art_3/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

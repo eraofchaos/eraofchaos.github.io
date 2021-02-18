@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Common Gems"
+title: "Item - Materials - Common Gems"
 permalink: /Items/mat_69/
-excerpt: " Common Gems"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Common Gems"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_69.md"
 toc: false
 classes: wide

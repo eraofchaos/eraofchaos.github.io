@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Radiant Ore"
+title: "Item - Materials - Radiant Ore"
 permalink: /Items/mat_88/
-excerpt: " Radiant Ore"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Radiant Ore"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_88.md"
 toc: false
 classes: wide

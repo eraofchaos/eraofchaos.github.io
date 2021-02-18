@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Orb of Silt"
+title: "Item - Artifacts - Orb of Silt"
 permalink: /Items/art_53/
-excerpt: " Orb of Silt"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Orb of Silt"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_53.md"
 toc: false
 classes: wide

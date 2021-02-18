@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Death Howler Soul Stone"
+title: "Item - Units - Death Howler Soul Stone"
 permalink: /Items/unt_35/
-excerpt: " Death Howler Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Death Howler Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_35.md"
 toc: false
 classes: wide

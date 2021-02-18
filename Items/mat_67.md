@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Exceptional Ore"
+title: "Item - Materials - Exceptional Ore"
 permalink: /Items/mat_67/
-excerpt: " Exceptional Ore"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Exceptional Ore"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_67.md"
 toc: false
 classes: wide

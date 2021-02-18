@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Energy Core"
+title: "Item - Consumables - Guild coin"
 permalink: /Items/con_55/
-excerpt: " Energy Core"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Guild coin"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_55.md"
 toc: false
 classes: wide
@@ -11,9 +11,9 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Used for activating Battle Formation nodes
+ **Description:** Can be exchanged for items in the Guild Store.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Unknown
 

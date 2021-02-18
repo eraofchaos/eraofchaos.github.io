@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Inferior Crystal"
+title: "Item - Materials - Inferior Crystal"
 permalink: /Items/mat_45/
-excerpt: " Inferior Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Inferior Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_45.md"
 toc: false
 classes: wide

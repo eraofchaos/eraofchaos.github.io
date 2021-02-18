@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Common Ore"
+title: "Item - Materials - Common Ore"
 permalink: /Items/mat_39/
-excerpt: " Common Ore"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Common Ore"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_39.md"
 toc: false
 classes: wide

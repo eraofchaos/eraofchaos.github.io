@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Gnoll"
+title: "Item - Units - Gnoll"
 permalink: /Items/unt_41/
-excerpt: " Gnoll"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Gnoll"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_41.md"
 toc: false
 classes: wide

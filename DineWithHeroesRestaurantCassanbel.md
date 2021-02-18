@@ -2,8 +2,8 @@
 title: "Dine with Heroes - Restaurant - Cassanbel"
 permalink: /DineWithHeroesRestaurant Cassanbel.html
 excerpt: "Dine with Heroes - Restaurant - Cassanbel. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-02-11
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "DineWithHeroesRestaurantCassanbel.html"
 toc: true
 layout: single
@@ -20,11 +20,11 @@ sidebar:
 
  **Level EXP: 100**
 
- **Reward:**  **5x** [ Sack of Gold](/Items/con_640/)
+ **Reward:**  **5x** [Sack of Gold](/Items/con_643/)
 
  **Like Talk:** These pig's trotters are indeed delicious and nutritious. I've even heard that eating them frequently does wonders for your skin.
 
- **Like Food:** [ Yunnan Sour Pig Trotter Soup](/Items/con_116/)
+ **Like Food:** [Yunnan Sour Pig Trotter Soup](/Items/con_117/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 
@@ -37,11 +37,11 @@ sidebar:
 
  **Level EXP: 300**
 
- **Reward:**  **15x** [ Basic Material Chest](/Items/con_906/)
+ **Reward:**  **15x** [Basic Material Chest](/Items/con_910/)
 
  **Like Talk:** The combination of specialty blood sausages and pickled cabbage sourced from the Northeast of China and pork belly in this dish is simply wonderful!
 
- **Like Food:** [ Northeast Region Pickled Cabbage Hotpot](/Items/con_1071/)
+ **Like Food:** [Northeast Region Pickled Cabbage Hotpot](/Items/con_1080/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 
@@ -54,11 +54,11 @@ sidebar:
 
  **Level EXP: 600**
 
- **Reward:**  **2x** [ Universal Hero Tokens](/Items/her_87/)
+ **Reward:**  **2x** [Universal Hero Tokens](/Items/her_87/)
 
  **Like Talk:** Oh my, adding the goose giblets to this type of master stock is simply a match made in heaven!
 
- **Like Food:** [ Teochew Master Stock Hotpot](/Items/con_721/)
+ **Like Food:** [Teochew Master Stock Hotpot](/Items/con_724/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 
@@ -71,11 +71,11 @@ sidebar:
 
  **Level EXP: 1000**
 
- **Reward:** [ Dusty Treasure Map](/Items/con_1146/)
+ **Reward:** [Dusty Treasure Map](/Items/con_1155/)
 
  **Like Talk:** This hotpot tastes savory yet fresh. The people who first invented this type of hotpot dish must be geniuses indeed!
 
- **Like Food:** [ Yunnan Cured Ribs Hotpot](/Items/con_871/)
+ **Like Food:** [Yunnan Cured Ribs Hotpot](/Items/con_874/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 
@@ -92,7 +92,7 @@ sidebar:
 
  **Like Talk:** Crisp coconut meat is soaked in a bowl of sweet soup alongside tender chicken meat. When accompanied by a unique dipping sauce, this dish is simply marvelous!
 
- **Like Food:** [ Hainan Coconut Chicken Hotpot](/Items/con_501/)
+ **Like Food:** [Hainan Coconut Chicken Hotpot](/Items/con_504/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 
@@ -105,11 +105,11 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward:**  **200x**  Artifact essence
+ **Reward:**  **200x** Artifact essence
 
  **Like Talk:** This dish is simply delectable due to the included sour and sweet pickled vegetables and refreshing offal!
 
- **Like Food:** [ Fujian Zhangzhou Intestines with Pickled Vegetables](/Items/con_141/)
+ **Like Food:** [Fujian Zhangzhou Intestines with Pickled Vegetables](/Items/con_142/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 
@@ -122,11 +122,11 @@ sidebar:
 
  **Level EXP: 2900**
 
- **Reward:**  **8x** [ Astro Silver](/Items/con_530/)
+ **Reward:**  **8x** [Astro Silver](/Items/con_533/)
 
  **Like Talk:** The dish's one-of-a-kind soup base is made of porridge and it pairs perfectly well with the freshness of the seafood. It's absolutely delicious!
 
- **Like Food:** [ Cantonese Seafood Hotpot](/Items/con_960/)
+ **Like Food:** [Cantonese Seafood Hotpot](/Items/con_966/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 
@@ -139,11 +139,11 @@ sidebar:
 
  **Level EXP: 4100**
 
- **Reward:**  **1000x**  Dragon Blood Crystal
+ **Reward:**  **1000x** Dragon Blood Crystal
 
  **Like Talk:** Amazing! The freshness of oceanic delicacies has been concentrated in this single pot of soup, enhancing the rich flavor of the soup base.
 
- **Like Food:** [ Macau Hotpot Soup](/Items/con_210/)
+ **Like Food:** [Macau Hotpot Soup](/Items/con_211/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 
@@ -156,11 +156,11 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward:** [ Premium Artifact Component Pack](/Items/con_1267/)
+ **Reward:** [Premium Artifact Component Pack](/Items/con_1277/)
 
  **Like Talk:** The tofu is spicy yet silky, while the fish is spicy and fresh. Together, they form the delicacy that is the Fushun Tofu Fish.
 
- **Like Food:** [ Sichuan Fushun Tofu Fish](/Items/con_657/)
+ **Like Food:** [Sichuan Fushun Tofu Fish](/Items/con_660/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 
@@ -173,11 +173,11 @@ sidebar:
 
  **Level EXP: 9100**
 
- **Reward:** [ Dragon King Component Chest](/Items/con_470/)
+ **Reward:** [Dragon King Component Chest](/Items/con_473/)
 
  **Like Talk:** The experience of eating fish offal without having to spit out fish bones is simply incredible! The different types of fish offal found in this hotpot have incredibly rich flavors.
 
- **Like Food:** [ Hubei Fish Offal](/Items/con_779/)
+ **Like Food:** [Hubei Fish Offal](/Items/con_782/)
 
  **Normal Talk:** Ah, this style of hotpot is unexpectedly delicious. How interesting!
 

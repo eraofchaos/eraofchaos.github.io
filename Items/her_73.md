@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Frenzy"
+title: "Item - Heroes - Frenzy"
 permalink: /Items/her_73/
-excerpt: " Frenzy"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Frenzy"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_73.md"
 toc: false
 classes: wide

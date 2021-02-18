@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Free reward package"
+title: "Item - Consumables - Luck Card"
 permalink: /Items/con_49/
-excerpt: " Free reward package"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Luck Card"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_49.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** You've reached VIP level 6! You receive a free chance to send a red envelope to your guild members!
+ **Description:** Grants the following items every day for the next 7 days after purchasing: 10 diamonds and 10 Energy.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unknown
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,11 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 7 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **10x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **10x** | Energy | Energy will be consumed when you play in story mode or Underground mode.  | 

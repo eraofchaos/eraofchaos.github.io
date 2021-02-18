@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Superior Sulfur"
+title: "Item - Materials - Superior Sulfur"
 permalink: /Items/mat_30/
-excerpt: " Superior Sulfur"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Superior Sulfur"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_30.md"
 toc: false
 classes: wide

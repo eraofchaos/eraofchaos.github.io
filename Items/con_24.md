@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Small Campaign Treasure"
+title: "Item - Consumables - Kassandra Pack"
 permalink: /Items/con_24/
-excerpt: " Small Campaign Treasure"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Kassandra Pack"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_24.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A treasure chest containing 6 Empire Medals!
+ **Description:** Grants 680 Diamonds, 30 Kassandra Tokens, and 100 Spell Scrolls.
 
- **Quality:** <span style="color: #32CD32">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** EXP
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,12 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **680x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **30x** | Kassandra | Collect 30 tokens to summon Kassandra to join your party. Tokens are also required to increase her rank.  | 
+  | 3 |  **100x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 

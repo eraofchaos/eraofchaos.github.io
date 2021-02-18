@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Land on Fire"
+title: "Item - Heroes - Land on Fire"
 permalink: /Items/her_64/
-excerpt: " Land on Fire"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Land on Fire"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_64.md"
 toc: false
 classes: wide

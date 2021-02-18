@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Will to Kill"
+title: "Item - Heroes - Will to Kill"
 permalink: /Items/her_50/
-excerpt: " Will to Kill"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Will to Kill"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_50.md"
 toc: false
 classes: wide

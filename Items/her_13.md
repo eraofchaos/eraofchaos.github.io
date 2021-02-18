@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Fireball"
+title: "Item - Heroes - Fireball"
 permalink: /Items/her_13/
-excerpt: " Fireball"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Fireball"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_13.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Dracon"
+title: "Item - Heroes - Dracon"
 permalink: /Items/her_40/
-excerpt: " Dracon"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Dracon"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_40.md"
 toc: false
 classes: wide

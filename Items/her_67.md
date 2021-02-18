@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Morass"
+title: "Item - Heroes - Morass"
 permalink: /Items/her_67/
-excerpt: " Morass"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Morass"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_67.md"
 toc: false
 classes: wide

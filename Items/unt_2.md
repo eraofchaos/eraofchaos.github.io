@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Phoenix Soul Stone"
+title: "Item - Units - Phoenix Soul Stone"
 permalink: /Items/unt_2/
-excerpt: " Phoenix Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Phoenix Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_2.md"
 toc: false
 classes: wide

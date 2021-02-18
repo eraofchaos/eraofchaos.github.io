@@ -2,8 +2,8 @@
 title: "Artifacts - Power of the Dragon Father - Dragon Scale Shield"
 permalink: /artifacts/Dragon Scale Shield/
 excerpt: "Power of the Dragon Father - Dragon Scale Shield. A shield blessed with the Dragon King's magic. One of the components of Power of the Dragon Father."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Dragon Scale Shield.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Dragon Scale Shield](/Items/art_17/)
+ **Related Item**: [Dragon Scale Shield](/Items/art_17/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

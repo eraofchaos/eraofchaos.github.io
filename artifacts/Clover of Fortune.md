@@ -2,8 +2,8 @@
 title: "Artifacts - Lucky Horseshoe - Clover of Fortune"
 permalink: /artifacts/Clover of Fortune/
 excerpt: "Lucky Horseshoe - Clover of Fortune. A clover that brings great fortune. One of the components of the Lucky Horseshoe."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Clover of Fortune.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Lucky Horseshoe](/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 1x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Clover of Fortune](/Items/art_2/)
+ **Related Item**: [Clover of Fortune](/Items/art_2/)
 
  **Quality:** [Green Artifact Components](/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Melodia"
+title: "Item - Heroes - Melodia"
 permalink: /Items/her_31/
-excerpt: " Melodia"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Melodia"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_31.md"
 toc: false
 classes: wide

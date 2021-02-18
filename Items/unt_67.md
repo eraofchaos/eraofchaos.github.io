@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Assassin"
+title: "Item - Units - Assassin"
 permalink: /Items/unt_67/
-excerpt: " Assassin"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Assassin"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_67.md"
 toc: false
 classes: wide

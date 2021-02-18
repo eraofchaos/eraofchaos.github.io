@@ -2,8 +2,8 @@
 title: "Dine with Heroes - Market - Meat Platter"
 permalink: /DineWithHeroesMarket Meat Platter.html
 excerpt: "Dine with Heroes - Market - Meat Platter. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-02-11
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "DineWithHeroesMarketMeat Platter.html"
 toc: true
 layout: single
@@ -20,11 +20,11 @@ sidebar:
 
  **Recommended Power: 1000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Meat Platter](/Items/con_397/)
+ **Reward:** [Meat Platter](/Items/con_398/)
 
- **Extra Reward:** 20% [ Meat Platter](/Items/con_397/)
+ **Extra Reward:** 20% [Meat Platter](/Items/con_398/)
 
 #### Fight against Team
  **Hero:** [Shiva](/heroes/Shiva/)
@@ -48,11 +48,11 @@ sidebar:
 
  **Recommended Power: 4000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Meat Platter](/Items/con_397/)
+ **Reward:** [Meat Platter](/Items/con_398/)
 
- **Extra Reward:** 40% [ Meat Platter](/Items/con_397/)
+ **Extra Reward:** 40% [Meat Platter](/Items/con_398/)
 
 #### Fight against Team
  **Hero:** [Crag Hack](/heroes/Crag Hack/)
@@ -76,11 +76,11 @@ sidebar:
 
  **Recommended Power: 7000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Meat Platter](/Items/con_397/)
+ **Reward:** [Meat Platter](/Items/con_398/)
 
- **Extra Reward:** 70% [ Meat Platter](/Items/con_397/)
+ **Extra Reward:** 70% [Meat Platter](/Items/con_398/)
 
 #### Fight against Team
  **Hero:** [Crag Hack](/heroes/Crag Hack/)
@@ -104,11 +104,11 @@ sidebar:
 
  **Recommended Power: 10000000**
 
- **Cost: 10x** [ Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [ Meat Platter](/Items/con_397/)
+ **Reward:** [Meat Platter](/Items/con_398/)
 
- **Extra Reward:** 100% [ Meat Platter](/Items/con_397/)
+ **Extra Reward:** 100% [Meat Platter](/Items/con_398/)
 
 #### Fight against Team
  **Hero:** [Kilgor](/heroes/Kilgor/)

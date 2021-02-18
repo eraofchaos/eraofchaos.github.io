@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Free reward package"
+title: "Item - Consumables - Free reward package"
 permalink: /Items/con_1/
-excerpt: " Free reward package"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Free reward package"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_1.md"
 toc: false
 classes: wide

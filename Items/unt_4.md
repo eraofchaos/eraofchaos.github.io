@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Hydra"
+title: "Item - Units - Hydra"
 permalink: /Items/unt_4/
-excerpt: " Hydra"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Hydra"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_4.md"
 toc: false
 classes: wide

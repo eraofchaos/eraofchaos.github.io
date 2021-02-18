@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Korbac"
+title: "Item - Heroes - Korbac"
 permalink: /Items/her_57/
-excerpt: " Korbac"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Korbac"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_57.md"
 toc: false
 classes: wide

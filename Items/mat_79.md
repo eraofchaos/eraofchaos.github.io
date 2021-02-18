@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Common Sulfur"
+title: "Item - Materials - Common Sulfur"
 permalink: /Items/mat_79/
-excerpt: " Common Sulfur"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Common Sulfur"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_79.md"
 toc: false
 classes: wide

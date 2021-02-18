@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Ring of Flares"
+title: "Item - Artifacts - Ring of Flares"
 permalink: /Items/art_10/
-excerpt: " Ring of Flares"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ring of Flares"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_10.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Stoic Watchman"
+title: "Item - Artifacts - Stoic Watchman"
 permalink: /Items/art_28/
-excerpt: " Stoic Watchman"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Stoic Watchman"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_28.md"
 toc: false
 classes: wide

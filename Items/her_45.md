@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Master of Armour"
+title: "Item - Heroes - Master of Armour"
 permalink: /Items/her_45/
-excerpt: " Master of Armour"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Master of Armour"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_45.md"
 toc: false
 classes: wide

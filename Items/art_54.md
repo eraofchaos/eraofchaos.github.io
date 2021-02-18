@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Medal of Truth"
+title: "Item - Artifacts - Medal of Truth"
 permalink: /Items/art_54/
-excerpt: " Medal of Truth"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Medal of Truth"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_54.md"
 toc: false
 classes: wide

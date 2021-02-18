@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Roc"
+title: "Item - Units - Roc"
 permalink: /Items/unt_40/
-excerpt: " Roc"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Roc"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_40.md"
 toc: false
 classes: wide

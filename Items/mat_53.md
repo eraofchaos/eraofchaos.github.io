@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Common Wood"
+title: "Item - Materials - Common Wood"
 permalink: /Items/mat_53/
-excerpt: " Common Wood"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Common Wood"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_53.md"
 toc: false
 classes: wide

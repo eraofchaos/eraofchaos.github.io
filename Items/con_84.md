@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  SR+ Unit Token Chest"
+title: "Item - Consumables - Gold"
 permalink: /Items/con_84/
-excerpt: " SR+ Unit Token Chest"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Gold"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_84.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Randomly grants 80 Lich, Genie, or Stone Elemental tokens.
+ **Description:** Glittering gold can be used in many ways.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #000080">OK</span>
 
- **Type:** Gift
+ **Type:** Unknown
 
 ## Gather
 
@@ -23,12 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- 2 You would get **1** item  from:
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 |  **80x** | Lich | Once you have gathered 80 soul tokens you can summon a Lich, an SR aptitude unit.  | 
-  | 2 |  **80x** | Genie | Once you have gathered 80 soul tokens you can summon a Genie. Tokens can also be used to upgrade or increase the rank of Genies.  | 
-  | 3 |  **80x** | Stone Elemental | Once you have gathered 80 soul tokens you can summon a Stone Elemental. Tokens can also be used to upgrade or increase the rank of Stone Elementals.  | 

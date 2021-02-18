@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Mythical Crystal"
+title: "Item - Materials - Mythical Crystal"
 permalink: /Items/mat_61/
-excerpt: " Mythical Crystal"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Mythical Crystal"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_61.md"
 toc: false
 classes: wide

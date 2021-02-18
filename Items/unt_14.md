@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Black Knight"
+title: "Item - Units - Black Knight"
 permalink: /Items/unt_14/
-excerpt: " Black Knight"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Black Knight"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_14.md"
 toc: false
 classes: wide

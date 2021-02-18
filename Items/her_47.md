@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Hypnotize"
+title: "Item - Heroes - Hypnotize"
 permalink: /Items/her_47/
-excerpt: " Hypnotize"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Hypnotize"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_47.md"
 toc: false
 classes: wide

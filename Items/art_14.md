@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Bottle of Energy"
+title: "Item - Artifacts - Bottle of Energy"
 permalink: /Items/art_14/
-excerpt: " Bottle of Energy"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Bottle of Energy"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_14.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Wystan"
+title: "Item - Heroes - Wystan"
 permalink: /Items/her_29/
-excerpt: " Wystan"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Wystan"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_29.md"
 toc: false
 classes: wide

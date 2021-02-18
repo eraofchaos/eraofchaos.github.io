@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Gelu"
+title: "Item - Heroes - Gelu"
 permalink: /Items/her_88/
-excerpt: " Gelu"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Gelu"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_88.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Minotaur King Soul Stone"
+title: "Item - Units - Minotaur King Soul Stone"
 permalink: /Items/unt_3/
-excerpt: " Minotaur King Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Minotaur King Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_3.md"
 toc: false
 classes: wide

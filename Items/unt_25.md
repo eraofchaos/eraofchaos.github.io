@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Wolf Rider"
+title: "Item - Units - Wolf Rider"
 permalink: /Items/unt_25/
-excerpt: " Wolf Rider"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Wolf Rider"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_25.md"
 toc: false
 classes: wide

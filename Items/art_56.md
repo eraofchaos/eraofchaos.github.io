@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Magic Charm"
+title: "Item - Artifacts - Magic Charm"
 permalink: /Items/art_56/
-excerpt: " Magic Charm"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Magic Charm"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_56.md"
 toc: false
 classes: wide

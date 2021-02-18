@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Examplar Crossbow"
+title: "Item - Artifacts - Examplar Crossbow"
 permalink: /Items/art_38/
-excerpt: " Examplar Crossbow"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Examplar Crossbow"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_38.md"
 toc: false
 classes: wide

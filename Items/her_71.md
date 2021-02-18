@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Gem"
+title: "Item - Heroes - Gem"
 permalink: /Items/her_71/
-excerpt: " Gem"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Gem"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_71.md"
 toc: false
 classes: wide

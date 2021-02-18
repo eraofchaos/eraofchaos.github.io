@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Shroud of Eden"
+title: "Item - Artifacts - Shroud of Eden"
 permalink: /Items/art_6/
-excerpt: " Shroud of Eden"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Shroud of Eden"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_6.md"
 toc: false
 classes: wide

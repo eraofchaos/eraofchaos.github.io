@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Staff of the Netherworld"
+title: "Item - Artifacts - Staff of the Netherworld"
 permalink: /Items/art_85/
-excerpt: " Staff of the Netherworld"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Staff of the Netherworld"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_85.md"
 toc: false
 classes: wide

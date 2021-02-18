@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Medium Campaign Treasure"
+title: "Item - Consumables - Qiandongnan Herbal Cattle Hotpot"
 permalink: /Items/con_37/
-excerpt: " Medium Campaign Treasure"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Qiandongnan Herbal Cattle Hotpot"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_37.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A treasure chest containing 30 Empire Medals!
+ **Description:** This ingredients of this dish have a faint gymnosiphon scent before they are cooked. The locals call this a hundred-herb soup, and it tastes better with every bite after it is cooked with various Chinese medicinal spices and beef offal.
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** EXP
+ **Type:** Event related
 
 ## Gather
 

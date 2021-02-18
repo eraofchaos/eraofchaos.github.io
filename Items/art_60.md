@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Ice Crystal Shield"
+title: "Item - Artifacts - Ice Crystal Shield"
 permalink: /Items/art_60/
-excerpt: " Ice Crystal Shield"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ice Crystal Shield"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_60.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Elite Unit Special Offer"
+title: "Item - Consumables - Elite Unit Pack"
 permalink: /Items/con_88/
-excerpt: " Elite Unit Special Offer"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Elite Unit Pack"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_88.md"
 toc: false
 classes: wide
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use it to get Diamond *3280, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20
+ **Description:** Use to select 1 of the following: 3-star Lich, 3-star Stone Elemental, 3-star Genie, 3-star Mummy, 3-star Manticore, 3-star Beholder, 3-star Medusa, 3-star Druid, 3-star Wyvern, 3-star Basilisk, or 3-star Magic Airship.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -25,11 +25,18 @@ classes: wide
 
  **Required Level to open:** 1
 
- 1 You would get **ALL** items  from:
+ 8 You would get **ALL** items  from:
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **3280x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Elite Unit Pack | Use it to select 1 of the following: Druid, Lich, Mummy, Nightmare, Genie, Magic Airship, Medusa, Beholder, Manticore, Wyvern, Basilisk, Stone Elemental, Mermaid Token *81  | 
-  | 3 |  **288x** | Talent potion ingredients | The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit.   | 
-  | 4 |  **20x** | Huge EXP potion | A bottle of highly purified EXP potion. You will gain 7500 unit EXP after drinking it.  | 
+  | 1 | _TEAM_305 | 
+  | 2 | _TEAM_905 | 
+  | 3 | _TEAM_605 | 
+  | 4 | _TEAM_308 | 
+  | 5 | _TEAM_706 | 
+  | 6 | _TEAM_703 | 
+  | 7 | _TEAM_704 | 
+  | 8 | _TEAM_208 | 
+  | 9 | _TEAM_806 | 
+  | 10 | _TEAM_804 | 
+  | 11 | _TEAM_608 | 

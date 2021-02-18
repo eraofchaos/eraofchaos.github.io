@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Sword of Hellfire"
+title: "Item - Artifacts - Sword of Hellfire"
 permalink: /Items/art_57/
-excerpt: " Sword of Hellfire"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Sword of Hellfire"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_57.md"
 toc: false
 classes: wide

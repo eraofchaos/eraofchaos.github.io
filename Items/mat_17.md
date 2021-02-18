@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Exceptional Gems"
+title: "Item - Materials - Exceptional Gems"
 permalink: /Items/mat_17/
-excerpt: " Exceptional Gems"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Exceptional Gems"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_17.md"
 toc: false
 classes: wide

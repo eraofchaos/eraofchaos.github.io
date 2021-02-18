@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Exceptional Wood"
+title: "Item - Materials - Exceptional Wood"
 permalink: /Items/mat_82/
-excerpt: " Exceptional Wood"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Exceptional Wood"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_82.md"
 toc: false
 classes: wide

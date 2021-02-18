@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Divine Grace"
+title: "Item - Heroes - Divine Grace"
 permalink: /Items/her_56/
-excerpt: " Divine Grace"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Divine Grace"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_56.md"
 toc: false
 classes: wide

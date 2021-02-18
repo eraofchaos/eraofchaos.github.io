@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Centaur"
+title: "Item - Units - Centaur"
 permalink: /Items/unt_58/
-excerpt: " Centaur"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Centaur"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_58.md"
 toc: false
 classes: wide

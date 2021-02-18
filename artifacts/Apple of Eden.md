@@ -2,8 +2,8 @@
 title: "Artifacts - Apple of Eden"
 permalink: /artifacts/Apple of Eden/
 excerpt: "Apple of Eden A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Apple of Eden.md"
 toc: false
 classes: wide

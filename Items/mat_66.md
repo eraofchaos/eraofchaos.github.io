@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Valuable Sulfur"
+title: "Item - Materials - Valuable Sulfur"
 permalink: /Items/mat_66/
-excerpt: " Valuable Sulfur"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Valuable Sulfur"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_66.md"
 toc: false
 classes: wide

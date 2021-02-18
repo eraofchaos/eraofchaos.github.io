@@ -1,9 +1,9 @@
 ---
-title: "Item - Artifacts -  Ring of Life"
+title: "Item - Artifacts - Ring of Life"
 permalink: /Items/art_69/
-excerpt: " Ring of Life"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ring of Life"
+last_modified_at: 2021-02-18
+locale: en
 ref: "art_69.md"
 toc: false
 classes: wide

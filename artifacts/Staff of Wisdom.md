@@ -2,8 +2,8 @@
 title: "Artifacts - Armageddon's Blade - Staff of Wisdom"
 permalink: /artifacts/Staff of Wisdom/
 excerpt: "Armageddon's Blade - Staff of Wisdom. A relic that guards the Ice Shield. One of the components of Armageddon's Blade."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Staff of Wisdom.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Staff of Wisdom](/Items/art_77/)
+ **Related Item**: [Staff of Wisdom](/Items/art_77/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

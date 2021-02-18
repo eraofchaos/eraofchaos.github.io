@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Elf Mage Soul Stone"
+title: "Item - Units - Elf Mage Soul Stone"
 permalink: /Items/unt_39/
-excerpt: " Elf Mage Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Elf Mage Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_39.md"
 toc: false
 classes: wide

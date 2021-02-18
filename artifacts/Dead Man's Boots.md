@@ -2,8 +2,8 @@
 title: "Artifacts - Cloak of the Undead King - Dead Man's Boots"
 permalink: /artifacts/Dead Man's Boots/
 excerpt: "Cloak of the Undead King - Dead Man's Boots. A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Dead Man's Boots.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
- **Dismantle: 25x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Dead Man's Boots](/Items/art_13/)
+ **Related Item**: [Dead Man's Boots](/Items/art_13/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

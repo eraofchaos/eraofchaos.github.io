@@ -1,9 +1,9 @@
 ---
-title: "Item - Consumables -  Fujian Zhangzhou Intestines with Pickled Vegetables"
+title: "Item - Consumables - Ciele Special Offer Pack"
 permalink: /Items/con_77/
-excerpt: " Fujian Zhangzhou Intestines with Pickled Vegetables"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Ciele Special Offer Pack"
+last_modified_at: 2021-02-18
+locale: en
 ref: "con_77.md"
 toc: false
 classes: wide
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Sweet and sour Luxi pickled vegetables, thick and fragrant boiled large intestines, fresh spring bamboo shoots, and delicious bone broth collide in this dish to create the unique taste of Zhangzhou. This particular pot of food still seems rather raw. This particular pot of food seems to be insufficiently heated.
+ **Description:** Use it to get Diamond *6480, Ciele Token *55, Spell Scroll *288 and Temple Scroll *10
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Event related
+ **Type:** Gift
 
 ## Gather
 
@@ -23,5 +23,13 @@ classes: wide
 
 ## This item contains:
 
-  None
+ **Required Level to open:** 1
 
+ 1 You would get **ALL** items  from:
+
+  | Nr | Amount |     Item    | Description |
+  |:---|:-------|:------------|:-----------:|
+  | 1 |  **6480x** | <i class="fas fa-gem"/> |  | 
+  | 2 |  **55x** | Ciele | Collect 30 tokens to summon Ciele to join your party. Tokens are also required to increase her rank  | 
+  | 3 |  **288x** | Spell Scrolls | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills.  | 
+  | 4 |  **10x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 

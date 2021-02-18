@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Swordsman"
+title: "Item - Units - Swordsman"
 permalink: /Items/unt_61/
-excerpt: " Swordsman"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Swordsman"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_61.md"
 toc: false
 classes: wide

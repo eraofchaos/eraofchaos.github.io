@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Fire Blast"
+title: "Item - Heroes - Fire Blast"
 permalink: /Items/her_6/
-excerpt: " Fire Blast"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Fire Blast"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_6.md"
 toc: false
 classes: wide

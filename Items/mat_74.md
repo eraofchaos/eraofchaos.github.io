@@ -1,9 +1,9 @@
 ---
-title: "Item - Materials -  Mythical Gems"
+title: "Item - Materials - Mythical Gems"
 permalink: /Items/mat_74/
-excerpt: " Mythical Gems"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Mythical Gems"
+last_modified_at: 2021-02-18
+locale: en
 ref: "mat_74.md"
 toc: false
 classes: wide

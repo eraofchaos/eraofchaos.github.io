@@ -2,8 +2,8 @@
 title: "Artifacts - Antimagic Runestone - Garniture of Interference"
 permalink: /artifacts/Garniture of Interference/
 excerpt: "Antimagic Runestone - Garniture of Interference. A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone."
-last_modified_at: 2021-02-10
-lang: en
+last_modified_at: 2021-02-18
+locale: en
 ref: "Garniture of Interference.md"
 toc: false
 classes: wide
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Antimagic Runestone](/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
- **Dismantle: 3x** [ Artifact essence](/Items/con_163/)
+ **Dismantle: 3x** [Artifact essence](/Items/con_164/)
 
- **Related Item**: [ Garniture of Interference](/Items/art_22/)
+ **Related Item**: [Garniture of Interference](/Items/art_22/)
 
  **Quality:** [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

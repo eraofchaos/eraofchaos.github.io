@@ -1,9 +1,9 @@
 ---
-title: "Item - Units -  Orc Commander Soul Stone"
+title: "Item - Units - Orc Commander Soul Stone"
 permalink: /Items/unt_99/
-excerpt: " Orc Commander Soul Stone"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Orc Commander Soul Stone"
+last_modified_at: 2021-02-18
+locale: en
 ref: "unt_99.md"
 toc: false
 classes: wide

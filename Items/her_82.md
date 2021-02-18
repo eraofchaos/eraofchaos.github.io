@@ -1,9 +1,9 @@
 ---
-title: "Item - Heroes -  Sephinroth"
+title: "Item - Heroes - Sephinroth"
 permalink: /Items/her_82/
-excerpt: " Sephinroth"
-last_modified_at: 2021-02-10
-lang: en
+excerpt: "Sephinroth"
+last_modified_at: 2021-02-18
+locale: en
 ref: "her_82.md"
 toc: false
 classes: wide
