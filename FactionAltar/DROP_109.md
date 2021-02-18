@@ -2,7 +2,7 @@
 title: "Faction Altar for Conflux"
 permalink: /FactionAltar/DROP_109/
 excerpt: "Faction Altar for Conflux. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-17
+last_modified_at: 2021-02-18
 lang: en
 ref: "DROP_109.md"
 toc: false
@@ -38,9 +38,9 @@ classes: wide
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
   | 1 | **55%** | **1x** | [ Elemental Limited Edition Pack](/Items/con_1032/) |
-  | 2 | **11%** | **5x** |  14  |
-  | 3 | **11%** | **3x** |  14  |
-  | 4 | **11%** | **5x** |  13  |
+  | 2 | **11%** | **5x** |  **31%** [ Storm Elemental](/Items/unt_113/),  **31%** [ Ice Elemental](/Items/unt_22/),  **9%** [ Firebird](/Items/unt_93/),  **9%** [ Phoenix Soul Stone](/Items/unt_2/),  **9%** [ Thunder Rage Soul Stone](/Items/unt_55/),  **9%** [ Silent Snow Spirit Soul Stone](/Items/unt_69/),  |
+  | 3 | **11%** | **3x** |  **31%** [ Storm Elemental](/Items/unt_113/),  **31%** [ Ice Elemental](/Items/unt_22/),  **9%** [ Firebird](/Items/unt_93/),  **9%** [ Phoenix Soul Stone](/Items/unt_2/),  **9%** [ Thunder Rage Soul Stone](/Items/unt_55/),  **9%** [ Silent Snow Spirit Soul Stone](/Items/unt_69/),  |
+  | 4 | **11%** | **5x** |  **100%** [ Sprite](/Items/unt_134/),  |
 
 
 ####  10x SPIN 

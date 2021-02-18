@@ -2,7 +2,7 @@
 title: "Faction Altar for Fortress"
 permalink: /FactionAltar/DROP_108/
 excerpt: "Faction Altar for Fortress. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-17
+last_modified_at: 2021-02-18
 lang: en
 ref: "DROP_108.md"
 toc: false
@@ -38,9 +38,9 @@ classes: wide
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
   | 1 | **55%** | **1x** | [ Fortress Limited Edition Pack](/Items/con_1394/) |
-  | 2 | **11%** | **5x** |  14  |
-  | 3 | **11%** | **3x** |  14  |
-  | 4 | **11%** | **5x** |  13  |
+  | 2 | **11%** | **5x** |  **50%** [ Lizardman](/Items/unt_96/),  **50%** [ Serpent Fly](/Items/unt_77/),  |
+  | 3 | **11%** | **3x** |  **50%** [ Lizardman](/Items/unt_96/),  **50%** [ Serpent Fly](/Items/unt_77/),  |
+  | 4 | **11%** | **5x** |  **100%** [ Gnoll](/Items/unt_41/),  |
 
 
 ####  10x SPIN 

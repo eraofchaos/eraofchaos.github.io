@@ -2,7 +2,7 @@
 title: "Faction Altar for Necropolis"
 permalink: /FactionAltar/DROP_104/
 excerpt: "Faction Altar for Necropolis. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-17
+last_modified_at: 2021-02-18
 lang: en
 ref: "DROP_104.md"
 toc: false
@@ -38,9 +38,9 @@ classes: wide
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
   | 1 | **55%** | **1x** | [ Necropolis Limited Edition Pack](/Items/con_919/) |
-  | 2 | **11%** | **5x** |  14  |
-  | 3 | **11%** | **3x** |  14  |
-  | 4 | **11%** | **5x** |  13  |
+  | 2 | **11%** | **5x** |  **18%** [ Wight](/Items/unt_141/),  **62%** [ Vampire](/Items/unt_122/),  **18%** [ Vampire Lord Soul Stone](/Items/unt_64/),  |
+  | 3 | **11%** | **3x** |  **18%** [ Wight](/Items/unt_141/),  **62%** [ Vampire](/Items/unt_122/),  **18%** [ Vampire Lord Soul Stone](/Items/unt_64/),  |
+  | 4 | **11%** | **5x** |  **25%** [ Skeleton](/Items/unt_80/),  **25%** [ Walking Dead](/Items/unt_140/),  **25%** [ Skeleton Warrior Soul Stone](/Items/unt_12/),  **25%** [ Zombie Soul Stone](/Items/unt_27/),  |
 
 
 ####  10x SPIN 

@@ -2,7 +2,7 @@
 title: "Faction Altar for Inferno"
 permalink: /FactionAltar/DROP_105/
 excerpt: "Faction Altar for Inferno. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-17
+last_modified_at: 2021-02-18
 lang: en
 ref: "DROP_105.md"
 toc: false
@@ -38,9 +38,9 @@ classes: wide
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
   | 1 | **55%** | **1x** | [ Inferno Limited Edition Pack](/Items/con_1019/) |
-  | 2 | **11%** | **5x** |  14  |
-  | 3 | **11%** | **3x** |  14  |
-  | 4 | **11%** | **5x** |  13  |
+  | 2 | **11%** | **5x** |  **21%** [ Hell Hound](/Items/unt_100/),  **21%** [ Demon](/Items/unt_78/),  **6%** [ Efreeti](/Items/unt_116/),  **21%** [ Pit Fiend](/Items/unt_137/),  **21%** [ Pit Lord Soul Stone](/Items/unt_37/),  **6%** [ Efreet Sultan Soul Stone](/Items/unt_52/),  |
+  | 3 | **11%** | **3x** |  **21%** [ Hell Hound](/Items/unt_100/),  **21%** [ Demon](/Items/unt_78/),  **6%** [ Efreeti](/Items/unt_116/),  **21%** [ Pit Fiend](/Items/unt_137/),  **21%** [ Pit Lord Soul Stone](/Items/unt_37/),  **6%** [ Efreet Sultan Soul Stone](/Items/unt_52/),  |
+  | 4 | **11%** | **5x** |  **30%** [ Imp](/Items/unt_62/),  **30%** [ Gog](/Items/unt_43/),  **9%** [ Familiar Soul Stone](/Items/unt_120/),  **30%** [ Magog Soul Stone](/Items/unt_138/),  |
 
 
 ####  10x SPIN 

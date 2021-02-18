@@ -2,7 +2,7 @@
 title: "Faction Altar for Tower"
 permalink: /FactionAltar/DROP_106/
 excerpt: "Faction Altar for Tower. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-17
+last_modified_at: 2021-02-18
 lang: en
 ref: "DROP_106.md"
 toc: false
@@ -38,9 +38,9 @@ classes: wide
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
   | 1 | **55%** | **1x** | [ Tower Limited Edition Pack](/Items/con_1362/) |
-  | 2 | **11%** | **5x** |  14  |
-  | 3 | **11%** | **3x** |  14  |
-  | 4 | **11%** | **5x** |  13  |
+  | 2 | **11%** | **5x** |  **23%** [ Stone Gargoyle](/Items/unt_139/),  **23%** [ Iron Golem](/Items/unt_118/),  **23%** [ Mage](/Items/unt_21/),  **23%** [ Gold Golem Soul Stone](/Items/unt_56/),  **6%** [ Arch Mage Soul Stone](/Items/unt_73/),  |
+  | 3 | **11%** | **3x** |  **23%** [ Stone Gargoyle](/Items/unt_139/),  **23%** [ Iron Golem](/Items/unt_118/),  **23%** [ Mage](/Items/unt_21/),  **23%** [ Gold Golem Soul Stone](/Items/unt_56/),  **6%** [ Arch Mage Soul Stone](/Items/unt_73/),  |
+  | 4 | **11%** | **5x** |  **100%** [ Gremlin](/Items/unt_81/),  |
 
 
 ####  10x SPIN 

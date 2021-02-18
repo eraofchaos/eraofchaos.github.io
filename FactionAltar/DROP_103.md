@@ -2,7 +2,7 @@
 title: "Faction Altar for Stronghold"
 permalink: /FactionAltar/DROP_103/
 excerpt: "Faction Altar for Stronghold. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-17
+last_modified_at: 2021-02-18
 lang: en
 ref: "DROP_103.md"
 toc: false
@@ -38,9 +38,9 @@ classes: wide
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
   | 1 | **55%** | **1x** | [ Stronghold Limited Edition Pack](/Items/con_1012/) |
-  | 2 | **11%** | **5x** |  14  |
-  | 3 | **11%** | **3x** |  14  |
-  | 4 | **11%** | **5x** |  13  |
+  | 2 | **11%** | **5x** |  **22%** [ Ogre](/Items/unt_57/),  **22%** [ Orc](/Items/unt_10/),  **6%** [ Roc](/Items/unt_40/),  **22%** [ Cyclops](/Items/unt_97/),  **6%** [ Ogre Mage Soul Stone](/Items/unt_117/),  **6%** [ Thunderbird Soul Stone](/Items/unt_136/),  **13%** [ Cyclops King Soul Stone](/Items/unt_6/),  |
+  | 3 | **11%** | **3x** |  **22%** [ Ogre](/Items/unt_57/),  **22%** [ Orc](/Items/unt_10/),  **6%** [ Roc](/Items/unt_40/),  **22%** [ Cyclops](/Items/unt_97/),  **6%** [ Ogre Mage Soul Stone](/Items/unt_117/),  **6%** [ Thunderbird Soul Stone](/Items/unt_136/),  **13%** [ Cyclops King Soul Stone](/Items/unt_6/),  |
+  | 4 | **11%** | **5x** |  **25%** [ Goblin](/Items/unt_26/),  **25%** [ Wolf Rider](/Items/unt_25/),  **25%** [ Hobgoblin Soul Stone](/Items/unt_60/),  **25%** [ Wolf Raider Soul Stone](/Items/unt_79/),  |
 
 
 ####  10x SPIN 

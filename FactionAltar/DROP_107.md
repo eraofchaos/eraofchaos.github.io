@@ -2,7 +2,7 @@
 title: "Faction Altar for Dungeon"
 permalink: /FactionAltar/DROP_107/
 excerpt: "Faction Altar for Dungeon. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-17
+last_modified_at: 2021-02-18
 lang: en
 ref: "DROP_107.md"
 toc: false
@@ -38,9 +38,9 @@ classes: wide
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
   | 1 | **55%** | **1x** | [ Dungeon Limited Edition Pack](/Items/con_1046/) |
-  | 2 | **11%** | **5x** |  14  |
-  | 3 | **11%** | **3x** |  14  |
-  | 4 | **11%** | **5x** |  13  |
+  | 2 | **11%** | **5x** |  **43%** [ Harpy](/Items/unt_9/),  **13%** [ Minotaur](/Items/unt_94/),  **43%** [ Minotaur King Soul Stone](/Items/unt_3/),  |
+  | 3 | **11%** | **3x** |  **43%** [ Harpy](/Items/unt_9/),  **13%** [ Minotaur](/Items/unt_94/),  **43%** [ Minotaur King Soul Stone](/Items/unt_3/),  |
+  | 4 | **11%** | **5x** |  **50%** [ Troglodyte](/Items/unt_23/),  **50%** [ Dark Troglodyte Soul Stone](/Items/unt_76/),  |
 
 
 ####  10x SPIN 
