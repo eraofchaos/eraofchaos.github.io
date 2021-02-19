@@ -3,8 +3,8 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Vidomina showed great promise when she was young, but she was expelled from Bracada when it was discovered that she was using her magic to turn the living into the undead. Her expulsion set her permanently on the path to evil. "
 heroID: 60502
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Vidomina"
 toc: true
 ---

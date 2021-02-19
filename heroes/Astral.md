@@ -3,8 +3,8 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Astral came to Erathia about a decade ago and was quickly accepted by the mage guild of Bracada. After obtaining a high rank in the guild, some joked that he must have used magic to get there so quickly."
 heroID: 61203
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Astral"
 toc: true
 ---

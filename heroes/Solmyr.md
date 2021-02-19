@@ -3,8 +3,8 @@ title: "Solmyr"
 permalink: /heroes/Solmyr/
 excerpt: "Solmyr was trapped in a genie bottle for more than a thousand years. He's eternally grateful to the person who freed him -- Gavin Magnus, the immortal ruler of the Bracada Highlands -- and has pledged everlasting allegiance to him."
 heroID: 61201
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Solmyr"
 toc: true
 ---

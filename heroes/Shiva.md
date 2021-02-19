@@ -3,8 +3,8 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead."
 heroID: 60603
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Shiva"
 toc: true
 ---

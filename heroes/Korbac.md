@@ -3,8 +3,8 @@ title: "Korbac"
 permalink: /heroes/Korbac/
 excerpt: "Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia."
 heroID: 61502
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Korbac"
 toc: true
 ---

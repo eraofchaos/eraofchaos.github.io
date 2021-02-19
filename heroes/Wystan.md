@@ -3,8 +3,8 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Wystan is the eldest son-in-law of King Tralossk and the second successor to the throne. He's been waiting for the day when he ascends to the throne."
 heroID: 61504
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Wystan"
 toc: true
 ---

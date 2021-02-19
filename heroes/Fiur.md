@@ -3,8 +3,8 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Although he's still young and untested for an Elemental, Fiur has unmatched prowess. It's believed that he will eventually become one of the most powerful heroes in Elemental"
 heroID: 60704
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Fiur"
 toc: true
 ---

@@ -3,8 +3,8 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "King Roland was rescued from the Kreegans by a group of warriors. In thanks, he joined the Erathian army as a general. There he met Catherine, and they fought together to resist foreign forces. "
 heroID: 60103
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Roland"
 toc: true
 ---

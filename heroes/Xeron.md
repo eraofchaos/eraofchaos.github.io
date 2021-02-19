@@ -3,8 +3,8 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "When Lucifer Kreegan killed Xenofex and seized power, Xeron was the first to pledge allegiance to the usurper. This act won him the favour of the new king."
 heroID: 60801
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Xeron"
 toc: true
 ---
