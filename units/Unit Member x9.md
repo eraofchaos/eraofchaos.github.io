@@ -1,9 +1,9 @@
 ---
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
-excerpt: "Unit Member x9 - List of Unit Member in Era of Chaos"
-last_modified_at: 2021-02-09
-lang: en
+excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Unit Member x9"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
 title: "Era of Chaos - Unit Rank Commander -  Units"
 permalink: /units/Unit Rank Commander/
-excerpt: "Unit Rank Commander - List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-02-09
-lang: en
+excerpt: "Era of Chaos Unit Rank Commander. Unit Rank Commander. List of Unit Rank in Era of Chaos"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Unit Rank Commander"
 toc: false
 classes: wide

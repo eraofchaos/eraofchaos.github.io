@@ -1,31 +1,31 @@
 ---
 title: "Wyvern"
 permalink: /units/Wyvern/
-excerpt: "Units A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
+excerpt: "Era of Chaos Units. Units. Era of Chaos A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Wyvern"
 toc: true
 ---
 ## General information
  **Description:** A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it.
 
- **Class:** [Offense](/units/Unit Class Offense)
+ **Description:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Fortress](/units/Fraction Fortress)
+ **Faction:** [Fortress](/units/Faction Fortress/)
 
  **Race:** Beast
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Wyvern](/Items/unt_16/)
+ **Unit Soul:** [Wyvern](/Items/unt_16/)
 
  **Short description:** Powerful melee. Toxic
 
@@ -158,7 +158,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
 
 
 ## Awaking

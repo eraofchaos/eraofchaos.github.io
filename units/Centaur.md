@@ -1,31 +1,31 @@
 ---
 title: "Centaur"
 permalink: /units/Centaur/
-excerpt: "Units Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Centaur"
 toc: true
 ---
 ## General information
  **Description:** Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting.
 
- **Class:** [Defense](/units/Unit Class Defense)
+ **Description:** [Defense](/units/Unit Class Defense/)
 
- **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Rampart](/units/Fraction Rampart)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Forest
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [ Centaur](/Items/unt_58/)
+ **Unit Soul:** [Centaur](/Items/unt_58/)
 
  **Unit description:** Battle Stomp: Damages the units closest to it, slowing them down.
 
@@ -163,7 +163,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
 
 
 ## Awaking

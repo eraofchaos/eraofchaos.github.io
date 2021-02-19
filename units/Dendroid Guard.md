@@ -1,31 +1,31 @@
 ---
 title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
-excerpt: "Units Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Dendroid Guard"
 toc: true
 ---
 ## General information
  **Description:** Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies.
 
- **Class:** [Defense](/units/Unit Class Defense)
+ **Description:** [Defense](/units/Unit Class Defense/)
 
- **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Rampart](/units/Fraction Rampart)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Fiend
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Dendroid Guard](/Items/unt_83/)
+ **Unit Soul:** [Dendroid Guard](/Items/unt_83/)
 
  **Unit description:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
 
@@ -163,7 +163,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
 
 
 ## Awaking

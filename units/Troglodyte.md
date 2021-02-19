@@ -1,31 +1,31 @@
 ---
 title: "Troglodyte"
 permalink: /units/Troglodyte/
-excerpt: "Units A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
+excerpt: "Era of Chaos Units. Units. Era of Chaos A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Troglodyte"
 toc: true
 ---
 ## General information
  **Description:** A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding.
 
- **Class:** [Offense](/units/Unit Class Offense)
+ **Description:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon troops
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [ Troglodyte](/Items/unt_23/)
+ **Unit Soul:** [Troglodyte](/Items/unt_23/)
 
  **Unit description:** Spear Array: AoE damage and stunning
 
@@ -158,7 +158,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
 
 
 ## Awaking

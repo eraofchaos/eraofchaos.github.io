@@ -1,9 +1,9 @@
 ---
 title: "Orb of Divinity"
 permalink: /equipment/Orb of Divinity/
-excerpt: "Orb of Divinity"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Orb of Divinity. Orb of Divinity"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Orb of Divinity.md"
 toc: false
 classes: wide
@@ -30,19 +30,19 @@ classes: wide
   |          Grade      | ATK | DEF | Equipment Upgrade | Minimal Level |
   |:--------------------|:---------:|:---------:|:----------------:|:--------------|
   | white | **+3.078** | **+0.255** | - | - |
-  | Green | **+3.591** | **+0.2975** | 1x [ Inferior Ore](/Items/mat_103/) | 1 |
-  | Blue | **+4.104** | **+0.34** | 3x [ Common Ore](/Items/mat_39/) | 1 |
-  | Blue +1 | **+4.617** | **+0.3825** | 1x [ Book of Arms](/Items/mat_32/), 5x [ Good Ore](/Items/mat_78/) | 1 |
-  | Blue +2 | **+5.13** | **+0.425** | 2x [ Book of Arms](/Items/mat_71/), 8x [ Superior Ore](/Items/mat_13/) | 1 |
-  | Purple | **+5.643** | **+0.4675** | 3x [ Book of Arms](/Items/mat_6/), 10x [ Valuable Ore](/Items/mat_55/), 3x [ Superior Wood](/Items/mat_28/) | 33 |
-  | Purple +1 | **+6.156** | **+0.51** | 5x [ Book of Essences](/Items/mat_44/), 15x [ Exceptional Ore](/Items/mat_67/), 5x [ Valuable Wood](/Items/mat_43/) | 38 |
-  | Purple +2 | **+6.669** | **+0.5525** | 8x [ Book of Essences](/Items/mat_84/), 10x [ Rare Ore](/Items/mat_2/), 10x [ Rare Wood](/Items/mat_14/), 5x [ Exceptional Mercury](/Items/mat_91/) | 44 |
-  | Purple +3 | **+7.182** | **+0.595** | 10x [ Book of Essences](/Items/mat_20/), 15x [ Epic Ore](/Items/mat_42/), 15x [ Epic Wood](/Items/mat_57/), 8x [ Rare Mercury](/Items/mat_29/) | 53 |
-  | Orange | **+7.695** | **+0.6375** | 12x [ Book of Essences](/Items/mat_60/), 18x [ Legendary Ore](/Items/mat_81/), 18x [ Legendary Wood](/Items/mat_93/), 10x [ Epic Mercury](/Items/mat_70/) | 60 |
-  | Orange +1 | **+8.208** | **+0.68** | 15x [ Certificate of Legend](/Items/mat_96/), 25x [ Mythical Ore](/Items/mat_23/), 25x [ Mythical Wood](/Items/mat_9/), 12x [ Legendary Mercury](/Items/mat_3/) | 69 |
-  | Orange +2 | **+8.721** | **+0.7225** | 18x [ Certificate of Legend](/Items/mat_25/), 30x [ Eternal Ore](/Items/mat_36/), 30x [ Eternal Wood](/Items/mat_75/), 15x [ Mythical Mercury](/Items/mat_50/) | 75 |
-  | Orange +3 | **+9.234** | **+0.765** | 21x [ Certificate of Legend](/Items/mat_38/), 35x [ Secret Ore](/Items/mat_99/), 35x [ Secret Wood](/Items/mat_87/), 18x [ Eternal Mercury](/Items/mat_62/) | 83 |
-  | Orange +4 | **+9.747** | **+0.8075** | 24x [ Certificate of Legend](/Items/mat_100/), 40x [ Soul Ore](/Items/mat_8/), 40x [ Soul Wood](/Items/mat_49/), 25x [ Secret Mercury](/Items/mat_22/) | 92 |
-  | Orange +5 | **+10.5165** | **+0.87125** | 50x [ Certificate of Legend](/Items/mat_11/), 80x [ Star Ore](/Items/mat_72/), 80x [ Star Wood](/Items/mat_63/), 50x [ Soul Mercury](/Items/mat_34/) | 100 |
-  | Red | **+11.799** | **+0.9775** | 100x [ Legendary Certificate](/Items/mat_76/), 150x [ Radiant Ore](/Items/mat_88/), 150x [ Radiant Wood](/Items/mat_21/), 100x [ Star Mercury](/Items/mat_98/) | 105 |
+  | Green | **+3.591** | **+0.2975** | 1x [Inferior Ore](/Items/mat_103/) | 1 |
+  | Blue | **+4.104** | **+0.34** | 3x [Common Ore](/Items/mat_39/) | 1 |
+  | Blue +1 | **+4.617** | **+0.3825** | 1x [Book of Arms](/Items/mat_32/), 5x [Good Ore](/Items/mat_78/) | 1 |
+  | Blue +2 | **+5.13** | **+0.425** | 2x [Book of Arms](/Items/mat_71/), 8x [Superior Ore](/Items/mat_13/) | 1 |
+  | Purple | **+5.643** | **+0.4675** | 3x [Book of Arms](/Items/mat_6/), 10x [Valuable Ore](/Items/mat_55/), 3x [Superior Wood](/Items/mat_28/) | 33 |
+  | Purple +1 | **+6.156** | **+0.51** | 5x [Book of Essences](/Items/mat_44/), 15x [Exceptional Ore](/Items/mat_67/), 5x [Valuable Wood](/Items/mat_43/) | 38 |
+  | Purple +2 | **+6.669** | **+0.5525** | 8x [Book of Essences](/Items/mat_84/), 10x [Rare Ore](/Items/mat_2/), 10x [Rare Wood](/Items/mat_14/), 5x [Exceptional Mercury](/Items/mat_91/) | 44 |
+  | Purple +3 | **+7.182** | **+0.595** | 10x [Book of Essences](/Items/mat_20/), 15x [Epic Ore](/Items/mat_42/), 15x [Epic Wood](/Items/mat_57/), 8x [Rare Mercury](/Items/mat_29/) | 53 |
+  | Orange | **+7.695** | **+0.6375** | 12x [Book of Essences](/Items/mat_60/), 18x [Legendary Ore](/Items/mat_81/), 18x [Legendary Wood](/Items/mat_93/), 10x [Epic Mercury](/Items/mat_70/) | 60 |
+  | Orange +1 | **+8.208** | **+0.68** | 15x [Certificate of Legend](/Items/mat_96/), 25x [Mythical Ore](/Items/mat_23/), 25x [Mythical Wood](/Items/mat_9/), 12x [Legendary Mercury](/Items/mat_3/) | 69 |
+  | Orange +2 | **+8.721** | **+0.7225** | 18x [Certificate of Legend](/Items/mat_25/), 30x [Eternal Ore](/Items/mat_36/), 30x [Eternal Wood](/Items/mat_75/), 15x [Mythical Mercury](/Items/mat_50/) | 75 |
+  | Orange +3 | **+9.234** | **+0.765** | 21x [Certificate of Legend](/Items/mat_38/), 35x [Secret Ore](/Items/mat_99/), 35x [Secret Wood](/Items/mat_87/), 18x [Eternal Mercury](/Items/mat_62/) | 83 |
+  | Orange +4 | **+9.747** | **+0.8075** | 24x [Certificate of Legend](/Items/mat_100/), 40x [Soul Ore](/Items/mat_8/), 40x [Soul Wood](/Items/mat_49/), 25x [Secret Mercury](/Items/mat_22/) | 92 |
+  | Orange +5 | **+10.5165** | **+0.87125** | 50x [Certificate of Legend](/Items/mat_11/), 80x [Star Ore](/Items/mat_72/), 80x [Star Wood](/Items/mat_63/), 50x [Soul Mercury](/Items/mat_34/) | 100 |
+  | Red | **+11.799** | **+0.9775** | 100x [Legendary Certificate](/Items/mat_76/), 150x [Radiant Ore](/Items/mat_88/), 150x [Radiant Wood](/Items/mat_21/), 100x [Star Mercury](/Items/mat_98/) | 105 |
 

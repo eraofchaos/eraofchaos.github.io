@@ -1,31 +1,31 @@
 ---
 title: "Cavalier"
 permalink: /units/Cavalier/
-excerpt: "Units Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Cavalier"
 toc: true
 ---
 ## General information
  **Description:** Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts.
 
- **Class:** [Charging](/units/Unit Class Charging)
+ **Description:** [Charging](/units/Unit Class Charging/)
 
- **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Castle](/units/Fraction Castle)
+ **Faction:** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [ Cavalier ](/Items/unt_44/)
+ **Unit Soul:** [Cavalier ](/Items/unt_44/)
 
  **Unit description:** Jousting: Deals sizeable damage, causing stun on a first attack.
 
@@ -165,7 +165,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
 
 
 ## Awaking

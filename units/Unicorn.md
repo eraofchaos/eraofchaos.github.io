@@ -1,31 +1,31 @@
 ---
 title: "Unicorn"
 permalink: /units/Unicorn/
-excerpt: "Units The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
+excerpt: "Era of Chaos Units. Units. Era of Chaos The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Unicorn"
 toc: true
 ---
 ## General information
  **Description:** The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants.
 
- **Class:** [Charging](/units/Unit Class Charging)
+ **Description:** [Charging](/units/Unit Class Charging/)
 
- **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Rampart](/units/Fraction Rampart)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Unicorn
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Unicorn](/Items/unt_140/)
+ **Unit Soul:** [Unicorn](/Items/unt_143/)
 
  **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
 
@@ -158,7 +158,7 @@ toc: true
 * Unit Dodge
 * unit DMG Reduction
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
 
 
 ## Awaking

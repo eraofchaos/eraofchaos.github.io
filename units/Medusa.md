@@ -1,31 +1,31 @@
 ---
 title: "Medusa"
 permalink: /units/Medusa/
-excerpt: "Units Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Medusa"
 toc: true
 ---
 ## General information
  **Description:** Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone.
 
- **Class:** [Ranged](/units/Unit Class Ranged)
+ **Description:** [Ranged](/units/Unit Class Ranged/)
 
- **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Evil spirit
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Medusa](/Items/unt_38/)
+ **Unit Soul:** [Medusa](/Items/unt_38/)
 
  **Unit description:** Stone Gaze: Petrifies enemies and decreases their unit's damage reduction
 
@@ -158,7 +158,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
 
 
 ## Awaking

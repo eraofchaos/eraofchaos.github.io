@@ -1,31 +1,31 @@
 ---
 title: "Harpy"
 permalink: /units/Harpy/
-excerpt: "Units The monster is part human and part bird. No one can bear their cloud-piercing screaming."
+excerpt: "Era of Chaos Units. Units. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Harpy"
 toc: true
 ---
 ## General information
  **Description:** The monster is part human and part bird. No one can bear their cloud-piercing screaming.
 
- **Class:** [Charging](/units/Unit Class Charging)
+ **Description:** [Charging](/units/Unit Class Charging/)
 
- **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon troops
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Harpy](/Items/unt_9/)
+ **Unit Soul:** [Harpy](/Items/unt_9/)
 
  **Unit description:** Enchantress' Sharp Claw: It has a chance of causing damage to several enemies
 
@@ -155,7 +155,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
 
 
 ## Awaking

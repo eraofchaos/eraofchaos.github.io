@@ -1,31 +1,31 @@
 ---
 title: "Sea Elemental"
 permalink: /units/Sea Elemental/
-excerpt: "Units Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Sea Elemental"
 toc: true
 ---
 ## General information
  **Description:** Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies.
 
- **Class:** [Caster](/units/Unit Class Caster)
+ **Description:** [Caster](/units/Unit Class Caster/)
 
- **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Cove](/units/Fraction Cove)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** The Underwaters
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [ Sea Elemental](/Items/unt_68/)
+ **Unit Soul:** [Sea Elemental](/Items/unt_68/)
 
  **Short description:** Slow control
 
@@ -160,7 +160,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
 
 
 ## Awaking

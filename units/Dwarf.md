@@ -1,31 +1,31 @@
 ---
 title: "Dwarf"
 permalink: /units/Dwarf/
-excerpt: "Units Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Dwarf"
 toc: true
 ---
 ## General information
  **Description:** Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them.
 
- **Class:** [Defense](/units/Unit Class Defense)
+ **Description:** [Defense](/units/Unit Class Defense/)
 
- **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Rampart](/units/Fraction Rampart)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Forest
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Dwarf](/Items/unt_42/)
+ **Unit Soul:** [Dwarf](/Items/unt_42/)
 
  **Unit description:** Dwarf Howl: Increases friendly unit's max health at the beginning of a battle.
 
@@ -167,7 +167,7 @@ toc: true
 * Defense
 * Magic resistance
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
 
 
 ## Awaking

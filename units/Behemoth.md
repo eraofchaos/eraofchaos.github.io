@@ -1,31 +1,31 @@
 ---
 title: "Behemoth"
 permalink: /units/Behemoth/
-excerpt: "Units Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Behemoth"
 toc: true
 ---
 ## General information
  **Description:** Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks.
 
- **Class:** [Defense](/units/Unit Class Defense)
+ **Description:** [Defense](/units/Unit Class Defense/)
 
- **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Stronghold](/units/Fraction Stronghold)
+ **Faction:** [Stronghold](/units/Faction Stronghold/)
 
  **Race:** Unicorn
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Behemoth](/Items/unt_75/)
+ **Unit Soul:** [Behemoth](/Items/unt_75/)
 
  **Unit description:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
 
@@ -166,7 +166,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
 
 
 ## Awaking

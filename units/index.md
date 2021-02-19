@@ -1,14 +1,14 @@
 ---
 title: "Era of Chaos - List of Units"
 permalink: /units/
-excerpt: "List of ALL Units in Era of Chaos"
-last_modified_at: 2021-02-09
-lang: en
+excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
+last_modified_at: 2021-02-19
+locale: en
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Faction: [Conflux](/units/Fraction Conflux){: .btn .btn--primary} [Inferno](/units/Fraction Inferno){: .btn .btn--success} [Dungeon](/units/Fraction Dungeon){: .btn .btn--warning} [Fortress](/units/Fraction Fortress){: .btn .btn--danger} [Rampart](/units/Fraction Rampart){: .btn .btn--info} [Castle](/units/Fraction Castle){: .btn .btn--primary} [Tower](/units/Fraction Tower){: .btn .btn--success} [Stronghold](/units/Fraction Stronghold){: .btn .btn--warning} [Cove](/units/Fraction Cove){: .btn .btn--danger} [Neutral Army](/units/Fraction Neutral Army){: .btn .btn--info} [Necropolis](/units/Fraction Necropolis){: .btn .btn--primary} 
+  by Faction: [Conflux](/units/Faction Conflux){: .btn .btn--primary} [Inferno](/units/Faction Inferno){: .btn .btn--success} [Dungeon](/units/Faction Dungeon){: .btn .btn--warning} [Fortress](/units/Faction Fortress){: .btn .btn--danger} [Rampart](/units/Faction Rampart){: .btn .btn--info} [Castle](/units/Faction Castle){: .btn .btn--primary} [Tower](/units/Faction Tower){: .btn .btn--success} [Stronghold](/units/Faction Stronghold){: .btn .btn--warning} [Cove](/units/Faction Cove){: .btn .btn--danger} [Neutral Army](/units/Faction Neutral Army){: .btn .btn--info} [Necropolis](/units/Faction Necropolis){: .btn .btn--primary} 
 
   by Class: [Ranged](/units/Unit Class Ranged){: .btn .btn--primary} [Charging](/units/Unit Class Charging){: .btn .btn--success} [Caster](/units/Unit Class Caster){: .btn .btn--warning} [Offense](/units/Unit Class Offense){: .btn .btn--danger} [Defense](/units/Unit Class Defense){: .btn .btn--info} 
 

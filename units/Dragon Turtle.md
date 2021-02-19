@@ -1,31 +1,31 @@
 ---
 title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
-excerpt: "Units Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Dragon Turtle"
 toc: true
 ---
 ## General information
  **Description:** Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea.
 
- **Class:** [Defense](/units/Unit Class Defense)
+ **Description:** [Defense](/units/Unit Class Defense/)
 
- **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Cove](/units/Fraction Cove)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** The Underwaters
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Dragon Turtle](/Items/unt_89/)
+ **Unit Soul:** [Dragon Turtle](/Items/unt_89/)
 
  **Short description:** Tank. Regens HP
 
@@ -155,7 +155,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
 
 
 ## Awaking

@@ -1,31 +1,31 @@
 ---
 title: "Wood Elf"
 permalink: /units/Wood Elf/
-excerpt: "Units The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
+excerpt: "Era of Chaos Units. Units. Era of Chaos The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Wood Elf"
 toc: true
 ---
 ## General information
  **Description:** The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows.
 
- **Class:** [Ranged](/units/Unit Class Ranged)
+ **Description:** [Ranged](/units/Unit Class Ranged/)
 
- **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Rampart](/units/Fraction Rampart)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Forest
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Wood Elf](/Items/unt_101/)
+ **Unit Soul:** [Wood Elf](/Items/unt_101/)
 
  **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 
@@ -162,7 +162,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
 
 
 ## Awaking

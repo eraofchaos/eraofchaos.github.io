@@ -1,31 +1,31 @@
 ---
 title: "Hell Hound"
 permalink: /units/Hell Hound/
-excerpt: "Units Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Hell Hound"
 toc: true
 ---
 ## General information
  **Description:** Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake.
 
- **Class:** [Charging](/units/Unit Class Charging)
+ **Description:** [Charging](/units/Unit Class Charging/)
 
- **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Inferno](/units/Fraction Inferno)
+ **Faction:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Beast
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Hell Hound](/Items/unt_100/)
+ **Unit Soul:** [Hell Hound](/Items/unt_100/)
 
  **Unit description:** Rampage: Each hit is critical attack for a short period.
 
@@ -161,7 +161,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
 
 
 ## Awaking

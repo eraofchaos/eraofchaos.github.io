@@ -1,31 +1,31 @@
 ---
 title: "Black Knight"
 permalink: /units/Black Knight/
-excerpt: "Units Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Black Knight"
 toc: true
 ---
 ## General information
  **Description:** Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path.
 
- **Class:** [Charging](/units/Unit Class Charging)
+ **Description:** [Charging](/units/Unit Class Charging/)
 
- **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Necropolis](/units/Fraction Necropolis)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Undead
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Black Knight](/Items/unt_14/)
+ **Unit Soul:** [Black Knight](/Items/unt_14/)
 
  **Unit description:** Critical Strike: Deals colossal damage and causes low morale.
 
@@ -166,7 +166,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
 
 
 ## Awaking

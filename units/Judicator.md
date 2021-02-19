@@ -1,31 +1,31 @@
 ---
 title: "Judicator"
 permalink: /units/Judicator/
-excerpt: "Units Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Judicator"
 toc: true
 ---
 ## General information
  **Description:** Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need.
 
- **Class:** [Caster](/units/Unit Class Caster)
+ **Description:** [Caster](/units/Unit Class Caster/)
 
- **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Castle](/units/Fraction Castle)
+ **Faction:** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [Commander](/units/Unit Rank Commander)
+ **Rank:** [Commander](/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Judicator](/Items/unt_142/)
+ **Unit Soul:** [Judicator](/Items/unt_145/)
 
  **Short description:** Halo assistance, range expanded
 
@@ -161,7 +161,7 @@ toc: true
 * Healing
 * unit Damage
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
 
 
 ## Awaking

@@ -1,31 +1,31 @@
 ---
 title: "Marksman"
 permalink: /units/Marksman/
-excerpt: "Units Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Marksman"
 toc: true
 ---
 ## General information
  **Description:** Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies.
 
- **Class:** [Ranged](/units/Unit Class Ranged)
+ **Description:** [Ranged](/units/Unit Class Ranged/)
 
- **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Castle](/units/Fraction Castle)
+ **Faction:** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [ Marksman](/Items/unt_24/)
+ **Unit Soul:** [Marksman](/Items/unt_24/)
 
  **Unit description:** Explosive Arrow: Deals sizeable damage to enemy units.
 
@@ -163,7 +163,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
 
 
 ## Awaking

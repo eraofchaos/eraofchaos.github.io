@@ -1,31 +1,31 @@
 ---
 title: "Red Dragon"
 permalink: /units/Red Dragon/
-excerpt: "Units It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
+excerpt: "Era of Chaos Units. Units. Era of Chaos It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Red Dragon"
 toc: true
 ---
 ## General information
  **Description:** It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity.
 
- **Class:** [Offense](/units/Unit Class Offense)
+ **Description:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dragon
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Red Dragon](/Items/unt_110/)
+ **Unit Soul:** [Red Dragon](/Items/unt_111/)
 
  **Short description:** Dragon overlord with strong roar
 
@@ -166,7 +166,7 @@ toc: true
 * unit Damage
 * Unit Critical Hit
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
 
 
 ## Awaking

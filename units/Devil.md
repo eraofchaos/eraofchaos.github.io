@@ -1,31 +1,31 @@
 ---
 title: "Devil"
 permalink: /units/Devil/
-excerpt: "Units The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
+excerpt: "Era of Chaos Units. Units. Era of Chaos The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Devil"
 toc: true
 ---
 ## General information
  **Description:** The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row
 
- **Class:** [Offense](/units/Unit Class Offense)
+ **Description:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Inferno](/units/Fraction Inferno)
+ **Faction:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniac
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Devil](/Items/unt_19/)
+ **Unit Soul:** [Devil](/Items/unt_19/)
 
  **Unit description:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
 
@@ -163,7 +163,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
 
 
 ## Awaking

@@ -1,31 +1,31 @@
 ---
 title: "Monk"
 permalink: /units/Monk/
-excerpt: "Units Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Monk"
 toc: true
 ---
 ## General information
  **Description:** Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield.
 
- **Class:** [Caster](/units/Unit Class Caster)
+ **Description:** [Caster](/units/Unit Class Caster/)
 
- **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Castle](/units/Fraction Castle)
+ **Faction:** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [ Monk](/Items/unt_63/)
+ **Unit Soul:** [Monk](/Items/unt_63/)
 
  **Unit description:** Prayer: Heals the unit in your army with the lowest health.
 
@@ -159,7 +159,7 @@ toc: true
 * Healing
 * Magic resistance
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
 
 
 ## Awaking

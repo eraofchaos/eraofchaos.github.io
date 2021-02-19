@@ -1,31 +1,31 @@
 ---
 title: "Pit Fiend"
 permalink: /units/Pit Fiend/
-excerpt: "Units Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Pit Fiend"
 toc: true
 ---
 ## General information
  **Description:** Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed.
 
- **Class:** [Offense](/units/Unit Class Offense)
+ **Description:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Inferno](/units/Fraction Inferno)
+ **Faction:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniac
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Pit Fiend](/Items/unt_134/)
+ **Unit Soul:** [Pit Fiend](/Items/unt_137/)
 
  **Unit description:** Fire Spring: Continuously heals friendly units in its path
 
@@ -162,7 +162,7 @@ toc: true
 * Healing
 * unit Damage
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
 
 
 ## Awaking

@@ -1,9 +1,9 @@
 ---
 title: "Heavy Helm of Pre-life"
 permalink: /equipment/Heavy Helm of Pre-life/
-excerpt: "Heavy Helm of Pre-life"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Heavy Helm of Pre-life. Heavy Helm of Pre-life"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Heavy Helm of Pre-life.md"
 toc: false
 classes: wide
@@ -30,19 +30,19 @@ classes: wide
   |          Grade      | HP | DEF | Equipment Upgrade | Minimal Level |
   |:--------------------|:---------:|:---------:|:----------------:|:--------------|
   | white | **+285.12** | **+0.4125** | - | - |
-  | Green | **+332.64** | **+0.48125** | 1x [ Inferior Wood](/Items/mat_12/) | 1 |
-  | Blue | **+380.16** | **+0.55** | 3x [ Common Wood](/Items/mat_53/) | 1 |
-  | Blue +1 | **+427.68** | **+0.61875** | 1x [ Book of Arms](/Items/mat_32/), 5x [ Good Wood](/Items/mat_90/) | 1 |
-  | Blue +2 | **+475.2** | **+0.6875** | 2x [ Book of Arms](/Items/mat_71/), 8x [ Superior Wood](/Items/mat_28/) | 1 |
-  | Purple | **+522.72** | **+0.75625** | 3x [ Book of Arms](/Items/mat_6/), 10x [ Valuable Wood](/Items/mat_43/), 3x [ Superior Mercury](/Items/mat_15/) | 34 |
-  | Purple +1 | **+570.24** | **+0.825** | 5x [ Book of Essences](/Items/mat_44/), 15x [ Exceptional Wood](/Items/mat_82/), 5x [ Valuable Mercury](/Items/mat_58/) | 39 |
-  | Purple +2 | **+617.76** | **+0.89375** | 8x [ Book of Essences](/Items/mat_84/), 10x [ Rare Wood](/Items/mat_14/), 10x [ Rare Mercury](/Items/mat_29/), 5x [ Exceptional Sulfur](/Items/mat_1/) | 46 |
-  | Purple +3 | **+665.28** | **+0.9625** | 10x [ Book of Essences](/Items/mat_20/), 15x [ Epic Wood](/Items/mat_57/), 15x [ Epic Mercury](/Items/mat_70/), 8x [ Rare Sulfur](/Items/mat_46/) | 52 |
-  | Orange | **+712.8** | **+1.03125** | 12x [ Book of Essences](/Items/mat_60/), 18x [ Legendary Wood](/Items/mat_93/), 18x [ Legendary Mercury](/Items/mat_3/), 10x [ Epic Sulfur](/Items/mat_83/) | 61 |
-  | Orange +1 | **+760.32** | **+1.1** | 15x [ Certificate of Legend](/Items/mat_96/), 25x [ Mythical Wood](/Items/mat_9/), 25x [ Mythical Mercury](/Items/mat_50/), 12x [ Legendary Sulfur](/Items/mat_18/) | 70 |
-  | Orange +2 | **+807.84** | **+1.16875** | 18x [ Certificate of Legend](/Items/mat_25/), 30x [ Eternal Wood](/Items/mat_75/), 30x [ Eternal Mercury](/Items/mat_62/), 15x [ Mythical Sulfur](/Items/mat_35/) | 76 |
-  | Orange +3 | **+855.36** | **+1.2375** | 21x [ Certificate of Legend](/Items/mat_38/), 35x [ Secret Wood](/Items/mat_87/), 35x [ Secret Mercury](/Items/mat_22/), 18x [ Eternal Sulfur](/Items/mat_97/) | 85 |
-  | Orange +4 | **+902.88** | **+1.30625** | 24x [ Certificate of Legend](/Items/mat_100/), 40x [ Soul Wood](/Items/mat_49/), 40x [ Soul Mercury](/Items/mat_34/), 25x [ Secret Sulfur](/Items/mat_7/) | 92 |
-  | Orange +5 | **+974.16** | **+1.409375** | 50x [ Certificate of Legend](/Items/mat_11/), 80x [ Star Wood](/Items/mat_63/), 80x [ Star Mercury](/Items/mat_98/), 50x [ Soul Sulfur](/Items/mat_73/) | 100 |
-  | Red | **+1092.96** | **+1.58125** | 100x [ Legendary Certificate](/Items/mat_76/), 150x [ Radiant Wood](/Items/mat_21/), 150x [ Radiant Mercury](/Items/mat_24/), 100x [ Star Sulfur](/Items/mat_101/) | 105 |
+  | Green | **+332.64** | **+0.48125** | 1x [Inferior Wood](/Items/mat_12/) | 1 |
+  | Blue | **+380.16** | **+0.55** | 3x [Common Wood](/Items/mat_53/) | 1 |
+  | Blue +1 | **+427.68** | **+0.61875** | 1x [Book of Arms](/Items/mat_32/), 5x [Good Wood](/Items/mat_90/) | 1 |
+  | Blue +2 | **+475.2** | **+0.6875** | 2x [Book of Arms](/Items/mat_71/), 8x [Superior Wood](/Items/mat_28/) | 1 |
+  | Purple | **+522.72** | **+0.75625** | 3x [Book of Arms](/Items/mat_6/), 10x [Valuable Wood](/Items/mat_43/), 3x [Superior Mercury](/Items/mat_15/) | 34 |
+  | Purple +1 | **+570.24** | **+0.825** | 5x [Book of Essences](/Items/mat_44/), 15x [Exceptional Wood](/Items/mat_82/), 5x [Valuable Mercury](/Items/mat_58/) | 39 |
+  | Purple +2 | **+617.76** | **+0.89375** | 8x [Book of Essences](/Items/mat_84/), 10x [Rare Wood](/Items/mat_14/), 10x [Rare Mercury](/Items/mat_29/), 5x [Exceptional Sulfur](/Items/mat_1/) | 46 |
+  | Purple +3 | **+665.28** | **+0.9625** | 10x [Book of Essences](/Items/mat_20/), 15x [Epic Wood](/Items/mat_57/), 15x [Epic Mercury](/Items/mat_70/), 8x [Rare Sulfur](/Items/mat_46/) | 52 |
+  | Orange | **+712.8** | **+1.03125** | 12x [Book of Essences](/Items/mat_60/), 18x [Legendary Wood](/Items/mat_93/), 18x [Legendary Mercury](/Items/mat_3/), 10x [Epic Sulfur](/Items/mat_83/) | 61 |
+  | Orange +1 | **+760.32** | **+1.1** | 15x [Certificate of Legend](/Items/mat_96/), 25x [Mythical Wood](/Items/mat_9/), 25x [Mythical Mercury](/Items/mat_50/), 12x [Legendary Sulfur](/Items/mat_18/) | 70 |
+  | Orange +2 | **+807.84** | **+1.16875** | 18x [Certificate of Legend](/Items/mat_25/), 30x [Eternal Wood](/Items/mat_75/), 30x [Eternal Mercury](/Items/mat_62/), 15x [Mythical Sulfur](/Items/mat_35/) | 76 |
+  | Orange +3 | **+855.36** | **+1.2375** | 21x [Certificate of Legend](/Items/mat_38/), 35x [Secret Wood](/Items/mat_87/), 35x [Secret Mercury](/Items/mat_22/), 18x [Eternal Sulfur](/Items/mat_97/) | 85 |
+  | Orange +4 | **+902.88** | **+1.30625** | 24x [Certificate of Legend](/Items/mat_100/), 40x [Soul Wood](/Items/mat_49/), 40x [Soul Mercury](/Items/mat_34/), 25x [Secret Sulfur](/Items/mat_7/) | 92 |
+  | Orange +5 | **+974.16** | **+1.409375** | 50x [Certificate of Legend](/Items/mat_11/), 80x [Star Wood](/Items/mat_63/), 80x [Star Mercury](/Items/mat_98/), 50x [Soul Sulfur](/Items/mat_73/) | 100 |
+  | Red | **+1092.96** | **+1.58125** | 100x [Legendary Certificate](/Items/mat_76/), 150x [Radiant Wood](/Items/mat_21/), 150x [Radiant Mercury](/Items/mat_24/), 100x [Star Sulfur](/Items/mat_101/) | 105 |
 

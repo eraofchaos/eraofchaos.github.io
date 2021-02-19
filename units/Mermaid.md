@@ -1,31 +1,31 @@
 ---
 title: "Mermaid"
 permalink: /units/Mermaid/
-excerpt: "Units The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
+excerpt: "Era of Chaos Units. Units. Era of Chaos The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Mermaid"
 toc: true
 ---
 ## General information
  **Description:** The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean.
 
- **Class:** [Caster](/units/Unit Class Caster)
+ **Description:** [Caster](/units/Unit Class Caster/)
 
- **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Cove](/units/Fraction Cove)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** The Underwaters
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Mermaid](/Items/unt_107/)
+ **Unit Soul:** [Mermaid](/Items/unt_107/)
 
  **Short description:** Group heals. strong buffs
 
@@ -158,7 +158,7 @@ toc: true
 * Attack Speed
 * Healing
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
 
 
 ## Awaking

@@ -1,31 +1,31 @@
 ---
 title: "Gnoll"
 permalink: /units/Gnoll/
-excerpt: "Units A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
+excerpt: "Era of Chaos Units. Units. Era of Chaos A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Gnoll"
 toc: true
 ---
 ## General information
  **Description:** A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey.
 
- **Class:** [Offense](/units/Unit Class Offense)
+ **Description:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Fortress](/units/Fraction Fortress)
+ **Faction:** [Fortress](/units/Faction Fortress/)
 
  **Race:** Beast Master
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [ Gnoll](/Items/unt_41/)
+ **Unit Soul:** [Gnoll](/Items/unt_41/)
 
  **Short description:** Melee DPS. Stuns
 
@@ -161,7 +161,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
 
 
 ## Awaking

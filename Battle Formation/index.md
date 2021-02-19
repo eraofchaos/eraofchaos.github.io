@@ -2,8 +2,8 @@
 title: "Battle Formation "
 permalink: /Battle Formation/
 excerpt: "Battle Formation.Each faction has distinct potentials and energy. Light up the exclusive Battle Formation to activate your latent power."
-last_modified_at: 2020-12-26
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "index.md"
 toc: false
 classes: wide
@@ -16,9 +16,9 @@ classes: wide
 **Info** You can find this feature under **Arsenal** -> **Battle Formation** 
 {: .notice--danger}
 
-## Battle Formation by Fractions: 
+## Battle Formation by Factions: 
 
-  [Castle](/Battle Formation/Battle Formation Fraction Castle){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Fraction Rampart){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Fraction Stronghold){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Fraction Necropolis){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Fraction Inferno){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Fraction Tower){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Fraction Dungeon){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Fraction Fortress){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Fraction Conflux){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Fraction Cove){: .btn .btn--info} 
+  [Castle](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
 ## Rules
 

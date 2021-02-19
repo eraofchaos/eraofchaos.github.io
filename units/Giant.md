@@ -1,31 +1,31 @@
 ---
 title: "Giant"
 permalink: /units/Giant/
-excerpt: "Units These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
+excerpt: "Era of Chaos Units. Units. Era of Chaos These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Giant"
 toc: true
 ---
 ## General information
  **Description:** These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world.
 
- **Class:** [Caster](/units/Unit Class Caster)
+ **Description:** [Caster](/units/Unit Class Caster/)
 
- **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Tower](/units/Fraction Tower)
+ **Faction:** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Giant ](/Items/unt_36/)
+ **Unit Soul:** [Giant ](/Items/unt_36/)
 
  **Unit description:** God of War: Ignores range and deals HP percentage damage
 
@@ -157,7 +157,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [ Caster Talent Potion](/Items/con_825/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
 
 
 ## Awaking

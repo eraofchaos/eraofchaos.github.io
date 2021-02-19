@@ -1,9 +1,9 @@
 ---
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
-excerpt: "Harbour Shop"
-last_modified_at: 2021-01-26
-lang: en
+excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
+last_modified_at: 2021-02-19
+locale: en
 ref: "index.md"
 toc: false
 classes: wide

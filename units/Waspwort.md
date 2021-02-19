@@ -1,31 +1,31 @@
 ---
 title: "Waspwort"
 permalink: /units/Waspwort/
-excerpt: "Units A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
+excerpt: "Era of Chaos Units. Units. Era of Chaos A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Waspwort"
 toc: true
 ---
 ## General information
  **Description:** A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare.
 
- **Class:** [Ranged](/units/Unit Class Ranged)
+ **Description:** [Ranged](/units/Unit Class Ranged/)
 
- **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Fortress](/units/Fraction Fortress)
+ **Faction:** [Fortress](/units/Faction Fortress/)
 
  **Race:** Beast
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Waspwort](/Items/unt_49/)
+ **Unit Soul:** [Waspwort](/Items/unt_49/)
 
  **Short description:** DPS & control
 
@@ -162,7 +162,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
 
 
 ## Awaking

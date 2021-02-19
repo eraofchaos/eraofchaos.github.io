@@ -1,19 +1,19 @@
 ---
 title: "Battle Formation Cove"
-permalink: /Battle Formation/Battle Formation Fraction Cove
+permalink: /Battle Formation/Battle Formation Faction Cove
 excerpt: "Battle Formation Cove"
-last_modified_at: 2020-12-26
-lang: en
-ref: "BattleFormationFractionCove"
+last_modified_at: 2021-02-19
+locale: en
+ref: "BattleFormationFactionCove"
 toc: false
 classes: wide
 ---
-**Warning** This fraction comes with game update 24.11.2020.
+**Warning** This Faction comes with game update 24.11.2020.
 {: .notice--danger}
 
- [Castle](/Battle Formation/Battle Formation Fraction Castle){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Fraction Rampart){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Fraction Stronghold){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Fraction Necropolis){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Fraction Inferno){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Fraction Tower){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Fraction Dungeon){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Fraction Fortress){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Fraction Conflux){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Fraction Cove){: .btn .btn--info} 
+ [Castle](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
-  **Fraction:** [Cove](/units/Fraction Cove)
+  **Fraction:** [Cove](/units/Faction Cove)
 
   **Description:** I am a Man of Fortune, and I must seek my fortune
 

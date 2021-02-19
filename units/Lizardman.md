@@ -1,31 +1,31 @@
 ---
 title: "Lizardman"
 permalink: /units/Lizardman/
-excerpt: "Units The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
+excerpt: "Era of Chaos Units. Units. Era of Chaos The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Lizardman"
 toc: true
 ---
 ## General information
  **Description:** The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at.
 
- **Class:** [Ranged](/units/Unit Class Ranged)
+ **Description:** [Ranged](/units/Unit Class Ranged/)
 
- **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Fortress](/units/Fraction Fortress)
+ **Faction:** [Fortress](/units/Faction Fortress/)
 
  **Race:** Beast Master
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Lizardman](/Items/unt_96/)
+ **Unit Soul:** [Lizardman](/Items/unt_96/)
 
  **Short description:** Strong DPS
 
@@ -161,7 +161,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
 
 
 ## Awaking

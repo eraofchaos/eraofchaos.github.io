@@ -1,31 +1,31 @@
 ---
 title: "Minotaur"
 permalink: /units/Minotaur/
-excerpt: "Units A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
+excerpt: "Era of Chaos Units. Units. Era of Chaos A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Minotaur"
 toc: true
 ---
 ## General information
  **Description:** A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces.
 
- **Class:** [Defense](/units/Unit Class Defense)
+ **Description:** [Defense](/units/Unit Class Defense/)
 
- **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Dungeon](/units/Fraction Dungeon)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon troops
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Minotaur](/Items/unt_94/)
+ **Unit Soul:** [Minotaur](/Items/unt_94/)
 
  **Unit description:** Whirlwind: Causes AoE attack and decreases ATK speed
 
@@ -159,7 +159,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
 
 
 ## Awaking

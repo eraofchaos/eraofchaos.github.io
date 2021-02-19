@@ -1,31 +1,31 @@
 ---
 title: "Assassin"
 permalink: /units/Assassin/
-excerpt: "Units We work in the dark to serve the light. Nothing is true, everything is permitted."
+excerpt: "Era of Chaos Units. Units. Era of Chaos We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Assassin"
 toc: true
 ---
 ## General information
  **Description:** We work in the dark to serve the light. Nothing is true, everything is permitted.
 
- **Class:** [Charging](/units/Unit Class Charging)
+ **Description:** [Charging](/units/Unit Class Charging/)
 
- **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Neutral Army](/units/Fraction Neutral Army)
+ **Faction:** [Neutral Army](/units/Faction Neutral Army/)
 
  **Race:** Assassin Guild
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Assassin](/Items/unt_67/)
+ **Unit Soul:** [Assassin](/Items/unt_67/)
 
  **Short description:** Assassination damage. Weakens healing.
 
@@ -161,7 +161,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [ Charging Talent Potion](/Items/con_775/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
 
 
 ## Awaking

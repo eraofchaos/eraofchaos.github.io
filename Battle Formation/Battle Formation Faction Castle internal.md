@@ -1,19 +1,19 @@
 ---
 title: "Battle Formation Castle"
-permalink: /Battle Formation/Battle Formation Fraction Castle internal
+permalink: /Battle Formation/Battle Formation Faction Castle internal
 excerpt: "Battle Formation Castle"
-last_modified_at: 2020-12-26
-lang: en
-ref: "BattleFormationFractionCastle"
+last_modified_at: 2021-02-19
+locale: en
+ref: "BattleFormationFactionCastle"
 toc: false
 classes: wide
 ---
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 {: .notice--danger}
 
- [Castle](/Battle Formation/Battle Formation Fraction Castle internal){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Fraction Rampart internal){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Fraction Stronghold internal){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Fraction Necropolis internal){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Fraction Inferno internal){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Fraction Tower internal){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Fraction Dungeon internal){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Fraction Fortress internal){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Fraction Conflux internal){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Fraction Cove internal){: .btn .btn--info} 
+ [Castle](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
 
-  **Fraction:** [Castle](/units/Fraction Castle)
+  **Fraction:** [Castle](/units/Faction Castle)
 
   **Description:** For honour, order and for duty.
 

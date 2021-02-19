@@ -1,9 +1,9 @@
 ---
 title: "Era of Chaos - Fraction Necropolis -  Units"
 permalink: /units/Fraction Necropolis/
-excerpt: "Fraction Necropolis - List of Fraction in Era of Chaos"
-last_modified_at: 2021-02-09
-lang: en
+excerpt: "Era of Chaos Fraction Necropolis. Fraction Necropolis. List of Fraction in Era of Chaos"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Fraction Necropolis"
 toc: false
 classes: wide

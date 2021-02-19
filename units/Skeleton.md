@@ -1,31 +1,31 @@
 ---
 title: "Skeleton"
 permalink: /units/Skeleton/
-excerpt: "Units These fragile bones may seem useless but they quickly lower the morale of their enemies."
+excerpt: "Era of Chaos Units. Units. Era of Chaos These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Skeleton"
 toc: true
 ---
 ## General information
  **Description:** These fragile bones may seem useless but they quickly lower the morale of their enemies.
 
- **Class:** [Defense](/units/Unit Class Defense)
+ **Description:** [Defense](/units/Unit Class Defense/)
 
- **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Necropolis](/units/Fraction Necropolis)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Undead
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [ Skeleton](/Items/unt_80/)
+ **Unit Soul:** [Skeleton](/Items/unt_80/)
 
  **Unit description:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
 
@@ -163,7 +163,7 @@ toc: true
 * Defense
 * Magic resistance
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
 
 
 ## Awaking

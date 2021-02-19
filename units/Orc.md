@@ -1,31 +1,31 @@
 ---
 title: "Orc"
 permalink: /units/Orc/
-excerpt: "Units No one knows where Orcs hide their axes and they seem to have endless axes to throw."
+excerpt: "Era of Chaos Units. Units. Era of Chaos No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Orc"
 toc: true
 ---
 ## General information
  **Description:** No one knows where Orcs hide their axes and they seem to have endless axes to throw.
 
- **Class:** [Ranged](/units/Unit Class Ranged)
+ **Description:** [Ranged](/units/Unit Class Ranged/)
 
- **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Stronghold](/units/Fraction Stronghold)
+ **Faction:** [Stronghold](/units/Faction Stronghold/)
 
  **Race:** Orc
 
- **Members:** [x4](/units/Unit Member x4)
+ **Members:** [x4](/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Orc](/Items/unt_10/)
+ **Unit Soul:** [Orc](/Items/unt_10/)
 
  **Unit description:** Execution: Deals extra damage to enemies with health lower than 30%.
 
@@ -166,7 +166,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [ Ranged Talent Potion](/Items/con_848/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
 
 
 ## Awaking

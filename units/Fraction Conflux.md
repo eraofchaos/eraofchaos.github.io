@@ -1,9 +1,9 @@
 ---
 title: "Era of Chaos - Fraction Conflux -  Units"
 permalink: /units/Fraction Conflux/
-excerpt: "Fraction Conflux - List of Fraction in Era of Chaos"
-last_modified_at: 2021-02-09
-lang: en
+excerpt: "Era of Chaos Fraction Conflux. Fraction Conflux. List of Fraction in Era of Chaos"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Fraction Conflux"
 toc: false
 classes: wide

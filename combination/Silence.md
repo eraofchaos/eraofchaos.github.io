@@ -2,8 +2,8 @@
 title: "Combination Info for Silence"
 permalink: /combination/Silence/
 excerpt: "Combination Info - Silence. Units and Heroes Formation."
-last_modified_at: 2021-02-02
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Silence.md"
 toc: false
 classes: wide

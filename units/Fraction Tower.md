@@ -1,9 +1,9 @@
 ---
 title: "Era of Chaos - Fraction Tower -  Units"
 permalink: /units/Fraction Tower/
-excerpt: "Fraction Tower - List of Fraction in Era of Chaos"
-last_modified_at: 2021-02-09
-lang: en
+excerpt: "Era of Chaos Fraction Tower. Fraction Tower. List of Fraction in Era of Chaos"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Fraction Tower"
 toc: false
 classes: wide

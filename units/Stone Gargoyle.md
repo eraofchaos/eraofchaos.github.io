@@ -1,31 +1,31 @@
 ---
 title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
-excerpt: "Units These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
+excerpt: "Era of Chaos Units. Units. Era of Chaos These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Stone Gargoyle"
 toc: true
 ---
 ## General information
  **Description:** These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle.
 
- **Class:** [Offense](/units/Unit Class Offense)
+ **Description:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Tower](/units/Fraction Tower)
+ **Faction:** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR)
+ **Rank:** [SR](/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [ Stone Gargoyle](/Items/unt_136/)
+ **Unit Soul:** [Stone Gargoyle](/Items/unt_139/)
 
  **Unit description:** Stone Form: Increases ATK and ATK speed
 
@@ -164,7 +164,7 @@ toc: true
 * Unit Dodge
 * Magic resistance
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
 
 
 ## Awaking

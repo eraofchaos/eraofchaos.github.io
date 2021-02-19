@@ -1,31 +1,31 @@
 ---
 title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
-excerpt: "Units Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
+excerpt: "Era of Chaos Units. Units. Era of Chaos Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Spartan Warriors"
 toc: true
 ---
 ## General information
  **Description:** Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!
 
- **Class:** [Offense](/units/Unit Class Offense)
+ **Description:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Neutral Army](/units/Fraction Neutral Army)
+ **Faction:** [Neutral Army](/units/Faction Neutral Army/)
 
  **Race:** Assassin Guild
 
- **Members:** [x1](/units/Unit Member x1)
+ **Members:** [x1](/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR)
+ **Rank:** [SSR](/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [ Spartan Warriors](/Items/unt_88/)
+ **Unit Soul:** [Spartan Warriors](/Items/unt_88/)
 
  **Short description:** Shield stuns. Death inspires.
 
@@ -159,7 +159,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [ Offensive Talent Potion](/Items/con_736/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
 
 
 ## Awaking

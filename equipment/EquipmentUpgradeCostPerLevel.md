@@ -1,9 +1,9 @@
 ---
 title: "Equipment Upgrade Gold Cost Per Level"
 permalink: /equipment/EquipmentUpgradeCostPerLevel/
-excerpt: "Equipment Upgrade Gold Cost Per Level"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Equipment Upgrade Gold Cost Per Level. Equipment Upgrade Gold Cost Per Level"
+last_modified_at: 2021-02-19
+locale: en
 ref: "EquipmentUpgradeCostPerLevel.md"
 toc: false
 classes: wide

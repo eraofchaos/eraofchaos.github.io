@@ -1,31 +1,31 @@
 ---
 title: "Imp"
 permalink: /units/Imp/
-excerpt: "Units Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
+excerpt: "Era of Chaos Units. Units. Era of Chaos Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-02-09
-lang: en
+last_modified_at: 2021-02-19
+locale: en
 ref: "Imp"
 toc: true
 ---
 ## General information
  **Description:** Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles.
 
- **Class:** [Defense](/units/Unit Class Defense)
+ **Description:** [Defense](/units/Unit Class Defense/)
 
- **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Inferno](/units/Fraction Inferno)
+ **Faction:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniac
 
- **Members:** [x9](/units/Unit Member x9)
+ **Members:** [x9](/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R)
+ **Rank:** [R](/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1)
+ **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [ Imp](/Items/unt_62/)
+ **Unit Soul:** [Imp](/Items/unt_62/)
 
  **Unit description:** Impulse: Unit has a chance to revive with full health after death.
 
@@ -162,7 +162,7 @@ toc: true
 * Unit Dodge
 * Magic resistance
 
- **Talent Enhance:** [ Defensive Talent Potion](/Items/con_796/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
 
 
 ## Awaking
