@@ -1,9 +1,9 @@
 ---
 title: "Holy Emblem - Stone Key to the Gates"
 permalink: /Emblem/Stone Key to the Gates/
-excerpt: "Holy Emblem - Neutral - Stone Key to the Gates"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Stone Key to the Gates. Stone Key to the Gates. Era of Chaos Holy Emblem Stone Key to the Gates. Era of Chaos Neutral Stone Key to the Gates"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Stone Key to the Gates.md"
 toc: false
 classes: wide

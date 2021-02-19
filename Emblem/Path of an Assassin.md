@@ -1,9 +1,9 @@
 ---
 title: "Holy Emblem - Path of an Assassin"
 permalink: /Emblem/Path of an Assassin/
-excerpt: "Holy Emblem - Neutral - Path of an Assassin"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Path of an Assassin. Path of an Assassin. Era of Chaos Holy Emblem Path of an Assassin. Era of Chaos Neutral Path of an Assassin"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Path of an Assassin.md"
 toc: false
 classes: wide

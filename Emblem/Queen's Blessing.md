@@ -1,9 +1,9 @@
 ---
 title: "Holy Emblem - Queen's Blessing"
 permalink: /Emblem/Queen's Blessing/
-excerpt: "Holy Emblem - Order - Queen's Blessing"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Queen's Blessing. Queen's Blessing. Era of Chaos Holy Emblem Queen's Blessing. Era of Chaos Order Queen's Blessing"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Queen's Blessing.md"
 toc: false
 classes: wide

@@ -1,9 +1,9 @@
 ---
 title: "Holy Emblem - Wall of Knowledge"
 permalink: /Emblem/Wall of Knowledge/
-excerpt: "Holy Emblem - Goodness - Wall of Knowledge"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Wall of Knowledge. Wall of Knowledge. Era of Chaos Holy Emblem Wall of Knowledge. Era of Chaos Goodness Wall of Knowledge"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Wall of Knowledge.md"
 toc: false
 classes: wide

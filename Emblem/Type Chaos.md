@@ -1,9 +1,9 @@
 ---
 title: "Holy Emblem - Chaos"
 permalink: /Emblem/Type Chaos/
-excerpt: "Holy Emblem - Chaos"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Holy Emblem. Holy Emblem. Era of Chaos Holy Emblem Chaos. Era of Chaos Chaos"
+last_modified_at: 2021-02-19
+locale: en
 ref: "typeChaos.md"
 toc: false
 classes: wide

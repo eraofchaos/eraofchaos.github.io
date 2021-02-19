@@ -1,9 +1,9 @@
 ---
 title: "Holy Emblem - Core of the Global Network"
 permalink: /Emblem/Core of the Global Network/
-excerpt: "Holy Emblem - Neutral - Core of the Global Network"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Core of the Global Network. Core of the Global Network. Era of Chaos Holy Emblem Core of the Global Network. Era of Chaos Neutral Core of the Global Network"
+last_modified_at: 2021-02-19
+locale: en
 ref: "Core of the Global Network.md"
 toc: false
 classes: wide

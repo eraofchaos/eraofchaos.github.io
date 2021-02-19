@@ -1,9 +1,9 @@
 ---
 title: "Holy Emblem - Neutral"
 permalink: /Emblem/Type Neutral/
-excerpt: "Holy Emblem - Neutral"
-last_modified_at: 2021-02-02
-lang: en
+excerpt: "Era of Chaos Holy Emblem. Holy Emblem. Era of Chaos Holy Emblem Neutral. Era of Chaos Neutral"
+last_modified_at: 2021-02-19
+locale: en
 ref: "typeNeutral.md"
 toc: false
 classes: wide
