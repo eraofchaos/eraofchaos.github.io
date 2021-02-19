@@ -1,7 +1,7 @@
 ---
 title: "Mullich"
 permalink: /heroes/Mullich/
-excerpt: "Sir Mullich's troops are known for their speed. Mullich's self-control and discipline are well-known. He uses special training to make his troops faster."
+excerpt: "Era of Chaos Mullich. Mullich. Sir Mullich's troops are known for their speed. Mullich's self-control and discipline are well-known. He uses special training to make his troops faster."
 heroID: 60101
 last_modified_at: 2021-02-19
 locale: en

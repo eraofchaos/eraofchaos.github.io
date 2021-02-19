@@ -1,7 +1,7 @@
 ---
 title: "Monere"
 permalink: /heroes/Monere/
-excerpt: "Monere was born with the ability to control Psychic and Magic Elementals. He is a vital general of Elemental."
+excerpt: "Era of Chaos Monere. Monere. Monere was born with the ability to control Psychic and Magic Elementals. He is a vital general of Elemental."
 heroID: 60702
 last_modified_at: 2021-02-19
 locale: en

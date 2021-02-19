@@ -1,7 +1,7 @@
 ---
 title: "Rashka"
 permalink: /heroes/Rashka/
-excerpt: "Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far."
+excerpt: "Era of Chaos Rashka. Rashka. Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far."
 heroID: 60802
 last_modified_at: 2021-02-19
 locale: en

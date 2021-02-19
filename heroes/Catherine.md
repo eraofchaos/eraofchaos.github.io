@@ -1,7 +1,7 @@
 ---
 title: "Catherine"
 permalink: /heroes/Catherine/
-excerpt: "As the queen of Erathia, Catherine has been forced to wage war to preserve the kingdom her father created. She will battle until the final showdown of Armageddon's Blade. "
+excerpt: "Era of Chaos Catherine. Catherine. As the queen of Erathia, Catherine has been forced to wage war to preserve the kingdom her father created. She will battle until the final showdown of Armageddon's Blade. "
 heroID: 60102
 last_modified_at: 2021-02-19
 locale: en

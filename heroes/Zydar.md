@@ -1,7 +1,7 @@
 ---
 title: "Zydar"
 permalink: /heroes/Zydar/
-excerpt: "Zydar focused much of his life on improving his spells, becoming a great spellcaster before he became a leader on the battlefield. He is more reliable than any of his demon kin. "
+excerpt: "Era of Chaos Zydar. Zydar. Zydar focused much of his life on improving his spells, becoming a great spellcaster before he became a leader on the battlefield. He is more reliable than any of his demon kin. "
 heroID: 60901
 last_modified_at: 2021-02-19
 locale: en

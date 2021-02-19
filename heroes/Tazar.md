@@ -1,7 +1,7 @@
 ---
 title: "Tazar"
 permalink: /heroes/Tazar/
-excerpt: "During the six-month border war with Krewlod, Tazar led a small force in a Tatalia outpost and held back the Krewlod army, which was five times larger as his, for eight days until reinforcements arrived."
+excerpt: "Era of Chaos Tazar. Tazar. During the six-month border war with Krewlod, Tazar led a small force in a Tatalia outpost and held back the Krewlod army, which was five times larger as his, for eight days until reinforcements arrived."
 heroID: 61501
 last_modified_at: 2021-02-19
 locale: en
