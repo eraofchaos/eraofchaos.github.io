@@ -58,39 +58,7 @@ docs:
         url: /es/
 
 
-# documentation links
-docs_de:
-  - title: "Navigation"
-    children:
-    - title: "Heroes"
-      url: /de/heroes/
-    - title: "Einheiten"
-      url: /de/units/
-    - title: "Heiliges Emblem"
-      url: /de/Emblem/
-    - title: "Alchemiewerkstatt"
-      url: /de/Alchemy Workshop/
-    - title: "Kampfformationn"
-      url: /de/Battle Formation/
-    - title: "Heilendes Meer"
-      url: /de/Healing Sea/
-    - title: "Sphinx answers"
-      url: /de/sphinx/
 
-  - title: "Language"
-    children:
-      - title: "English"
-        url: /
-      - title: "Русский"
-        url: /ru/
-      - title: "Deutsch"
-        url: /de/
-      - title: "Français"
-        url: /fr/
-      - title: "Italiano"
-        url: /it/
-      - title: "Español"
-        url: /es/
 
 # documentation links
 docs_fr:
@@ -126,40 +94,6 @@ docs_fr:
       - title: "Español"
         url: /es/
 
-
-# documentation links
-docs_ru:
-  - title: "Navigation"
-    children:
-    - title: "Герои"
-      url: /ru/heroes/
-    - title: "Отряды"
-      url: /ru/units/
-    - title: "Эмблема святости"
-      url: /ru/Emblem/
-    - title: "Мастерская алхимика"
-      url: /ru/Alchemy Workshop/
-    - title: "Боевое построение"
-      url: /ru/Battle Formation/
-    - title: "Море чудес"
-      url: /ru/Healing Sea/
-    - title: "Ответы на Сфинкса"
-      url: /ru/sphinx/
-
-  - title: "Language"
-    children:
-      - title: "English"
-        url: /
-      - title: "Русский"
-        url: /ru/
-      - title: "Deutsch"
-        url: /de/
-      - title: "Français"
-        url: /fr/
-      - title: "Italiano"
-        url: /it/
-      - title: "Español"
-        url: /es/
 
 
 # documentation links
