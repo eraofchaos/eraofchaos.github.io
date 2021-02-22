@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Serpent Fly"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring.
 
- **Description:** [Caster](/units/Unit Class Caster/)
+ **Class:** [Caster](/units/Unit Class Caster/)
 
- **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Fortress](/units/Faction Fortress/)
+ **Faction: ** [Fortress](/units/Faction Fortress/)
 
  **Race:** Beast
 

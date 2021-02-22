@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Cavalier"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts.
 
- **Description:** [Charging](/units/Unit Class Charging/)
+ **Class:** [Charging](/units/Unit Class Charging/)
 
- **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Castle](/units/Faction Castle/)
+ **Faction: ** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 

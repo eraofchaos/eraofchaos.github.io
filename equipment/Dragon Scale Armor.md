@@ -2,7 +2,7 @@
 title: "Dragon Scale Armor"
 permalink: /equipment/Dragon Scale Armor/
 excerpt: "Era of Chaos Dragon Scale Armor. Dragon Scale Armor"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Dragon Scale Armor.md"
 toc: false

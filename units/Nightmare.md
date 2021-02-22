@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Nightmare"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss.
 
- **Description:** [Defense](/units/Unit Class Defense/)
+ **Class:** [Defense](/units/Unit Class Defense/)
 
- **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Faction: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniac
 

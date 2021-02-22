@@ -2,7 +2,7 @@
 title: "Stone Horn"
 permalink: /equipment/Stone Horn/
 excerpt: "Era of Chaos Stone Horn. Stone Horn"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Stone Horn.md"
 toc: false

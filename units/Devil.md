@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Devil"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row
 
- **Description:** [Offense](/units/Unit Class Offense/)
+ **Class:** [Offense](/units/Unit Class Offense/)
 
- **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Faction: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniac
 

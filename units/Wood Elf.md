@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Wood Elf"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows.
 
- **Description:** [Ranged](/units/Unit Class Ranged/)
+ **Class:** [Ranged](/units/Unit Class Ranged/)
 
- **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Faction: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Forest
 

@@ -2,7 +2,7 @@
 title: "Cap of Prestige"
 permalink: /equipment/Cap of Prestige/
 excerpt: "Era of Chaos Cap of Prestige. Cap of Prestige"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Cap of Prestige.md"
 toc: false

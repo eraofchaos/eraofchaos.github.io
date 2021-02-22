@@ -2,7 +2,7 @@
 title: "Beholder of Sapphire"
 permalink: /equipment/Beholder of Sapphire/
 excerpt: "Era of Chaos Beholder of Sapphire. Beholder of Sapphire"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Beholder of Sapphire.md"
 toc: false

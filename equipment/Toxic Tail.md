@@ -2,7 +2,7 @@
 title: "Toxic Tail"
 permalink: /equipment/Toxic Tail/
 excerpt: "Era of Chaos Toxic Tail. Toxic Tail"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Toxic Tail.md"
 toc: false

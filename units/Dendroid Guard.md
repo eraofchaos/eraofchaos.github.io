@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Dendroid Guard"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies.
 
- **Description:** [Defense](/units/Unit Class Defense/)
+ **Class:** [Defense](/units/Unit Class Defense/)
 
- **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Rampart](/units/Faction Rampart/)
+ **Faction: ** [Rampart](/units/Faction Rampart/)
 
  **Race:** Fiend
 

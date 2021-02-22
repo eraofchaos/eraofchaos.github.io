@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Troglodyte"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding.
 
- **Description:** [Offense](/units/Unit Class Offense/)
+ **Class:** [Offense](/units/Unit Class Offense/)
 
- **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Faction: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon troops
 

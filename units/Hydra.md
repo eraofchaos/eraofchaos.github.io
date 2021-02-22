@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Hydra"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of.
 
- **Description:** [Offense](/units/Unit Class Offense/)
+ **Class:** [Offense](/units/Unit Class Offense/)
 
- **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Fortress](/units/Faction Fortress/)
+ **Faction: ** [Fortress](/units/Faction Fortress/)
 
  **Race:** Unicorn
 

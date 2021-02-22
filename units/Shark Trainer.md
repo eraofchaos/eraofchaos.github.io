@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark."
 unitID: 9909
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Shark Trainer"
 toc: true
@@ -14,11 +14,11 @@ toc: true
 ## General information
  **Description:** The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark.
 
- **Description:** [Charging](/units/Unit Class Charging/)
+ **Class:** [Charging](/units/Unit Class Charging/)
 
- **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Faction: ** [Cove](/units/Faction Cove/)
 
  **Race:** Pirate
 

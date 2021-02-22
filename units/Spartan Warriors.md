@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Spartan Warriors"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!
 
- **Description:** [Offense](/units/Unit Class Offense/)
+ **Class:** [Offense](/units/Unit Class Offense/)
 
- **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Neutral Army](/units/Faction Neutral Army/)
+ **Faction: ** [Neutral Army](/units/Faction Neutral Army/)
 
  **Race:** Assassin Guild
 

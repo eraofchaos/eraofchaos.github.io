@@ -2,7 +2,7 @@
 title: "Violet Artifacts"
 permalink: /artifacts/Violet Artifacts/
 excerpt: "Lis of all Violet Artifacts  in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-22
 locale: en
 ref: "Violet Artifacts.md"
 toc: false

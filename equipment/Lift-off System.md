@@ -2,7 +2,7 @@
 title: "Lift-off System"
 permalink: /equipment/Lift-off System/
 excerpt: "Era of Chaos Lift-off System. Lift-off System"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Lift-off System.md"
 toc: false

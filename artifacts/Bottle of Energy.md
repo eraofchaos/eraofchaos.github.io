@@ -2,7 +2,7 @@
 title: "Artifacts - Elixir of Life - Bottle of Energy"
 permalink: /artifacts/Bottle of Energy/
 excerpt: "Elixir of Life - Bottle of Energy. A bottle to make the wearer feel energized. One of the components of the Elixir of Life."
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-22
 locale: en
 ref: "Bottle of Energy.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Beholder"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** These multi-eyed monsters are clever. For them, all the creatures are servants.
 
- **Description:** [Caster](/units/Unit Class Caster/)
+ **Class:** [Caster](/units/Unit Class Caster/)
 
- **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Faction: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Evil spirit
 

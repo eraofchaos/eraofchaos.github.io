@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Gog"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Gogs may seem to be mild but they can be very aggressive in battle.
 
- **Description:** [Caster](/units/Unit Class Caster/)
+ **Class:** [Caster](/units/Unit Class Caster/)
 
- **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Faction: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniac
 

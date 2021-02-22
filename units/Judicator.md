@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Judicator"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need.
 
- **Description:** [Caster](/units/Unit Class Caster/)
+ **Class:** [Caster](/units/Unit Class Caster/)
 
- **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Castle](/units/Faction Castle/)
+ **Faction: ** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 

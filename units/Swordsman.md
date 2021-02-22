@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Swordsman"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques.
 
- **Description:** [Defense](/units/Unit Class Defense/)
+ **Class:** [Defense](/units/Unit Class Defense/)
 
- **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Castle](/units/Faction Castle/)
+ **Faction: ** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 

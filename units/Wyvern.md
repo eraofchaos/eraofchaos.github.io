@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Wyvern"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it.
 
- **Description:** [Offense](/units/Unit Class Offense/)
+ **Class:** [Offense](/units/Unit Class Offense/)
 
- **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Fortress](/units/Faction Fortress/)
+ **Faction: ** [Fortress](/units/Faction Fortress/)
 
  **Race:** Beast
 

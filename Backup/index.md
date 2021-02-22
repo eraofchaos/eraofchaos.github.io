@@ -2,7 +2,7 @@
 title: "Backup"
 permalink: /Backup/
 excerpt: "Backup - Mages can tear a space portal open on the battlefield, transporting 3 back-up units onto the battlefield while generating a strong spell aura. Your enemies will be trembled by it."
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-22
 locale: en
 ref: "index.md"
 toc: false

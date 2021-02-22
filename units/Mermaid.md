@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Mermaid"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean.
 
- **Description:** [Caster](/units/Unit Class Caster/)
+ **Class:** [Caster](/units/Unit Class Caster/)
 
- **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Faction: ** [Cove](/units/Faction Cove/)
 
  **Race:** The Underwaters
 

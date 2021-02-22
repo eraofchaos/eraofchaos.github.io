@@ -2,7 +2,7 @@
 title: "Bracer of the Wolf"
 permalink: /equipment/Bracer of the Wolf/
 excerpt: "Era of Chaos Bracer of the Wolf. Bracer of the Wolf"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Bracer of the Wolf.md"
 toc: false

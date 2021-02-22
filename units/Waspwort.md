@@ -3,7 +3,7 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Waspwort"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare.
 
- **Description:** [Ranged](/units/Unit Class Ranged/)
+ **Class:** [Ranged](/units/Unit Class Ranged/)
 
- **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Fortress](/units/Faction Fortress/)
+ **Faction: ** [Fortress](/units/Faction Fortress/)
 
  **Race:** Beast
 

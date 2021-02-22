@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Units. Units. Era of Chaos He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Dark Champion"
 toc: true
@@ -14,11 +14,11 @@ toc: true
 ## General information
  **Description:** He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls.
 
- **Description:** [Offense](/units/Unit Class Offense/)
+ **Class:** [Offense](/units/Unit Class Offense/)
 
- **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Necropolis](/units/Faction Necropolis/)
+ **Faction: ** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Undead
 

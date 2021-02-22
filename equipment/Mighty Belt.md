@@ -2,7 +2,7 @@
 title: "Mighty Belt"
 permalink: /equipment/Mighty Belt/
 excerpt: "Era of Chaos Mighty Belt. Mighty Belt"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Mighty Belt.md"
 toc: false

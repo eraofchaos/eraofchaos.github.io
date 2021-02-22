@@ -3,7 +3,7 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Venom Spawn"
 toc: true
@@ -14,11 +14,11 @@ toc: true
 ## General information
  **Description:** These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin.
 
- **Description:** [Defense](/units/Unit Class Defense/)
+ **Class:** [Defense](/units/Unit Class Defense/)
 
- **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Faction: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniac
 

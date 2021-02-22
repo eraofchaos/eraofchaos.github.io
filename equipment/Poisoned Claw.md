@@ -2,7 +2,7 @@
 title: "Poisoned Claw"
 permalink: /equipment/Poisoned Claw/
 excerpt: "Era of Chaos Poisoned Claw. Poisoned Claw"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Poisoned Claw.md"
 toc: false

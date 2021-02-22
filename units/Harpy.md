@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Harpy"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** The monster is part human and part bird. No one can bear their cloud-piercing screaming.
 
- **Description:** [Charging](/units/Unit Class Charging/)
+ **Class:** [Charging](/units/Unit Class Charging/)
 
- **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Faction: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon troops
 

@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Magic Airship"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air.
 
- **Description:** [Caster](/units/Unit Class Caster/)
+ **Class:** [Caster](/units/Unit Class Caster/)
 
- **Description Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
+ **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction:** [Tower](/units/Faction Tower/)
+ **Faction: ** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 

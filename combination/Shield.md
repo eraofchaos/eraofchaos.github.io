@@ -2,7 +2,7 @@
 title: "Combination Info for Shield"
 permalink: /combination/Shield/
 excerpt: "Combination Info - Shield. Units and Heroes Formation."
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Shield.md"
 toc: false

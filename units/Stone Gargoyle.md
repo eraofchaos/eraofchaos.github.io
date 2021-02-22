@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Stone Gargoyle"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle.
 
- **Description:** [Offense](/units/Unit Class Offense/)
+ **Class:** [Offense](/units/Unit Class Offense/)
 
- **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Tower](/units/Faction Tower/)
+ **Faction: ** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 

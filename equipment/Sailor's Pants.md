@@ -2,7 +2,7 @@
 title: "Sailor's Pants"
 permalink: /equipment/Sailor's Pants/
 excerpt: "Era of Chaos Sailor's Pants. Sailor's Pants"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Sailor's Pants.md"
 toc: false

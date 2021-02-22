@@ -2,7 +2,7 @@
 title: "Devil's Scythe"
 permalink: /equipment/Devil's Scythe/
 excerpt: "Era of Chaos Devil's Scythe. Devil's Scythe"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Devil's Scythe.md"
 toc: false

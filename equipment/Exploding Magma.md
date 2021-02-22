@@ -2,7 +2,7 @@
 title: "Exploding Magma"
 permalink: /equipment/Exploding Magma/
 excerpt: "Era of Chaos Exploding Magma. Exploding Magma"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Exploding Magma.md"
 toc: false

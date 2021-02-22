@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Lizardman"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at.
 
- **Description:** [Ranged](/units/Unit Class Ranged/)
+ **Class:** [Ranged](/units/Unit Class Ranged/)
 
- **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Fortress](/units/Faction Fortress/)
+ **Faction: ** [Fortress](/units/Faction Fortress/)
 
  **Race:** Beast Master
 

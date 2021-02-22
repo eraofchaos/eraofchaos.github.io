@@ -2,7 +2,7 @@
 title: "Steel Necklet"
 permalink: /equipment/Steel Necklet/
 excerpt: "Era of Chaos Steel Necklet. Steel Necklet"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Steel Necklet.md"
 toc: false

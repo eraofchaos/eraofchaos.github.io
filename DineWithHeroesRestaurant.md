@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant"
 permalink: /DineWithHeroesRestaurant.html
 excerpt: "Dine with Heroes - Restaurant. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-22
 locale: en
 ref: "DineWithHeroesRestaurant.html"
 toc: false

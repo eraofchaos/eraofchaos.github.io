@@ -2,7 +2,7 @@
 title: "Lightning's Flail"
 permalink: /equipment/Lightning's Flail/
 excerpt: "Era of Chaos Lightning's Flail. Lightning's Flail"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Lightning's Flail.md"
 toc: false

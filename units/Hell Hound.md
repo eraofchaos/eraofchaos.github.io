@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Hell Hound"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake.
 
- **Description:** [Charging](/units/Unit Class Charging/)
+ **Class:** [Charging](/units/Unit Class Charging/)
 
- **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Inferno](/units/Faction Inferno/)
+ **Faction: ** [Inferno](/units/Faction Inferno/)
 
  **Race:** Beast
 

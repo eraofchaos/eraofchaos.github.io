@@ -2,7 +2,7 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-22
 locale: en
 ref: "index.md"
 toc: true
@@ -10,7 +10,7 @@ toc: true
 
 #### 2021 Week 9  Conflux Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **1 Mar** | **5x Sprite**  | A squad of Sprite joined your army and you become stronger! |
   | **2 Mar** | **3x Ice Elemental**  | A squad of Ice Elemental joined your army and you become stronger! |
@@ -23,7 +23,7 @@ toc: true
 
 #### 2021 Week 8  Tower Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **22 Feb** | **5x Gremlin**  | A squad of Gremlin joined your army and you become stronger! |
   | **23 Feb** | **3x Stone Gargoyle**  | A squad of Stone Gargoyle joined your army and you become stronger! |
@@ -36,7 +36,7 @@ toc: true
 
 #### 2021 Week 7  Cove Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **15 Feb** | **3x Sea Elemental**  | A squad of Sea Elemental joined your army and you become stronger! |
   | **16 Feb** | **3x Regnan Pirates**  | A squad of Regnan Pirates joined your army and you become stronger! |
@@ -49,7 +49,7 @@ toc: true
 
 #### 2021 Week 6  Rampart Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **8 Feb** | **5x Centaur**  | A squad of Centaur joined your army and you become stronger! |
   | **9 Feb** | **3x Wood Elf**  | A squad of Wood Elf joined your army and you become stronger! |
@@ -62,7 +62,7 @@ toc: true
 
 #### 2021 Week 5  Stronghold Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **1 Feb** | **5x Goblin**  | A squad of Goblin joined your army and you become stronger! |
   | **2 Feb** | **5x Wolf Rider**  | A squad of Wolf Rider joined your army and you become stronger! |
@@ -75,7 +75,7 @@ toc: true
 
 #### 2021 Week 4  Necropolis Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **25 Jan** | **3x Skeleton**  | A squad of Skeleton joined your army and you become stronger! |
   | **26 Jan** | **3x Walking Dead**  | A squad of Walking Dead joined your army and you become stronger! |
@@ -88,7 +88,7 @@ toc: true
 
 #### 2021 Week 3  Fortress Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **18 Jan** | **5x Gnoll**  | A squad of Gnoll joined your army and you become stronger! |
   | **19 Jan** | **5x Fortress Faction Chest**  | Your fortress corps has presented you with a number of valuable treasure chests! |
@@ -101,7 +101,7 @@ toc: true
 
 #### 2021 Week 2  Inferno Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **11 Jan** | **5x Imp**  | A squad of Imp joined your army and you become stronger! |
   | **12 Jan** | **5x Gog**  | A squad of Gog joined your army and you become stronger! |
@@ -114,7 +114,7 @@ toc: true
 
 #### 2021 Week 1  Castle Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **4 Jan** | **5x Pikeman**  | A squad of Pikemen joined your army and you become stronger! |
   | **5 Jan** | **5x Marksman**  | A squad of Marksman joined your army and you become stronger! |
@@ -127,7 +127,7 @@ toc: true
 
 #### 2020 Week 52  Tower Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **28 Dec** | **5x Gremlin**  | A squad of Gremlin joined your army and you become stronger! |
   | **29 Dec** | **3x Stone Gargoyle**  | A squad of Stone Gargoyle joined your army and you become stronger! |
@@ -140,7 +140,7 @@ toc: true
 
 #### 2020 Week 51  Dungeon Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **21 Dec** | **5x Troglodyte**  | A squad of Troglodytes joined your army and you became stronger! |
   | **22 Dec** | **3x Harpy**  | A squad of Harpy joined your army and you become stronger! |
@@ -153,7 +153,7 @@ toc: true
 
 #### 2020 Week 50  Rampart Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **14 Dec** | **5x Centaur**  | A squad of Centaur joined your army and you become stronger! |
   | **15 Dec** | **3x Wood Elf**  | A squad of Wood Elf joined your army and you become stronger! |
@@ -166,7 +166,7 @@ toc: true
 
 #### 2020 Week 49  Conflux Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **7 Dec** | **5x Sprite**  | A squad of Sprite joined your army and you become stronger! |
   | **8 Dec** | **3x Ice Elemental**  | A squad of Ice Elemental joined your army and you become stronger! |
@@ -179,7 +179,7 @@ toc: true
 
 #### 2020 Week 48  Castle Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **30 Nov** | **5x Pikeman**  | A squad of Pikemen joined your army and you become stronger! |
   | **1 Dec** | **5x Marksman**  | A squad of Marksman joined your army and you become stronger! |
@@ -192,7 +192,7 @@ toc: true
 
 #### 2020 Week 47  Cove Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **23 Nov** | **3x Sea Elemental**  | A squad of Sea Elemental joined your army and you become stronger! |
   | **24 Nov** | **3x Regnan Pirates**  | A squad of Regnan Pirates joined your army and you become stronger! |
@@ -205,7 +205,7 @@ toc: true
 
 #### 2020 Week 46  Necropolis Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **16 Nov** | **3x Skeleton**  | A squad of Skeleton joined your army and you become stronger! |
   | **17 Nov** | **3x Walking Dead**  | A squad of Walking Dead joined your army and you become stronger! |
@@ -218,7 +218,7 @@ toc: true
 
 #### 2020 Week 45  Inferno Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **9 Nov** | **5x Imp**  | A squad of Imp joined your army and you become stronger! |
   | **10 Nov** | **5x Gog**  | A squad of Gog joined your army and you become stronger! |
@@ -231,7 +231,7 @@ toc: true
 
 #### 2020 Week 44  Stronghold Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **2 Nov** | **5x Goblin**  | A squad of Goblin joined your army and you become stronger! |
   | **3 Nov** | **5x Wolf Rider**  | A squad of Wolf Rider joined your army and you become stronger! |
@@ -244,7 +244,7 @@ toc: true
 
 #### 2020 Week 43  Dungeon Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **26 Oct** | **5x Troglodyte**  | A squad of Troglodytes joined your army and you became stronger! |
   | **27 Oct** | **3x Harpy**  | A squad of Harpy joined your army and you become stronger! |
@@ -257,7 +257,7 @@ toc: true
 
 #### 2020 Week 42  Tower Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **19 Oct** | **5x Gremlin**  | A squad of Gremlin joined your army and you become stronger! |
   | **20 Oct** | **3x Stone Gargoyle**  | A squad of Stone Gargoyle joined your army and you become stronger! |
@@ -270,7 +270,7 @@ toc: true
 
 #### 2020 Week 41  Fortress Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **12 Oct** | **5x Gnoll**  | A squad of Gnoll joined your army and you become stronger! |
   | **13 Oct** | **5x Fortress Faction Chest**  | Your fortress corps has presented you with a number of valuable treasure chests! |
@@ -283,7 +283,7 @@ toc: true
 
 #### 2020 Week 40  Castle Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **5 Oct** | **5x Pikeman**  | A squad of Pikemen joined your army and you become stronger! |
   | **6 Oct** | **5x Marksman**  | A squad of Marksman joined your army and you become stronger! |
@@ -296,7 +296,7 @@ toc: true
 
 #### 2020 Week 39  Rampart Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **28 Sep** | **5x Centaur**  | A squad of Centaur joined your army and you become stronger! |
   | **29 Sep** | **3x Wood Elf**  | A squad of Wood Elf joined your army and you become stronger! |
@@ -309,7 +309,7 @@ toc: true
 
 #### 2020 Week 38  Dungeon Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **21 Sep** | **5x Troglodyte**  | A squad of Troglodytes joined your army and you became stronger! |
   | **22 Sep** | **3x Harpy**  | A squad of Harpy joined your army and you become stronger! |
@@ -322,7 +322,7 @@ toc: true
 
 #### 2020 Week 37  Necropolis Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **14 Sep** | **3x Skeleton**  | A squad of Skeleton joined your army and you become stronger! |
   | **15 Sep** | **3x Walking Dead**  | A squad of Walking Dead joined your army and you become stronger! |
@@ -335,7 +335,7 @@ toc: true
 
 #### 2020 Week 36  Conflux Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **7 Sep** | **5x Sprite**  | A squad of Sprite joined your army and you become stronger! |
   | **8 Sep** | **3x Ice Elemental**  | A squad of Ice Elemental joined your army and you become stronger! |
@@ -348,7 +348,7 @@ toc: true
 
 #### 2020 Week 35  Stronghold Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **31 Aug** | **5x Goblin**  | A squad of Goblin joined your army and you become stronger! |
   | **1 Sep** | **5x Wolf Rider**  | A squad of Wolf Rider joined your army and you become stronger! |
@@ -361,7 +361,7 @@ toc: true
 
 #### 2020 Week 34  Tower Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **24 Aug** | **5x Gremlin**  | A squad of Gremlin joined your army and you become stronger! |
   | **25 Aug** | **3x Stone Gargoyle**  | A squad of Stone Gargoyle joined your army and you become stronger! |
@@ -374,7 +374,7 @@ toc: true
 
 #### 2020 Week 33  Rampart Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **17 Aug** | **5x Centaur**  | A squad of Centaur joined your army and you become stronger! |
   | **18 Aug** | **3x Wood Elf**  | A squad of Wood Elf joined your army and you become stronger! |
@@ -387,7 +387,7 @@ toc: true
 
 #### 2020 Week 32  Dungeon Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **10 Aug** | **5x Troglodyte**  | A squad of Troglodytes joined your army and you became stronger! |
   | **11 Aug** | **3x Harpy**  | A squad of Harpy joined your army and you become stronger! |
@@ -400,7 +400,7 @@ toc: true
 
 #### 2020 Week 31  Castle Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **3 Aug** | **5x Pikeman**  | A squad of Pikemen joined your army and you become stronger! |
   | **4 Aug** | **5x Marksman**  | A squad of Marksman joined your army and you become stronger! |
@@ -413,7 +413,7 @@ toc: true
 
 #### 2020 Week 30  Conflux Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **27 Jul** | **5x Sprite**  | A squad of Sprite joined your army and you become stronger! |
   | **28 Jul** | **3x Ice Elemental**  | A squad of Ice Elemental joined your army and you become stronger! |
@@ -426,7 +426,7 @@ toc: true
 
 #### 2020 Week 29  Fortress Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **20 Jul** | **5x Gnoll**  | A squad of Gnoll joined your army and you become stronger! |
   | **21 Jul** | **5x Fortress Faction Chest**  | Your fortress corps has presented you with a number of valuable treasure chests! |
@@ -439,7 +439,7 @@ toc: true
 
 #### 2020 Week 28  Inferno Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **13 Jul** | **5x Imp**  | A squad of Imp joined your army and you become stronger! |
   | **14 Jul** | **5x Gog**  | A squad of Gog joined your army and you become stronger! |
@@ -452,7 +452,7 @@ toc: true
 
 #### 2020 Week 27  Necropolis Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **6 Jul** | **3x Skeleton**  | A squad of Skeleton joined your army and you become stronger! |
   | **7 Jul** | **3x Walking Dead**  | A squad of Walking Dead joined your army and you become stronger! |
@@ -465,7 +465,7 @@ toc: true
 
 #### 2020 Week 26  Stronghold Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **29 Jun** | **5x Goblin**  | A squad of Goblin joined your army and you become stronger! |
   | **30 Jun** | **5x Wolf Rider**  | A squad of Wolf Rider joined your army and you become stronger! |
@@ -478,7 +478,7 @@ toc: true
 
 #### 2020 Week 25  Conflux Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **22 Jun** | **5x Sprite**  | A squad of Sprite joined your army and you become stronger! |
   | **23 Jun** | **3x Ice Elemental**  | A squad of Ice Elemental joined your army and you become stronger! |
@@ -491,7 +491,7 @@ toc: true
 
 #### 2020 Week 24  Rampart Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **15 Jun** | **5x Centaur**  | A squad of Centaur joined your army and you become stronger! |
   | **16 Jun** | **3x Wood Elf**  | A squad of Wood Elf joined your army and you become stronger! |
@@ -504,7 +504,7 @@ toc: true
 
 #### 2020 Week 23  Tower Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **8 Jun** | **5x Gremlin**  | A squad of Gremlin joined your army and you become stronger! |
   | **9 Jun** | **3x Stone Gargoyle**  | A squad of Stone Gargoyle joined your army and you become stronger! |
@@ -517,7 +517,7 @@ toc: true
 
 #### 2020 Week 22  Castle Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **1 Jun** | **5x Pikeman**  | A squad of Pikemen joined your army and you become stronger! |
   | **2 Jun** | **5x Marksman**  | A squad of Marksman joined your army and you become stronger! |
@@ -530,7 +530,7 @@ toc: true
 
 #### 2020 Week 21  Inferno Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **25 May** | **5x Imp**  | Hero Zydar had led his inferno minions to join your camp! |
   | **26 May** | **5x Gog**  | A squad of Imp joined your army and you become stronger! |
@@ -543,7 +543,7 @@ toc: true
 
 #### 2020 Week 20  Conflux Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **18 May** | **5x Sprite**  | A squad of Psychic Elemental joined your army and you become stronger! |
   | **19 May** | **3x Ice Elemental**  | A squad of Sprite joined your army and you become stronger! |
@@ -556,7 +556,7 @@ toc: true
 
 #### 2020 Week 19  Dungeon Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **11 May** | **5x Troglodyte**  | Following the guidance the ancient dragon, Mutare joined your army! |
   | **12 May** | **3x Harpy**  | A squad of Troglodytes joined your army and you became stronger! |
@@ -569,7 +569,7 @@ toc: true
 
 #### 2020 Week 18  Necropolis Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **4 May** | **3x Skeleton**  | Vidomina is interested in your undead warriors and is willing to join your team! |
   | **5 May** | **3x Walking Dead**  | A squad of Skeleton joined your army and you become stronger! |
@@ -582,7 +582,7 @@ toc: true
 
 #### 2020 Week 17  Stronghold Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **27 Apr** | **5x Goblin**  | A squad of Roc joined your army and you become stronger! |
   | **28 Apr** | **5x Wolf Rider**  | A squad of Goblin joined your army and you become stronger! |
@@ -595,7 +595,7 @@ toc: true
 
 #### 2020 Week 16  Castle Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **20 Apr** | **5x Pikeman**  | A squad of Pikemen joined your army and you become stronger! |
   | **21 Apr** | **5x Marksman**  | A squad of Marksman joined your army and you become stronger! |
@@ -608,7 +608,7 @@ toc: true
 
 #### 2020 Week 15  Tower Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **13 Apr** | **5x Gremlin**  | Your research of the Arcane has attracted Solmyr to join your army! |
   | **14 Apr** | **3x Stone Gargoyle**  | A squad of Gremlin joined your army and you become stronger! |
@@ -621,7 +621,7 @@ toc: true
 
 #### 2020 Week 14  Dungeon Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **6 Apr** | **5x Troglodyte**  | Following the guidance the ancient dragon, Mutare joined your army! |
   | **7 Apr** | **3x Harpy**  | A squad of Troglodytes joined your army and you became stronger! |
@@ -634,7 +634,7 @@ toc: true
 
 #### 2020 Week 13  Conflux Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **30 Mar** | **5x Sprite**  | A squad of Psychic Elemental joined your army and you become stronger! |
   | **31 Mar** | **3x Ice Elemental**  | A squad of Sprite joined your army and you become stronger! |
@@ -647,7 +647,7 @@ toc: true
 
 #### 2020 Week 12  Stronghold Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **23 Mar** | **5x Goblin**  | A squad of Roc joined your army and you become stronger! |
   | **24 Mar** | **5x Wolf Rider**  | A squad of Goblin joined your army and you become stronger! |
@@ -660,7 +660,7 @@ toc: true
 
 #### 2020 Week 11  Inferno Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **16 Mar** | **5x Imp**  | Hero Zydar had led his inferno minions to join your camp! |
   | **17 Mar** | **5x Gog**  | A squad of Imp joined your army and you become stronger! |
@@ -673,7 +673,7 @@ toc: true
 
 #### 2020 Week 10  Rampart Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **9 Mar** | **5x Centaur**  | Hero Ryland respects your actions to protect nature and wants to serve you! |
   | **10 Mar** | **3x Wood Elf**  | A squad of Centaur joined your army and you become stronger! |
@@ -686,7 +686,7 @@ toc: true
 
 #### 2020 Week 9  Necropolis Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **2 Mar** | **3x Skeleton**  | Vidomina is interested in your undead warriors and is willing to join your team! |
   | **3 Mar** | **3x Walking Dead**  | A squad of Skeleton joined your army and you become stronger! |
@@ -699,7 +699,7 @@ toc: true
 
 #### 2020 Week 8  Tower Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **24 Feb** | **5x Gremlin**  | Your research of the Arcane has attracted Solmyr to join your army! |
   | **25 Feb** | **3x Stone Gargoyle**  | A squad of Gremlin joined your army and you become stronger! |
@@ -712,7 +712,7 @@ toc: true
 
 #### 2020 Week 7  Castle Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **17 Feb** | **5x Pikeman**  | A Mage who controls the power of snow has visited your territory! |
   | **18 Feb** | **5x Marksman**  | A squad of Pikemen joined your army and you become stronger! |
@@ -725,7 +725,7 @@ toc: true
 
 #### 2020 Week 6  Conflux Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **10 Feb** | **5x Sprite**  | A squad of Psychic Elemental joined your army and you become stronger! |
   | **11 Feb** | **3x Ice Elemental**  | A squad of Sprite joined your army and you become stronger! |
@@ -738,7 +738,7 @@ toc: true
 
 #### 2020 Week 5  Stronghold Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **3 Feb** | **5x Goblin**  | A squad of Roc joined your army and you become stronger! |
   | **4 Feb** | **5x Wolf Rider**  | A squad of Goblin joined your army and you become stronger! |
@@ -751,7 +751,7 @@ toc: true
 
 #### 2020 Week 4  Inferno Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **27 Jan** | **5x Imp**  | Hero Zydar had led his inferno minions to join your camp! |
   | **28 Jan** | **5x Gog**  | A squad of Imp joined your army and you become stronger! |
@@ -764,7 +764,7 @@ toc: true
 
 #### 2020 Week 3  Rampart Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **20 Jan** | **5x Centaur**  | Hero Ryland respects your actions to protect nature and wants to serve you! |
   | **21 Jan** | **3x Wood Elf**  | A squad of Centaur joined your army and you become stronger! |
@@ -777,7 +777,7 @@ toc: true
 
 #### 2020 Week 2  Necropolis Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **13 Jan** | **3x Skeleton**  | Vidomina is interested in your undead warriors and is willing to join your team! |
   | **14 Jan** | **3x Walking Dead**  | A squad of Skeleton joined your army and you become stronger! |
@@ -790,7 +790,7 @@ toc: true
 
 #### 2020 Week 1  Tower Week
 
-  |  Date  |      Reward    |    Reward description    |
+  |  Date  |      Reward    |    Reward Description    |
   |:-------|:---------------|:------------------------:|
   | **6 Jan** | **5x Gremlin**  | Your research of the Arcane has attracted Solmyr to join your army! |
   | **7 Jan** | **3x Stone Gargoyle**  | A squad of Gremlin joined your army and you become stronger! |

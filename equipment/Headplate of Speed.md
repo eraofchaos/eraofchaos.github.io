@@ -2,7 +2,7 @@
 title: "Headplate of Speed"
 permalink: /equipment/Headplate of Speed/
 excerpt: "Era of Chaos Headplate of Speed. Headplate of Speed"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Headplate of Speed.md"
 toc: false

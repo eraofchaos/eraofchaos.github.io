@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Paladin"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities.
 
- **Description:** [Defense](/units/Unit Class Defense/)
+ **Class:** [Defense](/units/Unit Class Defense/)
 
- **Description Description:** Defensive units can resist attack for longer and possess damage reduction.
+ **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction:** [Castle](/units/Faction Castle/)
+ **Faction: ** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 

@@ -2,7 +2,7 @@
 title: "Enchanted Hood"
 permalink: /equipment/Enchanted Hood/
 excerpt: "Era of Chaos Enchanted Hood. Enchanted Hood"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Enchanted Hood.md"
 toc: false

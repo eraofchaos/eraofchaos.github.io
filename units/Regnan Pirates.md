@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Regnan Pirates"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition.
 
- **Description:** [Offense](/units/Unit Class Offense/)
+ **Class:** [Offense](/units/Unit Class Offense/)
 
- **Description Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction:** [Cove](/units/Faction Cove/)
+ **Faction: ** [Cove](/units/Faction Cove/)
 
  **Race:** Pirate
 

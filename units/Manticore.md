@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Manticore"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail.
 
- **Description:** [Charging](/units/Unit Class Charging/)
+ **Class:** [Charging](/units/Unit Class Charging/)
 
- **Description Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
+ **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Dungeon](/units/Faction Dungeon/)
+ **Faction: ** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon troops
 

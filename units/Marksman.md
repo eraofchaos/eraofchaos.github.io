@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Marksman"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies.
 
- **Description:** [Ranged](/units/Unit Class Ranged/)
+ **Class:** [Ranged](/units/Unit Class Ranged/)
 
- **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Castle](/units/Faction Castle/)
+ **Faction: ** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 

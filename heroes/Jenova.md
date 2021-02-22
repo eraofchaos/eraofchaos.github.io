@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. As a child, she was captured and trafficked by Dark Elves. Jenova was finally freed from her miserable life by a vengeful Unicorn. From then on she began to worship these mysterious creatures in the forest and became determined to live with them all her life. No one knows Unicorns better than Jenova, who uses their speed and power in war to offer tactical advantages"
 heroID: 60202
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Jenova"
 toc: true

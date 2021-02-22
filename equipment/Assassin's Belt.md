@@ -2,7 +2,7 @@
 title: "Assassin's Belt"
 permalink: /equipment/Assassin's Belt/
 excerpt: "Era of Chaos Assassin's Belt. Assassin's Belt"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Assassin's Belt.md"
 toc: false

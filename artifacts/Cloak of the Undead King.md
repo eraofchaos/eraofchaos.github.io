@@ -2,7 +2,7 @@
 title: "Artifacts - Cloak of the Undead King"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "Cloak of the Undead King A holy relic made by a great undead king to hide his face. Able to summon a skeleton army."
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-22
 locale: en
 ref: "Cloak of the Undead King.md"
 toc: false

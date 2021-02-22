@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Orc"
 toc: true
@@ -11,11 +11,11 @@ toc: true
 ## General information
  **Description:** No one knows where Orcs hide their axes and they seem to have endless axes to throw.
 
- **Description:** [Ranged](/units/Unit Class Ranged/)
+ **Class:** [Ranged](/units/Unit Class Ranged/)
 
- **Description Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
+ **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction:** [Stronghold](/units/Faction Stronghold/)
+ **Faction: ** [Stronghold](/units/Faction Stronghold/)
 
  **Race:** Orc
 

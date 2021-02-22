@@ -2,7 +2,7 @@
 title: "Artifacts - Power of the Dragon Father"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Power of the Dragon Father A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage."
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-22
 locale: en
 ref: "Power of the Dragon Father.md"
 toc: false

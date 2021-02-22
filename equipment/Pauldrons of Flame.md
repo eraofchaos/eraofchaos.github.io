@@ -2,7 +2,7 @@
 title: "Pauldrons of Flame"
 permalink: /equipment/Pauldrons of Flame/
 excerpt: "Era of Chaos Pauldrons of Flame. Pauldrons of Flame"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Pauldrons of Flame.md"
 toc: false

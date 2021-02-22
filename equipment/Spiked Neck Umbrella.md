@@ -2,7 +2,7 @@
 title: "Spiked Neck Umbrella"
 permalink: /equipment/Spiked Neck Umbrella/
 excerpt: "Era of Chaos Spiked Neck Umbrella. Spiked Neck Umbrella"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Spiked Neck Umbrella.md"
 toc: false

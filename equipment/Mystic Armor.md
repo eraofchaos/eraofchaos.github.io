@@ -2,7 +2,7 @@
 title: "Mystic Armor"
 permalink: /equipment/Mystic Armor/
 excerpt: "Era of Chaos Mystic Armor. Mystic Armor"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Mystic Armor.md"
 toc: false

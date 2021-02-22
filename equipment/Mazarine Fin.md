@@ -2,7 +2,7 @@
 title: "Mazarine Fin"
 permalink: /equipment/Mazarine Fin/
 excerpt: "Era of Chaos Mazarine Fin. Mazarine Fin"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Mazarine Fin.md"
 toc: false

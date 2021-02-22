@@ -2,7 +2,7 @@
 title: "Spiked Bracers"
 permalink: /equipment/Spiked Bracers/
 excerpt: "Era of Chaos Spiked Bracers. Spiked Bracers"
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "Spiked Bracers.md"
 toc: false

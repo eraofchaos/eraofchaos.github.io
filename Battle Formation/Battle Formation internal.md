@@ -2,7 +2,7 @@
 title: "Battle Formation INTERNAL"
 permalink: /Battle Formation/Battle Formation internal
 excerpt: "Battle Formation.Each faction has distinct potentials and energy. Light up the exclusive Battle Formation to activate your latent power."
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: en
 ref: "index.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 {: .notice--danger}
 
-## Battle Formation by Factions: 
+## Battle Formation by Faction: 
 
   [Castle](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Rampart](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Stronghold](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necropolis](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Tower](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Fortress](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflux](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cove](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
 
