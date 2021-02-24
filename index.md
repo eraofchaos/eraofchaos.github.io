@@ -14,18 +14,15 @@ sidebar:
 {% capture notice-update20210223 %}
 **Client update** (version **142 (3115)**):
 
-* Avatar frame for "Blood Crystal Dragon" and Wraith
-* New unit skin: "Blood Crystal Dragon: Red Dragon"
-* Awaking for [Wight](https://eraofchaos.github.io/units/Wight/) -> **Wraith**
-* Correction for "Panic Disorder" skill: updated range
-* Correction for 2 Wight's skills:
-
+- Avatar frame for "Blood Crystal Dragon" and Wraith
+- New unit skin: "Blood Crystal Dragon: Red Dragon"
+- Awaking for [Wight](https://eraofchaos.github.io/units/Wight/) -> **Wraith**
+- Correction for "Panic Disorder" skill: updated range
+- Correction for 2 Wight's skills:
 	- <Incarnation of Horror> Increases Wight's DEF by 10%. When friendly heroes cast earth-type spells, Wight restores 5 mana for heroes and decreases Earth Magic Resistance and Unit DMG of all enemy units by 4% and 2% respectively. These effects stack up to 20 times, cannot be dispelled, and last for the whole battle.
-
 	- <Incarnation of Horror> Increases Wight's DEF by 10%. When friendly heroes cast earth-type spells, Wight restores 5 mana for heroes and decreases Earth Magic Resistance and Unit DMG of enemies by 8% and 4% respectively. These effects stack up to 6 times, cannot be dispelled, and last for the whole battle.
-
-* New feature: CRUSADE FUND
-* New battle calculation (version 10126).
+- New feature: CRUSADE FUND
+- New battle calculation (version 10126).
 
 {% endcapture %}
 
