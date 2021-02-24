@@ -2,7 +2,7 @@
 title: "Item - Consumables - Phantom Component Chest"
 permalink: /Items/con_81/
 excerpt: "Phantom Component Chest"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_81.md"
 toc: false

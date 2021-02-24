@@ -2,7 +2,7 @@
 title: "Item - Consumables - Guardian of Vernin Ryland"
 permalink: /Items/con_58/
 excerpt: "Guardian of Vernin Ryland"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_58.md"
 toc: false

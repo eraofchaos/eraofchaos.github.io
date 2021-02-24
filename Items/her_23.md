@@ -2,7 +2,7 @@
 title: "Item - Heroes - Dragon Mutare"
 permalink: /Items/her_23/
 excerpt: "Dragon Mutare"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_23.md"
 toc: false

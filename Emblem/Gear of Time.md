@@ -2,7 +2,7 @@
 title: "Holy Emblem - Gear of Time"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Gear of Time. Gear of Time. Era of Chaos Holy Emblem Gear of Time. Era of Chaos Goodness Gear of Time"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Gear of Time.md"
 toc: false

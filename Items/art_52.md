@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Bowstring of the Unicorn's Mane"
 permalink: /Items/art_52/
 excerpt: "Bowstring of the Unicorn's Mane"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_52.md"
 toc: false

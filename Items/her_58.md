@@ -2,7 +2,7 @@
 title: "Item - Heroes - Astral"
 permalink: /Items/her_58/
 excerpt: "Astral"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_58.md"
 toc: false

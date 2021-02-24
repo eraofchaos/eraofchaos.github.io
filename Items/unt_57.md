@@ -2,7 +2,7 @@
 title: "Item - Units - Ogre"
 permalink: /Items/unt_57/
 excerpt: "Ogre"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_57.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Consumables - Thunder Rage Pack"
 permalink: /Items/con_98/
 excerpt: "Thunder Rage Pack"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_98.md"
 toc: false

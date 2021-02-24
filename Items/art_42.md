@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Heaven-Cast Stone"
 permalink: /Items/art_42/
 excerpt: "Heaven-Cast Stone"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_42.md"
 toc: false

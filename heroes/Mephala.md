@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Trained in the Erathian army, Mephala was a natural genius at using terrain to her advantage. Although she prefers the calm quiet of her village, she remains in the military for the sake of her country. "
 heroID: 60302
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Mephala"
 toc: true

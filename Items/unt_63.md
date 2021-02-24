@@ -2,7 +2,7 @@
 title: "Item - Units - Monk"
 permalink: /Items/unt_63/
 excerpt: "Monk"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_63.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Heroes - Son of Earth"
 permalink: /Items/her_83/
 excerpt: "Son of Earth"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_83.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Regnan Pirates"
 toc: true
@@ -168,7 +168,7 @@ toc: true
 
  **Awaking Name:** King of Pirates
 
- **Awaking Description:** 
+ **Awaking Description:** Weigh anchor and set sail! Tear everything to shreds! Plunder and conquer everything! Turn these seas into our personal playground!
 
 ### Awaking Tasks
  1. 

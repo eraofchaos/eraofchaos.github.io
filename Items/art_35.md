@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Targ of the Rampaging Ogre"
 permalink: /Items/art_35/
 excerpt: "Targ of the Rampaging Ogre"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_35.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Consumables - Guild coin"
 permalink: /Items/con_55/
 excerpt: "Guild coin"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_55.md"
 toc: false

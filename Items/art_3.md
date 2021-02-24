@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Chaos Brazier"
 permalink: /Items/art_3/
 excerpt: "Chaos Brazier"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_3.md"
 toc: false

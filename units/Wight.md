@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Wight"
 toc: true
@@ -164,7 +164,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Wraith
 
@@ -188,16 +188,16 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Invisibility&gt;</span><span style="color: #645252;font-size:18px">Invisibility's Magic resistance doubled. When the Wight takes spell damage from enemies , it releases a fatal blessing that increases unit's damage reduction for friendly Necropolis units by 10%, lasting throughout the entire battle, up to 3 stacks</span>
 
 ### 3rd Skill (or 4th): Panic Disorder
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px">Units silenced by Horrific Shrieking receive a Magic resistance decreased of 50% during the silence</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px"> Units silenced by &lt;Horrific Shrieking&gt; have a 50% decrease in Magic Resistance and a 20% decrease in Unit DMG while they are silenced.</span>
 
 ### 4th Skill (or 3rd): Shrieking Mastery
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px">Increases extra Magic resistance by 50% for friendly Necropolis units in the same path over the next 25s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px"> Increases Magic Resistance by 50% and Unit DMG by 20% for friendly Necropolis units in the same path for the next 25s.</span>
 
 ### 5th Skill (or 6th): Quaky Soul
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px">When a friendly hero casts an earth spell, the Wight restores 5 mana for the hero and decreases earth Magic resistance of all hostile units by 8%, lasting throughout battle, up to 20 stacks. The effect cannot be dispelled</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px"> Increases Wight's DEF by 10%. When friendly heroes cast earth-type spells, Wight restores 5 mana for heroes and decreases Earth Magic Resistance and Unit DMG of all enemy units by 4% and 2% respectively. These effects stack up to 20 times, cannot be dispelled, and last for the whole battle.</span>
 
 ### 6th Skill (or 5th): Horrible Scene
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px">When a friendly hero casts an earth spell, the Wight restores 5 mana for the hero and decreases hostile's earth Magic resistance by 16%, lasting throughout the entire battle, up to 6 stacks. This effect cannot be dispelled.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px"> Increases Wight's DEF by 10%. When friendly heroes cast earth-type spells, Wight restores 5 mana for heroes and decreases Earth Magic Resistance and Unit DMG of enemies by 8% and 4% respectively. These effects stack up to 6 times, cannot be dispelled, and last for the whole battle.</span>
 
 ## Technical info
  **runart:** 0

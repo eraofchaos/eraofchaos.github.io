@@ -2,7 +2,7 @@
 title: "Item - Heroes - Crag Hack"
 permalink: /Items/her_53/
 excerpt: "Crag Hack"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_53.md"
 toc: false

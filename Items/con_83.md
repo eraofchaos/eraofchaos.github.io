@@ -2,7 +2,7 @@
 title: "Item - Consumables - Sichuan Gao County Claypot"
 permalink: /Items/con_83/
 excerpt: "Sichuan Gao County Claypot"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_83.md"
 toc: false

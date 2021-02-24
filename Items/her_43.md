@@ -2,7 +2,7 @@
 title: "Item - Heroes - Forest Resonance"
 permalink: /Items/her_43/
 excerpt: "Forest Resonance"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_43.md"
 toc: false

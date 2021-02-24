@@ -2,7 +2,7 @@
 title: "Combination Info for Slow"
 permalink: /combination/Slow/
 excerpt: "Combination Info - Slow. Units and Heroes Formation."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Slow.md"
 toc: false

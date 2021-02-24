@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Mountain Battleaxe"
 permalink: /Items/art_15/
 excerpt: "Mountain Battleaxe"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Units - Black Dragon King Soul Stone"
 permalink: /Items/unt_34/
 excerpt: "Black Dragon King Soul Stone"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_34.md"
 toc: false

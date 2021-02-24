@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Crystal"
 permalink: /Items/mat_16/
 excerpt: "Good Crystal"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_16.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Heroes - Animate Dead"
 permalink: /Items/her_63/
 excerpt: "Animate Dead"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_63.md"
 toc: false

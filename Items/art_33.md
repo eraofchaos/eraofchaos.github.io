@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Withering Staff"
 permalink: /Items/art_33/
 excerpt: "Withering Staff"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_33.md"
 toc: false

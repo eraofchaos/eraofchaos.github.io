@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Dragon Scale Armour"
 permalink: /Items/art_20/
 excerpt: "Dragon Scale Armour"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_20.md"
 toc: false

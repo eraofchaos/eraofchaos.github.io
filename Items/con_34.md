@@ -2,7 +2,7 @@
 title: "Item - Consumables - Guizhou Sour Fish Hotpot"
 permalink: /Items/con_34/
 excerpt: "Guizhou Sour Fish Hotpot"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_34.md"
 toc: false

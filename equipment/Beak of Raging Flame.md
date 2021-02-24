@@ -2,7 +2,7 @@
 title: "Beak of Raging Flame"
 permalink: /equipment/Beak of Raging Flame/
 excerpt: "Era of Chaos Beak of Raging Flame. Beak of Raging Flame"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Beak of Raging Flame.md"
 toc: false

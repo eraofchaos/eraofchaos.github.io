@@ -2,7 +2,7 @@
 title: "Item - Consumables - Sphinx's Comfort Package"
 permalink: /Items/con_92/
 excerpt: "Sphinx's Comfort Package"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_92.md"
 toc: false

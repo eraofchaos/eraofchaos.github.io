@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Gems"
 permalink: /Items/mat_77/
 excerpt: "Soul Gems"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_77.md"
 toc: false

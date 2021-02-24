@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Gem"
 permalink: /DineWithHeroesRestaurant Gem.html
 excerpt: "Dine with Heroes - Restaurant - Gem. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "DineWithHeroesRestaurantGem.html"
 toc: true
@@ -58,7 +58,7 @@ sidebar:
 
  **Like Talk:** Both the broth and the meat have an incredibly satisfying aftertaste, making me feel warm and fuzzy inside!
 
- **Like Food:** [Sichuan Jianyang Mutton Soup](/Items/con_911/)
+ **Like Food:** [Sichuan Jianyang Mutton Soup](/Items/con_913/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -75,7 +75,7 @@ sidebar:
 
  **Like Talk:** The texture of the beef is just right. It's pretty tasty!
 
- **Like Food:** [Leshan Cross-Legged Beef](/Items/con_1162/)
+ **Like Food:** [Leshan Cross-Legged Beef](/Items/con_1165/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -92,7 +92,7 @@ sidebar:
 
  **Like Talk:** The taste of food cooked in a specially made pot is in a class of its own.
 
- **Like Food:** [Sichuan Gao County Claypot](/Items/con_1359/)
+ **Like Food:** [Sichuan Gao County Claypot](/Items/con_1362/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -105,7 +105,7 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward:**  **6x** [Orange Crystal](/Items/con_1218/)
+ **Reward:**  **6x** [Orange Crystal](/Items/con_1221/)
 
  **Like Talk:** Incredible, this Teochew Beef Hotpot really hits the spot! The texture of the beef is really amazing!
 
@@ -126,7 +126,7 @@ sidebar:
 
  **Like Talk:** This is the spicy hotpot I was looking for! The mala soup base goes so well with the other ingredients.
 
- **Like Food:** [Ningxia Chili Paste Hotpot](/Items/con_1388/)
+ **Like Food:** [Ningxia Chili Paste Hotpot](/Items/con_1391/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -143,7 +143,7 @@ sidebar:
 
  **Like Talk:** This is odd, I'm getting this warm fuzzy feeling while having dinner with you. How strange.
 
- **Like Food:** [Northeast Region Stove Fish](/Items/con_1133/)
+ **Like Food:** [Northeast Region Stove Fish](/Items/con_1136/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -156,7 +156,7 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward:** [Premium Artifact Component Pack](/Items/con_1277/)
+ **Reward:** [Premium Artifact Component Pack](/Items/con_1280/)
 
  **Like Talk:** This dish tastes slightly strange when first eaten, but I can detect a sweet aftertaste a long while after eating it.
 
@@ -173,11 +173,11 @@ sidebar:
 
  **Level EXP: 9100**
 
- **Reward:**  **90x** [Holy Emblem Redemption Ticket](/Items/con_1407/)
+ **Reward:**  **90x** [Holy Emblem Redemption Ticket](/Items/con_1410/)
 
  **Like Talk:** How intriguing! This dish has a unique flavor profile despite its pungent smell.
 
- **Like Food:** [Guizhou Stinky Hotpot](/Items/con_1075/)
+ **Like Food:** [Guizhou Stinky Hotpot](/Items/con_1077/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 

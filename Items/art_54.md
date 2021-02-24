@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Medal of Truth"
 permalink: /Items/art_54/
 excerpt: "Medal of Truth"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_54.md"
 toc: false

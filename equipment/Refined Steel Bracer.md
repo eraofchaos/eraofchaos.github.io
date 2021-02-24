@@ -2,7 +2,7 @@
 title: "Refined Steel Bracer"
 permalink: /equipment/Refined Steel Bracer/
 excerpt: "Era of Chaos Refined Steel Bracer. Refined Steel Bracer"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Refined Steel Bracer.md"
 toc: false

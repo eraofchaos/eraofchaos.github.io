@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Wood"
 permalink: /Items/mat_49/
 excerpt: "Soul Wood"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_49.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Consumables - Thunder Rage Chest"
 permalink: /Items/con_62/
 excerpt: "Thunder Rage Chest"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_62.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Consumables - Elite Unit Pack"
 permalink: /Items/con_88/
 excerpt: "Elite Unit Pack"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_88.md"
 toc: false

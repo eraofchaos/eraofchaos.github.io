@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Mercury"
 permalink: /Items/mat_24/
 excerpt: "Radiant Mercury"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_24.md"
 toc: false

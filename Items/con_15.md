@@ -2,7 +2,7 @@
 title: "Item - Consumables - Dungeon SR+ Unit Token Selection Chest"
 permalink: /Items/con_15/
 excerpt: "Dungeon SR+ Unit Token Selection Chest"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_15.md"
 toc: false

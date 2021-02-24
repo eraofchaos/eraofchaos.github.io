@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Xeron"
 permalink: /DineWithHeroesRestaurant Xeron.html
 excerpt: "Dine with Heroes - Restaurant - Xeron. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "DineWithHeroesRestaurantXeron.html"
 toc: true
@@ -24,7 +24,7 @@ sidebar:
 
  **Like Talk:** Huff, this dish is not spicy at all, huff, huff. The beef tripe, pork aorta, and duck intestines in this dish are all extremely crisp.
 
- **Like Food:** [Chongqing Hotpot](/Items/con_1311/)
+ **Like Food:** [Chongqing Hotpot](/Items/con_1314/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -37,7 +37,7 @@ sidebar:
 
  **Level EXP: 300**
 
- **Reward:**  **7x** [Rare Material Chest](/Items/con_920/)
+ **Reward:**  **7x** [Rare Material Chest](/Items/con_922/)
 
  **Like Talk:** These skewers are pretty tasty, especially the avian giblet skewers, which are spicy, crispy and tender. They taste great!
 
@@ -54,11 +54,11 @@ sidebar:
 
  **Level EXP: 600**
 
- **Reward:**  **2x** [Orange Crystal](/Items/con_1218/)
+ **Reward:**  **2x** [Orange Crystal](/Items/con_1221/)
 
  **Like Talk:** Huff, the carp meat is so tender. It doesn't taste spicy at first, but the spicy aftertaste certainly packs a punch!
 
- **Like Food:** [Guizhou Spicy Fish Hotpot](/Items/con_633/)
+ **Like Food:** [Guizhou Spicy Fish Hotpot](/Items/con_635/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -92,7 +92,7 @@ sidebar:
 
  **Like Talk:** The Dragon Turtle can only handle spiciness up to this level? Well then, it should hurry up and go drink some milk!
 
- **Like Food:** [Dragon Turtle with a Steel Hotpot Shell](/Items/con_941/)
+ **Like Food:** [Dragon Turtle with a Steel Hotpot Shell](/Items/con_943/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -109,7 +109,7 @@ sidebar:
 
  **Like Talk:** That's right, I'm talking about this Sichuan Hyssop Fish Hotpot! The dish is simply delectable due to the combination of the sourness of the pickled cabbage, the fragrance of the hyssop and the aroma of the fish.
 
- **Like Food:** [Sichuan Hyssop Fish Hotpot](/Items/con_1283/)
+ **Like Food:** [Sichuan Hyssop Fish Hotpot](/Items/con_1286/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -126,7 +126,7 @@ sidebar:
 
  **Like Talk:** This dish really tantalizes my taste buds! The tangy fragrance emitted from the fermented distillers grains pairs perfectly well with the seafood.
 
- **Like Food:** [Hainan Vinegar Hotpot](/Items/con_750/)
+ **Like Food:** [Hainan Vinegar Hotpot](/Items/con_752/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -139,7 +139,7 @@ sidebar:
 
  **Level EXP: 4100**
 
- **Reward:**  **30x** [Holy Emblem Redemption Ticket](/Items/con_1407/)
+ **Reward:**  **30x** [Holy Emblem Redemption Ticket](/Items/con_1410/)
 
  **Like Talk:** This sour soup is absolutely delectable and pairs well with the fresh fish. It's a match made in heaven!
 
@@ -156,7 +156,7 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward:** [Premium Artifact Component Pack](/Items/con_1277/)
+ **Reward:** [Premium Artifact Component Pack](/Items/con_1280/)
 
  **Like Talk:** Even though this dish has no meat, the assortment of mushrooms in this delicacy have wildly varying textures that are comparable to even the best meat!
 
@@ -173,7 +173,7 @@ sidebar:
 
  **Level EXP: 9100**
 
- **Reward:**  **90x** [Holy Emblem Redemption Ticket](/Items/con_1407/)
+ **Reward:**  **90x** [Holy Emblem Redemption Ticket](/Items/con_1410/)
 
  **Like Talk:** The Dragon Turtle has come out to perform some live entertainment just as we are about to finish our meal. That's pretty good!
 

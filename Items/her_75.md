@@ -2,7 +2,7 @@
 title: "Item - Heroes - Echo of the Abyss"
 permalink: /Items/her_75/
 excerpt: "Echo of the Abyss"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_75.md"
 toc: false

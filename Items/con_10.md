@@ -2,7 +2,7 @@
 title: "Item - Consumables - Clear Soup Base"
 permalink: /Items/con_10/
 excerpt: "Clear Soup Base"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_10.md"
 toc: false

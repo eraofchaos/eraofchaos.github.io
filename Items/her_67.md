@@ -2,7 +2,7 @@
 title: "Item - Heroes - Morass"
 permalink: /Items/her_67/
 excerpt: "Morass"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_67.md"
 toc: false

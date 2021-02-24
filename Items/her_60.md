@@ -2,7 +2,7 @@
 title: "Item - Heroes - Quicksand"
 permalink: /Items/her_60/
 excerpt: "Quicksand"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_60.md"
 toc: false

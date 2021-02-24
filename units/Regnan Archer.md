@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Regnan Archer"
 toc: true
@@ -174,7 +174,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** 
+ **Awaking Description:** The lady pirates have red eyes that strike fear into the hearts of men. Ignorant fools become entranced by them, while those of true intelligence never let themselves be caught in their gaze.
 
 ### Awaking Tasks
  1. 

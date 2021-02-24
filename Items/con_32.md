@@ -2,7 +2,7 @@
 title: "Item - Consumables - Christmas Carol"
 permalink: /Items/con_32/
 excerpt: "Christmas Carol"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_32.md"
 toc: false

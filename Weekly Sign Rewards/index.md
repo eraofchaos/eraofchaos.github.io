@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 10  Inferno Week
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **8 Mar** | **5x Imp**  | A squad of Imp joined your army and you become stronger! |
+  | **9 Mar** | **5x Gog**  | A squad of Gog joined your army and you become stronger! |
+  | **10 Mar** | **3x Hell Hound**  | A squad of Hell Hound joined your army and you become stronger! |
+  | **11 Mar** | **5x Inferno Unit Chest**  | Your inferno corps has presented you with a number of valuable treasure chests! |
+  | **12 Mar** | **3x Demon**  | A squad of Demon joined your army and you become stronger! |
+  | **13 Mar** | **3x Pit Fiend**  | A squad of Pit Fiend joined your army and you become stronger! |
+  | **14 Mar** | **5x Rashka**  | The hero Rashka has taken an interest in your expansion and would like to join your faction! |
+
 
 #### 2021 Week 9  Conflux Week
 

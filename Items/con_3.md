@@ -2,7 +2,7 @@
 title: "Item - Consumables - Market Entry Ticket"
 permalink: /Items/con_3/
 excerpt: "Market Entry Ticket"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_3.md"
 toc: false

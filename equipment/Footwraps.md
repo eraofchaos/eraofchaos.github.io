@@ -2,7 +2,7 @@
 title: "Footwraps"
 permalink: /equipment/Footwraps/
 excerpt: "Era of Chaos Footwraps. Footwraps"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Footwraps.md"
 toc: false

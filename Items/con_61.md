@@ -2,7 +2,7 @@
 title: "Item - Consumables - Obsidian"
 permalink: /Items/con_61/
 excerpt: "Obsidian"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_61.md"
 toc: false

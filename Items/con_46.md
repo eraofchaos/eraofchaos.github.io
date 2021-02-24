@@ -2,7 +2,7 @@
 title: "Item - Consumables - Viking God of War: Crag Hack"
 permalink: /Items/con_46/
 excerpt: "Viking God of War: Crag Hack"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_46.md"
 toc: false

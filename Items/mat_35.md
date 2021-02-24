@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Sulfur"
 permalink: /Items/mat_35/
 excerpt: "Mythical Sulfur"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_35.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Ore"
 permalink: /Items/mat_55/
 excerpt: "Valuable Ore"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_55.md"
 toc: false

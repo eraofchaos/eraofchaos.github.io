@@ -2,7 +2,7 @@
 title: "Spine-breaking Stab"
 permalink: /equipment/Spine-breaking Stab/
 excerpt: "Era of Chaos Spine-breaking Stab. Spine-breaking Stab"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Spine-breaking Stab.md"
 toc: false

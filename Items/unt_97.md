@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Cyclops"
+title: "Item - Units - Lizardman"
 permalink: /Items/unt_97/
-excerpt: "Cyclops"
-last_modified_at: 2021-02-18
+excerpt: "Lizardman"
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_97.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Cyclops, an SR aptitude unit.
+ **Description:** Once you have gathered 30 soul tokens you can summon a Lizardman. Tokens can also be used to upgrade or increase the rank of Lizardmen.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -19,10 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Underground 19 (Neutral Ground) -> 19-3 
-*    Underground 26 (Sound of Fate) -> 26-3 
 *    Altar of Recruitment 
-*    Barracks Redemption - Cyclops 
+*    Barracks Redemption - Lizardman 
 
 ## This item contains:
 

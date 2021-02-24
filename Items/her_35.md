@@ -2,7 +2,7 @@
 title: "Item - Heroes - Frozen Arrow"
 permalink: /Items/her_35/
 excerpt: "Frozen Arrow"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_35.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Power Lich Soul Stone"
+title: "Item - Units - Paladin"
 permalink: /Items/unt_85/
-excerpt: "Power Lich Soul Stone"
-last_modified_at: 2021-02-18
+excerpt: "Paladin"
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_85.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Power Lich's Awakening level enhancement
+ **Description:** Once you have gathered 80 soul tokens you can summon a Paladin, an SSR aptitude unit
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 
-  None
+*    Barracks Redemption - null 
 
 ## This item contains:
 

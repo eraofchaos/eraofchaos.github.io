@@ -2,7 +2,7 @@
 title: "Item - Heroes - Exorcism"
 permalink: /Items/her_38/
 excerpt: "Exorcism"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_38.md"
 toc: false

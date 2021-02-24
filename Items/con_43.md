@@ -2,7 +2,7 @@
 title: "Item - Consumables - Armageddon's Blade Offer"
 permalink: /Items/con_43/
 excerpt: "Armageddon's Blade Offer"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_43.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Dragon Mutare"
 permalink: /DineWithHeroesRestaurant Dragon Mutare.html
 excerpt: "Dine with Heroes - Restaurant - Dragon Mutare. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "DineWithHeroesRestaurantDragon Mutare.html"
 toc: true
@@ -24,7 +24,7 @@ sidebar:
 
  **Like Talk:** Huff, this dish is not spicy at all, huff, huff. The beef tripe, pork aorta, and duck intestines in this dish are all extremely crisp.
 
- **Like Food:** [Chongqing Hotpot](/Items/con_1311/)
+ **Like Food:** [Chongqing Hotpot](/Items/con_1314/)
 
  **Normal Talk:** This style of hotpot lacks kick. Get me something stronger!
 
@@ -54,11 +54,11 @@ sidebar:
 
  **Level EXP: 600**
 
- **Reward:**  **2x** [Old Map](/Items/con_1140/)
+ **Reward:**  **2x** [Old Map](/Items/con_1143/)
 
  **Like Talk:** Huff, the carp meat is so tender. It doesn't taste spicy at first, but the spicy aftertaste certainly packs a punch!
 
- **Like Food:** [Guizhou Spicy Fish Hotpot](/Items/con_633/)
+ **Like Food:** [Guizhou Spicy Fish Hotpot](/Items/con_635/)
 
  **Normal Talk:** This style of hotpot lacks kick. Get me something stronger!
 
@@ -92,7 +92,7 @@ sidebar:
 
  **Like Talk:** The Dragon Turtle can only handle spiciness up to this level? Well then, it should hurry up and go drink some milk!
 
- **Like Food:** [Dragon Turtle with a Steel Hotpot Shell](/Items/con_941/)
+ **Like Food:** [Dragon Turtle with a Steel Hotpot Shell](/Items/con_943/)
 
  **Normal Talk:** This style of hotpot lacks kick. Get me something stronger!
 
@@ -105,11 +105,11 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward:** [Epic Artifact Component Chest](/Items/con_740/)
+ **Reward:** [Epic Artifact Component Chest](/Items/con_742/)
 
  **Like Talk:** That's right, I'm talking about this Sichuan Hyssop Fish Hotpot! The dish is simply delectable due to the combination of the sourness of the pickled cabbage, the fragrance of the hyssop and the aroma of the fish.
 
- **Like Food:** [Sichuan Hyssop Fish Hotpot](/Items/con_1283/)
+ **Like Food:** [Sichuan Hyssop Fish Hotpot](/Items/con_1286/)
 
  **Normal Talk:** This style of hotpot lacks kick. Get me something stronger!
 
@@ -126,7 +126,7 @@ sidebar:
 
  **Like Talk:** This dish really tantalizes my taste buds! The tangy fragrance emitted from the fermented distillers grains pairs perfectly well with the seafood.
 
- **Like Food:** [Hainan Vinegar Hotpot](/Items/con_750/)
+ **Like Food:** [Hainan Vinegar Hotpot](/Items/con_752/)
 
  **Normal Talk:** This style of hotpot lacks kick. Get me something stronger!
 
@@ -156,7 +156,7 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward:** [Premium Artifact Component Pack](/Items/con_1277/)
+ **Reward:** [Premium Artifact Component Pack](/Items/con_1280/)
 
  **Like Talk:** Even though this dish has no meat, the assortment of mushrooms in this delicacy have wildly varying textures that are comparable to even the best meat!
 
@@ -173,7 +173,7 @@ sidebar:
 
  **Level EXP: 9100**
 
- **Reward:** [Doomsday Component Chest](/Items/con_815/)
+ **Reward:** [Doomsday Component Chest](/Items/con_817/)
 
  **Like Talk:** The Dragon Turtle has come out to perform some live entertainment just as we are about to finish our meal. That's pretty good!
 

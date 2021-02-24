@@ -2,7 +2,7 @@
 title: "Item - Heroes - Land on Fire"
 permalink: /Items/her_64/
 excerpt: "Land on Fire"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_64.md"
 toc: false

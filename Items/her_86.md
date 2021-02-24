@@ -2,7 +2,7 @@
 title: "Item - Heroes - Blizzard"
 permalink: /Items/her_86/
 excerpt: "Blizzard"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_86.md"
 toc: false

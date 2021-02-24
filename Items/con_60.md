@@ -2,7 +2,7 @@
 title: "Item - Consumables - Realm Package"
 permalink: /Items/con_60/
 excerpt: "Realm Package"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_60.md"
 toc: false

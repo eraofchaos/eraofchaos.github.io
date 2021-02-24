@@ -2,7 +2,7 @@
 title: "Item - Consumables - Cross-server Guild Coin"
 permalink: /Items/con_4/
 excerpt: "Cross-server Guild Coin"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_4.md"
 toc: false

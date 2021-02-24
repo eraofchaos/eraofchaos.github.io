@@ -2,7 +2,7 @@
 title: "Item - Units - Troglodyte"
 permalink: /Items/unt_23/
 excerpt: "Troglodyte"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_23.md"
 toc: false

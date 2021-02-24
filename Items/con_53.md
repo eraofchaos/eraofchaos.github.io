@@ -2,7 +2,7 @@
 title: "Item - Consumables - Alchemy Runestone"
 permalink: /Items/con_53/
 excerpt: "Alchemy Runestone"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_53.md"
 toc: false

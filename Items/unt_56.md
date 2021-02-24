@@ -2,7 +2,7 @@
 title: "Item - Units - Gold Golem Soul Stone"
 permalink: /Items/unt_56/
 excerpt: "Gold Golem Soul Stone"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_56.md"
 toc: false

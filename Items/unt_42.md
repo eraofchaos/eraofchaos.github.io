@@ -2,7 +2,7 @@
 title: "Item - Units - Dwarf"
 permalink: /Items/unt_42/
 excerpt: "Dwarf"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_42.md"
 toc: false

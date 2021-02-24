@@ -2,7 +2,7 @@
 title: "Item - Heroes - Holy Shield"
 permalink: /Items/her_9/
 excerpt: "Holy Shield"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_9.md"
 toc: false

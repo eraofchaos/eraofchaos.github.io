@@ -2,7 +2,7 @@
 title: "Faction Altar for Fortress"
 permalink: /FactionAltar/DROP_108/
 excerpt: "Faction Altar for Fortress. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "DROP_108.md"
 toc: false
@@ -19,17 +19,17 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Fortress Limited Edition Pack](/Items/con_1410/)
+  **Drop by Luck (10x spin): 30x** [Fortress Limited Edition Pack](/Items/con_1413/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Fortress Limited Edition Pack](/Items/con_1410/) |
-  | 2 | **12%** | **2x** | [Fortress Limited Edition Pack](/Items/con_1410/) |
-  | 3 | **12%** | **3x** | [Fortress Limited Edition Pack](/Items/con_1410/) |
-  | 4 | **12%** | **5x** |  **50%** [Lizardman](/Items/unt_96/),  **50%** [Serpent Fly](/Items/unt_77/),  |
-  | 5 | **12%** | **3x** |  **50%** [Lizardman](/Items/unt_96/),  **50%** [Serpent Fly](/Items/unt_77/),  |
+  | 1 | **25%** | **1x** | [Fortress Limited Edition Pack](/Items/con_1413/) |
+  | 2 | **12%** | **2x** | [Fortress Limited Edition Pack](/Items/con_1413/) |
+  | 3 | **12%** | **3x** | [Fortress Limited Edition Pack](/Items/con_1413/) |
+  | 4 | **12%** | **5x** |  **50%** [Lizardman](/Items/unt_97/),  **50%** [Serpent Fly](/Items/unt_78/),  |
+  | 5 | **12%** | **3x** |  **50%** [Lizardman](/Items/unt_97/),  **50%** [Serpent Fly](/Items/unt_78/),  |
   | 6 | **12%** | **5x** |  **100%** [Gnoll](/Items/unt_41/),  |
 
 
@@ -37,19 +37,19 @@ classes: wide
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Fortress Limited Edition Pack](/Items/con_1410/) |
-  | 2 | **11%** | **5x** |  **50%** [Lizardman](/Items/unt_96/),  **50%** [Serpent Fly](/Items/unt_77/),  |
-  | 3 | **11%** | **3x** |  **50%** [Lizardman](/Items/unt_96/),  **50%** [Serpent Fly](/Items/unt_77/),  |
+  | 1 | **55%** | **1x** | [Fortress Limited Edition Pack](/Items/con_1413/) |
+  | 2 | **11%** | **5x** |  **50%** [Lizardman](/Items/unt_97/),  **50%** [Serpent Fly](/Items/unt_78/),  |
+  | 3 | **11%** | **3x** |  **50%** [Lizardman](/Items/unt_97/),  **50%** [Serpent Fly](/Items/unt_78/),  |
   | 4 | **11%** | **5x** |  **100%** [Gnoll](/Items/unt_41/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Fortress Limited Edition Pack](/Items/con_1410/)
+  **Drop by 10x spin: X** [Fortress Limited Edition Pack](/Items/con_1413/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Chaos Hydra Soul Stone](/Items/unt_91/) | [Gnoll](/Items/unt_41/), [Lizardman](/Items/unt_96/), [Serpent Fly](/Items/unt_77/), [Gorgon](/Items/unt_115/), [Hydra](/Items/unt_4/) |
+  | [Chaos Hydra Soul Stone](/Items/unt_92/) | [Gnoll](/Items/unt_41/), [Lizardman](/Items/unt_97/), [Serpent Fly](/Items/unt_78/), [Gorgon](/Items/unt_116/), [Hydra](/Items/unt_4/) |
 
 
 

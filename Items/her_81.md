@@ -2,7 +2,7 @@
 title: "Item - Heroes - Air Mastery"
 permalink: /Items/her_81/
 excerpt: "Air Mastery"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_81.md"
 toc: false

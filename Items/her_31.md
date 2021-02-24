@@ -2,7 +2,7 @@
 title: "Item - Heroes - Melodia"
 permalink: /Items/her_31/
 excerpt: "Melodia"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_31.md"
 toc: false

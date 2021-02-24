@@ -2,7 +2,7 @@
 title: "Item - Heroes - Catherine"
 permalink: /Items/her_72/
 excerpt: "Catherine"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_72.md"
 toc: false

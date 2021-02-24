@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Orb of the Firmament"
 permalink: /Items/art_27/
 excerpt: "Orb of the Firmament"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_27.md"
 toc: false

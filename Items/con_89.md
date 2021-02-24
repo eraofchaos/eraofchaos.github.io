@@ -2,7 +2,7 @@
 title: "Item - Consumables - Elite Unit Special Offer"
 permalink: /Items/con_89/
 excerpt: "Elite Unit Special Offer"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_89.md"
 toc: false

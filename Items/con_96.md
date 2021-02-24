@@ -2,7 +2,7 @@
 title: "Item - Consumables - Energy"
 permalink: /Items/con_96/
 excerpt: "Energy"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_96.md"
 toc: false

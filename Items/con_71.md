@@ -2,7 +2,7 @@
 title: "Item - Consumables - Diamond"
 permalink: /Items/con_71/
 excerpt: "Diamond"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_71.md"
 toc: false

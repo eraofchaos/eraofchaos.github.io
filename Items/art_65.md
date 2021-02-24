@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Crystal Skull"
 permalink: /Items/art_65/
 excerpt: "Crystal Skull"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_65.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Armor of Wonders"
 permalink: /Items/art_40/
 excerpt: "Armor of Wonders"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_40.md"
 toc: false

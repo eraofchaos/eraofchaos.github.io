@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Sea Elemental"
 toc: true
@@ -169,7 +169,7 @@ toc: true
 
  **Awaking Name:** Tidal Elemental
 
- **Awaking Description:** 
+ **Awaking Description:** Weigh anchor and set sail! Tear everything to shreds! Plunder and conquer everything! Turn these seas into our personal playground!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Naga with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Tower units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Champion level or higher. (Sweep does not count towards the mission.)</span>

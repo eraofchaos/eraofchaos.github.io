@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Ore"
 permalink: /Items/mat_2/
 excerpt: "Rare Ore"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_2.md"
 toc: false

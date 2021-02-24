@@ -2,7 +2,7 @@
 title: "Item - Consumables - Fujian Zhangzhou Intestines with Pickled Vegetables"
 permalink: /Items/con_66/
 excerpt: "Fujian Zhangzhou Intestines with Pickled Vegetables"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_66.md"
 toc: false

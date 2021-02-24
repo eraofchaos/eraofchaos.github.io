@@ -2,7 +2,7 @@
 title: "Item - Heroes - Earth Mastery"
 permalink: /Items/her_21/
 excerpt: "Earth Mastery"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_21.md"
 toc: false

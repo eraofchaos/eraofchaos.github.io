@@ -2,7 +2,7 @@
 title: "Light Battle Armor"
 permalink: /equipment/Light Battle Armor/
 excerpt: "Era of Chaos Light Battle Armor. Light Battle Armor"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Light Battle Armor.md"
 toc: false

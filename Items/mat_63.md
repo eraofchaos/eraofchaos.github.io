@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Wood"
 permalink: /Items/mat_63/
 excerpt: "Star Wood"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_63.md"
 toc: false

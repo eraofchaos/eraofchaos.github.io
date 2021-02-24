@@ -2,7 +2,7 @@
 title: "Item - Heroes - Clone"
 permalink: /Items/her_52/
 excerpt: "Clone"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_52.md"
 toc: false

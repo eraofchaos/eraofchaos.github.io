@@ -2,7 +2,7 @@
 title: "Item - Materials - Book of Arms"
 permalink: /Items/mat_6/
 excerpt: "Book of Arms"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_6.md"
 toc: false

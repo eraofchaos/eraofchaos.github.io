@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Tunic of the Cyclops King"
 permalink: /Items/art_61/
 excerpt: "Tunic of the Cyclops King"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_61.md"
 toc: false

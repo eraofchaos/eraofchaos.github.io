@@ -2,7 +2,7 @@
 title: "Item - Units - Cyclops King Soul Stone"
 permalink: /Items/unt_6/
 excerpt: "Cyclops King Soul Stone"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_6.md"
 toc: false

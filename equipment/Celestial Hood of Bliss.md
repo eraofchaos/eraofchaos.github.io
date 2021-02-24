@@ -2,7 +2,7 @@
 title: "Celestial Hood of Bliss"
 permalink: /equipment/Celestial Hood of Bliss/
 excerpt: "Era of Chaos Celestial Hood of Bliss. Celestial Hood of Bliss"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Celestial Hood of Bliss.md"
 toc: false

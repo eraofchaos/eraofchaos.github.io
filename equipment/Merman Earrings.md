@@ -2,7 +2,7 @@
 title: "Merman Earrings"
 permalink: /equipment/Merman Earrings/
 excerpt: "Era of Chaos Merman Earrings. Merman Earrings"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Merman Earrings.md"
 toc: false

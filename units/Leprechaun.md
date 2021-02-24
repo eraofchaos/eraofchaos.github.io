@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Leprechaun"
 toc: true
@@ -200,10 +200,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Heavy Punch
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is burning, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the target's Unit DMG Reduction by 3%. If the target is inflicted with Burn, their DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
 
 ### 2nd Skill (or 1st): Direct Blow
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is frozen, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the target's Unit DMG Reduction by 3%. If the target is inflicted with Freeze, their DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
 
 ### 3rd Skill (or 4th): Lucky Number
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortune&gt;</span><span style="color: #645252;font-size:18px"> Leprechaun's own skill effect stacks are increased by 5-12 stacks.</span>

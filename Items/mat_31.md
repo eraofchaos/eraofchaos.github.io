@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Gems"
 permalink: /Items/mat_31/
 excerpt: "Legendary Gems"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_31.md"
 toc: false

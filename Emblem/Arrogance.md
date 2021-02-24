@@ -2,7 +2,7 @@
 title: "Holy Emblem - Arrogance"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Arrogance. Arrogance. Era of Chaos Holy Emblem Arrogance. Era of Chaos Chaos Arrogance"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Arrogance.md"
 toc: false

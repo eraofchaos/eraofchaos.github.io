@@ -2,7 +2,7 @@
 title: "Item - Consumables - Newcomer Pack"
 permalink: /Items/con_69/
 excerpt: "Newcomer Pack"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_69.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Faction Altar for January 2021"
 permalink: /FactionAltar/Faction Altar January_2021/
 excerpt: "Faction Altar for January 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Faction Altar January_2021.md"
 toc: false
@@ -23,10 +23,10 @@ classes: wide
 
   |    Date    |  Race  |  Details  |   Drop Souls   | Drop Units |
   |:-----------|:-------|:---------:|:--------------:|:----------:|
-  | 4 - 11 Jan | **Castle** | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [Halberdier Soul Stone](/Items/unt_59/), [Master Archer Soul Stone](/Items/unt_82/), [Crusader Soul Stone](/Items/unt_103/), [Zealot Soul Stone](/Items/unt_123/), [Champions Knight's Soul Stone](/Items/unt_144/), [Archangel Soul Stone](/Items/unt_15/) | [Pikeman](/Items/unt_119/), [Marksman](/Items/unt_24/), [Griffin](/Items/unt_11/), [Swordsman](/Items/unt_61/), [Monk](/Items/unt_63/), [Cavalier ](/Items/unt_44/), [Angel](/Items/unt_104/), [Paladin](/Items/unt_84/) | 
-  | 11 - 18 Jan | **Inferno** | [Faction Altar Drop Details](/FactionAltar/DROP_105/) | [Familiar Soul Stone](/Items/unt_120/), [Magog Soul Stone](/Items/unt_138/), [Pit Lord Soul Stone](/Items/unt_37/), [Efreet Sultan Soul Stone](/Items/unt_52/), [Arch Devil Soul Stone](/Items/unt_72/) | [Imp](/Items/unt_62/), [Gog](/Items/unt_43/), [Hell Hound](/Items/unt_100/), [Demon](/Items/unt_78/), [Pit Fiend](/Items/unt_137/), [Efreeti](/Items/unt_116/), [Devil](/Items/unt_19/) | 
-  | 18 - 25 Jan | **Fortress** | [Faction Altar Drop Details](/FactionAltar/DROP_108/) | [Chaos Hydra Soul Stone](/Items/unt_91/) | [Gnoll](/Items/unt_41/), [Lizardman](/Items/unt_96/), [Serpent Fly](/Items/unt_77/), [Gorgon](/Items/unt_115/), [Hydra](/Items/unt_4/) | 
-  | 25 Jan - 1 Feb | **Necropolis** | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [Skeleton Warrior Soul Stone](/Items/unt_12/), [Zombie Soul Stone](/Items/unt_27/), [Vampire Lord Soul Stone](/Items/unt_64/), [Ghost Dragon Soul Stone](/Items/unt_125/) | [Skeleton](/Items/unt_80/), [Walking Dead](/Items/unt_140/), [Wight](/Items/unt_141/), [Vampire](/Items/unt_122/), [Bone Dragon](/Items/unt_65/) | 
+  | 4 - 11 Jan | **Castle** | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [Halberdier Soul Stone](/Items/unt_59/), [Master Archer Soul Stone](/Items/unt_83/), [Crusader Soul Stone](/Items/unt_104/), [Zealot Soul Stone](/Items/unt_124/), [Champions Knight's Soul Stone](/Items/unt_145/), [Archangel Soul Stone](/Items/unt_15/) | [Pikeman](/Items/unt_120/), [Marksman](/Items/unt_24/), [Griffin](/Items/unt_11/), [Swordsman](/Items/unt_61/), [Monk](/Items/unt_63/), [Cavalier ](/Items/unt_44/), [Angel](/Items/unt_105/), [Paladin](/Items/unt_85/) | 
+  | 11 - 18 Jan | **Inferno** | [Faction Altar Drop Details](/FactionAltar/DROP_105/) | [Familiar Soul Stone](/Items/unt_121/), [Magog Soul Stone](/Items/unt_139/), [Pit Lord Soul Stone](/Items/unt_37/), [Efreet Sultan Soul Stone](/Items/unt_52/), [Arch Devil Soul Stone](/Items/unt_73/) | [Imp](/Items/unt_62/), [Gog](/Items/unt_43/), [Hell Hound](/Items/unt_101/), [Demon](/Items/unt_79/), [Pit Fiend](/Items/unt_138/), [Efreeti](/Items/unt_117/), [Devil](/Items/unt_19/) | 
+  | 18 - 25 Jan | **Fortress** | [Faction Altar Drop Details](/FactionAltar/DROP_108/) | [Chaos Hydra Soul Stone](/Items/unt_92/) | [Gnoll](/Items/unt_41/), [Lizardman](/Items/unt_97/), [Serpent Fly](/Items/unt_78/), [Gorgon](/Items/unt_116/), [Hydra](/Items/unt_4/) | 
+  | 25 Jan - 1 Feb | **Necropolis** | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [Skeleton Warrior Soul Stone](/Items/unt_12/), [Zombie Soul Stone](/Items/unt_27/), [Vampire Lord Soul Stone](/Items/unt_64/), [Ghost Dragon Soul Stone](/Items/unt_126/) | [Skeleton](/Items/unt_81/), [Walking Dead](/Items/unt_141/), [Wight](/Items/unt_142/), [Vampire](/Items/unt_123/), [Bone Dragon](/Items/unt_65/) | 
 
 
 

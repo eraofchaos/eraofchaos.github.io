@@ -2,7 +2,7 @@
 title: "Item - Units - Hobgoblin Soul Stone"
 permalink: /Items/unt_60/
 excerpt: "Hobgoblin Soul Stone"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_60.md"
 toc: false

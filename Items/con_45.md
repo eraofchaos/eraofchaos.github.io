@@ -2,7 +2,7 @@
 title: "Item - Consumables - Darkness Dominance Pack"
 permalink: /Items/con_45/
 excerpt: "Darkness Dominance Pack"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_45.md"
 toc: false

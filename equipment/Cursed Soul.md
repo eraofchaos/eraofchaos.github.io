@@ -2,7 +2,7 @@
 title: "Cursed Soul"
 permalink: /equipment/Cursed Soul/
 excerpt: "Era of Chaos Cursed Soul. Cursed Soul"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Cursed Soul.md"
 toc: false

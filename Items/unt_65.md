@@ -2,7 +2,7 @@
 title: "Item - Units - Bone Dragon"
 permalink: /Items/unt_65/
 excerpt: "Bone Dragon"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_65.md"
 toc: false

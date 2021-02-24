@@ -2,7 +2,7 @@
 title: "Item - Consumables - Wings of Triumph: Gelu"
 permalink: /Items/con_52/
 excerpt: "Wings of Triumph: Gelu"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_52.md"
 toc: false

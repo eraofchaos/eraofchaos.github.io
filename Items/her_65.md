@@ -2,7 +2,7 @@
 title: "Item - Heroes - Time Stop"
 permalink: /Items/her_65/
 excerpt: "Time Stop"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_65.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Heroes - Fire Shield"
 permalink: /Items/her_95/
 excerpt: "Fire Shield"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_95.md"
 toc: false

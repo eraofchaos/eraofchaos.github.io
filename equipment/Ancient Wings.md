@@ -2,7 +2,7 @@
 title: "Ancient Wings"
 permalink: /equipment/Ancient Wings/
 excerpt: "Era of Chaos Ancient Wings. Ancient Wings"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Ancient Wings.md"
 toc: false

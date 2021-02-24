@@ -2,7 +2,7 @@
 title: "Item - Consumables - Vega Ciele"
 permalink: /Items/con_68/
 excerpt: "Vega Ciele"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_68.md"
 toc: false

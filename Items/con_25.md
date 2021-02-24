@@ -2,7 +2,7 @@
 title: "Item - Consumables - Small Campaign Treasure"
 permalink: /Items/con_25/
 excerpt: "Small Campaign Treasure"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_25.md"
 toc: false

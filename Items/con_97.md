@@ -2,7 +2,7 @@
 title: "Item - Consumables - Lunar Invitation Gem Offer"
 permalink: /Items/con_97/
 excerpt: "Lunar Invitation Gem Offer"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_97.md"
 toc: false

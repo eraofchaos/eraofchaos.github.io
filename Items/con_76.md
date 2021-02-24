@@ -2,7 +2,7 @@
 title: "Item - Consumables - SR Unit Token Chest"
 permalink: /Items/con_76/
 excerpt: "SR Unit Token Chest"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_76.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Stoic Watchman"
 permalink: /Items/art_28/
 excerpt: "Stoic Watchman"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_28.md"
 toc: false

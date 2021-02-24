@@ -2,7 +2,7 @@
 title: "Item - Heroes - Lifelink"
 permalink: /Items/her_74/
 excerpt: "Lifelink"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_74.md"
 toc: false

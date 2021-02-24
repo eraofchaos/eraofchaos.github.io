@@ -2,7 +2,7 @@
 title: "Item - Heroes - Abyss of Flames"
 permalink: /Items/her_24/
 excerpt: "Abyss of Flames"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_24.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Faction Altar for Dungeon"
 permalink: /FactionAltar/DROP_107/
 excerpt: "Faction Altar for Dungeon. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "DROP_107.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Dungeon Limited Edition Pack](/Items/con_1055/)
+  **Drop by Luck (10x spin): 30x** [Dungeon Limited Edition Pack](/Items/con_1057/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Dungeon Limited Edition Pack](/Items/con_1055/) |
-  | 2 | **12%** | **2x** | [Dungeon Limited Edition Pack](/Items/con_1055/) |
-  | 3 | **12%** | **3x** | [Dungeon Limited Edition Pack](/Items/con_1055/) |
-  | 4 | **12%** | **5x** |  **43%** [Harpy](/Items/unt_9/),  **13%** [Minotaur](/Items/unt_94/),  **43%** [Minotaur King Soul Stone](/Items/unt_3/),  |
-  | 5 | **12%** | **3x** |  **43%** [Harpy](/Items/unt_9/),  **13%** [Minotaur](/Items/unt_94/),  **43%** [Minotaur King Soul Stone](/Items/unt_3/),  |
-  | 6 | **12%** | **5x** |  **50%** [Troglodyte](/Items/unt_23/),  **50%** [Dark Troglodyte Soul Stone](/Items/unt_76/),  |
+  | 1 | **25%** | **1x** | [Dungeon Limited Edition Pack](/Items/con_1057/) |
+  | 2 | **12%** | **2x** | [Dungeon Limited Edition Pack](/Items/con_1057/) |
+  | 3 | **12%** | **3x** | [Dungeon Limited Edition Pack](/Items/con_1057/) |
+  | 4 | **12%** | **5x** |  **43%** [Harpy](/Items/unt_9/),  **13%** [Minotaur](/Items/unt_95/),  **43%** [Minotaur King Soul Stone](/Items/unt_3/),  |
+  | 5 | **12%** | **3x** |  **43%** [Harpy](/Items/unt_9/),  **13%** [Minotaur](/Items/unt_95/),  **43%** [Minotaur King Soul Stone](/Items/unt_3/),  |
+  | 6 | **12%** | **5x** |  **50%** [Troglodyte](/Items/unt_23/),  **50%** [Dark Troglodyte Soul Stone](/Items/unt_77/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Dungeon Limited Edition Pack](/Items/con_1055/) |
-  | 2 | **11%** | **5x** |  **43%** [Harpy](/Items/unt_9/),  **13%** [Minotaur](/Items/unt_94/),  **43%** [Minotaur King Soul Stone](/Items/unt_3/),  |
-  | 3 | **11%** | **3x** |  **43%** [Harpy](/Items/unt_9/),  **13%** [Minotaur](/Items/unt_94/),  **43%** [Minotaur King Soul Stone](/Items/unt_3/),  |
-  | 4 | **11%** | **5x** |  **50%** [Troglodyte](/Items/unt_23/),  **50%** [Dark Troglodyte Soul Stone](/Items/unt_76/),  |
+  | 1 | **55%** | **1x** | [Dungeon Limited Edition Pack](/Items/con_1057/) |
+  | 2 | **11%** | **5x** |  **43%** [Harpy](/Items/unt_9/),  **13%** [Minotaur](/Items/unt_95/),  **43%** [Minotaur King Soul Stone](/Items/unt_3/),  |
+  | 3 | **11%** | **3x** |  **43%** [Harpy](/Items/unt_9/),  **13%** [Minotaur](/Items/unt_95/),  **43%** [Minotaur King Soul Stone](/Items/unt_3/),  |
+  | 4 | **11%** | **5x** |  **50%** [Troglodyte](/Items/unt_23/),  **50%** [Dark Troglodyte Soul Stone](/Items/unt_77/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Dungeon Limited Edition Pack](/Items/con_1055/)
+  **Drop by 10x spin: X** [Dungeon Limited Edition Pack](/Items/con_1057/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Dark Troglodyte Soul Stone](/Items/unt_76/), [Minotaur King Soul Stone](/Items/unt_3/), [Black Dragon King Soul Stone](/Items/unt_34/) | [Troglodyte](/Items/unt_23/), [Harpy](/Items/unt_9/), [Minotaur](/Items/unt_94/), [Black Dragon](/Items/unt_128/), [Red Dragon](/Items/unt_111/) |
+  | [Dark Troglodyte Soul Stone](/Items/unt_77/), [Minotaur King Soul Stone](/Items/unt_3/), [Black Dragon King Soul Stone](/Items/unt_34/) | [Troglodyte](/Items/unt_23/), [Harpy](/Items/unt_9/), [Minotaur](/Items/unt_95/), [Black Dragon](/Items/unt_129/), [Red Dragon](/Items/unt_112/) |
 
 
 

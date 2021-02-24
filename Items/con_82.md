@@ -2,7 +2,7 @@
 title: "Item - Consumables - Conflux Crystal"
 permalink: /Items/con_82/
 excerpt: "Conflux Crystal"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_82.md"
 toc: false

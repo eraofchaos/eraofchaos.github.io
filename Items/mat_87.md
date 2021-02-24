@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Wood"
 permalink: /Items/mat_87/
 excerpt: "Secret Wood"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_87.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Claws of Decay"
 permalink: /equipment/Claws of Decay/
 excerpt: "Era of Chaos Claws of Decay. Claws of Decay"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Claws of Decay.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Unit EXP Upgrade cost per Level"
 permalink: /units/UnitUpgradeEXPPerLevel/
 excerpt: "Era of Chaos Unit EXP Upgrade cost per Level. Unit EXP Upgrade cost per Level"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "UnitUpgradeEXPPerLevel.md"
 toc: false

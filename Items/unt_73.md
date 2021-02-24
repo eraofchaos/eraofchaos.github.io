@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Arch Mage Soul Stone"
+title: "Item - Units - Arch Devil Soul Stone"
 permalink: /Items/unt_73/
-excerpt: "Arch Mage Soul Stone"
-last_modified_at: 2021-02-18
+excerpt: "Arch Devil Soul Stone"
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_73.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Arch Mage's Awakening level enhancement
+ **Description:** Soul Stone for Arch Devil's Awakening level enhancement
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Kingdom Store 
+*    Cross-server Store 
 
 ## This item contains:
 

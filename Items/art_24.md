@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Ice Scale"
 permalink: /Items/art_24/
 excerpt: "Ice Scale"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_24.md"
 toc: false

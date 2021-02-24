@@ -2,7 +2,7 @@
 title: "Item - Heroes - Dracon"
 permalink: /Items/her_40/
 excerpt: "Dracon"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_40.md"
 toc: false

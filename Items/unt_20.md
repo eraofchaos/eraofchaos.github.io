@@ -2,7 +2,7 @@
 title: "Item - Units - Inferno Guard Soul Stone"
 permalink: /Items/unt_20/
 excerpt: "Inferno Guard Soul Stone"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_20.md"
 toc: false

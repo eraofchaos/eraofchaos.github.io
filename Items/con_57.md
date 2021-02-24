@@ -2,7 +2,7 @@
 title: "Item - Consumables - Energy Pack"
 permalink: /Items/con_57/
 excerpt: "Energy Pack"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_57.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Ring of Vitality"
 permalink: /Items/art_50/
 excerpt: "Ring of Vitality"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_50.md"
 toc: false

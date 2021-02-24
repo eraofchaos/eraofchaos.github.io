@@ -2,7 +2,7 @@
 title: "Item - Consumables - Valentine's Day Chest A"
 permalink: /Items/con_90/
 excerpt: "Valentine's Day Chest A"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_90.md"
 toc: false

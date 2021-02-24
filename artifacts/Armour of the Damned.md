@@ -2,7 +2,7 @@
 title: "Artifacts - Armour of the Damned"
 permalink: /artifacts/Armour of the Damned/
 excerpt: "Armour of the Damned A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Armour of the Damned.md"
 toc: false

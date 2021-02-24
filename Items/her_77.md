@@ -2,7 +2,7 @@
 title: "Item - Heroes - Shiva"
 permalink: /Items/her_77/
 excerpt: "Shiva"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "her_77.md"
 toc: false

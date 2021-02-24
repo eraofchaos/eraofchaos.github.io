@@ -2,7 +2,7 @@
 title: "Item - Units - Regnan Archer"
 permalink: /Items/unt_48/
 excerpt: "Regnan Archer"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_48.md"
 toc: false

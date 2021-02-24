@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Sphere of Permanence"
 permalink: /Items/art_81/
 excerpt: "Sphere of Permanence"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "art_81.md"
 toc: false

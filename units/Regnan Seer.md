@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Regnan Seer"
 toc: true
@@ -175,7 +175,7 @@ toc: true
 
  **Awaking Name:** Tidal Elemental
 
- **Awaking Description:** 
+ **Awaking Description:** Weigh anchor and set sail! Tear everything to shreds! Plunder and conquer everything! Turn these seas into our personal playground!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Deploy Naga with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Tower units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> time at Champion level or higher. (Sweep does not count towards the mission.)</span>

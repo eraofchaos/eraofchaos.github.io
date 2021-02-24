@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Mercury"
 permalink: /Items/mat_29/
 excerpt: "Rare Mercury"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "mat_29.md"
 toc: false

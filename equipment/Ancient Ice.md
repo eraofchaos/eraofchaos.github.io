@@ -2,7 +2,7 @@
 title: "Ancient Ice"
 permalink: /equipment/Ancient Ice/
 excerpt: "Era of Chaos Ancient Ice. Ancient Ice"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "Ancient Ice.md"
 toc: false

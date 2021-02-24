@@ -2,7 +2,7 @@
 title: "Item - Consumables - Holiday Hero Special Offer"
 permalink: /Items/con_75/
 excerpt: "Holiday Hero Special Offer"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_75.md"
 toc: false

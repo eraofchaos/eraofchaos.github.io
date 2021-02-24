@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Gelu"
 permalink: /DineWithHeroesRestaurant Gelu.html
 excerpt: "Dine with Heroes - Restaurant - Gelu. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: en
 ref: "DineWithHeroesRestaurantGelu.html"
 toc: true
@@ -20,7 +20,7 @@ sidebar:
 
  **Level EXP: 100**
 
- **Reward:**  **5x** [Sack of Gold](/Items/con_643/)
+ **Reward:**  **5x** [Sack of Gold](/Items/con_645/)
 
  **Like Talk:** These pig's trotters are indeed delicious and nutritious. I've even heard that eating them frequently does wonders for your skin.
 
@@ -41,7 +41,7 @@ sidebar:
 
  **Like Talk:** The combination of specialty blood sausages and pickled cabbage sourced from the Northeast of China and pork belly in this dish is simply wonderful!
 
- **Like Food:** [Northeast Region Pickled Cabbage Hotpot](/Items/con_1080/)
+ **Like Food:** [Northeast Region Pickled Cabbage Hotpot](/Items/con_1082/)
 
  **Normal Talk:** Thanks, this style of hotpot tastes pretty good. Here, have some too.
 
@@ -58,7 +58,7 @@ sidebar:
 
  **Like Talk:** Oh my, adding the goose giblets to this type of master stock is simply a match made in heaven!
 
- **Like Food:** [Teochew Master Stock Hotpot](/Items/con_724/)
+ **Like Food:** [Teochew Master Stock Hotpot](/Items/con_726/)
 
  **Normal Talk:** Thanks, this style of hotpot tastes pretty good. Here, have some too.
 
@@ -75,7 +75,7 @@ sidebar:
 
  **Like Talk:** This hotpot tastes savory yet fresh. The people who first invented this type of hotpot dish must be geniuses indeed!
 
- **Like Food:** [Yunnan Cured Ribs Hotpot](/Items/con_874/)
+ **Like Food:** [Yunnan Cured Ribs Hotpot](/Items/con_876/)
 
  **Normal Talk:** Thanks, this style of hotpot tastes pretty good. Here, have some too.
 
@@ -126,7 +126,7 @@ sidebar:
 
  **Like Talk:** The dish's one-of-a-kind soup base is made of porridge and it pairs perfectly well with the freshness of the seafood. It's absolutely delicious!
 
- **Like Food:** [Cantonese Seafood Hotpot](/Items/con_966/)
+ **Like Food:** [Cantonese Seafood Hotpot](/Items/con_968/)
 
  **Normal Talk:** Thanks, this style of hotpot tastes pretty good. Here, have some too.
 
@@ -156,11 +156,11 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward:** [Premium Artifact Component Pack](/Items/con_1277/)
+ **Reward:** [Premium Artifact Component Pack](/Items/con_1280/)
 
  **Like Talk:** The tofu is spicy yet silky, while the fish is spicy and fresh. Together, they form the delicacy that is the Fushun Tofu Fish.
 
- **Like Food:** [Sichuan Fushun Tofu Fish](/Items/con_660/)
+ **Like Food:** [Sichuan Fushun Tofu Fish](/Items/con_662/)
 
  **Normal Talk:** Thanks, this style of hotpot tastes pretty good. Here, have some too.
 
@@ -177,7 +177,7 @@ sidebar:
 
  **Like Talk:** The experience of eating fish offal without having to spit out fish bones is simply incredible! The different types of fish offal found in this hotpot have incredibly rich flavors.
 
- **Like Food:** [Hubei Fish Offal](/Items/con_782/)
+ **Like Food:** [Hubei Fish Offal](/Items/con_784/)
 
  **Normal Talk:** Thanks, this style of hotpot tastes pretty good. Here, have some too.
 

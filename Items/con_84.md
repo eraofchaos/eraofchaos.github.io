@@ -2,7 +2,7 @@
 title: "Item - Consumables - Gold"
 permalink: /Items/con_84/
 excerpt: "Gold"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "con_84.md"
 toc: false

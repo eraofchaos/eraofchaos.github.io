@@ -2,7 +2,7 @@
 title: "Item - Units - Mummy"
 permalink: /Items/unt_47/
 excerpt: "Mummy"
-last_modified_at: 2021-02-18
+last_modified_at: 2021-02-24
 locale: en
 ref: "unt_47.md"
 toc: false
