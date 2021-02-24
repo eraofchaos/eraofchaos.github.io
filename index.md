@@ -18,10 +18,8 @@ sidebar:
 - New unit skin: "Blood Crystal Dragon: Red Dragon"
 - Awaking for [Wight](https://eraofchaos.github.io/units/Wight/) -> **Wraith**
 - Correction for "Panic Disorder" skill: updated range
-- Correction for 2 Wight's skills:
-	- <Incarnation of Horror> Increases Wight's DEF by 10%. When friendly heroes cast earth-type spells, Wight restores 5 mana for heroes and decreases Earth Magic Resistance and Unit DMG of all enemy units by 4% and 2% respectively. These effects stack up to 20 times, cannot be dispelled, and last for the whole battle.
-	- <Incarnation of Horror> Increases Wight's DEF by 10%. When friendly heroes cast earth-type spells, Wight restores 5 mana for heroes and decreases Earth Magic Resistance and Unit DMG of enemies by 8% and 4% respectively. These effects stack up to 6 times, cannot be dispelled, and last for the whole battle.
-- New feature: CRUSADE FUND
+- Correction for 2 Wight's skills: [Quaky Soul](https://eraofchaos.github.io/units/Wight/#5th-skill-or-6th-quaky-soul) and [Horrible Scene](https://eraofchaos.github.io/units/Wight/#6th-skill-or-5th-horrible-scene)
+- New feature: Campaign Growth Fund (see Events->Special)
 - New battle calculation (version 10126).
 
 {% endcapture %}
@@ -77,8 +75,8 @@ You will find here:
 ### <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
 ### <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 
-### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 7 February 2021)
-### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 8 February 2021)
+### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 14 March 2021)
+### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 15 March 2021)
 ### <i class="fas fa-calendar-day"/> [Hotspot Artifacs and Spells](https://eraofchaos.github.io/Hotspot/) (for complete 2021)
 #### <i class="fas fa-calendar-day"/> [Hotspot Artifacs 2021](https://eraofchaos.github.io/Hotspot/HotSpot Artifact _2021/)
 #### <i class="fas fa-calendar-day"/> [Hotspot Spells 2021](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
