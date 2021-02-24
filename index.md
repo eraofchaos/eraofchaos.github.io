@@ -2,12 +2,38 @@
 title: "Era Of Chaos Wiki: Units, Heroes, Items, Artifacts, Quests and more"
 excerpt: "Era of Chaos, Era of Chaos Wiki. Complete information about the Era Of Chaos: Units, Heroes, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
 author_profile: false
-last_modified_at: 2021-02-12
+last_modified_at: 2021-02-23
 toc: false
+locale: en
 classes: wide
 sidebar:
   nav: "docs"
 ---
+
+
+{% capture notice-update20210223 %}
+**Client update** (version **142 (3115)**):
+
+* Avatar frame for "Blood Crystal Dragon" and Wraith
+* New unit skin: "Blood Crystal Dragon: Red Dragon"
+* Awaking for [Wight](https://eraofchaos.github.io/units/Wight/) -> **Wraith**
+* Correction for "Panic Disorder" skill: updated range
+* Correction for 2 Wight's skills:
+
+	- <Incarnation of Horror> Increases Wight's DEF by 10%. When friendly heroes cast earth-type spells, Wight restores 5 mana for heroes and decreases Earth Magic Resistance and Unit DMG of all enemy units by 4% and 2% respectively. These effects stack up to 20 times, cannot be dispelled, and last for the whole battle.
+
+	- <Incarnation of Horror> Increases Wight's DEF by 10%. When friendly heroes cast earth-type spells, Wight restores 5 mana for heroes and decreases Earth Magic Resistance and Unit DMG of enemies by 8% and 4% respectively. These effects stack up to 6 times, cannot be dispelled, and last for the whole battle.
+
+* New feature: CRUSADE FUND
+* New battle calculation (version 10126).
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">23 February 2021 Update:</h4>
+  {{ notice-update20210223 | markdownify }}
+</div>
+
 
 {% capture notice-update20210216 %}
 **Client update** (version **142 (3100)**):
@@ -31,28 +57,7 @@ Due to technical limitation on github (we have about 4000 pages on wiki), we sho
 </div>
 
 
-{% capture notice-update20210205 %}
-**Client update** (version **142 (3090)**):
 
-New **Dine With Heroes** event:
-*    [Dine With Heroes - Kitchen Recipes](https://eraofchaos.github.io/DineWithHeroesKitchenRecipes.html)
-*    [Dine with Heroes - Market](https://eraofchaos.github.io/DineWithHeroesMarket.html)
-*    [Dine with Heroes - Restaurant](https://eraofchaos.github.io/DineWithHeroesRestaurant.html)
-*    [Spring Special - Mysterious Treasure Trove](https://eraofchaos.github.io/SpringSpecialMysteriousTreasureTrove.html)
-
-* New battle calculation (version 10123): 
-  * Added Fire/Water/Air/Earth damage,
-  * Team deffence for Fire/Water/Air/Earth magic
-  * Increase unit's HP%/Atk% at unit death
-  * Defined "ANTIKNOCK" and "Hot_Attack" type of unit activity/property
-* Corrected drop for some items (like "Legendary Nian Monster Chest", "Rare Nian Monster Chest", etc)
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">5 February 2021 Update:</h4>
-  {{ notice-update20210205 | markdownify }}
-</div>
 
 
 

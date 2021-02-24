@@ -12,6 +12,29 @@ sidebar:
 
 ### Era Of Chaos - Game client update History
 
+{% capture notice-update20210205 %}
+**Client update** (version **142 (3090)**):
+
+New **Dine With Heroes** event:
+*    [Dine With Heroes - Kitchen Recipes](https://eraofchaos.github.io/DineWithHeroesKitchenRecipes.html)
+*    [Dine with Heroes - Market](https://eraofchaos.github.io/DineWithHeroesMarket.html)
+*    [Dine with Heroes - Restaurant](https://eraofchaos.github.io/DineWithHeroesRestaurant.html)
+*    [Spring Special - Mysterious Treasure Trove](https://eraofchaos.github.io/SpringSpecialMysteriousTreasureTrove.html)
+
+* New battle calculation (version 10123): 
+  * Added Fire/Water/Air/Earth damage,
+  * Team deffence for Fire/Water/Air/Earth magic
+  * Increase unit's HP%/Atk% at unit death
+  * Defined "ANTIKNOCK" and "Hot_Attack" type of unit activity/property
+* Corrected drop for some items (like "Legendary Nian Monster Chest", "Rare Nian Monster Chest", etc)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">5 February 2021 Update:</h4>
+  {{ notice-update20210205 | markdownify }}
+</div>
+
 {% capture notice-update20210203 %}
 **Client update** (version **142 (3073)**):
 
@@ -98,7 +121,7 @@ New changes in Auto-Chess: Increased amount of coin per lose (on initial phase) 
 {% capture notice-update20210119 %}
 **Client update** (version 142):
 
-* Corrected year to 2021 in "Â©2019-2021 Ubisoft Entertainment. Might and Magic, Heroes. All Rights Reserved." for login screen
+* Corrected year to 2021 in "CB)2019-2021 Ubisoft Entertainment. Might and Magic, Heroes. All Rights Reserved." for login screen
 * New "Wild Overlord Avatar Frame"
 * New Avatars: Waspwort, Titan and Chaos Hydra
 * Unit [Hydra](https://eraofchaos.github.io/units/Hydra/) and [Giant](https://eraofchaos.github.io/units/Giant/) got Awakening. See [Chaos Hydra Soul Stone](https://eraofchaos.github.io/Items/unt_91/) and [Titan Soul Stone](https://eraofchaos.github.io/Items/unt_128/)
