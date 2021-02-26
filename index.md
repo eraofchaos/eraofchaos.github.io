@@ -10,6 +10,22 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210226 %}
+Dear Era of Chaos players,
+
+We ([Era of chaos Wiki](https://eraofchaos.github.io/), [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) and [Reddit Era Of Chaos community](https://www.reddit.com/r/era_of_chaos/)) are starting sequence of tasks/quiz to open information about new feature - Exclusive in the game. 
+
+The first task is very easy, just [vote for your Faction on Reddit](https://www.reddit.com/r/era_of_chaos/comments/lt7iwo/new_game_feature_exclusive_weaponflag/)
+
+Subscribe on [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) to participate in another tasks/quiz - to open information about another Factions.
+By winning/openning your Faction You would be able to see Exclusive information for all Units within Faction.
+Keep in mind Exclusive is next "game changer".
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">26 February 2021 Update:</h4>
+  {{ notice-update20210226 | markdownify }}
+</div>
 
 {% capture notice-update20210223 %}
 **Client update** (version **142 (3115)**):
@@ -30,26 +46,7 @@ sidebar:
 </div>
 
 
-{% capture notice-update20210216 %}
-**Client update** (version **142 (3100)**):
 
-* Corrected some tips for current event
-* Added 1 string into localization files (main impact on update size)
-* New battle calculation (version 10124): no changes on client side, may be some correction on server side.
-
-**Wiki update** 
-
-[Faction Altar for 2021](https://eraofchaos.github.io/FactionAltar/) - Complete Faction Altar with drop units/souls and drop chance. Click on "Faction Altar Drop Details" to see more.
-
-Thanks for your activity. We have **3.6k unique users**, about **30K visitors per week** from **86 countries**.
-Due to technical limitation on github (we have about 4000 pages on wiki), we should split wiki for each language. After it, DE/FR/RU/IT/ES languages would be updated to current game state.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">16 February 2021 Update:</h4>
-  {{ notice-update20210216 | markdownify }}
-</div>
 
 
 
