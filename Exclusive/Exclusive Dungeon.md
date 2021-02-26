@@ -8,7 +8,7 @@ ref: "Exclusive Dungeon"
 toc: false
 classes: wide
 ---
- [Conflux](/Exlusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exlusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exlusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortress](/Exlusive/Exclusive Fortress/){: .btn .btn--danger} [Rampart](/Exlusive/Exclusive Rampart/){: .btn .btn--info} [Castle](/Exlusive/Exclusive Castle/){: .btn .btn--primary} [Tower](/Exlusive/Exclusive Tower/){: .btn .btn--success} [Stronghold](/Exlusive/Exclusive Stronghold/){: .btn .btn--warning} [Cove](/Exlusive/Exclusive Cove/){: .btn .btn--danger} [Neutral Army](/Exlusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropolis](/Exlusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortress](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rampart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castle](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tower](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Stronghold](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cove](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutral Army](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
   | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
