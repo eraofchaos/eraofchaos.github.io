@@ -12,12 +12,12 @@ classes: wide
 
   | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1 | [Psychic Elemental](/units/Psychic Elemental/) | Spirit Core | - | 3 | [Spirit Core Token](/Items/con_595/) | [Spirit Core Special Skin](/Items/con_639/) |
-  | 2 | [Firebird](/units/Firebird/) | Eternal Flame | - | 2 | [Eternal Flame Token](/Items/con_967/) | [Eternal Flame Special Skin](/Items/con_317/) |
+  | 1 | [Psychic Elemental](/units/Psychic Elemental/) | Spirit Core | - | Support | [Spirit Core Token](/Items/con_595/) | [Spirit Core Special Skin](/Items/con_639/) |
+  | 2 | [Firebird](/units/Firebird/) | Eternal Flame | - | Ranged | [Eternal Flame Token](/Items/con_967/) | [Eternal Flame Special Skin](/Items/con_317/) |
   | 3 | [Ice Demon](/units/Ice Demon/) | - | - | - | none | none |
   | 4 | [Leprechaun](/units/Leprechaun/) | - | - | - | none | none |
-  | 5 | [Sprite](/units/Sprite/) | Knight Pike | - | 1 | [Knight Pike Token](/Items/con_210/) | - |
-  | 6 | [Storm Elemental](/units/Storm Elemental/) | Long Bow | - | 1 | [Long Bow Token](/Items/con_134/) | - |
-  | 7 | [Ice Elemental](/units/Ice Elemental/) | Arcane Chant | - | 1 | [Arcane Chant Token](/Items/con_122/) | - |
-  | 8 | [Fire Elemental](/units/Fire Elemental/) | Fire Energy | - | 2 | [Fire Energy Token](/Items/con_1275/) | [Fire Energy Special Skin](/Items/con_1296/) |
-  | 9 | [Stone Elemental](/units/Stone Elemental/) | Energy Core | - | 2 | [Energy Core Token](/Items/con_203/) | [Energy Core Special Skin](/Items/con_950/) |
+  | 5 | [Sprite](/units/Sprite/) | Knight Pike | - | Charge | [Knight Pike Token](/Items/con_210/) | - |
+  | 6 | [Storm Elemental](/units/Storm Elemental/) | Long Bow | - | Charge | [Long Bow Token](/Items/con_134/) | - |
+  | 7 | [Ice Elemental](/units/Ice Elemental/) | Arcane Chant | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |
+  | 8 | [Fire Elemental](/units/Fire Elemental/) | Fire Energy | - | Ranged | [Fire Energy Token](/Items/con_1275/) | [Fire Energy Special Skin](/Items/con_1296/) |
+  | 9 | [Stone Elemental](/units/Stone Elemental/) | Energy Core | - | Ranged | [Energy Core Token](/Items/con_203/) | [Energy Core Special Skin](/Items/con_950/) |

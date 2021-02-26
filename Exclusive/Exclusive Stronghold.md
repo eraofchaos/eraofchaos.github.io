@@ -12,12 +12,12 @@ classes: wide
 
   | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1 | [Roc](/units/Roc/) | Arcane Chant | - | 1 | [Arcane Chant Token](/Items/con_122/) | - |
-  | 2 | [Ogre](/units/Ogre/) | Iris Shield | - | 1 | [Iris Shield Token](/Items/con_153/) | - |
-  | 3 | [Cyclops](/units/Cyclops/) | Long Bow | - | 1 | [Long Bow Token](/Items/con_134/) | - |
-  | 4 | [Behemoth](/units/Behemoth/) | Bloodthirsty Spirit | - | 3 | [Bloodthirsty Spirit Token](/Items/con_375/) | [Bloodthirsty Spirit Special Skin](/Items/con_652/) |
-  | 5 | [Berserker](/units/Berserker/) | Berserker's Axe | - | 3 | [Berserker's Axe Token](/Items/con_789/) | [Berserker's Axe Special Skin](/Items/con_347/) |
+  | 1 | [Roc](/units/Roc/) | Arcane Chant | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |
+  | 2 | [Ogre](/units/Ogre/) | Iris Shield | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
+  | 3 | [Cyclops](/units/Cyclops/) | Long Bow | - | Charge | [Long Bow Token](/Items/con_134/) | - |
+  | 4 | [Behemoth](/units/Behemoth/) | Bloodthirsty Spirit | - | Support | [Bloodthirsty Spirit Token](/Items/con_375/) | [Bloodthirsty Spirit Special Skin](/Items/con_652/) |
+  | 5 | [Berserker](/units/Berserker/) | Berserker's Axe | - | Support | [Berserker's Axe Token](/Items/con_789/) | [Berserker's Axe Special Skin](/Items/con_347/) |
   | 6 | [Troll](/units/Troll/) | - | - | - | none | none |
-  | 7 | [Goblin](/units/Goblin/) | Sword | - | 1 | [Sword Token](/Items/con_163/) | - |
-  | 8 | [Wolf Rider](/units/Wolf Rider/) | Knight Pike | - | 1 | [Knight Pike Token](/Items/con_210/) | - |
-  | 9 | [Orc](/units/Orc/) | Long Bow | - | 1 | [Long Bow Token](/Items/con_134/) | - |
+  | 7 | [Goblin](/units/Goblin/) | Sword | - | Charge | [Sword Token](/Items/con_163/) | - |
+  | 8 | [Wolf Rider](/units/Wolf Rider/) | Knight Pike | - | Charge | [Knight Pike Token](/Items/con_210/) | - |
+  | 9 | [Orc](/units/Orc/) | Long Bow | - | Charge | [Long Bow Token](/Items/con_134/) | - |

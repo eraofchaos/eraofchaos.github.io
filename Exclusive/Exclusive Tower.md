@@ -12,12 +12,12 @@ classes: wide
 
   | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1 | [Gremlin](/units/Gremlin/) | Long Bow | - | 1 | [Long Bow Token](/Items/con_134/) | - |
-  | 2 | [Iron Golem](/units/Iron Golem/) | Iris Shield | - | 1 | [Iris Shield Token](/Items/con_153/) | - |
-  | 3 | [Stone Gargoyle](/units/Stone Gargoyle/) | Sword | - | 1 | [Sword Token](/Items/con_163/) | - |
-  | 4 | [Arch Mage](/units/Arch Mage/) | Arcane Chant | - | 1 | [Arcane Chant Token](/Items/con_122/) | - |
-  | 5 | [Genie](/units/Genie/) | Lyra | - | 2 | [Lyra Token](/Items/con_1104/) | [Lyra Special Skin](/Items/con_189/) |
-  | 6 | [Naga](/units/Naga/) | Naga Sword | - | 3 | [Naga Sword Token](/Items/con_94/) | [Naga Sword Special Skin](/Items/con_707/) |
-  | 7 | [Giant](/units/Giant/) | Thousand Ton | - | 3 | [Thousand Ton Token](/Items/con_448/) | [Thousand Ton Special Skin](/Items/con_1010/) |
-  | 8 | [Magic Airship](/units/Magic Airship/) | Polaris | - | 2 | [Polaris Token](/Items/con_865/) | [Polaris Special Skin](/Items/con_1374/) |
+  | 1 | [Gremlin](/units/Gremlin/) | Long Bow | - | Charge | [Long Bow Token](/Items/con_134/) | - |
+  | 2 | [Iron Golem](/units/Iron Golem/) | Iris Shield | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
+  | 3 | [Stone Gargoyle](/units/Stone Gargoyle/) | Sword | - | Charge | [Sword Token](/Items/con_163/) | - |
+  | 4 | [Arch Mage](/units/Arch Mage/) | Arcane Chant | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |
+  | 5 | [Genie](/units/Genie/) | Lyra | - | Ranged | [Lyra Token](/Items/con_1104/) | [Lyra Special Skin](/Items/con_189/) |
+  | 6 | [Naga](/units/Naga/) | Naga Sword | - | Support | [Naga Sword Token](/Items/con_94/) | [Naga Sword Special Skin](/Items/con_707/) |
+  | 7 | [Giant](/units/Giant/) | Thousand Ton | - | Support | [Thousand Ton Token](/Items/con_448/) | [Thousand Ton Special Skin](/Items/con_1010/) |
+  | 8 | [Magic Airship](/units/Magic Airship/) | Polaris | - | Ranged | [Polaris Token](/Items/con_865/) | [Polaris Special Skin](/Items/con_1374/) |
   | 9 | [Dragon Golem](/units/Dragon Golem/) | - | - | - | none | none |

@@ -12,12 +12,12 @@ classes: wide
 
   | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1 | [Regnan Seer](/units/Regnan Seer/) |  | - | 4 | [The City by the Ocean Banner Soul](/Items/con_972/) | - |
+  | 1 | [Regnan Seer](/units/Regnan Seer/) |  | - | Capital | [The City by the Ocean Banner Soul](/Items/con_972/) | - |
   | 2 | [Revyaratan](/units/Revyaratan/) | - | - | - | none | none |
   | 3 | [Shark Trainer](/units/Shark Trainer/) | - | - | - | none | none |
   | 4 | [Regnan Archer](/units/Regnan Archer/) | - | - | - | none | none |
-  | 5 | [Sea Elemental](/units/Sea Elemental/) | Arcane Chant | - | 1 | [Arcane Chant Token](/Items/con_122/) | - |
-  | 6 | [Regnan Serpent](/units/Regnan Serpent/) | Day Tides | - | 2 | [Day Tides Token](/Items/con_1387/) | [Day Tides Special Skin](/Items/con_460/) |
-  | 7 | [Mermaid](/units/Mermaid/) | Night Tides | - | 2 | [Night Tides Token](/Items/con_315/) | [Night Tides Special Skin](/Items/con_766/) |
-  | 8 | [Dragon Turtle](/units/Dragon Turtle/) | Obedience | - | 3 | [Obedience Token](/Items/con_602/) | [Obedience Special Skin](/Items/con_1133/) |
-  | 9 | [Regnan Pirates](/units/Regnan Pirates/) | Sword | - | 1 | [Sword Token](/Items/con_163/) | - |
+  | 5 | [Sea Elemental](/units/Sea Elemental/) | Arcane Chant | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |
+  | 6 | [Regnan Serpent](/units/Regnan Serpent/) | Day Tides | - | Ranged | [Day Tides Token](/Items/con_1387/) | [Day Tides Special Skin](/Items/con_460/) |
+  | 7 | [Mermaid](/units/Mermaid/) | Night Tides | - | Ranged | [Night Tides Token](/Items/con_315/) | [Night Tides Special Skin](/Items/con_766/) |
+  | 8 | [Dragon Turtle](/units/Dragon Turtle/) | Obedience | - | Support | [Obedience Token](/Items/con_602/) | [Obedience Special Skin](/Items/con_1133/) |
+  | 9 | [Regnan Pirates](/units/Regnan Pirates/) | Sword | - | Charge | [Sword Token](/Items/con_163/) | - |

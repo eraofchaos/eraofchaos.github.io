@@ -12,12 +12,12 @@ classes: wide
 
   | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1 | [Mummy](/units/Mummy/) | Gauze | - | 2 | [Gauze Token](/Items/con_44/) | [Gauze Special Skin](/Items/con_1240/) |
+  | 1 | [Mummy](/units/Mummy/) | Gauze | - | Ranged | [Gauze Token](/Items/con_44/) | [Gauze Special Skin](/Items/con_1240/) |
   | 2 | [Dark Champion](/units/Dark Champion/) | - | - | - | none | none |
-  | 3 | [Skeleton](/units/Skeleton/) | Iris Shield | - | 1 | [Iris Shield Token](/Items/con_153/) | - |
-  | 4 | [Walking Dead](/units/Walking Dead/) | Iris Shield | + | 1 | [Iris Shield Token](/Items/con_153/) | - |
-  | 5 | [Wight](/units/Wight/) | Arcane Chant | - | 1 | [Arcane Chant Token](/Items/con_122/) | - |
-  | 6 | [Vampire](/units/Vampire/) | Knight Pike | - | 1 | [Knight Pike Token](/Items/con_210/) | - |
-  | 7 | [Black Knight](/units/Black Knight/) | Nether Sabre | + | 3 | [Nether Sabre Token](/Items/con_982/) | [Nether Sabre Special Skin](/Items/con_588/) |
-  | 8 | [Lich](/units/Lich/) | Death Tribute | + | 2 | [Death Tribute Token](/Items/con_715/) | [Death Tribute Special Skin](/Items/con_302/) |
-  | 9 | [Bone Dragon](/units/Bone Dragon/) | Immortal Dragon Bone | - | 3 | [Immortal Dragon Bone Token](/Items/con_1399/) | [Immortal Dragon Bone Special Skin](/Items/con_929/) |
+  | 3 | [Skeleton](/units/Skeleton/) | Iris Shield | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
+  | 4 | [Walking Dead](/units/Walking Dead/) | Iris Shield | + | Charge | [Iris Shield Token](/Items/con_153/) | - |
+  | 5 | [Wight](/units/Wight/) | Arcane Chant | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |
+  | 6 | [Vampire](/units/Vampire/) | Knight Pike | - | Charge | [Knight Pike Token](/Items/con_210/) | - |
+  | 7 | [Black Knight](/units/Black Knight/) | Nether Sabre | + | Support | [Nether Sabre Token](/Items/con_982/) | [Nether Sabre Special Skin](/Items/con_588/) |
+  | 8 | [Lich](/units/Lich/) | Death Tribute | + | Ranged | [Death Tribute Token](/Items/con_715/) | [Death Tribute Special Skin](/Items/con_302/) |
+  | 9 | [Bone Dragon](/units/Bone Dragon/) | Immortal Dragon Bone | - | Support | [Immortal Dragon Bone Token](/Items/con_1399/) | [Immortal Dragon Bone Special Skin](/Items/con_929/) |
