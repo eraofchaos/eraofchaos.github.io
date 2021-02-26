@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Minotaur"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Minotaur](/Items/unt_94/)
+ **Unit Soul:** [Minotaur](/Items/unt_95/)
 
  **Unit description:** Whirlwind: Causes AoE attack and decreases ATK speed
 

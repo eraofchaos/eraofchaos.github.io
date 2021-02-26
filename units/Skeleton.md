@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Skeleton"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Skeleton](/Items/unt_80/)
+ **Unit Soul:** [Skeleton](/Items/unt_81/)
 
  **Unit description:** Bone Shield: Increases the unit's damage reduction when health is lower than 50%.
 

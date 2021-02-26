@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Pikeman"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Pikeman](/Items/unt_119/)
+ **Unit Soul:** [Pikeman](/Items/unt_120/)
 
  **Unit description:** Spear Array: Deals damage to enemy units, causes stun.
 

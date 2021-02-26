@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Iron Golem"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Iron Golem](/Items/unt_118/)
+ **Unit Soul:** [Iron Golem](/Items/unt_119/)
 
  **Unit description:** Metal Resonance: Activates a protective shield to protect friendly units
 

@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Wight"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Wight](/Items/unt_141/)
+ **Unit Soul:** [Wight](/Items/unt_142/)
 
  **Unit description:** Horrific Shrieking: Causes Silence in the enemy troops in their path.
 

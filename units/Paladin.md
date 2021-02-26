@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Paladin"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Paladin](/Items/unt_84/)
+ **Unit Soul:** [Paladin](/Items/unt_85/)
 
  **Unit description:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
 

@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Wood Elf"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Wood Elf](/Items/unt_101/)
+ **Unit Soul:** [Wood Elf](/Items/unt_102/)
 
  **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 

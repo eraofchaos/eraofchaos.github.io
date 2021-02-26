@@ -2,13 +2,13 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Unit Member x9"
 toc: false
 classes: wide
 ---
- [x9](/units/Unit Member x9){: .btn .btn--primary} [x1](/units/Unit Member x1){: .btn .btn--success} [x4](/units/Unit Member x4){: .btn .btn--warning} 
+ [x9](/units/Unit Member x9/){: .btn .btn--primary} [x1](/units/Unit Member x1/){: .btn .btn--success} [x4](/units/Unit Member x4/){: .btn .btn--warning} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|

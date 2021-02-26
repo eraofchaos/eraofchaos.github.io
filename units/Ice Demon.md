@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ice Demon is a strange existence even in the Conflux Plane. She is like a piece of ice that will never melt. She blinds your eyes and steals your breath. She is just like those corpses who are buried in glacial graves."
 unitID: 908
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Ice Demon"
 toc: true
@@ -27,6 +27,8 @@ toc: true
  **Rank:** [Commander](/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+
+ **Unit Soul:** [Ice Demon](/Items/unt_71/)
 
  **Short description:** Control archer. Buffs allies.
 

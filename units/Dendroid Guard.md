@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Dendroid Guard"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Dendroid Guard](/Items/unt_83/)
+ **Unit Soul:** [Dendroid Guard](/Items/unt_84/)
 
  **Unit description:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
 

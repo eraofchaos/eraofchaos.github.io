@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Green Dragon"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Green Dragon](/Items/unt_124/)
+ **Unit Soul:** [Green Dragon](/Items/unt_125/)
 
  **Unit description:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
 

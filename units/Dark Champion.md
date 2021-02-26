@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Units. Units. Era of Chaos He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Dark Champion"
 toc: true
@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Dark Champion](/Items/unt_106/)
+ **Unit Soul:** [Dark Champion](/Items/unt_107/)
 
  **Short description:** Executes. Invincibility in own domain.
 

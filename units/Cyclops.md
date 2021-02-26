@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Cyclops"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Cyclops](/Items/unt_97/)
+ **Unit Soul:** [Cyclops](/Items/unt_98/)
 
  **Unit description:** Flame Stone: Deals catastrophic damage to all enemy troops in its path.
 

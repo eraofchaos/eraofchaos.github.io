@@ -2,7 +2,7 @@
 title: "Limited-Time Covenant Chance for TROLL x1 spin (300 gems)"
 permalink: /LimitedTime Covenant TROLL/
 excerpt: "Limited-Time Covenant Chance for TROLL x1 spin (300 gems)"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "limitedTimeCovenantTROLLChance.md"
 toc: false
@@ -14,13 +14,13 @@ classes: wide
 
   |   Drop rate    |      Item     | 
   |:---------------|:--------------| 
-  | **20 %** | **1 x**[Oracle Covenant](/Items/con_725/) | 
-  | **15 %** | **2 x**[Oracle Covenant](/Items/con_725/) | 
-  | **20 %** | **100 x**[Dragonsteel](/Items/con_852/) | 
-  | **15 %** | **200 x**[Dragonsteel](/Items/con_852/) | 
-  | **6 %** | **2 x**[Purple Crystal](/Items/con_1175/) | 
-  | **6 %** | **3 x**[Purple Crystal](/Items/con_1175/) | 
-  | **6 %** | **5 x**[Rare Material Chest](/Items/con_920/) | 
+  | **20 %** | **1 x**[Oracle Covenant](/Items/con_727/) | 
+  | **15 %** | **2 x**[Oracle Covenant](/Items/con_727/) | 
+  | **20 %** | **100 x**[Dragonsteel](/Items/con_854/) | 
+  | **15 %** | **200 x**[Dragonsteel](/Items/con_854/) | 
+  | **6 %** | **2 x**[Purple Crystal](/Items/con_1178/) | 
+  | **6 %** | **3 x**[Purple Crystal](/Items/con_1178/) | 
+  | **6 %** | **5 x**[Rare Material Chest](/Items/con_922/) | 
   | **6 %** | **50 x**[Ranged Talent Potion](/Items/con_486/) | 
   | **6 %** | **5 x**[Huge EXP potion](/Items/con_260/) | 
 

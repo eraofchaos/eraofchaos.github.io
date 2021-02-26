@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Magic Airship"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Magic Airship](/Items/unt_92/)
+ **Unit Soul:** [Magic Airship](/Items/unt_93/)
 
  **Short description:** buffs back-line DPS
 

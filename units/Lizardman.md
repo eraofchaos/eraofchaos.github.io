@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-02-24
+last_modified_at: 2021-02-26
 locale: en
 ref: "Lizardman"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Lizardman](/Items/unt_96/)
+ **Unit Soul:** [Lizardman](/Items/unt_97/)
 
  **Short description:** Strong DPS
 
