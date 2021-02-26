@@ -13,13 +13,13 @@ sidebar:
 {% capture notice-update20210226 %}
 Dear Era of Chaos players,
 
-We ([Era of chaos Wiki](https://eraofchaos.github.io/), [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) and [Reddit Era Of Chaos community](https://www.reddit.com/r/era_of_chaos/)) are starting sequence of tasks/quiz to open information about new feature - Exclusive in the game. 
+We ([Era of chaos Wiki](https://eraofchaos.github.io/), [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) and [Reddit Era Of Chaos community](https://www.reddit.com/r/era_of_chaos/)) are starting sequence of tasks/quiz to open information about new feature - [Exclusive](https://eraofchaos.github.io/Exclusive/) in the game. 
 
 The first task is very easy, just [vote for your Faction on Reddit](https://www.reddit.com/r/era_of_chaos/comments/lt7iwo/new_game_feature_exclusive_weaponflag/)
 
 Subscribe on [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) to participate in another tasks/quiz - to open information about another Factions.
 By winning/openning your Faction You would be able to see Exclusive information for all Units within Faction.
-Keep in mind Exclusive is next "game changer".
+Keep in mind [Exclusive](https://eraofchaos.github.io/Exclusive/) is next "game changer".
 {% endcapture %}
 
 <div class="notice--danger">
