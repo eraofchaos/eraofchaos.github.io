@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Giant"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Tower](/units/Faction Tower/)
+ **Faction:** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 

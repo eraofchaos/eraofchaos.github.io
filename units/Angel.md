@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Angel"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction: ** [Castle](/units/Faction Castle/)
+ **Faction:** [Castle](/units/Faction Castle/)
 
  **Race:** Angel
 

@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Vampire"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction: ** [Necropolis](/units/Faction Necropolis/)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Evil spirit
 

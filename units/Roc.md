@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Roc"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Stronghold](/units/Faction Stronghold/)
+ **Faction:** [Stronghold](/units/Faction Stronghold/)
 
  **Race:** Unicorn
 

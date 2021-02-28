@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Black Dragon"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Dungeon](/units/Faction Dungeon/)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dragon
 

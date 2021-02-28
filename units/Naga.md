@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Naga"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction: ** [Tower](/units/Faction Tower/)
+ **Faction:** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 

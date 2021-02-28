@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Skeleton"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Necropolis](/units/Faction Necropolis/)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Undead
 

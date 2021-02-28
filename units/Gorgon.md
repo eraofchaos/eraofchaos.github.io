@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Gorgon"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Fortress](/units/Faction Fortress/)
+ **Faction:** [Fortress](/units/Faction Fortress/)
 
  **Race:** Beast
 

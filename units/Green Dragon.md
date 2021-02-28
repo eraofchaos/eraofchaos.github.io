@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Green Dragon"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Rampart](/units/Faction Rampart/)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Dragon
 

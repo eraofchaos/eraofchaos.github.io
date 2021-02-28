@@ -3,7 +3,7 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Arch Mage"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Tower](/units/Faction Tower/)
+ **Faction:** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 

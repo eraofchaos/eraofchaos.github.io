@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Dragon Golem"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Tower](/units/Faction Tower/)
+ **Faction:** [Tower](/units/Faction Tower/)
 
  **Race:** Dragon
 

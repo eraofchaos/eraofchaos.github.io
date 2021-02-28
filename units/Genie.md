@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Genie"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Tower](/units/Faction Tower/)
+ **Faction:** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 

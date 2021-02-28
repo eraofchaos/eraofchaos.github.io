@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Centaur"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Rampart](/units/Faction Rampart/)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Forest
 

@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Regnan Serpent"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Cove](/units/Faction Cove/)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** The Underwaters
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Ranged -  Units"
 permalink: /units/Unit Class Ranged/
 excerpt: "Era of Chaos Unit Class Ranged. Unit Class Ranged. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Unit Class Ranged"
 toc: false

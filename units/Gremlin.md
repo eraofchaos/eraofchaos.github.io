@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Gremlin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction: ** [Tower](/units/Faction Tower/)
+ **Faction:** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 

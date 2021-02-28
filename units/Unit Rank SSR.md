@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Unit Rank SSR"
 toc: false

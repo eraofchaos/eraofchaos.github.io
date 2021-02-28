@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Regnan Seer"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Cove](/units/Faction Cove/)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** The Underwaters
 

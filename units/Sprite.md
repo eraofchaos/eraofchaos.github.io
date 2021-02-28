@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Sprite"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction: ** [Conflux](/units/Faction Conflux/)
+ **Faction:** [Conflux](/units/Faction Conflux/)
 
  **Race:** Beast Master
 

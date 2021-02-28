@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Regnan Archer"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction: ** [Cove](/units/Faction Cove/)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** Pirate
 

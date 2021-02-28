@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Firebird"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Conflux](/units/Faction Conflux/)
+ **Faction:** [Conflux](/units/Faction Conflux/)
 
  **Race:** Unicorn
 

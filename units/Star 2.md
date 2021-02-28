@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Star 2"
 toc: false

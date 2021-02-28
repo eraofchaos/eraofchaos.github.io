@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Walking Dead"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Necropolis](/units/Faction Necropolis/)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Undead
 

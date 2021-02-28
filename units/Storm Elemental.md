@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Storm Elemental"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction: ** [Conflux](/units/Faction Conflux/)
+ **Faction:** [Conflux](/units/Faction Conflux/)
 
  **Race:** Beast Master
 

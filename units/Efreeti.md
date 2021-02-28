@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Efreeti"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Inferno](/units/Faction Inferno/)
+ **Faction:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Evil spirit
 

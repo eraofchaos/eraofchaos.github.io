@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Imp"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Inferno](/units/Faction Inferno/)
+ **Faction:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniac
 

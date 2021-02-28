@@ -3,7 +3,7 @@ title: "Evil Sorceress"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Units. Units. Era of Chaos She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
 unitID: 709
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Evil Sorceress"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction: ** [Dungeon](/units/Faction Dungeon/)
+ **Faction:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Dungeon troops
 

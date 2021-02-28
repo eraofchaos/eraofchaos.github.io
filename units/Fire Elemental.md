@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Fire Elemental"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction: ** [Conflux](/units/Faction Conflux/)
+ **Faction:** [Conflux](/units/Faction Conflux/)
 
  **Race:** Beast Master
 

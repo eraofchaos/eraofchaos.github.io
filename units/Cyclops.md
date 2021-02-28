@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Cyclops"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** The further the distance between a Ranged unit and their target, the more deadly their attack.
 
- **Faction: ** [Stronghold](/units/Faction Stronghold/)
+ **Faction:** [Stronghold](/units/Faction Stronghold/)
 
  **Race:** Barbarian
 

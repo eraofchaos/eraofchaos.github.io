@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Black Knight"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction: ** [Necropolis](/units/Faction Necropolis/)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Undead
 

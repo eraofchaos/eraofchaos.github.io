@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Dragon Turtle"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Cove](/units/Faction Cove/)
+ **Faction:** [Cove](/units/Faction Cove/)
 
  **Race:** The Underwaters
 

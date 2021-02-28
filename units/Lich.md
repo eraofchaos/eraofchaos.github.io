@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Lich"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Necropolis](/units/Faction Necropolis/)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Undead
 

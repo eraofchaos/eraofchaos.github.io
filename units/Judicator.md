@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Judicator"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Castle](/units/Faction Castle/)
+ **Faction:** [Castle](/units/Faction Castle/)
 
  **Race:** Human
 

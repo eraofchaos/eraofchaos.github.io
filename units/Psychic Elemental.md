@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Psychic Elemental"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction: ** [Conflux](/units/Faction Conflux/)
+ **Faction:** [Conflux](/units/Faction Conflux/)
 
  **Race:** Beast Master
 

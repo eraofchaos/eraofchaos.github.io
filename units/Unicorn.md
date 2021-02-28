@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Unicorn"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction: ** [Rampart](/units/Faction Rampart/)
+ **Faction:** [Rampart](/units/Faction Rampart/)
 
  **Race:** Unicorn
 

@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Bone Dragon"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
 
- **Faction: ** [Necropolis](/units/Faction Necropolis/)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Dragon
 

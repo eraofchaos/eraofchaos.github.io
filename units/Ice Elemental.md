@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Ice Elemental"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** With their mastery of the secrets of magic, Caster units have higher magic resistance.
 
- **Faction: ** [Conflux](/units/Faction Conflux/)
+ **Faction:** [Conflux](/units/Faction Conflux/)
 
  **Race:** Beast Master
 

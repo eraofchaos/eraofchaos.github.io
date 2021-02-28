@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Mummy"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Necropolis](/units/Faction Necropolis/)
+ **Faction:** [Necropolis](/units/Faction Necropolis/)
 
  **Race:** Undead
 

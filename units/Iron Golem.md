@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Iron Golem"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class Description:** Defensive units can resist attack for longer and possess damage reduction.
 
- **Faction: ** [Tower](/units/Faction Tower/)
+ **Faction:** [Tower](/units/Faction Tower/)
 
  **Race:** Human
 

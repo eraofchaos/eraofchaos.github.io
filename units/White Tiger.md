@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Units. Units. Era of Chaos White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "White Tiger"
 toc: true
@@ -18,7 +18,7 @@ toc: true
 
  **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction: ** [Fortress](/units/Faction Fortress/)
+ **Faction:** [Fortress](/units/Faction Fortress/)
 
  **Race:** Unicorn
 
