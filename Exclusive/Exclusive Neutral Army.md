@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Neutral Army"
 permalink: /Exclusive/Exclusive Neutral Army/
 excerpt: "Era of Chaos Exclusive Neutral Army. Exclusive Neutral Army. List of Exclusive Neutral Armyin Era of Chaos"
-last_modified_at: 2021-02-26
+last_modified_at: 2021-02-28
 locale: en
 ref: "Exclusive Neutral Army"
 toc: false
@@ -12,5 +12,5 @@ classes: wide
 
   | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1 | [Assassin](/units/Assassin/) | - | - | - | none | none |
-  | 2 | [Spartan Warriors](/units/Spartan Warriors/) | - | - | - | none | none |
+  | 1  | [Assassin](/units/Assassin/) | - | - | - | none | none |
+  | 2  | [Spartan Warriors](/units/Spartan Warriors/) | - | - | - | none | none |
