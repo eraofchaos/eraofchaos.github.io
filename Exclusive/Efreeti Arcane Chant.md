@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1560
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Arcane Chant Token](/Items/con_122/) | <Flames of Oblivion> When the attacked target is burning, an extremely concentrated fireball is thrown, dealing damage equal to 30% of Max HP to enemy units in a large range. CD is 30s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_122/) | Increases Efreeti's Unit DMG by 20%. |

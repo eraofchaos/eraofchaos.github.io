@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1440
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Iris Shield Token](/Items/con_153/) | <Flametongue> Imp deals damage equal to 300% of own ATK to target unit and inflicts Burn for 6s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | Increases Imp's Magic Resistance by 25%. |

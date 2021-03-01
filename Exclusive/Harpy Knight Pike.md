@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1510
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Knight Pike Token](/Items/con_210/) | <Aerobatics> Harpy launches a powerful strike at a target unit, dealing damage equal to 300% of own ATK. It then flies into the air to fire feathered arrows, dealing damage equal to 10% of Max HP to enemy units in a large range while inflicting them with Hawk Venom for 5s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_210/) | Increases Harpy's Unit DMG by 20%. |

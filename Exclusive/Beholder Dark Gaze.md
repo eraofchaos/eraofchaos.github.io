@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1510
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Dark Gaze Token](/Items/con_1111/) | <Darksight> Deals damage equal to 200% of own ATK to enemy units in a large area in front of it while decreasing their Unit DMG Reduction by 15%. Effect doubles against stunned targets. Lasts 7s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Dark Gaze Token](/Items/con_1111/) | When enemy heroes casts a spell, Beholder gains a shield equal to 10% of Max HP for 7s. |

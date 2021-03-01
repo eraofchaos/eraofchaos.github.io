@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1560
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Nightmare's Eye Token](/Items/con_113/) | <Without a Trace> Each time Nightmare is attacked, there is a 25% chance of increasing own Attack Speed by 500% and Life Drain by 50% that lasts for one attack. |
   | **1x** <i class="fas fa-star"/> | **50x** [Nightmare's Eye Token](/Items/con_113/) | Increases Nightmare's Unit DMG Reduction by 20%. |

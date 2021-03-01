@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1510
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Knight Pike Token](/Items/con_210/) | Hell Hound attacks with all 3 heads, increasing Attack Speed by 300% but decreasing Unit DMG by 20%. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_210/) | Increases Hell Hound's Unit DMG by 20%. |

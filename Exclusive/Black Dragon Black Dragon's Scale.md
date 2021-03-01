@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1660
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Black Dragon's Scale Token](/Items/con_1215/) | <Shelter of Dragons> When its HP is less than 75%, 50%, 25%, the Black Dragon gives a shield equal to 15% of its Max HP to all friendly Defense dragon units (Dragon Turtle, Black Dragon/Black Dragon King) on the battlefield, and offers a shield equal to 30% of Max HP to all friendly non-Defense dragon units (Green Dragon/Gold Dragon, Bone Dragon/Ghost Dragon, Red Dragon, Hydra or Wyvern). The shield works throughout the entire battle and can be stacked. The Black Dragon's shield cannot be dispelled. Offers spell immunity for 3s when a shield is present |
   | **1x** <i class="fas fa-star"/> | **50x** [Black Dragon's Scale Token](/Items/con_1215/) | When the Black Dragon is on the battlefield, it increases unit's damage and unit's damage reduction for friendly Dungeon units by 10% |

@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1510
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Iris Shield Token](/Items/con_153/) | At the beginning of battle, Demon's dodge is increased by 1000 for 30s. For each dodge, get a permanent 1% unit's damage reduction increase, up to 30% |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | At the beginning of battle, the Demon's tenacity is increased by 500 for 30s |

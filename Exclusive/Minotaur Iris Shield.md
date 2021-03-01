@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1560
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Iris Shield Token](/Items/con_153/) | <Brutal Rush> Minotaur charges violently toward the target, dealing damage equal to 300% of own ATK while decreasing the Unit DMG Reduction of enemy units in a large range by 20% and their Attack Speed by 10% for 7s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | Increases Minotaur's Unit DMG Reduction by 20%. |

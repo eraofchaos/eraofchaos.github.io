@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1440
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Arcane Chant Token](/Items/con_122/) | <Scalding Spark> Gog deals damage equal to 400% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is already Bleeding, DEF is reduced by 15% for 7s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_122/) | Increases Gog's Attack Speed by 15%. |

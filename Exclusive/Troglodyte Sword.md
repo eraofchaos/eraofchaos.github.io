@@ -29,7 +29,8 @@ classes: wide
  **Power:** 1440
 
 ## Rank Up
-  |     Stars    |  Required to Up | Exclusive Effect | 
+
+  |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
   |  Initial  | **100x** [Sword Token](/Items/con_163/) | <Spear Lunge> Troglodyte deals damage equal to 200% of its own ATK to the target unit and inflicts Poison for 8s. If the target unit is already inflicted with Poison, the target unit is inflicted with Stun for 1s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_163/) | Increases Troglodyte's HP by 20% and Dodge by 200. |
