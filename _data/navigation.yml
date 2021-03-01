@@ -17,6 +17,8 @@ docs:
       url: /heroes/
     - title: "Units"
       url: /units/
+    - title: "Exclusive"
+      url: /Exclusive/
     - title: "Items"
       url: /Items/
     - title: "Artifacts"
@@ -39,6 +41,8 @@ docs:
       url: /Hotspot/
     - title: "Hotspot Spells 2021"
       url: /Hotspot/HotSpot Spell _2021/
+    - title: "Faction Altar 2021"
+      url: /FactionAltar/
     - title: "Sphinx answers"
       url: /sphinx/
 
