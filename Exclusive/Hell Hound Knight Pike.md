@@ -31,7 +31,7 @@ classes: wide
 ## Rank Up
   |     Stars    |  Required to Up | Exclusive Effect | 
   |:-------------|:---------------:|:---------------:|
-  | **- | **100x** [Knight Pike Token](/Items/con_210/) | Hell Hound attacks with all 3 heads, increasing Attack Speed by 300% but decreasing Unit DMG by 20%. |
+  |  Initial  | **100x** [Knight Pike Token](/Items/con_210/) | Hell Hound attacks with all 3 heads, increasing Attack Speed by 300% but decreasing Unit DMG by 20%. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_210/) | Increases Hell Hound's Unit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **80x** [Knight Pike Token](/Items/con_210/) | Increases Critical Hit DMG by 5% for 3s each time Hell Hound attacks. Stacks up to 10 times. |
   | **3x** <i class="fas fa-star"/> | **120x** [Knight Pike Token](/Items/con_210/) | <Dead Alive> When Hell Hound's HP falls below 66% and 33% for the first time, a head is sacrificed to remove and become immune to all abnormal statuses, increasing Dodge by 2,000 and Tenacity by 1,000 for 5s. |

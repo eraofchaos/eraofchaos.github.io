@@ -31,7 +31,7 @@ classes: wide
 ## Rank Up
   |     Stars    |  Required to Up | Exclusive Effect | 
   |:-------------|:---------------:|:---------------:|
-  | **- | **100x** [Arcane Chant Token](/Items/con_122/) | <Scalding Spark> Gog deals damage equal to 400% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is already Bleeding, DEF is reduced by 15% for 7s. |
+  |  Initial  | **100x** [Arcane Chant Token](/Items/con_122/) | <Scalding Spark> Gog deals damage equal to 400% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is already Bleeding, DEF is reduced by 15% for 7s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_122/) | Increases Gog's Attack Speed by 15%. |
   | **2x** <i class="fas fa-star"/> | **80x** [Arcane Chant Token](/Items/con_122/) | Increases Gog's Life Drain by 10%. |
   | **3x** <i class="fas fa-star"/> | **120x** [Arcane Chant Token](/Items/con_122/) | <Heatwave> When a friendly hero casts fire-type spells, Gog deals damage equal to 50% of own ATK every second to units in a large area in front of it and inflicts Burn for 5s. |
