@@ -2,7 +2,7 @@
 title: "Hellish Whip"
 permalink: /equipment/Hellish Whip/
 excerpt: "Era of Chaos Hellish Whip. Hellish Whip"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Hellish Whip.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pauldrons of Wolf-tongue"
 permalink: /equipment/Pauldrons of Wolf-tongue/
 excerpt: "Era of Chaos Pauldrons of Wolf-tongue. Pauldrons of Wolf-tongue"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Pauldrons of Wolf-tongue.md"
 toc: false

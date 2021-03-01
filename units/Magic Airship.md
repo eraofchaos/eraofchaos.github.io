@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Magic Airship"
 toc: true
@@ -71,6 +71,15 @@ toc: true
   | [Control System](/equipment/Control System/) | **HP** | **DEF** | 
   | [Main Control Tower](/equipment/Main Control Tower/) | **ATK** | **DEF** | 
   | [Observation Deck](/equipment/Observation Deck/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Polaris
+
+ **Item to up:** [Polaris Token](/Items/con_865/)
+
+ **Skin:** [Polaris Special Skin](/Items/con_1374/)
+
 
 ## Recommended Holy Emblems
 

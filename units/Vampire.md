@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Vampire"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Light Armor of Bloodthirst](/equipment/Light Armor of Bloodthirst/) | **HP** | **DEF** | 
   | [Shadow Shoulders](/equipment/Shadow Shoulders/) | **ATK** | **DEF** | 
   | [Shadow Cloak](/equipment/Shadow Cloak/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Knight Pike
+
+ **Item to up:** [Knight Pike Token](/Items/con_210/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

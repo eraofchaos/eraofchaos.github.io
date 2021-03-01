@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Black Dragon"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Devastative Fire](/equipment/Devastative Fire/) | **HP** | **DEF** | 
   | [Sky-blocking Wings](/equipment/Sky-blocking Wings/) | **ATK** | **DEF** | 
   | [Ironclad Scale](/equipment/Ironclad Scale/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Black Dragon's Scale
+
+ **Item to up:** [Black Dragon's Scale Token](/Items/con_1215/)
+
+ **Skin:** [Black Dragon's Scale Special Skin](/Items/con_604/)
+
 
 ## Recommended Holy Emblems
 

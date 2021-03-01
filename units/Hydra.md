@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Hydra"
 toc: true
@@ -73,6 +73,15 @@ toc: true
   | [Ruler's Earrings](/equipment/Ruler's Earrings/) | **HP** | **DEF** | 
   | [Plague Dragon Claw](/equipment/Plague Dragon Claw/) | **ATK** | **DEF** | 
   | [Sharp Back-spikes](/equipment/Sharp Back-spikes/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Hydra's Head
+
+ **Item to up:** [Hydra's Head Token](/Items/con_176/)
+
+ **Skin:** [Energy Core Special Skin](/Items/con_769/)
+
 
 ## Recommended Holy Emblems
 

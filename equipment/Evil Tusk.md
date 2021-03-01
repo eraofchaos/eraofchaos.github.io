@@ -2,7 +2,7 @@
 title: "Evil Tusk"
 permalink: /equipment/Evil Tusk/
 excerpt: "Era of Chaos Evil Tusk. Evil Tusk"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Evil Tusk.md"
 toc: false

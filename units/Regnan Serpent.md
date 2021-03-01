@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Regnan Serpent"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Shell Horn](/equipment/Shell Horn/) | **HP** | **DEF** | 
   | [Mermaid Claws](/equipment/Mermaid Claws/) | **ATK** | **DEF** | 
   | [Mazarine Fin](/equipment/Mazarine Fin/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Day Tides
+
+ **Item to up:** [Day Tides Token](/Items/con_1387/)
+
+ **Skin:** [Day Tides Special Skin](/Items/con_460/)
+
 
 ## Recommended Holy Emblems
 

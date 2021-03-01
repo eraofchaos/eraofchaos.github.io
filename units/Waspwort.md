@@ -3,7 +3,7 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Waspwort"
 toc: true
@@ -71,6 +71,9 @@ toc: true
   | [Toxic Thorn](/equipment/Toxic Thorn/) | **HP** | **DEF** | 
   | [Flower Overlord](/equipment/Flower Overlord/) | **ATK** | **DEF** | 
   | [Killer Bee](/equipment/Killer Bee/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

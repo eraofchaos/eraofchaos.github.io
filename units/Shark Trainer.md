@@ -3,12 +3,12 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark."
 unitID: 9909
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Shark Trainer"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -74,6 +74,9 @@ toc: true
   | [Protective Strap](/equipment/Protective Strap/) | **HP** | **DEF** | 
   | [Protective Gloves](/equipment/Protective Gloves/) | **ATK** | **DEF** | 
   | [Shark Reins](/equipment/Shark Reins/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

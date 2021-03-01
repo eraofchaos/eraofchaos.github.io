@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Efreeti"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Light Armor of Flame](/equipment/Light Armor of Flame/) | **HP** | **DEF** | 
   | [Bracers of Flame](/equipment/Bracers of Flame/) | **ATK** | **DEF** | 
   | [Pauldrons of Flame](/equipment/Pauldrons of Flame/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Arcane Chant
+
+ **Item to up:** [Arcane Chant Token](/Items/con_122/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Orc"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Belt of Constraint](/equipment/Belt of Constraint/) | **HP** | **DEF** | 
   | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **ATK** | **DEF** | 
   | [Bloodthirsty Pauldrons](/equipment/Bloodthirsty Pauldrons/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Long Bow
+
+ **Item to up:** [Long Bow Token](/Items/con_134/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

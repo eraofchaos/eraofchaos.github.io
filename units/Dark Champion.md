@@ -3,12 +3,12 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Units. Units. Era of Chaos He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Dark Champion"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -74,6 +74,9 @@ toc: true
   | [Heavy Helm of Pre-life](/equipment/Heavy Helm of Pre-life/) | **HP** | **DEF** | 
   | [Salvation Inferno Fire](/equipment/Salvation Inferno Fire/) | **ATK** | **DEF** | 
   | [Hades' Scapula](/equipment/Hades' Scapula/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

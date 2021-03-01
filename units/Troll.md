@@ -3,12 +3,12 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows."
 unitID: 409
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Troll"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -74,6 +74,9 @@ toc: true
   | [Might of Lords](/equipment/Might of Lords/) | **HP** | **DEF** | 
   | [Breach Armor](/equipment/Breach Armor/) | **ATK** | **DEF** | 
   | [Garrison Boots](/equipment/Garrison Boots/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

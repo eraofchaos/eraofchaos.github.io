@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Sprite"
 toc: true
@@ -73,6 +73,15 @@ toc: true
   | [Gown of Moon and Stars](/equipment/Gown of Moon and Stars/) | **HP** | **DEF** | 
   | [Phosphorus Butterfly Wings](/equipment/Phosphorus Butterfly Wings/) | **ATK** | **DEF** | 
   | [Emerald Arm Ring](/equipment/Emerald Arm Ring/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Knight Pike
+
+ **Item to up:** [Knight Pike Token](/Items/con_210/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

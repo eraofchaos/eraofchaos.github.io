@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Devil"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Molten Pentagram](/equipment/Molten Pentagram/) | **HP** | **DEF** | 
   | [Gauntlets of Molten Lava](/equipment/Gauntlets of Molten Lava/) | **ATK** | **DEF** | 
   | [Pauldrons of Molten Lava](/equipment/Pauldrons of Molten Lava/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Devil Scythe
+
+ **Item to up:** [Devil Scythe Token](/Items/con_1122/)
+
+ **Skin:** [Devil Scythe Special Skin](/Items/con_1247/)
+
 
 ## Recommended Holy Emblems
 

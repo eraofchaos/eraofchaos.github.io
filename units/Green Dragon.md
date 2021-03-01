@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Green Dragon"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Dragon Scale Armor](/equipment/Dragon Scale Armor/) | **HP** | **DEF** | 
   | [Claws of Decay](/equipment/Claws of Decay/) | **ATK** | **DEF** | 
   | [Venomous Dragon Blood](/equipment/Venomous Dragon Blood/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Resplendent Dragonwing
+
+ **Item to up:** [Resplendent Dragonwing Token](/Items/con_703/)
+
+ **Skin:** [Resplendent Dragonwing Special Skin](/Items/con_279/)
+
 
 ## Recommended Holy Emblems
 

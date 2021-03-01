@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Beholder"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Pupil of Death](/equipment/Pupil of Death/) | **HP** | **DEF** | 
   | [Evil Tusk](/equipment/Evil Tusk/) | **ATK** | **DEF** | 
   | [Tentacles from the Abyss](/equipment/Tentacles from the Abyss/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Dark Gaze
+
+ **Item to up:** [Dark Gaze Token](/Items/con_1111/)
+
+ **Skin:** [Dark Gaze Special Skin](/Items/con_9/)
+
 
 ## Recommended Holy Emblems
 

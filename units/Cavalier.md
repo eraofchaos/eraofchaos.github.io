@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Cavalier"
 toc: true
@@ -79,6 +79,15 @@ toc: true
   | [Visor of Defense](/equipment/Visor of Defense/) | **HP** | **DEF** | 
   | [Shield of Protection](/equipment/Shield of Protection/) | **ATK** | **DEF** | 
   | [Paladin's Pauldron](/equipment/Paladin's Pauldron/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Knight Pike
+
+ **Item to up:** [Knight Pike Token](/Items/con_210/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

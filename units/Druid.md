@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Druid"
 toc: true
@@ -73,6 +73,15 @@ toc: true
   | [Elder Staff](/equipment/Elder Staff/) | **HP** | **DEF** | 
   | [Robe of Storm Rage](/equipment/Robe of Storm Rage/) | **ATK** | **DEF** | 
   | [Thigh Boots of the Forest](/equipment/Thigh Boots of the Forest/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Staff of Regrowth
+
+ **Item to up:** [Staff of Regrowth Token](/Items/con_980/)
+
+ **Skin:** [Staff of Regrowth Special Skin](/Items/con_668/)
+
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Black Knight"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Visor of the Dead](/equipment/Visor of the Dead/) | **HP** | **DEF** | 
   | [Bracer of Nightmares](/equipment/Bracer of Nightmares/) | **ATK** | **DEF** | 
   | [Nightmare Pauldrons](/equipment/Nightmare Pauldrons/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Nether Sabre
+
+ **Item to up:** [Nether Sabre Token](/Items/con_982/)
+
+ **Skin:** [Nether Sabre Special Skin](/Items/con_588/)
+
 
 ## Recommended Holy Emblems
 

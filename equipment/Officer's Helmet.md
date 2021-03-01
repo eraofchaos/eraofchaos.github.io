@@ -2,7 +2,7 @@
 title: "Officer's Helmet"
 permalink: /equipment/Officer's Helmet/
 excerpt: "Era of Chaos Officer's Helmet. Officer's Helmet"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Officer's Helmet.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Tower"
 permalink: /Exclusive/Exclusive Tower/
 excerpt: "Era of Chaos Exclusive Tower. Exclusive Tower. List of Exclusive Towerin Era of Chaos"
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Exclusive Tower"
 toc: false

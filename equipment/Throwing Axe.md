@@ -2,7 +2,7 @@
 title: "Throwing Axe"
 permalink: /equipment/Throwing Axe/
 excerpt: "Era of Chaos Throwing Axe. Throwing Axe"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Throwing Axe.md"
 toc: false

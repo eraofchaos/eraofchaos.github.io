@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Monk"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Mystic's Cap](/equipment/Mystic's Cap/) | **HP** | **DEF** | 
   | [Rune of Ritual](/equipment/Rune of Ritual/) | **ATK** | **DEF** | 
   | [Basic Light Armor](/equipment/Basic Light Armor/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Arcane Chant
+
+ **Item to up:** [Arcane Chant Token](/Items/con_122/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

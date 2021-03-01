@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Medusa"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Writhing Snake Hair](/equipment/Writhing Snake Hair/) | **HP** | **DEF** | 
   | [Queen's Crown](/equipment/Queen's Crown/) | **ATK** | **DEF** | 
   | [Abyss Armor](/equipment/Abyss Armor/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Medusa's bow
+
+ **Item to up:** [Medusa's Bow Token](/Items/con_101/)
+
+ **Skin:** [Medusa's Bow Special Skin](/Items/con_495/)
+
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Lizardman"
 toc: true
@@ -74,6 +74,15 @@ toc: true
   | [Warrior's Bracers](/equipment/Warrior's Bracers/) | **HP** | **DEF** | 
   | [Warrior's Scapula](/equipment/Warrior's Scapula/) | **ATK** | **DEF** | 
   | [Hunting Longbow](/equipment/Hunting Longbow/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Long Bow
+
+ **Item to up:** [Long Bow Token](/Items/con_134/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

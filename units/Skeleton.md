@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Skeleton"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Rusted Helmet](/equipment/Rusted Helmet/) | **HP** | **DEF** | 
   | [Unholy Shield](/equipment/Unholy Shield/) | **ATK** | **DEF** | 
   | [Rusted Pauldrons](/equipment/Rusted Pauldrons/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Iris Shield
+
+ **Item to up:** [Iris Shield Token](/Items/con_153/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

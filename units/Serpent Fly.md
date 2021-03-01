@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Serpent Fly"
 toc: true
@@ -74,6 +74,15 @@ toc: true
   | [Fatal Jaw Weapon](/equipment/Fatal Jaw Weapon/) | **HP** | **DEF** | 
   | [Bleak Barb](/equipment/Bleak Barb/) | **ATK** | **DEF** | 
   | [Toxic Fang](/equipment/Toxic Fang/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Arcane Chant
+
+ **Item to up:** [Arcane Chant Token](/Items/con_122/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

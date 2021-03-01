@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Iron Golem"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Spiked Pauldrons](/equipment/Spiked Pauldrons/) | **HP** | **DEF** | 
   | [Arcane Heart](/equipment/Arcane Heart/) | **ATK** | **DEF** | 
   | [Hardened Iron Chest Armor](/equipment/Hardened Iron Chest Armor/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Iris Shield
+
+ **Item to up:** [Iris Shield Token](/Items/con_153/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

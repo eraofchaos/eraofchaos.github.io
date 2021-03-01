@@ -2,7 +2,7 @@
 title: "Host Cranium"
 permalink: /equipment/Host Cranium/
 excerpt: "Era of Chaos Host Cranium. Host Cranium"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Host Cranium.md"
 toc: false

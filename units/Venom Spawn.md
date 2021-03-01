@@ -3,12 +3,12 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Venom Spawn"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **HP** | **DEF** | 
   | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ATK** | **DEF** | 
   | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

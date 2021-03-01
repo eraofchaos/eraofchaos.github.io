@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Wyvern"
 toc: true
@@ -73,6 +73,15 @@ toc: true
   | [Plague Fang](/equipment/Plague Fang/) | **HP** | **DEF** | 
   | [Imp Back-spikes](/equipment/Imp Back-spikes/) | **ATK** | **DEF** | 
   | [Dragon Wings](/equipment/Dragon Wings/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Wyvern's Tail
+
+ **Item to up:** [Wyvern's Tail Token](/Items/con_1299/)
+
+ **Skin:** [Wyvern's Tail Special Skin](/Items/con_1070/)
+
 
 ## Recommended Holy Emblems
 

@@ -2,7 +2,7 @@
 title: "Dragon Turtle's Sharp Claw"
 permalink: /equipment/Dragon Turtle's Sharp Claw/
 excerpt: "Era of Chaos Dragon Turtle's Sharp Claw. Dragon Turtle's Sharp Claw"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Dragon Turtle's Sharp Claw.md"
 toc: false

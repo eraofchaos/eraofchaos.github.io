@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Pit Fiend"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Charmed Light Armor](/equipment/Charmed Light Armor/) | **HP** | **DEF** | 
   | [Charmed Horn](/equipment/Charmed Horn/) | **ATK** | **DEF** | 
   | [Charming Pauldrons](/equipment/Charming Pauldrons/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Sword
+
+ **Item to up:** [Sword Token](/Items/con_163/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

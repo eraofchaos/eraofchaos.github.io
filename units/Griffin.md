@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Griffin"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Headplate of Speed](/equipment/Headplate of Speed/) | **HP** | **DEF** | 
   | [Archgriffin Feather](/equipment/Archgriffin Feather/) | **ATK** | **DEF** | 
   | [Empire's Crest](/equipment/Empire's Crest/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Knight Pike
+
+ **Item to up:** [Knight Pike Token](/Items/con_210/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

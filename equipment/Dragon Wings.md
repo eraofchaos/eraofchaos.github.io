@@ -2,7 +2,7 @@
 title: "Dragon Wings"
 permalink: /equipment/Dragon Wings/
 excerpt: "Era of Chaos Dragon Wings. Dragon Wings"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Dragon Wings.md"
 toc: false

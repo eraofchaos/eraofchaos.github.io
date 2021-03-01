@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Cyclops"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Shackles of War](/equipment/Shackles of War/) | **HP** | **DEF** | 
   | [Spiked Bracers](/equipment/Spiked Bracers/) | **ATK** | **DEF** | 
   | [Leather Trousers](/equipment/Leather Trousers/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Long Bow
+
+ **Item to up:** [Long Bow Token](/Items/con_134/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

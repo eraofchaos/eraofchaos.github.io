@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Firebird"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Rune of Resurrection](/equipment/Rune of Resurrection/) | **HP** | **DEF** | 
   | [Claws of Raging Flame](/equipment/Claws of Raging Flame/) | **ATK** | **DEF** | 
   | [Rainbow Feathered Wings](/equipment/Rainbow Feathered Wings/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Eternal Flame
+
+ **Item to up:** [Eternal Flame Token](/Items/con_967/)
+
+ **Skin:** [Eternal Flame Special Skin](/Items/con_317/)
+
 
 ## Recommended Holy Emblems
 

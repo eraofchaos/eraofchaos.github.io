@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Dendroid Guard"
 toc: true
@@ -78,6 +78,15 @@ toc: true
   | [Bountiful's Crown](/equipment/Bountiful's Crown/) | **HP** | **DEF** | 
   | [Evergreen Rune](/equipment/Evergreen Rune/) | **ATK** | **DEF** | 
   | [Vine's Armor](/equipment/Vine's Armor/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Iris Shield
+
+ **Item to up:** [Iris Shield Token](/Items/con_153/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

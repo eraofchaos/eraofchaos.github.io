@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Walking Dead"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Bone Necklet](/equipment/Bone Necklet/) | **HP** | **DEF** | 
   | [Refined Steel Bracer](/equipment/Refined Steel Bracer/) | **ATK** | **DEF** | 
   | [Trousers of Decay](/equipment/Trousers of Decay/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Iris Shield
+
+ **Item to up:** [Iris Shield Token](/Items/con_153/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

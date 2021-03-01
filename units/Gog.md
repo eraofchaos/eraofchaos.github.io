@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Gog"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Fiery Horn](/equipment/Fiery Horn/) | **HP** | **DEF** | 
   | [Tail of Flame](/equipment/Tail of Flame/) | **ATK** | **DEF** | 
   | [Scalding Bracers](/equipment/Scalding Bracers/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Arcane Chant
+
+ **Item to up:** [Arcane Chant Token](/Items/con_122/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

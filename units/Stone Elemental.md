@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Stone Elemental"
 toc: true
@@ -71,6 +71,15 @@ toc: true
   | [Exploding Magma](/equipment/Exploding Magma/) | **HP** | **DEF** | 
   | [Twilight Stone](/equipment/Twilight Stone/) | **ATK** | **DEF** | 
   | [Crown of Stone](/equipment/Crown of Stone/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Energy Core
+
+ **Item to up:** [Energy Core Token](/Items/con_203/)
+
+ **Skin:** [Energy Core Special Skin](/Items/con_950/)
+
 
 ## Recommended Holy Emblems
 

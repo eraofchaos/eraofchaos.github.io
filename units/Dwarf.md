@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Dwarf"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Horned Helmet](/equipment/Horned Helmet/) | **HP** | **DEF** | 
   | [Gauntlets of Hearth Fire](/equipment/Gauntlets of Hearth Fire/) | **ATK** | **DEF** | 
   | [Pauldrons of Hearth Fire](/equipment/Pauldrons of Hearth Fire/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Iris Shield
+
+ **Item to up:** [Iris Shield Token](/Items/con_153/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

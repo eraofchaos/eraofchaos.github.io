@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Manticore"
 toc: true
@@ -73,6 +73,15 @@ toc: true
   | [Fatal Poison Fang](/equipment/Fatal Poison Fang/) | **HP** | **DEF** | 
   | [Toxic Tail](/equipment/Toxic Tail/) | **ATK** | **DEF** | 
   | [Manticore Wings](/equipment/Manticore Wings/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Scorpion tail
+
+ **Item to up:** [Scorpion Tail Token](/Items/con_873/)
+
+ **Skin:** [Scorpion Tail Special Skin](/Items/con_1179/)
+
 
 ## Recommended Holy Emblems
 

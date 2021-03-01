@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Gremlin"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Enchanted Hood](/equipment/Enchanted Hood/) | **HP** | **DEF** | 
   | [Enchanted Gloves](/equipment/Enchanted Gloves/) | **ATK** | **DEF** | 
   | [Windproof Cloak](/equipment/Windproof Cloak/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Long Bow
+
+ **Item to up:** [Long Bow Token](/Items/con_134/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

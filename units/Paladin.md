@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Paladin"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Vow Helmet](/equipment/Vow Helmet/) | **HP** | **DEF** | 
   | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **ATK** | **DEF** | 
   | [Forged Bracers](/equipment/Forged Bracers/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** 
+
+ **Item to up:** [Fearless Token](/Items/con_337/)
+
+ **Skin:** [Fearless Special Skin](/Items/con_1107/)
+
 
 ## Recommended Holy Emblems
 

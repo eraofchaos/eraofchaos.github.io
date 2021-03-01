@@ -2,7 +2,7 @@
 title: "Boiling Shield"
 permalink: /equipment/Boiling Shield/
 excerpt: "Era of Chaos Boiling Shield. Boiling Shield"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Boiling Shield.md"
 toc: false

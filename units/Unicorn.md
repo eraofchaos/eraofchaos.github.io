@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Unicorn"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Dreamer's Stones](/equipment/Dreamer's Stones/) | **HP** | **DEF** | 
   | [Crystal Hooves](/equipment/Crystal Hooves/) | **ATK** | **DEF** | 
   | [Misty Mane](/equipment/Misty Mane/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Knight Pike
+
+ **Item to up:** [Knight Pike Token](/Items/con_210/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

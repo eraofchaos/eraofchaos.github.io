@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Gnoll"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Werewolf's Square Shield](/equipment/Werewolf's Square Shield/) | **HP** | **DEF** | 
   | [Werewolf's Chain](/equipment/Werewolf's Chain/) | **ATK** | **DEF** | 
   | [Werewolf's Gauntlets](/equipment/Werewolf's Gauntlets/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Sword
+
+ **Item to up:** [Sword Token](/Items/con_163/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

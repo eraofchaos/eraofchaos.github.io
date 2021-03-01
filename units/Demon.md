@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Demon"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Steel Necklet](/equipment/Steel Necklet/) | **HP** | **DEF** | 
   | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
   | [Spiked Bracers](/equipment/Spiked Bracers/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Iris Shield
+
+ **Item to up:** [Iris Shield Token](/Items/con_153/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

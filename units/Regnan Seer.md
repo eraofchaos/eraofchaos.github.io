@@ -3,12 +3,12 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Regnan Seer"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -74,6 +74,15 @@ toc: true
   | [Poseidon's Soul Necklace](/equipment/Poseidon's Soul Necklace/) | **HP** | **DEF** | 
   | [Radiance Headband](/equipment/Radiance Headband/) | **ATK** | **DEF** | 
   | [Noble Bracelet](/equipment/Noble Bracelet/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** 
+
+ **Item to up:** [The City by the Ocean Banner Soul](/Items/con_972/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

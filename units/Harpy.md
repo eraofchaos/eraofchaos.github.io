@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Harpy"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Mystic Armor](/equipment/Mystic Armor/) | **HP** | **DEF** | 
   | [Claw Killer](/equipment/Claw Killer/) | **ATK** | **DEF** | 
   | [Enchantress' Shoulder-guards](/equipment/Enchantress' Shoulder-guards/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Knight Pike
+
+ **Item to up:** [Knight Pike Token](/Items/con_210/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

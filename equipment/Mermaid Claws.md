@@ -2,7 +2,7 @@
 title: "Mermaid Claws"
 permalink: /equipment/Mermaid Claws/
 excerpt: "Era of Chaos Mermaid Claws. Mermaid Claws"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Mermaid Claws.md"
 toc: false

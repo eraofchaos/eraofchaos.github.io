@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Gorgon"
 toc: true
@@ -73,6 +73,15 @@ toc: true
   | [Barbarian Back Armor](/equipment/Barbarian Back Armor/) | **HP** | **DEF** | 
   | [Deadly Ox Horn](/equipment/Deadly Ox Horn/) | **ATK** | **DEF** | 
   | [Magic Ox Hoof](/equipment/Magic Ox Hoof/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Gorgon's Horn
+
+ **Item to up:** [Gorgon's Horn Token](/Items/con_1209/)
+
+ **Skin:** [Gorgon's Horn Special Skin](/Items/con_16/)
+
 
 ## Recommended Holy Emblems
 

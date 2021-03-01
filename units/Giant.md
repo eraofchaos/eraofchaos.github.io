@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Giant"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Pauldrons of Pure Gold](/equipment/Pauldrons of Pure Gold/) | **HP** | **DEF** | 
   | [Thunder Helmet](/equipment/Thunder Helmet/) | **ATK** | **DEF** | 
   | [Breastplate of Lightning](/equipment/Breastplate of Lightning/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Thousand Ton
+
+ **Item to up:** [Thousand Ton Token](/Items/con_448/)
+
+ **Skin:** [Thousand Ton Special Skin](/Items/con_1010/)
+
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Imp"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Sinister Katar](/equipment/Sinister Katar/) | **HP** | **DEF** | 
   | [Sinister Wings](/equipment/Sinister Wings/) | **ATK** | **DEF** | 
   | [Sinister Light Armor](/equipment/Sinister Light Armor/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Iris Shield
+
+ **Item to up:** [Iris Shield Token](/Items/con_153/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

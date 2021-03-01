@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Hell Hound"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Hellish Armor](/equipment/Hellish Armor/) | **HP** | **DEF** | 
   | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
   | [Mane of Flame](/equipment/Mane of Flame/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Knight Pike
+
+ **Item to up:** [Knight Pike Token](/Items/con_210/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

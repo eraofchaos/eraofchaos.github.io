@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Lich"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Carrion Crown](/equipment/Carrion Crown/) | **HP** | **DEF** | 
   | [Soul Belt](/equipment/Soul Belt/) | **ATK** | **DEF** | 
   | [Light Armor of the Netherworld](/equipment/Light Armor of the Netherworld/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Death Tribute
+
+ **Item to up:** [Death Tribute Token](/Items/con_715/)
+
+ **Skin:** [Death Tribute Special Skin](/Items/con_302/)
+
 
 ## Recommended Holy Emblems
 

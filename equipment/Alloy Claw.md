@@ -2,7 +2,7 @@
 title: "Alloy Claw"
 permalink: /equipment/Alloy Claw/
 excerpt: "Era of Chaos Alloy Claw. Alloy Claw"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Alloy Claw.md"
 toc: false

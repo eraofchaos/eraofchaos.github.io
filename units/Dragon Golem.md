@@ -3,12 +3,12 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Dragon Golem"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -74,6 +74,9 @@ toc: true
   | [Titanium Dragon Head](/equipment/Titanium Dragon Head/) | **HP** | **DEF** | 
   | [Main Control Stick](/equipment/Main Control Stick/) | **ATK** | **DEF** | 
   | [Alloy Armor](/equipment/Alloy Armor/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Pikeman"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Plate Helmet](/equipment/Plate Helmet/) | **HP** | **DEF** | 
   | [Sentinel's Shield](/equipment/Sentinel's Shield/) | **ATK** | **DEF** | 
   | [Plated Shoulderpads](/equipment/Plated Shoulderpads/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Sword
+
+ **Item to up:** [Sword Token](/Items/con_163/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

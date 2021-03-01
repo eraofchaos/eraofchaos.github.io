@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Genie"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Strange Crystal Ornament](/equipment/Strange Crystal Ornament/) | **HP** | **DEF** | 
   | [Red Copper Bracer](/equipment/Red Copper Bracer/) | **ATK** | **DEF** | 
   | [Enchanted Armor](/equipment/Enchanted Armor/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Lyra
+
+ **Item to up:** [Lyra Token](/Items/con_1104/)
+
+ **Skin:** [Lyra Special Skin](/Items/con_189/)
+
 
 ## Recommended Holy Emblems
 

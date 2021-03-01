@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Wight"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Light Armor of Requiem](/equipment/Light Armor of Requiem/) | **HP** | **DEF** | 
   | [Cursed Soul](/equipment/Cursed Soul/) | **ATK** | **DEF** | 
   | [Dress of Requiem](/equipment/Dress of Requiem/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Arcane Chant
+
+ **Item to up:** [Arcane Chant Token](/Items/con_122/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

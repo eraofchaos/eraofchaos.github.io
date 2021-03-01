@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Naga"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Seafaring Pauldrons](/equipment/Seafaring Pauldrons/) | **HP** | **DEF** | 
   | [Headdress of the Serpent God](/equipment/Headdress of the Serpent God/) | **ATK** | **DEF** | 
   | [Strong and Flexible Waistplate](/equipment/Strong and Flexible Waistplate/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Naga Sword
+
+ **Item to up:** [Naga Sword Token](/Items/con_94/)
+
+ **Skin:** [Naga Sword Special Skin](/Items/con_707/)
+
 
 ## Recommended Holy Emblems
 

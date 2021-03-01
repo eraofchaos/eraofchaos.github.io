@@ -2,7 +2,7 @@
 title: "Sea Monster Tail"
 permalink: /equipment/Sea Monster Tail/
 excerpt: "Era of Chaos Sea Monster Tail. Sea Monster Tail"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Sea Monster Tail.md"
 toc: false

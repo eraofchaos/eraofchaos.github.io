@@ -2,7 +2,7 @@
 title: "Phosphorus Butterfly Wings"
 permalink: /equipment/Phosphorus Butterfly Wings/
 excerpt: "Era of Chaos Phosphorus Butterfly Wings. Phosphorus Butterfly Wings"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Phosphorus Butterfly Wings.md"
 toc: false

@@ -3,12 +3,12 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Mantis"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **HP** | **DEF** | 
   | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATK** | **DEF** | 
   | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

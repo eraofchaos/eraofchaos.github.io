@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Basilisk"
 toc: true
@@ -73,6 +73,15 @@ toc: true
   | [Adamantine Scale](/equipment/Adamantine Scale/) | **HP** | **DEF** | 
   | [Poisoned Claw](/equipment/Poisoned Claw/) | **ATK** | **DEF** | 
   | [Petrification Fang](/equipment/Petrification Fang/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Basilisk's Tail
+
+ **Item to up:** [Basilisk's Tail Token](/Items/con_869/)
+
+ **Skin:** [Fire Energy Special Skin](/Items/con_1047/)
+
 
 ## Recommended Holy Emblems
 

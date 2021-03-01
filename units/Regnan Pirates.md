@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Regnan Pirates"
 toc: true
@@ -74,6 +74,15 @@ toc: true
   | [Sailor's Shirt](/equipment/Sailor's Shirt/) | **HP** | **DEF** | 
   | [Righteous Headband](/equipment/Righteous Headband/) | **ATK** | **DEF** | 
   | [Sailor's Pants](/equipment/Sailor's Pants/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Sword
+
+ **Item to up:** [Sword Token](/Items/con_163/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Judicator"
 toc: true
@@ -71,6 +71,15 @@ toc: true
   | [Celestial Hood of Bliss](/equipment/Celestial Hood of Bliss/) | **HP** | **DEF** | 
   | [Light Cape](/equipment/Light Cape/) | **ATK** | **DEF** | 
   | [Divine Vambrace](/equipment/Divine Vambrace/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** 
+
+ **Item to up:** [Sanctuary's Radiance Banner Soul](/Items/con_723/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

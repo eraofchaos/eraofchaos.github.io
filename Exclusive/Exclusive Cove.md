@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Cove"
 permalink: /Exclusive/Exclusive Cove/
 excerpt: "Era of Chaos Exclusive Cove. Exclusive Cove. List of Exclusive Covein Era of Chaos"
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Exclusive Cove"
 toc: false

@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Nightmare"
 toc: true
@@ -71,6 +71,15 @@ toc: true
   | [Fire in the Abyss](/equipment/Fire in the Abyss/) | **HP** | **DEF** | 
   | [Ash Horseshoe](/equipment/Ash Horseshoe/) | **ATK** | **DEF** | 
   | [Horsehair of Fire](/equipment/Horsehair of Fire/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** 
+
+ **Item to up:** [Nightmare's Eye Token](/Items/con_113/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

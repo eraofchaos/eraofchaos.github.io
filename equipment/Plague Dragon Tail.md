@@ -2,7 +2,7 @@
 title: "Plague Dragon Tail"
 permalink: /equipment/Plague Dragon Tail/
 excerpt: "Era of Chaos Plague Dragon Tail. Plague Dragon Tail"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Plague Dragon Tail.md"
 toc: false

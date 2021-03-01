@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
 unitID: 909
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Leprechaun"
 toc: true
@@ -73,6 +73,9 @@ toc: true
   | [SourceofPower](/equipment/SourceofPower/) | **HP** | **DEF** | 
   | [LifeGuardian](/equipment/LifeGuardian/) | **ATK** | **DEF** | 
   | [TheLightnessoftheWind](/equipment/TheLightnessoftheWind/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

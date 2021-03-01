@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Sea Elemental"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Core of Water Elemental](/equipment/Core of Water Elemental/) | **HP** | **DEF** | 
   | [Wavy Flow](/equipment/Wavy Flow/) | **ATK** | **DEF** | 
   | [Vortex Scar](/equipment/Vortex Scar/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Arcane Chant
+
+ **Item to up:** [Arcane Chant Token](/Items/con_122/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

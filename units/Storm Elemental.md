@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Storm Elemental"
 toc: true
@@ -72,6 +72,15 @@ toc: true
   | [Thunder Core](/equipment/Thunder Core/) | **HP** | **DEF** | 
   | [Magic Claw](/equipment/Magic Claw/) | **ATK** | **DEF** | 
   | [Beholder of Lightning](/equipment/Beholder of Lightning/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Long Bow
+
+ **Item to up:** [Long Bow Token](/Items/con_134/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

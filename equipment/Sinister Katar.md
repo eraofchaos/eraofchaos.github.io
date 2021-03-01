@@ -2,7 +2,7 @@
 title: "Sinister Katar"
 permalink: /equipment/Sinister Katar/
 excerpt: "Era of Chaos Sinister Katar. Sinister Katar"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Sinister Katar.md"
 toc: false

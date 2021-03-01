@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Regnan Archer"
 toc: true
@@ -71,6 +71,9 @@ toc: true
   | [Cap of Prestige](/equipment/Cap of Prestige/) | **HP** | **DEF** | 
   | [Steel Arrow](/equipment/Steel Arrow/) | **ATK** | **DEF** | 
   | [Hunter's Clothing](/equipment/Hunter's Clothing/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

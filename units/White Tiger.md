@@ -3,12 +3,12 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Units. Units. Era of Chaos White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "White Tiger"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -68,6 +68,9 @@ toc: true
   | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **HP** | **DEF** | 
   | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ATK** | **DEF** | 
   | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

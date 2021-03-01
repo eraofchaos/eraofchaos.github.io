@@ -2,7 +2,7 @@
 title: "Werewolf's Gauntlets"
 permalink: /equipment/Werewolf's Gauntlets/
 excerpt: "Era of Chaos Werewolf's Gauntlets. Werewolf's Gauntlets"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Werewolf's Gauntlets.md"
 toc: false

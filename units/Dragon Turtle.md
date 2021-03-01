@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Dragon Turtle"
 toc: true
@@ -73,6 +73,15 @@ toc: true
   | [Spiked Tortoise Shell](/equipment/Spiked Tortoise Shell/) | **HP** | **DEF** | 
   | [Dragon Turtle's Sharp Claw](/equipment/Dragon Turtle's Sharp Claw/) | **ATK** | **DEF** | 
   | [Dragon Turtle's Tail](/equipment/Dragon Turtle's Tail/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Obedience
+
+ **Item to up:** [Obedience Token](/Items/con_602/)
+
+ **Skin:** [Obedience Special Skin](/Items/con_1133/)
+
 
 ## Recommended Holy Emblems
 

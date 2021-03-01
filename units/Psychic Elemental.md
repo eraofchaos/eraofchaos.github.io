@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Psychic Elemental"
 toc: true
@@ -71,6 +71,15 @@ toc: true
   | [Heavenly Star](/equipment/Heavenly Star/) | **HP** | **DEF** | 
   | [Star Spirit Crown](/equipment/Star Spirit Crown/) | **ATK** | **DEF** | 
   | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Spirit Core
+
+ **Item to up:** [Spirit Core Token](/Items/con_595/)
+
+ **Skin:** [Spirit Core Special Skin](/Items/con_639/)
+
 
 ## Recommended Holy Emblems
 

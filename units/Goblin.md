@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Goblin"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Leather Belt](/equipment/Leather Belt/) | **HP** | **DEF** | 
   | [Necklace of Bone](/equipment/Necklace of Bone/) | **ATK** | **DEF** | 
   | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Sword
+
+ **Item to up:** [Sword Token](/Items/con_163/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

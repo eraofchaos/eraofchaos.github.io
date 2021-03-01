@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Assassin"
 toc: true
@@ -71,6 +71,9 @@ toc: true
   | [Hidden Blade](/equipment/Hidden Blade/) | **HP** | **DEF** | 
   | [Assassin's Belt](/equipment/Assassin's Belt/) | **ATK** | **DEF** | 
   | [Leather Boots](/equipment/Leather Boots/) | **HP** | **DEF** | 
+
+## Exclusive
+
 
 ## Recommended Holy Emblems
 

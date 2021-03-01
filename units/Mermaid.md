@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Mermaid"
 toc: true
@@ -71,6 +71,15 @@ toc: true
   | [Merman Earrings](/equipment/Merman Earrings/) | **HP** | **DEF** | 
   | [Flexible Fishtail](/equipment/Flexible Fishtail/) | **ATK** | **DEF** | 
   | [Ocean's Protection](/equipment/Ocean's Protection/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Night Tides
+
+ **Item to up:** [Night Tides Token](/Items/con_315/)
+
+ **Skin:** [Night Tides Special Skin](/Items/con_766/)
+
 
 ## Recommended Holy Emblems
 

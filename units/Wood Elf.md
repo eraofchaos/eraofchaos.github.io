@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Wood Elf"
 toc: true
@@ -78,6 +78,15 @@ toc: true
   | [Circlet of Verdurous Leaves](/equipment/Circlet of Verdurous Leaves/) | **HP** | **DEF** | 
   | [Arrows of Jade](/equipment/Arrows of Jade/) | **ATK** | **DEF** | 
   | [Short Robe of Verdurous Leaves](/equipment/Short Robe of Verdurous Leaves/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Long Bow
+
+ **Item to up:** [Long Bow Token](/Items/con_134/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

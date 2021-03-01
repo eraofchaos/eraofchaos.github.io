@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Fire Elemental"
 toc: true
@@ -72,6 +72,15 @@ toc: true
   | [Boiling Shield](/equipment/Boiling Shield/) | **HP** | **DEF** | 
   | [Beholder of Sapphire](/equipment/Beholder of Sapphire/) | **ATK** | **DEF** | 
   | [Navy Blue Sharp Claw](/equipment/Navy Blue Sharp Claw/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Fire Energy
+
+ **Item to up:** [Fire Energy Token](/Items/con_1275/)
+
+ **Skin:** [Fire Energy Special Skin](/Items/con_1296/)
+
 
 ## Recommended Holy Emblems
 

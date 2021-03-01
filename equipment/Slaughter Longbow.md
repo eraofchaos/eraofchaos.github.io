@@ -2,7 +2,7 @@
 title: "Slaughter Longbow"
 permalink: /equipment/Slaughter Longbow/
 excerpt: "Era of Chaos Slaughter Longbow. Slaughter Longbow"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Slaughter Longbow.md"
 toc: false

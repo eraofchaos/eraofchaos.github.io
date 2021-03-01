@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Mummy"
 toc: true
@@ -73,6 +73,15 @@ toc: true
   | [Ancient Bandage](/equipment/Ancient Bandage/) | **HP** | **DEF** | 
   | [Pupil of the Departed](/equipment/Pupil of the Departed/) | **ATK** | **DEF** | 
   | [Breath of Death](/equipment/Breath of Death/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Gauze
+
+ **Item to up:** [Gauze Token](/Items/con_44/)
+
+ **Skin:** [Gauze Special Skin](/Items/con_1240/)
+
 
 ## Recommended Holy Emblems
 

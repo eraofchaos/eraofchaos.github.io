@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Ogre"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Belt of Ritual](/equipment/Belt of Ritual/) | **HP** | **DEF** | 
   | [Tribal Talisman](/equipment/Tribal Talisman/) | **ATK** | **DEF** | 
   | [Pauldrons of Ritual](/equipment/Pauldrons of Ritual/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Iris Shield
+
+ **Item to up:** [Iris Shield Token](/Items/con_153/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

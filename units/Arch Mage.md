@@ -3,7 +3,7 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Arch Mage"
 toc: true
@@ -76,6 +76,15 @@ toc: true
   | [Crystal Crown of Magic](/equipment/Crystal Crown of Magic/) | **HP** | **DEF** | 
   | [Mystic Orb of Mana](/equipment/Mystic Orb of Mana/) | **ATK** | **DEF** | 
   | [Mantle of the Magi](/equipment/Mantle of the Magi/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Arcane Chant
+
+ **Item to up:** [Arcane Chant Token](/Items/con_122/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

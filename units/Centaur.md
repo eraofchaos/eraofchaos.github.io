@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Centaur"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Helm of the Wild](/equipment/Helm of the Wild/) | **HP** | **DEF** | 
   | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ATK** | **DEF** | 
   | [Pauldrons of Wild](/equipment/Pauldrons of Wild/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Iris Shield
+
+ **Item to up:** [Iris Shield Token](/Items/con_153/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

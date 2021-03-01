@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Marksman"
 toc: true
@@ -77,6 +77,15 @@ toc: true
   | [Steel Cap](/equipment/Steel Cap/) | **HP** | **DEF** | 
   | [Piercing Bolts](/equipment/Piercing Bolts/) | **ATK** | **DEF** | 
   | [Leather Gauntlets](/equipment/Leather Gauntlets/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Long Bow
+
+ **Item to up:** [Long Bow Token](/Items/con_134/)
+
+ **Skin:** -
+
 
 ## Recommended Holy Emblems
 

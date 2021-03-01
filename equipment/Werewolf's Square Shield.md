@@ -2,7 +2,7 @@
 title: "Werewolf's Square Shield"
 permalink: /equipment/Werewolf's Square Shield/
 excerpt: "Era of Chaos Werewolf's Square Shield. Werewolf's Square Shield"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-01
 locale: en
 ref: "Werewolf's Square Shield.md"
 toc: false

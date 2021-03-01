@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2021-02-28
+last_modified_at: 2021-03-01
 locale: en
 ref: "Berserker"
 toc: true
@@ -75,6 +75,15 @@ toc: true
   | [Necklace of Bone](/equipment/Necklace of Bone/) | **HP** | **DEF** | 
   | [Beast-boned Helmet](/equipment/Beast-boned Helmet/) | **ATK** | **DEF** | 
   | [Leather Band](/equipment/Leather Band/) | **HP** | **DEF** | 
+
+## Exclusive
+
+ **Name:** Berserker's Axe
+
+ **Item to up:** [Berserker's Axe Token](/Items/con_789/)
+
+ **Skin:** [Berserker's Axe Special Skin](/Items/con_347/)
+
 
 ## Recommended Holy Emblems
 
