@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: ?** 
+
+ **Exclusive for Unit:** [Judicator](/units/Judicator/) 
 
  **Item to Rank Up:** [Sanctuary's Radiance Banner Soul](/Items/con_723/)
 
  **Skin:** -
+
+ **Type:** Capital
+
+ **Open:** -
+
+ **Power:** 1660
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
+  | **2x** <i class="fas fa-star"/> | **80x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
+  | **3x** <i class="fas fa-star"/> | **120x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
+  | **4x** <i class="fas fa-star"/> | **150x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
+  | **5x** <i class="fas fa-star"/> | **230x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
+  | **6x** <i class="fas fa-star"/> | **280x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 249 | 95.14 | 1027.47 |
+  | 2 | 282 | 114.17 | 1232.97 |
+  | 3 | 315 | 133.19 | 1438.46 |
+  | 4 | 349 | 152.22 | 1643.96 |
+  | 5 | 382 | 171.25 | 1849.45 |
+  | 6 | 415 | 190.28 | 2054.95 |
+  | 7 | 448 | 209.31 | 2260.44 |
+
 

@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Gauze** 
+
+ **Exclusive for Unit:** [Mummy](/units/Mummy/) 
 
  **Item to Rank Up:** [Gauze Token](/Items/con_44/)
 
  **Skin:** [Gauze Special Skin](/Items/con_1240/)
+
+ **Type:** Ranged
+
+ **Open:** -
+
+ **Power:** 1560
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Gauze Token](/Items/con_44/) | Mummy inflicts Low Morale on all units in a large range every 8s and decreases the Unit DMG of enemy units in range by 15% while inflicting them with Plague for 3s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Gauze Token](/Items/con_44/) | Increases Mummy's Unit DMG Reduction by 20%. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Gauze Token](/Items/con_44/) | Mummy increases own DEF by 15% for 5s when suffering from Low Morale and recovers HP equal to 8% of their Max HP. CD is 15s. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Gauze Token](/Items/con_44/) | <Mummification> Mummy uses bandages to wrap up nearby Melee units, rendering them unable to move, attack, or cast skills while decreasing their Unit DMG Reduction by 15% for 3s. CD is 25s. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Gauze Token](/Items/con_44/) | Increases own Unit DMG Reduction by 6% for every Necropolis unit on the battlefield. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Gauze Token](/Items/con_44/) | When a friendly hero casts an earth-type spell, Mummy increases Unit DMG of Necropolis units in a large range by 5% and Unit DMG Reduction by 10% for 6s. Stacks up to 3 times. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Gauze Token](/Items/con_44/) | Increases Unit DMG Reduction by 40% when Mummy is attacked by Ranged/Caster units. <Mummification> is triggered again when HP falls to 75%, 50%, and 25%, during which Mummy recovers HP equal to 3% of its Max HP every second. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +3.0%, HP: +5.0% |
+  | 2 | Lv.**40** | ATK: +5.0%, HP: +10.0% |
+  | 3 | Lv.**60** | ATK: +5.0%, HP: +10.0% |
+  | 4 | Lv.**80** | Unit DMG Reduction: +5.0% |
+  | 5 | Lv.**100** | ATK: +8.0%, HP: +15.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 234 | 23.71 | 452.57 |
+  | 2 | 265 | 28.46 | 543.08 |
+  | 3 | 296 | 33.2 | 633.6 |
+  | 4 | 328 | 37.94 | 724.11 |
+  | 5 | 359 | 42.68 | 814.63 |
+  | 6 | 390 | 47.43 | 905.14 |
+  | 7 | 421 | 52.17 | 995.65 |
+
 

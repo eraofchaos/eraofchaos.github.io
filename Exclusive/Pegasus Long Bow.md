@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Long Bow** 
+
+ **Exclusive for Unit:** [Pegasus](/units/Pegasus/) 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** +
+
+ **Power:** 1510
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Long Bow Token](/Items/con_134/) | Each normal attack causes damage equal to 30% of its ATK to the target |
+  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_134/) | Pegasus unit's damage increased by 20% |
+  | **2x** <i class="fas fa-star"/> | **80x** [Long Bow Token](/Items/con_134/) | Pegasus' DMG increased by 20% and ATK speed by 10% |
+  | **3x** <i class="fas fa-star"/> | **120x** [Long Bow Token](/Items/con_134/) | <Bladestorm> Pegasus throws a rose thorn every 25s, dealing damage equal to the sum of 5% of Max HP and 20% ATK to all hostile units while causing enemies to bleed for 10s |
+  | **4x** <i class="fas fa-star"/> | **150x** [Long Bow Token](/Items/con_134/) | Pegasus's normal attack lowers the target unit's damage reduction by 2%. The effect lasts for 3s, up to 7 stacks |
+  | **5x** <i class="fas fa-star"/> | **230x** [Long Bow Token](/Items/con_134/) | When fighting against targets with a<Shield>, Pegasus increases its ATK speed by 10% for 3s. When fighting against<Bleeding>targets it increases its unit's damage by 20% for 3s |
+  | **6x** <i class="fas fa-star"/> | **280x** [Long Bow Token](/Items/con_134/) | <Heart Stab> Pegasus causes 250% damage to one unit of the target unit and decreases their DEF by 20% for 3s every 15s |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Attack Speed: +3.0 |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 227 | 32.81 | 192.4 |
+  | 2 | 257 | 39.37 | 230.88 |
+  | 3 | 287 | 45.94 | 269.36 |
+  | 4 | 317 | 52.5 | 307.84 |
+  | 5 | 347 | 59.06 | 346.31 |
+  | 6 | 378 | 65.62 | 384.79 |
+  | 7 | 408 | 72.19 | 423.27 |
+
 

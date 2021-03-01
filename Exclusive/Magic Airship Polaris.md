@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Polaris** 
+
+ **Exclusive for Unit:** [Magic Airship](/units/Magic Airship/) 
 
  **Item to Rank Up:** [Polaris Token](/Items/con_865/)
 
  **Skin:** [Polaris Special Skin](/Items/con_1374/)
+
+ **Type:** Ranged
+
+ **Open:** -
+
+ **Power:** 1610
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Polaris Token](/Items/con_865/) | Magic Airship deals damage equal to 150% of own ATK to 3 random enemy units and decreases their Unit DMG by 20% for 7s. CD is 21s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Polaris Token](/Items/con_865/) | Increases Magic Airship's Attack Speed by 10% and ATK by 20%. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Polaris Token](/Items/con_865/) | Increases Magic Airship's Unit DMG by 20%. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Polaris Token](/Items/con_865/) | Every 20s, Magic Airship increases its own Unit DMG by 20%, Critical Hit by 200, and Critical Hit DMG by 20% for 8s. It also grants a random friendly Caster unit with a buff of half its attributes. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Polaris Token](/Items/con_865/) | Increases Magic Airship's Unit DMG Reduction by 20%. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Polaris Token](/Items/con_865/) | When Magic Airship's HP falls below 40% for the first time, the backup core is activated to recover HP equal to 50% of its own Max HP while increasing Unit DMG Reduction by 20% for 15s. All Magic Airship units on the battlefield can only trigger this once for the whole battle. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Polaris Token](/Items/con_865/) | When a friendly hero casts a spell, Magic Airship increases the Unit DMG Reduction of friendly Tower units by 1% and Dodge by 10 while removing 1 stack of debuff. The buffs from this skill can only be stacked up to 20 times and lasts for the whole battle. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 242 | 35.07 | 288.43 |
+  | 2 | 274 | 42.08 | 346.11 |
+  | 3 | 306 | 49.09 | 403.8 |
+  | 4 | 338 | 56.1 | 461.48 |
+  | 5 | 370 | 63.12 | 519.17 |
+  | 6 | 403 | 70.13 | 576.85 |
+  | 7 | 435 | 77.14 | 634.54 |
+
 

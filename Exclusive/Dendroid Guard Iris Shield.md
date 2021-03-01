@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Iris Shield** 
+
+ **Exclusive for Unit:** [Dendroid Guard](/units/Dendroid Guard/) 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** -
+
+ **Power:** 1560
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Iris Shield Token](/Items/con_153/) | <Arboreal Armor> Grants Dendroid Guard and 1 random Rampart unit a 10% increase to Unit DMG Reduction and a shield equal to 10% of Max HP. Lasts 8s. CD is 18s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | Increases Dendroid Guard's HP by 20% and Unit DMG Reduction by 10%. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Iris Shield Token](/Items/con_153/) | Increases Dendroid Guard's base DEF by 50 each time a Rampart unit is deployed. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Iris Shield Token](/Items/con_153/) | <Deep Roots> Dendroid Guard buries its roots deep underground, increasing their own Unit DMG Reduction by 15%, dealing damage equal to 2% of Max HP to enemy units in a large range every second, and recovering 1% of own Max HP every second for 10s, during which Dendroid Guard will be unable to move. CD is 25s. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Iris Shield Token](/Items/con_153/) | Increases Dendroid Guard's Tenacity by 200. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Iris Shield Token](/Items/con_153/) | When Dendroid Guard gains a shield, increases own Attack Speed by 10% and DEF by 2% for 4s. Stacks up to 20 times. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Iris Shield Token](/Items/con_153/) | Each time Dendroid Guard uses a normal attack, there is a 12% chance that the attack will steal 3% of the target unit's Unit DMG Reduction and 3% of their DEF. Stacks up to 10 times. Also increases Dendroid Guard's Tenacity by 15 and Dodge by 20 every 10s. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +3.0%, HP: +5.0% |
+  | 2 | Lv.**40** | ATK: +5.0%, HP: +10.0% |
+  | 3 | Lv.**60** | ATK: +5.0%, HP: +10.0% |
+  | 4 | Lv.**80** | Unit DMG Reduction: +5.0% |
+  | 5 | Lv.**100** | ATK: +8.0%, HP: +15.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 234 | 66.6 | 1712.4 |
+  | 2 | 265 | 79.92 | 2054.88 |
+  | 3 | 296 | 93.24 | 2397.36 |
+  | 4 | 328 | 106.56 | 2739.84 |
+  | 5 | 359 | 119.88 | 3082.32 |
+  | 6 | 390 | 133.2 | 3424.8 |
+  | 7 | 421 | 146.52 | 3767.28 |
+
 

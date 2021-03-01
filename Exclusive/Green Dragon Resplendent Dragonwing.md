@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Resplendent Dragonwing** 
+
+ **Exclusive for Unit:** [Green Dragon](/units/Green Dragon/) 
 
  **Item to Rank Up:** [Resplendent Dragonwing Token](/Items/con_703/)
 
  **Skin:** [Resplendent Dragonwing Special Skin](/Items/con_279/)
+
+ **Type:** Support
+
+ **Open:** +
+
+ **Power:** 1610
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Resplendent Dragonwing Token](/Items/con_703/) | Green Dragon's attacks will inflict Bleed, causing targets to take damage equal to 2% of their Max HP every 2s for 3s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Resplendent Dragonwing Token](/Items/con_703/) | Increases Green Dragon's Unit DMG by 20% and Critical Hit by 200. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Resplendent Dragonwing Token](/Items/con_703/) | Increases Green Dragon's Attack Speed by 30% when a shield is obtained. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Resplendent Dragonwing Token](/Items/con_703/) | <Crystal Guard> Green Dragon is protected by its crystallized skin, blocking damage 5 times. After blocking damage for the 5th time, <Crystal Guard> will disappear, and nearby enemy units will take damage equal to 100% of Green Dragon's ATK and be crystallized for 3s. Gain <Crystal Guard> once every 20s. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Resplendent Dragonwing Token](/Items/con_703/) | Green Dragon's Penetration increases by 25 for each attack. Stacks up to 20 times. Accumulated stacks will be lost after changing the attack target. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Resplendent Dragonwing Token](/Items/con_703/) | <Unstoppable> If the attacked target is Slowed, deals damage to the targeted unit equal to 100% of own ATK and blinds them for 5s. CD is 18s. If the targeted unit is Bound, deals damage equal to 100% of own ATK and decreases their DEF by 15%. Lasts 5s. CD is 18s. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Resplendent Dragonwing Token](/Items/con_703/) | <Diamond Thorns> Condenses and unleashes a large amount of razor-sharp crystals, dealing damage equal to 100% of own ATK to enemy units in a large area in front of them. Damage is doubled for Blinded targets. CD is 21s. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 242 | 171.24 | 761.01 |
+  | 2 | 274 | 205.49 | 913.21 |
+  | 3 | 306 | 239.74 | 1065.42 |
+  | 4 | 338 | 273.98 | 1217.62 |
+  | 5 | 370 | 308.23 | 1369.82 |
+  | 6 | 403 | 342.48 | 1522.02 |
+  | 7 | 435 | 376.73 | 1674.22 |
+
 

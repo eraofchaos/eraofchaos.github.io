@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Arcane Chant** 
+
+ **Exclusive for Unit:** [Arch Mage](/units/Arch Mage/) 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** -
+
+ **Power:** 1510
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Arcane Chant Token](/Items/con_122/) | <Infuse Magic> Mage infuses magic into their staff and launches a powerful attack, dealing damage equal to 200% of own ATK to the target unit. CD is 18s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_122/) | <Magic Awakening> When Mage is buffed by a friendly hero's support spell, they immediately cast <Infuse Magic> once. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Arcane Chant Token](/Items/con_122/) | Infuses armor with magic when casting <Infuse Magic>, increasing the Unit DMG Reduction of friendly units in a large range around themselves by 10% and Magic Resistance by 40% for 3s. Cannot be stacked. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Arcane Chant Token](/Items/con_122/) | Infuses weapon with <Water Magic - Freeze> when casting <Infuse Magic>: The next attack is guaranteed to Freeze the target unit for 2-4s. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Arcane Chant Token](/Items/con_122/) | Infuses weapon with <Fire Magic - Armor Eater> when casting <Infuse Magic>: The next attack decreases target unit's DEF by 5% for 3s. Stacks up to 3 times. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Arcane Chant Token](/Items/con_122/) | Infuses armor with <Wind Magic - Warm Breeze> when casting <Infuse Magic>: Recovers the HP of nearby friendly units in a large range around themselves by 4%. There is a 25% chance of removing all debuffs. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Arcane Chant Token](/Items/con_122/) | Infuses armor with <Earth Magic - Stone Armor> when casting <Infuse Magic>: Absorbs damage equal to 50% of own HP and increases Unit DMG Reduction by 20% for 3s. Cannot be stacked. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 227 | 19.51 | 111.33 |
+  | 2 | 257 | 23.41 | 133.6 |
+  | 3 | 287 | 27.31 | 155.87 |
+  | 4 | 317 | 31.21 | 178.14 |
+  | 5 | 347 | 35.12 | 200.4 |
+  | 6 | 378 | 39.02 | 222.67 |
+  | 7 | 408 | 42.92 | 244.94 |
+
 

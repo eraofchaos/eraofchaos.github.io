@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Nether Sabre** 
+
+ **Exclusive for Unit:** [Black Knight](/units/Black Knight/) 
 
  **Item to Rank Up:** [Nether Sabre Token](/Items/con_982/)
 
  **Skin:** [Nether Sabre Special Skin](/Items/con_588/)
+
+ **Type:** Support
+
+ **Open:** +
+
+ **Power:** 1610
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Nether Sabre Token](/Items/con_982/) | The Black Knight decreases the DEF of hostile units within a large range by 30%. Increases his own penetration by 500 when fighting against units in \"low morale\" |
+  | **1x** <i class="fas fa-star"/> | **50x** [Nether Sabre Token](/Items/con_982/) | The Black Knight's unit's damage reduction increases by 20% |
+  | **2x** <i class="fas fa-star"/> | **80x** [Nether Sabre Token](/Items/con_982/) | The Black Knight's unit's damage increases by 25% |
+  | **3x** <i class="fas fa-star"/> | **120x** [Nether Sabre Token](/Items/con_982/) | At the beginning of battle, the Black Knight charges on the spot. During this time, he is immune to all kinds of damage. Appears in front of the hostile unit standing at the end of the path in 6s. If there is no suitable target, attacks a random back-row unit and deals a Critical Strike (No awakening effect. Only works once per battle) |
+  | **4x** <i class="fas fa-star"/> | **150x** [Nether Sabre Token](/Items/con_982/) | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit. The effect lasts for 5s, up to 10 stacks |
+  | **5x** <i class="fas fa-star"/> | **230x** [Nether Sabre Token](/Items/con_982/) | Black Knight's life drain increases by 10%. Gets 10% extra life drain after landing a Crit Hit for 5s |
+  | **6x** <i class="fas fa-star"/> | **280x** [Nether Sabre Token](/Items/con_982/) | <King's Revival> Summons 1 Black Knight every 20s. 1 Black Knight can be summoned once the target unit is killed. Whenever a Black Knight appears, increases its unit's Crit Hit by 100 and penetration by 50 |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +5.0% |
+  | 2 | Lv.**40** | ATK: +6.0%, HP: +6.0% |
+  | 3 | Lv.**60** | ATK: +8.0%, HP: +8.0% |
+  | 4 | Lv.**80** | Critical DMG: +20.0 |
+  | 5 | Lv.**100** | ATK: +11.0%, HP: +11.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 242 | 19.48 | 153.04 |
+  | 2 | 274 | 23.37 | 183.65 |
+  | 3 | 306 | 27.27 | 214.26 |
+  | 4 | 338 | 31.16 | 244.87 |
+  | 5 | 370 | 35.06 | 275.48 |
+  | 6 | 403 | 38.95 | 306.09 |
+  | 7 | 435 | 42.85 | 336.69 |
+
 

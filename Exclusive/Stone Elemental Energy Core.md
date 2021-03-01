@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Energy Core** 
+
+ **Exclusive for Unit:** [Stone Elemental](/units/Stone Elemental/) 
 
  **Item to Rank Up:** [Energy Core Token](/Items/con_203/)
 
  **Skin:** [Energy Core Special Skin](/Items/con_950/)
+
+ **Type:** Ranged
+
+ **Open:** -
+
+ **Power:** 1560
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Energy Core Token](/Items/con_203/) | <Rock Strike> Hits the ground hard to cause damage equal to 200% of its ATK on hostile units within a large area, \"knocking them up\" and \"stunning\" them for 3s. CD is 20s and pre-CD is 10s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Energy Core Token](/Items/con_203/) | Stone Elemental's unit damage reduction is increased by 20%. The effect doubles when the Stone Elemental is attacked by a magic unit |
+  | **2x** <i class="fas fa-star"/> | **80x** [Energy Core Token](/Items/con_203/) | <Clay> When any hostile and friendly hero casts an earth spell, the Stone Elemental restores 2% of its Max HP |
+  | **3x** <i class="fas fa-star"/> | **120x** [Energy Core Token](/Items/con_203/) | <Rock Strike> Decreases ATK speed of hostile units by 20% for 8s. If enemies are being <burned> by <Fire Trio>, their 15% unit's damage reduction will be decreased. The effect lasts for 8s |
+  | **4x** <i class="fas fa-star"/> | **150x** [Energy Core Token](/Items/con_203/) | Stone Elemental's DEF is increased by 20%. <Clay> restores 30000 HP for all Conflux faction units within a large range |
+  | **5x** <i class="fas fa-star"/> | **230x** [Energy Core Token](/Items/con_203/) | The Stone Elemental is immune to damage caused by earth spells |
+  | **6x** <i class="fas fa-star"/> | **280x** [Energy Core Token](/Items/con_203/) | <Elemental Resonance> Whenever the Stone Elemental is on the battlefield, it increases DEF by 10% for all Conflux faction units. For each <Rock Strike> unleashed, DEF will be increased by 10% for all Conflux faction units. The effects last throughout the entire battle, but cannot be stacked |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +3.0%, HP: +5.0% |
+  | 2 | Lv.**40** | ATK: +5.0%, HP: +10.0% |
+  | 3 | Lv.**60** | ATK: +5.0%, HP: +10.0% |
+  | 4 | Lv.**80** | Unit DMG Reduction: +5.0% |
+  | 5 | Lv.**100** | ATK: +8.0%, HP: +15.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 234 | 20.35 | 475.11 |
+  | 2 | 265 | 24.42 | 570.13 |
+  | 3 | 296 | 28.49 | 665.15 |
+  | 4 | 328 | 32.56 | 760.17 |
+  | 5 | 359 | 36.63 | 855.19 |
+  | 6 | 390 | 40.7 | 950.21 |
+  | 7 | 421 | 44.77 | 1045.23 |
+
 

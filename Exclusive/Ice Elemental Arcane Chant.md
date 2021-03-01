@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Arcane Chant** 
+
+ **Exclusive for Unit:** [Ice Elemental](/units/Ice Elemental/) 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** -
+
+ **Power:** 1560
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Arcane Chant Token](/Items/con_122/) | <Frozen Fracture> Strikes the enemy down with extreme cold, dealing damage to the target unit equal to 200% of own ATK and inflicting Freeze for 5s. CD is 20s. Pre-CD is 11s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_122/) | Increases Ice Elemental's Unit DMG by 20%. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Arcane Chant Token](/Items/con_122/) | <Ice Shield> Provides an ice shield for a random friendly front row unit. When this unit is attacked, it inflicts Slow for 3s. Ice Shield lasts for 10s. CD is 15s. This skill is cast at the start of battle. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Arcane Chant Token](/Items/con_122/) | ncreases Ice Elemental's Critical Hit by 200. When the target unit is inflicted with Freeze, this effect is doubled. When casting <Frozen Fracture>, if the target unit is affected by Stone Elemental's exclusive 3-star Unit DMG Reduction debuff, additionally decreases the target unit's Magic Resistance by 50%. This effect lasts 8s. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Arcane Chant Token](/Items/con_122/) | Increases Ice Elemental's Unit DMG Reduction by 25%. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Arcane Chant Token](/Items/con_122/) | Ice Elemental is immune to damage caused by water-type spells. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Arcane Chant Token](/Items/con_122/) | <Elemental Resonance> When Ice Elemental is on the battlefield, increases the Magic Resistance of all friendly Conflux units by 50%. Whenever <Frozen Fracture> is cast, it increases the Magic Resistance of Conflux units by an additional 50%. This effect lasts for the whole battle and cannot be stacked. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 234 | 18.67 | 125.13 |
+  | 2 | 265 | 22.4 | 150.15 |
+  | 3 | 296 | 26.14 | 175.18 |
+  | 4 | 328 | 29.87 | 200.2 |
+  | 5 | 359 | 33.6 | 225.23 |
+  | 6 | 390 | 37.34 | 250.25 |
+  | 7 | 421 | 41.07 | 275.28 |
+
 

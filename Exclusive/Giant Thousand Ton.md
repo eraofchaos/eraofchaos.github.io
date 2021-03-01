@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Thousand Ton** 
+
+ **Exclusive for Unit:** [Giant](/units/Giant/) 
 
  **Item to Rank Up:** [Thousand Ton Token](/Items/con_448/)
 
  **Skin:** [Thousand Ton Special Skin](/Items/con_1010/)
+
+ **Type:** Support
+
+ **Open:** -
+
+ **Power:** 1660
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Thousand Ton Token](/Items/con_448/) | Giant summons a thundercloud above a random unit for 10s. The thundercloud will strike a random unit within range every 0.5s, with each strike dealing damage equal to 40% of own ATK. If the same unit is struck twice in a row within 4s, the unit is inflicted with Paralysis for 5s. If the same unit is struck four times in a row, the unit is inflicted with Emaciated for 2s. CD is 15s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Thousand Ton Token](/Items/con_448/) | Giant increases its own Unit DMG by 10%. When it's on the battlefield, it also increases the Unit DMG of friendly Caster units by 10%. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Thousand Ton Token](/Items/con_448/) | Giant temporarily awakens the lightning elemental within its armor, increasing its own Critical Hit by 200 and Attack Speed by 20% within 8s. CD is 14s. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Thousand Ton Token](/Items/con_448/) | Giant recharges its own armor once every 10s, allowing it to block damage 3 times while releasing a pulse that increases the Tenacity of friendly Tower units by 200 and Dodge by 200 for 6s. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Thousand Ton Token](/Items/con_448/) | Giant wields the power of lightning to increase its own Base ATK by 5,000. When attacking an enemy inflicted with Paralysis, increases Critical Hit by 200. When attacking an enemy inflicted with Static, increases Critical Hit DMG by 20%. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Thousand Ton Token](/Items/con_448/) | Giant purifies itself with the power of lightning every 10s, removing a stack of debuff and increasing its own Unit DMG and Unit DMG Reduction by 3% each that lasts for the whole battle. Stacks up to 10 times. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Thousand Ton Token](/Items/con_448/) | At the start of battle, Giant receives the might of the Thunder God for 10s. It throws a thunder spear every 5s, dealing damage equal to 105% of own ATK to the target unit. Each throw has a 20% chance of turning the thunder spear into the Thunder God's Spear, increasing damage dealt by 50%. Thunder God's Spear will mark the target unit with either Paralysis or Static for 5s. When Giant attacks the marked unit, Penetration increases by 300. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 249 | 133.2 | 1103.59 |
+  | 2 | 282 | 159.84 | 1324.31 |
+  | 3 | 315 | 186.48 | 1545.03 |
+  | 4 | 349 | 213.12 | 1765.75 |
+  | 5 | 382 | 239.76 | 1986.47 |
+  | 6 | 415 | 266.4 | 2207.18 |
+  | 7 | 448 | 293.04 | 2427.9 |
+
 

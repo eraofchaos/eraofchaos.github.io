@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Knight Pike** 
+
+ **Exclusive for Unit:** [Sprite](/units/Sprite/) 
 
  **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** -
+
+ **Power:** 1560
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Knight Pike Token](/Items/con_210/) | At the start of battle, increases Sprite's Unit DMG by 20% and 20% Attack Speed for 30s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_210/) | Increases Sprite's ATK by 20%. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Knight Pike Token](/Items/con_210/) | Increases Sprite's Critical Hit by 200. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Knight Pike Token](/Items/con_210/) | Sprite deals damage equal to 450% of own ATK to the target unit and randomly inflicts Freeze, Burn, Petrify, or Static for 3s. CD is 18. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Knight Pike Token](/Items/con_210/) | Increases Sprite's Unit DMG by 20%. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Knight Pike Token](/Items/con_210/) | The first time Sprite's HP falls to 80%/60%/40%/20%, 8 Mana is restored to friendly heroes. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Knight Pike Token](/Items/con_210/) | After Sprite dies, increases Unit DMG and Attack Speed of all friendly Conflux units by 3% each for 60s. Stacks up to 9 times. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +5.0% |
+  | 2 | Lv.**40** | ATK: +6.0%, HP: +6.0% |
+  | 3 | Lv.**60** | ATK: +8.0%, HP: +8.0% |
+  | 4 | Lv.**80** | Critical DMG: +20.0 |
+  | 5 | Lv.**100** | ATK: +11.0%, HP: +11.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 234 | 11.69 | 167.0 |
+  | 2 | 265 | 14.03 | 200.4 |
+  | 3 | 296 | 16.36 | 233.8 |
+  | 4 | 328 | 18.7 | 267.2 |
+  | 5 | 359 | 21.04 | 300.6 |
+  | 6 | 390 | 23.38 | 334.0 |
+  | 7 | 421 | 25.71 | 367.4 |
+
 

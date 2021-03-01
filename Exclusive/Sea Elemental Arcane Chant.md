@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Arcane Chant** 
+
+ **Exclusive for Unit:** [Sea Elemental](/units/Sea Elemental/) 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** -
+
+ **Power:** 1560
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Arcane Chant Token](/Items/con_122/) | <Tidal Waves> It can be triggered once every 20s. It summons waves beneath a random hostile unit, dealing damage equal to 200% of its ATK to hostile units within a small range |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_122/) | At the beginning of battle, all friendly units get a [Bubble] equal to 10% of their Max HP |
+  | **2x** <i class="fas fa-star"/> | **80x** [Arcane Chant Token](/Items/con_122/) | The Sea Elemental's attack decreases the target unit's unit's damage by 10% and magic resistance by 50% |
+  | **3x** <i class="fas fa-star"/> | **120x** [Arcane Chant Token](/Items/con_122/) | When the Sea Elemental is fighting against a 1-man or 4-man unit, its normal attack deals 30% AoE damage; when against a 9-man unit, its normal attack deals 50% damage to 5 units in the target |
+  | **4x** <i class="fas fa-star"/> | **150x** [Arcane Chant Token](/Items/con_122/) | If single damage taken by the Sea Elemental is more than 30% of its HP, the Sea Elemental generates a [bubble] equal to 30% of its HP over the next 10s. Can be triggered once every 15s |
+  | **5x** <i class="fas fa-star"/> | **230x** [Arcane Chant Token](/Items/con_122/) | The Sea Elemental's unit's damage reduction and unit's damage are increased by 20% |
+  | **6x** <i class="fas fa-star"/> | **280x** [Arcane Chant Token](/Items/con_122/) | Whenever the Sea Elemental generates an Abyss Cage, it increases all friendly unit's ATK by 10% and Crit Hit by 100 for 5s. For Cove Faction units, the effect doubles |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 234 | 33.94 | 243.19 |
+  | 2 | 265 | 40.73 | 291.82 |
+  | 3 | 296 | 47.51 | 340.46 |
+  | 4 | 328 | 54.3 | 389.1 |
+  | 5 | 359 | 61.09 | 437.74 |
+  | 6 | 390 | 67.88 | 486.37 |
+  | 7 | 421 | 74.66 | 535.01 |
+
 

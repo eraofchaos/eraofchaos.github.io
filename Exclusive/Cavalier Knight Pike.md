@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Knight Pike** 
+
+ **Exclusive for Unit:** [Cavalier](/units/Cavalier/) 
 
  **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** +
+
+ **Power:** 1510
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Knight Pike Token](/Items/con_210/) | \"Stifling Javelin\" When battle starts, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, unit's damage is decreased by 20% |
+  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_210/) | Cavalier's unit's damage reduction increased by 25% when taking ranged damage |
+  | **2x** <i class="fas fa-star"/> | **80x** [Knight Pike Token](/Items/con_210/) | Increases Cavaliers ATK by 20% and unit's damage by 10% |
+  | **3x** <i class="fas fa-star"/> | **120x** [Knight Pike Token](/Items/con_210/) | Cavalier's DEF increases by 10%. At the beginning of battle, all friendly Castle units' penetration is increased by 300. This effect cannot be dispelled |
+  | **4x** <i class="fas fa-star"/> | **150x** [Knight Pike Token](/Items/con_210/) | Cavaliers' attacks decrease the target's DEF by 20% for 1s |
+  | **5x** <i class="fas fa-star"/> | **230x** [Knight Pike Token](/Items/con_210/) | Cavalier gets 15% life drain |
+  | **6x** <i class="fas fa-star"/> | **280x** [Knight Pike Token](/Items/con_210/) | Cavaliers restore 20% of their Max HP for themselves when in [High Morale]. This effect can only be triggered once every 3s |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +5.0% |
+  | 2 | Lv.**40** | ATK: +6.0%, HP: +6.0% |
+  | 3 | Lv.**60** | ATK: +8.0%, HP: +8.0% |
+  | 4 | Lv.**80** | Critical DMG: +20.0 |
+  | 5 | Lv.**100** | ATK: +11.0%, HP: +11.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 227 | 13.35 | 136.39 |
+  | 2 | 257 | 16.02 | 163.67 |
+  | 3 | 287 | 18.69 | 190.95 |
+  | 4 | 317 | 21.37 | 218.23 |
+  | 5 | 347 | 24.04 | 245.51 |
+  | 6 | 378 | 26.71 | 272.79 |
+  | 7 | 408 | 29.38 | 300.07 |
+
 

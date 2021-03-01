@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Berserker's Axe** 
+
+ **Exclusive for Unit:** [Berserker](/units/Berserker/) 
 
  **Item to Rank Up:** [Berserker's Axe Token](/Items/con_789/)
 
  **Skin:** [Berserker's Axe Special Skin](/Items/con_347/)
+
+ **Type:** Support
+
+ **Open:** -
+
+ **Power:** 1660
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Berserker's Axe Token](/Items/con_789/) | <Spinning Axe> Berserker throws a spinning axe, dealing damage equal to 150% of own ATK to enemy units in a large area in front of them and inflicting Bleed for 8s. CD is 18s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Berserker's Axe Token](/Items/con_789/) | Increases Berserker's Unit DMG by 15%. Increases Unit DMG by another 15% when fighting against stunned units. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Berserker's Axe Token](/Items/con_789/) | There is a 5% chance Berserker's attacks will stun a target unit for 1.5s. Triggers only once every 5s. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Berserker's Axe Token](/Items/con_789/) | <Fatal Blow> Berserker deals damage equal to 225% of own ATK to the target unit while decreasing the target's Unit DMG Reduction by 20% and DEF by 10%. If the target unit is bleeding, decreases the target's Unit DMG by 20% and Attack Speed by 10% for 10s. CD is 25s. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Berserker's Axe Token](/Items/con_789/) | After casting <Fatal Blow>, Berserker increases own Unit DMG by 15% and Unit DMG Reduction by 10% for 15s. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Berserker's Axe Token](/Items/con_789/) | Each of Berserker's attacks increases their own Attack Speed by 1% up to a maximum of 50%. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Berserker's Axe Token](/Items/con_789/) | <Incinerate> 15s after the battle begins, Berserker sacrifices HP equal to 10% of their own Max HP to deal damage equal to 30% of Max HP to the target unit. Berserker also increases their own Critical Hit by 300 and Critical Hit DMG by 15% for 5s while inflicting Bleed for 10s. CD is 30s. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 249 | 33.94 | 265.89 |
+  | 2 | 282 | 40.73 | 319.07 |
+  | 3 | 315 | 47.51 | 372.25 |
+  | 4 | 349 | 54.3 | 425.43 |
+  | 5 | 382 | 61.09 | 478.6 |
+  | 6 | 415 | 67.88 | 531.78 |
+  | 7 | 448 | 74.66 | 584.96 |
+
 

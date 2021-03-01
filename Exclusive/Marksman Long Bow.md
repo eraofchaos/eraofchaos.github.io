@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Long Bow** 
+
+ **Exclusive for Unit:** [Marksman](/units/Marksman/) 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** +
+
+ **Power:** 1440
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Long Bow Token](/Items/con_134/) | <Armor-piercing Arrow> Deals damage to the current target equal to 300% of own ATK while ignoring 1,000 of the target unit's DEF. CD is 15s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_134/) | Increases Marksman's ATK by 20%. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Long Bow Token](/Items/con_134/) | Increases Marksman's DEF by 20% when Marksman is in High Morale. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Long Bow Token](/Items/con_134/) | Marksman's attacks will inflict enemy units with Retribution. Attacking the same target unit a total of 18 times will deal additional damage equal to 200% of Marksman's ATK. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Long Bow Token](/Items/con_134/) | Increases Marksman's Unit DMG by 20%. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Long Bow Token](/Items/con_134/) | Increases Marksman's Magic Resistance by 40%. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Long Bow Token](/Items/con_134/) | <Deathsworn> When fatal damage is sustained, the unit will not die and will instead gain invincibility, increasing Unit DMG by 50%, Attack Speed by 150%, Critical Hit by 500, and Life Drain by 20% for 5s. This effect can be triggered once per unit throughout the whole battle. <Armor-piercing Arrow> will immediately trigger the first time a unit triggers <Deathsworn>. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Attack Speed: +3.0 |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 216 | 14.35 | 73.73 |
+  | 2 | 245 | 17.21 | 88.48 |
+  | 3 | 274 | 20.08 | 103.22 |
+  | 4 | 302 | 22.95 | 117.97 |
+  | 5 | 331 | 25.82 | 132.71 |
+  | 6 | 360 | 28.69 | 147.46 |
+  | 7 | 389 | 31.56 | 162.21 |
+
 
