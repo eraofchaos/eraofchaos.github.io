@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Medusa's bow** 
 
- **Exclusive for Unit: [Medusa](/units/Medusa/) 
+ **Exclusive for Unit:** [Medusa](/units/Medusa/) 
 
  **Item to Rank Up:** [Medusa's Bow Token](/Items/con_101/)
 

@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Sword** 
 
- **Exclusive for Unit: [Troglodyte](/units/Troglodyte/) 
+ **Exclusive for Unit:** [Troglodyte](/units/Troglodyte/) 
 
  **Item to Rank Up:** [Sword Token](/Items/con_163/)
 

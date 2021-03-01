@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Sword** 
 
- **Exclusive for Unit: [Pit Fiend](/units/Pit Fiend/) 
+ **Exclusive for Unit:** [Pit Fiend](/units/Pit Fiend/) 
 
  **Item to Rank Up:** [Sword Token](/Items/con_163/)
 

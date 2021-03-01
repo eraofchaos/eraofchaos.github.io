@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Black Dragon's Scale** 
 
- **Exclusive for Unit: [Black Dragon](/units/Black Dragon/) 
+ **Exclusive for Unit:** [Black Dragon](/units/Black Dragon/) 
 
  **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1215/)
 

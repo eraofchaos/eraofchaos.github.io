@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: ?** 
 
- **Exclusive for Unit: [Nightmare](/units/Nightmare/) 
+ **Exclusive for Unit:** [Nightmare](/units/Nightmare/) 
 
  **Item to Rank Up:** [Nightmare's Eye Token](/Items/con_113/)
 

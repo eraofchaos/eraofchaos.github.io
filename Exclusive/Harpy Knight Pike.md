@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Knight Pike** 
 
- **Exclusive for Unit: [Harpy](/units/Harpy/) 
+ **Exclusive for Unit:** [Harpy](/units/Harpy/) 
 
  **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
 

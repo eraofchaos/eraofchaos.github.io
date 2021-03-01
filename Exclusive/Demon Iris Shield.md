@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Iris Shield** 
 
- **Exclusive for Unit: [Demon](/units/Demon/) 
+ **Exclusive for Unit:** [Demon](/units/Demon/) 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
 

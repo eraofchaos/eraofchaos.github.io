@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Iris Shield** 
 
- **Exclusive for Unit: [Minotaur](/units/Minotaur/) 
+ **Exclusive for Unit:** [Minotaur](/units/Minotaur/) 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
 

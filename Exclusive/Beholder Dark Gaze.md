@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Dark Gaze** 
 
- **Exclusive for Unit: [Beholder](/units/Beholder/) 
+ **Exclusive for Unit:** [Beholder](/units/Beholder/) 
 
  **Item to Rank Up:** [Dark Gaze Token](/Items/con_1111/)
 

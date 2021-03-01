@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Knight Pike** 
 
- **Exclusive for Unit: [Hell Hound](/units/Hell Hound/) 
+ **Exclusive for Unit:** [Hell Hound](/units/Hell Hound/) 
 
  **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
 

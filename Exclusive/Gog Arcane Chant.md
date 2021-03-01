@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Arcane Chant** 
 
- **Exclusive for Unit: [Gog](/units/Gog/) 
+ **Exclusive for Unit:** [Gog](/units/Gog/) 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
 

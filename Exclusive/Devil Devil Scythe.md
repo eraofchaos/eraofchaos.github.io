@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Devil Scythe** 
 
- **Exclusive for Unit: [Devil](/units/Devil/) 
+ **Exclusive for Unit:** [Devil](/units/Devil/) 
 
  **Item to Rank Up:** [Devil Scythe Token](/Items/con_1122/)
 

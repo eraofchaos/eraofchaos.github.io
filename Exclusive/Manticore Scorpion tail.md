@@ -16,7 +16,7 @@ classes: wide
 ## Details
  **Name: Scorpion tail** 
 
- **Exclusive for Unit: [Manticore](/units/Manticore/) 
+ **Exclusive for Unit:** [Manticore](/units/Manticore/) 
 
  **Item to Rank Up:** [Scorpion Tail Token](/Items/con_873/)
 
