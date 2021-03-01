@@ -28,10 +28,10 @@ Keep in mind [Exclusive](https://eraofchaos.github.io/Exclusive/) is next "game 
 
 <div class="notice--danger">
   <h4 class="no_toc">1 March 2021 Update:</h4>
-  {{ notice-update20210226 | markdownify }}
+  {{ notice-update20210301 | markdownify }}
 </div>
 
-{% capture notice-update20210301 %}
+{% capture notice-update20210223 %}
 
 **Client update** (version **142 (3115)**):
 
