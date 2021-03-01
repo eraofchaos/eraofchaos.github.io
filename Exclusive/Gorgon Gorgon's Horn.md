@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Gorgon's Horn** 
+
+ **Exclusive for Unit:** [Gorgon](/units/Gorgon/) 
 
  **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_1209/)
 
  **Skin:** [Gorgon's Horn Special Skin](/Items/con_16/)
+
+ **Type:** Support
+
+ **Open:** -
+
+ **Power:** 1660
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Gorgon's Horn Token](/Items/con_1209/) | <Petrified Armor> Gorgon covers its entire body with petrified armor, increasing their DEF by 24% and Unit DMG Reduction by 20% for 6s. When losing all bonuses, Gorgon deals damage equal to 150% of own ATK to enemy units within a large range and has a 30% chance to inflict Petrify for 3s. CD is 18s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Gorgon's Horn Token](/Items/con_1209/) | Increases Gorgon's HP and Unit DMG Reduction by 20% each. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Gorgon's Horn Token](/Items/con_1209/) | When casting <Petrified Armor>, Gorgon restores HP equal to 10% of own Max HP over 5s. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Gorgon's Horn Token](/Items/con_1209/) | <Tectonic Fission> When Gorgon loses its <Petrified Armor> bonus, it inflicts Slow or Burn to enemy units within a large range every second, also dealing damage equal to 3% of Max HP for 6s. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Gorgon's Horn Token](/Items/con_1209/) | When Gorgon takes a critical hit, its Tenacity is increased by 30 for the rest of the battle. CD is 2s. Stacks up to 20 times. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Gorgon's Horn Token](/Items/con_1209/) | After Gorgon casts <Petrified Armor>, it grants a shield to a random friendly Fortress unit equal to 10% of Max HP, and Gorgon has a 50% chance to gain a shield equal to 10% of Max HP for 6s. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Gorgon's Horn Token](/Items/con_1209/) | Each time a Gorgon dies, increases the Unit DMG Reduction of all friendly Fortress units by 10% and Attack Speed by 10% for 10s. Stacks up to 4 times. Has a 7% chance to deal damage equal to 77% of Max HP to 3 random enemy units. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +3.0%, HP: +5.0% |
+  | 2 | Lv.**40** | ATK: +5.0%, HP: +10.0% |
+  | 3 | Lv.**60** | ATK: +5.0%, HP: +10.0% |
+  | 4 | Lv.**80** | Unit DMG Reduction: +5.0% |
+  | 5 | Lv.**100** | ATK: +8.0%, HP: +15.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 249 | 20.37 | 520.35 |
+  | 2 | 282 | 24.44 | 624.42 |
+  | 3 | 315 | 28.51 | 728.49 |
+  | 4 | 349 | 32.59 | 832.55 |
+  | 5 | 382 | 36.66 | 936.62 |
+  | 6 | 415 | 40.73 | 1040.69 |
+  | 7 | 448 | 44.81 | 1144.76 |
+
 

@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Wyvern's Tail** 
+
+ **Exclusive for Unit:** [Wyvern](/units/Wyvern/) 
 
  **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_1299/)
 
  **Skin:** [Wyvern's Tail Special Skin](/Items/con_1070/)
+
+ **Type:** Ranged
+
+ **Open:** -
+
+ **Power:** 1610
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Wyvern's Tail Token](/Items/con_1299/) | <Plagued Soul> Each time a Wyvern dies, increases Unit DMG and Unit DMG Reduction of friendly Fortress units by 1% each. Stacks up to 15 times. Lasts for the whole battle. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Wyvern's Tail Token](/Items/con_1299/) | Increases Wyvern's Attack Speed by 20%. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Wyvern's Tail Token](/Items/con_1299/) | Increases Wyvern's Unit DMG by 20%. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Wyvern's Tail Token](/Items/con_1299/) | <Plagued Heart> Each time a Wyvern enters battle, increases the Penetration of all friendly Fortress units by 20 and Crit DMG by 2%. Stacks up to 15 times. Lasts for the whole battle. Wyvern units summon 1 Wyvern every 15s. Summoned Wyverns have the <Plagued Soul> and <Plagued Heart> skills. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Wyvern's Tail Token](/Items/con_1299/) | Increases Wyvern's Unit DMG Reduction by 20%. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Wyvern's Tail Token](/Items/con_1299/) | Increases Wyvern's DEF by 20%. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Wyvern's Tail Token](/Items/con_1299/) | <Plagued Blood> Wyvern's normal attacks inflict target units with Toxic Blood for 30s. At the start of battle, applies the Toxic Blood effect to all enemy units once. When a Fortress unit kills an enemy unit inflicted with Toxic Blood, 1 Wyvern is summoned. Summoned Wyverns have the <Plagued Soul> and <Plagued Heart> skills. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 242 | 28.84 | 277.16 |
+  | 2 | 274 | 34.61 | 332.59 |
+  | 3 | 306 | 40.38 | 388.02 |
+  | 4 | 338 | 46.15 | 443.46 |
+  | 5 | 370 | 51.92 | 498.89 |
+  | 6 | 403 | 57.69 | 554.32 |
+  | 7 | 435 | 63.45 | 609.75 |
+
 

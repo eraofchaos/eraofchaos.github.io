@@ -13,10 +13,54 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Long Bow** 
+
+ **Exclusive for Unit:** [Lizardman](/units/Lizardman/) 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** -
+
+ **Power:** 1560
+
+## Rank Up
+
+  |     Stars    |  Required to Up | Exclusive Effect |
+  |:-------------|:---------------:|:---------------:|
+  |  Initial  | **100x** [Long Bow Token](/Items/con_134/) | <Wild Hunter> It can be cast once every 20 seconds, causing damage equal to 300% of its ATK to all hostile units within a small area while dealing damage equal to 2% of its Max HP per second over the next 5s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_134/) | Lizardman's magic resistance is increased by 50% |
+  | **2x** <i class="fas fa-star"/> | **80x** [Long Bow Token](/Items/con_134/) | When Lizardman deals a Crit Hit, its Crit Hit is increased by 10 for 3s, up to 50 stacks. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Long Bow Token](/Items/con_134/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] 1 time when its HP is lower than 30% for the first time |
+  | **4x** <i class="fas fa-star"/> | **150x** [Long Bow Token](/Items/con_134/) | Lizardman's penetration increased by 300 |
+  | **5x** <i class="fas fa-star"/> | **230x** [Long Bow Token](/Items/con_134/) | Increases Lizardman's ATK by 20% and unit's damage by 10% |
+  | **6x** <i class="fas fa-star"/> | **280x** [Long Bow Token](/Items/con_134/) | <Wild Outbreak> Attack speed is increased by 500% for 5s. Can be triggered once every 20s |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Attack Speed: +3.0 |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 234 | 14.46 | 83.57 |
+  | 2 | 265 | 17.36 | 100.28 |
+  | 3 | 296 | 20.25 | 117.0 |
+  | 4 | 328 | 23.14 | 133.71 |
+  | 5 | 359 | 26.03 | 150.42 |
+  | 6 | 390 | 28.93 | 167.14 |
+  | 7 | 421 | 31.82 | 183.85 |
+
 
