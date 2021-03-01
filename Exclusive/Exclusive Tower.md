@@ -13,6 +13,8 @@ classes: wide
 **Warning** You can get more information about Unit's Exclusive by clicking on Exclusive link. 
 {: .notice--danger}
 
+ **Exclusive Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
+
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gremlin](/units/Gremlin/) | [Long Bow](/Exclusive/Gremlin Long Bow/) | - | Charge | [Long Bow Token](/Items/con_134/) | - |

@@ -39,7 +39,7 @@ classes: wide
 
 
 ## Level Up
- **Exclusive Level Upgrade:** ToBeDone
+ **Exclusive Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
   |  Nr  |   Level  | Bonus at Level |
   |:-----|:--------:|:--------------:|

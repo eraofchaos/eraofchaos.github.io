@@ -13,6 +13,8 @@ classes: wide
 **Warning** You can get more information about Unit's Exclusive by clicking on Exclusive link. 
 {: .notice--danger}
 
+ **Exclusive Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
+
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Sprite](/units/Sprite/) | [Knight Pike](/Exclusive/Sprite Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_210/) | - |

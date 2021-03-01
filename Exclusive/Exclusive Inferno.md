@@ -13,6 +13,8 @@ classes: wide
 **Warning** You can get more information about Unit's Exclusive by clicking on Exclusive link. 
 {: .notice--danger}
 
+ **Exclusive Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
+
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Imp](/units/Imp/) | [Iris Shield](/Exclusive/Imp Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
