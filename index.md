@@ -10,12 +10,16 @@ sidebar:
   nav: "docs"
 ---
 
-{% capture notice-update20210226 %}
+{% capture notice-update20210301 %}
 Dear Era of Chaos players,
 
-We ([Era of chaos Wiki](https://eraofchaos.github.io/), [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) and [Reddit Era Of Chaos community](https://www.reddit.com/r/era_of_chaos/)) are starting sequence of tasks/quiz to open information about new feature - [Exclusive](https://eraofchaos.github.io/Exclusive/) in the game. 
+Thanks for your votes on [Exclusive Faction vote on Reddit](https://www.reddit.com/r/era_of_chaos/comments/lt7iwo/new_game_feature_exclusive_weaponflag/). 
+We open Exclusives for 2 Factions:
+ - [Exclusive Inferno](https://eraofchaos.github.io/Exclusive/Exclusive Inferno/)
+ - [Exclusive Dungeon](https://eraofchaos.github.io/Exclusive/Exclusive Dungeon/)
 
-The first task is very easy, just [vote for your Faction on Reddit](https://www.reddit.com/r/era_of_chaos/comments/lt7iwo/new_game_feature_exclusive_weaponflag/)
+
+We ([Era of chaos Wiki](https://eraofchaos.github.io/), [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) and [Reddit Era Of Chaos community](https://www.reddit.com/r/era_of_chaos/)) are starting sequence of tasks/quiz to open information about new feature - [Exclusive](https://eraofchaos.github.io/Exclusive/) in the game. 
 
 Subscribe on [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) to participate in another tasks/quiz - to open information about another Factions.
 By winning/openning your Faction You would be able to see Exclusive information for all Units within Faction.
@@ -23,11 +27,12 @@ Keep in mind [Exclusive](https://eraofchaos.github.io/Exclusive/) is next "game 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">26 February 2021 Update:</h4>
+  <h4 class="no_toc">1 March 2021 Update:</h4>
   {{ notice-update20210226 | markdownify }}
 </div>
 
-{% capture notice-update20210223 %}
+{% capture notice-update20210301 %}
+
 **Client update** (version **142 (3115)**):
 
 - Avatar frame for "Blood Crystal Dragon" and Wraith
