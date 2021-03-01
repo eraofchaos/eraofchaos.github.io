@@ -13,10 +13,56 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Iris Shield** 
+
+ **Exclusive for Unit: [Minotaur](/units/Minotaur/) 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
 
  **Skin:** -
+
+ **Type:** Charge
+
+ **Open:** -
+
+ **Power:** 1560
+
+## Rank Up
+ **Required to open:** **100x** [Iris Shield Token](/Items/con_153/)
+
+ **Exclusive Effect:** <Brutal Rush> Minotaur charges violently toward the target, dealing damage equal to 300% of own ATK while decreasing the Unit DMG Reduction of enemy units in a large range by 20% and their Attack Speed by 10% for 7s. CD is 15s.
+
+  |     Stars    |  Required to Up | Exclusive Effect | 
+  |:-------------|:---------------:|:---------------:|
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | Increases Minotaur's Unit DMG Reduction by 20%. |
+  | **2x** <i class="fas fa-star"/> | **80x** [Iris Shield Token](/Items/con_153/) | Increases Tenacity by 400 for 5s when in High Morale. |
+  | **3x** <i class="fas fa-star"/> | **120x** [Iris Shield Token](/Items/con_153/) | <Rush of Blood> Minotaur recovers HP equal to 10% of its own Max HP and decreases the Unit DMG of enemy units in a small range by 20% for 6s. CD is 15s. |
+  | **4x** <i class="fas fa-star"/> | **150x** [Iris Shield Token](/Items/con_153/) | Increases Minotaur's HP by 8% and DEF by 5% each time a Dungeon unit is deployed. |
+  | **5x** <i class="fas fa-star"/> | **230x** [Iris Shield Token](/Items/con_153/) | When Minotaur's HP falls below 30% for the first time, it increases its own DEF by 50% while increasing the Attack Speed of itself and friendly units in a small range by 20% for 15s. |
+  | **6x** <i class="fas fa-star"/> | **280x** [Iris Shield Token](/Items/con_153/) | <Roar> Minotaur roars to terrify its enemies, increasing the damage dealt by friendly units by 20%, while also decreasing the Unit DMG Reduction of poisoned enemy units by 20%. Lasts 7s. CD is 15s. |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +3.0%, HP: +5.0% |
+  | 2 | Lv.**40** | ATK: +5.0%, HP: +10.0% |
+  | 3 | Lv.**60** | ATK: +5.0%, HP: +10.0% |
+  | 4 | Lv.**80** | Unit DMG Reduction: +5.0% |
+  | 5 | Lv.**100** | ATK: +8.0%, HP: +15.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 234 | 18.16 | 458.29 |
+  | 2 | 265 | 21.8 | 549.95 |
+  | 3 | 296 | 25.43 | 641.6 |
+  | 4 | 328 | 29.06 | 733.26 |
+  | 5 | 359 | 32.69 | 824.92 |
+  | 6 | 390 | 36.33 | 916.58 |
+  | 7 | 421 | 39.96 | 1008.23 |
+
 
