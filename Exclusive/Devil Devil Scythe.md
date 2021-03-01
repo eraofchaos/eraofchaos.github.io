@@ -29,12 +29,9 @@ classes: wide
  **Power:** 1660
 
 ## Rank Up
- **Required to open:** **100x** [Devil Scythe Token](/Items/con_1122/)
-
- **Exclusive Effect:** The Devil revives at its spawn point 6s after its first death. The reborn Devil increases Crit DMG, ATK speed and unit's damage reduction y 10% for all friendly units over the next 20s. For the Inferno Faction units, the effect doubles. The reborn Devil unleashes <Revenge> on the target unit. <Revenge> Causes damage equal to 200% of ATK and \"emaciates\" the target. The skill can be triggered once every 45s. \"Emaciation\"> lasts for 5s and cannot be dispelled. Decreases \"emaciated\" unit's damage reduction by 20%, decreases DEF by 20%
-
   |     Stars    |  Required to Up | Exclusive Effect | 
   |:-------------|:---------------:|:---------------:|
+  | **- | **100x** [Devil Scythe Token](/Items/con_1122/) | The Devil revives at its spawn point 6s after its first death. The reborn Devil increases Crit DMG, ATK speed and unit's damage reduction y 10% for all friendly units over the next 20s. For the Inferno Faction units, the effect doubles. The reborn Devil unleashes <Revenge> on the target unit. <Revenge> Causes damage equal to 200% of ATK and \"emaciates\" the target. The skill can be triggered once every 45s. \"Emaciation\"> lasts for 5s and cannot be dispelled. Decreases \"emaciated\" unit's damage reduction by 20%, decreases DEF by 20% |
   | **1x** <i class="fas fa-star"/> | **50x** [Devil Scythe Token](/Items/con_1122/) | The Devil applies an [Inferno Mark] to a random hostile unit every 9s. Each mark stack decreases the target unit's unit's damage reduction by 7%, up to 3 stacks. When the mark has 3 stacks, it will be removed from the target and cause 300% damage. The mark lasts throughout the entire battle and cannot be dispelled |
   | **2x** <i class="fas fa-star"/> | **80x** [Devil Scythe Token](/Items/con_1122/) | Increases Devil's unit's damage by 10% and unit's damage reduction by 20% |
   | **3x** <i class="fas fa-star"/> | **120x** [Devil Scythe Token](/Items/con_1122/) | For each of the Devil's normal attacks, 30% of its ATK is dealt as damage to the target and its penetration is increased by 300 |

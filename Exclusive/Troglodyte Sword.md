@@ -29,12 +29,9 @@ classes: wide
  **Power:** 1440
 
 ## Rank Up
- **Required to open:** **100x** [Sword Token](/Items/con_163/)
-
- **Exclusive Effect:** <Spear Lunge> Troglodyte deals damage equal to 200% of its own ATK to the target unit and inflicts Poison for 8s. If the target unit is already inflicted with Poison, the target unit is inflicted with Stun for 1s. CD is 20s.
-
   |     Stars    |  Required to Up | Exclusive Effect | 
   |:-------------|:---------------:|:---------------:|
+  | **- | **100x** [Sword Token](/Items/con_163/) | <Spear Lunge> Troglodyte deals damage equal to 200% of its own ATK to the target unit and inflicts Poison for 8s. If the target unit is already inflicted with Poison, the target unit is inflicted with Stun for 1s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_163/) | Increases Troglodyte's HP by 20% and Dodge by 200. |
   | **2x** <i class="fas fa-star"/> | **80x** [Sword Token](/Items/con_163/) | Increases Troglodyte's ATK by 20%. |
   | **3x** <i class="fas fa-star"/> | **120x** [Sword Token](/Items/con_163/) | <Spell Breaker's Smell> Increases Troglodyte's DEF by 5% and Tenacity by 40 for 6s. Stacks up to 5 times. |

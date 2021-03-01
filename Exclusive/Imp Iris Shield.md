@@ -29,12 +29,9 @@ classes: wide
  **Power:** 1440
 
 ## Rank Up
- **Required to open:** **100x** [Iris Shield Token](/Items/con_153/)
-
- **Exclusive Effect:** <Flametongue> Imp deals damage equal to 300% of own ATK to target unit and inflicts Burn for 6s. CD is 20s.
-
   |     Stars    |  Required to Up | Exclusive Effect | 
   |:-------------|:---------------:|:---------------:|
+  | **- | **100x** [Iris Shield Token](/Items/con_153/) | <Flametongue> Imp deals damage equal to 300% of own ATK to target unit and inflicts Burn for 6s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | Increases Imp's Magic Resistance by 25%. |
   | **2x** <i class="fas fa-star"/> | **80x** [Iris Shield Token](/Items/con_153/) | Increases Imp's DEF by 20%. |
   | **3x** <i class="fas fa-star"/> | **120x** [Iris Shield Token](/Items/con_153/) | <Stalwart Armor> When Imp's HP falls to 60% and 30% for the first time, it gains a shield equal to 20% of its Max HP and increases Tenacity by 150 for 20s. |

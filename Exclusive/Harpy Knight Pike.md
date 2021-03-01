@@ -29,12 +29,9 @@ classes: wide
  **Power:** 1510
 
 ## Rank Up
- **Required to open:** **100x** [Knight Pike Token](/Items/con_210/)
-
- **Exclusive Effect:** <Aerobatics> Harpy launches a powerful strike at a target unit, dealing damage equal to 300% of own ATK. It then flies into the air to fire feathered arrows, dealing damage equal to 10% of Max HP to enemy units in a large range while inflicting them with Hawk Venom for 5s. CD is 15s.
-
   |     Stars    |  Required to Up | Exclusive Effect | 
   |:-------------|:---------------:|:---------------:|
+  | **- | **100x** [Knight Pike Token](/Items/con_210/) | <Aerobatics> Harpy launches a powerful strike at a target unit, dealing damage equal to 300% of own ATK. It then flies into the air to fire feathered arrows, dealing damage equal to 10% of Max HP to enemy units in a large range while inflicting them with Hawk Venom for 5s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_210/) | Increases Harpy's Unit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **80x** [Knight Pike Token](/Items/con_210/) | Increases Harpy's ATK by 40% when fighting flying units. |
   | **3x** <i class="fas fa-star"/> | **120x** [Knight Pike Token](/Items/con_210/) | <Venom Gorger> When fighting poisoned targets, Harpy launches a pursuit and deals damage equal to 300% of own ATK. CD is 10s. If the target was attacked by <Poison Burst>, it is also stunned for 5s. |
