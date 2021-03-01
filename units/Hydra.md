@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Hydra's Head** 
+ **Name: [Hydra's Head](/Exclusive/Hydra Hydra's Head/)** 
 
  **Item to Rank Up:** [Hydra's Head Token](/Items/con_176/)
 

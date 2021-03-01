@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Sword** 
+ **Name: [Sword](/Exclusive/Gnoll Sword/)** 
 
  **Item to Rank Up:** [Sword Token](/Items/con_163/)
 

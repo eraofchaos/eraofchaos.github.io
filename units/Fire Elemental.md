@@ -75,7 +75,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Fire Energy** 
+ **Name: [Fire Energy](/Exclusive/Fire Elemental Fire Energy/)** 
 
  **Item to Rank Up:** [Fire Energy Token](/Items/con_1275/)
 

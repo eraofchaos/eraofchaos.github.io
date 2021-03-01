@@ -79,7 +79,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Arcane Chant** 
+ **Name: [Arcane Chant](/Exclusive/Efreeti Arcane Chant/)** 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
 

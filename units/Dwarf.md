@@ -79,7 +79,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Iris Shield** 
+ **Name: [Iris Shield](/Exclusive/Dwarf Iris Shield/)** 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
 

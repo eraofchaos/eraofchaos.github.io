@@ -77,7 +77,7 @@ toc: true
 
 ## Exclusive
 
- **Name: ** 
+ **Name: [](/Exclusive/Regnan Seer /)** 
 
  **Item to Rank Up:** [The City by the Ocean Banner Soul](/Items/con_972/)
 

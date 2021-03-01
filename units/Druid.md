@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Staff of Regrowth** 
+ **Name: [Staff of Regrowth](/Exclusive/Druid Staff of Regrowth/)** 
 
  **Item to Rank Up:** [Staff of Regrowth Token](/Items/con_980/)
 

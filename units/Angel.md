@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Durandel** 
+ **Name: [Durandel](/Exclusive/Angel Durandel/)** 
 
  **Item to Rank Up:** [Durandel Token](/Items/con_1313/)
 

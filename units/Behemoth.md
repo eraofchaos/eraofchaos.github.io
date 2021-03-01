@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Bloodthirsty Spirit** 
+ **Name: [Bloodthirsty Spirit](/Exclusive/Behemoth Bloodthirsty Spirit/)** 
 
  **Item to Rank Up:** [Bloodthirsty Spirit Token](/Items/con_375/)
 

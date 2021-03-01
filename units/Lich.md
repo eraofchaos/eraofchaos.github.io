@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Death Tribute** 
+ **Name: [Death Tribute](/Exclusive/Lich Death Tribute/)** 
 
  **Item to Rank Up:** [Death Tribute Token](/Items/con_715/)
 

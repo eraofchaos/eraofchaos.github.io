@@ -82,7 +82,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Knight Pike** 
+ **Name: [Knight Pike](/Exclusive/Cavalier Knight Pike/)** 
 
  **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
 

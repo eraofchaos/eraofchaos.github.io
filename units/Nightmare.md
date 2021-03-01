@@ -74,7 +74,7 @@ toc: true
 
 ## Exclusive
 
- **Name: ** 
+ **Name: [](/Exclusive/Nightmare /)** 
 
  **Item to Rank Up:** [Nightmare's Eye Token](/Items/con_113/)
 

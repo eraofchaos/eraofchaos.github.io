@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Iris Shield** 
+ **Name: [Iris Shield](/Exclusive/Walking Dead Iris Shield/)** 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
 

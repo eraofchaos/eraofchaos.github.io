@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Black Dragon's Scale** 
+ **Name: [Black Dragon's Scale](/Exclusive/Black Dragon Black Dragon's Scale/)** 
 
  **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1215/)
 

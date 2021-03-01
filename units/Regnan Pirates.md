@@ -77,7 +77,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Sword** 
+ **Name: [Sword](/Exclusive/Regnan Pirates Sword/)** 
 
  **Item to Rank Up:** [Sword Token](/Items/con_163/)
 

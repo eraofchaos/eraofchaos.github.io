@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Immortal Dragon Bone** 
+ **Name: [Immortal Dragon Bone](/Exclusive/Bone Dragon Immortal Dragon Bone/)** 
 
  **Item to Rank Up:** [Immortal Dragon Bone Token](/Items/con_1399/)
 

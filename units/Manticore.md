@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Scorpion tail** 
+ **Name: [Scorpion tail](/Exclusive/Manticore Scorpion tail/)** 
 
  **Item to Rank Up:** [Scorpion Tail Token](/Items/con_873/)
 

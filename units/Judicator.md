@@ -74,7 +74,7 @@ toc: true
 
 ## Exclusive
 
- **Name: ** 
+ **Name: [](/Exclusive/Judicator /)** 
 
  **Item to Rank Up:** [Sanctuary's Radiance Banner Soul](/Items/con_723/)
 

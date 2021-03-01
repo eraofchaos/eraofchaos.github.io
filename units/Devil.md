@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Devil Scythe** 
+ **Name: [Devil Scythe](/Exclusive/Devil Devil Scythe/)** 
 
  **Item to Rank Up:** [Devil Scythe Token](/Items/con_1122/)
 

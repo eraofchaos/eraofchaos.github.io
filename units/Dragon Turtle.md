@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Obedience** 
+ **Name: [Obedience](/Exclusive/Dragon Turtle Obedience/)** 
 
  **Item to Rank Up:** [Obedience Token](/Items/con_602/)
 

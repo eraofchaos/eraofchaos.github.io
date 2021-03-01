@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Berserker's Axe** 
+ **Name: [Berserker's Axe](/Exclusive/Berserker Berserker's Axe/)** 
 
  **Item to Rank Up:** [Berserker's Axe Token](/Items/con_789/)
 

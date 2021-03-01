@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Day Tides** 
+ **Name: [Day Tides](/Exclusive/Regnan Serpent Day Tides/)** 
 
  **Item to Rank Up:** [Day Tides Token](/Items/con_1387/)
 

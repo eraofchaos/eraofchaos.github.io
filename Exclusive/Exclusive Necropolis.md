@@ -12,12 +12,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Skeleton](/units/Skeleton/) | Iris Shield | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
-  | 2  | [Walking Dead](/units/Walking Dead/) | Iris Shield | + | Charge | [Iris Shield Token](/Items/con_153/) | - |
-  | 3  | [Wight](/units/Wight/) | Arcane Chant | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |
-  | 4  | [Vampire](/units/Vampire/) | Knight Pike | - | Charge | [Knight Pike Token](/Items/con_210/) | - |
-  | 5  | [Lich](/units/Lich/) | Death Tribute | + | Ranged | [Death Tribute Token](/Items/con_715/) | [Death Tribute Special Skin](/Items/con_302/) |
-  | 6  | [Black Knight](/units/Black Knight/) | Nether Sabre | + | Support | [Nether Sabre Token](/Items/con_982/) | [Nether Sabre Special Skin](/Items/con_588/) |
-  | 7  | [Bone Dragon](/units/Bone Dragon/) | Immortal Dragon Bone | - | Support | [Immortal Dragon Bone Token](/Items/con_1399/) | [Immortal Dragon Bone Special Skin](/Items/con_929/) |
-  | 8  | [Mummy](/units/Mummy/) | Gauze | - | Ranged | [Gauze Token](/Items/con_44/) | [Gauze Special Skin](/Items/con_1240/) |
+  | 1  | [Skeleton](/units/Skeleton/) | [Iris Shield](/Exclusive/Skeleton Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
+  | 2  | [Walking Dead](/units/Walking Dead/) | [Iris Shield](/Exclusive/Walking Dead Iris Shield/) | + | Charge | [Iris Shield Token](/Items/con_153/) | - |
+  | 3  | [Wight](/units/Wight/) | [Arcane Chant](/Exclusive/Wight Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |
+  | 4  | [Vampire](/units/Vampire/) | [Knight Pike](/Exclusive/Vampire Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_210/) | - |
+  | 5  | [Lich](/units/Lich/) | [Death Tribute](/Exclusive/Lich Death Tribute/) | + | Ranged | [Death Tribute Token](/Items/con_715/) | [Death Tribute Special Skin](/Items/con_302/) |
+  | 6  | [Black Knight](/units/Black Knight/) | [Nether Sabre](/Exclusive/Black Knight Nether Sabre/) | + | Support | [Nether Sabre Token](/Items/con_982/) | [Nether Sabre Special Skin](/Items/con_588/) |
+  | 7  | [Bone Dragon](/units/Bone Dragon/) | [Immortal Dragon Bone](/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Support | [Immortal Dragon Bone Token](/Items/con_1399/) | [Immortal Dragon Bone Special Skin](/Items/con_929/) |
+  | 8  | [Mummy](/units/Mummy/) | [Gauze](/Exclusive/Mummy Gauze/) | - | Ranged | [Gauze Token](/Items/con_44/) | [Gauze Special Skin](/Items/con_1240/) |
   | 9  | [Dark Champion](/units/Dark Champion/) | - | - | - | none | none |

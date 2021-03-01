@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Iris Shield** 
+ **Name: [Iris Shield](/Exclusive/Centaur Iris Shield/)** 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
 

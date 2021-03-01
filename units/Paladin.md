@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: ** 
+ **Name: [](/Exclusive/Paladin /)** 
 
  **Item to Rank Up:** [Fearless Token](/Items/con_337/)
 

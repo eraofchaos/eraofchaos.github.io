@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Naga Sword** 
+ **Name: [Naga Sword](/Exclusive/Naga Naga Sword/)** 
 
  **Item to Rank Up:** [Naga Sword Token](/Items/con_94/)
 

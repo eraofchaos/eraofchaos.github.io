@@ -74,7 +74,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Energy Core** 
+ **Name: [Energy Core](/Exclusive/Stone Elemental Energy Core/)** 
 
  **Item to Rank Up:** [Energy Core Token](/Items/con_203/)
 

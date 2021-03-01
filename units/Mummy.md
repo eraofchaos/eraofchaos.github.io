@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Gauze** 
+ **Name: [Gauze](/Exclusive/Mummy Gauze/)** 
 
  **Item to Rank Up:** [Gauze Token](/Items/con_44/)
 

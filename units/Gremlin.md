@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Long Bow** 
+ **Name: [Long Bow](/Exclusive/Gremlin Long Bow/)** 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
 

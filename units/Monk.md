@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Arcane Chant** 
+ **Name: [Arcane Chant](/Exclusive/Monk Arcane Chant/)** 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
 

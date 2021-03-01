@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Arcane Chant** 
+ **Name: [Arcane Chant](/Exclusive/Sea Elemental Arcane Chant/)** 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
 

@@ -74,7 +74,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Polaris** 
+ **Name: [Polaris](/Exclusive/Magic Airship Polaris/)** 
 
  **Item to Rank Up:** [Polaris Token](/Items/con_865/)
 

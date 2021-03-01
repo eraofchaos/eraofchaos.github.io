@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Medusa's bow** 
+ **Name: [Medusa's bow](/Exclusive/Medusa Medusa's bow/)** 
 
  **Item to Rank Up:** [Medusa's Bow Token](/Items/con_101/)
 

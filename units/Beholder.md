@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Dark Gaze** 
+ **Name: [Dark Gaze](/Exclusive/Beholder Dark Gaze/)** 
 
  **Item to Rank Up:** [Dark Gaze Token](/Items/con_1111/)
 

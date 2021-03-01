@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Basilisk's Tail** 
+ **Name: [Basilisk's Tail](/Exclusive/Basilisk Basilisk's Tail/)** 
 
  **Item to Rank Up:** [Basilisk's Tail Token](/Items/con_869/)
 

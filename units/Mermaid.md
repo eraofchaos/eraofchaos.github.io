@@ -74,7 +74,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Night Tides** 
+ **Name: [Night Tides](/Exclusive/Mermaid Night Tides/)** 
 
  **Item to Rank Up:** [Night Tides Token](/Items/con_315/)
 

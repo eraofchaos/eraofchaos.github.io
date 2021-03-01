@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Sword** 
+ **Name: [Sword](/Exclusive/Troglodyte Sword/)** 
 
  **Item to Rank Up:** [Sword Token](/Items/con_163/)
 

@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Nether Sabre** 
+ **Name: [Nether Sabre](/Exclusive/Black Knight Nether Sabre/)** 
 
  **Item to Rank Up:** [Nether Sabre Token](/Items/con_982/)
 

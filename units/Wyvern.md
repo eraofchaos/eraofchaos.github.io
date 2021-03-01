@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Wyvern's Tail** 
+ **Name: [Wyvern's Tail](/Exclusive/Wyvern Wyvern's Tail/)** 
 
  **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_1299/)
 

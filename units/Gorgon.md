@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Gorgon's Horn** 
+ **Name: [Gorgon's Horn](/Exclusive/Gorgon Gorgon's Horn/)** 
 
  **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_1209/)
 

@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Eternal Flame** 
+ **Name: [Eternal Flame](/Exclusive/Firebird Eternal Flame/)** 
 
  **Item to Rank Up:** [Eternal Flame Token](/Items/con_967/)
 

@@ -77,7 +77,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Arcane Chant** 
+ **Name: [Arcane Chant](/Exclusive/Serpent Fly Arcane Chant/)** 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
 

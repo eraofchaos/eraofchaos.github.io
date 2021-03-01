@@ -74,7 +74,7 @@ toc: true
 
 ## Exclusive
 
- **Name: Spirit Core** 
+ **Name: [Spirit Core](/Exclusive/Psychic Elemental Spirit Core/)** 
 
  **Item to Rank Up:** [Spirit Core Token](/Items/con_595/)
 
