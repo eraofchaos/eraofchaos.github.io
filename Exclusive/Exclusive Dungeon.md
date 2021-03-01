@@ -1,7 +1,7 @@
 ---
 title: "Era of Chaos - Exclusive Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
-excerpt: "Era of Chaos Exclusive Dungeon. Exclusive Dungeon. List of Exclusive Dungeonin Era of Chaos"
+excerpt: "Era of Chaos Exclusive Dungeon. Exclusive Dungeon. List of Exclusive Dungeon in Era of Chaos"
 last_modified_at: 2021-03-01
 locale: en
 ref: "Exclusive Dungeon"
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortress](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rampart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castle](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tower](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Stronghold](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cove](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutral Army](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-  | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodyte](/units/Troglodyte/) | Sword | - | Charge | [Sword Token](/Items/con_163/) | - |
   | 2  | [Harpy](/units/Harpy/) | Knight Pike | - | Charge | [Knight Pike Token](/Items/con_210/) | - |

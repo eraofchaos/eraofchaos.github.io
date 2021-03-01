@@ -76,9 +76,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Basilisk's Tail
+ **Name: Basilisk's Tail** 
 
- **Item to up:** [Basilisk's Tail Token](/Items/con_869/)
+ **Item to Rank Up:** [Basilisk's Tail Token](/Items/con_869/)
 
  **Skin:** [Fire Energy Special Skin](/Items/con_1047/)
 

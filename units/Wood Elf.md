@@ -81,9 +81,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Long Bow
+ **Name: Long Bow** 
 
- **Item to up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
 
  **Skin:** -
 

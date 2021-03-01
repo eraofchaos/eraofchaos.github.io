@@ -80,9 +80,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Eternal Flame
+ **Name: Eternal Flame** 
 
- **Item to up:** [Eternal Flame Token](/Items/con_967/)
+ **Item to Rank Up:** [Eternal Flame Token](/Items/con_967/)
 
  **Skin:** [Eternal Flame Special Skin](/Items/con_317/)
 

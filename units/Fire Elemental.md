@@ -75,9 +75,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Fire Energy
+ **Name: Fire Energy** 
 
- **Item to up:** [Fire Energy Token](/Items/con_1275/)
+ **Item to Rank Up:** [Fire Energy Token](/Items/con_1275/)
 
  **Skin:** [Fire Energy Special Skin](/Items/con_1296/)
 

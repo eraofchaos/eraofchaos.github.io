@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Bloodthirsty Spirit
+ **Name: Bloodthirsty Spirit** 
 
- **Item to up:** [Bloodthirsty Spirit Token](/Items/con_375/)
+ **Item to Rank Up:** [Bloodthirsty Spirit Token](/Items/con_375/)
 
  **Skin:** [Bloodthirsty Spirit Special Skin](/Items/con_652/)
 

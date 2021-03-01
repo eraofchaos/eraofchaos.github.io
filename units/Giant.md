@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Thousand Ton
+ **Name: Thousand Ton** 
 
- **Item to up:** [Thousand Ton Token](/Items/con_448/)
+ **Item to Rank Up:** [Thousand Ton Token](/Items/con_448/)
 
  **Skin:** [Thousand Ton Special Skin](/Items/con_1010/)
 

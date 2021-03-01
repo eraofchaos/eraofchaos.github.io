@@ -1,7 +1,7 @@
 ---
 title: "Era of Chaos - Exclusive Necropolis"
 permalink: /Exclusive/Exclusive Necropolis/
-excerpt: "Era of Chaos Exclusive Necropolis. Exclusive Necropolis. List of Exclusive Necropolisin Era of Chaos"
+excerpt: "Era of Chaos Exclusive Necropolis. Exclusive Necropolis. List of Exclusive Necropolis in Era of Chaos"
 last_modified_at: 2021-03-01
 locale: en
 ref: "Exclusive Necropolis"
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortress](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rampart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castle](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tower](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Stronghold](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cove](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutral Army](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-  | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Skeleton](/units/Skeleton/) | Iris Shield | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
   | 2  | [Walking Dead](/units/Walking Dead/) | Iris Shield | + | Charge | [Iris Shield Token](/Items/con_153/) | - |

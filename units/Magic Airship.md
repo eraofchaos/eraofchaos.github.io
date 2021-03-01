@@ -74,9 +74,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Polaris
+ **Name: Polaris** 
 
- **Item to up:** [Polaris Token](/Items/con_865/)
+ **Item to Rank Up:** [Polaris Token](/Items/con_865/)
 
  **Skin:** [Polaris Special Skin](/Items/con_1374/)
 

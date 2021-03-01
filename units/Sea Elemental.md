@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Arcane Chant
+ **Name: Arcane Chant** 
 
- **Item to up:** [Arcane Chant Token](/Items/con_122/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
 
  **Skin:** -
 

@@ -80,9 +80,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Resplendent Dragonwing
+ **Name: Resplendent Dragonwing** 
 
- **Item to up:** [Resplendent Dragonwing Token](/Items/con_703/)
+ **Item to Rank Up:** [Resplendent Dragonwing Token](/Items/con_703/)
 
  **Skin:** [Resplendent Dragonwing Special Skin](/Items/con_279/)
 

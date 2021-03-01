@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** 
+ **Name: ** 
 
- **Item to up:** [Fearless Token](/Items/con_337/)
+ **Item to Rank Up:** [Fearless Token](/Items/con_337/)
 
  **Skin:** [Fearless Special Skin](/Items/con_1107/)
 

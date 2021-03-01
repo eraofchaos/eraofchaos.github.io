@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Lyra
+ **Name: Lyra** 
 
- **Item to up:** [Lyra Token](/Items/con_1104/)
+ **Item to Rank Up:** [Lyra Token](/Items/con_1104/)
 
  **Skin:** [Lyra Special Skin](/Items/con_189/)
 

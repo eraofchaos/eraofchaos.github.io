@@ -74,9 +74,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Night Tides
+ **Name: Night Tides** 
 
- **Item to up:** [Night Tides Token](/Items/con_315/)
+ **Item to Rank Up:** [Night Tides Token](/Items/con_315/)
 
  **Skin:** [Night Tides Special Skin](/Items/con_766/)
 

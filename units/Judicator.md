@@ -74,9 +74,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** 
+ **Name: ** 
 
- **Item to up:** [Sanctuary's Radiance Banner Soul](/Items/con_723/)
+ **Item to Rank Up:** [Sanctuary's Radiance Banner Soul](/Items/con_723/)
 
  **Skin:** -
 

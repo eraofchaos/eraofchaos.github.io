@@ -74,9 +74,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Energy Core
+ **Name: Energy Core** 
 
- **Item to up:** [Energy Core Token](/Items/con_203/)
+ **Item to Rank Up:** [Energy Core Token](/Items/con_203/)
 
  **Skin:** [Energy Core Special Skin](/Items/con_950/)
 

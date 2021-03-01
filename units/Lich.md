@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Death Tribute
+ **Name: Death Tribute** 
 
- **Item to up:** [Death Tribute Token](/Items/con_715/)
+ **Item to Rank Up:** [Death Tribute Token](/Items/con_715/)
 
  **Skin:** [Death Tribute Special Skin](/Items/con_302/)
 

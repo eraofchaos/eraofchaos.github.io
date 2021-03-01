@@ -76,9 +76,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Gauze
+ **Name: Gauze** 
 
- **Item to up:** [Gauze Token](/Items/con_44/)
+ **Item to Rank Up:** [Gauze Token](/Items/con_44/)
 
  **Skin:** [Gauze Special Skin](/Items/con_1240/)
 

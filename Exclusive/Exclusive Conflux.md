@@ -1,7 +1,7 @@
 ---
 title: "Era of Chaos - Exclusive Conflux"
 permalink: /Exclusive/Exclusive Conflux/
-excerpt: "Era of Chaos Exclusive Conflux. Exclusive Conflux. List of Exclusive Confluxin Era of Chaos"
+excerpt: "Era of Chaos Exclusive Conflux. Exclusive Conflux. List of Exclusive Conflux in Era of Chaos"
 last_modified_at: 2021-03-01
 locale: en
 ref: "Exclusive Conflux"
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortress](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rampart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castle](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tower](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Stronghold](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cove](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutral Army](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-  | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Sprite](/units/Sprite/) | Knight Pike | - | Charge | [Knight Pike Token](/Items/con_210/) | - |
   | 2  | [Storm Elemental](/units/Storm Elemental/) | Long Bow | - | Charge | [Long Bow Token](/Items/con_134/) | - |

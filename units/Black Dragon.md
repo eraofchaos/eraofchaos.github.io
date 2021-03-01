@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Black Dragon's Scale
+ **Name: Black Dragon's Scale** 
 
- **Item to up:** [Black Dragon's Scale Token](/Items/con_1215/)
+ **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1215/)
 
  **Skin:** [Black Dragon's Scale Special Skin](/Items/con_604/)
 

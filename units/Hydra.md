@@ -76,9 +76,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Hydra's Head
+ **Name: Hydra's Head** 
 
- **Item to up:** [Hydra's Head Token](/Items/con_176/)
+ **Item to Rank Up:** [Hydra's Head Token](/Items/con_176/)
 
  **Skin:** [Energy Core Special Skin](/Items/con_769/)
 

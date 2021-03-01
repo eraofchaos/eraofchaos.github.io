@@ -77,9 +77,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Sword
+ **Name: Sword** 
 
- **Item to up:** [Sword Token](/Items/con_163/)
+ **Item to Rank Up:** [Sword Token](/Items/con_163/)
 
  **Skin:** -
 

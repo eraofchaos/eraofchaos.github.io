@@ -76,9 +76,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Staff of Regrowth
+ **Name: Staff of Regrowth** 
 
- **Item to up:** [Staff of Regrowth Token](/Items/con_980/)
+ **Item to Rank Up:** [Staff of Regrowth Token](/Items/con_980/)
 
  **Skin:** [Staff of Regrowth Special Skin](/Items/con_668/)
 

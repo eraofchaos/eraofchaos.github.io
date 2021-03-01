@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Dark Gaze
+ **Name: Dark Gaze** 
 
- **Item to up:** [Dark Gaze Token](/Items/con_1111/)
+ **Item to Rank Up:** [Dark Gaze Token](/Items/con_1111/)
 
  **Skin:** [Dark Gaze Special Skin](/Items/con_9/)
 

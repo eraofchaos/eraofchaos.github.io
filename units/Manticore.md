@@ -76,9 +76,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Scorpion tail
+ **Name: Scorpion tail** 
 
- **Item to up:** [Scorpion Tail Token](/Items/con_873/)
+ **Item to Rank Up:** [Scorpion Tail Token](/Items/con_873/)
 
  **Skin:** [Scorpion Tail Special Skin](/Items/con_1179/)
 

@@ -79,9 +79,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Iris Shield
+ **Name: Iris Shield** 
 
- **Item to up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
 
  **Skin:** -
 

@@ -74,9 +74,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Spirit Core
+ **Name: Spirit Core** 
 
- **Item to up:** [Spirit Core Token](/Items/con_595/)
+ **Item to Rank Up:** [Spirit Core Token](/Items/con_595/)
 
  **Skin:** [Spirit Core Special Skin](/Items/con_639/)
 

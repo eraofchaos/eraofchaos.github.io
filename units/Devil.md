@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Devil Scythe
+ **Name: Devil Scythe** 
 
- **Item to up:** [Devil Scythe Token](/Items/con_1122/)
+ **Item to Rank Up:** [Devil Scythe Token](/Items/con_1122/)
 
  **Skin:** [Devil Scythe Special Skin](/Items/con_1247/)
 

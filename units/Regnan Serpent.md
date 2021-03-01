@@ -78,9 +78,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Day Tides
+ **Name: Day Tides** 
 
- **Item to up:** [Day Tides Token](/Items/con_1387/)
+ **Item to Rank Up:** [Day Tides Token](/Items/con_1387/)
 
  **Skin:** [Day Tides Special Skin](/Items/con_460/)
 

@@ -1,7 +1,7 @@
 ---
 title: "Era of Chaos - Exclusive Inferno"
 permalink: /Exclusive/Exclusive Inferno/
-excerpt: "Era of Chaos Exclusive Inferno. Exclusive Inferno. List of Exclusive Infernoin Era of Chaos"
+excerpt: "Era of Chaos Exclusive Inferno. Exclusive Inferno. List of Exclusive Inferno in Era of Chaos"
 last_modified_at: 2021-03-01
 locale: en
 ref: "Exclusive Inferno"
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortress](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rampart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castle](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tower](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Stronghold](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cove](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutral Army](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-  | Nr |         Unit        |   Exclusive   | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Imp](/units/Imp/) | Iris Shield | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
   | 2  | [Gog](/units/Gog/) | Arcane Chant | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |

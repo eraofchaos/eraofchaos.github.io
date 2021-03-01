@@ -76,9 +76,9 @@ toc: true
 
 ## Exclusive
 
- **Name:** Obedience
+ **Name: Obedience** 
 
- **Item to up:** [Obedience Token](/Items/con_602/)
+ **Item to Rank Up:** [Obedience Token](/Items/con_602/)
 
  **Skin:** [Obedience Special Skin](/Items/con_1133/)
 
