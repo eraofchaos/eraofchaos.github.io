@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 769.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Hydra's Head](/Exclusive/Hydra Hydra's Head/)** 
+ **Name:** [Hydra's Head](/Exclusive/Hydra Hydra's Head/) 
 
  **Item to Rank Up:** [Hydra's Head Token](/Items/con_176/)
 

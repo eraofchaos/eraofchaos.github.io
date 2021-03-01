@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 430.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Black Dragon's Scale](/Exclusive/Black Dragon Black Dragon's Scale/)** 
+ **Name:** [Black Dragon's Scale](/Exclusive/Black Dragon Black Dragon's Scale/) 
 
  **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1215/)
 

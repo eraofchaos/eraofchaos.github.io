@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 500.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Wyvern's Tail](/Exclusive/Wyvern Wyvern's Tail/)** 
+ **Name:** [Wyvern's Tail](/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_1299/)
 

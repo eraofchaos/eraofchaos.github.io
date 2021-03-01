@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 121.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Gorgon's Horn](/Exclusive/Gorgon Gorgon's Horn/)** 
+ **Name:** [Gorgon's Horn](/Exclusive/Gorgon Gorgon's Horn/) 
 
  **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_1209/)
 

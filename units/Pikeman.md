@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Sword](/Exclusive/Pikeman Sword/)** 
+ **Name:** [Sword](/Exclusive/Pikeman Sword/) 
 
  **Item to Rank Up:** [Sword Token](/Items/con_163/)
 

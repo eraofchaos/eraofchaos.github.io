@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 678.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Berserker's Axe](/Exclusive/Berserker Berserker's Axe/)** 
+ **Name:** [Berserker's Axe](/Exclusive/Berserker Berserker's Axe/) 
 
  **Item to Rank Up:** [Berserker's Axe Token](/Items/con_789/)
 

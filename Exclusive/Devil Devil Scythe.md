@@ -13,10 +13,56 @@ classes: wide
 **Warning** Exclusive is not released yet. Participate in quiz/votes to open information for all Factions!
 {: .notice--danger}
 
-## NOT OPEN YET
+## Details
  **Name: Devil Scythe** 
+
+ **Exclusive for Unit: [Devil](/units/Devil/) 
 
  **Item to Rank Up:** [Devil Scythe Token](/Items/con_1122/)
 
  **Skin:** [Devil Scythe Special Skin](/Items/con_1247/)
+
+ **Type:** Support
+
+ **Open:** -
+
+ **Power:** 1660
+
+## Rank Up
+ **Required to open:** **100x** [Devil Scythe Token](/Items/con_1122/)
+
+ **Exclusive Effect:** The Devil revives at its spawn point 6s after its first death. The reborn Devil increases Crit DMG, ATK speed and unit's damage reduction y 10% for all friendly units over the next 20s. For the Inferno Faction units, the effect doubles. The reborn Devil unleashes <Revenge> on the target unit. <Revenge> Causes damage equal to 200% of ATK and \"emaciates\" the target. The skill can be triggered once every 45s. \"Emaciation\"> lasts for 5s and cannot be dispelled. Decreases \"emaciated\" unit's damage reduction by 20%, decreases DEF by 20%
+
+  |     Stars    |  Required to Up | Exclusive Effect | 
+  |:-------------|:---------------:|:---------------:|
+  | **1x** <i class="fas fa-star"/> | **50x** [Devil Scythe Token](/Items/con_1122/) | The Devil applies an [Inferno Mark] to a random hostile unit every 9s. Each mark stack decreases the target unit's unit's damage reduction by 7%, up to 3 stacks. When the mark has 3 stacks, it will be removed from the target and cause 300% damage. The mark lasts throughout the entire battle and cannot be dispelled |
+  | **2x** <i class="fas fa-star"/> | **80x** [Devil Scythe Token](/Items/con_1122/) | Increases Devil's unit's damage by 10% and unit's damage reduction by 20% |
+  | **3x** <i class="fas fa-star"/> | **120x** [Devil Scythe Token](/Items/con_1122/) | For each of the Devil's normal attacks, 30% of its ATK is dealt as damage to the target and its penetration is increased by 300 |
+  | **4x** <i class="fas fa-star"/> | **150x** [Devil Scythe Token](/Items/con_1122/) | Increases Devil's ATK by 20% and DEF by 10% |
+  | **5x** <i class="fas fa-star"/> | **230x** [Devil Scythe Token](/Items/con_1122/) | Devil \"Burns\" all hostile units every 30s for 10s. The pre-CD is 5s |
+  | **6x** <i class="fas fa-star"/> | **280x** [Devil Scythe Token](/Items/con_1122/) | The Devil unleashes <Inferno of Torture> on the target unit every 10s. Whenever <Inferno of Torture> is unleashed, increases Crit DMG by 10% and ATK speed by 10% for all Inferno units for 5s. <Inferno of Torture> Deals damage equal to 100% of its ATK +5% of the target's Max HP on enemy units within a certain area. For \"burning\" units, the effect doubles |
+
+
+## Level Up
+ **Exclusive Level Upgrade:** ToBeDone
+
+  |  Nr  |   Level  | Bonus at Level |
+  |:-----|:--------:|:--------------:|
+  | 1 | Lv.**20** | ATK: +5.0%, HP: +3.0% |
+  | 2 | Lv.**40** | ATK: +10.0%, HP: +5.0% |
+  | 3 | Lv.**60** | ATK: +10.0%, HP: +5.0% |
+  | 4 | Lv.**80** | Unit DMG: +5.0% |
+  | 5 | Lv.**100** | ATK: +15.0%, HP: +8.0% |
+
+
+  |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
+  |:-----|:--------:|:--------:|:--------:|
+  | 1 | 249 | 133.2 | 913.38 |
+  | 2 | 282 | 159.84 | 1096.06 |
+  | 3 | 315 | 186.48 | 1278.73 |
+  | 4 | 349 | 213.12 | 1461.41 |
+  | 5 | 382 | 239.76 | 1644.09 |
+  | 6 | 415 | 266.4 | 1826.76 |
+  | 7 | 448 | 293.04 | 2009.44 |
+
 

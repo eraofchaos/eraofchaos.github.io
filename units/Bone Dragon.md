@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 758.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Immortal Dragon Bone](/Exclusive/Bone Dragon Immortal Dragon Bone/)** 
+ **Name:** [Immortal Dragon Bone](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Item to Rank Up:** [Immortal Dragon Bone Token](/Items/con_1399/)
 

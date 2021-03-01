@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 82.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -79,7 +79,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Long Bow](/Exclusive/Orc Long Bow/)** 
+ **Name:** [Long Bow](/Exclusive/Orc Long Bow/) 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
 

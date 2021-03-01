@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 100.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Day Tides](/Exclusive/Regnan Serpent Day Tides/)** 
+ **Name:** [Day Tides](/Exclusive/Regnan Serpent Day Tides/) 
 
  **Item to Rank Up:** [Day Tides Token](/Items/con_1387/)
 

@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 114.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -79,7 +79,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Iris Shield](/Exclusive/Demon Iris Shield/)** 
+ **Name:** [Iris Shield](/Exclusive/Demon Iris Shield/) 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
 

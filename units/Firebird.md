@@ -42,7 +42,7 @@ toc: true
 
  **Base ATK: 848.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Eternal Flame](/Exclusive/Firebird Eternal Flame/)** 
+ **Name:** [Eternal Flame](/Exclusive/Firebird Eternal Flame/) 
 
  **Item to Rank Up:** [Eternal Flame Token](/Items/con_967/)
 

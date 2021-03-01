@@ -42,7 +42,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Durandel](/Exclusive/Angel Durandel/)** 
+ **Name:** [Durandel](/Exclusive/Angel Durandel/) 
 
  **Item to Rank Up:** [Durandel Token](/Items/con_1313/)
 

@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusive
 
- **Name: [Thousand Ton](/Exclusive/Giant Thousand Ton/)** 
+ **Name:** [Thousand Ton](/Exclusive/Giant Thousand Ton/) 
 
  **Item to Rank Up:** [Thousand Ton Token](/Items/con_448/)
 
