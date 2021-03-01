@@ -13,17 +13,25 @@ sidebar:
 {% capture notice-update20210301 %}
 Dear Era of Chaos players,
 
+Introducing New feature - [Exclusive](https://eraofchaos.github.io/Exclusive/).
+
 Thanks for your votes on [Exclusive Faction vote on Reddit](https://www.reddit.com/r/era_of_chaos/comments/lt7iwo/new_game_feature_exclusive_weaponflag/). 
 We open Exclusives for 2 Factions:
  - [Exclusive Inferno](https://eraofchaos.github.io/Exclusive/Exclusive Inferno/)
  - [Exclusive Dungeon](https://eraofchaos.github.io/Exclusive/Exclusive Dungeon/)
 
+Thanks for participating in Quiz/Tasks on [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF)
 
-We ([Era of chaos Wiki](https://eraofchaos.github.io/), [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) and [Reddit Era Of Chaos community](https://www.reddit.com/r/era_of_chaos/)) are starting sequence of tasks/quiz to open information about new feature - [Exclusive](https://eraofchaos.github.io/Exclusive/) in the game. 
+ - [Exclusive Conflux](/Exclusive/Exclusive Conflux/)
+ - [Exclusive Fortress](/Exclusive/Exclusive Fortress/)
+ - [Exclusive Rampart](/Exclusive/Exclusive Rampart/)
+ - [Exclusive Castle](/Exclusive/Exclusive Castle/)
+ - [Exclusive Tower](/Exclusive/Exclusive Tower/)
+ - [Exclusive Stronghold](/Exclusive/Exclusive Stronghold/)
+ - [Exclusive Cove](/Exclusive/Exclusive Cove/)
+ - [Exclusive Necropolis](/Exclusive/Exclusive Necropolis/)
+ - [Exclusive Neutral Army](/Exclusive/Exclusive Neutral Army/)
 
-Subscribe on [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF) to participate in another tasks/quiz - to open information about another Factions.
-By winning/openning your Faction You would be able to see Exclusive information for all Units within Faction.
-Keep in mind [Exclusive](https://eraofchaos.github.io/Exclusive/) is next "game changer".
 {% endcapture %}
 
 <div class="notice--danger">
