@@ -9,23 +9,23 @@ toc: false
 classes: wide
 ---
 
+  <span style="color: #8a5c1d;font-size:18px">As there is limited room for combat on the battlefield, the School of War has researched a type of support magic to better improve unit combat capabilities. This magic allows the transfer of abilities from a support unit onto a combat unit, thus improving a combat unit's combat capabilities.</span><br/><span style="color: #ffffff">　</span><br/>
+
   Support feature is available at Lv. 58.
 
 
 
 ## Rules
 
-  <span style="color: #3c2a1e;font-size:22px">General Rules</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+  <span style="color: #645252">1. Support Position: There are 6 support positions that will unlock as the player levels up. Placing a unit in a support position can grant combat units and reinforcements with additional attributes.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
 
-<br/>  <span style="color: #645252">1. Support Position: There are 6 support positions that will unlock as the player levels up. Placing a unit in a support position can grant combat units and reinforcements with additional attributes.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+  <span style="color: #645252">2. Support Efficacy: Support efficacy increases when the support position levels up. The additional attributes granted by a unit in a support position increases with higher support efficacy.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
 
-<br/>  <span style="color: #645252">2. Support Efficacy: Support efficacy increases when the support position levels up. The additional attributes granted by a unit in a support position increases with higher support efficacy.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+  <span style="color: #645252">3. Support Attributes: ATK and HP are granted to all combat units and reinforcements according to the power of placed units and the support efficacy of the support position.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
 
-<br/>  <span style="color: #645252">3. Support Attributes: ATK and HP are granted to all combat units and reinforcements according to the power of placed units and the support efficacy of the support position.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
+  <span style="color: #645252">4. Combined Attributes: Each unit has its own tag. When the number of combat, reinforcements, and support units with the same tag reaches a certain total, a combination can be activated to grant more attribute bonuses.</span>
 
-<br/>  <span style="color: #645252">4. Combined Attributes: Each unit has its own tag. When the number of combat, reinforcements, and support units with the same tag reaches a certain total, a combination can be activated to grant more attribute bonuses.</span>
 
-<br/>
 
 ## Factions
 
