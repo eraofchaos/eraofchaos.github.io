@@ -27,7 +27,11 @@ classes: wide
 
 <br/>
 
-#### Faction Castle
+## Factions
+
+
+
+#### Faction: Castle
 
   |  Support Effect   |
   |:-----------------:|
@@ -38,7 +42,7 @@ classes: wide
 
 
 
-#### Faction Rampart
+#### Faction: Rampart
 
   |  Support Effect   |
   |:-----------------:|
@@ -49,7 +53,7 @@ classes: wide
 
 
 
-#### Faction Stronghold
+#### Faction: Stronghold
 
   |  Support Effect   |
   |:-----------------:|
@@ -60,7 +64,7 @@ classes: wide
 
 
 
-#### Faction Fortress
+#### Faction: Fortress
 
   |  Support Effect   |
   |:-----------------:|
@@ -71,7 +75,7 @@ classes: wide
 
 
 
-#### Faction Conflux
+#### Faction: Conflux
 
   |  Support Effect   |
   |:-----------------:|
@@ -82,7 +86,7 @@ classes: wide
 
 
 
-#### Faction Tower
+#### Faction: Tower
 
   |  Support Effect   |
   |:-----------------:|
@@ -93,7 +97,7 @@ classes: wide
 
 
 
-#### Faction Necropolis
+#### Faction: Necropolis
 
   |  Support Effect   |
   |:-----------------:|
@@ -104,7 +108,7 @@ classes: wide
 
 
 
-#### Faction Inferno
+#### Faction: Inferno
 
   |  Support Effect   |
   |:-----------------:|
@@ -115,7 +119,7 @@ classes: wide
 
 
 
-#### Faction Cove
+#### Faction: Cove
 
   |  Support Effect   |
   |:-----------------:|
@@ -126,7 +130,7 @@ classes: wide
 
 
 
-#### Faction Dungeon
+#### Faction: Dungeon
 
   |  Support Effect   |
   |:-----------------:|
@@ -137,13 +141,152 @@ classes: wide
 
 
 
-#### Faction Neutral
+#### Faction: Neutral
 
   |  Support Effect   |
   |:-----------------:|
   | Lv. 1 (2 types): Increases the Unit DMG and Unit DMG Reduction of Neutral units by 4% each. |
   | Lv. 2 (4 types): Increases the Unit DMG and Unit DMG Reduction of Neutral units by 6% each. |
   | Lv. 3 (6 types): Increases the Unit DMG and Unit DMG Reduction of Neutral units by 10% each. |
+
+
+
+
+## Unit type
+
+
+
+#### Unit Type: Defensive
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (3 types): Increases the Unit DMG Reduction of Defensive units by 5%. |
+  | Lv. 2 (5 types): Increases the Unit DMG Reduction of Defensive units by 10%. |
+  | Lv. 3 (7 types): Increases the Unit DMG Reduction of Defensive units by 15%. |
+
+
+
+
+#### Unit Type: Offensive
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (3 types): When Offensive units are deployed, reduces the Unit DMG Reduction of enemy Defensive units by 5%. |
+  | Lv. 2 (5 types): When Offensive units are deployed, reduces the Unit DMG Reduction of enemy Defensive units by 10%. |
+  | Lv. 3 (7 types): When Offensive units are deployed, reduces the Unit DMG Reduction of enemy Defensive units by 15%. |
+
+
+
+
+#### Unit Type: Charging
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (3 types): During the first 20s of battle, increases the Critical Hit and Attack Speed of Charging units by 5% each. |
+  | Lv. 2 (5 types): During the first 20s of battle, increases the Critical Hit and Attack Speed of Charging units by 10% each. |
+  | Lv. 3 (7 types): During the first 20s of battle, increases the Critical Hit and Attack Speed of Charging units by 15% each. |
+
+
+
+
+#### Unit Type: Caster
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (3 types): When one of your heroes casts a spell, increases the Unit DMG of your Spellcaster units by 2% for 4s. Stacks up to 5 times. |
+  | Lv. 2 (5 types): When one of your heroes casts a spell, increases the Unit DMG of your Spellcaster units by 3% for 4s. Stacks up to 5 times. |
+  | Lv. 3 (7 types): When one of your heroes casts a spell, increases the Unit DMG of your Spellcaster units by 5% for 4s. Stacks up to 5 times. |
+
+
+
+
+#### Unit Type: Ranged
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (3 types): Increases the Unit DMG of Ranged units by 6% when attacking a 1-man or 4-man unit. |
+  | Lv. 2 (5 types): Increases the Unit DMG of Ranged units by 9% when attacking a 1-man or 4-man unit. |
+  | Lv. 3 (7 types): Increases the Unit DMG of Ranged units by 12% when attacking a 1-man or 4-man unit. |
+
+
+
+
+## Type
+
+
+
+#### Type: Raider
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (2 types): Increases the Unit DMG of Raider units by 2%. Effectiveness doubles when facing Beast units. |
+  | Lv. 2 (4 types): Increases the Unit DMG of Raider units by 4%. Effectiveness doubles when facing Beast units. |
+  | Lv. 3 (6 types): Increases the Unit DMG of Raider units by 8%. Effectiveness doubles when facing Beast units. |
+
+
+
+
+#### Type: Beast
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (2 types): Increases the Unit DMG Reduction of Beast units by 2%. Effectiveness doubles when facing Dragonblood units. |
+  | Lv. 2 (4 types): Increases the Unit DMG Reduction of Beast units by 4%. Effectiveness doubles when facing Dragonblood units. |
+  | Lv. 3 (6 types): Increases the Unit DMG Reduction of Beast units by 8%. Effectiveness doubles when facing Dragonblood units. |
+
+
+
+
+#### Type: Dragonblood
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (2 types): Increases the Unit DMG of Dragonblood units by 2%. Effectiveness doubles when facing Raider units. |
+  | Lv. 2 (4 types): Increases the Unit DMG of Dragonblood units by 4%. Effectiveness doubles when facing Raider units. |
+  | Lv. 3 (6 types): Increases the Unit DMG of Dragonblood units by 8%. Effectiveness doubles when facing Raider units. |
+
+
+
+
+#### Type: Divine Descendent
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (2 types): Increases the Unit DMG Reduction of Divine Descendent units by 3%. Effectiveness doubles when facing Magic Emissary units. |
+  | Lv. 2 (4 types): Increases the Unit DMG Reduction of Divine Descendent units by 5%. Effectiveness doubles when facing Magic Emissary units. |
+  | Lv. 3 (5 types): Increases the Unit DMG Reduction of Divine Descendent units by 10%. Effectiveness doubles when facing Magic Emissary units. |
+
+
+
+
+#### Type: Magic Emissary
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (2 types): Increases the Unit DMG of Magic Emissary units by 3%. Effectiveness doubles when facing Divine Descendent units. |
+  | Lv. 2 (4 types): Increases the Unit DMG of Magic Emissary units by 5%. Effectiveness doubles when facing Divine Descendent units. |
+  | Lv. 3 (6 types): Increases the Unit DMG of Magic Emissary units by 10%. Effectiveness doubles when facing Divine Descendent units. |
+
+
+
+
+#### Type: Leader
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (2 types): Increases the Unit DMG and Unit DMG Reduction of all of your units by 4% each. |
+  | Lv. 2 (3 types): Increases the Unit DMG and Unit DMG Reduction of all of your units by 6% each. |
+  | Lv. 3 (4 types): Increases the Unit DMG and Unit DMG Reduction of all of your units by 10% each. |
+
+
+
+
+#### Type: Legendary
+
+  |  Support Effect   |
+  |:-----------------:|
+  | Lv. 1 (2 types): Increases the Unit DMG and Unit DMG Reduction of all of your units by 5% each. |
+  | Lv. 2 (4 types): Increases the Unit DMG and Unit DMG Reduction of all of your units by 10% each. |
 
 
 
