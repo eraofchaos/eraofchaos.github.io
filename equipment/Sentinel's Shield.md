@@ -2,7 +2,7 @@
 title: "Sentinel's Shield"
 permalink: /equipment/Sentinel's Shield/
 excerpt: "Era of Chaos Sentinel's Shield. Sentinel's Shield"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Sentinel's Shield.md"
 toc: false

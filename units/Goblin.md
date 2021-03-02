@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Goblin"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **Name:** [Sword](/Exclusive/Goblin Sword/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_163/)
+ **Item to Rank Up:** [Sword Token](/Items/con_165/)
 
  **Skin:** -
 
@@ -171,7 +171,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

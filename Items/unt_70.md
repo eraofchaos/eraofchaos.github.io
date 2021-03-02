@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Dragon Golem"
+title: "Item - Units - Silent Snow Spirit Soul Stone"
 permalink: /Items/unt_70/
-excerpt: "Dragon Golem"
-last_modified_at: 2021-02-24
+excerpt: "Silent Snow Spirit Soul Stone"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_70.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 80 soul tokens you can summon a Dragon Golem. Tokens can also be used to upgrade or increase the rank of dragon golems.
+ **Description:** Soul Stone for Silent Snow Spirit's Awakening level enhancement.
 
- **Quality:** <span style="color: #FF0000">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-  None
+*    Arena Store 
 
 ## This item contains:
 

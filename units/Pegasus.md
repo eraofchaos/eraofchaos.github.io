@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Pegasus"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Pegasus](/Items/unt_103/)
+ **Unit Soul:** [Pegasus](/Items/unt_104/)
 
  **Unit description:** Vitality Protection: Gives a life shield to the closest units in your army.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Long Bow](/Exclusive/Pegasus Long Bow/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

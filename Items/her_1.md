@@ -2,7 +2,7 @@
 title: "Item - Heroes - Wild Deathtrap"
 permalink: /Items/her_1/
 excerpt: "Wild Deathtrap"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_1.md"
 toc: false

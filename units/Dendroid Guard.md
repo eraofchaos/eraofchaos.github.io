@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Dendroid Guard"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Dendroid Guard](/Items/unt_84/)
+ **Unit Soul:** [Dendroid Guard](/Items/unt_85/)
 
  **Unit description:** Binding: Decreases opponent unit's attack speed, causes them to slow down.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Name:** [Iris Shield](/Exclusive/Dendroid Guard Iris Shield/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

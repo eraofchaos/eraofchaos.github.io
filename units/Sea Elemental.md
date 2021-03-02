@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Sea Elemental"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Sea Elemental](/Items/unt_68/)
+ **Unit Soul:** [Sea Elemental](/Items/unt_69/)
 
  **Short description:** Slow control
 
@@ -80,7 +80,7 @@ toc: true
 
  **Name:** [Arcane Chant](/Exclusive/Sea Elemental Arcane Chant/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 
  **Skin:** -
 
@@ -169,7 +169,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

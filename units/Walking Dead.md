@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Walking Dead"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Walking Dead](/Items/unt_141/)
+ **Unit Soul:** [Walking Dead](/Items/unt_142/)
 
  **Unit description:** Explosive: Deals damage to nearby enemy troops when the unit dies.
 
@@ -82,7 +82,7 @@ toc: true
 
  **Name:** [Iris Shield](/Exclusive/Walking Dead Iris Shield/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

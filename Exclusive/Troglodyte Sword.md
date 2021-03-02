@@ -2,7 +2,7 @@
 title: "Exclusive - Sword"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Troglodyte Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Troglodyte Sword.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Troglodyte](/units/Troglodyte/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_163/)
+ **Item to Rank Up:** [Sword Token](/Items/con_165/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sword Token](/Items/con_163/) | <Spear Lunge> Troglodyte deals damage equal to 200% of its own ATK to the target unit and inflicts Poison for 8s. If the target unit is already inflicted with Poison, the target unit is inflicted with Stun for 1s. CD is 20s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_163/) | Increases Troglodyte's HP by 20% and Dodge by 200. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Sword Token](/Items/con_163/) | Increases Troglodyte's ATK by 20%. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Sword Token](/Items/con_163/) | <Spell Breaker's Smell> Increases Troglodyte's DEF by 5% and Tenacity by 40 for 6s. Stacks up to 5 times. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Sword Token](/Items/con_163/) | Increases Troglodyte's Unit DMG by 15%. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Sword Token](/Items/con_163/) | Increases Life Drain by 10%. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Sword Token](/Items/con_163/) | <Spell Breaker's Smell> When there are 3 or more stacks of effects, each time <Spell Breaker's Smell> triggers, <Spear Lunge> will also be cast once. |
+  |  Initial  | **100x** [Sword Token](/Items/con_165/) | <Spear Lunge> Troglodyte deals damage equal to 200% of its own ATK to the target unit and inflicts Poison for 8s. If the target unit is already inflicted with Poison, the target unit is inflicted with Stun for 1s. CD is 20s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Troglodyte's HP by 20% and Dodge by 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Troglodyte's ATK by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | <Spell Breaker's Smell> Increases Troglodyte's DEF by 5% and Tenacity by 40 for 6s. Stacks up to 5 times. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_165/) | Increases Troglodyte's Unit DMG by 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_165/) | Increases Life Drain by 10%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_165/) | <Spell Breaker's Smell> When there are 3 or more stacks of effects, each time <Spell Breaker's Smell> triggers, <Spear Lunge> will also be cast once. |
 
 
 ## Level Up

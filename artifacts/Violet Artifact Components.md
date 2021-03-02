@@ -2,7 +2,7 @@
 title: "Violet Artifact Components"
 permalink: /artifacts/Violet Artifact Components/
 excerpt: "Lis of all Violet Artifact Components  in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Violet Artifact Components.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
  | [Necklace of Balance](/artifacts/Necklace of Balance/){: .btn .btn--era4} | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge. | 
  | [Forgotten Hourglass](/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge. | 
  | [Pendant of Negativity](/artifacts/Pendant of Negativity/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex. | 
- | [Recanter`s Cloak](/artifacts/Recanter`s Cloak/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | Wear it to weaken magical attacks. One of the Archmage's Codex. | 
+ | [Recanter's Cloak](/artifacts/Recanter's Cloak/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | Wear it to weaken magical attacks. One of the Archmage's Codex. | 
  | [Ring of Flares](/artifacts/Ring of Flares/){: .btn .btn--era4} | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A ring with magic flowing on its surface. One of the Archmage's Codex. | 
  | [Staff of Disruption](/artifacts/Staff of Disruption/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A staff with great power sealed within. One of the Archmage's Codex. | 
  | [Ogre's Club of Havoc](/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | A club taken from an Ogre captain in a roadside tavern. One of the components of the Axe of Ferocity. | 

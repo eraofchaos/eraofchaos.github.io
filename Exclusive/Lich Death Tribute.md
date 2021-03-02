@@ -2,7 +2,7 @@
 title: "Exclusive - Death Tribute"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Death Tribute. Death Tribute. Era of Chaos Exclusive Death Tribute. Lich Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Lich Death Tribute.md"
 toc: false
@@ -15,13 +15,13 @@ classes: wide
 
  **Exclusive for Unit:** [Lich](/units/Lich/) 
 
- **Item to Rank Up:** [Death Tribute Token](/Items/con_715/)
+ **Item to Rank Up:** [Death Tribute Token](/Items/con_726/)
 
- **Skin:** [Death Tribute Special Skin](/Items/con_302/)
+ **Skin:** [Death Tribute Special Skin](/Items/con_304/)
 
  **Type:** Ranged
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1560
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Death Tribute Token](/Items/con_715/) | <Dragon Soul Sacrifice> When the battle has been ongoing for 5s and 45s, a Bone Dragon is summoned both times that exists for 20s.　(The Bone Dragon's ATK and HP depend on the unit level. The Bone Dragon has <Fear> and <Penetration>. When it is on the battlefield, it increases all friendly Necropolis units' unit's damage and unit's damage reduction by 20%) |
-  | **1x** <i class="fas fa-star"/> | **50x** [Death Tribute Token](/Items/con_715/) | Lich's damage reduction is increased by 20% |
-  | **2x** <i class="fas fa-star"/> | **80x** [Death Tribute Token](/Items/con_715/) | Whenever the Lich offers up a sacrifice (including a Dragon Soul Sacrifice), magic resistance is decreased by 20% for all hostile units for 10s, up to 3 stacks |
-  | **3x** <i class="fas fa-star"/> | **120x** [Death Tribute Token](/Items/con_715/) | <Soul Snatch> Lich summons a Soul of Bone Dragon every 15s, causing damage equal to 20% of Max HP to a random back-row unit while giving it \"Deterrence\" and \"Low Morale\" for 10s |
-  | **4x** <i class="fas fa-star"/> | **150x** [Death Tribute Token](/Items/con_715/) | Increases Lich's ATK by 20% and ATK speed by 10% |
-  | **5x** <i class="fas fa-star"/> | **230x** [Death Tribute Token](/Items/con_715/) | Lich's unit's damage increases by 15%. Summons a skeleton unit that exists for 15s every 10s.　(The Skeletons' ATK and HP depend on the unit level. Its normal attack has a 10% chance of making the target \"bleeding\", and causes damage equal to 0.5 of Max HP per second. The effect lasts for 3s) |
-  | **6x** <i class="fas fa-star"/> | **280x** [Death Tribute Token](/Items/con_715/) | When <Soul Snatch> is cast, it causes damage equal to 5% of Max HP to hostile units in \"Low Morale\" on the battlefield and restores 20% of the caster's Max HP |
+  |  Initial  | **100x** [Death Tribute Token](/Items/con_726/) | <Dragon Soul Sacrifice> When the battle has been ongoing for 5s and 45s, a Bone Dragon is summoned both times that exists for 20s.　(The Bone Dragon's ATK and HP depend on the unit level. The Bone Dragon has <Fear> and <Penetration>. When it is on the battlefield, it increases all friendly Necropolis units' unit's damage and unit's damage reduction by 20%) |
+  | **1x** <i class="fas fa-star"/> | **50x** [Death Tribute Token](/Items/con_726/) | Lich's damage reduction is increased by 20% |
+  | **2x** <i class="fas fa-star"/> | **90x** [Death Tribute Token](/Items/con_726/) | Whenever the Lich offers up a sacrifice (including a Dragon Soul Sacrifice), magic resistance is decreased by 20% for all hostile units for 10s, up to 3 stacks |
+  | **3x** <i class="fas fa-star"/> | **130x** [Death Tribute Token](/Items/con_726/) | <Soul Snatch> Lich summons a Soul of Bone Dragon every 15s, causing damage equal to 20% of Max HP to a random back-row unit while giving it \"Deterrence\" and \"Low Morale\" for 10s |
+  | **4x** <i class="fas fa-star"/> | **170x** [Death Tribute Token](/Items/con_726/) | Increases Lich's ATK by 20% and ATK speed by 10% |
+  | **5x** <i class="fas fa-star"/> | **210x** [Death Tribute Token](/Items/con_726/) | Lich's unit's damage increases by 15%. Summons a skeleton unit that exists for 15s every 10s.　(The Skeletons' ATK and HP depend on the unit level. Its normal attack has a 10% chance of making the target \"bleeding\", and causes damage equal to 0.5 of Max HP per second. The effect lasts for 3s) |
+  | **6x** <i class="fas fa-star"/> | **250x** [Death Tribute Token](/Items/con_726/) | When <Soul Snatch> is cast, it causes damage equal to 5% of Max HP to hostile units in \"Low Morale\" on the battlefield and restores 20% of the caster's Max HP |
 
 
 ## Level Up

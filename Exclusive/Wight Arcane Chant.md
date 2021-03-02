@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Wight Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Wight Arcane Chant.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Wight](/units/Wight/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_122/) | <Cursed Mist> Wight unleashes a cursed mist that decreases the Unit DMG Reduction of enemy units within a large range of the target unit by 15% and deals damage equal to 50% of own ATK every second for 6s. CD is 18s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_122/) | Increases Wight's Unit DMG by 20%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Arcane Chant Token](/Items/con_122/) | Increases Wight's Attack Speed by 20%. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Arcane Chant Token](/Items/con_122/) | When Wight units die, 3 units will be inflicted with Fear for 5s and a Fear Mark stack will be added to them. (Fear: Cannot attack, move, or cast skills. Decreases Magic Resistance by 30%.) |
-  | **4x** <i class="fas fa-star"/> | **150x** [Arcane Chant Token](/Items/con_122/) | After casting <Cursed Mist>, Wight will randomly increase a random friendly unit's Critical Hit by 300 and Critical Hit DMG by 30% for 10s. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Arcane Chant Token](/Items/con_122/) | Wight is immune to earth-type spell damage. When attacking a target unit, there is a 25% chance that Wight will deal additional damage equal to 100% of own ATK and recover HP equal to 30% of own ATK. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Arcane Chant Token](/Items/con_122/) | <Phantom Barrage> Wight causes the target unit to fall into despair, decreasing their Unit DMG and Unit DMG Reduction by 30% each for 8s. Also has a 50% chance to inflict the target with Fear for 5s and add a Fear Mark stack. CD is 15s. |
+  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | <Cursed Mist> Wight unleashes a cursed mist that decreases the Unit DMG Reduction of enemy units within a large range of the target unit by 15% and deals damage equal to 50% of own ATK every second for 6s. CD is 18s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Increases Wight's Unit DMG by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Increases Wight's Attack Speed by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | When Wight units die, 3 units will be inflicted with Fear for 5s and a Fear Mark stack will be added to them. (Fear: Cannot attack, move, or cast skills. Decreases Magic Resistance by 30%.) |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arcane Chant Token](/Items/con_124/) | After casting <Cursed Mist>, Wight will randomly increase a random friendly unit's Critical Hit by 300 and Critical Hit DMG by 30% for 10s. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arcane Chant Token](/Items/con_124/) | Wight is immune to earth-type spell damage. When attacking a target unit, there is a 25% chance that Wight will deal additional damage equal to 100% of own ATK and recover HP equal to 30% of own ATK. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arcane Chant Token](/Items/con_124/) | <Phantom Barrage> Wight causes the target unit to fall into despair, decreasing their Unit DMG and Unit DMG Reduction by 30% each for 8s. Also has a 50% chance to inflict the target with Fear for 5s and add a Fear Mark stack. CD is 15s. |
 
 
 ## Level Up

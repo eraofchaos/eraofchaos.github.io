@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Hydra"
 toc: true
@@ -78,9 +78,9 @@ toc: true
 
  **Name:** [Hydra's Head](/Exclusive/Hydra Hydra's Head/) 
 
- **Item to Rank Up:** [Hydra's Head Token](/Items/con_176/)
+ **Item to Rank Up:** [Hydra's Head Token](/Items/con_178/)
 
- **Skin:** [Energy Core Special Skin](/Items/con_769/)
+ **Skin:** [Energy Core Special Skin](/Items/con_781/)
 
 
 ## Recommended Holy Emblems
@@ -166,7 +166,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

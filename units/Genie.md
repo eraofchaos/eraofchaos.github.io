@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Genie"
 toc: true
@@ -80,9 +80,9 @@ toc: true
 
  **Name:** [Lyra](/Exclusive/Genie Lyra/) 
 
- **Item to Rank Up:** [Lyra Token](/Items/con_1104/)
+ **Item to Rank Up:** [Lyra Token](/Items/con_1119/)
 
- **Skin:** [Lyra Special Skin](/Items/con_189/)
+ **Skin:** [Lyra Special Skin](/Items/con_191/)
 
 
 ## Recommended Holy Emblems
@@ -173,7 +173,7 @@ toc: true
 * Healing
 * unit DMG Reduction
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

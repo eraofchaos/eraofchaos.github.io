@@ -2,7 +2,7 @@
 title: "Backup"
 permalink: /Backup/
 excerpt: "Backup - Mages can tear a space portal open on the battlefield, transporting 3 back-up units onto the battlefield while generating a strong spell aura. Your enemies will be trembled by it."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "index.md"
 toc: false
@@ -48,21 +48,21 @@ classes: wide
 
   |  Level  | Battlefield Skill | Global Skill | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Energy Scroll](/Items/con_158/) | **5x** [Energy Scroll](/Items/con_158/) | 
-  | 2 | **2x** [Energy Scroll](/Items/con_158/) | **10x** [Energy Scroll](/Items/con_158/) | 
-  | 3 | **3x** [Energy Scroll](/Items/con_158/) | **15x** [Energy Scroll](/Items/con_158/) | 
-  | 4 | **4x** [Energy Scroll](/Items/con_158/) | **20x** [Energy Scroll](/Items/con_158/) | 
-  | 5 | **5x** [Energy Scroll](/Items/con_158/) | **25x** [Energy Scroll](/Items/con_158/) | 
-  | 6 | **9x** [Energy Scroll](/Items/con_158/) | **45x** [Energy Scroll](/Items/con_158/) | 
-  | 7 | **12x** [Energy Scroll](/Items/con_158/) | **60x** [Energy Scroll](/Items/con_158/) | 
-  | 8 | **20x** [Energy Scroll](/Items/con_158/) | **100x** [Energy Scroll](/Items/con_158/) | 
-  | 9 | **30x** [Energy Scroll](/Items/con_158/) | **150x** [Energy Scroll](/Items/con_158/) | 
-  | 10 | **40x** [Energy Scroll](/Items/con_158/) | **200x** [Energy Scroll](/Items/con_158/) | 
-  | 11 | **50x** [Energy Scroll](/Items/con_158/) | **250x** [Energy Scroll](/Items/con_158/) | 
-  | 12 | **60x** [Energy Scroll](/Items/con_158/) | **300x** [Energy Scroll](/Items/con_158/) | 
-  | 13 | **100x** [Energy Scroll](/Items/con_158/) | **500x** [Energy Scroll](/Items/con_158/) | 
-  | 14 | **160x** [Energy Scroll](/Items/con_158/) | **800x** [Energy Scroll](/Items/con_158/) | 
-  | 15 | **200x** [Energy Scroll](/Items/con_158/) | **1000x** [Energy Scroll](/Items/con_158/) | 
+  | 1 | **1x** [Energy Scroll](/Items/con_160/) | **5x** [Energy Scroll](/Items/con_160/) | 
+  | 2 | **2x** [Energy Scroll](/Items/con_160/) | **10x** [Energy Scroll](/Items/con_160/) | 
+  | 3 | **3x** [Energy Scroll](/Items/con_160/) | **15x** [Energy Scroll](/Items/con_160/) | 
+  | 4 | **4x** [Energy Scroll](/Items/con_160/) | **20x** [Energy Scroll](/Items/con_160/) | 
+  | 5 | **5x** [Energy Scroll](/Items/con_160/) | **25x** [Energy Scroll](/Items/con_160/) | 
+  | 6 | **9x** [Energy Scroll](/Items/con_160/) | **45x** [Energy Scroll](/Items/con_160/) | 
+  | 7 | **12x** [Energy Scroll](/Items/con_160/) | **60x** [Energy Scroll](/Items/con_160/) | 
+  | 8 | **20x** [Energy Scroll](/Items/con_160/) | **100x** [Energy Scroll](/Items/con_160/) | 
+  | 9 | **30x** [Energy Scroll](/Items/con_160/) | **150x** [Energy Scroll](/Items/con_160/) | 
+  | 10 | **40x** [Energy Scroll](/Items/con_160/) | **200x** [Energy Scroll](/Items/con_160/) | 
+  | 11 | **50x** [Energy Scroll](/Items/con_160/) | **250x** [Energy Scroll](/Items/con_160/) | 
+  | 12 | **60x** [Energy Scroll](/Items/con_160/) | **300x** [Energy Scroll](/Items/con_160/) | 
+  | 13 | **100x** [Energy Scroll](/Items/con_160/) | **500x** [Energy Scroll](/Items/con_160/) | 
+  | 14 | **160x** [Energy Scroll](/Items/con_160/) | **800x** [Energy Scroll](/Items/con_160/) | 
+  | 15 | **200x** [Energy Scroll](/Items/con_160/) | **1000x** [Energy Scroll](/Items/con_160/) | 
 
 
 ## Rules

@@ -2,7 +2,7 @@
 title: "Item - Consumables - Medium Campaign Treasure"
 permalink: /Items/con_38/
 excerpt: "Medium Campaign Treasure"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_38.md"
 toc: false

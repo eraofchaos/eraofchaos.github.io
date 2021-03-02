@@ -2,7 +2,7 @@
 title: "Pauldrons of Ritual"
 permalink: /equipment/Pauldrons of Ritual/
 excerpt: "Era of Chaos Pauldrons of Ritual. Pauldrons of Ritual"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Pauldrons of Ritual.md"
 toc: false

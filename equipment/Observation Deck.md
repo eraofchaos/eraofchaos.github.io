@@ -2,7 +2,7 @@
 title: "Observation Deck"
 permalink: /equipment/Observation Deck/
 excerpt: "Era of Chaos Observation Deck. Observation Deck"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Observation Deck.md"
 toc: false

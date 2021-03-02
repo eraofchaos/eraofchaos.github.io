@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Thunder Helmet"
 permalink: /Items/art_58/
 excerpt: "Thunder Helmet"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_58.md"
 toc: false

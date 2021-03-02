@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Lizardman Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Lizardman Long Bow.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Lizardman](/units/Lizardman/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_134/) | <Wild Hunter> It can be cast once every 20 seconds, causing damage equal to 300% of its ATK to all hostile units within a small area while dealing damage equal to 2% of its Max HP per second over the next 5s |
-  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_134/) | Lizardman's magic resistance is increased by 50% |
-  | **2x** <i class="fas fa-star"/> | **80x** [Long Bow Token](/Items/con_134/) | When Lizardman deals a Crit Hit, its Crit Hit is increased by 10 for 3s, up to 50 stacks. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Long Bow Token](/Items/con_134/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] 1 time when its HP is lower than 30% for the first time |
-  | **4x** <i class="fas fa-star"/> | **150x** [Long Bow Token](/Items/con_134/) | Lizardman's penetration increased by 300 |
-  | **5x** <i class="fas fa-star"/> | **230x** [Long Bow Token](/Items/con_134/) | Increases Lizardman's ATK by 20% and unit's damage by 10% |
-  | **6x** <i class="fas fa-star"/> | **280x** [Long Bow Token](/Items/con_134/) | <Wild Outbreak> Attack speed is increased by 500% for 5s. Can be triggered once every 20s |
+  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Wild Hunter> It can be cast once every 20 seconds, causing damage equal to 300% of its ATK to all hostile units within a small area while dealing damage equal to 2% of its Max HP per second over the next 5s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Lizardman's magic resistance is increased by 50% |
+  | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | When Lizardman deals a Crit Hit, its Crit Hit is increased by 10 for 3s, up to 50 stacks. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] once when its HP is lower than 30% for the first time |
+  | **4x** <i class="fas fa-star"/> | **170x** [Long Bow Token](/Items/con_136/) | Lizardman's penetration increased by 300 |
+  | **5x** <i class="fas fa-star"/> | **210x** [Long Bow Token](/Items/con_136/) | Increases Lizardman's ATK by 20% and unit's damage by 10% |
+  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_136/) | <Wild Outbreak> Attack speed is increased by 500% for 5s. Can be triggered once every 20s |
 
 
 ## Level Up

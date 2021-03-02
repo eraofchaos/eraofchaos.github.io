@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Mantis"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Rapid Cutting range expanded.
 
- **Position :** 
+ **Position :** Rapid Cutting range expanded.
 
 ## Basic stats
  **Base HP: 6336.0**
@@ -178,7 +178,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

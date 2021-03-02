@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye - Ring of Eagle Vision"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "Live Hawkeye - Ring of Eagle Vision. A secret ring with mounted eyeballs. One of the components of the Live Hawkeye"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Ring of Eagle Vision.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 75x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Ring of Eagle Vision](/Items/art_80/)
 

@@ -2,7 +2,7 @@
 title: "Artifacts - Wizard's Well - Magic Charm"
 permalink: /artifacts/Magic Charm/
 excerpt: "Wizard's Well - Magic Charm. A charm with magic power. One of the components of the Wizard's Well."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Magic Charm.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Wizard's Well](/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 3x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Magic Charm](/Items/art_56/)
 

@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Black Knight"
 toc: true
@@ -80,9 +80,9 @@ toc: true
 
  **Name:** [Nether Sabre](/Exclusive/Black Knight Nether Sabre/) 
 
- **Item to Rank Up:** [Nether Sabre Token](/Items/con_982/)
+ **Item to Rank Up:** [Nether Sabre Token](/Items/con_997/)
 
- **Skin:** [Nether Sabre Special Skin](/Items/con_588/)
+ **Skin:** [Nether Sabre Special Skin](/Items/con_596/)
 
 
 ## Recommended Holy Emblems
@@ -175,7 +175,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Market - Vegetable Platter"
 permalink: /DineWithHeroesMarket Vegetable Platter.html
 excerpt: "Dine with Heroes - Market - Vegetable Platter. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "DineWithHeroesMarketVegetable Platter.html"
 toc: true
@@ -22,9 +22,9 @@ sidebar:
 
  **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [Vegetable Platter](/Items/con_363/)
+ **Reward:** [Vegetable Platter](/Items/con_365/)
 
- **Extra Reward:** 20% [Vegetable Platter](/Items/con_363/)
+ **Extra Reward:** 20% [Vegetable Platter](/Items/con_365/)
 
 #### Fight against Team
  **Hero:** [Ryland](/heroes/Ryland/)
@@ -50,9 +50,9 @@ sidebar:
 
  **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [Vegetable Platter](/Items/con_363/)
+ **Reward:** [Vegetable Platter](/Items/con_365/)
 
- **Extra Reward:** 40% [Vegetable Platter](/Items/con_363/)
+ **Extra Reward:** 40% [Vegetable Platter](/Items/con_365/)
 
 #### Fight against Team
  **Hero:** [Mephala](/heroes/Mephala/)
@@ -78,9 +78,9 @@ sidebar:
 
  **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [Vegetable Platter](/Items/con_363/)
+ **Reward:** [Vegetable Platter](/Items/con_365/)
 
- **Extra Reward:** 70% [Vegetable Platter](/Items/con_363/)
+ **Extra Reward:** 70% [Vegetable Platter](/Items/con_365/)
 
 #### Fight against Team
  **Hero:** [Mephala](/heroes/Mephala/)
@@ -106,9 +106,9 @@ sidebar:
 
  **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [Vegetable Platter](/Items/con_363/)
+ **Reward:** [Vegetable Platter](/Items/con_365/)
 
- **Extra Reward:** 100% [Vegetable Platter](/Items/con_363/)
+ **Extra Reward:** 100% [Vegetable Platter](/Items/con_365/)
 
 #### Fight against Team
  **Hero:** [Gem](/heroes/Gem/)

@@ -2,7 +2,7 @@
 title: "Item - Materials - Common Wood"
 permalink: /Items/mat_53/
 excerpt: "Common Wood"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_53.md"
 toc: false

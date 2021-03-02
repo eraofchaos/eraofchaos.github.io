@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Griffin"
 toc: true
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Knight Pike](/Exclusive/Griffin Knight Pike/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Faction Altar for Rampart"
 permalink: /FactionAltar/DROP_102/
 excerpt: "Faction Altar for Rampart. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "DROP_102.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Rampart Limited Edition Pack](/Items/con_909/)
+  **Drop by Luck (10x spin): 30x** [Rampart Limited Edition Pack](/Items/con_924/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Rampart Limited Edition Pack](/Items/con_909/) |
-  | 2 | **12%** | **2x** | [Rampart Limited Edition Pack](/Items/con_909/) |
-  | 3 | **12%** | **3x** | [Rampart Limited Edition Pack](/Items/con_909/) |
-  | 4 | **12%** | **5x** |  **4%** [Dwarf](/Items/unt_42/),  **14%** [Wood Elf](/Items/unt_102/),  **14%** [Pegasus](/Items/unt_103/),  **14%** [Dendroid Guard](/Items/unt_84/),  **14%** [Unicorn](/Items/unt_144/),  **14%** [Grand Elf Soul Stone](/Items/unt_143/),  **4%** [Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [War Unicorn Soul Stone](/Items/unt_46/),  |
-  | 5 | **12%** | **3x** |  **4%** [Dwarf](/Items/unt_42/),  **14%** [Wood Elf](/Items/unt_102/),  **14%** [Pegasus](/Items/unt_103/),  **14%** [Dendroid Guard](/Items/unt_84/),  **14%** [Unicorn](/Items/unt_144/),  **14%** [Grand Elf Soul Stone](/Items/unt_143/),  **4%** [Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [War Unicorn Soul Stone](/Items/unt_46/),  |
-  | 6 | **12%** | **5x** |  **76%** [Centaur](/Items/unt_58/),  **23%** [Centaur Captain Soul Stone](/Items/unt_122/),  |
+  | 1 | **25%** | **1x** | [Rampart Limited Edition Pack](/Items/con_924/) |
+  | 2 | **12%** | **2x** | [Rampart Limited Edition Pack](/Items/con_924/) |
+  | 3 | **12%** | **3x** | [Rampart Limited Edition Pack](/Items/con_924/) |
+  | 4 | **12%** | **5x** |  **4%** [Dwarf](/Items/unt_43/),  **14%** [Wood Elf](/Items/unt_103/),  **14%** [Pegasus](/Items/unt_104/),  **14%** [Dendroid Guard](/Items/unt_85/),  **14%** [Unicorn](/Items/unt_145/),  **14%** [Grand Elf Soul Stone](/Items/unt_144/),  **4%** [Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [War Unicorn Soul Stone](/Items/unt_47/),  |
+  | 5 | **12%** | **3x** |  **4%** [Dwarf](/Items/unt_43/),  **14%** [Wood Elf](/Items/unt_103/),  **14%** [Pegasus](/Items/unt_104/),  **14%** [Dendroid Guard](/Items/unt_85/),  **14%** [Unicorn](/Items/unt_145/),  **14%** [Grand Elf Soul Stone](/Items/unt_144/),  **4%** [Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [War Unicorn Soul Stone](/Items/unt_47/),  |
+  | 6 | **12%** | **5x** |  **76%** [Centaur](/Items/unt_59/),  **23%** [Centaur Captain Soul Stone](/Items/unt_123/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Rampart Limited Edition Pack](/Items/con_909/) |
-  | 2 | **11%** | **5x** |  **4%** [Dwarf](/Items/unt_42/),  **14%** [Wood Elf](/Items/unt_102/),  **14%** [Pegasus](/Items/unt_103/),  **14%** [Dendroid Guard](/Items/unt_84/),  **14%** [Unicorn](/Items/unt_144/),  **14%** [Grand Elf Soul Stone](/Items/unt_143/),  **4%** [Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [War Unicorn Soul Stone](/Items/unt_46/),  |
-  | 3 | **11%** | **3x** |  **4%** [Dwarf](/Items/unt_42/),  **14%** [Wood Elf](/Items/unt_102/),  **14%** [Pegasus](/Items/unt_103/),  **14%** [Dendroid Guard](/Items/unt_84/),  **14%** [Unicorn](/Items/unt_144/),  **14%** [Grand Elf Soul Stone](/Items/unt_143/),  **4%** [Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [War Unicorn Soul Stone](/Items/unt_46/),  |
-  | 4 | **11%** | **5x** |  **76%** [Centaur](/Items/unt_58/),  **23%** [Centaur Captain Soul Stone](/Items/unt_122/),  |
+  | 1 | **55%** | **1x** | [Rampart Limited Edition Pack](/Items/con_924/) |
+  | 2 | **11%** | **5x** |  **4%** [Dwarf](/Items/unt_43/),  **14%** [Wood Elf](/Items/unt_103/),  **14%** [Pegasus](/Items/unt_104/),  **14%** [Dendroid Guard](/Items/unt_85/),  **14%** [Unicorn](/Items/unt_145/),  **14%** [Grand Elf Soul Stone](/Items/unt_144/),  **4%** [Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [War Unicorn Soul Stone](/Items/unt_47/),  |
+  | 3 | **11%** | **3x** |  **4%** [Dwarf](/Items/unt_43/),  **14%** [Wood Elf](/Items/unt_103/),  **14%** [Pegasus](/Items/unt_104/),  **14%** [Dendroid Guard](/Items/unt_85/),  **14%** [Unicorn](/Items/unt_145/),  **14%** [Grand Elf Soul Stone](/Items/unt_144/),  **4%** [Silver Pegasus Soul Stone](/Items/unt_13/),  **14%** [Dendroid Soldier Soul Stone](/Items/unt_29/),  **4%** [War Unicorn Soul Stone](/Items/unt_47/),  |
+  | 4 | **11%** | **5x** |  **76%** [Centaur](/Items/unt_59/),  **23%** [Centaur Captain Soul Stone](/Items/unt_123/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Rampart Limited Edition Pack](/Items/con_909/)
+  **Drop by 10x spin: X** [Rampart Limited Edition Pack](/Items/con_924/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Centaur Captain Soul Stone](/Items/unt_122/), [Grand Elf Soul Stone](/Items/unt_143/), [Silver Pegasus Soul Stone](/Items/unt_13/), [Dendroid Soldier Soul Stone](/Items/unt_29/), [War Unicorn Soul Stone](/Items/unt_46/), [Gold Dragon Soul Stone](/Items/unt_66/) | [Centaur](/Items/unt_58/), [Dwarf](/Items/unt_42/), [Wood Elf](/Items/unt_102/), [Pegasus](/Items/unt_103/), [Dendroid Guard](/Items/unt_84/), [Unicorn](/Items/unt_144/), [Green Dragon](/Items/unt_125/) |
+  | [Centaur Captain Soul Stone](/Items/unt_123/), [Grand Elf Soul Stone](/Items/unt_144/), [Silver Pegasus Soul Stone](/Items/unt_13/), [Dendroid Soldier Soul Stone](/Items/unt_29/), [War Unicorn Soul Stone](/Items/unt_47/), [Gold Dragon Soul Stone](/Items/unt_67/) | [Centaur](/Items/unt_59/), [Dwarf](/Items/unt_43/), [Wood Elf](/Items/unt_103/), [Pegasus](/Items/unt_104/), [Dendroid Guard](/Items/unt_85/), [Unicorn](/Items/unt_145/), [Green Dragon](/Items/unt_126/) |
 
 
 

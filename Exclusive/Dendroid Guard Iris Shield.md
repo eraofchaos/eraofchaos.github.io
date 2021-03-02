@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Dendroid Guard Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Dendroid Guard Iris Shield.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Dendroid Guard](/units/Dendroid Guard/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_153/) | <Arboreal Armor> Grants Dendroid Guard and 1 random Rampart unit a 10% increase to Unit DMG Reduction and a shield equal to 10% of Max HP. Lasts 8s. CD is 18s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | Increases Dendroid Guard's HP by 20% and Unit DMG Reduction by 10%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Iris Shield Token](/Items/con_153/) | Increases Dendroid Guard's base DEF by 50 each time a Rampart unit is deployed. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Iris Shield Token](/Items/con_153/) | <Deep Roots> Dendroid Guard buries its roots deep underground, increasing their own Unit DMG Reduction by 15%, dealing damage equal to 2% of Max HP to enemy units in a large range every second, and recovering 1% of own Max HP every second for 10s, during which Dendroid Guard will be unable to move. CD is 25s. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Iris Shield Token](/Items/con_153/) | Increases Dendroid Guard's Tenacity by 200. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Iris Shield Token](/Items/con_153/) | When Dendroid Guard gains a shield, increases own Attack Speed by 10% and DEF by 2% for 4s. Stacks up to 20 times. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Iris Shield Token](/Items/con_153/) | Each time Dendroid Guard uses a normal attack, there is a 12% chance that the attack will steal 3% of the target unit's Unit DMG Reduction and 3% of their DEF. Stacks up to 10 times. Also increases Dendroid Guard's Tenacity by 15 and Dodge by 20 every 10s. |
+  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | <Arboreal Armor> Grants Dendroid Guard and 1 random Rampart unit a 10% increase to Unit DMG Reduction and a shield equal to 10% of Max HP. Lasts 8s. CD is 18s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Dendroid Guard's HP by 20% and Unit DMG Reduction by 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Dendroid Guard's base DEF by 50 each time a Rampart unit is deployed. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Deep Roots> Dendroid Guard buries its roots deep underground, increasing their own Unit DMG Reduction by 15%, dealing damage equal to 2% of Max HP to enemy units in a large range every second, and recovering 1% of own Max HP every second for 10s, during which Dendroid Guard will be unable to move. CD is 25s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Increases Dendroid Guard's Tenacity by 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | When Dendroid Guard gains a shield, increases own Attack Speed by 10% and DEF by 2% for 4s. Stacks up to 20 times. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | Each time Dendroid Guard uses a normal attack, there is a 12% chance that the attack will steal 3% of the target unit's Unit DMG Reduction and 3% of their DEF. Stacks up to 10 times. Also increases Dendroid Guard's Tenacity by 15 and Dodge by 20 every 10s. |
 
 
 ## Level Up

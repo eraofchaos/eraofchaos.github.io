@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike"
 permalink: /Exclusive/Unicorn Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Unicorn Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Unicorn Knight Pike.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Unicorn](/units/Unicorn/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Knight Pike Token](/Items/con_210/) | <Shield Reflect> When Unicorn loses its shield, deals damage equal to 150% of its own ATK to enemies in a small range. If the target unit is bleeding, their DEF will also be reduced by 20%. Lasts 5s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_210/) | Increases Unicorn's HP by 20% and Dodge by 200. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Knight Pike Token](/Items/con_210/) | Increases Unicorn's Unit DMG Reduction by 20%. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Knight Pike Token](/Items/con_210/) | <Blue Streak> When Unicorn takes damage exceeding 15% of own Max HP in a single attack, its horn emits a bright light that Blinds the target unit. If the target unit is already blinded, their Unit DMG will be reduced by 20%. Lasts 8s. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Knight Pike Token](/Items/con_210/) | Increases Unicorn's Unit DMG by 20%. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Knight Pike Token](/Items/con_210/) | Increases ATK and Attack Speed by 20% each when attacking bleeding enemies. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Knight Pike Token](/Items/con_210/) | <Brightmoon Guardian> When casting <Shield Reflect>, damage is increased by 50%, target units will be knocked into the air (effective only on 9-man and 16-man units), and targets' Unit DMG and Unit DMG Reduction will be reduced by 20% each. Lasts 5s. |
+  |  Initial  | **100x** [Knight Pike Token](/Items/con_212/) | <Shield Reflect> When Unicorn loses its shield, deals damage equal to 150% of its own ATK to enemies in a small range. If the target unit is bleeding, their DEF will also be reduced by 20%. Lasts 5s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Unicorn's HP by 20% and Dodge by 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Unicorn's Unit DMG Reduction by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | <Blue Streak> When Unicorn takes damage exceeding 15% of own Max HP in a single attack, its horn emits a bright light that Blinds the target unit. If the target unit is already blinded, their Unit DMG will be reduced by 20%. Lasts 8s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Knight Pike Token](/Items/con_212/) | Increases Unicorn's Unit DMG by 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Knight Pike Token](/Items/con_212/) | Increases ATK and Attack Speed by 20% each when attacking bleeding enemies. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Knight Pike Token](/Items/con_212/) | <Brightmoon Guardian> When casting <Shield Reflect>, damage is increased by 50%, target units will be knocked into the air (effective only on 9-man and 16-man units), and targets' Unit DMG and Unit DMG Reduction will be reduced by 20% each. Lasts 5s. |
 
 
 ## Level Up

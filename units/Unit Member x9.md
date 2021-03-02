@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Unit Member x9"
 toc: false
@@ -26,7 +26,7 @@ classes: wide
   | 12 | [Griffin](/units/Griffin/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
   | 13 | [Beholder](/units/Beholder/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  Evil Eye  |
   | 14 | [Centaur](/units/Centaur/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Centaur Captain  |
-  | 15 | [Gnoll](/units/Gnoll/) | Offense | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 15 | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Gnoll Warrior  |
   | 16 | [Dwarf](/units/Dwarf/) | Defense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 17 | [Wood Elf](/units/Wood Elf/) | Ranged | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
   | 18 | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Skeleton Warrior  |

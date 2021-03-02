@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye - Bird of Perception"
 permalink: /artifacts/Bird of Perception/
 excerpt: "Live Hawkeye - Bird of Perception. A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Bird of Perception.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 75x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Bird of Perception](/Items/art_7/)
 

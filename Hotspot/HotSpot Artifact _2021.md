@@ -2,7 +2,7 @@
 title: "Hotspot Artifacts for  2021"
 permalink: /Hotspot/HotSpot Artifact _2021/
 excerpt: "Artifacts Hotspot for  2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "HotSpot Artifact _2021.md"
 toc: false
@@ -17,17 +17,18 @@ classes: wide
 
   |  Date  |    First Artifact     |   Second Artifact    |
   |:-------|:----------------------|:--------------------:|
-  | 25 Jan - 1 Feb | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} |
-  | 1 - 8 Feb | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
-  | 8 - 15 Feb | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 15 - 22 Feb | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
   | 22 Feb - 1 Mar | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 1 - 8 Mar | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 8 - 15 Mar | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
+  | 15 - 22 Mar | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 22 - 29 Mar | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 29 Mar - 5 Apr | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
 
 
 
 
 ## Artifact Hotspot Rules
 
-  <span style="color: #3c2a1e;font-size:22px">General Rules</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">1. Two orange Artifact components will be placed in the astrologer pool as popular Artifacts every week.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">2. Any orange Artifacts obtained via astrologer will be one of the popular Artifact components.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">3. 1x draw probabilities: Green 32.88%, Blue 44.47%, Purple 17.60%, Orange 5.05%.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">4. 5x, 20x draw probabilities: Green 32.00%, Blue 43.20%, Purple 19.52%, Orange 5.28%.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">5. Popular Artifacts are updated once every Monday at 05:00.</span>[]
+  <span style="color: #3c2a1e;font-size:22px">General Rules</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">1. Two orange Artifact components will be placed in the astrologer pool as popular Artifacts every week.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">2. Any orange Artifacts obtained via astrologer will be one of the popular Artifact components.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">3. 1x draw probabilities: Green 32.88%, Blue 44.47%, Purple 17.60%, Orange 5.05%.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">4. 5x, 20x draw probabilities: Green 32.00%, Blue 43.20%, Purple 19.52%, Orange 5.28%.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">5. Popular Artifacts are updated once every Monday at 05:00.</span><br/>
 
 <br/>

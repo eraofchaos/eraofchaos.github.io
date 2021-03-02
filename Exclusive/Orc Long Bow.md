@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Orc Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Orc Long Bow.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Orc](/units/Orc/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_134/) | <Soaring War Axe> Orc throws a giant war axe at the target unit, dealing damage equal to 300% of its own ATK while ignoring 1,000 of the target unit's DEF. CD is 15s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_134/) | Increases Orc's ATK by 20% and Critical Hit by 100. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Long Bow Token](/Items/con_134/) | Each time Orc's HP falls by 10%, its Unit DMG Reduction and Magic Resistance increases by 4% each. Effect remains even after HP is restored. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Long Bow Token](/Items/con_134/) | Orc is focused on its current battle. Each attack increases units' Attack Speed by 5% and Critical Hit by 15. Stacks up to 10 times. Once Orc changes target, stacks reset to 0. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Long Bow Token](/Items/con_134/) | Increases Orc's Tenacity by 400. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Long Bow Token](/Items/con_134/) | Increases Orc's Unit DMG by 4% each time a Stronghold unit is deployed. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Long Bow Token](/Items/con_134/) | There is a 5% chance of triggering <Soaring War Axe> with each normal attack. Internal CD is 3s. |
+  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Soaring War Axe> Orc throws a giant war axe at the target unit, dealing damage equal to 300% of its own ATK while ignoring 1,000 of the target unit's DEF. CD is 15s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Orc's ATK by 20% and Critical Hit by 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Each time Orc's HP falls by 10%, its Unit DMG Reduction and Magic Resistance increases by 4% each. Effect remains even after HP is restored. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | Orc is focused on its current battle. Each attack increases units' Attack Speed by 5% and Critical Hit by 15. Stacks up to 10 times. Once Orc changes target, stacks reset to 0. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Long Bow Token](/Items/con_136/) | Increases Orc's Tenacity by 400. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Long Bow Token](/Items/con_136/) | Increases Orc's Unit DMG by 4% each time a Stronghold unit is deployed. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_136/) | There is a 5% chance of triggering <Soaring War Axe> with each normal attack. Internal CD is 3s. |
 
 
 ## Level Up

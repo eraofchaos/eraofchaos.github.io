@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Era of Chaos Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Faction Cove"
 toc: false
@@ -24,5 +24,5 @@ classes: wide
   | 5 | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  Tidal Elemental  |
   | 6 | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 7 | [Mermaid](/units/Mermaid/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 185.0 | 1648 |   -   |
-  | 8 | [Dragon Turtle](/units/Dragon Turtle/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 8 | [Dragon Turtle](/units/Dragon Turtle/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Primal Dragon Turtle  |
   | 9 | [Regnan Pirates](/units/Regnan Pirates/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  King of Pirates  |

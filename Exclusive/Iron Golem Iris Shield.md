@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Iron Golem Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Iron Golem Iris Shield.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Iron Golem](/units/Iron Golem/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_153/) | <Upgrade Module> Iron Golem activates the upgrade module hidden within it, increasing its own DEF by 10%, Unit DMG Reduction by 10%, and Attack Speed by 30% for 10s. CD is 20s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | Increases Iron Golem's HP by 20% and DEF by 15%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Iris Shield Token](/Items/con_153/) | Increases Iron Golem's Tenacity by 300. When <Upgrade Module> is cast, Tenacity bonus is doubled. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Iris Shield Token](/Items/con_153/) | <Electromagnetic Fist> When Iron Golem attacks, there is a 10% chance of casting <Electromagnetic Fist> once, dealing damage equal to 200% of own ATK to the target unit and decreasing their Unit DMG and Unit DMG Reduction by 10% each for 5s. Stacks up to 4 times. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Iris Shield Token](/Items/con_153/) | Increases Iron Golem's HP by 8% and DEF by 4% each time a Tower unit is deployed. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Iris Shield Token](/Items/con_153/) | When <Electromagnetic Fist> is triggered, Iron Golem decreases the Attack Speed of enemy units in a small range nearby by 50% for 2s. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Iris Shield Token](/Items/con_153/) | <Overcharge> There is a 50% chance to receive double the buffs when casting <Upgrade Module> and gain a shield equal to 15% of own Max HP for 10s. |
+  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | <Upgrade Module> Iron Golem activates the upgrade module hidden within it, increasing its own DEF by 10%, Unit DMG Reduction by 10%, and Attack Speed by 30% for 10s. CD is 20s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Iron Golem's HP by 20% and DEF by 15%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Iron Golem's Tenacity by 300. When <Upgrade Module> is cast, Tenacity bonus is doubled. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Electromagnetic Fist> When Iron Golem attacks, there is a 10% chance of casting <Electromagnetic Fist> once, dealing damage equal to 200% of own ATK to the target unit and decreasing their Unit DMG and Unit DMG Reduction by 10% each for 5s. Stacks up to 4 times. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Increases Iron Golem's HP by 8% and DEF by 4% each time a Tower unit is deployed. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | When <Electromagnetic Fist> is triggered, Iron Golem decreases the Attack Speed of enemy units in a small range nearby by 50% for 2s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | <Overcharge> There is a 50% chance to receive double the buffs when casting <Upgrade Module> and gain a shield equal to 15% of own Max HP for 10s. |
 
 
 ## Level Up

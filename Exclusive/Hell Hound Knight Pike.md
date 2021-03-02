@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Hell Hound Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Hell Hound Knight Pike.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Hell Hound](/units/Hell Hound/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Knight Pike Token](/Items/con_210/) | Hell Hound attacks with all 3 heads, increasing Attack Speed by 300% but decreasing Unit DMG by 20%. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_210/) | Increases Hell Hound's Unit DMG by 20%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Knight Pike Token](/Items/con_210/) | Increases Critical Hit DMG by 5% for 3s each time Hell Hound attacks. Stacks up to 10 times. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Knight Pike Token](/Items/con_210/) | <Dead Alive> When Hell Hound's HP falls below 66% and 33% for the first time, a head is sacrificed to remove and become immune to all abnormal statuses, increasing Dodge by 2,000 and Tenacity by 1,000 for 5s. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Knight Pike Token](/Items/con_210/) | <Ignite> Hell Hound continuously inflicts the Burn status on enemies in a set range around it while decreasing Tenacity by 200. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Knight Pike Token](/Items/con_210/) | Each time Hell Hound attacks, it decreases target unit's Unit DMG Reduction by 3% for 3s. Stacks up to 8 times. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Knight Pike Token](/Items/con_210/) | When <Dead Alive> is triggered, the dying head lets out an infernal howl, increasing the Attack Speed of all friendly Inferno units by 100% for 3s and decreasing the DEF of all enemy units within a large range around it by 30% for 10s. |
+  |  Initial  | **100x** [Knight Pike Token](/Items/con_212/) | Hell Hound attacks with all 3 heads, increasing Attack Speed by 300% but decreasing Unit DMG by 20%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Hell Hound's Unit DMG by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Critical Hit DMG by 5% for 3s each time Hell Hound attacks. Stacks up to 10 times. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | <Dead Alive> When Hell Hound's HP falls below 66% and 33% for the first time, a head is sacrificed to remove and become immune to all abnormal statuses, increasing Dodge by 2,000 and Tenacity by 1,000 for 5s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Knight Pike Token](/Items/con_212/) | <Ignite> Hell Hound continuously inflicts the Burn status on enemies in a set range around it while decreasing Tenacity by 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Knight Pike Token](/Items/con_212/) | Each time Hell Hound attacks, it decreases target unit's Unit DMG Reduction by 3% for 3s. Stacks up to 8 times. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Knight Pike Token](/Items/con_212/) | When <Dead Alive> is triggered, the dying head lets out an infernal howl, increasing the Attack Speed of all friendly Inferno units by 100% for 3s and decreasing the DEF of all enemy units within a large range around it by 30% for 10s. |
 
 
 ## Level Up

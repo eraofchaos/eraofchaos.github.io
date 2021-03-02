@@ -2,7 +2,7 @@
 title: "Hotspot Artifacts and Spells for 2021"
 permalink: /Hotspot/
 excerpt: "Artifacts and Spells Hotspot for 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "index.md"
 toc: false
@@ -17,11 +17,12 @@ classes: wide
 
   |  Date  |    First Artifact     |   Second Artifact    |
   |:-------|:----------------------|:--------------------:|
-  | 25 Jan - 1 Feb | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} |
-  | 1 - 8 Feb | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
-  | 8 - 15 Feb | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 15 - 22 Feb | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
   | 22 Feb - 1 Mar | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 1 - 8 Mar | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 8 - 15 Mar | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
+  | 15 - 22 Mar | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 22 - 29 Mar | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 29 Mar - 5 Apr | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
 
 
 ##  HotSpot **Spells** for **2021:**
@@ -30,17 +31,18 @@ classes: wide
 
   |  Date  |  Orange Spell  |  Violet Spells  | Blue Spells | Green Spells |
   |:-------|:---------------|:---------------:|:-----------:|:------------:|
-  | 25 Jan - 1 Feb | [Prayer](/Items/her_25/) | [Slayer](/Items/her_55/), [Lightning Bolt](/Items/her_20/) | [Mirth](/Items/her_103/), [Forest Resonance](/Items/her_43/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
-  | 1 - 8 Feb | [Storm](/Items/her_14/) | [Bloodlust](/Items/her_109/), [Ice Bolt](/Items/her_136/) | [Water Elemental](/Items/her_113/), [Stone Skin](/Items/her_54/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
-  | 8 - 15 Feb | [Inferno Flame](/Items/her_27/) | [Slayer](/Items/her_55/), [Lightning Bolt](/Items/her_20/) | [Mirth](/Items/her_103/), [Forest Resonance](/Items/her_43/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
-  | 15 - 22 Feb | [Mystic Domain](/Items/her_18/) | [Meteor Shower](/Items/her_7/), [Animate Dead](/Items/her_63/) | [Mirth](/Items/her_103/), [Air Elemental](/Items/her_145/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
   | 22 Feb - 1 Mar | [Mana Suppression](/Items/her_59/) | [Slayer](/Items/her_55/), [Air Shield](/Items/her_127/) | [Wind Wall](/Items/her_146/), [Sorrow](/Items/her_133/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 1 - 8 Mar | [Rush Tactic](/Items/her_84/) | [Fast Attack](/Items/her_92/), [Necromancy](/Items/her_126/) | [Animate Dead](/Items/her_63/), [Air Elemental](/Items/her_145/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 8 - 15 Mar | [Replenished Magic](/Items/her_104/) | [Ice Bolt](/Items/her_136/), [Mirth](/Items/her_103/) | [Air Elemental](/Items/her_145/), [Forest Resonance](/Items/her_43/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 15 - 22 Mar | [Petrification](/Items/her_32/) | [Slayer](/Items/her_55/), [Air Shield](/Items/her_127/) | [Wind Wall](/Items/her_146/), [Earth Elemental](/Items/her_143/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 22 - 29 Mar | [Replenished Magic](/Items/her_104/) | [Fire Mastery](/Items/her_122/), [Wind Wall](/Items/her_146/) | [Stone Skin](/Items/her_54/), [Sorrow](/Items/her_133/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
+  | 29 Mar - 5 Apr | [Death Ripple](/Items/her_26/) | [Air Mastery](/Items/her_81/), [Necromancy](/Items/her_126/) | [Sorrow](/Items/her_133/), [Mirth](/Items/her_103/) | [Fire Arrow](/Items/her_111/), [Frozen Arrow](/Items/her_35/), [Air Arrow](/Items/her_138/), [Earth Arrow](/Items/her_98/) |
 
 
 
 
 ## Artifact Hotspot Rules
 
-  <span style="color: #3c2a1e;font-size:22px">General Rules</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">1. Two orange Artifact components will be placed in the astrologer pool as popular Artifacts every week.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">2. Any orange Artifacts obtained via astrologer will be one of the popular Artifact components.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">3. 1x draw probabilities: Green 32.88%, Blue 44.47%, Purple 17.60%, Orange 5.05%.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">4. 5x, 20x draw probabilities: Green 32.00%, Blue 43.20%, Purple 19.52%, Orange 5.28%.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">5. Popular Artifacts are updated once every Monday at 05:00.</span>[]
+  <span style="color: #3c2a1e;font-size:22px">General Rules</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">1. Two orange Artifact components will be placed in the astrologer pool as popular Artifacts every week.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">2. Any orange Artifacts obtained via astrologer will be one of the popular Artifact components.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">3. 1x draw probabilities: Green 32.88%, Blue 44.47%, Purple 17.60%, Orange 5.05%.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">4. 5x, 20x draw probabilities: Green 32.00%, Blue 43.20%, Purple 19.52%, Orange 5.28%.</span><br/><span style="color: #ffffff;font-size:6px">   </span><br/><span style="color: #645252">5. Popular Artifacts are updated once every Monday at 05:00.</span><br/>
 
 <br/>

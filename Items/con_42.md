@@ -2,7 +2,7 @@
 title: "Item - Consumables - Bonetooth Necklace"
 permalink: /Items/con_42/
 excerpt: "Bonetooth Necklace"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_42.md"
 toc: false

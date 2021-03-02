@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Berserker"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Berserker](/Items/unt_134/)
+ **Unit Soul:** [Berserker](/Items/unt_135/)
 
  **Unit description:** War Storm: Deals damage to 3 nearby enemy units.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Name:** [Berserker's Axe](/Exclusive/Berserker Berserker's Axe/) 
 
- **Item to Rank Up:** [Berserker's Axe Token](/Items/con_789/)
+ **Item to Rank Up:** [Berserker's Axe Token](/Items/con_801/)
 
- **Skin:** [Berserker's Axe Special Skin](/Items/con_347/)
+ **Skin:** [Berserker's Axe Special Skin](/Items/con_349/)
 
 
 ## Recommended Holy Emblems
@@ -178,7 +178,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

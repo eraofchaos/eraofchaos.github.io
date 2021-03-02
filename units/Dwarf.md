@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Dwarf"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Dwarf](/Items/unt_42/)
+ **Unit Soul:** [Dwarf](/Items/unt_43/)
 
  **Unit description:** Dwarf Howl: Increases friendly unit's max health at the beginning of a battle.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Iris Shield](/Exclusive/Dwarf Iris Shield/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Defense
 * Magic resistance
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

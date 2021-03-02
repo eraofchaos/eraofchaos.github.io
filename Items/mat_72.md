@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Ore"
 permalink: /Items/mat_72/
 excerpt: "Star Ore"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_72.md"
 toc: false

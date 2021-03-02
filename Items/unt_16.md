@@ -2,7 +2,7 @@
 title: "Item - Units - Wyvern"
 permalink: /Items/unt_16/
 excerpt: "Wyvern"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_16.md"
 toc: false

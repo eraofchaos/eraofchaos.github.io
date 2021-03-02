@@ -2,7 +2,7 @@
 title: "Exclusive - Staff of Regrowth"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Staff of Regrowth. Staff of Regrowth. Era of Chaos Exclusive Staff of Regrowth. Druid Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Druid Staff of Regrowth.md"
 toc: false
@@ -15,13 +15,13 @@ classes: wide
 
  **Exclusive for Unit:** [Druid](/units/Druid/) 
 
- **Item to Rank Up:** [Staff of Regrowth Token](/Items/con_980/)
+ **Item to Rank Up:** [Staff of Regrowth Token](/Items/con_995/)
 
- **Skin:** [Staff of Regrowth Special Skin](/Items/con_668/)
+ **Skin:** [Staff of Regrowth Special Skin](/Items/con_679/)
 
  **Type:** Ranged
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1560
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Staff of Regrowth Token](/Items/con_980/) | <Vine Lash> At the start of the battle, casts on a random back row enemy unit, dealing damage equal to 30% of own ATK and restricting the target's movement for 10s. Also grants friendly back row units a shield equal to 25% of Max HP. Lasts 10s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Staff of Regrowth Token](/Items/con_980/) | Increases Druid's Range by 50 and Tenacity by 200. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Staff of Regrowth Token](/Items/con_980/) | At the start of the battle, increases own DEF by 70% and increases the Unit DMG Reduction of all friendly units within a large range of the caster by 22% for 15s. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Staff of Regrowth Token](/Items/con_980/) | <Lifebloom> Summons a Lifebloom once every 24s. Lifeblooms bless all Rampart units within a large range once every 5s for a total of 5 times, increasing Attack Speed by 5% each time. Stacks up to 30 times. Effect lasts for 5s. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Staff of Regrowth Token](/Items/con_980/) | Increases Druid's Unit DMG Reduction and Magic Resistance by 20% each. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Staff of Regrowth Token](/Items/con_980/) | When gaining a shield, increases the Critical Hit of friendly units within a large range of the caster by 250 for 5s. CD is 10s. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Staff of Regrowth Token](/Items/con_980/) | <Leeching Seed> Each time Druid is blessed by a Lifebloom, they will plant a Leeching Seed on one random enemy unit that deals damage equal to 10% of Max HP every 3s. Each Leeching Seed can deal damage up to 3 times. |
+  |  Initial  | **100x** [Staff of Regrowth Token](/Items/con_995/) | <Vine Lash> At the start of the battle, casts on a random back row enemy unit, dealing damage equal to 30% of own ATK and restricting the target's movement for 10s. Also grants friendly back row units a shield equal to 25% of Max HP. Lasts 10s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Staff of Regrowth Token](/Items/con_995/) | Increases Druid's Range by 50 and Tenacity by 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Staff of Regrowth Token](/Items/con_995/) | At the start of the battle, increases own DEF by 70% and increases the Unit DMG Reduction of all friendly units within a large range of the caster by 22% for 15s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Staff of Regrowth Token](/Items/con_995/) | <Lifebloom> Summons a Lifebloom once every 24s. Lifeblooms bless all Rampart units within a large range once every 5s for a total of 5 times, increasing Attack Speed by 5% each time. Stacks up to 30 times. Effect lasts for 5s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Staff of Regrowth Token](/Items/con_995/) | Increases Druid's Unit DMG Reduction and Magic Resistance by 20% each. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Staff of Regrowth Token](/Items/con_995/) | When gaining a shield, increases the Critical Hit of friendly units within a large range of the caster by 250 for 5s. CD is 10s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Staff of Regrowth Token](/Items/con_995/) | <Leeching Seed> Each time Druid is blessed by a Lifebloom, they will plant a Leeching Seed on one random enemy unit that deals damage equal to 10% of Max HP every 3s. Each Leeching Seed can deal damage up to 3 times. |
 
 
 ## Level Up

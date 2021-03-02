@@ -2,7 +2,7 @@
 title: "Spartan Helmet"
 permalink: /equipment/Spartan Helmet/
 excerpt: "Era of Chaos Spartan Helmet. Spartan Helmet"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Spartan Helmet.md"
 toc: false

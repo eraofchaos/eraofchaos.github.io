@@ -2,7 +2,7 @@
 title: "Item - Consumables - Gauze Token"
 permalink: /Items/con_44/
 excerpt: "Gauze Token"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_44.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** EXCLUSIVE_SPLICE
+ **Type:** WEAPON PIECE
 
 ## Gather
 

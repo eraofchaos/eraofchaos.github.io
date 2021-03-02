@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables - Thunder Rage Pack"
+title: "Item - Consumables - Energy"
 permalink: /Items/con_98/
-excerpt: "Thunder Rage Pack"
-last_modified_at: 2021-02-24
+excerpt: "Energy"
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_98.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use it to select 1 of the following: Thunder Rage Avatar Frame *1 or Giant Token *5
+ **Description:** Energy will be consumed when you play in story mode or Underground mode.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Gift
+ **Type:** Unknown
 
 ## Gather
 
@@ -23,11 +23,5 @@ classes: wide
 
 ## This item contains:
 
- **Required Level to open:** 1
+  None
 
- You would need to choose 1 item from the list (0):
-
-  | Nr | Amount |     Item    | Description |
-  |:---|:-------|:------------|:-----------:|
-  | 1 | AVATARFRAME1057 | 
-  | 2 |  **5x** | Giant  | Once you have gathered 80 soul tokens you can summon a Giant . Tokens can also be used to upgrade or increase the rank of Giant.  | 

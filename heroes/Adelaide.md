@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. As a young woman, shipwrecked and alone, Adelaide stumbled into Snow Elf territory. She underwent 20 years of training with her rescuers and became the most powerful mage in the kingdom before returning to Erathia."
 heroID: 60001
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Adelaide"
 toc: true
@@ -67,13 +67,13 @@ toc: true
    - All-new Battle Image
    - Unique Avatar
 
-### Skin 3: **Worli Mage**
+### Skin 3: **Vori Mage**
 
  **Description:** <span style="color: #ffffff;font-size:20px">No one has ever beaten the winter of Vori.</span>
 
  **Skin features:** 
 
-   - Worli Mage
+   - Vori Mage
    - Unique Avatar
 
 ### Skin 4: **Christmas Carol**

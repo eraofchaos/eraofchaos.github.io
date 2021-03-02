@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark."
 unitID: 9909
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Shark Trainer"
 toc: true
@@ -76,6 +76,12 @@ toc: true
   | [Shark Reins](/equipment/Shark Reins/) | **HP** | **DEF** | 
 
 ## Exclusive
+
+ **Name:** [Break Waves](/Exclusive/Shark Trainer Break Waves/) 
+
+ **Item to Rank Up:** -
+
+ **Skin:** -
 
 
 ## Recommended Holy Emblems
@@ -203,7 +209,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

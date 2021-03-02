@@ -1,9 +1,9 @@
 ---
-title: "Item - Unknown -  Elite Unit Pack"
+title: "Item - Unknown - Tactics Manual"
 permalink: /Items/unk_2/
-excerpt: " Elite Unit Pack"
-last_modified_at: 2021-01-12
-lang: en
+excerpt: "Tactics Manual"
+last_modified_at: 2021-03-02
+locale: en
 ref: "unk_2.md"
 toc: false
 classes: wide
@@ -11,19 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Use to select 1 of the following: 3-star Waspwort, 3-star Regnan Serpent, 3-star Mermaid, 3-star Revyaratan, 3-star Nightmare, 3-star Magic Airship, 3-star Basilisk, 3-star Wyvern, 3-star Druid, 3-star Medusa, 3-star Beholder, 3-star Manticore, 3-star Mummy, 3-star Genie, 3-star Stone Elemental, or 3-star Lich.
+ **Description:** The tactics manual contains advanced knowledge for helping heroes in battle. Used to increase a hero's Adjutant Level.
 
- **Quality:** 
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unknown
+ **Type:** Other
 
 ## Gather
 
-  None
+*    Mystical Store 
+*    Memory Store 
 
 ## This item contains:
 
- **Required Level to open:** -2147483648
-
- -2147483648 You would get **-2147483648** items  from:
+  None
 

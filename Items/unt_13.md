@@ -2,7 +2,7 @@
 title: "Item - Units - Silver Pegasus Soul Stone"
 permalink: /Items/unt_13/
 excerpt: "Silver Pegasus Soul Stone"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_13.md"
 toc: false

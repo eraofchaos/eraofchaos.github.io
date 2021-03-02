@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "index.md"
 toc: false
@@ -38,7 +38,7 @@ classes: wide
   | 16 | [Dendroid Guard](/units/Dendroid Guard/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  Dendroid Soldier  |
   | 17 | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arch Devil  |
   | 18 | [Dragon Golem](/units/Dragon Golem/) | Defense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 9616 |   -   |
-  | 19 | [Dragon Turtle](/units/Dragon Turtle/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 19 | [Dragon Turtle](/units/Dragon Turtle/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Primal Dragon Turtle  |
   | 20 | [Druid](/units/Druid/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  Archdruid  |
   | 21 | [Dwarf](/units/Dwarf/) | Defense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 22 | [Efreeti](/units/Efreeti/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  Efreet Sultan  |
@@ -47,7 +47,7 @@ classes: wide
   | 25 | [Firebird](/units/Firebird/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 848.5 | 4525 |  Phoenix  |
   | 26 | [Genie](/units/Genie/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 662 |  Master Genie  |
   | 27 | [Giant](/units/Giant/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titan  |
-  | 28 | [Gnoll](/units/Gnoll/) | Offense | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 28 | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Gnoll Warrior  |
   | 29 | [Goblin](/units/Goblin/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 82.7 | 761 |  Hobgoblin  |
   | 30 | [Gog](/units/Gog/) | Caster | + | R | x9 | <i class="fas fa-star"/> | 102.6 | 629 |  Magog  |
   | 31 | [Gorgon](/units/Gorgon/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 3094 |  Mighty Gorgon  |
@@ -62,7 +62,7 @@ classes: wide
   | 40 | [Imp](/units/Imp/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 51.3 | 1224 |  Familiar  |
   | 41 | [Iron Golem](/units/Iron Golem/) | Defense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Gold Golem  |
   | 42 | [Judicator](/units/Judicator/) | Caster | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |   -   |
-  | 43 | [Leprechaun](/units/Leprechaun/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Sacred Tree Guardian Spirit  |
+  | 43 | [Leprechaun](/units/Leprechaun/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Master Leprechaun   |
   | 44 | [Lich](/units/Lich/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Power Lich  |
   | 45 | [Lizardman](/units/Lizardman/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
   | 46 | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |   -   |

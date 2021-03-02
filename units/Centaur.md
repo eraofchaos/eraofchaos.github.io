@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Centaur"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Centaur](/Items/unt_58/)
+ **Unit Soul:** [Centaur](/Items/unt_59/)
 
  **Unit description:** Battle Stomp: Damages the units closest to it, slowing them down.
 
@@ -82,7 +82,7 @@ toc: true
 
  **Name:** [Iris Shield](/Exclusive/Centaur Iris Shield/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Ice Elemental"
 toc: true
@@ -77,7 +77,7 @@ toc: true
 
  **Name:** [Arcane Chant](/Exclusive/Ice Elemental Arcane Chant/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 
  **Skin:** -
 
@@ -167,7 +167,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

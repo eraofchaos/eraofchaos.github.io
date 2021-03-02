@@ -2,7 +2,7 @@
 title: "Artifacts - Armour of the Damned - Sword of Hellfire"
 permalink: /artifacts/Sword of Hellfire/
 excerpt: "Armour of the Damned - Sword of Hellfire. A sword that hosts a dark power. One of the components of the Armour of the Damned."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Sword of Hellfire.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Armour of the Damned](/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Sword of Hellfire](/Items/art_57/)
 

@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Bone Dragon"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Bone Dragon](/Items/unt_65/)
+ **Unit Soul:** [Bone Dragon](/Items/unt_66/)
 
  **Unit description:** Fear: Sharply decreases enemies' defense, causes low morale.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Name:** [Immortal Dragon Bone](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
- **Item to Rank Up:** [Immortal Dragon Bone Token](/Items/con_1399/)
+ **Item to Rank Up:** [Immortal Dragon Bone Token](/Items/con_1418/)
 
- **Skin:** [Immortal Dragon Bone Special Skin](/Items/con_929/)
+ **Skin:** [Immortal Dragon Bone Special Skin](/Items/con_944/)
 
 
 ## Recommended Holy Emblems
@@ -171,7 +171,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

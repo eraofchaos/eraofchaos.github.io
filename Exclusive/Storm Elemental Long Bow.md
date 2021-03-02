@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Storm Elemental Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Storm Elemental Long Bow.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Storm Elemental](/units/Storm Elemental/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_134/) | <Force of Nature> Storm Elemental calls down the judgment of the heavens, dealing damage equal to 300% of own ATK to the target unit and inflicting Paralysis for 5s. CD is 20s. Pre-CD is 12s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_134/) | Increases Storm Elemental's Unit DMG by 20%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Long Bow Token](/Items/con_134/) | Increases Storm Elemental's Critical Hit by 200 and Critical Hit DMG by 20%. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Long Bow Token](/Items/con_134/) | Increases Storm Elemental's Penetration by 200. When the target unit is inflicted with Paralysis, this effect is doubled. When casting <Force of Nature>, if the target unit is affected by Ice Elemental's exclusive 3-star Magic Resistance debuff, triggers <Elemental Rage>. <Elemental Rage> deals damage equal to 100% of own ATK plus 2% of the target's Max HP to enemy units in a large range every 0.2s and also decreases Unit DMG Reduction and DEF by 20% each for 3s. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Long Bow Token](/Items/con_134/) | Increases Storm Elemental's Unit DMG Reduction by 25%. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Long Bow Token](/Items/con_134/) | Storm Elemental is immune to damage caused by air-type spells. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Long Bow Token](/Items/con_134/) | <Elemental Resonance> When on the battlefield, increases the Unit DMG of all friendly Conflux units by 10%. Whenever <Force of Nature> is cast, it increases the Unit DMG of all Conflux units by an additional 10%. This effect lasts for the whole battle and cannot be stacked. |
+  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Force of Nature> Storm Elemental calls down the judgment of the heavens, dealing damage equal to 300% of own ATK to the target unit and inflicting Paralysis for 5s. CD is 20s. Pre-CD is 12s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Storm Elemental's Unit DMG by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Increases Storm Elemental's Critical Hit by 200 and Critical Hit DMG by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | Increases Storm Elemental's Penetration by 200. When the target unit is inflicted with Paralysis, this effect is doubled. When casting <Force of Nature>, if the target unit is affected by Ice Elemental's exclusive 3-star Magic Resistance debuff, triggers <Elemental Rage>. <Elemental Rage> deals damage equal to 100% of own ATK plus 2% of the target's Max HP to enemy units in a large range every 0.2s and also decreases Unit DMG Reduction and DEF by 20% each for 3s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Long Bow Token](/Items/con_136/) | Increases Storm Elemental's Unit DMG Reduction by 25%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Long Bow Token](/Items/con_136/) | Storm Elemental is immune to damage caused by air-type spells. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_136/) | <Elemental Resonance> When on the battlefield, increases the Unit DMG of all friendly Conflux units by 10%. Whenever <Force of Nature> is cast, it increases the Unit DMG of all Conflux units by an additional 10%. This effect lasts for the whole battle and cannot be stacked. |
 
 
 ## Level Up

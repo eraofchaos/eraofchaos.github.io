@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables - Diamond"
+title: "Item - Consumables - Diamond "
 permalink: /Items/con_71/
-excerpt: "Diamond"
-last_modified_at: 2021-02-24
+excerpt: "Diamond "
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_71.md"
 toc: false

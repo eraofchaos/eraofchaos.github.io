@@ -2,7 +2,7 @@
 title: "Item - Heroes - Universal Hero Tokens"
 permalink: /Items/her_87/
 excerpt: "Universal Hero Tokens"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_87.md"
 toc: false

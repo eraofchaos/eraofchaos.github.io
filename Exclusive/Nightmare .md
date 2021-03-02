@@ -2,7 +2,7 @@
 title: "Exclusive - "
 permalink: /Exclusive/Nightmare /
 excerpt: "Era of Chaos . . Era of Chaos Exclusive . Nightmare Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Nightmare .md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Nightmare](/units/Nightmare/) 
 
- **Item to Rank Up:** [Nightmare's Eye Token](/Items/con_113/)
+ **Item to Rank Up:** [Nightmare's Eye Token](/Items/con_115/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Nightmare's Eye Token](/Items/con_113/) | <Without a Trace> Each time Nightmare is attacked, there is a 25% chance of increasing own Attack Speed by 500% and Life Drain by 50% that lasts for one attack. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Nightmare's Eye Token](/Items/con_113/) | Increases Nightmare's Unit DMG Reduction by 20%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Nightmare's Eye Token](/Items/con_113/) | Increases Nightmare's HP by 8% and DEF by 5% each time an Inferno unit is deployed. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Nightmare's Eye Token](/Items/con_113/) | <Dreamcure> When <Without a Trace> is activated, Nightmare heals the unit with the lowest HP for 200% HP. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Nightmare's Eye Token](/Items/con_113/) | Increases Nightmare's Tenacity by 400. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Nightmare's Eye Token](/Items/con_113/) | <Dream Devour> When <Without a Trace> is triggered, Nightmare decreases the Unit DMG Reduction, DEF, and Magic Resistance of its current target by 2% each for 6s. Stacks up to 10 times. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Nightmare's Eye Token](/Items/con_113/) | <Hellscape> <Dream Devour> affects a column of enemies in front of it. |
+  |  Initial  | **100x** [Nightmare's Eye Token](/Items/con_115/) | <Without a Trace> Each time Nightmare is attacked, there is a 25% chance of increasing own Attack Speed by 500% and Life Drain by 50% that lasts for one attack. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Nightmare's Eye Token](/Items/con_115/) | Increases Nightmare's Unit DMG Reduction by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Nightmare's Eye Token](/Items/con_115/) | Increases Nightmare's HP by 8% and DEF by 5% each time an Inferno unit is deployed. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Nightmare's Eye Token](/Items/con_115/) | <Dreamcure> When <Without a Trace> is activated, Nightmare heals the unit with the lowest HP for 200% HP. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Nightmare's Eye Token](/Items/con_115/) | Increases Nightmare's Tenacity by 400. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Nightmare's Eye Token](/Items/con_115/) | <Dream Devour> When <Without a Trace> is triggered, Nightmare decreases the Unit DMG Reduction, DEF, and Magic Resistance of its current target by 2% each for 6s. Stacks up to 10 times. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Nightmare's Eye Token](/Items/con_115/) | <Hellscape> <Dream Devour> affects a column of enemies in front of it. |
 
 
 ## Level Up

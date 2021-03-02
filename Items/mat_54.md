@@ -2,7 +2,7 @@
 title: "Item - Materials - Inferior Gems"
 permalink: /Items/mat_54/
 excerpt: "Inferior Gems"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_54.md"
 toc: false

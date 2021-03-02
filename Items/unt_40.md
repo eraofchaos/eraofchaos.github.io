@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Roc"
+title: "Item - Units - Elf Mage Soul Stone"
 permalink: /Items/unt_40/
-excerpt: "Roc"
-last_modified_at: 2021-02-24
+excerpt: "Elf Mage Soul Stone"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_40.md"
 toc: false
@@ -11,19 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Roc, an SR aptitude unit.
+ **Description:** Soul Stone for Elf Mage's Awakening level enhancement.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Underground 24 (Elemental Tide) -> 24-3 
-*    Underground 26 (Sound of Fate) -> 26-5 
-*    Altar of Recruitment 
-*    Arena Store 
-*    Barracks Redemption - Roc 
+  None
 
 ## This item contains:
 

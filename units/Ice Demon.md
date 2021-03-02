@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ice Demon is a strange existence even in the Conflux Plane. She is like a piece of ice that will never melt. She blinds your eyes and steals your breath. She is just like those corpses who are buried in glacial graves."
 unitID: 908
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Ice Demon"
 toc: true
@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Ice Demon](/Items/unt_71/)
+ **Unit Soul:** [Ice Demon](/Items/unt_72/)
 
  **Short description:** Control archer. Buffs allies.
 
@@ -106,28 +106,29 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When Ice Demon is on the battlefield, enemy Defensive units with more than 50% HP will take damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> Max HP every 3s. This effect is increased by 30% on units inflicted with </span><span style="color: black"><span style="color: #48b946;font-size:20px">Frostbite</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Ice Demon fights against units inflicted with </span><span style="color: black"><span style="color: #48b946;font-size:20px">Freeze</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">Frostbite</span><span style="color: black"><span style="color: #645252;font-size:20px">, or </span><span style="color: black"><span style="color: #48b946;font-size:20px">Time Stop</span><span style="color: black"><span style="color: #645252;font-size:20px">, it deals additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Ice Demon's own ATK once every 3s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">While Ice Demon is on the battlefield, a judgement will be made once every 3s, upon which the Attack Speed of all enemy units with HP lower than 50% decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and there is a 10% chance they will be inflicted with </span><span style="color: black"><span style="color: #48b946;font-size:20px">Frostbite</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Regular Skill 3 : Ruler of Ice
- **Description:** <span style="color: #645252;font-size:20px">Ice Demon and non-Fortress units within a large range of Ice Demon become immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">Freeze</span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Time Stop</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Every 13s, Ice Demon grants friendly Ranged/Caster units </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Crystal Armor&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> and increases their Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect cannot be dispelled, cannot be stacked, lasts 6s, and disappears after the unit takes damage 5 times. The number of times is doubled for Ice Demon.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Ice Demon and non-Fortress units within a large range of Ice Demon become immune to </span><span style="color: black"><span style="color: #48b946;font-size:20px">Freeze</span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">Time Stop</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Every 13s, Ice Demon grants friendly Ranged/Caster units </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Crystal Armor&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">,increasing their Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">,and DMG reflection by</span><span style="color: black"> <span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. This effect cannot be dispelled, cannot be stacked, lasts 6s, and disappears after the unit takes damage 5 times. The number of times is doubled for Ice Demon.</span><span style="color: black">
 
 ### Faction Special Skill I : Elemental Affinity
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Faction Special Skill II : Elemental Conflict
- **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at dealing Conflux damage. When fighting against non-Conflux units, their damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Regular Skill 6 : Frost Domain
- **Description:** <span style="color: #645252;font-size:20px">When 3 Conflux units are deployed, increases Ice Demon's Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8s after battle starts, the </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Frost Domain&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain</span><span style="color: black"><span style="color: #645252;font-size:20px"> forms, which expands as the skill levels up. The domain exists for 15s. The domain is triggered once every 30s after that.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Conflux units are deployed, increases Ice Demon's Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8s after battle starts, the </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Frost Domain&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> domain</span><span style="color: black"><span style="color: #645252;font-size:20px"> forms, which expands as the skill levels up. The domain exists for 15s. The domain is triggered once every 30s after that.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
+    let str20 = "LEVEL*2+5"
     let str7 = "LEVEL*0.7+4.5"
     let str8 = "LEVEL*5+25"
     let str5 = "LEVEL*0.7+4.5"
-    let str18 = "LEVEL*2+4"
+    let str18 = "(LEVEL*1+5)"
     let str6 = "LEVEL*5+25"
-    let str19 = "LEVEL*2+5"
+    let str19 = "LEVEL*2+4"
     let str3 = "LEVEL*1+15"
     let str4 = "LEVEL*0.5+12.5"
     let str1 = "LEVEL*5+45"
@@ -136,13 +137,14 @@ toc: true
     let str13 = "LEVEL*3+10"
     let str10 = "LEVEL*0.2+1.8"
     let str11 = "LEVEL*0.5+23.5"
-    let str16 = "(LEVEL*3+15)"
-    let str17 = "(LEVEL*1+5)"
+    let str16 = "LEVEL*2+2"
+    let str17 = "(LEVEL*3+15)"
     let str9 = "LEVEL*1.5+22.5"
     let str14 = "LEVEL*1+10"
     let str15 = "LEVEL*5+25"
     let res="ERR";
     try {
+     res = eval(str20); document.getElementById('str20').textContent = res;
      res = eval(str7); document.getElementById('str7').textContent = res;
      res = eval(str8); document.getElementById('str8').textContent = res;
      res = eval(str5); document.getElementById('str5').textContent = res;
@@ -188,7 +190,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

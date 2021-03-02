@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Wyvern"
 toc: true
@@ -78,9 +78,9 @@ toc: true
 
  **Name:** [Wyvern's Tail](/Exclusive/Wyvern Wyvern's Tail/) 
 
- **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_1299/)
+ **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_1315/)
 
- **Skin:** [Wyvern's Tail Special Skin](/Items/con_1070/)
+ **Skin:** [Wyvern's Tail Special Skin](/Items/con_1085/)
 
 
 ## Recommended Holy Emblems
@@ -167,7 +167,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

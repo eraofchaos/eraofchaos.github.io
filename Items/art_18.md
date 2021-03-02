@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Helm of Heavenly Enlightenment"
 permalink: /Items/art_18/
 excerpt: "Helm of Heavenly Enlightenment"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_18.md"
 toc: false

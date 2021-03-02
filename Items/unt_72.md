@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Wyvern Monarch Soul Stone"
+title: "Item - Units - Ice Demon"
 permalink: /Items/unt_72/
-excerpt: "Wyvern Monarch Soul Stone"
-last_modified_at: 2021-02-24
+excerpt: "Ice Demon"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_72.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Plague Wyvern Monarch's Awakening level enhancement
+ **Description:** Once you have gathered 80 soul tokens you can summon an Ice Demon. Tokens can also be used to upgrade or increase the rank of Ice Demons.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #FF0000">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 

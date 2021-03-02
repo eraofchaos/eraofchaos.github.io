@@ -2,7 +2,7 @@
 title: "Item - Artifacts"
 permalink: /Items/Artifacts/
 excerpt: "Artifacts in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Artifacts.md"
 toc: false
@@ -65,7 +65,7 @@ classes: wide
   | 51 | [Orb of the Firmament](/Items/art_27/){: .btn .btn--era5} | An ancient air mage's belonging. One of the components of the Orb of Vulnerability |
   | 52 | [Pendant of Holiness](/Items/art_87/){: .btn .btn--era5} | A necklace from an Angel. One of the components of the Angelic Alliance. |
   | 53 | [Pendant of Negativity](/Items/art_45/){: .btn .btn--era4} | An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex. |
-  | 54 | [Recanter`s Cloak](/Items/art_71/){: .btn .btn--era4} | Wear it to weaken magical attacks. One of the Archmage's Codex. |
+  | 54 | [Recanter's Cloak](/Items/art_71/){: .btn .btn--era4} | Wear it to weaken magical attacks. One of the Archmage's Codex. |
   | 55 | [Red Dragon Flame Tongue](/Items/art_62/){: .btn .btn--era5} | A sword forged from flame dragon crystals. One of the components of Power of the Dragon Father. |
   | 56 | [Ring of Conjuring](/Items/art_8/){: .btn .btn--era3} | A mysterious ring with strong magic. One of the components of Ring of the Mage. |
   | 57 | [Ring of Eagle Vision](/Items/art_80/){: .btn .btn--era5} | A secret ring with mounted eyeballs. One of the components of the Live Hawkeye |

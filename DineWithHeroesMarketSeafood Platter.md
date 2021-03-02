@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Market - Seafood Platter"
 permalink: /DineWithHeroesMarket Seafood Platter.html
 excerpt: "Dine with Heroes - Market - Seafood Platter. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "DineWithHeroesMarketSeafood Platter.html"
 toc: true
@@ -22,9 +22,9 @@ sidebar:
 
  **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [Seafood Platter](/Items/con_374/)
+ **Reward:** [Seafood Platter](/Items/con_376/)
 
- **Extra Reward:** 20% [Seafood Platter](/Items/con_374/)
+ **Extra Reward:** 20% [Seafood Platter](/Items/con_376/)
 
 #### Fight against Team
  **Hero:** [Peter Lee](/heroes/Peter Lee/)
@@ -50,9 +50,9 @@ sidebar:
 
  **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [Seafood Platter](/Items/con_374/)
+ **Reward:** [Seafood Platter](/Items/con_376/)
 
- **Extra Reward:** 40% [Seafood Platter](/Items/con_374/)
+ **Extra Reward:** 40% [Seafood Platter](/Items/con_376/)
 
 #### Fight against Team
  **Hero:** [Peter Lee](/heroes/Peter Lee/)
@@ -78,9 +78,9 @@ sidebar:
 
  **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [Seafood Platter](/Items/con_374/)
+ **Reward:** [Seafood Platter](/Items/con_376/)
 
- **Extra Reward:** 70% [Seafood Platter](/Items/con_374/)
+ **Extra Reward:** 70% [Seafood Platter](/Items/con_376/)
 
 #### Fight against Team
  **Hero:** [Peter Lee](/heroes/Peter Lee/)
@@ -106,9 +106,9 @@ sidebar:
 
  **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
 
- **Reward:** [Seafood Platter](/Items/con_374/)
+ **Reward:** [Seafood Platter](/Items/con_376/)
 
- **Extra Reward:** 100% [Seafood Platter](/Items/con_374/)
+ **Extra Reward:** 100% [Seafood Platter](/Items/con_376/)
 
 #### Fight against Team
  **Hero:** [Cassanbel](/heroes/Cassanbel/)

@@ -2,7 +2,7 @@
 title: "Item - Heroes - Gate of Fire"
 permalink: /Items/her_90/
 excerpt: "Gate of Fire"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_90.md"
 toc: false

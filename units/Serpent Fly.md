@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Serpent Fly"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Serpent Fly](/Items/unt_78/)
+ **Unit Soul:** [Serpent Fly](/Items/unt_79/)
 
  **Short description:** Weakens and controls back-row
 
@@ -79,7 +79,7 @@ toc: true
 
  **Name:** [Arcane Chant](/Exclusive/Serpent Fly Arcane Chant/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 
  **Skin:** -
 
@@ -185,7 +185,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

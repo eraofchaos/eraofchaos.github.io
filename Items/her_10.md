@@ -2,7 +2,7 @@
 title: "Item - Heroes - Roland"
 permalink: /Items/her_10/
 excerpt: "Roland"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_10.md"
 toc: false

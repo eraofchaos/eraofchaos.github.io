@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Warrior Hammer"
 permalink: /Items/art_16/
 excerpt: "Warrior Hammer"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_16.md"
 toc: false

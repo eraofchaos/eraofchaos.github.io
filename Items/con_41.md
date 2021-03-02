@@ -2,7 +2,7 @@
 title: "Item - Consumables - Stone Elemental Special Offer Pack"
 permalink: /Items/con_41/
 excerpt: "Stone Elemental Special Offer Pack"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_41.md"
 toc: false

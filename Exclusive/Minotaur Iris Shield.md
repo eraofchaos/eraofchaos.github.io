@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Minotaur Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Minotaur Iris Shield.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Minotaur](/units/Minotaur/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_153/) | <Brutal Rush> Minotaur charges violently toward the target, dealing damage equal to 300% of own ATK while decreasing the Unit DMG Reduction of enemy units in a large range by 20% and their Attack Speed by 10% for 7s. CD is 15s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | Increases Minotaur's Unit DMG Reduction by 20%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Iris Shield Token](/Items/con_153/) | Increases Tenacity by 400 for 5s when in High Morale. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Iris Shield Token](/Items/con_153/) | <Rush of Blood> Minotaur recovers HP equal to 10% of its own Max HP and decreases the Unit DMG of enemy units in a small range by 20% for 6s. CD is 15s. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Iris Shield Token](/Items/con_153/) | Increases Minotaur's HP by 8% and DEF by 5% each time a Dungeon unit is deployed. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Iris Shield Token](/Items/con_153/) | When Minotaur's HP falls below 30% for the first time, it increases its own DEF by 50% while increasing the Attack Speed of itself and friendly units in a small range by 20% for 15s. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Iris Shield Token](/Items/con_153/) | <Roar> Minotaur roars to terrify its enemies, increasing the damage dealt by friendly units by 20%, while also decreasing the Unit DMG Reduction of poisoned enemy units by 20%. Lasts 7s. CD is 15s. |
+  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | <Brutal Rush> Minotaur charges violently toward the target, dealing damage equal to 300% of own ATK while decreasing the Unit DMG Reduction of enemy units in a large range by 20% and their Attack Speed by 10% for 7s. CD is 15s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Minotaur's Unit DMG Reduction by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Tenacity by 400 for 5s when in High Morale. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Rush of Blood> Minotaur recovers HP equal to 10% of its own Max HP and decreases the Unit DMG of enemy units in a small range by 20% for 6s. CD is 15s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Increases Minotaur's HP by 8% and DEF by 5% each time a Dungeon unit is deployed. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | When Minotaur's HP falls below 30% for the first time, it increases its own DEF by 50% while increasing the Attack Speed of itself and friendly units in a small range by 20% for 15s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | <Roar> Minotaur roars to terrify its enemies, increasing the damage dealt by friendly units by 20%, while also decreasing the Unit DMG Reduction of poisoned enemy units by 20%. Lasts 7s. CD is 15s. |
 
 
 ## Level Up

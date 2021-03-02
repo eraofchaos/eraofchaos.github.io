@@ -2,7 +2,7 @@
 title: "Venomous Horn"
 permalink: /equipment/Venomous Horn/
 excerpt: "Era of Chaos Venomous Horn. Venomous Horn"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Venomous Horn.md"
 toc: false

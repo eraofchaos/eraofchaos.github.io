@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Assassin"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Assassin](/Items/unt_67/)
+ **Unit Soul:** [Assassin](/Items/unt_68/)
 
  **Short description:** Assassination damage. Weakens healing.
 
@@ -150,7 +150,7 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* **Neutral**  (Neutral Roster)
+* **Neutral Unit**  (Neutral Roster)
 * **Charging**  (Charging Roster)
 
 ### Hero Bonus
@@ -164,7 +164,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

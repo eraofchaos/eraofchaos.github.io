@@ -14,7 +14,7 @@ sidebar:
 
   <span style="color: #8a5c1d;font-size:18px">As there is limited room for combat on the battlefield, the School of War has researched a type of support magic to better improve unit combat capabilities. This magic allows the transfer of abilities from a support unit onto a combat unit, thus improving a combat unit's combat capabilities.</span><br/><span style="color: #ffffff">　</span><br/>
 
-  Support feature is available at Lv. 58.
+  Support feature is available at Lv. 63.
 
 
 
@@ -34,7 +34,7 @@ sidebar:
 
 
 
-#### Faction: Castle
+#### Faction: Castle 
 
   |  Support Effect   |
   |:-----------------:|
@@ -45,7 +45,7 @@ sidebar:
 
 
 
-#### Faction: Rampart
+#### Faction: Rampart 
 
   |  Support Effect   |
   |:-----------------:|
@@ -56,7 +56,7 @@ sidebar:
 
 
 
-#### Faction: Stronghold
+#### Faction: Stronghold 
 
   |  Support Effect   |
   |:-----------------:|
@@ -67,7 +67,7 @@ sidebar:
 
 
 
-#### Faction: Fortress
+#### Faction: Fortress 
 
   |  Support Effect   |
   |:-----------------:|
@@ -78,7 +78,7 @@ sidebar:
 
 
 
-#### Faction: Conflux
+#### Faction: Conflux 
 
   |  Support Effect   |
   |:-----------------:|
@@ -89,7 +89,7 @@ sidebar:
 
 
 
-#### Faction: Tower
+#### Faction: Tower 
 
   |  Support Effect   |
   |:-----------------:|
@@ -100,7 +100,7 @@ sidebar:
 
 
 
-#### Faction: Necropolis
+#### Faction: Necropolis 
 
   |  Support Effect   |
   |:-----------------:|
@@ -111,7 +111,7 @@ sidebar:
 
 
 
-#### Faction: Inferno
+#### Faction: Inferno 
 
   |  Support Effect   |
   |:-----------------:|
@@ -122,7 +122,7 @@ sidebar:
 
 
 
-#### Faction: Cove
+#### Faction: Cove 
 
   |  Support Effect   |
   |:-----------------:|
@@ -133,7 +133,7 @@ sidebar:
 
 
 
-#### Faction: Dungeon
+#### Faction: Dungeon 
 
   |  Support Effect   |
   |:-----------------:|
@@ -144,7 +144,7 @@ sidebar:
 
 
 
-#### Faction: Neutral
+#### Faction: Neutral 
 
   |  Support Effect   |
   |:-----------------:|
@@ -159,7 +159,7 @@ sidebar:
 
 
 
-#### Unit Type: Defensive
+#### Unit Type: Defensive 
 
   |  Support Effect   |
   |:-----------------:|
@@ -170,7 +170,7 @@ sidebar:
 
 
 
-#### Unit Type: Offensive
+#### Unit Type: Offensive 
 
   |  Support Effect   |
   |:-----------------:|
@@ -181,7 +181,7 @@ sidebar:
 
 
 
-#### Unit Type: Charging
+#### Unit Type: Charging 
 
   |  Support Effect   |
   |:-----------------:|
@@ -192,7 +192,7 @@ sidebar:
 
 
 
-#### Unit Type: Caster
+#### Unit Type: Caster 
 
   |  Support Effect   |
   |:-----------------:|
@@ -203,7 +203,7 @@ sidebar:
 
 
 
-#### Unit Type: Ranged
+#### Unit Type: Ranged 
 
   |  Support Effect   |
   |:-----------------:|
@@ -218,7 +218,7 @@ sidebar:
 
 
 
-#### Type: Raider
+#### Type: Raider 
 
   |  Support Effect   |
   |:-----------------:|
@@ -229,7 +229,7 @@ sidebar:
 
 
 
-#### Type: Beast
+#### Type: Beast 
 
   |  Support Effect   |
   |:-----------------:|
@@ -240,7 +240,7 @@ sidebar:
 
 
 
-#### Type: Dragonblood
+#### Type: Dragonblood 
 
   |  Support Effect   |
   |:-----------------:|
@@ -251,7 +251,7 @@ sidebar:
 
 
 
-#### Type: Divine Descendent
+#### Type: Divine Descendent 
 
   |  Support Effect   |
   |:-----------------:|
@@ -262,7 +262,7 @@ sidebar:
 
 
 
-#### Type: Magic Emissary
+#### Type: Magic Emissary 
 
   |  Support Effect   |
   |:-----------------:|
@@ -273,7 +273,7 @@ sidebar:
 
 
 
-#### Type: Leader
+#### Type: Leader 
 
   |  Support Effect   |
   |:-----------------:|
@@ -284,7 +284,7 @@ sidebar:
 
 
 
-#### Type: Legendary
+#### Type: Legendary 
 
   |  Support Effect   |
   |:-----------------:|

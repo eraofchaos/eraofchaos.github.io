@@ -2,7 +2,7 @@
 title: "Item - Consumables - Festival Prayer Special Offer"
 permalink: /Items/con_86/
 excerpt: "Festival Prayer Special Offer"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_86.md"
 toc: false

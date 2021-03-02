@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Marksman"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **Name:** [Long Bow](/Exclusive/Marksman Long Bow/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

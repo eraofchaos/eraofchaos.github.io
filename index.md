@@ -10,6 +10,26 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210302 %}
+
+**Client update** (version **142 (3169)**):
+
+- [Exclusive](https://eraofchaos.github.io/Exclusive/)
+- [Support](https://eraofchaos.github.io/ArsenalSupport/)
+- New battle calculation (version 10127).
+- more, more, more....
+
+ Thanks development team for big update! Huge list of new features, they are different and required time to process them.
+ Overall, with current patch Developers changed 118 scripts and 168 new... 
+ We'll post asap.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">2 March 2021 Update:</h4>
+  {{ notice-update20210302 | markdownify }}
+</div>
+
 {% capture notice-update20210301 %}
 Dear Era of Chaos players,
 
@@ -38,31 +58,6 @@ Thanks for participating in Quiz/Tasks on [Era of Chaos Expert Discord community
   <h4 class="no_toc">1 March 2021 Update:</h4>
   {{ notice-update20210301 | markdownify }}
 </div>
-
-{% capture notice-update20210223 %}
-
-**Client update** (version **142 (3115)**):
-
-- Avatar frame for "Blood Crystal Dragon" and Wraith
-- New unit skin: "Blood Crystal Dragon: Red Dragon"
-- Awaking for [Wight](https://eraofchaos.github.io/units/Wight/) -> **Wraith**
-- Correction for "Panic Disorder" skill: updated range
-- Correction for 2 Wight's skills: [Quaky Soul](https://eraofchaos.github.io/units/Wight/#5th-skill-or-6th-quaky-soul) and [Horrible Scene](https://eraofchaos.github.io/units/Wight/#6th-skill-or-5th-horrible-scene)
-- New feature: Campaign Growth Fund (see Events->Special)
-- New battle calculation (version 10126).
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">23 February 2021 Update:</h4>
-  {{ notice-update20210223 | markdownify }}
-</div>
-
-
-
-
-
-
 
 
 

@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Firebird"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Firebird](/Items/unt_94/)
+ **Unit Soul:** [Firebird](/Items/unt_95/)
 
  **Unit description:** Flame Breath: Deals damage to enemy troops in its path.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Name:** [Eternal Flame](/Exclusive/Firebird Eternal Flame/) 
 
- **Item to Rank Up:** [Eternal Flame Token](/Items/con_967/)
+ **Item to Rank Up:** [Eternal Flame Token](/Items/con_982/)
 
- **Skin:** [Eternal Flame Special Skin](/Items/con_317/)
+ **Skin:** [Eternal Flame Special Skin](/Items/con_319/)
 
 
 ## Recommended Holy Emblems
@@ -169,7 +169,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

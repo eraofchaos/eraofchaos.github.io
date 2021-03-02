@@ -2,7 +2,7 @@
 title: "Item - Units - Scorpicore Soul Stone"
 permalink: /Items/unt_17/
 excerpt: "Scorpicore Soul Stone"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_17.md"
 toc: false

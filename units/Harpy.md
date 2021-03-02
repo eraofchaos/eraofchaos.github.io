@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Harpy"
 toc: true
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Knight Pike](/Exclusive/Harpy Knight Pike/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -164,7 +164,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

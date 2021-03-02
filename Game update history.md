@@ -12,6 +12,25 @@ sidebar:
 
 ### Era Of Chaos - Game client update History
 
+{% capture notice-update20210223 %}
+
+**Client update** (version **142 (3115)**):
+
+- Avatar frame for "Blood Crystal Dragon" and Wraith
+- New unit skin: "Blood Crystal Dragon: Red Dragon"
+- Awaking for [Wight](https://eraofchaos.github.io/units/Wight/) -> **Wraith**
+- Correction for "Panic Disorder" skill: updated range
+- Correction for 2 Wight's skills: [Quaky Soul](https://eraofchaos.github.io/units/Wight/#5th-skill-or-6th-quaky-soul) and [Horrible Scene](https://eraofchaos.github.io/units/Wight/#6th-skill-or-5th-horrible-scene)
+- New feature: Campaign Growth Fund (see Events->Special)
+- New battle calculation (version 10126).
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">23 February 2021 Update:</h4>
+  {{ notice-update20210223 | markdownify }}
+</div>
+
 {% capture notice-update20210216 %}
 **Client update** (version **142 (3100)**):
 

@@ -2,7 +2,7 @@
 title: "Artifacts - Ring of the Mage - Ring of Conjuring"
 permalink: /artifacts/Ring of Conjuring/
 excerpt: "Ring of the Mage - Ring of Conjuring. A mysterious ring with strong magic. One of the components of Ring of the Mage."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Ring of Conjuring.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Ring of the Mage](/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 3x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Ring of Conjuring](/Items/art_8/)
 

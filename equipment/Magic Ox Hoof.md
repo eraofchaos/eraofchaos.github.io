@@ -2,7 +2,7 @@
 title: "Magic Ox Hoof"
 permalink: /equipment/Magic Ox Hoof/
 excerpt: "Era of Chaos Magic Ox Hoof. Magic Ox Hoof"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Magic Ox Hoof.md"
 toc: false

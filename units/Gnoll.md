@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Gnoll"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Gnoll](/Items/unt_41/)
+ **Unit Soul:** [Gnoll](/Items/unt_42/)
 
  **Short description:** Melee DPS. Stuns
 
@@ -80,7 +80,7 @@ toc: true
 
  **Name:** [Sword](/Exclusive/Gnoll Sword/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_163/)
+ **Item to Rank Up:** [Sword Token](/Items/con_165/)
 
  **Skin:** -
 
@@ -170,45 +170,45 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Gnoll Warrior
 
- **Awaking Description:** null
+ **Awaking Description:** These pale beasts under the moonlight are fearless warriors of the marshlands. They are the most elite soldiers of the Gnoll clans and fight to liberate the Fortress people.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Gnoll with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Fortress units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #876741;font-size:18px"> Dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Gnoll Warrior souls in the Underground: Levels 14-2 and 14-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Gnoll with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Fortress units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Chain Slap
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chain Slap&gt;</span><span style="color: #645252;font-size:18px">Deals additional damage equal to 400% of own ATK to the target unit.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Chain Smite
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chain Slap&gt;</span><span style="color: #645252;font-size:18px"> Increases the duration of the skill's Stun effect by 5s.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Call of the Wild
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Primitive Wildness&gt;</span><span style="color: #645252;font-size:18px"> Increases Penetration by 100. The effect doubles against enemies inflicted with Stun.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Call of the Feral
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Primitive Wildness&gt;</span><span style="color: #645252;font-size:18px"> Increases Critical Hit DMG by 15%. The effect doubles against enemies inflicted with Plague.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Guaranteed Kill
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Execution&gt;</span><span style="color: #645252;font-size:18px"> Increases own Critical Hit by 250 when fighting against units whose HP is less than 60%.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Break
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Execution&gt;</span><span style="color: #645252;font-size:18px"> Increases own Unit DMG by 20% when fighting against units whose HP is less than 60%.</span>
 
 ## Technical info
  **runart:** 1

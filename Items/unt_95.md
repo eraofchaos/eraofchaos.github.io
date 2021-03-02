@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Minotaur"
+title: "Item - Units - Firebird"
 permalink: /Items/unt_95/
-excerpt: "Minotaur"
-last_modified_at: 2021-02-24
+excerpt: "Firebird"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_95.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon a Minotaur. Tokens can also be used to upgrade or increase the rank of minotaurs.
+ **Description:** Once you have gathered 80 soul tokens you can summon a Firebird. Tokens can also be used to upgrade or increase the rank of Firebirds.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -19,10 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Underground 24 (Elemental Tide) -> 24-5 
-*    Altar of Recruitment 
-*    Barracks Redemption - Minotaur 
-*    Kingdom Store 
+*    Barracks Redemption - Phoenix 
 
 ## This item contains:
 

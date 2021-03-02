@@ -2,7 +2,7 @@
 title: "Exclusive - Sword"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Stone Gargoyle Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Stone Gargoyle Sword.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Stone Gargoyle](/units/Stone Gargoyle/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_163/)
+ **Item to Rank Up:** [Sword Token](/Items/con_165/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sword Token](/Items/con_163/) | <Claw Rend> Deals damage equal to 250% of own ATK to target unit and inflicts Bleed for 6s while increasing its own Attack Speed by 20% for 6s. CD is 26s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_163/) | Increases Stone Gargoyle's HP by 15% and DEF by 10%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Sword Token](/Items/con_163/) | Increases Stone Gargoyle's Unit DMG by 20%. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Sword Token](/Items/con_163/) | <Magic Awakening> When a Stone Gargoyle is buffed by a friendly hero's spell, it increases its own Magic Resistance by 15% and gains a shield equal to 10% of its Max HP for 8s. Stacks up to 2 times. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Sword Token](/Items/con_163/) | Increases Stone Gargoyle's Unit DMG Reduction by 20%. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Sword Token](/Items/con_163/) | Immune to Stun, Petrify and Crystallization while in statue form. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Sword Token](/Items/con_163/) | <Stone Mask> When attacking a unit that is bleeding because of <Claw Rend>, each attack deals damage equal to 1% of Max HP and decreases Unit DMG Reduction by 1%, while recovering HP equal to 1% of own Max HP and increasing its own Unit DMG by 1%. This effect can only be triggered once per second. Each stack lasts 2s. Stacks up to 10 times. |
+  |  Initial  | **100x** [Sword Token](/Items/con_165/) | <Claw Rend> Deals damage equal to 250% of own ATK to target unit and inflicts Bleed for 6s while increasing its own Attack Speed by 20% for 6s. CD is 26s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Stone Gargoyle's HP by 15% and DEF by 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Stone Gargoyle's Unit DMG by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | <Magic Awakening> When a Stone Gargoyle is buffed by a friendly hero's spell, it increases its own Magic Resistance by 15% and gains a shield equal to 10% of its Max HP for 8s. Stacks up to 2 times. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_165/) | Increases Stone Gargoyle's Unit DMG Reduction by 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_165/) | Immune to Stun, Petrify and Crystallization while in statue form. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_165/) | <Stone Mask> When attacking a unit that is bleeding because of <Claw Rend>, each attack deals damage equal to 1% of Max HP and decreases Unit DMG Reduction by 1%, while recovering HP equal to 1% of own Max HP and increasing its own Unit DMG by 1%. This effect can only be triggered once per second. Each stack lasts 2s. Stacks up to 10 times. |
 
 
 ## Level Up

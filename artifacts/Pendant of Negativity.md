@@ -2,7 +2,7 @@
 title: "Artifacts - Archmage's Codex - Pendant of Negativity"
 permalink: /artifacts/Pendant of Negativity/
 excerpt: "Archmage's Codex - Pendant of Negativity. An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Pendant of Negativity.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Pendant of Negativity](/Items/art_45/)
 

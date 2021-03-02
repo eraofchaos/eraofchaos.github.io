@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Gog Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Gog Arcane Chant.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Gog](/units/Gog/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_122/) | <Scalding Spark> Gog deals damage equal to 400% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is already Bleeding, DEF is reduced by 15% for 7s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_122/) | Increases Gog's Attack Speed by 15%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Arcane Chant Token](/Items/con_122/) | Increases Gog's Life Drain by 10%. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Arcane Chant Token](/Items/con_122/) | <Heatwave> When a friendly hero casts fire-type spells, Gog deals damage equal to 50% of own ATK every second to units in a large area in front of it and inflicts Burn for 5s. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Arcane Chant Token](/Items/con_122/) | Increases own DEF by 4% for every Inferno unit on the battlefield. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Arcane Chant Token](/Items/con_122/) | Increases Gog's Unit DMG by 15%. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Arcane Chant Token](/Items/con_122/) | <Infernal Symphony> At the start of battle, Gog increases the Critical Hit DMG and ATK of all friendly Caster units by 20% each while decreasing the Critical Hit DMG and ATK of all enemy Caster units by 20% each for 60s. |
+  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | <Scalding Spark> Gog deals damage equal to 400% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is already Bleeding, DEF is reduced by 15% for 7s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Increases Gog's Attack Speed by 15%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Increases Gog's Life Drain by 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | <Heatwave> When a friendly hero casts fire-type spells, Gog deals damage equal to 50% of own ATK every second to units in a large area in front of it and inflicts Burn for 5s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arcane Chant Token](/Items/con_124/) | Increases own DEF by 4% for every Inferno unit on the battlefield. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arcane Chant Token](/Items/con_124/) | Increases Gog's Unit DMG by 15%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arcane Chant Token](/Items/con_124/) | <Infernal Symphony> At the start of battle, Gog increases the Critical Hit DMG and ATK of all friendly Caster units by 20% each while decreasing the Critical Hit DMG and ATK of all enemy Caster units by 20% each for 60s. |
 
 
 ## Level Up

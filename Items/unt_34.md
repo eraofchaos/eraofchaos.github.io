@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Black Dragon King Soul Stone"
+title: "Item - Units - Psychic Elemental"
 permalink: /Items/unt_34/
-excerpt: "Black Dragon King Soul Stone"
-last_modified_at: 2021-02-24
+excerpt: "Psychic Elemental"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_34.md"
 toc: false
@@ -11,15 +11,17 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Black Dragon King's Awakening level enhancement
+ **Description:** Once you have gathered 80 soul tokens you can summon a Psychic Elemental. Tokens can also be used to upgrade or increase the rank of Psychic Elementals.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 
-*    Cross-server Store 
+*    Altar of Recruitment 
+*    Barracks Redemption - null 
+*    Altar of Recruitment 
 
 ## This item contains:
 

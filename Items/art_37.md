@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Crown of the Supreme Magi"
 permalink: /Items/art_37/
 excerpt: "Crown of the Supreme Magi"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_37.md"
 toc: false

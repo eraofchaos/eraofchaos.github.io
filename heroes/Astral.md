@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral came to Erathia about a decade ago and was quickly accepted by the mage guild of Bracada. After obtaining a high rank in the guild, some joked that he must have used magic to get there so quickly."
 heroID: 61203
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Astral"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Mind Magician
+   - All-new Battle Image
+   - Unique Avatar and Spell Effect
+
+### Skin 3: **Power of the Dragon Father**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Thunder clads my body, and dragon fire roars within my soul! I am Divine Punishment, and I am Heaven's Decree! I am the perfect fusion of Might and Magic in this world!</span>
+
+ **Skin features:** 
+
+   - Power of the Dragon Father
    - All-new Battle Image
    - Unique Avatar and Spell Effect
 

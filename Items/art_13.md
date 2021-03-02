@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Dead Man's Boots"
 permalink: /Items/art_13/
 excerpt: "Dead Man's Boots"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_13.md"
 toc: false

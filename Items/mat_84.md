@@ -2,7 +2,7 @@
 title: "Item - Materials - Book of Essences"
 permalink: /Items/mat_84/
 excerpt: "Book of Essences"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_84.md"
 toc: false

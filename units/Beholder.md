@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Beholder"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Beholder](/Items/unt_54/)
+ **Unit Soul:** [Beholder](/Items/unt_55/)
 
  **Unit description:** Mind Control: Immobilizes enemies and makes them lose HP over time
 
@@ -80,7 +80,7 @@ toc: true
 
  **Name:** [Dark Gaze](/Exclusive/Beholder Dark Gaze/) 
 
- **Item to Rank Up:** [Dark Gaze Token](/Items/con_1111/)
+ **Item to Rank Up:** [Dark Gaze Token](/Items/con_1126/)
 
  **Skin:** [Dark Gaze Special Skin](/Items/con_9/)
 
@@ -162,7 +162,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

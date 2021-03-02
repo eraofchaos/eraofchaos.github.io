@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Druid"
 toc: true
@@ -78,9 +78,9 @@ toc: true
 
  **Name:** [Staff of Regrowth](/Exclusive/Druid Staff of Regrowth/) 
 
- **Item to Rank Up:** [Staff of Regrowth Token](/Items/con_980/)
+ **Item to Rank Up:** [Staff of Regrowth Token](/Items/con_995/)
 
- **Skin:** [Staff of Regrowth Special Skin](/Items/con_668/)
+ **Skin:** [Staff of Regrowth Special Skin](/Items/con_679/)
 
 
 ## Recommended Holy Emblems
@@ -169,7 +169,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

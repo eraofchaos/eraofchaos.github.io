@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Forgotten Hourglass"
 permalink: /Items/art_74/
 excerpt: "Forgotten Hourglass"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_74.md"
 toc: false

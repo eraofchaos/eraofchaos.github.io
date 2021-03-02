@@ -2,7 +2,7 @@
 title: "Item - Heroes - Luna"
 permalink: /Items/her_15/
 excerpt: "Luna"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_15.md"
 toc: false

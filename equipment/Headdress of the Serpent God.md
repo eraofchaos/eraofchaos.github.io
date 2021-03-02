@@ -2,7 +2,7 @@
 title: "Headdress of the Serpent God"
 permalink: /equipment/Headdress of the Serpent God/
 excerpt: "Era of Chaos Headdress of the Serpent God. Headdress of the Serpent God"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Headdress of the Serpent God.md"
 toc: false

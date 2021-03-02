@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Basilisk"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Basilisk](/Items/unt_132/)
+ **Unit Soul:** [Basilisk](/Items/unt_133/)
 
  **Short description:** Controls tanks. Petrifies
 
@@ -78,9 +78,9 @@ toc: true
 
  **Name:** [Basilisk's Tail](/Exclusive/Basilisk Basilisk's Tail/) 
 
- **Item to Rank Up:** [Basilisk's Tail Token](/Items/con_869/)
+ **Item to Rank Up:** [Basilisk's Tail Token](/Items/con_883/)
 
- **Skin:** [Fire Energy Special Skin](/Items/con_1047/)
+ **Skin:** [Fire Energy Special Skin](/Items/con_1062/)
 
 
 ## Recommended Holy Emblems
@@ -169,7 +169,7 @@ toc: true
 * unit DMG Reduction
 * Magic resistance
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

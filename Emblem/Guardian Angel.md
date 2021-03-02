@@ -2,7 +2,7 @@
 title: "Holy Emblem - Guardian Angel"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Era of Chaos Guardian Angel. Guardian Angel. Era of Chaos Holy Emblem Guardian Angel. Era of Chaos Goodness Guardian Angel"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Guardian Angel.md"
 toc: false

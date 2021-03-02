@@ -2,7 +2,7 @@
 title: "Item - Consumables - Player EXP"
 permalink: /Items/con_63/
 excerpt: "Player EXP"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_63.md"
 toc: false

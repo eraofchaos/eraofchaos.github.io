@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Ogre"
+title: "Item - Units - Gold Golem Soul Stone"
 permalink: /Items/unt_57/
-excerpt: "Ogre"
-last_modified_at: 2021-02-24
+excerpt: "Gold Golem Soul Stone"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_57.md"
 toc: false
@@ -11,19 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 30 soul tokens you can summon an Ogre, an SR aptitude unit.
+ **Description:** Soul Stone for Gold Golem's Awakening level enhancement
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Underground 8 (Frenzied Thoughts) -> 8-5 
-*    Underground 13 (From Day to Night) -> 13-5 
-*    Altar of Recruitment 
-*    Treasure Chest - Tatalia 
-*    Barracks Redemption - Ogre 
+*    Kingdom Store 
 
 ## This item contains:
 

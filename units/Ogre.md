@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Ogre"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Ogre](/Items/unt_57/)
+ **Unit Soul:** [Ogre](/Items/unt_58/)
 
  **Unit description:** Blood Pool: Improves the life drain of your nearby units.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Iris Shield](/Exclusive/Ogre Iris Shield/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -174,7 +174,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking
@@ -206,7 +206,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">Ogre unit's damage reduction increased by 20%. The effect doubles when in &lt;Rampage&gt; state</span>
 
 ### 4th Skill (or 3rd): Heartening War Song
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> Ogre unit's damage reduction increased by 20%. DMG increased to 200% of the basic damage of the skill when in &lt;Rampage&gt; state</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> Ogre unit's damage reduction increased by 20%. ATK increased to 200% of the previous skill's ATK when in &lt;Rampage&gt; state</span>
 
 ### 5th Skill (or 6th): Ancient Surge
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">Skill effect increased to 150% of the previous skill's effect</span>

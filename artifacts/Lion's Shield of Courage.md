@@ -2,7 +2,7 @@
 title: "Artifacts - Angelic Alliance - Lion's Shield of Courage"
 permalink: /artifacts/Lion's Shield of Courage/
 excerpt: "Angelic Alliance - Lion's Shield of Courage. A symbol of the military might of Griffin units. One of the components of the Angelic Alliance."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Lion's Shield of Courage.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Lion's Shield of Courage](/Items/art_82/)
 

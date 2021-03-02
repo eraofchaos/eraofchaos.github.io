@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Cove"
 permalink: /Exclusive/Exclusive Cove/
 excerpt: "Era of Chaos Exclusive Cove. Exclusive Cove. List of Exclusive Cove in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Exclusive Cove"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Regnan Pirates](/units/Regnan Pirates/) | [Sword](/Exclusive/Regnan Pirates Sword/) | - | Charge | [Sword Token](/Items/con_163/) | - |
-  | 2  | [Regnan Archer](/units/Regnan Archer/) | - | - | - | none | none |
-  | 3  | [Sea Elemental](/units/Sea Elemental/) | [Arcane Chant](/Exclusive/Sea Elemental Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |
-  | 4  | [Regnan Serpent](/units/Regnan Serpent/) | [Day Tides](/Exclusive/Regnan Serpent Day Tides/) | - | Ranged | [Day Tides Token](/Items/con_1387/) | [Day Tides Special Skin](/Items/con_460/) |
-  | 5  | [Mermaid](/units/Mermaid/) | [Night Tides](/Exclusive/Mermaid Night Tides/) | - | Ranged | [Night Tides Token](/Items/con_315/) | [Night Tides Special Skin](/Items/con_766/) |
-  | 6  | [Dragon Turtle](/units/Dragon Turtle/) | [Obedience](/Exclusive/Dragon Turtle Obedience/) | - | Support | [Obedience Token](/Items/con_602/) | [Obedience Special Skin](/Items/con_1133/) |
-  | 7  | [Regnan Seer](/units/Regnan Seer/) | [](/Exclusive/Regnan Seer /) | - | Capital | [The City by the Ocean Banner Soul](/Items/con_972/) | - |
-  | 8  | [Revyaratan](/units/Revyaratan/) | - | - | - | none | none |
-  | 9  | [Shark Trainer](/units/Shark Trainer/) | - | - | - | none | none |
+  | 1  | [Regnan Pirates](/units/Regnan Pirates/) | [Sword](/Exclusive/Regnan Pirates Sword/) | + | Charge | [Sword Token](/Items/con_165/) | - |
+  | 2  | [Regnan Archer](/units/Regnan Archer/) | [Miracle](/Exclusive/Regnan Archer Miracle/) | - | Support | - | - |
+  | 3  | [Sea Elemental](/units/Sea Elemental/) | [Arcane Chant](/Exclusive/Sea Elemental Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_124/) | - |
+  | 4  | [Regnan Serpent](/units/Regnan Serpent/) | [Day Tides](/Exclusive/Regnan Serpent Day Tides/) | - | Ranged | [Day Tides Token](/Items/con_1406/) | [Day Tides Special Skin](/Items/con_463/) |
+  | 5  | [Mermaid](/units/Mermaid/) | [Night Tides](/Exclusive/Mermaid Night Tides/) | - | Ranged | [Night Tides Token](/Items/con_317/) | [Night Tides Special Skin](/Items/con_778/) |
+  | 6  | [Dragon Turtle](/units/Dragon Turtle/) | [Obedience](/Exclusive/Dragon Turtle Obedience/) | - | Support | [Obedience Token](/Items/con_610/) | [Obedience Special Skin](/Items/con_1149/) |
+  | 7  | [Regnan Seer](/units/Regnan Seer/) | [](/Exclusive/Regnan Seer /) | - | Capital | [The City by the Ocean Banner Soul](/Items/con_987/) | - |
+  | 8  | [Revyaratan](/units/Revyaratan/) | [Gloom Tides](/Exclusive/Revyaratan Gloom Tides/) | - | Ranged | - | - |
+  | 9  | [Shark Trainer](/units/Shark Trainer/) | [Break Waves](/Exclusive/Shark Trainer Break Waves/) | - | Support | - | - |

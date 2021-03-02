@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Orc"
 toc: true
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Long Bow](/Exclusive/Orc Long Bow/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

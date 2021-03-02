@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Troglodyte"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **Name:** [Sword](/Exclusive/Troglodyte Sword/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_163/)
+ **Item to Rank Up:** [Sword Token](/Items/con_165/)
 
  **Skin:** -
 
@@ -167,7 +167,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking
@@ -183,7 +183,7 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Troglodyte souls in the Underground: Levels 14-2 and 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Dark Troglodyte souls in the Underground: Levels 14-2 and 14-4.</span>
 
  4. <span style="color: #876741;font-size:18px">Deploy Troglodyte with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 

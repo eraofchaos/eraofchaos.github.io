@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Regnan Seer"
 toc: true
@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Regnan Seer](/Items/unt_110/)
+ **Unit Soul:** [Regnan Seer](/Items/unt_111/)
 
  **Short description:** Cove leader. Powerful control.
 
@@ -79,7 +79,7 @@ toc: true
 
  **Name:** [](/Exclusive/Regnan Seer /) 
 
- **Item to Rank Up:** [The City by the Ocean Banner Soul](/Items/con_972/)
+ **Item to Rank Up:** [The City by the Ocean Banner Soul](/Items/con_987/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

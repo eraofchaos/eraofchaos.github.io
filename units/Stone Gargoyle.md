@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Stone Gargoyle"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Stone Gargoyle](/Items/unt_140/)
+ **Unit Soul:** [Stone Gargoyle](/Items/unt_141/)
 
  **Unit description:** Stone Form: Increases ATK and ATK speed
 
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Sword](/Exclusive/Stone Gargoyle Sword/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_163/)
+ **Item to Rank Up:** [Sword Token](/Items/con_165/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Unit Dodge
 * Magic resistance
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

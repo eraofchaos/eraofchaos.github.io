@@ -2,7 +2,7 @@
 title: "Exclusive - Fire Energy"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Fire Energy. Fire Energy. Era of Chaos Exclusive Fire Energy. Fire Elemental Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Fire Elemental Fire Energy.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Fire Elemental](/units/Fire Elemental/) 
 
- **Item to Rank Up:** [Fire Energy Token](/Items/con_1275/)
+ **Item to Rank Up:** [Fire Energy Token](/Items/con_1291/)
 
- **Skin:** [Fire Energy Special Skin](/Items/con_1296/)
+ **Skin:** [Fire Energy Special Skin](/Items/con_1312/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Fire Energy Token](/Items/con_1275/) | <Fire Trio> Fire Elemental manipulates balls of fire to deal AoE damage on target units at 3 phases every 20s. The attack ranges change from small, to smaller, and then wide in that order, and deal 90%, 120%, and 150% of ATK respectively. The burning effect on the target lasts for 5s |
-  | **1x** <i class="fas fa-star"/> | **50x** [Fire Energy Token](/Items/con_1275/) | Fire Elemental's penetration is increased by 150 |
-  | **2x** <i class="fas fa-star"/> | **80x** [Fire Energy Token](/Items/con_1275/) | Increases Fire Elemental's ATK by 20% and unit's damage by 10% |
-  | **3x** <i class="fas fa-star"/> | **120x** [Fire Energy Token](/Items/con_1275/) | At the beginning of battle, the Fire Elemental gets a shield equal to 100% of its Max HP. Its fire causes damage equal to 10% of its ATK to surrounding hostile units within a small range every second. This effect cannot be dispelled |
-  | **4x** <i class="fas fa-star"/> | **150x** [Fire Energy Token](/Items/con_1275/) | Increases Fire Elemental's Crit DMG by 20% and ATK speed 10% |
-  | **5x** <i class="fas fa-star"/> | **230x** [Fire Energy Token](/Items/con_1275/) | The Fire Elemental is immune to damage caused by fire spells |
-  | **6x** <i class="fas fa-star"/> | **280x** [Fire Energy Token](/Items/con_1275/) | <Elemental Resonance> When a Fire Elemental is on the battlefield, it increases ATK speed of all Conflux Faction units by 10%. Whenever the Trio is cast, it increases ATK speed for all Conflux Faction units by 10%. The effect lasts throughout the entire battle and cannot be stacked |
+  |  Initial  | **100x** [Fire Energy Token](/Items/con_1291/) | <Fire Trio> Fire Elemental manipulates balls of fire to deal AoE damage on target units at 3 phases every 20s. The attack ranges change from small, to smaller, and then wide in that order, and deal 90%, 120%, and 150% of ATK respectively. The burning effect on the target lasts for 5s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Fire Energy Token](/Items/con_1291/) | Fire Elemental's penetration is increased by 150 |
+  | **2x** <i class="fas fa-star"/> | **90x** [Fire Energy Token](/Items/con_1291/) | Increases Fire Elemental's ATK by 20% and unit's damage by 10% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Fire Energy Token](/Items/con_1291/) | At the beginning of battle, the Fire Elemental gets a shield equal to 100% of its Max HP. Its fire causes damage equal to 10% of its ATK to surrounding hostile units within a small range every second. This effect cannot be dispelled |
+  | **4x** <i class="fas fa-star"/> | **170x** [Fire Energy Token](/Items/con_1291/) | Increases Fire Elemental's Crit DMG by 20% and ATK speed 10% |
+  | **5x** <i class="fas fa-star"/> | **210x** [Fire Energy Token](/Items/con_1291/) | The Fire Elemental is immune to damage caused by fire spells |
+  | **6x** <i class="fas fa-star"/> | **250x** [Fire Energy Token](/Items/con_1291/) | <Elemental Resonance> When a Fire Elemental is on the battlefield, it increases ATK speed of all Conflux Faction units by 10%. Whenever the Trio is cast, it increases ATK speed for all Conflux Faction units by 10%. The effect lasts throughout the entire battle and cannot be stacked |
 
 
 ## Level Up

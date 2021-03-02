@@ -2,7 +2,7 @@
 title: "Artifacts - Archmage's Codex"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "Archmage's Codex Records Arcane spells. Strengthens Ranged/Caster units."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Archmage's Codex.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
   |:---:|:---:|:---:| 
   | [Pendant of Negativity](/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   | [Staff of Disruption](/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
   |   | **Archmage's Codex** |  | 
-  | [Recanter`s Cloak](/artifacts/Recanter`s Cloak/){: .btn .btn--era4} |   | [Ring of Flares](/artifacts/Ring of Flares/){: .btn .btn--era4} | 
+  | [Recanter's Cloak](/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   | [Ring of Flares](/artifacts/Ring of Flares/){: .btn .btn--era4} | 
 
 
 ## Details
@@ -32,7 +32,7 @@ classes: wide
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
   | 1 | [Pendant of Negativity](/artifacts/Pendant of Negativity/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Intelligence**: 5+(LEVEL\*2) | An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex. | 
-  | 2 | [Recanter`s Cloak](/artifacts/Recanter`s Cloak/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | Wear it to weaken magical attacks. One of the Archmage's Codex. | 
+  | 2 | [Recanter's Cloak](/artifacts/Recanter's Cloak/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | Wear it to weaken magical attacks. One of the Archmage's Codex. | 
   | 3 | [Ring of Flares](/artifacts/Ring of Flares/){: .btn .btn--era4} | **Unit Attack**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A ring with magic flowing on its surface. One of the Archmage's Codex. | 
   | 4 | [Staff of Disruption](/artifacts/Staff of Disruption/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A staff with great power sealed within. One of the Archmage's Codex. | 
 

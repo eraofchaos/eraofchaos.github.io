@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Staff of Eden"
 permalink: /Items/art_67/
 excerpt: "Staff of Eden"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_67.md"
 toc: false

@@ -1,15 +1,15 @@
 ---
 title: "Leprechaun"
 permalink: /units/Leprechaun/
-excerpt: "Era of Chaos Units. Units. Era of Chaos Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree."
+excerpt: "Era of Chaos Units. Units. Era of Chaos With the help of Magic Charms that provide a mysterious shield, Leprechauns who respond to the summons use the Monolith of the World Tree to travel to the cruel and murderous battlefield, where they become the strongest shield of the Nature!"
 unitID: 909
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Leprechaun"
 toc: true
 ---
 ## General information
- **Description:** Clad in their jade green coats, the Leprechauns were once children of the forest living free and without worries under the World Tree's protection. However, the sounds of Erathia's war horns have awoken their courage to protect the World Tree.
+ **Description:** With the help of Magic Charms that provide a mysterious shield, Leprechauns who respond to the summons use the Monolith of the World Tree to travel to the cruel and murderous battlefield, where they become the strongest shield of the Nature!
 
  **Class:** [Defense](/units/Unit Class Defense/)
 
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Leprechaun](/Items/unt_127/)
+ **Unit Soul:** [Leprechaun](/Items/unt_128/)
 
  **Short description:** Dodge and block. Buffs Counterattack.
 
@@ -75,6 +75,12 @@ toc: true
   | [TheLightnessoftheWind](/equipment/TheLightnessoftheWind/) | **HP** | **DEF** | 
 
 ## Exclusive
+
+ **Name:** [Thorns](/Exclusive/Leprechaun Thorns/) 
+
+ **Item to Rank Up:** -
+
+ **Skin:** -
 
 
 ## Recommended Holy Emblems
@@ -180,14 +186,14 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** Sacred Tree Guardian Spirit
+ **Awaking Name:** Master Leprechaun 
 
  **Awaking Description:** Legend speaks of a massive World Tree in the Conflux Plane. Ancient and mysterious, adventurers both yearn for and fear it. This is because of the group of ferocious guardians garrisoned nearby—any creatures who dare to approach the World Tree are eliminated. Countless brave young adventurers have gone there out of admiration, but they have never returned.
 
@@ -203,10 +209,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Heavy Punch
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the target's Unit DMG Reduction by 3%. If the target is inflicted with Burn, their DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is burning, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
 
 ### 2nd Skill (or 1st): Direct Blow
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the target's Unit DMG Reduction by 3%. If the target is inflicted with Freeze, their DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is frozen, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
 
 ### 3rd Skill (or 4th): Lucky Number
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortune&gt;</span><span style="color: #645252;font-size:18px"> Leprechaun's own skill effect stacks are increased by 5-12 stacks.</span>

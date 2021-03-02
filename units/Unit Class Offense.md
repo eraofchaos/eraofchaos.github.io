@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Unit Class Offense"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arch Devil  |
   | 9 | [Troglodyte](/units/Troglodyte/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Dark Troglodyte  |
   | 10 | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Naga Queen  |
-  | 11 | [Gnoll](/units/Gnoll/) | Offense | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 11 | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Gnoll Warrior  |
   | 12 | [Angel](/units/Angel/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Archangel  |
   | 13 | [Regnan Pirates](/units/Regnan Pirates/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  King of Pirates  |
   | 14 | [Red Dragon](/units/Red Dragon/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |   -   |

@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Ankh"
 permalink: /Items/art_21/
 excerpt: "Ankh"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_21.md"
 toc: false

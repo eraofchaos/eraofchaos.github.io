@@ -2,7 +2,7 @@
 title: "Gown of Moon and Stars"
 permalink: /equipment/Gown of Moon and Stars/
 excerpt: "Era of Chaos Gown of Moon and Stars. Gown of Moon and Stars"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Gown of Moon and Stars.md"
 toc: false

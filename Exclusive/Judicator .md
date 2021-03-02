@@ -2,7 +2,7 @@
 title: "Exclusive - "
 permalink: /Exclusive/Judicator /
 excerpt: "Era of Chaos . . Era of Chaos Exclusive . Judicator Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Judicator .md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Judicator](/units/Judicator/) 
 
- **Item to Rank Up:** [Sanctuary's Radiance Banner Soul](/Items/con_723/)
+ **Item to Rank Up:** [Sanctuary's Radiance Banner Soul](/Items/con_734/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
-  | **2x** <i class="fas fa-star"/> | **80x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
-  | **3x** <i class="fas fa-star"/> | **120x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
-  | **4x** <i class="fas fa-star"/> | **150x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
-  | **5x** <i class="fas fa-star"/> | **230x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
-  | **6x** <i class="fas fa-star"/> | **280x** [Sanctuary's Radiance Banner Soul](/Items/con_723/) |  |
+  |  Initial  | **100x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
 
 
 ## Level Up

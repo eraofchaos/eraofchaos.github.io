@@ -2,7 +2,7 @@
 title: "Exclusive - Day Tides"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Day Tides. Day Tides. Era of Chaos Exclusive Day Tides. Regnan Serpent Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Regnan Serpent Day Tides.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Regnan Serpent](/units/Regnan Serpent/) 
 
- **Item to Rank Up:** [Day Tides Token](/Items/con_1387/)
+ **Item to Rank Up:** [Day Tides Token](/Items/con_1406/)
 
- **Skin:** [Day Tides Special Skin](/Items/con_460/)
+ **Skin:** [Day Tides Special Skin](/Items/con_463/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Day Tides Token](/Items/con_1387/) | <Endless Torrent> Regnan Serpent waves its trident, summoning the power of the tides to sweep through the enemy, dealing damage equal to 100% of own ATK to enemy units in a large area in front and decreasing their Attack Speed by 20% and Critical Hit DMG by 40%. Decreases the Tenacity and Dodge of enemy units inflicted with Slow by 200 each for 6s. CD is 20s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Day Tides Token](/Items/con_1387/) | Increases Regnan Serpent's Unit DMG Reduction by 20%, and increases Unit DMG Reduction by an additional 20% when taking ranged attacks. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Day Tides Token](/Items/con_1387/) | When casting <Endless Torrent>, increases Regnan Serpent's DEF by 10%. Lasts for the whole battle. Stacks up to 3 times. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Day Tides Token](/Items/con_1387/) | Regnan Serpent, affected by the force of the tides, enters the High Tide state 5s after battle begins, increasing its Unit DMG Reduction by 20% for 6s and restoring HP equal to 5% of Max HP. Afterwards, they enter the Night Tide state, increasing its Attack Speed by 20% and Critical Hit by 200 for 6s. After this, Regnan Serpent alternately triggers High Tide and Night Tide states. Lasts for the whole battle. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Day Tides Token](/Items/con_1387/) | Increases Regnan Serpent's healing received by 40% and HP by 20%. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Day Tides Token](/Items/con_1387/) | When entering the High Tide state, Regnan Serpent gains an additional Bubble equal to 7% of own Max HP for 6s. When entering the Night Tide state, Regnan Serpent purifies itself once. At the start of the battle, Regnan Serpent gains a Bubble equal to 30% of own Max HP for 12s. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Day Tides Token](/Items/con_1387/) | <Gift of the Ocean> When casting <Endless Torrent>, Regnan Serpent grants a Bubble equal to 20% of Max HP to friendly back row Cove units for 15s and increases Tenacity of friendly front row Cove units by 300 for 6s. |
+  |  Initial  | **100x** [Day Tides Token](/Items/con_1406/) | <Endless Torrent> Regnan Serpent waves its trident, summoning the power of the tides to sweep through the enemy, dealing damage equal to 100% of own ATK to enemy units in a large area in front and decreasing their Attack Speed by 20% and Critical Hit DMG by 40%. Decreases the Tenacity and Dodge of enemy units inflicted with Slow by 200 each for 6s. CD is 20s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Day Tides Token](/Items/con_1406/) | Increases Regnan Serpent's Unit DMG Reduction by 20%, and increases Unit DMG Reduction by an additional 20% when taking ranged attacks. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Day Tides Token](/Items/con_1406/) | When casting <Endless Torrent>, increases Regnan Serpent's DEF by 10%. Lasts for the whole battle. Stacks up to 3 times. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Day Tides Token](/Items/con_1406/) | Regnan Serpent, affected by the force of the tides, enters the High Tide state 5s after battle begins, increasing its Unit DMG Reduction by 20% for 6s and restoring HP equal to 5% of Max HP. Afterwards, they enter the Night Tide state, increasing its Attack Speed by 20% and Critical Hit by 200 for 6s. After this, Regnan Serpent alternately triggers High Tide and Night Tide states. Lasts for the whole battle. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Day Tides Token](/Items/con_1406/) | Increases Regnan Serpent's healing received by 40% and HP by 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Day Tides Token](/Items/con_1406/) | When entering the High Tide state, Regnan Serpent gains an additional Bubble equal to 7% of own Max HP for 6s. When entering the Night Tide state, Regnan Serpent purifies itself once. At the start of the battle, Regnan Serpent gains a Bubble equal to 30% of own Max HP for 12s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Day Tides Token](/Items/con_1406/) | <Gift of the Ocean> When casting <Endless Torrent>, Regnan Serpent grants a Bubble equal to 20% of Max HP to friendly back row Cove units for 15s and increases Tenacity of friendly front row Cove units by 300 for 6s. |
 
 
 ## Level Up

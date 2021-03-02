@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Centaur"
+title: "Item - Units - Ogre"
 permalink: /Items/unt_58/
-excerpt: "Centaur"
-last_modified_at: 2021-02-24
+excerpt: "Ogre"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_58.md"
 toc: false
@@ -11,19 +11,19 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 10 soul tokens you can summon a Centaur, an R aptitude unit.
+ **Description:** Once you have gathered 30 soul tokens you can summon an Ogre, an SR aptitude unit.
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Unit Soul
 
 ## Gather
 
-*    Underground 5 (Pioneer) -> 5-1 
-*    Underground 7 (Borderlands) -> 7-5 
+*    Underground 8 (Frenzied Thoughts) -> 8-5 
+*    Underground 13 (From Day to Night) -> 13-5 
 *    Altar of Recruitment 
-*    Treasure Chest - Guardian Angel 
-*    Barracks Redemption - Centaur 
+*    Treasure Chest - Tatalia 
+*    Barracks Redemption - Ogre 
 
 ## This item contains:
 

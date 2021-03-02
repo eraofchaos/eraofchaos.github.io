@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows."
 unitID: 409
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Troll"
 toc: true
@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Troll](/Items/unt_113/)
+ **Unit Soul:** [Troll](/Items/unt_114/)
 
  **Short description:** Single-target assault. Burst damage.
 
@@ -191,7 +191,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

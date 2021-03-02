@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Cavalier"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Cavalier ](/Items/unt_44/)
+ **Unit Soul:** [Cavalier ](/Items/unt_45/)
 
  **Unit description:** Jousting: Deals sizeable damage, causing stun on a first attack.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Name:** [Knight Pike](/Exclusive/Cavalier Knight Pike/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -174,7 +174,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking
@@ -212,7 +212,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Pike&gt;</span><span style="color: #645252;font-size:18px">Increases unit's damage reduction by an extra 20%. The effect doubles under \"High Morale\" </span>
 
 ### 6th Skill (or 5th): Calm Thinking
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Pike&gt; </span><span style="color: #645252;font-size:18px">When in combat, \"High Morale\" effect is entered. Guaranteed to deal a Critical Hit. The effect lasts for 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Pike&gt; </span><span style="color: #645252;font-size:18px">When in combat, guaranteed to deal a Critical Hit under \"High Morale\" effect. The effect lasts for 10s</span>
 
 ## Technical info
  **runart:** 1

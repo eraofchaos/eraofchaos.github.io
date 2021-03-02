@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Units. Units. Era of Chaos White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "White Tiger"
 toc: true
@@ -27,6 +27,8 @@ toc: true
  **Rank:** [Commander](/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+
+ **Position :** White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around.
 
 ## Basic stats
  **Base HP: 6138.8**
@@ -178,7 +180,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

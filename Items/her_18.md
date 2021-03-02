@@ -2,7 +2,7 @@
 title: "Item - Heroes - Mystic Domain"
 permalink: /Items/her_18/
 excerpt: "Mystic Domain"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_18.md"
 toc: false

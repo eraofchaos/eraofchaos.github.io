@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Wood"
 permalink: /Items/mat_14/
 excerpt: "Rare Wood"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_14.md"
 toc: false

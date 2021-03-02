@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Exclusive Rampart. Exclusive Rampart. List of Exclusive Rampart in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Exclusive Rampart"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Centaur](/units/Centaur/) | [Iris Shield](/Exclusive/Centaur Iris Shield/) | + | Charge | [Iris Shield Token](/Items/con_153/) | - |
-  | 2  | [Dwarf](/units/Dwarf/) | [Iris Shield](/Exclusive/Dwarf Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
-  | 3  | [Wood Elf](/units/Wood Elf/) | [Long Bow](/Exclusive/Wood Elf Long Bow/) | + | Charge | [Long Bow Token](/Items/con_134/) | - |
-  | 4  | [Pegasus](/units/Pegasus/) | [Long Bow](/Exclusive/Pegasus Long Bow/) | + | Charge | [Long Bow Token](/Items/con_134/) | - |
-  | 5  | [Dendroid Guard](/units/Dendroid Guard/) | [Iris Shield](/Exclusive/Dendroid Guard Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_153/) | - |
-  | 6  | [Unicorn](/units/Unicorn/) | [Knight Pike](/Exclusive/Unicorn Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_210/) | - |
-  | 7  | [Green Dragon](/units/Green Dragon/) | [Resplendent Dragonwing](/Exclusive/Green Dragon Resplendent Dragonwing/) | + | Support | [Resplendent Dragonwing Token](/Items/con_703/) | [Resplendent Dragonwing Special Skin](/Items/con_279/) |
-  | 8  | [Druid](/units/Druid/) | [Staff of Regrowth](/Exclusive/Druid Staff of Regrowth/) | + | Ranged | [Staff of Regrowth Token](/Items/con_980/) | [Staff of Regrowth Special Skin](/Items/con_668/) |
+  | 1  | [Centaur](/units/Centaur/) | [Iris Shield](/Exclusive/Centaur Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_155/) | - |
+  | 2  | [Dwarf](/units/Dwarf/) | [Iris Shield](/Exclusive/Dwarf Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_155/) | - |
+  | 3  | [Wood Elf](/units/Wood Elf/) | [Long Bow](/Exclusive/Wood Elf Long Bow/) | - | Charge | [Long Bow Token](/Items/con_136/) | - |
+  | 4  | [Pegasus](/units/Pegasus/) | [Long Bow](/Exclusive/Pegasus Long Bow/) | + | Charge | [Long Bow Token](/Items/con_136/) | - |
+  | 5  | [Dendroid Guard](/units/Dendroid Guard/) | [Iris Shield](/Exclusive/Dendroid Guard Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_155/) | - |
+  | 6  | [Unicorn](/units/Unicorn/) | [Knight Pike](/Exclusive/Unicorn Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_212/) | - |
+  | 7  | [Green Dragon](/units/Green Dragon/) | [Resplendent Dragonwing](/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Support | [Resplendent Dragonwing Token](/Items/con_714/) | [Resplendent Dragonwing Special Skin](/Items/con_281/) |
+  | 8  | [Druid](/units/Druid/) | [Staff of Regrowth](/Exclusive/Druid Staff of Regrowth/) | - | Ranged | [Staff of Regrowth Token](/Items/con_995/) | [Staff of Regrowth Special Skin](/Items/con_679/) |
   | 9  | [Mantis](/units/Mantis/) | - | - | - | none | none |

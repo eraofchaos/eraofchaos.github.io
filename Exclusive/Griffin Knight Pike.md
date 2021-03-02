@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Griffin Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Griffin Knight Pike.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Griffin](/units/Griffin/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Knight Pike Token](/Items/con_210/) | <Beak Peck> Griffin bites the target unit, dealing damage equal to 150% of own ATK to target unit. Inflicts Bleeding, decreases Accuracy by 300 and Attack Speed by 20% for 8s. CD is 20s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_210/) | Increases Griffin's Unit DMG by 20%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Knight Pike Token](/Items/con_210/) | Increases Griffin's Dodge by 500. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Knight Pike Token](/Items/con_210/) | <Aerial Roll> Griffin's Tenacity increases by 50 every time they successfully dodge and deals damage to the target unit equal to 75% of their ATK. Tenacity can stack up to 500. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Knight Pike Token](/Items/con_210/) | Increases Griffin's Unit DMG Reduction by 20%. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Knight Pike Token](/Items/con_210/) | Increases Griffin's Tenacity by 500 at the start of battle. Tenacity will be reduced by 20 every 2s, retaining a minimum of 100 Tenacity. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Knight Pike Token](/Items/con_210/) | <Animal Instincts> Griffin gains High Morale 10s after the start of battle. When a target unit is killed, Griffin gains High Morale for 10s and recovers 20% of Max HP. |
+  |  Initial  | **100x** [Knight Pike Token](/Items/con_212/) | <Beak Peck> Griffin bites the target unit, dealing damage equal to 150% of own ATK to target unit. Inflicts Bleeding, decreases Accuracy by 300 and Attack Speed by 20% for 8s. CD is 20s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Griffin's Unit DMG by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Griffin's Dodge by 500. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | <Aerial Roll> Griffin's Tenacity increases by 50 every time they successfully dodge and deals damage to the target unit equal to 75% of their ATK. Tenacity can stack up to 500. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Knight Pike Token](/Items/con_212/) | Increases Griffin's Unit DMG Reduction by 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Knight Pike Token](/Items/con_212/) | Increases Griffin's Tenacity by 500 at the start of battle. Tenacity will be reduced by 20 every 2s, retaining a minimum of 100 Tenacity. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Knight Pike Token](/Items/con_212/) | <Animal Instincts> Griffin gains High Morale 10s after the start of battle. When a target unit is killed, Griffin gains High Morale for 10s and recovers 20% of Max HP. |
 
 
 ## Level Up

@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Mummy"
+title: "Item - Units - War Unicorn Soul Stone"
 permalink: /Items/unt_47/
-excerpt: "Mummy"
-last_modified_at: 2021-02-24
+excerpt: "War Unicorn Soul Stone"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_47.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 80 soul tokens you can summon a Mummy, an SR aptitude unit
+ **Description:** Soul Stone for War Unicorn's Awakening level enhancement
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Barracks Redemption - null 
+*    Arena Store 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Gems"
 permalink: /Items/mat_52/
 excerpt: "Radiant Gems"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_52.md"
 toc: false

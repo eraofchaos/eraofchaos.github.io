@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Ore"
 permalink: /Items/mat_13/
 excerpt: "Superior Ore"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_13.md"
 toc: false

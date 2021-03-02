@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Orb of Inhibition"
 permalink: /Items/art_78/
 excerpt: "Orb of Inhibition"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_78.md"
 toc: false

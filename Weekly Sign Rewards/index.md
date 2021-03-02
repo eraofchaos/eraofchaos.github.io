@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 11  Castle Week
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **15 Mar** | **5x Pikeman**  | A squad of Pikemen joined your army and you become stronger! |
+  | **16 Mar** | **5x Marksman**  | A squad of Marksman joined your army and you become stronger! |
+  | **17 Mar** | **3x Swordsman**  | A squad of Swordsmen joined your army and you become stronger! |
+  | **18 Mar** | **3x Griffin**  | A squad of Griffin joined your army and you become stronger! |
+  | **19 Mar** | **3x Monk**  | A squad of Monk joined your army and you become stronger! |
+  | **20 Mar** | **3x Cavalier**  | A squad of Cavalier joined your army and you become stronger! |
+  | **21 Mar** | **5x Adelaide**  | A Mage who controls the power of snow has visited your territory! |
+
 
 #### 2021 Week 10  Inferno Week
 

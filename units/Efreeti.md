@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Efreeti"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Efreeti](/Items/unt_117/)
+ **Unit Soul:** [Efreeti](/Items/unt_118/)
 
  **Unit description:** FireBall: Deals colossal damage to your enemies, causes burning.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Arcane Chant](/Exclusive/Efreeti Arcane Chant/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 
  **Skin:** -
 
@@ -174,7 +174,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

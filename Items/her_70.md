@@ -2,7 +2,7 @@
 title: "Item - Heroes - Lord Haart"
 permalink: /Items/her_70/
 excerpt: "Lord Haart"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_70.md"
 toc: false

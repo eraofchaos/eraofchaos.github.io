@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. As one of the first heroes to join Elemental, Ciele is an ever-victorious general on the battlefield. She discovered the connection among Magic Elementals through her magical arrows"
 heroID: 60705
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Ciele"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Chinese Valentine's Day
+   - All-new Battle Image
+   - Unique Avatar and Spell Effect
+
+### Skin 3: **Christmas Messenger**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">The beautiful Christmas Messenger comes bearing gifts! The cold of winter nights can't erase the joy of celebrating Christmas!</span>
+
+ **Skin features:** 
+
+   - Gift-bearing Christmas Messenger
    - All-new Battle Image
    - Unique Avatar and Spell Effect
 

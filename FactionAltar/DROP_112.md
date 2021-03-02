@@ -2,7 +2,7 @@
 title: "Faction Altar for Cove"
 permalink: /FactionAltar/DROP_112/
 excerpt: "Faction Altar for Cove. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "DROP_112.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Cove Limited Edition Pack](/Items/con_181/)
+  **Drop by Luck (10x spin): 30x** [Cove Limited Edition Pack](/Items/con_183/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Cove Limited Edition Pack](/Items/con_181/) |
-  | 2 | **12%** | **2x** | [Cove Limited Edition Pack](/Items/con_181/) |
-  | 3 | **12%** | **3x** | [Cove Limited Edition Pack](/Items/con_181/) |
+  | 1 | **25%** | **1x** | [Cove Limited Edition Pack](/Items/con_183/) |
+  | 2 | **12%** | **2x** | [Cove Limited Edition Pack](/Items/con_183/) |
+  | 3 | **12%** | **3x** | [Cove Limited Edition Pack](/Items/con_183/) |
   | 4 | **12%** | **5x** |  **100%** [Regnan Pirates](/Items/unt_32/),  |
   | 5 | **12%** | **3x** |  **100%** [Regnan Pirates](/Items/unt_32/),  |
-  | 6 | **12%** | **5x** |  **100%** [Sea Elemental](/Items/unt_68/),  |
+  | 6 | **12%** | **5x** |  **100%** [Sea Elemental](/Items/unt_69/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Cove Limited Edition Pack](/Items/con_181/) |
+  | 1 | **55%** | **1x** | [Cove Limited Edition Pack](/Items/con_183/) |
   | 2 | **11%** | **5x** |  **100%** [Regnan Pirates](/Items/unt_32/),  |
   | 3 | **11%** | **3x** |  **100%** [Regnan Pirates](/Items/unt_32/),  |
-  | 4 | **11%** | **5x** |  **100%** [Sea Elemental](/Items/unt_68/),  |
+  | 4 | **11%** | **5x** |  **100%** [Sea Elemental](/Items/unt_69/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Cove Limited Edition Pack](/Items/con_181/)
+  **Drop by 10x spin: X** [Cove Limited Edition Pack](/Items/con_183/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  |  - | [Regnan Pirates](/Items/unt_32/), [Regnan Archer](/Items/unt_48/), [Sea Elemental](/Items/unt_68/), [Dragon Turtle](/Items/unt_90/), [Shark Trainer](/Items/unt_1/) |
+  |  - | [Regnan Pirates](/Items/unt_32/), [Regnan Archer](/Items/unt_49/), [Sea Elemental](/Items/unt_69/), [Dragon Turtle](/Items/unt_91/), [Shark Trainer](/Items/unt_1/) |
 
 
 

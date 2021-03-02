@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Sprite"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Sprite](/Items/unt_135/)
+ **Unit Soul:** [Sprite](/Items/unt_136/)
 
  **Short description:** Silences. improved initial spell
 
@@ -78,7 +78,7 @@ toc: true
 
  **Name:** [Knight Pike](/Exclusive/Sprite Knight Pike/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -165,7 +165,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

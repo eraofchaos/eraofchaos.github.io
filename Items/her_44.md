@@ -2,7 +2,7 @@
 title: "Item - Heroes - Water Mastery"
 permalink: /Items/her_44/
 excerpt: "Water Mastery"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_44.md"
 toc: false

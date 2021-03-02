@@ -2,7 +2,7 @@
 title: "Item - Heroes - Monere"
 permalink: /Items/her_34/
 excerpt: "Monere"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_34.md"
 toc: false

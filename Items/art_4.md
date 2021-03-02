@@ -2,7 +2,7 @@
 title: "Item - Artifacts - Bow of Elven Cherrywood"
 permalink: /Items/art_4/
 excerpt: "Bow of Elven Cherrywood"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "art_4.md"
 toc: false

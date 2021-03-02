@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Wood"
 permalink: /Items/mat_90/
 excerpt: "Good Wood"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_90.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Consumables - Sephinroth Avatar"
 permalink: /Items/con_12/
 excerpt: "Sephinroth Avatar"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_12.md"
 toc: false

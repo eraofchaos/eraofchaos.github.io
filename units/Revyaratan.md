@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Revyaratan"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Revyaratan](/Items/unt_128/)
+ **Unit Soul:** [Revyaratan](/Items/unt_129/)
 
  **Short description:** Deep sea Kraken. cannot revive
 
@@ -75,6 +75,12 @@ toc: true
   | [Tentacles of Temptation](/equipment/Tentacles of Temptation/) | **HP** | **DEF** | 
 
 ## Exclusive
+
+ **Name:** [Gloom Tides](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Item to Rank Up:** -
+
+ **Skin:** -
 
 
 ## Recommended Holy Emblems
@@ -171,7 +177,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

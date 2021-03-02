@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Medusa"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Medusa](/Items/unt_38/)
+ **Unit Soul:** [Medusa](/Items/unt_39/)
 
  **Unit description:** Stone Gaze: Petrifies enemies and decreases their unit's damage reduction
 
@@ -78,11 +78,11 @@ toc: true
 
 ## Exclusive
 
- **Name:** [Medusa's bow](/Exclusive/Medusa Medusa's bow/) 
+ **Name:** [Medusa's Bow](/Exclusive/Medusa Medusa's Bow/) 
 
- **Item to Rank Up:** [Medusa's Bow Token](/Items/con_101/)
+ **Item to Rank Up:** [Medusa's Bow Token](/Items/con_103/)
 
- **Skin:** [Medusa's Bow Special Skin](/Items/con_495/)
+ **Skin:** [Medusa's Bow Special Skin](/Items/con_499/)
 
 
 ## Recommended Holy Emblems
@@ -167,7 +167,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

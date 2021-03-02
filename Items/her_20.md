@@ -2,7 +2,7 @@
 title: "Item - Heroes - Lightning Bolt"
 permalink: /Items/her_20/
 excerpt: "Lightning Bolt"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_20.md"
 toc: false

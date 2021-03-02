@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Dark Troglodyte Soul Stone"
+title: "Item - Units - Behemoth"
 permalink: /Items/unt_77/
-excerpt: "Dark Troglodyte Soul Stone"
-last_modified_at: 2021-02-24
+excerpt: "Behemoth"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_77.md"
 toc: false
@@ -11,15 +11,16 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** A soul stone for Dark Troglodyte's Awakening level enhancement.
+ **Description:** Once you have gathered 80 soul tokens you can summon a Behemoth, an SSR aptitude unit.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 
-*    Plane Store 
+*    Altar of Recruitment 
+*    Barracks Redemption - Behemoth 
 
 ## This item contains:
 

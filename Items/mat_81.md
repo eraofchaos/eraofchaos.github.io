@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Ore"
 permalink: /Items/mat_81/
 excerpt: "Legendary Ore"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_81.md"
 toc: false

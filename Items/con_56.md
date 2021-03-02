@@ -2,7 +2,7 @@
 title: "Item - Consumables - Energy Core"
 permalink: /Items/con_56/
 excerpt: "Energy Core"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_56.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Spartan Warriors"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Spartan Warriors](/Items/unt_89/)
+ **Unit Soul:** [Spartan Warriors](/Items/unt_90/)
 
  **Short description:** Shield stuns. Death inspires.
 
@@ -148,7 +148,7 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* **Neutral**  (Neutral Roster)
+* **Neutral Unit**  (Neutral Roster)
 * **Offensive**  (Offensive Unit Roster)
 
 ### Hero Bonus
@@ -162,7 +162,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

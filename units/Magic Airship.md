@@ -3,7 +3,7 @@ title: "Magic Airship"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The huge round sail bolsters up the solid ship, making it fly over the clouds to enjoy the baptism of clear air."
 unitID: 608
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Magic Airship"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Magic Airship](/Items/unt_93/)
+ **Unit Soul:** [Magic Airship](/Items/unt_94/)
 
  **Short description:** buffs back-line DPS
 
@@ -76,9 +76,9 @@ toc: true
 
  **Name:** [Polaris](/Exclusive/Magic Airship Polaris/) 
 
- **Item to Rank Up:** [Polaris Token](/Items/con_865/)
+ **Item to Rank Up:** [Polaris Token](/Items/con_878/)
 
- **Skin:** [Polaris Special Skin](/Items/con_1374/)
+ **Skin:** [Polaris Special Skin](/Items/con_1393/)
 
 
 ## Recommended Holy Emblems
@@ -169,7 +169,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Item - Heroes - Mana Suppression"
 permalink: /Items/her_59/
 excerpt: "Mana Suppression"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_59.md"
 toc: false

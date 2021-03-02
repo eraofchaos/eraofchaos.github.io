@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Harpy Hag Soul Stone"
+title: "Item - Units - Cyclops"
 permalink: /Items/unt_99/
-excerpt: "Harpy Hag Soul Stone"
-last_modified_at: 2021-02-24
+excerpt: "Cyclops"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_99.md"
 toc: false
@@ -11,15 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Soul Stone for Harpy Hag's Awakening level enhancement.
+ **Description:** Once you have gathered 30 soul tokens you can summon a Cyclops, an SR aptitude unit.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
- **Type:** Awakening Soul
+ **Type:** Unit Soul
 
 ## Gather
 
-*    Kingdom Store 
+*    Underground 19 (Neutral Ground) -> 19-3 
+*    Underground 26 (Sound of Fate) -> 26-3 
+*    Altar of Recruitment 
+*    Barracks Redemption - Cyclops 
 
 ## This item contains:
 

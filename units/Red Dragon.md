@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Red Dragon"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Red Dragon](/Items/unt_112/)
+ **Unit Soul:** [Red Dragon](/Items/unt_113/)
 
  **Short description:** Dragon overlord with strong roar
 
@@ -73,6 +73,12 @@ toc: true
   | [Vehement Dragon Tail](/equipment/Vehement Dragon Tail/) | **HP** | **DEF** | 
 
 ## Exclusive
+
+ **Name:** [Annihilation](/Exclusive/Red Dragon Annihilation/) 
+
+ **Item to Rank Up:** -
+
+ **Skin:** -
 
 
 ## Recommended Holy Emblems
@@ -169,7 +175,7 @@ toc: true
 * unit Damage
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Naga"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Naga](/Items/unt_53/)
+ **Unit Soul:** [Naga](/Items/unt_54/)
 
  **Unit description:** Blade Dance: AoE damage and AoE DEF reduction
 
@@ -80,9 +80,9 @@ toc: true
 
  **Name:** [Naga Sword](/Exclusive/Naga Naga Sword/) 
 
- **Item to Rank Up:** [Naga Sword Token](/Items/con_94/)
+ **Item to Rank Up:** [Naga Sword Token](/Items/con_95/)
 
- **Skin:** [Naga Sword Special Skin](/Items/con_707/)
+ **Skin:** [Naga Sword Special Skin](/Items/con_718/)
 
 
 ## Recommended Holy Emblems
@@ -172,7 +172,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Hell Hound"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Hell Hound](/Items/unt_101/)
+ **Unit Soul:** [Hell Hound](/Items/unt_102/)
 
  **Unit description:** Rampage: Each hit is critical attack for a short period.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Knight Pike](/Exclusive/Hell Hound Knight Pike/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -170,7 +170,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

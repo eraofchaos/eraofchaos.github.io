@@ -2,7 +2,7 @@
 title: "LifeGuardian"
 permalink: /equipment/LifeGuardian/
 excerpt: "Era of Chaos LifeGuardian. LifeGuardian"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "LifeGuardian.md"
 toc: false

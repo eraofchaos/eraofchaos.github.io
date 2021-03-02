@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder - Titan's Gladius"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "Titan's Thunder - Titan's Gladius. A sword wielded by ancient Giant. One of the components of the Titan's Thunder."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Titan's Gladius.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 75x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Titan's Gladius](/Items/art_30/)
 

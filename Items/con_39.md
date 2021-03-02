@@ -2,7 +2,7 @@
 title: "Item - Consumables - Hero Leader Pack"
 permalink: /Items/con_39/
 excerpt: "Hero Leader Pack"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_39.md"
 toc: false

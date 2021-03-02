@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Unit Rank SSR"
 toc: false
@@ -16,11 +16,11 @@ classes: wide
   | 2 | [Behemoth](/units/Behemoth/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  Ancient Behemoth  |
   | 3 | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Shark Rider  |
   | 4 | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Death Howler  |
-  | 5 | [Leprechaun](/units/Leprechaun/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Sacred Tree Guardian Spirit  |
+  | 5 | [Leprechaun](/units/Leprechaun/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Master Leprechaun   |
   | 6 | [Regnan Archer](/units/Regnan Archer/) | Ranged | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 235.5 | 1245 |   -   |
   | 7 | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arch Devil  |
   | 8 | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Naga Queen  |
-  | 9 | [Dragon Turtle](/units/Dragon Turtle/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 9 | [Dragon Turtle](/units/Dragon Turtle/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Primal Dragon Turtle  |
   | 10 | [Giant](/units/Giant/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titan  |
   | 11 | [Paladin](/units/Paladin/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  Supreme Paladin  |
   | 12 | [Angel](/units/Angel/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Archangel  |

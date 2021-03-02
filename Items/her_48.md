@@ -2,7 +2,7 @@
 title: "Item - Heroes - Ryland"
 permalink: /Items/her_48/
 excerpt: "Ryland"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_48.md"
 toc: false

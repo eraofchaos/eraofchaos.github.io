@@ -2,7 +2,7 @@
 title: "SourceofPower"
 permalink: /equipment/SourceofPower/
 excerpt: "Era of Chaos SourceofPower. SourceofPower"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "SourceofPower.md"
 toc: false

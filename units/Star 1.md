@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Era of Chaos Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Star 1"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Master Archer  |
   | 7 | [Troglodyte](/units/Troglodyte/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Dark Troglodyte  |
   | 8 | [Centaur](/units/Centaur/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Centaur Captain  |
-  | 9 | [Gnoll](/units/Gnoll/) | Offense | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 9 | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Gnoll Warrior  |
   | 10 | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  Zealot  |
   | 11 | [Cavalier](/units/Cavalier/) | Charging | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
   | 12 | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Skeleton Warrior  |

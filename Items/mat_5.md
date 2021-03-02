@@ -2,7 +2,7 @@
 title: "Item - Materials - Epic Crystal"
 permalink: /Items/mat_5/
 excerpt: "Epic Crystal"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_5.md"
 toc: false

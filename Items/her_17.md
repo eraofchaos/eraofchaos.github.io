@@ -2,7 +2,7 @@
 title: "Item - Heroes - Well prepared"
 permalink: /Items/her_17/
 excerpt: "Well prepared"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_17.md"
 toc: false

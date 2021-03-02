@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Imp"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Imp](/Items/unt_62/)
+ **Unit Soul:** [Imp](/Items/unt_63/)
 
  **Unit description:** Impulse: Unit has a chance to revive with full health after death.
 
@@ -82,7 +82,7 @@ toc: true
 
  **Name:** [Iris Shield](/Exclusive/Imp Iris Shield/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -171,7 +171,7 @@ toc: true
 * Unit Dodge
 * Magic resistance
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

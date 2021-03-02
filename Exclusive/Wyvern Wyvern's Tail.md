@@ -2,7 +2,7 @@
 title: "Exclusive - Wyvern's Tail"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Wyvern's Tail. Wyvern's Tail. Era of Chaos Exclusive Wyvern's Tail. Wyvern Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Wyvern Wyvern's Tail.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Wyvern](/units/Wyvern/) 
 
- **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_1299/)
+ **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_1315/)
 
- **Skin:** [Wyvern's Tail Special Skin](/Items/con_1070/)
+ **Skin:** [Wyvern's Tail Special Skin](/Items/con_1085/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Wyvern's Tail Token](/Items/con_1299/) | <Plagued Soul> Each time a Wyvern dies, increases Unit DMG and Unit DMG Reduction of friendly Fortress units by 1% each. Stacks up to 15 times. Lasts for the whole battle. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Wyvern's Tail Token](/Items/con_1299/) | Increases Wyvern's Attack Speed by 20%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Wyvern's Tail Token](/Items/con_1299/) | Increases Wyvern's Unit DMG by 20%. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Wyvern's Tail Token](/Items/con_1299/) | <Plagued Heart> Each time a Wyvern enters battle, increases the Penetration of all friendly Fortress units by 20 and Crit DMG by 2%. Stacks up to 15 times. Lasts for the whole battle. Wyvern units summon 1 Wyvern every 15s. Summoned Wyverns have the <Plagued Soul> and <Plagued Heart> skills. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Wyvern's Tail Token](/Items/con_1299/) | Increases Wyvern's Unit DMG Reduction by 20%. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Wyvern's Tail Token](/Items/con_1299/) | Increases Wyvern's DEF by 20%. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Wyvern's Tail Token](/Items/con_1299/) | <Plagued Blood> Wyvern's normal attacks inflict target units with Toxic Blood for 30s. At the start of battle, applies the Toxic Blood effect to all enemy units once. When a Fortress unit kills an enemy unit inflicted with Toxic Blood, 1 Wyvern is summoned. Summoned Wyverns have the <Plagued Soul> and <Plagued Heart> skills. |
+  |  Initial  | **100x** [Wyvern's Tail Token](/Items/con_1315/) | <Plagued Soul> Each time a Wyvern dies, increases Unit DMG and Unit DMG Reduction of friendly Fortress units by 1% each. Stacks up to 15 times. Lasts for the whole battle. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Wyvern's Tail Token](/Items/con_1315/) | Increases Wyvern's Attack Speed by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Wyvern's Tail Token](/Items/con_1315/) | Increases Wyvern's Unit DMG by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Wyvern's Tail Token](/Items/con_1315/) | <Plagued Heart> Each time a Wyvern enters battle, increases the Penetration of all friendly Fortress units by 20 and Crit DMG by 2%. Stacks up to 15 times. Lasts for the whole battle. Wyvern units summon 1 Wyvern every 15s. Summoned Wyverns have the <Plagued Soul> and <Plagued Heart> skills. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Wyvern's Tail Token](/Items/con_1315/) | Increases Wyvern's Unit DMG Reduction by 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Wyvern's Tail Token](/Items/con_1315/) | Increases Wyvern's DEF by 20%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Wyvern's Tail Token](/Items/con_1315/) | <Plagued Blood> Wyvern's normal attacks inflict target units with Toxic Blood for 30s. At the start of battle, applies the Toxic Blood effect to all enemy units once. When a Fortress unit kills an enemy unit inflicted with Toxic Blood, 1 Wyvern is summoned. Summoned Wyverns have the <Plagued Soul> and <Plagued Heart> skills. |
 
 
 ## Level Up

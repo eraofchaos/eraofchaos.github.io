@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Behemoth"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Behemoth](/Items/unt_76/)
+ **Unit Soul:** [Behemoth](/Items/unt_77/)
 
  **Unit description:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Name:** [Bloodthirsty Spirit](/Exclusive/Behemoth Bloodthirsty Spirit/) 
 
- **Item to Rank Up:** [Bloodthirsty Spirit Token](/Items/con_375/)
+ **Item to Rank Up:** [Bloodthirsty Spirit Token](/Items/con_377/)
 
- **Skin:** [Bloodthirsty Spirit Special Skin](/Items/con_652/)
+ **Skin:** [Bloodthirsty Spirit Special Skin](/Items/con_662/)
 
 
 ## Recommended Holy Emblems
@@ -175,7 +175,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

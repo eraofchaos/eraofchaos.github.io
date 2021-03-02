@@ -3,7 +3,7 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Waspwort"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Waspwort](/Items/unt_49/)
+ **Unit Soul:** [Waspwort](/Items/unt_50/)
 
  **Short description:** DPS & control
 
@@ -73,6 +73,12 @@ toc: true
   | [Killer Bee](/equipment/Killer Bee/) | **HP** | **DEF** | 
 
 ## Exclusive
+
+ **Name:** [Waspwort Leaf](/Exclusive/Waspwort Waspwort Leaf/) 
+
+ **Item to Rank Up:** -
+
+ **Skin:** -
 
 
 ## Recommended Holy Emblems
@@ -165,7 +171,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Serpent Fly Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Serpent Fly Arcane Chant.md"
 toc: false
@@ -15,13 +15,13 @@ classes: wide
 
  **Exclusive for Unit:** [Serpent Fly](/units/Serpent Fly/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_122/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 
  **Skin:** -
 
  **Type:** Charge
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_122/) | When the target unit is downed, the Serpent Fly loses its mind, increasing its ATK speed by 100% for 20s |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_122/) | When attacking, the Serpent Fly has a 30% chance of making the target unit \"bleeding\" |
-  | **2x** <i class="fas fa-star"/> | **80x** [Arcane Chant Token](/Items/con_122/) | 15% increased life drain for Serpent Fly |
-  | **3x** <i class="fas fa-star"/> | **120x** [Arcane Chant Token](/Items/con_122/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] 1 time when its HP is lower than 30% for the first time |
-  | **4x** <i class="fas fa-star"/> | **150x** [Arcane Chant Token](/Items/con_122/) | Increases ATK by 20% and ATK speed 10% for the Serpent Fly |
-  | **5x** <i class="fas fa-star"/> | **230x** [Arcane Chant Token](/Items/con_122/) | Increases Serpent Fly's Crit DMG by 25% |
-  | **6x** <i class="fas fa-star"/> | **280x** [Arcane Chant Token](/Items/con_122/) | Summons 1 fly every 20s, lasting for 30s. |
+  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | When the target unit is downed, the Serpent Fly loses its mind, increasing its ATK speed by 100% for 20s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | When attacking, the Serpent Fly has a 30% chance of making the target unit \"bleeding\" |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Increases life drain by 15% for Serpent Fly |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] once when its HP is lower than 30% for the first time |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arcane Chant Token](/Items/con_124/) | Increases ATK by 20% and ATK speed 10% for the Serpent Fly |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arcane Chant Token](/Items/con_124/) | Increases Serpent Fly's Crit DMG by 25% |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arcane Chant Token](/Items/con_124/) | Summons 1 fly every 20s, lasting for 30s. |
 
 
 ## Level Up

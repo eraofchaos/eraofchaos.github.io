@@ -2,7 +2,7 @@
 title: "Item - Heroes - Mullich"
 permalink: /Items/her_49/
 excerpt: "Mullich"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_49.md"
 toc: false

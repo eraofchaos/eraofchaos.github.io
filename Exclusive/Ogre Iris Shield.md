@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Ogre Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Ogre Iris Shield.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Ogre](/units/Ogre/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_153/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_153/) | Summons a sacrifice circle every 30s, causing damage equal to 1.5% of Max HP to the hostile units in the circle and restoring HP equal to 5% of ATK for friendly units in the circle for 15s |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_153/) | Ogre unit's damage reduction is increased by 20% |
-  | **2x** <i class="fas fa-star"/> | **80x** [Iris Shield Token](/Items/con_153/) | When the Ogre rampages, it increases unit's damage for all friendly units by 10% |
-  | **3x** <i class="fas fa-star"/> | **120x** [Iris Shield Token](/Items/con_153/) | When the Ogre is deployed, it increases all friendly Stronghold units' ATK speed by 10%. Increases its own DEF by 10% |
-  | **4x** <i class="fas fa-star"/> | **150x** [Iris Shield Token](/Items/con_153/) | Ogre's tenacity increased by 500 |
-  | **5x** <i class="fas fa-star"/> | **230x** [Iris Shield Token](/Items/con_153/) | When the Ogre is deployed, it decreases DEF of all hostile units by 10% at the cost of 100% Magic resistance |
-  | **6x** <i class="fas fa-star"/> | **280x** [Iris Shield Token](/Items/con_153/) | For each Defensive unit deployed, increases Ogre DEF by 5%. For each Stronghold unit deployed, increases Ogre HP by 1000 |
+  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | Summons a sacrifice circle every 30s, causing damage equal to 1.5% of Max HP to the hostile units in the circle and restoring HP equal to 5% of ATK for friendly units in the circle for 15s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Ogre unit's damage reduction is increased by 20% |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | When the Ogre rampages, it increases unit's damage for all friendly units by 10% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | When the Ogre is deployed, it increases all friendly Stronghold units' ATK speed by 10%. Increases its own DEF by 10% |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Ogre's tenacity increased by 500 |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | When the Ogre is deployed, it decreases DEF of all hostile units by 10% at the cost of 100% Magic resistance |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | For each Defensive unit deployed, increases Ogre DEF by 5%. For each Stronghold unit deployed, increases Ogre HP by 1000 |
 
 
 ## Level Up

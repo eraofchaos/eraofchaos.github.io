@@ -2,7 +2,7 @@
 title: "Item - Heroes - Meteor Shower"
 permalink: /Items/her_7/
 excerpt: "Meteor Shower"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_7.md"
 toc: false

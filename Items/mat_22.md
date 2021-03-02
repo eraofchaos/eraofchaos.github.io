@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Mercury"
 permalink: /Items/mat_22/
 excerpt: "Secret Mercury"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_22.md"
 toc: false

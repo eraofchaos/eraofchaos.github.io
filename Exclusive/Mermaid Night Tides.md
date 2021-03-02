@@ -2,7 +2,7 @@
 title: "Exclusive - Night Tides"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Era of Chaos Night Tides. Night Tides. Era of Chaos Exclusive Night Tides. Mermaid Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Mermaid Night Tides.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Mermaid](/units/Mermaid/) 
 
- **Item to Rank Up:** [Night Tides Token](/Items/con_315/)
+ **Item to Rank Up:** [Night Tides Token](/Items/con_317/)
 
- **Skin:** [Night Tides Special Skin](/Items/con_766/)
+ **Skin:** [Night Tides Special Skin](/Items/con_778/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Night Tides Token](/Items/con_315/) | <Guardian's Ode> When Mermaid takes damage exceeding 30% of own Max HP in a single attack, they gain a Bubble equal to 25% of own Max HP and increases DEF by 400 for 15s. CD is 10s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Night Tides Token](/Items/con_315/) | Increases Mermaid's ATK and Attack Speed by 20% each. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Night Tides Token](/Items/con_315/) | <Song of Aid> Mermaid increases the Unit DMG of random a friendly Ranged/Caster unit by 25% and grants themselves a Bubble equal to 20% of own Max HP for 10s. CD is 20s. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Night Tides Token](/Items/con_315/) | <Siren's Song> Mermaid sings the Siren's Song, inflicting Sleep on 2 random enemy units for 5s. Also restores HP equal to 60% of the Mermaids' ATK to friendly back row units every second for 10s. CD is 24s. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Night Tides Token](/Items/con_315/) | Increases Mermaid's Unit DMG Reduction by 25%. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Night Tides Token](/Items/con_315/) | Each time Mermaid gains a Bubble, increases Attack Speed and Unit DMG Reduction by 3% each for 8s. Stacks up to 10 times. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Night Tides Token](/Items/con_315/) | <Song of the Night Tide> Mermaid moves with the tides, increasing its healing by 50% and Attack Speed by 30% for 9s. Bestows the force of the tides upon random friendly units, increasing their Unit DMG by 30%, Attack Speed by 20%, and Critical Hit by 200 or Unit DMG Reduction by 30%, DEF by 20%, and Tenacity by 200 for 6s. CD is 35s. |
+  |  Initial  | **100x** [Night Tides Token](/Items/con_317/) | <Guardian's Ode> When Mermaid takes damage exceeding 30% of own Max HP in a single attack, they gain a Bubble equal to 25% of own Max HP and increases DEF by 400 for 15s. CD is 10s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Night Tides Token](/Items/con_317/) | Increases Mermaid's ATK and Attack Speed by 20% each. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Night Tides Token](/Items/con_317/) | <Song of Aid> Mermaid increases the Unit DMG of random a friendly Ranged/Caster unit by 25% and grants themselves a Bubble equal to 20% of own Max HP for 10s. CD is 20s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Night Tides Token](/Items/con_317/) | <Siren's Song> Mermaid sings the Siren's Song, inflicting Sleep on 2 random enemy units for 5s. Also restores HP equal to 60% of the Mermaids' ATK to friendly back row units every second for 10s. CD is 24s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Night Tides Token](/Items/con_317/) | Increases Mermaid's Unit DMG Reduction by 25%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Night Tides Token](/Items/con_317/) | Each time Mermaid gains a Bubble, increases Attack Speed and Unit DMG Reduction by 3% each for 8s. Stacks up to 10 times. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Night Tides Token](/Items/con_317/) | <Song of the Night Tide> Mermaid moves with the tides, increasing its healing by 50% and Attack Speed by 30% for 9s. Bestows the force of the tides upon random friendly units, increasing their Unit DMG by 30%, Attack Speed by 20%, and Critical Hit by 200 or Unit DMG Reduction by 30%, DEF by 20%, and Tenacity by 200 for 6s. CD is 35s. |
 
 
 ## Level Up

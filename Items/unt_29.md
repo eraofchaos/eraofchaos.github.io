@@ -2,7 +2,7 @@
 title: "Item - Units - Dendroid Soldier Soul Stone"
 permalink: /Items/unt_29/
 excerpt: "Dendroid Soldier Soul Stone"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_29.md"
 toc: false

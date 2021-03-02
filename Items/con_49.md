@@ -2,7 +2,7 @@
 title: "Item - Consumables - Luck Card"
 permalink: /Items/con_49/
 excerpt: "Luck Card"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_49.md"
 toc: false

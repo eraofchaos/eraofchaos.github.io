@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables - Lunar Invitation Gem Offer"
+title: "Item - Consumables - V18 Premium Package"
 permalink: /Items/con_97/
-excerpt: "Lunar Invitation Gem Offer"
-last_modified_at: 2021-02-24
+excerpt: "V18 Premium Package"
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_97.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Grants 6,480 diamonds, 1 Lunar Invitation Gem skin, 40 Gem Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls.
+ **Description:** A premium pack for those of VIP 18 and above. It contains lots of rare cultivation resources: Black Knight Exclusive Weapon Tokens, Orange quality artifact pack and Dragon Blood Crystals
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -29,8 +29,9 @@ classes: wide
 
   | Nr | Amount |     Item    | Description |
   |:---|:-------|:------------|:-----------:|
-  | 1 |  **6480x** | <i class="fas fa-gem"/> |  | 
-  | 2 |  **1x** | Moonlight Invitation - Gem | Use to get Gem's Moonlight Invitation skin  | 
-  | 3 |  **40x** | Gem | Collect 30 tokens to summon Gem to join your party. Tokens are also required to increase her rank.  | 
-  | 4 |  **5x** | Universal Hero Tokens | Gathering wondrous magic, these tokens can be used to increase the rank of any hero.  | 
-  | 5 |  **15x** | Ancient Temple Scroll | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free.  | 
+  | 1 |  **510x** | Nether Sabre Token | A Nether Sabre token from an ancient campaign that can be used for awakening Black Knight's general exclusive potential - Nether Sabre  | 
+  | 2 |  **3x** | Premium Component Pack | Choose to get one of the following: Power of the Dragon Father Accessory*1, Sword of Frost Accessory*1, Angelic Alliance Accessory*1, Armageddon's Blade*1  | 
+  | 3 | AVATARFRAME1080 | 
+  | 4 |  **4000x** | Dragon Blood Crystal | A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks  | 
+  | 5 |  **1500x** | Refinement Stone | A condensed refinement stone with weapon essence, used for forging powerful exclusive items, obtained by fighting in Glory Arena  | 
+  | 6 |  **200000x** | Unit EXP | Leveling up your units consumes unit experience.  | 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "Era of Chaos Exclusive Fortress. Exclusive Fortress. List of Exclusive Fortress in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Exclusive Fortress"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Gnoll](/units/Gnoll/) | [Sword](/Exclusive/Gnoll Sword/) | - | Charge | [Sword Token](/Items/con_163/) | - |
-  | 2  | [Lizardman](/units/Lizardman/) | [Long Bow](/Exclusive/Lizardman Long Bow/) | - | Charge | [Long Bow Token](/Items/con_134/) | - |
-  | 3  | [Serpent Fly](/units/Serpent Fly/) | [Arcane Chant](/Exclusive/Serpent Fly Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_122/) | - |
-  | 4  | [Basilisk](/units/Basilisk/) | [Basilisk's Tail](/Exclusive/Basilisk Basilisk's Tail/) | - | Ranged | [Basilisk's Tail Token](/Items/con_869/) | [Fire Energy Special Skin](/Items/con_1047/) |
-  | 5  | [Gorgon](/units/Gorgon/) | [Gorgon's Horn](/Exclusive/Gorgon Gorgon's Horn/) | - | Support | [Gorgon's Horn Token](/Items/con_1209/) | [Gorgon's Horn Special Skin](/Items/con_16/) |
-  | 6  | [Wyvern](/units/Wyvern/) | [Wyvern's Tail](/Exclusive/Wyvern Wyvern's Tail/) | - | Ranged | [Wyvern's Tail Token](/Items/con_1299/) | [Wyvern's Tail Special Skin](/Items/con_1070/) |
-  | 7  | [Hydra](/units/Hydra/) | [Hydra's Head](/Exclusive/Hydra Hydra's Head/) | - | Support | [Hydra's Head Token](/Items/con_176/) | [Energy Core Special Skin](/Items/con_769/) |
-  | 8  | [Waspwort](/units/Waspwort/) | - | - | - | none | none |
+  | 1  | [Gnoll](/units/Gnoll/) | [Sword](/Exclusive/Gnoll Sword/) | - | Charge | [Sword Token](/Items/con_165/) | - |
+  | 2  | [Lizardman](/units/Lizardman/) | [Long Bow](/Exclusive/Lizardman Long Bow/) | - | Charge | [Long Bow Token](/Items/con_136/) | - |
+  | 3  | [Serpent Fly](/units/Serpent Fly/) | [Arcane Chant](/Exclusive/Serpent Fly Arcane Chant/) | + | Charge | [Arcane Chant Token](/Items/con_124/) | - |
+  | 4  | [Basilisk](/units/Basilisk/) | [Basilisk's Tail](/Exclusive/Basilisk Basilisk's Tail/) | - | Ranged | [Basilisk's Tail Token](/Items/con_883/) | [Fire Energy Special Skin](/Items/con_1062/) |
+  | 5  | [Gorgon](/units/Gorgon/) | [Gorgon's Horn](/Exclusive/Gorgon Gorgon's Horn/) | - | Support | [Gorgon's Horn Token](/Items/con_1225/) | [Gorgon's Horn Special Skin](/Items/con_16/) |
+  | 6  | [Wyvern](/units/Wyvern/) | [Wyvern's Tail](/Exclusive/Wyvern Wyvern's Tail/) | - | Ranged | [Wyvern's Tail Token](/Items/con_1315/) | [Wyvern's Tail Special Skin](/Items/con_1085/) |
+  | 7  | [Hydra](/units/Hydra/) | [Hydra's Head](/Exclusive/Hydra Hydra's Head/) | - | Support | [Hydra's Head Token](/Items/con_178/) | [Energy Core Special Skin](/Items/con_781/) |
+  | 8  | [Waspwort](/units/Waspwort/) | [Waspwort Leaf](/Exclusive/Waspwort Waspwort Leaf/) | - | Ranged | - | - |
   | 9  | [White Tiger](/units/White Tiger/) | - | - | - | none | none |

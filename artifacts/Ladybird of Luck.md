@@ -2,7 +2,7 @@
 title: "Artifacts - Lucky Horseshoe - Ladybird of Luck"
 permalink: /artifacts/Ladybird of Luck/
 excerpt: "Lucky Horseshoe - Ladybird of Luck. A glowing bird statue. One of the components of the Lucky Horseshoe."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Ladybird of Luck.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Lucky Horseshoe](/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 1x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Ladybird of Luck](/Items/art_46/)
 

@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Gorgon"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Gorgon](/Items/unt_116/)
+ **Unit Soul:** [Gorgon](/Items/unt_117/)
 
  **Short description:** High attack. Enduring. Powerful control
 
@@ -78,7 +78,7 @@ toc: true
 
  **Name:** [Gorgon's Horn](/Exclusive/Gorgon Gorgon's Horn/) 
 
- **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_1209/)
+ **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_1225/)
 
  **Skin:** [Gorgon's Horn Special Skin](/Items/con_16/)
 
@@ -181,7 +181,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

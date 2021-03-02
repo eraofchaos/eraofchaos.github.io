@@ -2,7 +2,7 @@
 title: "Era of Chaos - Healing Sea - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "Era of Chaos Healing Sea. List of ALL Healing Sea questions with correct answers"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "healingSea"
 toc: false
@@ -26,7 +26,7 @@ classes: wide
 
  -  An unremarkable small token. Who knows if it will be useful... (reward one from below)
 
-    1.  **500x Soul Stone** (Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store) 
+    1.  **500x Soul Stone ** (Soul Stone, obtained by dismantling Holy Emblems and used for purchasing items in the Emblem Store) 
 
     2.  **3x Purple Crystal** (A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used.) 
 
@@ -51,7 +51,7 @@ classes: wide
 
 ##### 1. In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf? 
 
-   **Title:**  A challenge between close friends.
+   **Title:** A challenge between close friends.
 
    **Question:** In an epic battle, who kills more Orcs? The Dwarf or the Wood Elf?
 
@@ -65,7 +65,7 @@ classes: wide
 
 ##### 2. To spread the fire or extinguish the fire, _________. 
 
-   **Title:**  To spread the fire or extinguish the fire.
+   **Title:** To spread the fire or extinguish the fire.
 
    **Question:** To spread the fire or extinguish the fire, _________.
 
@@ -93,7 +93,7 @@ classes: wide
 
 ##### 4. Do you want to build a Snowman? 
 
-   **Title:**  Snowman
+   **Title:** Snowman
 
    **Question:** Do you want to build a Snowman?
 
@@ -107,7 +107,7 @@ classes: wide
 
 ##### 5. The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins? 
 
-   **Title:**  Push-ups
+   **Title:** Push-ups
 
    **Question:** The Centaur goes head to head with the Minotaur in a push-up contest. Who do you think wins?
 
@@ -121,7 +121,7 @@ classes: wide
 
 ##### 6. Who looks more likely to interrupt an adventurer's adventure? 
 
-   **Title:**  Old Adventurer
+   **Title:** Old Adventurer
 
    **Question:** Who looks more likely to interrupt an adventurer's adventure?
 
@@ -135,7 +135,7 @@ classes: wide
 
 ##### 7. Who died and then destroyed the ice wall? 
 
-   **Title:**  Undead King's Necromancy
+   **Title:** Undead King's Necromancy
 
    **Question:** Who died and then destroyed the ice wall?
 
@@ -149,7 +149,7 @@ classes: wide
 
 ##### 8. Courage, faith, and________! 
 
-   **Title:**  Slogan
+   **Title:** Slogan
 
    **Question:** Courage, faith, and________!
 
@@ -163,7 +163,7 @@ classes: wide
 
 ##### 9. The Inferno is empty and all the ________ are here. 
 
-   **Title:**  Angels and Demons
+   **Title:** Angels and Demons
 
    **Question:** The Inferno is empty and all the ________ are here.
 
@@ -177,7 +177,7 @@ classes: wide
 
 ##### 10. Fool me once, shame on you. Fool me twice, _______. 
 
-   **Title:**  Fool me once
+   **Title:** Fool me once
 
    **Question:** Fool me once, shame on you. Fool me twice, _______.
 

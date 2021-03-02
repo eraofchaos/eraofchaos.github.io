@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Angel"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Angel](/Items/unt_105/)
+ **Unit Soul:** [Angel](/Items/unt_106/)
 
  **Unit description:** Condemnation: Deals colossal damage to 3 units and stuns them.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Name:** [Durandel](/Exclusive/Angel Durandel/) 
 
- **Item to Rank Up:** [Durandel Token](/Items/con_1313/)
+ **Item to Rank Up:** [Durandel Token](/Items/con_1329/)
 
- **Skin:** [Durandel Special Skin](/Items/con_736/)
+ **Skin:** [Durandel Special Skin](/Items/con_747/)
 
 
 ## Recommended Holy Emblems
@@ -168,7 +168,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking
@@ -194,7 +194,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Condemnation&gt;</span><span style="color: #645252;font-size:18px">Causes a special increase of unit's damage reduction by 10% for 3 random friendly units, lasts throughout the battle</span>
 
 ### 2nd Skill (or 1st): Come Again
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Condemnation&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 15% of their Max HP for all friendly units  </span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Condemnation&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 15% of his Max HP for the unit with the lowest HP percentage  </span>
 
 ### 3rd Skill (or 4th): Salvation
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Resurrection&gt;</span><span style="color: #645252;font-size:18px">Makes friendly units immune to all damage for 6s. Angel is immune to &lt;silence&gt;</span>

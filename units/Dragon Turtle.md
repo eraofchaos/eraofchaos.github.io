@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Dragon Turtle"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Dragon Turtle](/Items/unt_90/)
+ **Unit Soul:** [Dragon Turtle](/Items/unt_91/)
 
  **Short description:** Tank. Regens HP
 
@@ -78,9 +78,9 @@ toc: true
 
  **Name:** [Obedience](/Exclusive/Dragon Turtle Obedience/) 
 
- **Item to Rank Up:** [Obedience Token](/Items/con_602/)
+ **Item to Rank Up:** [Obedience Token](/Items/con_610/)
 
- **Skin:** [Obedience Special Skin](/Items/con_1133/)
+ **Skin:** [Obedience Special Skin](/Items/con_1149/)
 
 
 ## Recommended Holy Emblems
@@ -164,14 +164,14 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Primal Dragon Turtle
 
  **Awaking Description:** 
 

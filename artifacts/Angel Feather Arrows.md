@@ -2,7 +2,7 @@
 title: "Artifacts - Bow of the Sharpshooter - Angel Feather Arrows"
 permalink: /artifacts/Angel Feather Arrows/
 excerpt: "Bow of the Sharpshooter - Angel Feather Arrows. A magic arrow made by elves. One of the components of the Bow of the Sharpshooter."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Angel Feather Arrows.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Bow of the Sharpshooter](/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Angel Feather Arrows](/Items/art_32/)
 

@@ -2,7 +2,7 @@
 title: "Artifacts Component Upgrade Costs"
 permalink: /artifacts/Artifact Component Upgrade/
 excerpt: "Artifact component upgrade cost. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Artifact Component Upgrade.md"
 toc: false

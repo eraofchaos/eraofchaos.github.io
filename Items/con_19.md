@@ -2,7 +2,7 @@
 title: "Item - Consumables - Royal Medal"
 permalink: /Items/con_19/
 excerpt: "Royal Medal"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_19.md"
 toc: false

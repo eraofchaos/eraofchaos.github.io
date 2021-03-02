@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Imp"
+title: "Item - Units - Swordsman"
 permalink: /Items/unt_62/
-excerpt: "Imp"
-last_modified_at: 2021-02-24
+excerpt: "Swordsman"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_62.md"
 toc: false
@@ -11,18 +11,19 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 10 soul tokens you can summon an Imp, an R aptitude unit.
+ **Description:** Once you have gathered 30 soul tokens you can summon a Swordsman, an SR aptitude unit.
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Unit Soul
 
 ## Gather
 
-*    Underground 9 (Greed) -> 9-1 
-*    Underground 10 (Gryphonheart) -> 10-1 
+*    Underground 2 (Guardian Angel) -> 2-5 
+*    Underground 4 (A Devilish Plan) -> 4-5 
+*    Arena Store 
 *    Altar of Recruitment 
-*    Barracks Redemption - Imp 
+*    Barracks Redemption - Swordsmen 
 
 ## This item contains:
 

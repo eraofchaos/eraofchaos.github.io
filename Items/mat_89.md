@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Gems"
 permalink: /Items/mat_89/
 excerpt: "Star Gems"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_89.md"
 toc: false

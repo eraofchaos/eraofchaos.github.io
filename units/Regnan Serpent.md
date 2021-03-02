@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Regnan Serpent"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Regnan Serpent](/Items/unt_88/)
+ **Unit Soul:** [Regnan Serpent](/Items/unt_89/)
 
  **Unit description:** Deep-sea Stomp: AoE control, deters enemies and reduces Crit Hits
 
@@ -80,9 +80,9 @@ toc: true
 
  **Name:** [Day Tides](/Exclusive/Regnan Serpent Day Tides/) 
 
- **Item to Rank Up:** [Day Tides Token](/Items/con_1387/)
+ **Item to Rank Up:** [Day Tides Token](/Items/con_1406/)
 
- **Skin:** [Day Tides Special Skin](/Items/con_460/)
+ **Skin:** [Day Tides Special Skin](/Items/con_463/)
 
 
 ## Recommended Holy Emblems
@@ -182,7 +182,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

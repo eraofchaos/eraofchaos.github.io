@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Storm Elemental"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Storm Elemental](/Items/unt_114/)
+ **Unit Soul:** [Storm Elemental](/Items/unt_115/)
 
  **Short description:** Marks for high single-target damage.
 
@@ -77,7 +77,7 @@ toc: true
 
  **Name:** [Long Bow](/Exclusive/Storm Elemental Long Bow/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
  **Skin:** -
 
@@ -168,7 +168,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

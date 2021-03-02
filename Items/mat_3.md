@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Mercury"
 permalink: /Items/mat_3/
 excerpt: "Legendary Mercury"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_3.md"
 toc: false

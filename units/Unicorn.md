@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Unicorn"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Unicorn](/Items/unt_144/)
+ **Unit Soul:** [Unicorn](/Items/unt_145/)
 
  **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Name:** [Knight Pike](/Exclusive/Unicorn Knight Pike/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -167,7 +167,7 @@ toc: true
 * Unit Dodge
 * unit DMG Reduction
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

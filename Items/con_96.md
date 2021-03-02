@@ -1,8 +1,8 @@
 ---
-title: "Item - Consumables - Energy"
+title: "Item - Consumables - Divine Water"
 permalink: /Items/con_96/
-excerpt: "Energy"
-last_modified_at: 2021-02-24
+excerpt: "Divine Water"
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_96.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Energy will be consumed when you play in story mode or Underground mode.
+ **Description:** A resource produced in the Sacred Statue Trial. Can be used to purchase items in the Store.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unknown
+ **Type:** Other
 
 ## Gather
 

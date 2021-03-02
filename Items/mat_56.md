@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Crystal"
 permalink: /Items/mat_56/
 excerpt: "Superior Crystal"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_56.md"
 toc: false

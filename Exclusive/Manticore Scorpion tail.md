@@ -1,27 +1,27 @@
 ---
-title: "Exclusive - Scorpion tail"
-permalink: /Exclusive/Manticore Scorpion tail/
-excerpt: "Era of Chaos Scorpion tail. Scorpion tail. Era of Chaos Exclusive Scorpion tail. Manticore Exclusive."
-last_modified_at: 2021-03-01
+title: "Exclusive - Scorpion Tail"
+permalink: /Exclusive/Manticore Scorpion Tail/
+excerpt: "Era of Chaos Scorpion Tail. Scorpion Tail. Era of Chaos Exclusive Scorpion Tail. Manticore Exclusive."
+last_modified_at: 2021-03-02
 locale: en
-ref: "Manticore Scorpion tail.md"
+ref: "Manticore Scorpion Tail.md"
 toc: false
 classes: wide
 ---
  [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortress](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rampart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castle](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tower](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Stronghold](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cove](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutral Army](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Scorpion tail** 
+ **Name: Scorpion Tail** 
 
  **Exclusive for Unit:** [Manticore](/units/Manticore/) 
 
- **Item to Rank Up:** [Scorpion Tail Token](/Items/con_873/)
+ **Item to Rank Up:** [Scorpion Tail Token](/Items/con_887/)
 
- **Skin:** [Scorpion Tail Special Skin](/Items/con_1179/)
+ **Skin:** [Scorpion Tail Special Skin](/Items/con_1195/)
 
  **Type:** Ranged
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1660
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Scorpion Tail Token](/Items/con_873/) | <Scorpion Raid> Manticore launches a 3-stage damage attack on a target unit every 20s, causing 100%, 125%, and 150% damage respectively and applying \"scorpion venom\" on the target. At the same time, the target unit's tenacity and dodge will be decreased by 200 for 5s |
-  | **1x** <i class="fas fa-star"/> | **50x** [Scorpion Tail Token](/Items/con_873/) | Manticore's unit's damage increased by 25% |
-  | **2x** <i class="fas fa-star"/> | **80x** [Scorpion Tail Token](/Items/con_873/) | Manticore's unit's damage reduction is increased by 20% |
-  | **3x** <i class="fas fa-star"/> | **120x** [Scorpion Tail Token](/Items/con_873/) | Manticore's Crit Hit increased by 300. Each normal attack causes damage equal to 50% of its ATK when fighting against \"bleeding\" targets |
-  | **4x** <i class="fas fa-star"/> | **150x** [Scorpion Tail Token](/Items/con_873/) | Increases Manticore's ATK by 20% and ATK speed by 10% |
-  | **5x** <i class="fas fa-star"/> | **230x** [Scorpion Tail Token](/Items/con_873/) | Manticore's life drain increased by 15% |
-  | **6x** <i class="fas fa-star"/> | **280x** [Scorpion Tail Token](/Items/con_873/) | <Poison Burst> When the Manticore hits a \"poisoned\" target, the poison inside the target is detonated, reducing healing of the current unit by 20% for 5s. It has a 50% chance to silence units within a small range for 3s. It has a 30% chance to reduce damage reduction of the unit by 20%, lasting for 5s. It has a 20% chance to cause damage equal to 500% of its ATK. The four above effects can be effective at the same time. This skill can be triggered once every 10s |
+  |  Initial  | **100x** [Scorpion Tail Token](/Items/con_887/) | <Scorpion Raid> Manticore launches a 3-stage damage attack on a target unit every 20s, causing 100%, 125%, and 150% damage respectively and applying \"scorpion venom\" on the target. At the same time, the target unit's tenacity and dodge will be decreased by 200 for 5s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Scorpion Tail Token](/Items/con_887/) | Manticore's unit's damage increased by 25% |
+  | **2x** <i class="fas fa-star"/> | **90x** [Scorpion Tail Token](/Items/con_887/) | Manticore's unit's damage reduction is increased by 20% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Scorpion Tail Token](/Items/con_887/) | Manticore's Crit Hit increased by 300. Each normal attack causes additional damage equal to 50% of its ATK when fighting against \"bleeding\" targets |
+  | **4x** <i class="fas fa-star"/> | **170x** [Scorpion Tail Token](/Items/con_887/) | Increases Manticore's ATK by 20% and ATK speed by 10% |
+  | **5x** <i class="fas fa-star"/> | **210x** [Scorpion Tail Token](/Items/con_887/) | Manticore's life drain increased by 15% |
+  | **6x** <i class="fas fa-star"/> | **250x** [Scorpion Tail Token](/Items/con_887/) | <Poison Burst> When the Manticore hits a \"poisoned\" target, the poison inside the target is detonated, reducing healing of the current unit by 20% for 5s. It has a 50% chance to silence units within a small range for 3s. It has a 30% chance to reduce damage reduction of the unit by 20%, lasting for 5s. It has a 20% chance to cause damage equal to 500% of its ATK. The four above effects can be effective at the same time. This skill can be triggered once every 10s |
 
 
 ## Level Up

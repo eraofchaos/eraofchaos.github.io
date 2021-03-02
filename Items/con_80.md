@@ -2,7 +2,7 @@
 title: "Item - Consumables - V15 Premium Package"
 permalink: /Items/con_80/
 excerpt: "V15 Premium Package"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_80.md"
 toc: false

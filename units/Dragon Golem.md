@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Dragon Golem"
 toc: true
@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Dragon Golem](/Items/unt_70/)
+ **Unit Soul:** [Dragon Golem](/Items/unt_71/)
 
  **Short description:** Ultimate defense.
 
@@ -173,7 +173,7 @@ toc: true
 * unit DMG Reduction
 * Magic resistance
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

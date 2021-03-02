@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Black Dragon"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Black Dragon](/Items/unt_129/)
+ **Unit Soul:** [Black Dragon](/Items/unt_130/)
 
  **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
 
@@ -80,9 +80,9 @@ toc: true
 
  **Name:** [Black Dragon's Scale](/Exclusive/Black Dragon Black Dragon's Scale/) 
 
- **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1215/)
+ **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1231/)
 
- **Skin:** [Black Dragon's Scale Special Skin](/Items/con_604/)
+ **Skin:** [Black Dragon's Scale Special Skin](/Items/con_612/)
 
 
 ## Recommended Holy Emblems
@@ -169,7 +169,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

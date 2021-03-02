@@ -2,7 +2,7 @@
 title: "Item - Consumables - Star Soul"
 permalink: /Items/con_22/
 excerpt: "Star Soul"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_22.md"
 toc: false

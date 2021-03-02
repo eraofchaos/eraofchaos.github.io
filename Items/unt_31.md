@@ -2,7 +2,7 @@
 title: "Item - Units - Supreme Paladin Soul Stone"
 permalink: /Items/unt_31/
 excerpt: "Supreme Paladin Soul Stone"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_31.md"
 toc: false

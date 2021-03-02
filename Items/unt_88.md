@@ -1,8 +1,8 @@
 ---
-title: "Item - Units - Regnan Serpent"
+title: "Item - Units - Archdruid Soul Stone"
 permalink: /Items/unt_88/
-excerpt: "Regnan Serpent"
-last_modified_at: 2021-02-24
+excerpt: "Archdruid Soul Stone"
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_88.md"
 toc: false
@@ -11,15 +11,15 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Once you have gathered 80 soul tokens you can summon a Regnan Serpent. Tokens can also be used to upgrade or increase the rank of Regnan Serpents.
+ **Description:** Soul Stone for Archdruid's Awakening level enhancement.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
- **Type:** Unit Soul
+ **Type:** Awakening Soul
 
 ## Gather
 
-*    Barracks Redemption - Unicorn King 
+  None
 
 ## This item contains:
 

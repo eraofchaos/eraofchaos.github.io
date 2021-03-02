@@ -2,7 +2,7 @@
 title: "Item - Heroes - Lava Trap"
 permalink: /Items/her_46/
 excerpt: "Lava Trap"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "her_46.md"
 toc: false

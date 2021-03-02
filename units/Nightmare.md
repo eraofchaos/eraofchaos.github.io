@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Nightmare"
 toc: true
@@ -76,7 +76,7 @@ toc: true
 
  **Name:** [](/Exclusive/Nightmare /) 
 
- **Item to Rank Up:** [Nightmare's Eye Token](/Items/con_113/)
+ **Item to Rank Up:** [Nightmare's Eye Token](/Items/con_115/)
 
  **Skin:** -
 
@@ -164,7 +164,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_458/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
 
 
 ## Awaking

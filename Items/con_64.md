@@ -2,7 +2,7 @@
 title: "Item - Consumables - Premium Energy Pack"
 permalink: /Items/con_64/
 excerpt: "Premium Energy Pack"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_64.md"
 toc: false

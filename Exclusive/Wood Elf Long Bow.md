@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Wood Elf Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Wood Elf Long Bow.md"
 toc: false
@@ -15,13 +15,13 @@ classes: wide
 
  **Exclusive for Unit:** [Wood Elf](/units/Wood Elf/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
  **Skin:** -
 
  **Type:** Charge
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1510
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_134/) | <Arrow Storm> Wood Elf's normal attacks have a 3% chance to trigger <Arrow Storm>, unleashing a barrage of arrows on the target area that deal damage to the target area equal to 20% of Wood Elf's ATK every 0.5s for 3s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_134/) | Increases Wood Elf's Unit DMG by 20%. |
-  | **2x** <i class="fas fa-star"/> | **80x** [Long Bow Token](/Items/con_134/) | Increases Wood Elf's ATK by 20% and Attack Speed by 10%. |
-  | **3x** <i class="fas fa-star"/> | **120x** [Long Bow Token](/Items/con_134/) | <Arrow Storm>'s trigger rate is increased to 200% of the original skill, and it has a 50% chance to Slow enemies, decreasing their Attack Speed by 10%. Lasts 5s. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Long Bow Token](/Items/con_134/) | Increases Wood Elf's Unit DMG Reduction by 4% each time a Rampart unit is deployed. |
-  | **5x** <i class="fas fa-star"/> | **230x** [Long Bow Token](/Items/con_134/) | Wood Elf's ATK is increased by 5% whenever they attack a bleeding unit. Lasts 5s and can stack up to 15 times. CD is 3s. |
-  | **6x** <i class="fas fa-star"/> | **280x** [Long Bow Token](/Items/con_134/) | <Ranger Aura> Increases all friendly Ranged and Caster units' ATK by 15%, Critical Hit by 200, and Critical Hit DMG by 15%. |
+  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Arrow Storm> Wood Elf's normal attacks have a 3% chance to trigger <Arrow Storm>, unleashing a barrage of arrows on the target area that deal damage to the target area equal to 20% of Wood Elf's ATK every 0.5s for 3s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Wood Elf's Unit DMG by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Increases Wood Elf's ATK by 20% and Attack Speed by 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | <Arrow Storm>'s trigger rate is increased to 200% of the original skill, and it has a 50% chance to Slow enemies, decreasing their Attack Speed by 10%. Lasts 5s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Long Bow Token](/Items/con_136/) | Increases Wood Elf's Unit DMG Reduction by 4% each time a Rampart unit is deployed. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Long Bow Token](/Items/con_136/) | Wood Elf's ATK is increased by 5% whenever they attack a bleeding unit. Lasts 5s and can stack up to 15 times. CD is 3s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_136/) | <Ranger Aura> Increases all friendly Ranged and Caster units' ATK by 15%, Critical Hit by 200, and Critical Hit DMG by 15%. |
 
 
 ## Level Up

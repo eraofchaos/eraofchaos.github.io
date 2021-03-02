@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Giant"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Giant ](/Items/unt_36/)
+ **Unit Soul:** [Giant ](/Items/unt_37/)
 
  **Unit description:** God of War: Ignores range and deals HP percentage damage
 
@@ -80,9 +80,9 @@ toc: true
 
  **Name:** [Thousand Ton](/Exclusive/Giant Thousand Ton/) 
 
- **Item to Rank Up:** [Thousand Ton Token](/Items/con_448/)
+ **Item to Rank Up:** [Thousand Ton Token](/Items/con_451/)
 
- **Skin:** [Thousand Ton Special Skin](/Items/con_1010/)
+ **Skin:** [Thousand Ton Special Skin](/Items/con_1025/)
 
 
 ## Recommended Holy Emblems
@@ -166,7 +166,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_475/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
 
 
 ## Awaking

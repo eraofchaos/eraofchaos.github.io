@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Regnan Archer"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Regnan Archer](/Items/unt_48/)
+ **Unit Soul:** [Regnan Archer](/Items/unt_49/)
 
  **Short description:** Crits and penetrates.
 
@@ -73,6 +73,12 @@ toc: true
   | [Hunter's Clothing](/equipment/Hunter's Clothing/) | **HP** | **DEF** | 
 
 ## Exclusive
+
+ **Name:** [Miracle](/Exclusive/Regnan Archer Miracle/) 
+
+ **Item to Rank Up:** -
+
+ **Skin:** -
 
 
 ## Recommended Holy Emblems
@@ -168,7 +174,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

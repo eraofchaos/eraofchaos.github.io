@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Manticore"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Manticore](/Items/unt_75/)
+ **Unit Soul:** [Manticore](/Items/unt_76/)
 
  **Short description:** Strong DPS and endurance
 
@@ -76,11 +76,11 @@ toc: true
 
 ## Exclusive
 
- **Name:** [Scorpion tail](/Exclusive/Manticore Scorpion tail/) 
+ **Name:** [Scorpion Tail](/Exclusive/Manticore Scorpion Tail/) 
 
- **Item to Rank Up:** [Scorpion Tail Token](/Items/con_873/)
+ **Item to Rank Up:** [Scorpion Tail Token](/Items/con_887/)
 
- **Skin:** [Scorpion Tail Special Skin](/Items/con_1179/)
+ **Skin:** [Scorpion Tail Special Skin](/Items/con_1195/)
 
 
 ## Recommended Holy Emblems
@@ -161,7 +161,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

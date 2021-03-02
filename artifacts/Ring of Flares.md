@@ -2,7 +2,7 @@
 title: "Artifacts - Archmage's Codex - Ring of Flares"
 permalink: /artifacts/Ring of Flares/
 excerpt: "Archmage's Codex - Ring of Flares. A ring with magic flowing on its surface. One of the Archmage's Codex."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Ring of Flares.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Part of Artifact:** [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artifact essence](/Items/con_164/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_166/)
 
  **Related Item**: [Ring of Flares](/Items/art_10/)
 

@@ -2,7 +2,7 @@
 title: "Garrison Boots"
 permalink: /equipment/Garrison Boots/
 excerpt: "Era of Chaos Garrison Boots. Garrison Boots"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Garrison Boots.md"
 toc: false

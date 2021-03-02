@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Psychic Elemental"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Psychic Elemental](/Items/unt_33/)
+ **Unit Soul:** [Psychic Elemental](/Items/unt_34/)
 
  **Short description:** Energy burst. Burns
 
@@ -76,9 +76,9 @@ toc: true
 
  **Name:** [Spirit Core](/Exclusive/Psychic Elemental Spirit Core/) 
 
- **Item to Rank Up:** [Spirit Core Token](/Items/con_595/)
+ **Item to Rank Up:** [Spirit Core Token](/Items/con_603/)
 
- **Skin:** [Spirit Core Special Skin](/Items/con_639/)
+ **Skin:** [Spirit Core Special Skin](/Items/con_648/)
 
 
 ## Recommended Holy Emblems
@@ -166,7 +166,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Unit Rank R"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Master Archer  |
   | 7 | [Troglodyte](/units/Troglodyte/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Dark Troglodyte  |
   | 8 | [Centaur](/units/Centaur/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Centaur Captain  |
-  | 9 | [Gnoll](/units/Gnoll/) | Offense | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 9 | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Gnoll Warrior  |
   | 10 | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Skeleton Warrior  |
   | 11 | [Sprite](/units/Sprite/) | Charging | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 12 | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombie  |

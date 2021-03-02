@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Lizardman"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Lizardman](/Items/unt_97/)
+ **Unit Soul:** [Lizardman](/Items/unt_98/)
 
  **Short description:** Strong DPS
 
@@ -79,7 +79,7 @@ toc: true
 
  **Name:** [Long Bow](/Exclusive/Lizardman Long Bow/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_134/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
  **Skin:** -
 
@@ -170,7 +170,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_486/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
 
 
 ## Awaking

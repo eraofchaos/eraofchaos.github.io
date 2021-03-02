@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Fire Elemental"
 toc: true
@@ -77,9 +77,9 @@ toc: true
 
  **Name:** [Fire Energy](/Exclusive/Fire Elemental Fire Energy/) 
 
- **Item to Rank Up:** [Fire Energy Token](/Items/con_1275/)
+ **Item to Rank Up:** [Fire Energy Token](/Items/con_1291/)
 
- **Skin:** [Fire Energy Special Skin](/Items/con_1296/)
+ **Skin:** [Fire Energy Special Skin](/Items/con_1312/)
 
 
 ## Recommended Holy Emblems
@@ -169,7 +169,7 @@ toc: true
 * Attack Speed
 * Unit Dodge
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_428/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
 
 
 ## Awaking

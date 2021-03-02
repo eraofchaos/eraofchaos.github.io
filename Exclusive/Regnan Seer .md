@@ -2,7 +2,7 @@
 title: "Exclusive - "
 permalink: /Exclusive/Regnan Seer /
 excerpt: "Era of Chaos . . Era of Chaos Exclusive . Regnan Seer Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Regnan Seer .md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Regnan Seer](/units/Regnan Seer/) 
 
- **Item to Rank Up:** [The City by the Ocean Banner Soul](/Items/con_972/)
+ **Item to Rank Up:** [The City by the Ocean Banner Soul](/Items/con_987/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [The City by the Ocean Banner Soul](/Items/con_972/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [The City by the Ocean Banner Soul](/Items/con_972/) |  |
-  | **2x** <i class="fas fa-star"/> | **80x** [The City by the Ocean Banner Soul](/Items/con_972/) |  |
-  | **3x** <i class="fas fa-star"/> | **120x** [The City by the Ocean Banner Soul](/Items/con_972/) |  |
-  | **4x** <i class="fas fa-star"/> | **150x** [The City by the Ocean Banner Soul](/Items/con_972/) |  |
-  | **5x** <i class="fas fa-star"/> | **230x** [The City by the Ocean Banner Soul](/Items/con_972/) |  |
-  | **6x** <i class="fas fa-star"/> | **280x** [The City by the Ocean Banner Soul](/Items/con_972/) |  |
+  |  Initial  | **100x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
 
 
 ## Level Up

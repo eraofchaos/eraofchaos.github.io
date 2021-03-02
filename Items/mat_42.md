@@ -2,7 +2,7 @@
 title: "Item - Materials - Epic Ore"
 permalink: /Items/mat_42/
 excerpt: "Epic Ore"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_42.md"
 toc: false

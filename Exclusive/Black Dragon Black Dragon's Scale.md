@@ -2,7 +2,7 @@
 title: "Exclusive - Black Dragon's Scale"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Black Dragon's Scale. Black Dragon's Scale. Era of Chaos Exclusive Black Dragon's Scale. Black Dragon Exclusive."
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Black Dragon Black Dragon's Scale.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Black Dragon](/units/Black Dragon/) 
 
- **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1215/)
+ **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1231/)
 
- **Skin:** [Black Dragon's Scale Special Skin](/Items/con_604/)
+ **Skin:** [Black Dragon's Scale Special Skin](/Items/con_612/)
 
  **Type:** Support
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Black Dragon's Scale Token](/Items/con_1215/) | <Shelter of Dragons> When its HP is less than 75%, 50%, 25%, the Black Dragon gives a shield equal to 15% of its Max HP to all friendly Defense dragon units (Dragon Turtle, Black Dragon/Black Dragon King) on the battlefield, and offers a shield equal to 30% of Max HP to all friendly non-Defense dragon units (Green Dragon/Gold Dragon, Bone Dragon/Ghost Dragon, Red Dragon, Hydra or Wyvern). The shield works throughout the entire battle and can be stacked. The Black Dragon's shield cannot be dispelled. Offers spell immunity for 3s when a shield is present |
-  | **1x** <i class="fas fa-star"/> | **50x** [Black Dragon's Scale Token](/Items/con_1215/) | When the Black Dragon is on the battlefield, it increases unit's damage and unit's damage reduction for friendly Dungeon units by 10% |
-  | **2x** <i class="fas fa-star"/> | **80x** [Black Dragon's Scale Token](/Items/con_1215/) | Increases the Black Dragon's tenacity by 200 and basic HP by 50,000 |
-  | **3x** <i class="fas fa-star"/> | **120x** [Black Dragon's Scale Token](/Items/con_1215/) | <Magic Dragon Breath> The Black Dragon causes damage equal to 150% of its ATK to all hostile units in front of it within a low range every 15s, and deals damage equal to 10% of its Max HP to the target unit. |
-  | **4x** <i class="fas fa-star"/> | **150x** [Black Dragon's Scale Token](/Items/con_1215/) | Increases the Black Dragon's DEF by 20% and 300 |
-  | **5x** <i class="fas fa-star"/> | **230x** [Black Dragon's Scale Token](/Items/con_1215/) | Guaranteed to trigger <Magic Dragon Rage> when a friendly unit is downed. The effect is the same as <Magic Dragon Breath>. In addition, it increases its own unit's DMG by 5% (up to 50%), lasting throughout the entire battle. It cannot be dispelled, and it also applies \"Dragon Fire\" to all friendly units (\"Dragon Fire\" increases unit's DMG and ATK by 20% for Ranged and Caster Units; increases Charging Units' ATK speed by 10% and Crit Hit by 200; Offensive Units decrease DEF and ATK speed of nearby hostile units by 10%; increases Defensive units' DEF by 10% and unit's DMG by 20%. \"Dragon Fire\" burns for 5s and cannot be dispelled, up to 10 stacks) |
-  | **6x** <i class="fas fa-star"/> | **280x** [Black Dragon's Scale Token](/Items/con_1215/) | Whenever <Black Dragon Scale> is triggered, the Black Dragon becomes immune to all kinds of unit's damage for 1s |
+  |  Initial  | **100x** [Black Dragon's Scale Token](/Items/con_1231/) | <Shelter of Dragons> When its HP is less than 75%, 50%, 25%, the Black Dragon gives a shield equal to 15% of its Max HP to all friendly Defense dragon units (Dragon Turtle, Black Dragon/Black Dragon King) on the battlefield, and offers a shield equal to 30% of Max HP to all friendly non-Defense dragon units (Green Dragon/Gold Dragon, Bone Dragon/Ghost Dragon, Red Dragon, Hydra or Wyvern). The shield works throughout the entire battle and can be stacked. The Black Dragon's shield cannot be dispelled. Offers spell immunity for 3s when a shield is present |
+  | **1x** <i class="fas fa-star"/> | **50x** [Black Dragon's Scale Token](/Items/con_1231/) | When the Black Dragon is on the battlefield, it increases unit's damage and unit's damage reduction for friendly Dungeon units by 10% |
+  | **2x** <i class="fas fa-star"/> | **90x** [Black Dragon's Scale Token](/Items/con_1231/) | Increases the Black Dragon's tenacity by 200 and basic HP by 50,000 |
+  | **3x** <i class="fas fa-star"/> | **130x** [Black Dragon's Scale Token](/Items/con_1231/) | <Magic Dragon Breath> The Black Dragon causes damage equal to 150% of its ATK to all hostile units in front of it within a low range every 15s, and deals damage equal to 10% of its Max HP to the target unit. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Black Dragon's Scale Token](/Items/con_1231/) | Increases the Black Dragon's DEF by 20% and 300 |
+  | **5x** <i class="fas fa-star"/> | **210x** [Black Dragon's Scale Token](/Items/con_1231/) | Guaranteed to trigger <Magic Dragon Rage> when a friendly unit is downed. The effect is the same as <Magic Dragon Breath>. In addition, it increases its own unit's DMG by 5% (up to 50%), lasting throughout the entire battle. It cannot be dispelled, and it also applies \"Dragon Fire\" to all friendly units (\"Dragon Fire\" increases unit's DMG and ATK by 20% for Ranged and Caster Units; increases Charging Units' ATK speed by 10% and Crit Hit by 200; Offensive Units decrease DEF and ATK speed of nearby hostile units by 10%; increases Defensive units' DEF by 10% and unit's DMG by 20%. \"Dragon Fire\" burns for 5s and cannot be dispelled, up to 10 stacks) |
+  | **6x** <i class="fas fa-star"/> | **250x** [Black Dragon's Scale Token](/Items/con_1231/) | Whenever <Black Dragon Scale> is triggered, the Black Dragon becomes immune to all kinds of unit's damage for 1s |
 
 
 ## Level Up

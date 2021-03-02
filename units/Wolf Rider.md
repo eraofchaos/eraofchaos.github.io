@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-02
 locale: en
 ref: "Wolf Rider"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **Name:** [Knight Pike](/Exclusive/Wolf Rider Knight Pike/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_210/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_446/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
 
 
 ## Awaking

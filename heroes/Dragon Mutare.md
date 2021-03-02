@@ -3,7 +3,7 @@ title: "Dragon Mutare"
 permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Dragon Mutare. Dragon Mutare. After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father."
 heroID: 61302
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "Dragon Mutare"
 toc: true
@@ -69,6 +69,16 @@ toc: true
  **Skin features:** 
 
    - Christmas Elf Playing with Snowflakes
+   - All-new Battle Image
+   - Unique Avatar and Spell Effect
+
+### Skin 4: **Lord of Frost**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">The winds rise and the blizzards howl at my behest. The frost is my crown, for I am the sole conqueror of the frozen lands!</span>
+
+ **Skin features:** 
+
+   - Lord of Frost
    - All-new Battle Image
    - Unique Avatar and Spell Effect
 

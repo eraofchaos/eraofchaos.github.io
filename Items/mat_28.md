@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Wood"
 permalink: /Items/mat_28/
 excerpt: "Superior Wood"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "mat_28.md"
 toc: false

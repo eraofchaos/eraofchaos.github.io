@@ -2,7 +2,7 @@
 title: "Item - Consumables - Hero Training Special Offer"
 permalink: /Items/con_73/
 excerpt: "Hero Training Special Offer"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_73.md"
 toc: false

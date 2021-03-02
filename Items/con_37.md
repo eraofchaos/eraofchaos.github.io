@@ -2,7 +2,7 @@
 title: "Item - Consumables - Qiandongnan Herbal Cattle Hotpot"
 permalink: /Items/con_37/
 excerpt: "Qiandongnan Herbal Cattle Hotpot"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "con_37.md"
 toc: false

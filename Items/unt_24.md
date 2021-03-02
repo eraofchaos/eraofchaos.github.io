@@ -2,7 +2,7 @@
 title: "Item - Units - Marksman"
 permalink: /Items/unt_24/
 excerpt: "Marksman"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: en
 ref: "unt_24.md"
 toc: false
