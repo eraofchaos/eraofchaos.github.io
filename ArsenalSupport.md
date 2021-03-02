@@ -7,6 +7,9 @@ locale: en
 ref: "ArsenalSupport.md"
 toc: false
 classes: wide
+layout: single
+sidebar:
+  nav: "docs"
 ---
 
   <span style="color: #8a5c1d;font-size:18px">As there is limited room for combat on the battlefield, the School of War has researched a type of support magic to better improve unit combat capabilities. This magic allows the transfer of abilities from a support unit onto a combat unit, thus improving a combat unit's combat capabilities.</span><br/><span style="color: #ffffff">　</span><br/>
