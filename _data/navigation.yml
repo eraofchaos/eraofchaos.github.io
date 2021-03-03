@@ -4,6 +4,7 @@ main:
   - title: "About"
     url: /about/
 
+
 langs:
   - hreflang: "fr"
     prefix: "/fr"
@@ -15,7 +16,7 @@ langs:
     prefix: "/it"
   - hreflang: "es"
     prefix: "/es"
-   
+
 
 # documentation links
 docs:
