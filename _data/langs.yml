@@ -1,14 +1,15 @@
-  - hreflang: "fr"
-    prefix: "/fr"
+  - hreflang: fr
+    prefix: /fr
 
-  - hreflang: "de"
-    prefix: "/de"
+  - hreflang: de
+    prefix: /de
 
-  - hreflang: "ru"
-    prefix: "/ru"
+  - hreflang: ru
+    prefix: /ru
 
-  - hreflang: "it"
-    prefix: "/it"
+  - hreflang: it
+    prefix: /it
 
-  - hreflang: "es"
-    prefix: "/es"
+  - hreflang: es
+    prefix: /es
+
