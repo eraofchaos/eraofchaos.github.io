@@ -1,9 +1,7 @@
 ﻿main:
   - title: "News"
-    description: "News"
     url: /posts/
   - title: "About"
-    description: "About EraOfChaos Wiki"
     url: /about/
 
 langs:
