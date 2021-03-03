@@ -113,7 +113,7 @@
 {% endif %}
 
 <link rel="canonical" href="{{ canonical_url }}">
-{% assign altlinks = site.data.navigation[langs] %}
+{% assign altlinks = site.data.navigation.langs %}
 {% for nav in altlinks %}
 {% if nav.prefix %}
   <!-- site_url {{ site.url }} site_baseurl {{ append: site.baseurl }} -->

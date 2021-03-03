@@ -1,11 +1,9 @@
 ﻿main:
   - title: "News"
+    description: "News"
     url: /posts/
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
   - title: "About"
+    description: "About EraOfChaos Wiki"
     url: /about/
 
 langs:
