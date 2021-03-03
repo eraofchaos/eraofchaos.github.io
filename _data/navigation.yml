@@ -5,16 +5,16 @@
     url: /about/
 
 langs:
-   - hreflang: "fr"
-     prefix: "/fr"
-   - hreflang: "de"
-     prefix: "/de"
-   - hreflang: "ru"
-     prefix: "/ru"
-   - hreflang: "it"
-     prefix: "/it"
-   - hreflang: "es"
-     prefix: "/es"
+  - hreflang: "fr"
+    prefix: "/fr"
+  - hreflang: "de"
+    prefix: "/de"
+  - hreflang: "ru"
+    prefix: "/ru"
+  - hreflang: "it"
+    prefix: "/it"
+  - hreflang: "es"
+    prefix: "/es"
    
 
 # documentation links

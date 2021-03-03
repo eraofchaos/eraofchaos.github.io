@@ -12,6 +12,35 @@ sidebar:
 
 
 ### Era Of Chaos - Wiki update History
+{% capture notice-update20210301 %}
+Dear Era of Chaos players,
+
+Introducing New feature - [Exclusive](https://eraofchaos.github.io/Exclusive/).
+
+Thanks for your votes on [Exclusive Faction vote on Reddit](https://www.reddit.com/r/era_of_chaos/comments/lt7iwo/new_game_feature_exclusive_weaponflag/). 
+We open Exclusives for 2 Factions:
+ - [Exclusive Inferno](https://eraofchaos.github.io/Exclusive/Exclusive Inferno/)
+ - [Exclusive Dungeon](https://eraofchaos.github.io/Exclusive/Exclusive Dungeon/)
+
+Thanks for participating in Quiz/Tasks on [Era of Chaos Expert Discord community](https://discord.gg/JTWunMd2VF)
+
+ - [Exclusive Conflux](/Exclusive/Exclusive Conflux/)
+ - [Exclusive Fortress](/Exclusive/Exclusive Fortress/)
+ - [Exclusive Rampart](/Exclusive/Exclusive Rampart/)
+ - [Exclusive Castle](/Exclusive/Exclusive Castle/)
+ - [Exclusive Tower](/Exclusive/Exclusive Tower/)
+ - [Exclusive Stronghold](/Exclusive/Exclusive Stronghold/)
+ - [Exclusive Cove](/Exclusive/Exclusive Cove/)
+ - [Exclusive Necropolis](/Exclusive/Exclusive Necropolis/)
+ - [Exclusive Neutral Army](/Exclusive/Exclusive Neutral Army/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">1 March 2021 Update:</h4>
+  {{ notice-update20210301 | markdownify }}
+</div>
+
 {% capture notice-update20210223 %}
 
 **Client update** (version **142 (3115)**):
