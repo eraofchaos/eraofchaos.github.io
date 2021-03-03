@@ -114,6 +114,17 @@
 
 <link rel="canonical" href="{{ canonical_url }}">
 
+{%- assign datalangs = site.data.langs  -%}
+  <!-- in0 {{ datalangs }} -->
+{%- for langlink in datalangs -%}
+  <!-- in1 {{ langlink }} -->
+{% if langlink.hreflang %}
+  <!-- site_url {{ site.url }} site_baseurl {{ append: site.baseurl }} -->
+  <link rel="alternate" hreflang="{{ langlink.hreflang | default: en }}" href="{{ site.url | append: nav.prefix | append site.baseurl }}" />
+{% else %}
+  <!--  {{ langlink }} -->
+{% endif %}
+{%- endfor -%}
 
 {% if paginator.previous_page %}
   <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">
