@@ -118,7 +118,7 @@
 {% for langlink in site.data.langs %}
   {% if langlink.hreflang %}
     <!-- site_url {{ site.url }} site_baseurl {{ append: site.baseurl }} -->
-    <link rel="alternate" hreflang="{{ langlink.hreflang | default: en }}" href="{{ site.url | append: langlink.prefix | append site.baseurl }}" />
+    <link rel="alternate" hreflang="{{ langlink.hreflang | default: en }}" href="{{ site.url }}{{ langlink.prefix }}{{ site.baseurl }}" />
   {% else %}
     <!--  skip -->
   {% endif %}
