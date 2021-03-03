@@ -12,7 +12,9 @@ sidebar:
 
 {% capture notice-update20210303 %}
 
-Work is in progress with new changes (client 142 (3173))... Open **Story Chapter 2** to get free 13 [Gold Keys](https://eraofchaos.github.io/Items/con_423/)
+Work is in progress with new changes (client 142 (3173))... 
+
+Open **Story Chapter 2** to get free 13 [Gold Keys](https://eraofchaos.github.io/Items/con_423/)
 
 {% endcapture %}
 
@@ -21,7 +23,7 @@ Work is in progress with new changes (client 142 (3173))... Open **Story Chapter
   {{ notice-update20210303 | markdownify }}
 </div>
 
-{% capture notice-update20210303 %}
+{% capture notice-update20210302 %}
 
 **Client update** (version **142 (3169)**):
 
