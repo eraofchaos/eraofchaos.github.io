@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Nightmare's Eye Token](/Items/con_115/) | <Without a Trace> Each time Nightmare is attacked, there is a 25% chance of increasing own Attack Speed by 500% and Life Drain by 50% that lasts for one attack. |
+  |  Awaken  | **100x** [Nightmare's Eye Token](/Items/con_115/) | <Without a Trace> Each time Nightmare is attacked, there is a 25% chance of increasing own Attack Speed by 500% and Life Drain by 50% that lasts for one attack. |
   | **1x** <i class="fas fa-star"/> | **50x** [Nightmare's Eye Token](/Items/con_115/) | Increases Nightmare's Unit DMG Reduction by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Nightmare's Eye Token](/Items/con_115/) | Increases Nightmare's HP by 8% and DEF by 5% each time an Inferno unit is deployed. |
   | **3x** <i class="fas fa-star"/> | **130x** [Nightmare's Eye Token](/Items/con_115/) | <Dreamcure> When <Without a Trace> is activated, Nightmare heals the unit with the lowest HP for 200% HP. |

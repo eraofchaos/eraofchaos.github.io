@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Naga Sword Token](/Items/con_95/) | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
+  |  Awaken  | **100x** [Naga Sword Token](/Items/con_95/) | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
   | **1x** <i class="fas fa-star"/> | **50x** [Naga Sword Token](/Items/con_95/) | Duration of stun, petrification, slow, freeze, low morale and silence decreased by 50% |
   | **2x** <i class="fas fa-star"/> | **90x** [Naga Sword Token](/Items/con_95/) | Increases Naga's ATK and unit's damage by 20% |
   | **3x** <i class="fas fa-star"/> | **130x** [Naga Sword Token](/Items/con_95/) | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |

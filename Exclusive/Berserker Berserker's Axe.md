@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Berserker's Axe Token](/Items/con_801/) | <Spinning Axe> Berserker throws a spinning axe, dealing damage equal to 150% of own ATK to enemy units in a large area in front of them and inflicting Bleed for 8s. CD is 18s. |
+  |  Awaken  | **100x** [Berserker's Axe Token](/Items/con_801/) | <Spinning Axe> Berserker throws a spinning axe, dealing damage equal to 150% of own ATK to enemy units in a large area in front of them and inflicting Bleed for 8s. CD is 18s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Berserker's Axe Token](/Items/con_801/) | Increases Berserker's Unit DMG by 15%. Increases Unit DMG by another 15% when fighting against stunned units. |
   | **2x** <i class="fas fa-star"/> | **90x** [Berserker's Axe Token](/Items/con_801/) | There is a 5% chance Berserker's attacks will stun a target unit for 1.5s. Triggers only once every 5s. |
   | **3x** <i class="fas fa-star"/> | **130x** [Berserker's Axe Token](/Items/con_801/) | <Fatal Blow> Berserker deals damage equal to 225% of own ATK to the target unit while decreasing the target's Unit DMG Reduction by 20% and DEF by 10%. If the target unit is bleeding, decreases the target's Unit DMG by 20% and Attack Speed by 10% for 10s. CD is 25s. |

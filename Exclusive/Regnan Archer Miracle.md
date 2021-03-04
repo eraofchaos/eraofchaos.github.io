@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Heart of the Ocean> When Regnan Archer units die, they have a 50% chance to resurrect and recover 20% HP. Each unit can trigger this effect up to 3 times. |
+  |  Awaken  | ? | <Heart of the Ocean> When Regnan Archer units die, they have a 50% chance to resurrect and recover 20% HP. Each unit can trigger this effect up to 3 times. |
   | **1x** <i class="fas fa-star"/> | ? | Each time Regnan Archer triggers <Heart of the Ocean>, increases Unit DMG Reduction by 50% and Tenacity by 500 for 3s. Cannot be stacked. |
   | **2x** <i class="fas fa-star"/> | ? | Increases Regnan Archer's Unit DMG by 20% and Unit DMG Reduction by 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Mythical Arrow> Regnan Archer musters 1 arrow imbued with mythical power every 10s. Deals damage equal to 100% of ATK to the target unit and triggers 1 of the following effects at random:                  [<Ocean Current> Increases Attack Speed by 300% for 5s.]                                [<Whirlpool> Summons a whirlpool at the feet of the nearest enemy unit, preventing enemy units in a small range from attacking or casting skills for 3s.]                                 [<Storm> Randomly attacks 4 enemy units on the battlefield, dealing damage equal to 10% of Max HP.]            [<Hurricane> Summons a hurricane at the target unit's location which purifies enemy units in a small range once every second for 3s.] |

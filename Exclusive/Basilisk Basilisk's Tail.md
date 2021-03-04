@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Basilisk's Tail Token](/Items/con_883/) | When an attack hits a target unit, there is a 8% chance to additionally deal damage equal to 100% of own ATK and Petrify them for 3s. |
+  |  Awaken  | **100x** [Basilisk's Tail Token](/Items/con_883/) | When an attack hits a target unit, there is a 8% chance to additionally deal damage equal to 100% of own ATK and Petrify them for 3s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Basilisk's Tail Token](/Items/con_883/) | Increases Basilisk's HP and Unit DMG Reduction by 20% each. |
   | **2x** <i class="fas fa-star"/> | **90x** [Basilisk's Tail Token](/Items/con_883/) | After Basilisk attacks trigger the awakening effect, DEF increases by 20% for 3s. |
   | **3x** <i class="fas fa-star"/> | **130x** [Basilisk's Tail Token](/Items/con_883/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] once when its HP is lower than 30% for the first time |

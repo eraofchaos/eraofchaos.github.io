@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Knight Pike Token](/Items/con_212/) | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Cavalier's unit's damage reduction increased by 25% when taking ranged damage |
   | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Cavaliers ATK by 20% and unit's damage by 10% |
   | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | Cavalier's DEF increases by 10%. At the beginning of battle, all friendly Castle units' penetration is increased by 300. This effect cannot be dispelled |

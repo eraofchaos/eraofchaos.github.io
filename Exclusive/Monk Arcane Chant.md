@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | <Preaching> will be triggered every 9s to restore HP equal to 125% of ATK for the friendly unit with the lowest HP percentage |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Preaching> will be triggered every 9s to restore HP equal to 125% of ATK for the friendly unit with the lowest HP percentage |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Monk unit's attack is increased by 20% |
   | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Whenever <Preaching> is cast, applies \"High Morale\" to a random friendly unit for 10s |
   | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | <Devotion>: Monk dispels 1 random friendly unit's debuff every 10s. |

@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Knight Pike Token](/Items/con_212/) | <Shield Reflect> When Unicorn loses its shield, deals damage equal to 150% of its own ATK to enemies in a small range. If the target unit is bleeding, their DEF will also be reduced by 20%. Lasts 5s. |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Shield Reflect> When Unicorn loses its shield, deals damage equal to 150% of its own ATK to enemies in a small range. If the target unit is bleeding, their DEF will also be reduced by 20%. Lasts 5s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Unicorn's HP by 20% and Dodge by 200. |
   | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Unicorn's Unit DMG Reduction by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | <Blue Streak> When Unicorn takes damage exceeding 15% of own Max HP in a single attack, its horn emits a bright light that Blinds the target unit. If the target unit is already blinded, their Unit DMG will be reduced by 20%. Lasts 8s. |

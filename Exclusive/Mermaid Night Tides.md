@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Night Tides Token](/Items/con_317/) | <Guardian's Ode> When Mermaid takes damage exceeding 30% of own Max HP in a single attack, they gain a Bubble equal to 25% of own Max HP and increases DEF by 400 for 15s. CD is 10s. |
+  |  Awaken  | **100x** [Night Tides Token](/Items/con_317/) | <Guardian's Ode> When Mermaid takes damage exceeding 30% of own Max HP in a single attack, they gain a Bubble equal to 25% of own Max HP and increases DEF by 400 for 15s. CD is 10s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Night Tides Token](/Items/con_317/) | Increases Mermaid's ATK and Attack Speed by 20% each. |
   | **2x** <i class="fas fa-star"/> | **90x** [Night Tides Token](/Items/con_317/) | <Song of Aid> Mermaid increases the Unit DMG of random a friendly Ranged/Caster unit by 25% and grants themselves a Bubble equal to 20% of own Max HP for 10s. CD is 20s. |
   | **3x** <i class="fas fa-star"/> | **130x** [Night Tides Token](/Items/con_317/) | <Siren's Song> Mermaid sings the Siren's Song, inflicting Sleep on 2 random enemy units for 5s. Also restores HP equal to 60% of the Mermaids' ATK to friendly back row units every second for 10s. CD is 24s. |

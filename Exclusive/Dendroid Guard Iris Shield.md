@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | <Arboreal Armor> Grants Dendroid Guard and 1 random Rampart unit a 10% increase to Unit DMG Reduction and a shield equal to 10% of Max HP. Lasts 8s. CD is 18s. |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Arboreal Armor> Grants Dendroid Guard and 1 random Rampart unit a 10% increase to Unit DMG Reduction and a shield equal to 10% of Max HP. Lasts 8s. CD is 18s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Dendroid Guard's HP by 20% and Unit DMG Reduction by 10%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Dendroid Guard's base DEF by 50 each time a Rampart unit is deployed. |
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Deep Roots> Dendroid Guard buries its roots deep underground, increasing their own Unit DMG Reduction by 15%, dealing damage equal to 2% of Max HP to enemy units in a large range every second, and recovering 1% of own Max HP every second for 10s, during which Dendroid Guard will be unable to move. CD is 25s. |

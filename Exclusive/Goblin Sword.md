@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sword Token](/Items/con_165/) | <Stonecrush> Goblin deals damage equal to 300% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is Overstrained, DEF is reduced by 15% for 5s. |
+  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Stonecrush> Goblin deals damage equal to 300% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is Overstrained, DEF is reduced by 15% for 5s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Goblin's HP by 20% and Dodge by 100. |
   | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Goblin's Critical Hit by 150 when fighting against units whose HP is less than 70%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | <Speedstrike> When Goblin's attack is dodged, Goblin deals damage equal to 100% of own ATK to the target unit and decreases target's DEF by 4% for 8s. CD is 2s. Stacks up to 4 times. |

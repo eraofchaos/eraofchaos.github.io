@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Arrow Storm> Wood Elf's normal attacks have a 3% chance to trigger <Arrow Storm>, unleashing a barrage of arrows on the target area that deal damage to the target area equal to 20% of Wood Elf's ATK every 0.5s for 3s. |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Arrow Storm> Wood Elf's normal attacks have a 3% chance to trigger <Arrow Storm>, unleashing a barrage of arrows on the target area that deal damage to the target area equal to 20% of Wood Elf's ATK every 0.5s for 3s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Wood Elf's Unit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Increases Wood Elf's ATK by 20% and Attack Speed by 10%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | <Arrow Storm>'s trigger rate is increased to 200% of the original skill, and it has a 50% chance to Slow enemies, decreasing their Attack Speed by 10%. Lasts 5s. |

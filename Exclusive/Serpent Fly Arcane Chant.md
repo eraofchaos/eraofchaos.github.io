@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | When the target unit is downed, the Serpent Fly loses its mind, increasing its ATK speed by 100% for 20s |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | When the target unit is downed, the Serpent Fly loses its mind, increasing its ATK speed by 100% for 20s |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | When attacking, the Serpent Fly has a 30% chance of making the target unit \"bleeding\" |
   | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Increases life drain by 15% for Serpent Fly |
   | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] once when its HP is lower than 30% for the first time |

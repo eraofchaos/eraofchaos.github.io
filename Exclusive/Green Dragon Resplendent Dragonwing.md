@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Resplendent Dragonwing Token](/Items/con_714/) | Green Dragon's attacks will inflict Bleed, causing targets to take damage equal to 2% of their Max HP every 2s for 3s. |
+  |  Awaken  | **100x** [Resplendent Dragonwing Token](/Items/con_714/) | Green Dragon's attacks will inflict Bleed, causing targets to take damage equal to 2% of their Max HP every 2s for 3s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Resplendent Dragonwing Token](/Items/con_714/) | Increases Green Dragon's Unit DMG by 20% and Critical Hit by 200. |
   | **2x** <i class="fas fa-star"/> | **90x** [Resplendent Dragonwing Token](/Items/con_714/) | Increases Green Dragon's Attack Speed by 30% when a shield is obtained. |
   | **3x** <i class="fas fa-star"/> | **130x** [Resplendent Dragonwing Token](/Items/con_714/) | <Crystal Guard> Green Dragon is protected by its crystallized skin, blocking damage 5 times. After blocking damage for the 5th time, <Crystal Guard> will disappear, and nearby enemy units will take damage equal to 100% of Green Dragon's ATK and be crystallized for 3s. Gain <Crystal Guard> once every 20s. |

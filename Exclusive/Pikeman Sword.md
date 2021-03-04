@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sword Token](/Items/con_165/) | <Holy Spear Strike> Pikeman deals damage equal to 400% of own ATK to the target unit once every 15s and decreases the target's DEF by 4% for 7s, stacking up to 4 times. If the target unit is stunned, Tenacity is also reduced by 150 for 6s. |
+  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Holy Spear Strike> Pikeman deals damage equal to 400% of own ATK to the target unit once every 15s and decreases the target's DEF by 4% for 7s, stacking up to 4 times. If the target unit is stunned, Tenacity is also reduced by 150 for 6s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Pikeman's Attack Speed by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Pikeman's Tenacity by 150. |
   | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | <Zealous Charge> Triggers an additional <Holy Spear Strike> when Pikeman is in High Morale. |

@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Death Tribute Token](/Items/con_726/) | <Dragon Soul Sacrifice> When the battle has been ongoing for 5s and 45s, a Bone Dragon is summoned both times that exists for 20s.　(The Bone Dragon's ATK and HP depend on the unit level. The Bone Dragon has <Fear> and <Penetration>. When it is on the battlefield, it increases all friendly Necropolis units' unit's damage and unit's damage reduction by 20%) |
+  |  Awaken  | **100x** [Death Tribute Token](/Items/con_726/) | <Dragon Soul Sacrifice> When the battle has been ongoing for 5s and 45s, a Bone Dragon is summoned both times that exists for 20s.　(The Bone Dragon's ATK and HP depend on the unit level. The Bone Dragon has <Fear> and <Penetration>. When it is on the battlefield, it increases all friendly Necropolis units' unit's damage and unit's damage reduction by 20%) |
   | **1x** <i class="fas fa-star"/> | **50x** [Death Tribute Token](/Items/con_726/) | Lich's damage reduction is increased by 20% |
   | **2x** <i class="fas fa-star"/> | **90x** [Death Tribute Token](/Items/con_726/) | Whenever the Lich offers up a sacrifice (including a Dragon Soul Sacrifice), magic resistance is decreased by 20% for all hostile units for 10s, up to 3 stacks |
   | **3x** <i class="fas fa-star"/> | **130x** [Death Tribute Token](/Items/con_726/) | <Soul Snatch> Lich summons a Soul of Bone Dragon every 15s, causing damage equal to 20% of Max HP to a random back-row unit while giving it \"Deterrence\" and \"Low Morale\" for 10s |

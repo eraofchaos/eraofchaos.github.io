@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Knight Pike Token](/Items/con_212/) | <Scarlet Strike> Vampire transforms into a bat and rushes into the enemy formation. During this time, Vampire's Movement Speed is increased by 30, and they become immune to Stun, Freeze, and Slow. Vampire will return to their human form after engaging with an enemy unit, and their first attack will deal damage equal to 500% of own ATK. |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Scarlet Strike> Vampire transforms into a bat and rushes into the enemy formation. During this time, Vampire's Movement Speed is increased by 30, and they become immune to Stun, Freeze, and Slow. Vampire will return to their human form after engaging with an enemy unit, and their first attack will deal damage equal to 500% of own ATK. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Vampire's HP by 20% and DEF by 10%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Vampire's Unit DMG Reduction by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | <Bloodfang Gospel> Vampire deals damage equal to 300% of own ATK to the target unit, decreasing their Unit DMG Reduction by 20%. If the target unit is suffering from Low Morale, DEF is reduced by 10% for 5s. CD is 25s. |

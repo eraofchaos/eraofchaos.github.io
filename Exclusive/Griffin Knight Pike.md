@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Knight Pike Token](/Items/con_212/) | <Beak Peck> Griffin bites the target unit, dealing damage equal to 150% of own ATK to target unit. Inflicts Bleeding, decreases Accuracy by 300 and Attack Speed by 20% for 8s. CD is 20s. |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Beak Peck> Griffin bites the target unit, dealing damage equal to 150% of own ATK to target unit. Inflicts Bleeding, decreases Accuracy by 300 and Attack Speed by 20% for 8s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Griffin's Unit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Griffin's Dodge by 500. |
   | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | <Aerial Roll> Griffin's Tenacity increases by 50 every time they successfully dodge and deals damage to the target unit equal to 75% of their ATK. Tenacity can stack up to 500. |

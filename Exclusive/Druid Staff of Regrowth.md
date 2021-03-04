@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Staff of Regrowth Token](/Items/con_995/) | <Vine Lash> At the start of the battle, casts on a random back row enemy unit, dealing damage equal to 30% of own ATK and restricting the target's movement for 10s. Also grants friendly back row units a shield equal to 25% of Max HP. Lasts 10s. |
+  |  Awaken  | **100x** [Staff of Regrowth Token](/Items/con_995/) | <Vine Lash> At the start of the battle, casts on a random back row enemy unit, dealing damage equal to 30% of own ATK and restricting the target's movement for 10s. Also grants friendly back row units a shield equal to 25% of Max HP. Lasts 10s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Staff of Regrowth Token](/Items/con_995/) | Increases Druid's Range by 50 and Tenacity by 200. |
   | **2x** <i class="fas fa-star"/> | **90x** [Staff of Regrowth Token](/Items/con_995/) | At the start of the battle, increases own DEF by 70% and increases the Unit DMG Reduction of all friendly units within a large range of the caster by 22% for 15s. |
   | **3x** <i class="fas fa-star"/> | **130x** [Staff of Regrowth Token](/Items/con_995/) | <Lifebloom> Summons a Lifebloom once every 24s. Lifeblooms bless all Rampart units within a large range once every 5s for a total of 5 times, increasing Attack Speed by 5% each time. Stacks up to 30 times. Effect lasts for 5s. |

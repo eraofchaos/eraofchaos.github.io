@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | <Shield Smash> Swordsman slows an enemy unit once every 18s and decreases their Unit DMG Reduction by 15% for 7s. |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Shield Smash> Swordsman slows an enemy unit once every 18s and decreases their Unit DMG Reduction by 15% for 7s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases HP by 20% and Dodge by 200. |
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases DEF by 20% for 5s when in High Morale. |
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Damage Recovery> When Swordsman unit takes damage exceeding 8% of their Max HP in a single attack, restores HP equal to 150% of own ATK. CD is 10s. |

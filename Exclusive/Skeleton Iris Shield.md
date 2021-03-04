@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | <Putrid Corpse> Skeleton turns itself into a putrid corpse, inflicting all units within a large range of itself with Low Morale every 20s for 10s and dealing damage equal to 250% of their ATK to the target unit. |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Putrid Corpse> Skeleton turns itself into a putrid corpse, inflicting all units within a large range of itself with Low Morale every 20s for 10s and dealing damage equal to 250% of their ATK to the target unit. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Skeleton's DEF by 200. |
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Skeleton's base HP by 20,000. |
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Calcification> Skeleton recovers 10% of its Max HP when suffering from Low Morale. CD is 10s. |

@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Scorpion Tail Token](/Items/con_887/) | <Scorpion Raid> Manticore launches a 3-stage damage attack on a target unit every 20s, causing 100%, 125%, and 150% damage respectively and applying \"scorpion venom\" on the target. At the same time, the target unit's tenacity and dodge will be decreased by 200 for 5s |
+  |  Awaken  | **100x** [Scorpion Tail Token](/Items/con_887/) | <Scorpion Raid> Manticore launches a 3-stage damage attack on a target unit every 20s, causing 100%, 125%, and 150% damage respectively and applying \"scorpion venom\" on the target. At the same time, the target unit's tenacity and dodge will be decreased by 200 for 5s |
   | **1x** <i class="fas fa-star"/> | **50x** [Scorpion Tail Token](/Items/con_887/) | Manticore's unit's damage increased by 25% |
   | **2x** <i class="fas fa-star"/> | **90x** [Scorpion Tail Token](/Items/con_887/) | Manticore's unit's damage reduction is increased by 20% |
   | **3x** <i class="fas fa-star"/> | **130x** [Scorpion Tail Token](/Items/con_887/) | Manticore's Crit Hit increased by 300. Each normal attack causes additional damage equal to 50% of its ATK when fighting against \"bleeding\" targets |

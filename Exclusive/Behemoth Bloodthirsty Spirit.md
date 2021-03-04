@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Bloodthirsty Spirit Token](/Items/con_377/) | <Stronghold Spirit> Behemoth protects other Stronghold units from damage, taking 25% of all damage taken by Stronghold units on the battlefield and increasing Unit DMG Reduction by 40% for 5s. CD is 25s. |
+  |  Awaken  | **100x** [Bloodthirsty Spirit Token](/Items/con_377/) | <Stronghold Spirit> Behemoth protects other Stronghold units from damage, taking 25% of all damage taken by Stronghold units on the battlefield and increasing Unit DMG Reduction by 40% for 5s. CD is 25s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Bloodthirsty Spirit Token](/Items/con_377/) | When Behemoth is on the battlefield, it increases Unit DMG of friendly Stronghold Ranged/Caster units by 20% and Unit DMG Reduction of friendly Melee units by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Bloodthirsty Spirit Token](/Items/con_377/) | Increases Behemoth's base HP by 50,000 points. Damage taken from Ranged/Caster unit attacks are reduced by 40%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Bloodthirsty Spirit Token](/Items/con_377/) | <Mighty Behemoth> When Behemoth takes a critical hit, it unleashes its wrath, stunning enemies in a large range around it for 3s and decreasing Unit DMG and Attack Speed of enemies in a very large range by 20% for 5s. CD is 6s. |

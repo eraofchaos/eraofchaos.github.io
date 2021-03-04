@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Wild Hunter> It can be cast once every 20 seconds, causing damage equal to 300% of its ATK to all hostile units within a small area while dealing damage equal to 2% of its Max HP per second over the next 5s |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Wild Hunter> It can be cast once every 20 seconds, causing damage equal to 300% of its ATK to all hostile units within a small area while dealing damage equal to 2% of its Max HP per second over the next 5s |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Lizardman's magic resistance is increased by 50% |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | When Lizardman deals a Crit Hit, its Crit Hit is increased by 10 for 3s, up to 50 stacks. |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] once when its HP is lower than 30% for the first time |

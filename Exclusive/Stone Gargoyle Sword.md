@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sword Token](/Items/con_165/) | <Claw Rend> Deals damage equal to 250% of own ATK to target unit and inflicts Bleed for 6s while increasing its own Attack Speed by 20% for 6s. CD is 26s. |
+  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Claw Rend> Deals damage equal to 250% of own ATK to target unit and inflicts Bleed for 6s while increasing its own Attack Speed by 20% for 6s. CD is 26s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Stone Gargoyle's HP by 15% and DEF by 10%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Stone Gargoyle's Unit DMG by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | <Magic Awakening> When a Stone Gargoyle is buffed by a friendly hero's spell, it increases its own Magic Resistance by 15% and gains a shield equal to 10% of its Max HP for 8s. Stacks up to 2 times. |

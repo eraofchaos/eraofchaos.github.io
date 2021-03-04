@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | Summons a sacrifice circle every 30s, causing damage equal to 1.5% of Max HP to the hostile units in the circle and restoring HP equal to 5% of ATK for friendly units in the circle for 15s |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | Summons a sacrifice circle every 30s, causing damage equal to 1.5% of Max HP to the hostile units in the circle and restoring HP equal to 5% of ATK for friendly units in the circle for 15s |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Ogre unit's damage reduction is increased by 20% |
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | When the Ogre rampages, it increases unit's damage for all friendly units by 10% |
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | When the Ogre is deployed, it increases all friendly Stronghold units' ATK speed by 10%. Increases its own DEF by 10% |

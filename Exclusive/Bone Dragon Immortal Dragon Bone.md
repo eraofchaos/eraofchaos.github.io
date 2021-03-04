@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Immortal Dragon Bone Token](/Items/con_1418/) | <Dragon Power> Can be cast once every 12s to decrease DEF by 5% and magic resistance by 30% of all hostile units for 15s, up to 5 stacks. At the same time, <silence> all hostile units for 3s. Guaranteed to trigger once whenever a hostile unit is downed. |
+  |  Awaken  | **100x** [Immortal Dragon Bone Token](/Items/con_1418/) | <Dragon Power> Can be cast once every 12s to decrease DEF by 5% and magic resistance by 30% of all hostile units for 15s, up to 5 stacks. At the same time, <silence> all hostile units for 3s. Guaranteed to trigger once whenever a hostile unit is downed. |
   | **1x** <i class="fas fa-star"/> | **50x** [Immortal Dragon Bone Token](/Items/con_1418/) | When the Bone Dragon is on the battlefield, it increases tenacity by 200 and DEF by 10% for all friendly Necropolis units |
   | **2x** <i class="fas fa-star"/> | **90x** [Immortal Dragon Bone Token](/Items/con_1418/) | Increases Bone Dragon's ATK and unit's damage by 30% |
   | **3x** <i class="fas fa-star"/> | **130x** [Immortal Dragon Bone Token](/Items/con_1418/) | Single damage taken by the Bone Dragon cannot exceed 40% of its Max HP. When single damage exceeds 28% of Max HP, it is guaranteed to trigger <Dragon Power>. CD is 10s. At the beginning of battle, the Bone Dragon applies a Thorn Halo to all friendly Necropolis units, increasing their damage reflection by 10%. This effect lasts throughout the entire battle |

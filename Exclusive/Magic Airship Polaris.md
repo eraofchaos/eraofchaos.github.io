@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Polaris Token](/Items/con_878/) | Magic Airship deals damage equal to 150% of own ATK to 3 random enemy units and decreases their Unit DMG by 20% for 7s. CD is 21s. |
+  |  Awaken  | **100x** [Polaris Token](/Items/con_878/) | Magic Airship deals damage equal to 150% of own ATK to 3 random enemy units and decreases their Unit DMG by 20% for 7s. CD is 21s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Polaris Token](/Items/con_878/) | Increases Magic Airship's Attack Speed by 10% and ATK by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Polaris Token](/Items/con_878/) | Increases Magic Airship's Unit DMG by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Polaris Token](/Items/con_878/) | Every 20s, Magic Airship increases its own Unit DMG by 20%, Critical Hit by 200, and Critical Hit DMG by 20% for 8s. It also grants a random friendly Caster unit with a buff of half its attributes. |

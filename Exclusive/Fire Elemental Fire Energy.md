@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Fire Energy Token](/Items/con_1291/) | <Fire Trio> Fire Elemental manipulates balls of fire to deal AoE damage on target units at 3 phases every 20s. The attack ranges change from small, to smaller, and then wide in that order, and deal 90%, 120%, and 150% of ATK respectively. The burning effect on the target lasts for 5s |
+  |  Awaken  | **100x** [Fire Energy Token](/Items/con_1291/) | <Fire Trio> Fire Elemental manipulates balls of fire to deal AoE damage on target units at 3 phases every 20s. The attack ranges change from small, to smaller, and then wide in that order, and deal 90%, 120%, and 150% of ATK respectively. The burning effect on the target lasts for 5s |
   | **1x** <i class="fas fa-star"/> | **50x** [Fire Energy Token](/Items/con_1291/) | Fire Elemental's penetration is increased by 150 |
   | **2x** <i class="fas fa-star"/> | **90x** [Fire Energy Token](/Items/con_1291/) | Increases Fire Elemental's ATK by 20% and unit's damage by 10% |
   | **3x** <i class="fas fa-star"/> | **130x** [Fire Energy Token](/Items/con_1291/) | At the beginning of battle, the Fire Elemental gets a shield equal to 100% of its Max HP. Its fire causes damage equal to 10% of its ATK to surrounding hostile units within a small range every second. This effect cannot be dispelled |

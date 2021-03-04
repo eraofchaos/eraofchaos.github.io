@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Gorgon's Horn Token](/Items/con_1225/) | <Petrified Armor> Gorgon covers its entire body with petrified armor, increasing their DEF by 24% and Unit DMG Reduction by 20% for 6s. When losing all bonuses, Gorgon deals damage equal to 150% of own ATK to enemy units within a large range and has a 30% chance to inflict Petrify for 3s. CD is 18s. |
+  |  Awaken  | **100x** [Gorgon's Horn Token](/Items/con_1225/) | <Petrified Armor> Gorgon covers its entire body with petrified armor, increasing their DEF by 24% and Unit DMG Reduction by 20% for 6s. When losing all bonuses, Gorgon deals damage equal to 150% of own ATK to enemy units within a large range and has a 30% chance to inflict Petrify for 3s. CD is 18s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Gorgon's Horn Token](/Items/con_1225/) | Increases Gorgon's HP and Unit DMG Reduction by 20% each. |
   | **2x** <i class="fas fa-star"/> | **90x** [Gorgon's Horn Token](/Items/con_1225/) | When casting <Petrified Armor>, Gorgon restores HP equal to 10% of own Max HP over 5s. |
   | **3x** <i class="fas fa-star"/> | **130x** [Gorgon's Horn Token](/Items/con_1225/) | <Tectonic Fission> When Gorgon loses its <Petrified Armor> bonus, it inflicts Slow or Burn to enemy units within a large range every second, also dealing damage equal to 3% of Max HP for 6s. |

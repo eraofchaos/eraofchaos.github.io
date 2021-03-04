@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Wyvern's Tail Token](/Items/con_1315/) | <Plagued Soul> Each time a Wyvern dies, increases Unit DMG and Unit DMG Reduction of friendly Fortress units by 1% each. Stacks up to 15 times. Lasts for the whole battle. |
+  |  Awaken  | **100x** [Wyvern's Tail Token](/Items/con_1315/) | <Plagued Soul> Each time a Wyvern dies, increases Unit DMG and Unit DMG Reduction of friendly Fortress units by 1% each. Stacks up to 15 times. Lasts for the whole battle. |
   | **1x** <i class="fas fa-star"/> | **50x** [Wyvern's Tail Token](/Items/con_1315/) | Increases Wyvern's Attack Speed by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Wyvern's Tail Token](/Items/con_1315/) | Increases Wyvern's Unit DMG by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Wyvern's Tail Token](/Items/con_1315/) | <Plagued Heart> Each time a Wyvern enters battle, increases the Penetration of all friendly Fortress units by 20 and Crit DMG by 2%. Stacks up to 15 times. Lasts for the whole battle. Wyvern units summon 1 Wyvern every 15s. Summoned Wyverns have the <Plagued Soul> and <Plagued Heart> skills. |

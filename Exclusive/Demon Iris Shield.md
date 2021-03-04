@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | At the beginning of battle, Demon's dodge is increased by 1000 for 30s. For each dodge, get a permanent 1% unit's damage reduction increase, up to 30% |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | At the beginning of battle, Demon's dodge is increased by 1000 for 30s. For each dodge, get a permanent 1% unit's damage reduction increase, up to 30% |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | At the beginning of battle, the Demon's tenacity is increased by 500 for 30s |
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Demon's HP by 20% and unit's damage reduction by 10% |
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | Increases Demon's DEF by 10%. DEF increased by 100% for 10s when HP is less than 50% or below for the first time |

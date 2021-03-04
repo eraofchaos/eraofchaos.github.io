@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Energy Core Token](/Items/con_205/) | <Rock Strike> Hits the ground hard to cause damage equal to 200% of its ATK on hostile units within a large area, \"knocking them up\" and \"stunning\" them for 3s. CD is 20s and pre-CD is 10s |
+  |  Awaken  | **100x** [Energy Core Token](/Items/con_205/) | <Rock Strike> Hits the ground hard to cause damage equal to 200% of its ATK on hostile units within a large area, \"knocking them up\" and \"stunning\" them for 3s. CD is 20s and pre-CD is 10s |
   | **1x** <i class="fas fa-star"/> | **50x** [Energy Core Token](/Items/con_205/) | Stone Elemental's unit damage reduction is increased by 20%. The effect doubles when the Stone Elemental is attacked by a magic unit |
   | **2x** <i class="fas fa-star"/> | **90x** [Energy Core Token](/Items/con_205/) | <Clay> When any hostile and friendly hero casts an earth spell, the Stone Elemental restores 2% of its Max HP |
   | **3x** <i class="fas fa-star"/> | **130x** [Energy Core Token](/Items/con_205/) | <Rock Strike> Decreases ATK speed of hostile units by 20% for 8s. If enemies are being <burned> by <Fire Trio>, their 15% unit's damage reduction will be decreased. The effect lasts for 8s |

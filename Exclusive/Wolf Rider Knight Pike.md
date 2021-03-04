@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Knight Pike Token](/Items/con_212/) | <Wolf Strike> Wolf Rider deals damage equal to 250% of own ATK and 5% of the target's Max HP to the target unit. CD is 12s. |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Wolf Strike> Wolf Rider deals damage equal to 250% of own ATK and 5% of the target's Max HP to the target unit. CD is 12s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Wolf Rider's ATK by 20% and Attack Speed by 10%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Wolf Rider's Unit DMG Reduction by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | <Wolf Covenant> Wolf Rider summons 1 wolf to aid in battle every 3s for 10s. The summoned wolf's normal attacks have a 5% chance of inflicting Stun on the target for 2s. |

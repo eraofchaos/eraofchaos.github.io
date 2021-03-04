@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Lady Luck> Every 20s, Leprechaun randomly obtains 1-4 four-leaf clovers. Leprechaun will gain random effects according to the number of four-leaf clovers from the following buffs: increases Shield Value by 200, increases DEF by 400, restores 1% of Max HP every second, and increases Dodge by 400. Buffs last for 12s. |
+  |  Awaken  | ? | <Lady Luck> Every 20s, Leprechaun randomly obtains 1-4 four-leaf clovers. Leprechaun will gain random effects according to the number of four-leaf clovers from the following buffs: increases Shield Value by 200, increases DEF by 400, restores 1% of Max HP every second, and increases Dodge by 400. Buffs last for 12s. |
   | **1x** <i class="fas fa-star"/> | ? | Increases own HP by 20% and DEF by 15%. |
   | **2x** <i class="fas fa-star"/> | ? | When Leprechaun is on the battlefield, increases Unit DMG of Conflux units by 10% and Critical Hit by 100. |
   | **3x** <i class="fas fa-star"/> | ? | <Rapid Combo> Every 26s, Leprechaun has a 60%/30%/10% chance to increase its Attack Speed by 50%/100%/200% for 9s. During this time, basic attacks will decrease the target unit's Unit DMG Reduction by 2%. Stacks up to 20 times. Lasts 5s. |

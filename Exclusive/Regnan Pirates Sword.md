@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sword Token](/Items/con_165/) | Triggers a powerful counter when attacked, and deals 300% damage to enemies. CD is 8s |
+  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | Triggers a powerful counter when attacked, and deals 300% damage to enemies. CD is 8s |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | When attacking, it has a 50% chance to infect hostile units with <scurvy>, causing them to lose 1% HP per second while decreasing their healing by 35% for 3s (No stack) |
   | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Regnan Pirates' ATK by 20% and unit's damage by 10% |
   | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | Regenerate 30% HP after eating oranges to cure scurvy when Regnan Pirates' HP is less than 30% for the first time,. Grants immunity to stun, petrification and silence for 5s when equipped with a Holy Emblem |

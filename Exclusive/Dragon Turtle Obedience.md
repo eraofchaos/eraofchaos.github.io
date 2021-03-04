@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Obedience Token](/Items/con_610/) | <Shield Shell> Dragon Turtle casts <Shield Shell> every 20s. For the next 6s, increases the Dragon Turtle's DMG Reflection and Unit DMG Reduction by 20% each, and when attacked by enemy Melee units, decreases their Attack Speed and Unit DMG by 20% each. Also inflicts Deter. If the target is bleeding, additionally decreases DEF by 20%. |
+  |  Awaken  | **100x** [Obedience Token](/Items/con_610/) | <Shield Shell> Dragon Turtle casts <Shield Shell> every 20s. For the next 6s, increases the Dragon Turtle's DMG Reflection and Unit DMG Reduction by 20% each, and when attacked by enemy Melee units, decreases their Attack Speed and Unit DMG by 20% each. Also inflicts Deter. If the target is bleeding, additionally decreases DEF by 20%. |
   | **1x** <i class="fas fa-star"/> | **50x** [Obedience Token](/Items/con_610/) | Increases Dragon Turtle's Unit DMG Reduction by 20%. When friendly heroes cast water-type spells, Dragon Turtle gains a Bubble equal to 20% of own Max HP for 10s. CD is 7s. |
   | **2x** <i class="fas fa-star"/> | **90x** [Obedience Token](/Items/con_610/) | Increases Dragon Turtle's healing received by 20%. Grants immunity to Silence. |
   | **3x** <i class="fas fa-star"/> | **130x** [Obedience Token](/Items/con_610/) | <Abyssal Rite> The first time Dragon Turtle's HP falls to 75%/50%/25%, it dispels its own debuffs and increases Tenacity and Dodge by 200 each. Lasts for the whole battle. Stacks up to 3 times. |

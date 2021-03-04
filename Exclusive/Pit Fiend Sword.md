@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sword Token](/Items/con_165/) | <Lash> Pit Fiend swings its whip, dealing damage equal to 300% of own ATK to enemy units in a large range and inflicting Bleed. There is a 50% chance of decreasing Unit DMG by 20% for 6s. CD is 16s. |
+  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Lash> Pit Fiend swings its whip, dealing damage equal to 300% of own ATK to enemy units in a large range and inflicting Bleed. There is a 50% chance of decreasing Unit DMG by 20% for 6s. CD is 16s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Pit Fiend's ATK by 20% and Healing by 10%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Unit DMG Reduction of friendly Inferno units by 10% when Pit Fiend is on the battlefield. |
   | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | <Infernal Binding> Pit Fiend wraps its whip around the target unit, exposing their weakness and rendering them unable to move and attack, decreasing their Unit DMG Reduction by 15% for 4s. CD is 20s. |

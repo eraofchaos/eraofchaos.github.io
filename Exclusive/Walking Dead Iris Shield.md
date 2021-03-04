@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | <Slay> The Walking Dead waves a chopper, causing damage equal to 100% of its ATK to hostile units within a small area in its path. The hit target will bleed and suffer damage equal to 10% of its ATK every second. The effect lasts for 10s. CD is 20s |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Slay> The Walking Dead waves a chopper, causing damage equal to 100% of its ATK to hostile units within a small area in its path. The hit target will bleed and suffer damage equal to 10% of its ATK every second. The effect lasts for 10s. CD is 20s |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Walking Dead's DEF increased by 300 |
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Walking Dead's tenacity increased by 500 |
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | If the target is in \"low morale\", increases ATK speed and life drain by 20% for Walking Dead |

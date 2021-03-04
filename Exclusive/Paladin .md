@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Fearless Token](/Items/con_339/) | <Enduring Guard> Paladin guards themselves and one random non-Inferno Melee unit, increasing both units' DEF and Unit DMG Reduction by 20% each for 10s. Also grants the Guardian status, which increases DEF and Unit DMG Reduction by an additional 20% each. The Guardian status will disappear once the unit has taken damage 10 times. CD is 15s. |
+  |  Awaken  | **100x** [Fearless Token](/Items/con_339/) | <Enduring Guard> Paladin guards themselves and one random non-Inferno Melee unit, increasing both units' DEF and Unit DMG Reduction by 20% each for 10s. Also grants the Guardian status, which increases DEF and Unit DMG Reduction by an additional 20% each. The Guardian status will disappear once the unit has taken damage 10 times. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Fearless Token](/Items/con_339/) | Increases the Unit DMG Reduction of nearby friendly units within a small range by 20% and removing limits for Castle units. |
   | **2x** <i class="fas fa-star"/> | **90x** [Fearless Token](/Items/con_339/) | Increases Paladin's base DEF by 300 and healing received by 30%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Fearless Token](/Items/con_339/) | <Faithful Prayer> Awakens Paladin's fearless might for a short time, decreasing the Accuracy of enemy units in a large range by 300 and increasing the Tenacity of friendly units by 300. Every 4s, purifies friendly units within range to remove 1 debuff stack. Lasts 12s. CD is 20s. |

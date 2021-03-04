@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Blood Detect> Revyaratan deals damage equal to 120% of own ATK to the target unit every 7s. Also inflicts Bleed, and decreases Unit DMG Reduction by 20% and Tenacity by 200 for 4s. The target unit loses 1% of Max HP every second. |
+  |  Awaken  | ? | <Blood Detect> Revyaratan deals damage equal to 120% of own ATK to the target unit every 7s. Also inflicts Bleed, and decreases Unit DMG Reduction by 20% and Tenacity by 200 for 4s. The target unit loses 1% of Max HP every second. |
   | **1x** <i class="fas fa-star"/> | ? | Increases Revyaratan's Unit DMG by 20%. Deals additional 20% Critical Hit DMG to enemy units inflicted with Slow. |
   | **2x** <i class="fas fa-star"/> | ? | When friendly heroes cast water-type spells, increases Critical Hit DMG of Revyaratan and all friendly units in its path by 10% and Critical Hit by 100 for 7s. This effect is doubled against Cove units. |
   | **3x** <i class="fas fa-star"/> | ? | <Frenzied Snapping> Every 20s, Revyaratan enters the <Frenzied Snapping> state. For the next 9s, increases its Critical Hit DMG by 40%, Attack Speed by 40%, and Critical Hit by 400. At the same time, decreases the target unit's Unit DMG Reduction by 20%, healing received by 20%, and Tenacity by 200. This effect is doubled against enemy units inflicted with Slow. This effect cannot be dispelled. |

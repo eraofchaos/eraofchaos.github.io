@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Thousand Ton Token](/Items/con_451/) | Giant summons a thundercloud above a random unit for 10s. The thundercloud will strike a random unit within range every 0.5s, with each strike dealing damage equal to 40% of own ATK. If the same unit is struck twice in a row within 4s, the unit is inflicted with Paralysis for 5s. If the same unit is struck four times in a row, the unit is inflicted with Emaciated for 2s. CD is 15s. |
+  |  Awaken  | **100x** [Thousand Ton Token](/Items/con_451/) | Giant summons a thundercloud above a random unit for 10s. The thundercloud will strike a random unit within range every 0.5s, with each strike dealing damage equal to 40% of own ATK. If the same unit is struck twice in a row within 4s, the unit is inflicted with Paralysis for 5s. If the same unit is struck four times in a row, the unit is inflicted with Emaciated for 2s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Thousand Ton Token](/Items/con_451/) | Giant increases its own Unit DMG by 10%. When it's on the battlefield, it also increases the Unit DMG of friendly Caster units by 10%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Thousand Ton Token](/Items/con_451/) | Giant temporarily awakens the lightning elemental within its armor, increasing its own Critical Hit by 200 and Attack Speed by 20% within 8s. CD is 14s. |
   | **3x** <i class="fas fa-star"/> | **130x** [Thousand Ton Token](/Items/con_451/) | Giant recharges its own armor once every 10s, allowing it to block damage 3 times while releasing a pulse that increases the Tenacity of friendly Tower units by 200 and Dodge by 200 for 6s. |

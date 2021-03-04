@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Gauze Token](/Items/con_44/) | Mummy inflicts Low Morale on all units in a large range every 8s and decreases the Unit DMG of enemy units in range by 15% while inflicting them with Plague for 3s. |
+  |  Awaken  | **100x** [Gauze Token](/Items/con_44/) | Mummy inflicts Low Morale on all units in a large range every 8s and decreases the Unit DMG of enemy units in range by 15% while inflicting them with Plague for 3s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Gauze Token](/Items/con_44/) | Increases Mummy's Unit DMG Reduction by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Gauze Token](/Items/con_44/) | Mummy increases own DEF by 15% for 5s when suffering from Low Morale and recovers HP equal to 8% of their Max HP. CD is 15s. |
   | **3x** <i class="fas fa-star"/> | **130x** [Gauze Token](/Items/con_44/) | <Mummification> Mummy uses bandages to wrap up nearby Melee units, rendering them unable to move, attack, or cast skills while decreasing their Unit DMG Reduction by 15% for 3s. CD is 25s. |

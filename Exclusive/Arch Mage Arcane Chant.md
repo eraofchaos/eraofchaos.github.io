@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | <Infuse Magic> Mage infuses magic into their staff and launches a powerful attack, dealing damage equal to 200% of own ATK to the target unit. CD is 18s. |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Infuse Magic> Mage infuses magic into their staff and launches a powerful attack, dealing damage equal to 200% of own ATK to the target unit. CD is 18s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | <Magic Awakening> When Mage is buffed by a friendly hero's support spell, they immediately cast <Infuse Magic> once. |
   | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Infuses armor with magic when casting <Infuse Magic>, increasing the Unit DMG Reduction of friendly units in a large range around themselves by 10% and Magic Resistance by 40% for 3s. Cannot be stacked. |
   | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | Infuses weapon with <Water Magic - Freeze> when casting <Infuse Magic>: The next attack is guaranteed to Freeze the target unit for 2-4s. |

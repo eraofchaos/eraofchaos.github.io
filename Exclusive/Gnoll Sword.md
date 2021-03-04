@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sword Token](/Items/con_165/) | <Open Wounds> Gnoll deals damage equal to 275% of own ATK to target unit and inflicts Bleed for 8s. CD is 15s. |
+  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Open Wounds> Gnoll deals damage equal to 275% of own ATK to target unit and inflicts Bleed for 8s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Gnoll's Penetration by 100. |
   | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Gnoll's Unit DMG by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | Increases Gnoll's Dodge by 300. When taking a critical hit, restores 5% of Max HP and has a 50% chance to increase Unit DMG Reduction by 50% for 1s. CD is 3s. |

@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | Dwarf hammers their anvil after being attacked, increasing their DEF by 50% for 5s but rendering them unable to move or attack. Once this effect ends, friendly front row units will gain a shield equal to 10% of Max HP that lasts for 5s. CD is 25s. |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | Dwarf hammers their anvil after being attacked, increasing their DEF by 50% for 5s but rendering them unable to move or attack. Once this effect ends, friendly front row units will gain a shield equal to 10% of Max HP that lasts for 5s. CD is 25s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Dwarf's HP by 20% and DEF by 10%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Dwarf's Unit DMG Reduction by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Hammer Smash> Dwarf smashes with their hammer, dealing damage equal to 150% of own ATK to enemy units within a large range and slowing them for 5s. CD is 20s. |

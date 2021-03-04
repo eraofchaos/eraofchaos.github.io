@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Spirit Core Token](/Items/con_603/) | <Demoralize> Psychic Elemental bombards the enemy's psyche, dealing damage equal to 20% of Max HP to the target unit and restoring HP equal to 50% of own ATK. CD is 20s. |
+  |  Awaken  | **100x** [Spirit Core Token](/Items/con_603/) | <Demoralize> Psychic Elemental bombards the enemy's psyche, dealing damage equal to 20% of Max HP to the target unit and restoring HP equal to 50% of own ATK. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Spirit Core Token](/Items/con_603/) | Increases Psychic Elemental's Unit DMG by 30%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Spirit Core Token](/Items/con_603/) | Psychic Elemental is immune to all spell damage. When Psychic Elemental receives 4 kinds of <Elemental Resonance> effects, all friendly Conflux units become immune to all spell damage. |
   | **3x** <i class="fas fa-star"/> | **130x** [Spirit Core Token](/Items/con_603/) | <Domination> Psychic Elemental steals 20% of a random unit's DEF, granting themselves a percentage-based bonus for 10s. CD is 10s. |

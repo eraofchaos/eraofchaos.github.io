@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Iris Shield Token](/Items/con_155/) | <Upgrade Module> Iron Golem activates the upgrade module hidden within it, increasing its own DEF by 10%, Unit DMG Reduction by 10%, and Attack Speed by 30% for 10s. CD is 20s. |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Upgrade Module> Iron Golem activates the upgrade module hidden within it, increasing its own DEF by 10%, Unit DMG Reduction by 10%, and Attack Speed by 30% for 10s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Iron Golem's HP by 20% and DEF by 15%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Iron Golem's Tenacity by 300. When <Upgrade Module> is cast, Tenacity bonus is doubled. |
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Electromagnetic Fist> When Iron Golem attacks, there is a 10% chance of casting <Electromagnetic Fist> once, dealing damage equal to 200% of own ATK to the target unit and decreasing their Unit DMG and Unit DMG Reduction by 10% each for 5s. Stacks up to 4 times. |

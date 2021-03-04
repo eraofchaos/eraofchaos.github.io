@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Dragon Soul> Red Dragon condenses 1 Dragon Soul in its body every 15s, up to 4 Dragon Souls. Each Dragon Soul increases Red Dragon's Unit DMG by 10% and Unit DMG Reduction by 10%. When the Red Dragon has a Dragon Soul, it casts <Infernal Flame>, dealing damage equal to 150% of own ATK to the target unit, and additional damage equal to 20% of Max HP to units inflicted with Burn. CD is 20s. |
+  |  Awaken  | ? | <Dragon Soul> Red Dragon condenses 1 Dragon Soul in its body every 15s, up to 4 Dragon Souls. Each Dragon Soul increases Red Dragon's Unit DMG by 10% and Unit DMG Reduction by 10%. When the Red Dragon has a Dragon Soul, it casts <Infernal Flame>, dealing damage equal to 150% of own ATK to the target unit, and additional damage equal to 20% of Max HP to units inflicted with Burn. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | ? | Increases Red Dragon's DEF by 50 and Penetration by 50 each time an Underground unit is deployed. |
   | **2x** <i class="fas fa-star"/> | ? | Increases Unit DMG by 20% and Critical Hit by 200 when fighting against burning units. |
   | **3x** <i class="fas fa-star"/> | ? | <Dragon Flame> Red Dragon deals 130% of own ATK as damage to enemy units in a large range and inflicts them with Burn, decreasing Unit DMG Reduction by 20% and dealing 2% of Max HP per second for 8s. CD is 18s. |

@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Dark Gaze Token](/Items/con_1126/) | <Darksight> Deals damage equal to 200% of own ATK to enemy units in a large area in front of it while decreasing their Unit DMG Reduction by 15%. Effect doubles against stunned targets. Lasts 7s. CD is 15s. |
+  |  Awaken  | **100x** [Dark Gaze Token](/Items/con_1126/) | <Darksight> Deals damage equal to 200% of own ATK to enemy units in a large area in front of it while decreasing their Unit DMG Reduction by 15%. Effect doubles against stunned targets. Lasts 7s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Dark Gaze Token](/Items/con_1126/) | When enemy heroes casts a spell, Beholder gains a shield equal to 10% of Max HP for 7s. |
   | **2x** <i class="fas fa-star"/> | **90x** [Dark Gaze Token](/Items/con_1126/) | Increases Beholder's Critical Hit by 50 each time a Dungeon unit is deployed. |
   | **3x** <i class="fas fa-star"/> | **130x** [Dark Gaze Token](/Items/con_1126/) | Beholder casts <Umbral Bind> on a random enemy unit every 20s. The bound unit is unable to attack and its DEF is decreased by 20%. If the target unit is already affected by <Mind Control>, its Tenacity is decreased by 200 for 5s. |

@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Knight Pike Token](/Items/con_212/) | At the start of battle, increases Sprite's Unit DMG by 20% and 20% Attack Speed for 30s. |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | At the start of battle, increases Sprite's Unit DMG by 20% and 20% Attack Speed for 30s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Sprite's ATK by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Sprite's Critical Hit by 200. |
   | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | Sprite deals damage equal to 450% of own ATK to the target unit and randomly inflicts Freeze, Burn, Petrify, or Static for 3s. CD is 18. |

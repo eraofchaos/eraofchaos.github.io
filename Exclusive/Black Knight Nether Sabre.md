@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Nether Sabre Token](/Items/con_997/) | The Black Knight decreases the DEF of hostile units within a large range by 30%. Increases his own penetration by 500 when fighting against units in \"low morale\" |
+  |  Awaken  | **100x** [Nether Sabre Token](/Items/con_997/) | The Black Knight decreases the DEF of hostile units within a large range by 30%. Increases his own penetration by 500 when fighting against units in \"low morale\" |
   | **1x** <i class="fas fa-star"/> | **50x** [Nether Sabre Token](/Items/con_997/) | The Black Knight's unit's damage reduction increases by 20% |
   | **2x** <i class="fas fa-star"/> | **90x** [Nether Sabre Token](/Items/con_997/) | The Black Knight's unit's damage increases by 25% |
   | **3x** <i class="fas fa-star"/> | **130x** [Nether Sabre Token](/Items/con_997/) | At the beginning of battle, the Black Knight charges on the spot. During this time, he is immune to all kinds of damage. Appears in front of the hostile unit standing at the end of the path in 6s. If there is no suitable target, attacks a random back-row unit and deals a Critical Strike (No awakening effect. Only works once per battle) |

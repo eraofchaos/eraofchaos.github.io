@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
+  |  Awaken  | **100x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
   | **1x** <i class="fas fa-star"/> | **50x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
   | **2x** <i class="fas fa-star"/> | **90x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
   | **3x** <i class="fas fa-star"/> | **130x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |

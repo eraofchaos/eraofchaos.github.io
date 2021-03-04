@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | <Frozen Fracture> Strikes the enemy down with extreme cold, dealing damage to the target unit equal to 200% of own ATK and inflicting Freeze for 5s. CD is 20s. Pre-CD is 11s. |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Frozen Fracture> Strikes the enemy down with extreme cold, dealing damage to the target unit equal to 200% of own ATK and inflicting Freeze for 5s. CD is 20s. Pre-CD is 11s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Increases Ice Elemental's Unit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | <Ice Shield> Provides an ice shield for a random friendly front row unit. When this unit is attacked, it inflicts Slow for 3s. Ice Shield lasts for 10s. CD is 15s. This skill is cast at the start of battle. |
   | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | ncreases Ice Elemental's Critical Hit by 200. When the target unit is inflicted with Freeze, this effect is doubled. When casting <Frozen Fracture>, if the target unit is affected by Stone Elemental's exclusive 3-star Unit DMG Reduction debuff, additionally decreases the target unit's Magic Resistance by 50%. This effect lasts 8s. |

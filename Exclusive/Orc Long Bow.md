@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Soaring War Axe> Orc throws a giant war axe at the target unit, dealing damage equal to 300% of its own ATK while ignoring 1,000 of the target unit's DEF. CD is 15s. |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Soaring War Axe> Orc throws a giant war axe at the target unit, dealing damage equal to 300% of its own ATK while ignoring 1,000 of the target unit's DEF. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Orc's ATK by 20% and Critical Hit by 100. |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Each time Orc's HP falls by 10%, its Unit DMG Reduction and Magic Resistance increases by 4% each. Effect remains even after HP is restored. |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | Orc is focused on its current battle. Each attack increases units' Attack Speed by 5% and Critical Hit by 15. Stacks up to 10 times. Once Orc changes target, stacks reset to 0. |

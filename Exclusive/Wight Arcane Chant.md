@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | <Cursed Mist> Wight unleashes a cursed mist that decreases the Unit DMG Reduction of enemy units within a large range of the target unit by 15% and deals damage equal to 50% of own ATK every second for 6s. CD is 18s. |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Cursed Mist> Wight unleashes a cursed mist that decreases the Unit DMG Reduction of enemy units within a large range of the target unit by 15% and deals damage equal to 50% of own ATK every second for 6s. CD is 18s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Increases Wight's Unit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Increases Wight's Attack Speed by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | When Wight units die, 3 units will be inflicted with Fear for 5s and a Fear Mark stack will be added to them. (Fear: Cannot attack, move, or cast skills. Decreases Magic Resistance by 30%.) |

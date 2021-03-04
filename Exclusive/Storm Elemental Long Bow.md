@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Force of Nature> Storm Elemental calls down the judgment of the heavens, dealing damage equal to 300% of own ATK to the target unit and inflicting Paralysis for 5s. CD is 20s. Pre-CD is 12s. |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Force of Nature> Storm Elemental calls down the judgment of the heavens, dealing damage equal to 300% of own ATK to the target unit and inflicting Paralysis for 5s. CD is 20s. Pre-CD is 12s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Storm Elemental's Unit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Increases Storm Elemental's Critical Hit by 200 and Critical Hit DMG by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | Increases Storm Elemental's Penetration by 200. When the target unit is inflicted with Paralysis, this effect is doubled. When casting <Force of Nature>, if the target unit is affected by Ice Elemental's exclusive 3-star Magic Resistance debuff, triggers <Elemental Rage>. <Elemental Rage> deals damage equal to 100% of own ATK plus 2% of the target's Max HP to enemy units in a large range every 0.2s and also decreases Unit DMG Reduction and DEF by 20% each for 3s. |

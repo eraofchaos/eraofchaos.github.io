@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Hydra's Head Token](/Items/con_178/) | <Feeding Frenzy> Bites the enemy 1 time every 1s, attacking 5 times in total and dealing damage equal to 50% of own ATK each time. Decreases the enemy's Tenacity by 50 and increases own Critical Hit DMG by 4%. Stacks up to 5 times. This effect lasts for 3s. CD is 20s. |
+  |  Awaken  | **100x** [Hydra's Head Token](/Items/con_178/) | <Feeding Frenzy> Bites the enemy 1 time every 1s, attacking 5 times in total and dealing damage equal to 50% of own ATK each time. Decreases the enemy's Tenacity by 50 and increases own Critical Hit DMG by 4%. Stacks up to 5 times. This effect lasts for 3s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Hydra's Head Token](/Items/con_178/) | Increases Hydra's Unit DMG and ATK by 20% each. |
   | **2x** <i class="fas fa-star"/> | **90x** [Hydra's Head Token](/Items/con_178/) | Increases Hydra's DEF and Unit DMG Reduction by 10% each. When Hydra is on the battlefield, it increases the DEF of all friendly Fortress units by 10% and Unit DMG Reduction by 10%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Hydra's Head Token](/Items/con_178/) | <Rebirth> When taking damage exceeding 10% of own Max HP in a single attack, but is less than 20% of Max HP, restores 500,000 HP after 3s. When taking damage exceeding 20% of own Max HP in a single attack, become immune to the damage beyond that 20%. |

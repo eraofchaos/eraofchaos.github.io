@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | Each normal attack causes additional damage equal to 30% of its ATK to the target |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | Each normal attack causes additional damage equal to 30% of its ATK to the target |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Pegasus unit's damage increased by 20% |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Pegasus' ATK increased by 20% and ATK speed by 10% |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | <Bladestorm> Pegasus throws a rose thorn every 25s, dealing damage equal to the sum of 5% of Max HP and 20% ATK to all hostile units while causing enemies to bleed for 10s |

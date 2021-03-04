@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tempest> Every 15s, Shark Trainer waves their blade, dealing 100% damage to all enemy units within a large range. Also inflicts Deter and decreases the Unit DMG of enemy units by 30% for 7s. |
+  |  Awaken  | ? | <Tempest> Every 15s, Shark Trainer waves their blade, dealing 100% damage to all enemy units within a large range. Also inflicts Deter and decreases the Unit DMG of enemy units by 30% for 7s. |
   | **1x** <i class="fas fa-star"/> | ? | Increases Shark Trainer and Sharks' Critical Hit by 400. |
   | **2x** <i class="fas fa-star"/> | ? | When gain a Bubble, increases own Attack Speed by 20% for 8s. Attack Speed increases by 20% against units inflicted with Bleed. |
   | **3x** <i class="fas fa-star"/> | ? | <Blood Feud> When a Shark Trainer or Shark falls below 50% HP for the first time, they gain a Bubble equal to 30% of own Max HP for the whole battle that cannot be dispelled. At the same time, the Shark and Shark Trainer enter the Retaliation state. For the next 10s, attacks deal damage equal to 8% of Max HP to targets and inflicts Bleed for 12s that cannot be dispelled. This skill cannot be silenced. |

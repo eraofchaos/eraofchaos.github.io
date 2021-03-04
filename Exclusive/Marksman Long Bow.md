@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Armor-piercing Arrow> Deals damage to the current target equal to 300% of own ATK while ignoring 1,000 of the target unit's DEF. CD is 15s. |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Armor-piercing Arrow> Deals damage to the current target equal to 300% of own ATK while ignoring 1,000 of the target unit's DEF. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Marksman's ATK by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Increases Marksman's DEF by 20% when Marksman is in High Morale. |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | Marksman's attacks will inflict enemy units with Retribution. Attacking the same target unit a total of 18 times will deal additional damage equal to 200% of Marksman's ATK. |

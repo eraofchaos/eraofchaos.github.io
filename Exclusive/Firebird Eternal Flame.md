@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Eternal Flame Token](/Items/con_982/) | <Land on Fire> Firebird deals damage 3 times to all hostile units standing in the same row as the target every 10s and \"burns\" them for 8s |
+  |  Awaken  | **100x** [Eternal Flame Token](/Items/con_982/) | <Land on Fire> Firebird deals damage 3 times to all hostile units standing in the same row as the target every 10s and \"burns\" them for 8s |
   | **1x** <i class="fas fa-star"/> | **50x** [Eternal Flame Token](/Items/con_982/) | Firebird is immune to damage caused by fire spells |
   | **2x** <i class="fas fa-star"/> | **90x** [Eternal Flame Token](/Items/con_982/) | Increases Firebird's unit's damage by 10% and ATK speed by 20% |
   | **3x** <i class="fas fa-star"/> | **130x** [Eternal Flame Token](/Items/con_982/) | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |

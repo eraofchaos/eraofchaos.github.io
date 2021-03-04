@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Lethal Poison> Every 4s, Waspwort summons Waspwort Leaves to 1 random enemy unit. (When randomly summoning to the same enemy unit, the effect will stack.) Wasps perched on Waspwort Leaves deal damage equal to 10% of own ATK to enemy units every second, and have a 10% chance to inflict Silence for 3s. CD is 9s. |
+  |  Awaken  | ? | <Lethal Poison> Every 4s, Waspwort summons Waspwort Leaves to 1 random enemy unit. (When randomly summoning to the same enemy unit, the effect will stack.) Wasps perched on Waspwort Leaves deal damage equal to 10% of own ATK to enemy units every second, and have a 10% chance to inflict Silence for 3s. CD is 9s. |
   | **1x** <i class="fas fa-star"/> | ? | Increases Waspwort's Unit DMG by 15% and DEF Pierce by 150. |
   | **2x** <i class="fas fa-star"/> | ? | Increases Waspwort's Unit DMG Reduction by 15%. This effect doubles when attacking Melee units. |
   | **3x** <i class="fas fa-star"/> | ? | <Poisonous Leaf> When friendly summoned creatures die, Waspwort controls Waspwort Leaves to inject poison into enemy units, inflicting Paralysis for 5s. At the same time, also purifies to remove 1 stack of buff. |

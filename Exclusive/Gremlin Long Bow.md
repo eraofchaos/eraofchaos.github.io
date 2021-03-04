@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Magic Bomb> Throws a magical iron ball at the target unit, dealing damage equal to 200% of own ATK to nearby enemy units when the iron ball explodes. CD is 15s. |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Magic Bomb> Throws a magical iron ball at the target unit, dealing damage equal to 200% of own ATK to nearby enemy units when the iron ball explodes. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Gremlin's Unit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | <Magic Awakening> Increases Gremlin's Magic Resistance by 6% and Unit DMG Reduction by 3% for 5s. Stacks up to 10 times. |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | <Magic Bomb> deals extra damage equal to 100% of own ATK and inflicts Stun on enemy units for 2s. |

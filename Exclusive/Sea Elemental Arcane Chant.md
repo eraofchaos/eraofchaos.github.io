@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | <Tidal Waves> It can be triggered once every 20s. It summons waves beneath a random hostile unit, dealing damage equal to 200% of its ATK to hostile units within a small range |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Tidal Waves> It can be triggered once every 20s. It summons waves beneath a random hostile unit, dealing damage equal to 200% of its ATK to hostile units within a small range |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | At the beginning of battle, all friendly units get a [Bubble] equal to 10% of their Max HP |
   | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | The Sea Elemental's attack decreases the target unit's unit's damage by 10% and magic resistance by 50% |
   | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | When the Sea Elemental is fighting against a 1-man or 4-man unit, its normal attack deals 30% AoE damage; when against a 9-man unit, its normal attack deals 50% damage to 5 units in the target |

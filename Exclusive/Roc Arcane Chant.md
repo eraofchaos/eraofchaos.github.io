@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Arcane Chant Token](/Items/con_124/) | <Static Pulse> Roc manipulates the lightning within its body to deal damage equal to 2% of its Max HP every second to enemy units in a large range while decreasing Attack Speed by 20% for 5s. CD is 20s. |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Static Pulse> Roc manipulates the lightning within its body to deal damage equal to 2% of its Max HP every second to enemy units in a large range while decreasing Attack Speed by 20% for 5s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Increases Roc's ATK by 20% and Critical Hit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Increases Roc's Unit DMG by 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | When Roc attacks enemies within <Static Pulse>, increases own Attack Speed by 30% and Critical Hit DMG by 40%. |

@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Long Bow Token](/Items/con_136/) | <Boulder Throwing> throws rocks that cause damage equal to 200% of Max HP to all enemies within the target area. It can be triggered once every 15s. |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Boulder Throwing> throws rocks that cause damage equal to 200% of Max HP to all enemies within the target area. It can be triggered once every 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Use <Boulder Throwing> once when Cyclops launches its first attack |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Increases Cyclops' unit's damage and ATK speed by 20% |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | When its HP drops below 30% for the first time, the Cyclops unleashes Earthshaker once, increasing its ATK speed permanently by 25% |

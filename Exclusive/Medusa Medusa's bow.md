@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Exclusive Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | **100x** [Medusa's Bow Token](/Items/con_103/) | Medusa has a 50% chance to apply <Snake Venom> to a random unit whenever she attacks. The effect lasts throughout the entire battle, up to 10 stacks. When Medusa attacks any unit with 10-stack [Snake Venom], her unit's damage is increased by 30%. <Snake Venom>: Causes damage equal to 5% of Medusa's ATK per second |
+  |  Awaken  | **100x** [Medusa's Bow Token](/Items/con_103/) | Medusa has a 50% chance to apply <Snake Venom> to a random unit whenever she attacks. The effect lasts throughout the entire battle, up to 10 stacks. When Medusa attacks any unit with 10-stack [Snake Venom], her unit's damage is increased by 30%. <Snake Venom>: Causes damage equal to 5% of Medusa's ATK per second |
   | **1x** <i class="fas fa-star"/> | **50x** [Medusa's Bow Token](/Items/con_103/) | Medusa's Crit Hit increased by 300 |
   | **2x** <i class="fas fa-star"/> | **90x** [Medusa's Bow Token](/Items/con_103/) | Increases Medusa's ATK and ATK speed by 20% |
   | **3x** <i class="fas fa-star"/> | **130x** [Medusa's Bow Token](/Items/con_103/) | <Slough> Medusa casts a skill once every 10s to remove all debuffs she has suffered |
