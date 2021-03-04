@@ -2,7 +2,7 @@
 title: "Chained Boulder"
 permalink: /equipment/Chained Boulder/
 excerpt: "Era of Chaos Chained Boulder. Chained Boulder"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Chained Boulder.md"
 toc: false

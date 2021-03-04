@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Regnan Serpent"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Day Tides](/Exclusive/Regnan Serpent Day Tides/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Day Tides Token](/Items/con_1406/)
 

@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Gog"
 toc: true
@@ -81,6 +81,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Arcane Chant](/Exclusive/Gog Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 

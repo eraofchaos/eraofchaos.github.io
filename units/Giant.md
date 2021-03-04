@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Giant"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Thousand Ton](/Exclusive/Giant Thousand Ton/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Thousand Ton Token](/Items/con_451/)
 

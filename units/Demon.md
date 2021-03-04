@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Demon"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Iris Shield](/Exclusive/Demon Iris Shield/) 
+
+ **Is Open:** + 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Naga"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Naga Sword](/Exclusive/Naga Naga Sword/) 
+
+ **Is Open:** + 
 
  **Item to Rank Up:** [Naga Sword Token](/Items/con_95/)
 

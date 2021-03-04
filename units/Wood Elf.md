@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Wood Elf"
 toc: true
@@ -82,6 +82,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Long Bow](/Exclusive/Wood Elf Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 

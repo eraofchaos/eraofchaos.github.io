@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Harpy"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Knight Pike](/Exclusive/Harpy Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 

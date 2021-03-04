@@ -2,7 +2,7 @@
 title: "Exclusive - Annihilation"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Annihilation. Annihilation. Era of Chaos Exclusive Annihilation. Red Dragon Exclusive."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Red Dragon Annihilation.md"
 toc: false

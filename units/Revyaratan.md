@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Revyaratan"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Gloom Tides](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** -
 

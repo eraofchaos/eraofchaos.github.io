@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Serpent Fly"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Arcane Chant](/Exclusive/Serpent Fly Arcane Chant/) 
+
+ **Is Open:** + 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 

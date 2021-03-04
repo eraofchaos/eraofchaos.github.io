@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Basilisk"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Basilisk's Tail](/Exclusive/Basilisk Basilisk's Tail/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Basilisk's Tail Token](/Items/con_883/)
 

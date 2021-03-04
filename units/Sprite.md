@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Sprite"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Knight Pike](/Exclusive/Sprite Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
 

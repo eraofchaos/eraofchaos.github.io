@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Green Dragon"
 toc: true
@@ -81,6 +81,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Resplendent Dragonwing](/Exclusive/Green Dragon Resplendent Dragonwing/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Resplendent Dragonwing Token](/Items/con_714/)
 

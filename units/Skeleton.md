@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Skeleton"
 toc: true
@@ -81,6 +81,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Iris Shield](/Exclusive/Skeleton Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 

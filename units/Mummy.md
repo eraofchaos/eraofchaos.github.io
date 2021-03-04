@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Mummy"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Gauze](/Exclusive/Mummy Gauze/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Gauze Token](/Items/con_44/)
 

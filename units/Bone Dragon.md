@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Bone Dragon"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Immortal Dragon Bone](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Immortal Dragon Bone Token](/Items/con_1418/)
 

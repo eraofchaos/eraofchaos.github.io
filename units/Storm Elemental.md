@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Storm Elemental"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Long Bow](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 

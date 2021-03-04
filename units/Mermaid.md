@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Mermaid"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Night Tides](/Exclusive/Mermaid Night Tides/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Night Tides Token](/Items/con_317/)
 

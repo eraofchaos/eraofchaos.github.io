@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Roc"
 toc: true
@@ -82,6 +82,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Arcane Chant](/Exclusive/Roc Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
 

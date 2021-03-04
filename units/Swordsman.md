@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Swordsman"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Iris Shield](/Exclusive/Swordsman Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
 

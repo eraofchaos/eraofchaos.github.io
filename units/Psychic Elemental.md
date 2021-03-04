@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Psychic Elemental"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Spirit Core](/Exclusive/Psychic Elemental Spirit Core/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Spirit Core Token](/Items/con_603/)
 

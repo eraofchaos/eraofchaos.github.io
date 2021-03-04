@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Gremlin"
 toc: true
@@ -81,6 +81,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Long Bow](/Exclusive/Gremlin Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 

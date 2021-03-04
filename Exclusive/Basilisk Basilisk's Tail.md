@@ -2,7 +2,7 @@
 title: "Exclusive - Basilisk's Tail"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Basilisk's Tail. Basilisk's Tail. Era of Chaos Exclusive Basilisk's Tail. Basilisk Exclusive."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Basilisk Basilisk's Tail.md"
 toc: false

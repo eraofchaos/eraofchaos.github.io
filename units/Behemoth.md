@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Behemoth"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Bloodthirsty Spirit](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Bloodthirsty Spirit Token](/Items/con_377/)
 

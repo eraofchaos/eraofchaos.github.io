@@ -2,7 +2,7 @@
 title: "Combination Info for Bleeding"
 permalink: /combination/Bleeding/
 excerpt: "Combination Info - Bleeding. Units and Heroes Formation."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Bleeding.md"
 toc: false

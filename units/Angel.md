@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Angel"
 toc: true
@@ -81,6 +81,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Durandel](/Exclusive/Angel Durandel/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Durandel Token](/Items/con_1329/)
 

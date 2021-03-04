@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Nightmare"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusive
 
  **Name:** [](/Exclusive/Nightmare /) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Nightmare's Eye Token](/Items/con_115/)
 

@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Beholder"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Dark Gaze](/Exclusive/Beholder Dark Gaze/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Dark Gaze Token](/Items/con_1126/)
 

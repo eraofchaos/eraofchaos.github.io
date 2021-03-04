@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Wyvern"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Wyvern's Tail](/Exclusive/Wyvern Wyvern's Tail/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_1315/)
 

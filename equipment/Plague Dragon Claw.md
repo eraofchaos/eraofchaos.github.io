@@ -2,7 +2,7 @@
 title: "Plague Dragon Claw"
 permalink: /equipment/Plague Dragon Claw/
 excerpt: "Era of Chaos Plague Dragon Claw. Plague Dragon Claw"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Plague Dragon Claw.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusive - Sword"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Regnan Pirates Exclusive."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Regnan Pirates Sword.md"
 toc: false

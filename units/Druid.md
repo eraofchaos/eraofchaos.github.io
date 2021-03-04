@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Druid"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Staff of Regrowth](/Exclusive/Druid Staff of Regrowth/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Staff of Regrowth Token](/Items/con_995/)
 

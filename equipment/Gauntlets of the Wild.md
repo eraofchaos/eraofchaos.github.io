@@ -2,7 +2,7 @@
 title: "Gauntlets of the Wild"
 permalink: /equipment/Gauntlets of the Wild/
 excerpt: "Era of Chaos Gauntlets of the Wild. Gauntlets of the Wild"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Gauntlets of the Wild.md"
 toc: false

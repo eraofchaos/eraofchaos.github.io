@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Black Dragon"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Black Dragon's Scale](/Exclusive/Black Dragon Black Dragon's Scale/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1231/)
 

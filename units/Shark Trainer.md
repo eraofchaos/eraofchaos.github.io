@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark."
 unitID: 9909
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Shark Trainer"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Break Waves](/Exclusive/Shark Trainer Break Waves/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** -
 

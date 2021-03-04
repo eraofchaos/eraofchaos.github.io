@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Gorgon"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Gorgon's Horn](/Exclusive/Gorgon Gorgon's Horn/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_1225/)
 

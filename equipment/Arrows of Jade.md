@@ -2,7 +2,7 @@
 title: "Arrows of Jade"
 permalink: /equipment/Arrows of Jade/
 excerpt: "Era of Chaos Arrows of Jade. Arrows of Jade"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Arrows of Jade.md"
 toc: false

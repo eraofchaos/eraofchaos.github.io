@@ -2,7 +2,7 @@
 title: "LuckyBlessings"
 permalink: /equipment/LuckyBlessings/
 excerpt: "Era of Chaos LuckyBlessings. LuckyBlessings"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "LuckyBlessings.md"
 toc: false

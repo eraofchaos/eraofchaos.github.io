@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Regnan Archer"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Miracle](/Exclusive/Regnan Archer Miracle/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** -
 

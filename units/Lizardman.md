@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: en
 ref: "Lizardman"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusive
 
  **Name:** [Long Bow](/Exclusive/Lizardman Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
 
