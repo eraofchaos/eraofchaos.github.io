@@ -47,6 +47,7 @@ docs:
     children:
       - title: "English"
         url: /
+        isactive: 1
       - title: "Русский"
         url: /ru/
       - title: "Deutsch"
