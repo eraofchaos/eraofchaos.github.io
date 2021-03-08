@@ -10,6 +10,19 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210308 %}
+Work is in progress with new changes (client 146 (3208))... 
+
+On 6th March, Game developers made a change in the game to prevent accessing in-game data. It would keep me busy for sometime.
+Many new feature is on the way.
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">8 March 2021 Update:</h4>
+  {{ notice-update20210308 | markdownify }}
+</div>
+
+
 {% capture notice-update20210303 %}
 
 Work is in progress with new changes (client 142 (3173))... 
@@ -23,25 +36,7 @@ Open **Story Chapter 2** to get free 13 [Gold Keys](https://eraofchaos.github.io
   {{ notice-update20210303 | markdownify }}
 </div>
 
-{% capture notice-update20210302 %}
 
-**Client update** (version **142 (3169)**):
-
-- [Exclusive](https://eraofchaos.github.io/Exclusive/)
-- [Support](https://eraofchaos.github.io/ArsenalSupport/)
-- New battle calculation (version 10127).
-- more, more, more....
-
- Thanks development team for big update! Huge list of new features, they are different and required time to process them.
- Overall, with current patch Developers changed 118 scripts and 168 new... 
- We'll post asap.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">2 March 2021 Update:</h4>
-  {{ notice-update20210302 | markdownify }}
-</div>
 
 
 

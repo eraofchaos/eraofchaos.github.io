@@ -12,6 +12,26 @@ sidebar:
 
 ### Era Of Chaos - Game client update History
 
+{% capture notice-update20210302 %}
+
+**Client update** (version **142 (3169)**):
+
+- [Exclusive](https://eraofchaos.github.io/Exclusive/)
+- [Support](https://eraofchaos.github.io/ArsenalSupport/)
+- New battle calculation (version 10127).
+- more, more, more....
+
+ Thanks development team for big update! Huge list of new features, they are different and required time to process them.
+ Overall, with current patch Developers changed 118 scripts and 168 new... 
+ We'll post asap.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">2 March 2021 Update:</h4>
+  {{ notice-update20210302 | markdownify }}
+</div>
+
 {% capture notice-update20210301 %}
 Dear Era of Chaos players,
 
