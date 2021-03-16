@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite is a mysterious man who keeps in close touch with the high-rank officials of different countries. But no one knows about his past, and he never mentions it."
 heroID: 61401
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: en
 ref: "Jeddite"
 toc: true
