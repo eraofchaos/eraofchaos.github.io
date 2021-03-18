@@ -13,6 +13,33 @@ sidebar:
 
 ### Era Of Chaos - Wiki update History
 
+{% capture notice-update20210308 %}
+Work is in progress with new changes (client 146 (3208))... 
+
+On 6th March, Game developers made a change in the game to prevent accessing in-game data. It would keep me busy for sometime.
+Many new feature is on the way.
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">8 March 2021 Update:</h4>
+  {{ notice-update20210308 | markdownify }}
+</div>
+
+
+{% capture notice-update20210303 %}
+
+Work is in progress with new changes (client 142 (3173))... 
+
+Open **Story Chapter 2** to get free 13 [Gold Keys](https://eraofchaos.github.io/Items/con_423/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">3 March 2021 Update:</h4>
+  {{ notice-update20210303 | markdownify }}
+</div>
+
+
 {% capture notice-update20210302 %}
 
 **Client update** (version **142 (3169)**):

@@ -10,6 +10,19 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210318 %}
+
+Wiki updated to Client version 146 (3255)... Some features are still in progress...
+
+Please check your language and let me know if You have localization issue on Wiki.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">18 March 2021 Update:</h4>
+  {{ notice-update20210318 | markdownify }}
+</div>
+
 {% capture notice-update20210312 %}
 Message to Developers:
 首先，感谢魔法门英雄无敌手游。我是这手游的大粉丝。为了帮助这手游，我启发了 “eraofchaos.github.io Wiki” 网站。主要目的是为了提供手游资料给每个玩家。为了帮助玩家能享受这手游以及能决定最好的成长路程。
@@ -29,33 +42,6 @@ Message to Developers:
   <h4 class="no_toc">12 March 2021 Update:</h4>
   {{ notice-update20210312 | markdownify }}
 </div>
-
-{% capture notice-update20210308 %}
-Work is in progress with new changes (client 146 (3208))... 
-
-On 6th March, Game developers made a change in the game to prevent accessing in-game data. It would keep me busy for sometime.
-Many new feature is on the way.
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">8 March 2021 Update:</h4>
-  {{ notice-update20210308 | markdownify }}
-</div>
-
-
-{% capture notice-update20210303 %}
-
-Work is in progress with new changes (client 142 (3173))... 
-
-Open **Story Chapter 2** to get free 13 [Gold Keys](https://eraofchaos.github.io/Items/con_423/)
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">3 March 2021 Update:</h4>
-  {{ notice-update20210303 | markdownify }}
-</div>
-
 
 
 
@@ -81,8 +67,8 @@ You will find here:
 ### <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
 ### <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 
-### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 14 March 2021)
-### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 15 March 2021)
+### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 6 April 2021)
+### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 6 April 2021)
 ### <i class="fas fa-calendar-day"/> [Hotspot Artifacs and Spells](https://eraofchaos.github.io/Hotspot/) (for complete 2021)
 #### <i class="fas fa-calendar-day"/> [Hotspot Artifacs 2021](https://eraofchaos.github.io/Hotspot/HotSpot Artifact _2021/)
 #### <i class="fas fa-calendar-day"/> [Hotspot Spells 2021](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
