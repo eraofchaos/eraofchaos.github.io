@@ -2,7 +2,7 @@
 title: "Faction Altar for Necropolis"
 permalink: /FactionAltar/DROP_104/
 excerpt: "Faction Altar for Necropolis. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-18
 locale: en
 ref: "DROP_104.md"
 toc: false

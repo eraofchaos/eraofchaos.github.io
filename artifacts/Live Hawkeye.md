@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Live Hawkeye Stay alive. Then, you will witness more wealth"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-18
 locale: en
 ref: "Live Hawkeye.md"
 toc: false

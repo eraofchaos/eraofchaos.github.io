@@ -2,11 +2,37 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-18
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 13  Dungeon Week
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **29 Mar** | **5x Troglodyte**  | A squad of Troglodytes joined your army and you became stronger! |
+  | **30 Mar** | **3x Harpy**  | A squad of Harpy joined your army and you become stronger! |
+  | **31 Mar** | **100x gem**  | The creatures of the dark underground present you a small cluster of Diamonds! |
+  | **1 Apr** | **3x Minotaur**  | A squad of Minotaur joined your army and you become stronger! |
+  | **2 Apr** | **5x Dungeon Faction Chest**  | Your army searched for several lost treasure chests in the Underground. |
+  | **3 Apr** | **3x Manticore**  | A squad of Manticores has joined your army. You've become stronger! |
+  | **4 Apr** | **5x Mutare**  | Following the guidance the ancient dragon, Mutare joined your army! |
+
+
+#### 2021 Week 12  Fortress Week
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **22 Mar** | **5x Gnoll**  | A squad of Gnoll joined your army and you become stronger! |
+  | **23 Mar** | **5x Fortress Faction Chest**  | Your fortress corps has presented you with a number of valuable treasure chests! |
+  | **24 Mar** | **100x gem**  | Your army have found lots of treasure in the dark swamp! |
+  | **25 Mar** | **3x Lizardman**  | A squad of Lizardman joined your army and you become stronger! |
+  | **26 Mar** | **5x Fortress Roster runes**  | Your inferno corps has presented you with a number of valuable runes! |
+  | **27 Mar** | **3x Serpent Fly**  | A squad of Serpent Fly joined your army and you become stronger! |
+  | **28 Mar** | **5x Korbac**  | A brave Beast Master has visited your territory! |
+
 
 #### 2021 Week 11  Castle Week
 

@@ -2,7 +2,7 @@
 title: "Hotspot Artifacts for November 2021"
 permalink: /Hotspot/HotSpot Artifact November_2021/
 excerpt: "Artifacts Hotspot for November 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-18
 locale: en
 ref: "HotSpot Artifact November_2021.md"
 toc: false

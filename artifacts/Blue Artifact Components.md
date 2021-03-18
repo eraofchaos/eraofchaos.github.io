@@ -2,7 +2,7 @@
 title: "Blue Artifact Components"
 permalink: /artifacts/Blue Artifact Components/
 excerpt: "Lis of all Blue Artifact Components  in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-18
 locale: en
 ref: "Blue Artifact Components.md"
 toc: false
