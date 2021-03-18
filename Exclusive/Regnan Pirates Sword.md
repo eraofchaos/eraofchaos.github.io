@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Regnan Pirates](/units/Regnan Pirates/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_165/)
+ **Item to Rank Up:** [Sword Token](/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | Triggers a powerful counter when attacked, and deals 300% damage to enemies. CD is 8s |
-  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | When attacking, it has a 50% chance to infect hostile units with <scurvy>, causing them to lose 1% HP per second while decreasing their healing by 35% for 3s (No stack) |
-  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Regnan Pirates' ATK by 20% and unit's damage by 10% |
-  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | Regenerate 30% HP after eating oranges to cure scurvy when Regnan Pirates' HP is less than 30% for the first time,. Grants immunity to stun, petrification and silence for 5s when equipped with a Holy Emblem |
-  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_165/) | Increased Regnan Pirates' Crit Hit by 200 |
-  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_165/) | Increases Crit DMG by 25% for Regnan Pirates |
-  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_165/) | When landing a Crit Hit, immediately restores 5% HP and increases Crit DMG by 5% for 15s, up to 10 stacks. The effect can only be triggered once every 10 seconds  |
+  |  Awaken  | **100x** [Sword Token](/Items/con_912/) | Triggers a powerful counter when attacked, and deals 300% damage to enemies. CD is 8s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_912/) | When attacking, it has a 50% chance to infect hostile units with <scurvy>, causing them to lose 1% HP per second while decreasing their healing by 35% for 3s (No stack) |
+  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_912/) | Increases Regnan Pirates' ATK by 20% and unit's damage by 10% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_912/) | Regenerate 30% HP after eating oranges to cure scurvy when Regnan Pirates' HP is less than 30% for the first time,. Grants immunity to stun, petrification and silence for 5s when equipped with a Holy Emblem |
+  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_912/) | Increased Regnan Pirates' Crit Hit by 200 |
+  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_912/) | Increases Crit DMG by 25% for Regnan Pirates |
+  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_912/) | When landing a Crit Hit, immediately restores 5% HP and increases Crit DMG by 5% for 15s, up to 10 stacks. The effect can only be triggered once every 10 seconds  |
 
 
 ## Level Up

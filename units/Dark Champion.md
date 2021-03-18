@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Dark Champion](/Items/unt_108/)
+ **Unit Soul:** [Dark Champion](/Items/unt_216/)
 
  **Short description:** Executes. Invincibility in own domain.
 
@@ -175,7 +175,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

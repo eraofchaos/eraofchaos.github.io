@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Soul Sulfur"
+title: "Item - Materials - Eternal Crystal"
 permalink: /Items/mat_73/
-excerpt: "Soul Sulfur"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Eternal Crystal"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_73.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from orange +3 to orange +4.
+ **Description:** Common materials to upgrade equipment from orange +1 to orange +2.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -20,9 +20,9 @@ classes: wide
 ## Gather
 
 *    Unknown_17 
-*    Chapter 24 (Faerie Dragon) -> 24-4 
-*    Chapter 24 (Faerie Dragon) -> 24-10 
-*    Chapter 24 (Faerie Dragon) -> 24-13 
+*    Chapter 21 (The Grail) -> 21-6 
+*    Chapter 21 (The Grail) -> 21-12 
+*    Chapter 21 (The Grail) -> 21-15 
 
 ## This item contains:
 

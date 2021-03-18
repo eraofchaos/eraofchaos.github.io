@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Manticore](/Items/unt_76/)
+ **Unit Soul:** [Manticore](/Items/unt_249/)
 
  **Short description:** Strong DPS and endurance
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rank Up:** [Scorpion Tail Token](/Items/con_887/)
+ **Item to Rank Up:** [Scorpion Tail Token](/Items/con_992/)
 
- **Skin:** [Scorpion Tail Special Skin](/Items/con_1195/)
+ **Skin:** [Scorpion Tail Special Skin](/Items/con_660/)
 
 
 ## Recommended Holy Emblems
@@ -164,7 +164,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking

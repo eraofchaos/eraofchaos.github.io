@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Shark Trainer](/Items/unt_1/)
+ **Unit Soul:** [Shark Trainer](/Items/unt_281/)
 
  **Short description:** Summons sharks to tear and rend.
 
@@ -212,7 +212,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking

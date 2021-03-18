@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Dragon Turtle](/Items/unt_91/)
+ **Unit Soul:** [Dragon Turtle](/Items/unt_278/)
 
  **Short description:** Tank. Regens HP
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Obedience Token](/Items/con_610/)
+ **Item to Rank Up:** [Obedience Token](/Items/con_1005/)
 
- **Skin:** [Obedience Special Skin](/Items/con_1149/)
+ **Skin:** [Obedience Special Skin](/Items/con_673/)
 
 
 ## Recommended Holy Emblems
@@ -167,7 +167,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

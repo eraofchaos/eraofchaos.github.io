@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Wizard's Well - Charm of Mana"
 permalink: /artifacts/Charm of Mana/
-excerpt: "Wizard's Well - Charm of Mana. A charm that enhances magic. One of the components of the Wizard's Well."
+excerpt: "Era of Chaos  Wizard's Well - Charm of Mana. A charm that enhances magic. One of the components of the Wizard's Well."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Charm of Mana.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Wizard's Well](/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 3x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Charm of Mana](/Items/art_25/)
+ **Related Item**: [Charm of Mana](/Items/art_112/)
 
  **Quality:** [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

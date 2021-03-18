@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Wolf Rider](/Items/unt_25/)
+ **Unit Soul:** [Wolf Rider](/Items/unt_218/)
 
  **Unit description:** Beast Companion: Summons wolves to the battle when this unit dies.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_916/)
 
  **Skin:** -
 
@@ -179,7 +179,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking

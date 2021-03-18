@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Sword of Frost"
 permalink: /artifacts/Sword of Frost/
-excerpt: "Sword of Frost The immense glacier destroyed the city of its origin"
+excerpt: "Era of Chaos  Sword of Frost. Sword of Frost The immense glacier destroyed the city of its origin"
 last_modified_at: 2021-03-18
 locale: en
 ref: "Sword of Frost.md"

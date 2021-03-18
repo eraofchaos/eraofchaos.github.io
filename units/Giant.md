@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Giant ](/Items/unt_37/)
+ **Unit Soul:** [Giant ](/Items/unt_241/)
 
  **Unit description:** God of War: Ignores range and deals HP percentage damage
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Thousand Ton Token](/Items/con_451/)
+ **Item to Rank Up:** [Thousand Ton Token](/Items/con_988/)
 
- **Skin:** [Thousand Ton Special Skin](/Items/con_1025/)
+ **Skin:** [Thousand Ton Special Skin](/Items/con_656/)
 
 
 ## Recommended Holy Emblems
@@ -169,7 +169,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

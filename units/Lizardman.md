@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Lizardman](/Items/unt_98/)
+ **Unit Soul:** [Lizardman](/Items/unt_254/)
 
  **Short description:** Strong DPS
 
@@ -81,7 +81,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_914/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_789/)
 
 
 ## Awaking

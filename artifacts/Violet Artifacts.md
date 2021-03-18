@@ -1,7 +1,7 @@
 ---
 title: "Violet Artifacts"
 permalink: /artifacts/Violet Artifacts/
-excerpt: "Lis of all Violet Artifacts  in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
+excerpt: "Era of Chaos  List of all Violet Artifacts . Collect artifacts to improve your heroes' attributes and unlock powerful skills."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Violet Artifacts.md"

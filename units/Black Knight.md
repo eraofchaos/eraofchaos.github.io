@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Black Knight](/Items/unt_14/)
+ **Unit Soul:** [Black Knight](/Items/unt_213/)
 
  **Unit description:** Critical Strike: Deals colossal damage and causes low morale.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rank Up:** [Nether Sabre Token](/Items/con_997/)
+ **Item to Rank Up:** [Nether Sabre Token](/Items/con_979/)
 
- **Skin:** [Nether Sabre Special Skin](/Items/con_596/)
+ **Skin:** [Nether Sabre Special Skin](/Items/con_647/)
 
 
 ## Recommended Holy Emblems
@@ -178,7 +178,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking

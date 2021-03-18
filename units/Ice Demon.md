@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Ice Demon](/Items/unt_72/)
+ **Unit Soul:** [Ice Demon](/Items/unt_269/)
 
  **Short description:** Control archer. Buffs allies.
 
@@ -188,7 +188,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_789/)
 
 
 ## Awaking

@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Certificate of Legend"
+title: "Item - Materials - Common Crystal"
 permalink: /Items/mat_11/
-excerpt: "Certificate of Legend"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Common Crystal"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_11.md"
 toc: false
@@ -11,16 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Rare materials to upgrade equipment from orange +4 to orange +5.
+ **Description:** Common materials to upgrade equipment from green to blue.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #32CD32">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter - Sound of Fate 
+*    Chapter 3 (Guardian Angel) -> 3-6 
+*    Chapter 3 (Guardian Angel) -> 3-12 
+*    Chapter 3 (Guardian Angel) -> 3-15 
 
 ## This item contains:
 

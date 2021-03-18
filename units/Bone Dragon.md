@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Bone Dragon](/Items/unt_66/)
+ **Unit Soul:** [Bone Dragon](/Items/unt_214/)
 
  **Unit description:** Fear: Sharply decreases enemies' defense, causes low morale.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Immortal Dragon Bone Token](/Items/con_1418/)
+ **Item to Rank Up:** [Immortal Dragon Bone Token](/Items/con_980/)
 
- **Skin:** [Immortal Dragon Bone Special Skin](/Items/con_944/)
+ **Skin:** [Immortal Dragon Bone Special Skin](/Items/con_648/)
 
 
 ## Recommended Holy Emblems
@@ -174,7 +174,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

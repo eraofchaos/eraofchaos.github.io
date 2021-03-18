@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Antimagic Runestone - Surcoat of Counterpoise"
 permalink: /artifacts/Surcoat of Counterpoise/
-excerpt: "Antimagic Runestone - Surcoat of Counterpoise. A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone."
+excerpt: "Era of Chaos  Antimagic Runestone - Surcoat of Counterpoise. A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Surcoat of Counterpoise.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Antimagic Runestone](/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 3x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Surcoat of Counterpoise](/Items/art_48/)
+ **Related Item**: [Surcoat of Counterpoise](/Items/art_119/)
 
  **Quality:** [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

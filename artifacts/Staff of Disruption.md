@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Archmage's Codex - Staff of Disruption"
 permalink: /artifacts/Staff of Disruption/
-excerpt: "Archmage's Codex - Staff of Disruption. A staff with great power sealed within. One of the Archmage's Codex."
+excerpt: "Era of Chaos  Archmage's Codex - Staff of Disruption. A staff with great power sealed within. One of the Archmage's Codex."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Staff of Disruption.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Staff of Disruption](/Items/art_31/)
+ **Related Item**: [Staff of Disruption](/Items/art_139/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

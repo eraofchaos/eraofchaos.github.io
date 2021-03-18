@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Swordsman](/Items/unt_62/)
+ **Unit Soul:** [Swordsman](/Items/unt_193/)
 
  **Unit description:** Divine Protection: Reduce damage taken
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Defense
 * Magic resistance
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

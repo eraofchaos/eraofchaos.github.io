@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Dragon Golem](/Items/unt_71/)
+ **Unit Soul:** [Dragon Golem](/Items/unt_243/)
 
  **Short description:** Ultimate defense.
 
@@ -174,7 +174,7 @@ toc: true
 * unit DMG Reduction
 * Magic resistance
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

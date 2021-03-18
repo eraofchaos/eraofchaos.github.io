@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Medusa](/Items/unt_39/)
+ **Unit Soul:** [Medusa](/Items/unt_247/)
 
  **Unit description:** Stone Gaze: Petrifies enemies and decreases their unit's damage reduction
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Medusa's Bow Token](/Items/con_103/)
+ **Item to Rank Up:** [Medusa's Bow Token](/Items/con_991/)
 
- **Skin:** [Medusa's Bow Special Skin](/Items/con_499/)
+ **Skin:** [Medusa's Bow Special Skin](/Items/con_659/)
 
 
 ## Recommended Holy Emblems
@@ -170,7 +170,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_789/)
 
 
 ## Awaking

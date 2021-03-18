@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Regnan Seer](/units/Regnan Seer/) 
 
- **Item to Rank Up:** [The City by the Ocean Banner Soul](/Items/con_987/)
+ **Item to Rank Up:** [The City by the Ocean Banner Soul](/Items/con_1006/)
 
- **Skin:** -
+ **Skin:** [Tool_2990709](/Items/con_674/)
 
  **Type:** Capital
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
+  |  Awaken  | **100x** [The City by the Ocean Banner Soul](/Items/con_1006/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [The City by the Ocean Banner Soul](/Items/con_1006/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [The City by the Ocean Banner Soul](/Items/con_1006/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [The City by the Ocean Banner Soul](/Items/con_1006/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [The City by the Ocean Banner Soul](/Items/con_1006/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [The City by the Ocean Banner Soul](/Items/con_1006/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [The City by the Ocean Banner Soul](/Items/con_1006/) |  |
 
 
 ## Level Up

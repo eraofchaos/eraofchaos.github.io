@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
+ **Unit Soul:** [Tool_3209](/Items/unt_207/)
+
  **Short description:** Rapid Cutting range expanded.
 
  **Position :** Rapid Cutting range expanded.
@@ -179,7 +181,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

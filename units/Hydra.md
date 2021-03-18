@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Hydra](/Items/unt_4/)
+ **Unit Soul:** [Hydra](/Items/unt_259/)
 
  **Short description:** High attack. Enduring. Powerful control
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Hydra's Head Token](/Items/con_178/)
+ **Item to Rank Up:** [Hydra's Head Token](/Items/con_997/)
 
- **Skin:** [Energy Core Special Skin](/Items/con_781/)
+ **Skin:** [Energy Core Special Skin](/Items/con_665/)
 
 
 ## Recommended Holy Emblems
@@ -169,7 +169,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Stone Elemental](/Items/unt_52/)
+ **Unit Soul:** [Stone Elemental](/Items/unt_266/)
 
  **Short description:** Deadly Spit. Stuns.
 
@@ -78,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Energy Core Token](/Items/con_205/)
+ **Item to Rank Up:** [Energy Core Token](/Items/con_999/)
 
- **Skin:** [Energy Core Special Skin](/Items/con_965/)
+ **Skin:** [Energy Core Special Skin](/Items/con_667/)
 
 
 ## Recommended Holy Emblems
@@ -174,7 +174,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

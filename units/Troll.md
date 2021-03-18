@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Troll](/Items/unt_114/)
+ **Unit Soul:** [Troll](/Items/unt_225/)
 
  **Short description:** Single-target assault. Burst damage.
 
@@ -189,7 +189,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_789/)
 
 
 ## Awaking

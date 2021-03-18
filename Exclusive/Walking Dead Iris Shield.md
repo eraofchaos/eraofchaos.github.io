@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Walking Dead](/units/Walking Dead/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Slay> The Walking Dead waves a chopper, causing damage equal to 100% of its ATK to hostile units within a small area in its path. The hit target will bleed and suffer damage equal to 10% of its ATK every second. The effect lasts for 10s. CD is 20s |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Walking Dead's DEF increased by 300 |
-  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Walking Dead's tenacity increased by 500 |
-  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | If the target is in \"low morale\", increases ATK speed and life drain by 20% for Walking Dead |
-  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Walking Dead restores 1% of its Max HP every second |
-  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | Walking Dead decreases DEF of surrounding hostile units by 25 every 4s over the next 5s. This effect can be stacked |
-  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | At the beginning of battle, all hostile units' movement speed is decreased by 30 for 4s. Increases unit damage by 20% for all friendly Necropolis units for 20s when their movement speed is restored |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_913/) | <Slay> The Walking Dead waves a chopper, causing damage equal to 100% of its ATK to hostile units within a small area in its path. The hit target will bleed and suffer damage equal to 10% of its ATK every second. The effect lasts for 10s. CD is 20s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_913/) | Walking Dead's DEF increased by 300 |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_913/) | Walking Dead's tenacity increased by 500 |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | If the target is in \"low morale\", increases ATK speed and life drain by 20% for Walking Dead |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_913/) | Walking Dead restores 1% of its Max HP every second |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | Walking Dead decreases DEF of surrounding hostile units by 25 every 4s over the next 5s. This effect can be stacked |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | At the beginning of battle, all hostile units' movement speed is decreased by 30 for 4s. Increases unit damage by 20% for all friendly Necropolis units for 20s when their movement speed is restored |
 
 
 ## Level Up

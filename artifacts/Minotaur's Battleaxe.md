@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Sword of Frost - Minotaur's Battleaxe"
 permalink: /artifacts/Minotaur's Battleaxe/
-excerpt: "Sword of Frost - Minotaur's Battleaxe. A battleaxe passed down by the Tauren. One of the components of the Sword of Frost."
+excerpt: "Era of Chaos  Sword of Frost - Minotaur's Battleaxe. A battleaxe passed down by the Tauren. One of the components of the Sword of Frost."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Minotaur's Battleaxe.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Minotaur's Battleaxe](/Items/art_11/)
+ **Related Item**: [Minotaur's Battleaxe](/Items/art_161/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

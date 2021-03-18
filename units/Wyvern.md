@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Wyvern](/Items/unt_16/)
+ **Unit Soul:** [Wyvern](/Items/unt_258/)
 
  **Short description:** Powerful melee. Toxic
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_1315/)
+ **Item to Rank Up:** [Wyvern's Tail Token](/Items/con_996/)
 
- **Skin:** [Wyvern's Tail Special Skin](/Items/con_1085/)
+ **Skin:** [Wyvern's Tail Special Skin](/Items/con_664/)
 
 
 ## Recommended Holy Emblems
@@ -170,7 +170,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

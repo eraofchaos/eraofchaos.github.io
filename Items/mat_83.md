@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Epic Sulfur"
+title: "Item - Materials - Soul Wood"
 permalink: /Items/mat_83/
-excerpt: "Epic Sulfur"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Soul Wood"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_83.md"
 toc: false
@@ -11,18 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from purple +2 to purple +3.
+ **Description:** Common materials to upgrade equipment from orange +3 to orange +4.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 14 (Safe Passage) -> 14-10 
-*    Chapter 14 (Safe Passage) -> 14-14 
-*    Chapter 15 (United Front) -> 15-4 
+*    Chapter 24 (Faerie Dragon) -> 24-2 
+*    Chapter 24 (Faerie Dragon) -> 24-8 
+*    Chapter 25 (Survival of the Fittest) -> 25-2 
 
 ## This item contains:
 

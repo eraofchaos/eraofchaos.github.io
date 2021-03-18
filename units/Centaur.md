@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Centaur](/Items/unt_59/)
+ **Unit Soul:** [Centaur](/Items/unt_199/)
 
  **Unit description:** Battle Stomp: Damages the units closest to it, slowing them down.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

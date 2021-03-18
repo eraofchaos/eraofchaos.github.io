@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Wizard's Well"
 permalink: /artifacts/Wizard's Well/
-excerpt: "Wizard's Well Magical item made to fight demons. Able to increase spell point regeneration speed."
+excerpt: "Era of Chaos  Wizard's Well. Wizard's Well Magical item made to fight demons. Able to increase spell point regeneration speed."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Wizard's Well.md"

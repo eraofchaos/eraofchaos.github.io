@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Archmage's Codex - Recanter's Cloak"
 permalink: /artifacts/Recanter's Cloak/
-excerpt: "Archmage's Codex - Recanter's Cloak. Wear it to weaken magical attacks. One of the Archmage's Codex."
+excerpt: "Era of Chaos  Archmage's Codex - Recanter's Cloak. Wear it to weaken magical attacks. One of the Archmage's Codex."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Recanter's Cloak.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Recanter's Cloak](/Items/art_71/)
+ **Related Item**: [Recanter's Cloak](/Items/art_137/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

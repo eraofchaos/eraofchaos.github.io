@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Skeleton](/units/Skeleton/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Putrid Corpse> Skeleton turns itself into a putrid corpse, inflicting all units within a large range of itself with Low Morale every 20s for 10s and dealing damage equal to 250% of their ATK to the target unit. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Skeleton's DEF by 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Skeleton's base HP by 20,000. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Calcification> Skeleton recovers 10% of its Max HP when suffering from Low Morale. CD is 10s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Increases Skeleton's DEF by 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | When Skeleton attacks an enemy suffering from Low Morale, there is an 8% chance of decreasing the enemy's Unit DMG Reduction by 1%. Stacks up to 30 times. Lasts for the whole battle. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | <Undead Entity> Skeleton increases the Unit DMG Reduction and DMG Reflection of nearby friendly units within a large range by 15% each and decreases the Unit DMG of enemy units within range by 15%. Lasts for 15s. CD is 25s. |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_913/) | <Putrid Corpse> Skeleton turns itself into a putrid corpse, inflicting all units within a large range of itself with Low Morale every 20s for 10s and dealing damage equal to 250% of their ATK to the target unit. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_913/) | Increases Skeleton's DEF by 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_913/) | Increases Skeleton's base HP by 20,000. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | <Calcification> Skeleton recovers 10% of its Max HP when suffering from Low Morale. CD is 10s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_913/) | Increases Skeleton's DEF by 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | When Skeleton attacks an enemy suffering from Low Morale, there is an 8% chance of decreasing the enemy's Unit DMG Reduction by 1%. Stacks up to 30 times. Lasts for the whole battle. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | <Undead Entity> Skeleton increases the Unit DMG Reduction and DMG Reflection of nearby friendly units within a large range by 15% each and decreases the Unit DMG of enemy units within range by 15%. Lasts for 15s. CD is 25s. |
 
 
 ## Level Up

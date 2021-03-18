@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Spellbinder's Hat"
 permalink: /artifacts/Spellbinder's Hat/
-excerpt: "Spellbinder's Hat A Spellbinder' Hat representing the greatest honor of mages. Only senior mages who master fire, water, air and earth are qualified to own it. The hat can improve magic elemental affinity greatly"
+excerpt: "Era of Chaos  Spellbinder's Hat. Spellbinder's Hat A Spellbinder' Hat representing the greatest honor of mages. Only senior mages who master fire, water, air and earth are qualified to own it. The hat can improve magic elemental affinity greatly"
 last_modified_at: 2021-03-18
 locale: en
 ref: "Spellbinder's Hat.md"

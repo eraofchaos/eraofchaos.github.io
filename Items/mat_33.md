@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Exceptional Crystal"
+title: "Item - Materials - Exceptional Ore"
 permalink: /Items/mat_33/
-excerpt: "Exceptional Crystal"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Exceptional Ore"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_33.md"
 toc: false
@@ -20,9 +20,9 @@ classes: wide
 ## Gather
 
 *    Unknown_17 
-*    Chapter 11 (Tatalia) -> 11-6 
-*    Chapter 11 (Tatalia) -> 11-12 
-*    Chapter 11 (Tatalia) -> 11-15 
+*    Chapter 10 (Marshland) -> 10-1 
+*    Chapter 10 (Marshland) -> 10-4 
+*    Chapter 10 (Marshland) -> 10-7 
 
 ## This item contains:
 

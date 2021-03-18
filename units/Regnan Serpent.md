@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Regnan Serpent](/Items/unt_89/)
+ **Unit Soul:** [Regnan Serpent](/Items/unt_276/)
 
  **Unit description:** Deep-sea Stomp: AoE control, deters enemies and reduces Crit Hits
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Day Tides Token](/Items/con_1406/)
+ **Item to Rank Up:** [Day Tides Token](/Items/con_1003/)
 
- **Skin:** [Day Tides Special Skin](/Items/con_463/)
+ **Skin:** [Day Tides Special Skin](/Items/con_671/)
 
 
 ## Recommended Holy Emblems
@@ -185,7 +185,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

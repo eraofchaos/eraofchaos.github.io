@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Hydra](/units/Hydra/) 
 
- **Item to Rank Up:** [Hydra's Head Token](/Items/con_178/)
+ **Item to Rank Up:** [Hydra's Head Token](/Items/con_997/)
 
- **Skin:** [Energy Core Special Skin](/Items/con_781/)
+ **Skin:** [Energy Core Special Skin](/Items/con_665/)
 
  **Type:** Support
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Hydra's Head Token](/Items/con_178/) | <Feeding Frenzy> Bites the enemy 1 time every 1s, attacking 5 times in total and dealing damage equal to 50% of own ATK each time. Decreases the enemy's Tenacity by 50 and increases own Critical Hit DMG by 4%. Stacks up to 5 times. This effect lasts for 3s. CD is 20s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Hydra's Head Token](/Items/con_178/) | Increases Hydra's Unit DMG and ATK by 20% each. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Hydra's Head Token](/Items/con_178/) | Increases Hydra's DEF and Unit DMG Reduction by 10% each. When Hydra is on the battlefield, it increases the DEF of all friendly Fortress units by 10% and Unit DMG Reduction by 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Hydra's Head Token](/Items/con_178/) | <Rebirth> When taking damage exceeding 10% of own Max HP in a single attack, but is less than 20% of Max HP, restores 500,000 HP after 3s. When taking damage exceeding 20% of own Max HP in a single attack, become immune to the damage beyond that 20%. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Hydra's Head Token](/Items/con_178/) | Increases Hydra's Life Drain by 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Hydra's Head Token](/Items/con_178/) | Hydra is immune to Petrify, and when affected by Low Morale, Attack Speed is increased by 33% for 5s. When affected by Deter, Critical Hit is increased by 300 for 5s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Hydra's Head Token](/Items/con_178/) | <Chaos Breath> Attacks enemy units in a large range in front of it, dealing damage equal to 200% of own ATK to Defensive units and damage equal to 23% of Max HP to other units, as well as inflicting 1 random debuff. CD is 15s. |
+  |  Awaken  | **100x** [Hydra's Head Token](/Items/con_997/) | <Feeding Frenzy> Bites the enemy 1 time every 1s, attacking 5 times in total and dealing damage equal to 50% of own ATK each time. Decreases the enemy's Tenacity by 50 and increases own Critical Hit DMG by 4%. Stacks up to 5 times. This effect lasts for 3s. CD is 20s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Hydra's Head Token](/Items/con_997/) | Increases Hydra's Unit DMG and ATK by 20% each. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Hydra's Head Token](/Items/con_997/) | Increases Hydra's DEF and Unit DMG Reduction by 10% each. When Hydra is on the battlefield, it increases the DEF of all friendly Fortress units by 10% and Unit DMG Reduction by 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Hydra's Head Token](/Items/con_997/) | <Rebirth> When taking damage exceeding 10% of own Max HP in a single attack, but is less than 20% of Max HP, restores 500,000 HP after 3s. When taking damage exceeding 20% of own Max HP in a single attack, become immune to the damage beyond that 20%. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Hydra's Head Token](/Items/con_997/) | Increases Hydra's Life Drain by 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Hydra's Head Token](/Items/con_997/) | Hydra is immune to Petrify, and when affected by Low Morale, Attack Speed is increased by 33% for 5s. When affected by Deter, Critical Hit is increased by 300 for 5s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Hydra's Head Token](/Items/con_997/) | <Chaos Breath> Attacks enemy units in a large range in front of it, dealing damage equal to 200% of own ATK to Defensive units and damage equal to 23% of Max HP to other units, as well as inflicting 1 random debuff. CD is 15s. |
 
 
 ## Level Up

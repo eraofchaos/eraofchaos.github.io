@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Armageddon's Blade - Knight Sword"
 permalink: /artifacts/Knight Sword/
-excerpt: "Armageddon's Blade - Knight Sword. A sword worn by castle heroes. One of the components of Armageddon's Blade."
+excerpt: "Era of Chaos  Armageddon's Blade - Knight Sword. A sword worn by castle heroes. One of the components of Armageddon's Blade."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Knight Sword.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Knight Sword](/Items/art_26/)
+ **Related Item**: [Knight Sword](/Items/art_166/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

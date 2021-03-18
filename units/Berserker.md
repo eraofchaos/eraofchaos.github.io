@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Berserker](/Items/unt_135/)
+ **Unit Soul:** [Berserker](/Items/unt_224/)
 
  **Unit description:** War Storm: Deals damage to 3 nearby enemy units.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Berserker's Axe Token](/Items/con_801/)
+ **Item to Rank Up:** [Berserker's Axe Token](/Items/con_983/)
 
- **Skin:** [Berserker's Axe Special Skin](/Items/con_349/)
+ **Skin:** [Berserker's Axe Special Skin](/Items/con_651/)
 
 
 ## Recommended Holy Emblems
@@ -181,7 +181,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

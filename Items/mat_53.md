@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Common Wood"
+title: "Item - Materials - Book of Essences"
 permalink: /Items/mat_53/
-excerpt: "Common Wood"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Book of Essences"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_53.md"
 toc: false
@@ -11,18 +11,19 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from green to blue.
+ **Description:** Rare materials to upgrade equipment from purple +2 to purple +3.
 
- **Quality:** <span style="color: #32CD32">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 2 (Return of the Queen) -> 2-3 
-*    Chapter 2 (Return of the Queen) -> 2-7 
-*    Chapter 3 (Guardian Angel) -> 3-2 
+*    Chapter - Corporal Punishment 
+*    Chapter - From Day to Night 
+*    Chapter - Safe Passage 
+*    Chapter - United Front 
 
 ## This item contains:
 

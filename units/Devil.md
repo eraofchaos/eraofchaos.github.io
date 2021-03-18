@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Devil](/Items/unt_19/)
+ **Unit Soul:** [Devil](/Items/unt_232/)
 
  **Unit description:** Painful Reaper: Deals catastophic damage to your enemies, causes stun.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Devil Scythe Token](/Items/con_1137/)
+ **Item to Rank Up:** [Devil Scythe Token](/Items/con_984/)
 
- **Skin:** [Devil Scythe Special Skin](/Items/con_1263/)
+ **Skin:** [Devil Scythe Special Skin](/Items/con_652/)
 
 
 ## Recommended Holy Emblems
@@ -175,7 +175,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

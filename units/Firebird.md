@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Firebird](/Items/unt_95/)
+ **Unit Soul:** [Firebird](/Items/unt_268/)
 
  **Unit description:** Flame Breath: Deals damage to enemy troops in its path.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rank Up:** [Eternal Flame Token](/Items/con_982/)
+ **Item to Rank Up:** [Eternal Flame Token](/Items/con_1001/)
 
- **Skin:** [Eternal Flame Special Skin](/Items/con_319/)
+ **Skin:** [Eternal Flame Special Skin](/Items/con_669/)
 
 
 ## Recommended Holy Emblems
@@ -172,7 +172,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Wood Elf](/Items/unt_103/)
+ **Unit Soul:** [Wood Elf](/Items/unt_201/)
 
  **Unit description:** Rain of Arrows: Increases attack speed by 500% for a short period of time.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_914/)
 
  **Skin:** -
 
@@ -174,7 +174,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_789/)
 
 
 ## Awaking

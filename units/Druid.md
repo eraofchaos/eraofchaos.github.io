@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Druid](/Items/unt_30/)
+ **Unit Soul:** [Druid](/Items/unt_206/)
 
  **Unit description:** Forest Chronosphere: Units in the magic circle are immune to magic damage
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Staff of Regrowth Token](/Items/con_995/)
+ **Item to Rank Up:** [Staff of Regrowth Token](/Items/con_977/)
 
- **Skin:** [Staff of Regrowth Special Skin](/Items/con_679/)
+ **Skin:** [Staff of Regrowth Special Skin](/Items/con_645/)
 
 
 ## Recommended Holy Emblems
@@ -172,7 +172,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

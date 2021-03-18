@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Apple of Eden - Shroud of Eden"
 permalink: /artifacts/Shroud of Eden/
-excerpt: "Apple of Eden - Shroud of Eden. The legendary holy Shroud of Eden. There is no way to verify it's authenticity."
+excerpt: "Era of Chaos  Apple of Eden - Shroud of Eden. The legendary holy Shroud of Eden. There is no way to verify it's authenticity."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Shroud of Eden.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Shroud of Eden](/Items/art_6/)
+ **Related Item**: [Shroud of Eden](/Items/art_187/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

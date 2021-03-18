@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Paladin](/Items/unt_86/)
+ **Unit Soul:** [Paladin](/Items/unt_197/)
 
  **Unit description:** Reinforcements of the Valiant: Summon a Sanctuary Retinue to fight
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Fearless Token](/Items/con_339/)
+ **Item to Rank Up:** [Fearless Token](/Items/con_974/)
 
- **Skin:** [Fearless Special Skin](/Items/con_1122/)
+ **Skin:** [Fearless Special Skin](/Items/con_642/)
 
 
 ## Recommended Holy Emblems
@@ -168,7 +168,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Goblin](/units/Goblin/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_165/)
+ **Item to Rank Up:** [Sword Token](/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Stonecrush> Goblin deals damage equal to 300% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is Overstrained, DEF is reduced by 15% for 5s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Goblin's HP by 20% and Dodge by 100. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Goblin's Critical Hit by 150 when fighting against units whose HP is less than 70%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | <Speedstrike> When Goblin's attack is dodged, Goblin deals damage equal to 100% of own ATK to the target unit and decreases target's DEF by 4% for 8s. CD is 2s. Stacks up to 4 times. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_165/) | Increases Goblin's Attack Speed by 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_165/) | Increases own Unit DMG by 4% for every Stronghold unit on the battlefield. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_165/) | <Stonecrush Chain> There is a 5% chance of triggering <Stonecrush> when Goblin lands a critical hit. CD is 4s. |
+  |  Awaken  | **100x** [Sword Token](/Items/con_912/) | <Stonecrush> Goblin deals damage equal to 300% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is Overstrained, DEF is reduced by 15% for 5s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_912/) | Increases Goblin's HP by 20% and Dodge by 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_912/) | Increases Goblin's Critical Hit by 150 when fighting against units whose HP is less than 70%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_912/) | <Speedstrike> When Goblin's attack is dodged, Goblin deals damage equal to 100% of own ATK to the target unit and decreases target's DEF by 4% for 8s. CD is 2s. Stacks up to 4 times. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_912/) | Increases Goblin's Attack Speed by 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_912/) | Increases own Unit DMG by 4% for every Stronghold unit on the battlefield. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_912/) | <Stonecrush Chain> There is a 5% chance of triggering <Stonecrush> when Goblin lands a critical hit. CD is 4s. |
 
 
 ## Level Up

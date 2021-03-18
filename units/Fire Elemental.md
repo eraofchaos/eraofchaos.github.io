@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Fire Elemental](/Items/unt_8/)
+ **Unit Soul:** [Fire Elemental](/Items/unt_265/)
 
  **Short description:** Burns. Field-wide explosion
 
@@ -79,9 +79,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Fire Energy Token](/Items/con_1291/)
+ **Item to Rank Up:** [Fire Energy Token](/Items/con_998/)
 
- **Skin:** [Fire Energy Special Skin](/Items/con_1312/)
+ **Skin:** [Fire Energy Special Skin](/Items/con_666/)
 
 
 ## Recommended Holy Emblems
@@ -172,7 +172,7 @@ toc: true
 * Attack Speed
 * Unit Dodge
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

@@ -20,11 +20,11 @@ sidebar:
 
  **Recommended Power: 1000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Seafood Platter](/Items/con_376/)
+ **Reward:** [Seafood Platter](/Items/con_1163/)
 
- **Extra Reward:** 20% [Seafood Platter](/Items/con_376/)
+ **Extra Reward:** 20% [Seafood Platter](/Items/con_1163/)
 
 #### Fight against Team
  **Hero:** [Peter Lee](/heroes/Peter Lee/)
@@ -48,11 +48,11 @@ sidebar:
 
  **Recommended Power: 4000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Seafood Platter](/Items/con_376/)
+ **Reward:** [Seafood Platter](/Items/con_1163/)
 
- **Extra Reward:** 40% [Seafood Platter](/Items/con_376/)
+ **Extra Reward:** 40% [Seafood Platter](/Items/con_1163/)
 
 #### Fight against Team
  **Hero:** [Peter Lee](/heroes/Peter Lee/)
@@ -76,11 +76,11 @@ sidebar:
 
  **Recommended Power: 7000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Seafood Platter](/Items/con_376/)
+ **Reward:** [Seafood Platter](/Items/con_1163/)
 
- **Extra Reward:** 70% [Seafood Platter](/Items/con_376/)
+ **Extra Reward:** 70% [Seafood Platter](/Items/con_1163/)
 
 #### Fight against Team
  **Hero:** [Peter Lee](/heroes/Peter Lee/)
@@ -104,11 +104,11 @@ sidebar:
 
  **Recommended Power: 10000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Seafood Platter](/Items/con_376/)
+ **Reward:** [Seafood Platter](/Items/con_1163/)
 
- **Extra Reward:** 100% [Seafood Platter](/Items/con_376/)
+ **Extra Reward:** 100% [Seafood Platter](/Items/con_1163/)
 
 #### Fight against Team
  **Hero:** [Cassanbel](/heroes/Cassanbel/)

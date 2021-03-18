@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Gog](/Items/unt_44/)
+ **Unit Soul:** [Gog](/Items/unt_227/)
 
  **Unit description:** Fire Wall: Deals damage to enemy troops in its path.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

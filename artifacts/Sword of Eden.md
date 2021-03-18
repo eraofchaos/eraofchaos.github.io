@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Apple of Eden - Sword of Eden"
 permalink: /artifacts/Sword of Eden/
-excerpt: "Apple of Eden - Sword of Eden. A sword from the First Civilization. It can call upon lightning to strike down enemies."
+excerpt: "Era of Chaos  Apple of Eden - Sword of Eden. A sword from the First Civilization. It can call upon lightning to strike down enemies."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Sword of Eden.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Sword of Eden](/Items/art_43/)
+ **Related Item**: [Sword of Eden](/Items/art_185/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

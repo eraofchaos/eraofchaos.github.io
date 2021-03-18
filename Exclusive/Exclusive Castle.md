@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Pikeman](/units/Pikeman/) | [Sword](/Exclusive/Pikeman Sword/) | - | Charge | [Sword Token](/Items/con_165/) | - |
-  | 2  | [Marksman](/units/Marksman/) | [Long Bow](/Exclusive/Marksman Long Bow/) | - | Charge | [Long Bow Token](/Items/con_136/) | - |
-  | 3  | [Griffin](/units/Griffin/) | [Knight Pike](/Exclusive/Griffin Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_212/) | - |
-  | 4  | [Swordsman](/units/Swordsman/) | [Iris Shield](/Exclusive/Swordsman Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_155/) | - |
-  | 5  | [Monk](/units/Monk/) | [Arcane Chant](/Exclusive/Monk Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_124/) | - |
-  | 6  | [Cavalier](/units/Cavalier/) | [Knight Pike](/Exclusive/Cavalier Knight Pike/) | + | Charge | [Knight Pike Token](/Items/con_212/) | - |
-  | 7  | [Angel](/units/Angel/) | [Durandel](/Exclusive/Angel Durandel/) | - | Support | [Durandel Token](/Items/con_1329/) | [Durandel Special Skin](/Items/con_747/) |
-  | 8  | [Paladin](/units/Paladin/) | [](/Exclusive/Paladin /) | - | Support | [Fearless Token](/Items/con_339/) | [Fearless Special Skin](/Items/con_1122/) |
-  | 9  | [Judicator](/units/Judicator/) | [](/Exclusive/Judicator /) | - | Capital | [Sanctuary's Radiance Banner Soul](/Items/con_734/) | - |
+  | 1  | [Pikeman](/units/Pikeman/) | [Sword](/Exclusive/Pikeman Sword/) | - | Charge | [Sword Token](/Items/con_912/) | - |
+  | 2  | [Marksman](/units/Marksman/) | [Long Bow](/Exclusive/Marksman Long Bow/) | - | Charge | [Long Bow Token](/Items/con_914/) | - |
+  | 3  | [Griffin](/units/Griffin/) | [Knight Pike](/Exclusive/Griffin Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_916/) | - |
+  | 4  | [Swordsman](/units/Swordsman/) | [Iris Shield](/Exclusive/Swordsman Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
+  | 5  | [Monk](/units/Monk/) | [Arcane Chant](/Exclusive/Monk Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
+  | 6  | [Cavalier](/units/Cavalier/) | [Knight Pike](/Exclusive/Cavalier Knight Pike/) | + | Charge | [Knight Pike Token](/Items/con_916/) | - |
+  | 7  | [Angel](/units/Angel/) | [Durandel](/Exclusive/Angel Durandel/) | - | Support | [Durandel Token](/Items/con_973/) | [Durandel Special Skin](/Items/con_641/) |
+  | 8  | [Paladin](/units/Paladin/) | [](/Exclusive/Paladin /) | - | Support | [Fearless Token](/Items/con_974/) | [Fearless Special Skin](/Items/con_642/) |
+  | 9  | [Judicator](/units/Judicator/) | [](/Exclusive/Judicator /) | - | Capital | [Sanctuary's Radiance Banner Soul](/Items/con_975/) | [Tool_210909](/Items/con_643/) |

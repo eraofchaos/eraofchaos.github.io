@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mythical Crystal"
+title: "Item - Materials - Mythical Ore"
 permalink: /Items/mat_61/
-excerpt: "Mythical Crystal"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Mythical Ore"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_61.md"
 toc: false
@@ -20,9 +20,9 @@ classes: wide
 ## Gather
 
 *    Unknown_17 
-*    Chapter 19 (Neutral Ground) -> 19-6 
-*    Chapter 19 (Neutral Ground) -> 19-12 
-*    Chapter 19 (Neutral Ground) -> 19-15 
+*    Chapter 18 (Deal with the Devil) -> 18-1 
+*    Chapter 18 (Deal with the Devil) -> 18-4 
+*    Chapter 18 (Deal with the Devil) -> 18-7 
 
 ## This item contains:
 

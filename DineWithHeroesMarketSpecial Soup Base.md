@@ -20,11 +20,11 @@ sidebar:
 
  **Recommended Power: 1000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Special Soup Base](/Items/con_161/)
+ **Reward:** [Special Soup Base](/Items/con_1160/)
 
- **Extra Reward:** 20% [Special Soup Base](/Items/con_161/)
+ **Extra Reward:** 20% [Special Soup Base](/Items/con_1160/)
 
 #### Fight against Team
  **Hero:** [Vidomina](/heroes/Vidomina/)
@@ -48,11 +48,11 @@ sidebar:
 
  **Recommended Power: 4000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Special Soup Base](/Items/con_161/)
+ **Reward:** [Special Soup Base](/Items/con_1160/)
 
- **Extra Reward:** 40% [Special Soup Base](/Items/con_161/)
+ **Extra Reward:** 40% [Special Soup Base](/Items/con_1160/)
 
 #### Fight against Team
  **Hero:** [Human Sandro](/heroes/Human Sandro/)
@@ -76,11 +76,11 @@ sidebar:
 
  **Recommended Power: 7000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Special Soup Base](/Items/con_161/)
+ **Reward:** [Special Soup Base](/Items/con_1160/)
 
- **Extra Reward:** 70% [Special Soup Base](/Items/con_161/)
+ **Extra Reward:** 70% [Special Soup Base](/Items/con_1160/)
 
 #### Fight against Team
  **Hero:** [Human Sandro](/heroes/Human Sandro/)
@@ -104,11 +104,11 @@ sidebar:
 
  **Recommended Power: 10000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Special Soup Base](/Items/con_161/)
+ **Reward:** [Special Soup Base](/Items/con_1160/)
 
- **Extra Reward:** 100% [Special Soup Base](/Items/con_161/)
+ **Extra Reward:** 100% [Special Soup Base](/Items/con_1160/)
 
 #### Fight against Team
  **Hero:** [Sandro](/heroes/Sandro/)

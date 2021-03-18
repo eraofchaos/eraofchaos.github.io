@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Basilisk](/units/Basilisk/) 
 
- **Item to Rank Up:** [Basilisk's Tail Token](/Items/con_883/)
+ **Item to Rank Up:** [Basilisk's Tail Token](/Items/con_994/)
 
- **Skin:** [Fire Energy Special Skin](/Items/con_1062/)
+ **Skin:** [Fire Energy Special Skin](/Items/con_662/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Basilisk's Tail Token](/Items/con_883/) | When an attack hits a target unit, there is a 8% chance to additionally deal damage equal to 100% of own ATK and Petrify them for 3s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Basilisk's Tail Token](/Items/con_883/) | Increases Basilisk's HP and Unit DMG Reduction by 20% each. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Basilisk's Tail Token](/Items/con_883/) | After Basilisk attacks trigger the awakening effect, DEF increases by 20% for 3s. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Basilisk's Tail Token](/Items/con_883/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] once when its HP is lower than 30% for the first time |
-  | **4x** <i class="fas fa-star"/> | **170x** [Basilisk's Tail Token](/Items/con_883/) | Increases Basilisk's Tenacity by 500. When friendly heroes cast earth-type spells, Basilisk gains a <Plague Miasma> equal to 10% of own Max HP for 20s. CD is 10s. When <Plague Miasma> exists, it increases Basilisk's Unit DMG Reduction by 10% for 20s. Stacks up to 3 times. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Basilisk's Tail Token](/Items/con_883/) | <Tail Sever> When Unit HP falls to 50%, Basilisk loses its tail to escape and becomes immune to all damage for 5s. This skill can only trigger once per battle. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Basilisk's Tail Token](/Items/con_883/) | <Besiege> Deals damage equal to 15% of Max HP to the target unit and inflicts Stun for 3s. CD is 13s. For the 5s <Tail Sever> is effective, its Unit DMG is increased by 100%, Penetration is increased by 500, and Attack Speed is increased by 200%. After <Tail Sever>, this Unit DMG Reduction is increased by 15%, and it cannot use <Besiege>. |
+  |  Awaken  | **100x** [Basilisk's Tail Token](/Items/con_994/) | When an attack hits a target unit, there is a 8% chance to additionally deal damage equal to 100% of own ATK and Petrify them for 3s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Basilisk's Tail Token](/Items/con_994/) | Increases Basilisk's HP and Unit DMG Reduction by 20% each. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Basilisk's Tail Token](/Items/con_994/) | After Basilisk attacks trigger the awakening effect, DEF increases by 20% for 3s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Basilisk's Tail Token](/Items/con_994/) | Gets a [Plague Miasma] that absorbs HP equal to 30% of its HP for 20s when the target unit is downed. This effect cannot be stacked. Get [Plague Miasma] once when its HP is lower than 30% for the first time |
+  | **4x** <i class="fas fa-star"/> | **170x** [Basilisk's Tail Token](/Items/con_994/) | Increases Basilisk's Tenacity by 500. When friendly heroes cast earth-type spells, Basilisk gains a <Plague Miasma> equal to 10% of own Max HP for 20s. CD is 10s. When <Plague Miasma> exists, it increases Basilisk's Unit DMG Reduction by 10% for 20s. Stacks up to 3 times. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Basilisk's Tail Token](/Items/con_994/) | <Tail Sever> When Unit HP falls to 50%, Basilisk loses its tail to escape and becomes immune to all damage for 5s. This skill can only trigger once per battle. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Basilisk's Tail Token](/Items/con_994/) | <Besiege> Deals damage equal to 15% of Max HP to the target unit and inflicts Stun for 3s. CD is 13s. For the 5s <Tail Sever> is effective, its Unit DMG is increased by 100%, Penetration is increased by 500, and Attack Speed is increased by 200%. After <Tail Sever>, this Unit DMG Reduction is increased by 15%, and it cannot use <Besiege>. |
 
 
 ## Level Up

@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Genie](/Items/unt_7/)
+ **Unit Soul:** [Genie](/Items/unt_239/)
 
  **Unit description:** Energy Gift: Converts ATK into healing
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Lyra Token](/Items/con_1119/)
+ **Item to Rank Up:** [Lyra Token](/Items/con_986/)
 
- **Skin:** [Lyra Special Skin](/Items/con_191/)
+ **Skin:** [Lyra Special Skin](/Items/con_654/)
 
 
 ## Recommended Holy Emblems
@@ -176,7 +176,7 @@ toc: true
 * Healing
 * unit DMG Reduction
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

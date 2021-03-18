@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Green Dragon](/units/Green Dragon/) 
 
- **Item to Rank Up:** [Resplendent Dragonwing Token](/Items/con_714/)
+ **Item to Rank Up:** [Resplendent Dragonwing Token](/Items/con_976/)
 
- **Skin:** [Resplendent Dragonwing Special Skin](/Items/con_281/)
+ **Skin:** [Resplendent Dragonwing Special Skin](/Items/con_644/)
 
  **Type:** Support
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Resplendent Dragonwing Token](/Items/con_714/) | Green Dragon's attacks will inflict Bleed, causing targets to take damage equal to 2% of their Max HP every 2s for 3s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Resplendent Dragonwing Token](/Items/con_714/) | Increases Green Dragon's Unit DMG by 20% and Critical Hit by 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Resplendent Dragonwing Token](/Items/con_714/) | Increases Green Dragon's Attack Speed by 30% when a shield is obtained. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Resplendent Dragonwing Token](/Items/con_714/) | <Crystal Guard> Green Dragon is protected by its crystallized skin, blocking damage 5 times. After blocking damage for the 5th time, <Crystal Guard> will disappear, and nearby enemy units will take damage equal to 100% of Green Dragon's ATK and be crystallized for 3s. Gain <Crystal Guard> once every 20s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Resplendent Dragonwing Token](/Items/con_714/) | Green Dragon's Penetration increases by 25 for each attack. Stacks up to 20 times. Accumulated stacks will be lost after changing the attack target. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Resplendent Dragonwing Token](/Items/con_714/) | <Unstoppable> If the attacked target is Slowed, deals damage to the targeted unit equal to 100% of own ATK and blinds them for 5s. CD is 18s. If the targeted unit is Bound, deals damage equal to 100% of own ATK and decreases their DEF by 15%. Lasts 5s. CD is 18s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Resplendent Dragonwing Token](/Items/con_714/) | <Diamond Thorns> Condenses and unleashes a large amount of razor-sharp crystals, dealing damage equal to 100% of own ATK to enemy units in a large area in front of them. Damage is doubled for Blinded targets. CD is 21s. |
+  |  Awaken  | **100x** [Resplendent Dragonwing Token](/Items/con_976/) | Green Dragon's attacks will inflict Bleed, causing targets to take damage equal to 2% of their Max HP every 2s for 3s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Resplendent Dragonwing Token](/Items/con_976/) | Increases Green Dragon's Unit DMG by 20% and Critical Hit by 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Resplendent Dragonwing Token](/Items/con_976/) | Increases Green Dragon's Attack Speed by 30% when a shield is obtained. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Resplendent Dragonwing Token](/Items/con_976/) | <Crystal Guard> Green Dragon is protected by its crystallized skin, blocking damage 5 times. After blocking damage for the 5th time, <Crystal Guard> will disappear, and nearby enemy units will take damage equal to 100% of Green Dragon's ATK and be crystallized for 3s. Gain <Crystal Guard> once every 20s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Resplendent Dragonwing Token](/Items/con_976/) | Green Dragon's Penetration increases by 25 for each attack. Stacks up to 20 times. Accumulated stacks will be lost after changing the attack target. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Resplendent Dragonwing Token](/Items/con_976/) | <Unstoppable> If the attacked target is Slowed, deals damage to the targeted unit equal to 100% of own ATK and blinds them for 5s. CD is 18s. If the targeted unit is Bound, deals damage equal to 100% of own ATK and decreases their DEF by 15%. Lasts 5s. CD is 18s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Resplendent Dragonwing Token](/Items/con_976/) | <Diamond Thorns> Condenses and unleashes a large amount of razor-sharp crystals, dealing damage equal to 100% of own ATK to enemy units in a large area in front of them. Damage is doubled for Blinded targets. CD is 21s. |
 
 
 ## Level Up

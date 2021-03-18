@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Certificate of Legend"
+title: "Item - Materials - Exceptional Crystal"
 permalink: /Items/mat_38/
-excerpt: "Certificate of Legend"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Exceptional Crystal"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_38.md"
 toc: false
@@ -11,19 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Rare materials to upgrade equipment from orange +2 to orange +3.
+ **Description:** Common materials to upgrade equipment from purple to purple +1.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter - Tunnels and Troglodytes 
-*    Chapter - The Grail 
-*    Chapter - The Road Home 
-*    Chapter - Independence 
+*    Chapter 11 (Tatalia) -> 11-6 
+*    Chapter 11 (Tatalia) -> 11-12 
+*    Chapter 11 (Tatalia) -> 11-15 
 
 ## This item contains:
 

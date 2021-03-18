@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Pit Fiend](/units/Pit Fiend/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_165/)
+ **Item to Rank Up:** [Sword Token](/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Lash> Pit Fiend swings its whip, dealing damage equal to 300% of own ATK to enemy units in a large range and inflicting Bleed. There is a 50% chance of decreasing Unit DMG by 20% for 6s. CD is 16s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Pit Fiend's ATK by 20% and Healing by 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Unit DMG Reduction of friendly Inferno units by 10% when Pit Fiend is on the battlefield. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | <Infernal Binding> Pit Fiend wraps its whip around the target unit, exposing their weakness and rendering them unable to move and attack, decreasing their Unit DMG Reduction by 15% for 4s. CD is 20s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_165/) | Increases Pit Fiend's Unit DMG by 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_165/) | When Pit Fiend attacks a bleeding enemy unit, there is a 30% chance it recovers HP equal to 50% of its own ATK to itself and a random friendly Inferno unit. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_165/) | <Her Majesty> Pit Fiend whips a random friendly Inferno unit to incite that unit's potential, increasing the unit's Unit DMG by 20%, Unit DMG Reduction by 20%, Critical Hit by 200, and Tenacity by 200 for 8s. While active, healing received is reduced by 30%. CD is 27s. |
+  |  Awaken  | **100x** [Sword Token](/Items/con_912/) | <Lash> Pit Fiend swings its whip, dealing damage equal to 300% of own ATK to enemy units in a large range and inflicting Bleed. There is a 50% chance of decreasing Unit DMG by 20% for 6s. CD is 16s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_912/) | Increases Pit Fiend's ATK by 20% and Healing by 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_912/) | Increases Unit DMG Reduction of friendly Inferno units by 10% when Pit Fiend is on the battlefield. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_912/) | <Infernal Binding> Pit Fiend wraps its whip around the target unit, exposing their weakness and rendering them unable to move and attack, decreasing their Unit DMG Reduction by 15% for 4s. CD is 20s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_912/) | Increases Pit Fiend's Unit DMG by 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_912/) | When Pit Fiend attacks a bleeding enemy unit, there is a 30% chance it recovers HP equal to 50% of its own ATK to itself and a random friendly Inferno unit. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_912/) | <Her Majesty> Pit Fiend whips a random friendly Inferno unit to incite that unit's potential, increasing the unit's Unit DMG by 20%, Unit DMG Reduction by 20%, Critical Hit by 200, and Tenacity by 200 for 8s. While active, healing received is reduced by 30%. CD is 27s. |
 
 
 ## Level Up

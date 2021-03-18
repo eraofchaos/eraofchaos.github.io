@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Armageddon's Blade - Warrior Hammer"
 permalink: /artifacts/Warrior Hammer/
-excerpt: "Armageddon's Blade - Warrior Hammer. A warhammer hidden on Giant's Ridge. One of the components of Armageddon's Blade."
+excerpt: "Era of Chaos  Armageddon's Blade - Warrior Hammer. A warhammer hidden on Giant's Ridge. One of the components of Armageddon's Blade."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Warrior Hammer.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Warrior Hammer](/Items/art_16/)
+ **Related Item**: [Warrior Hammer](/Items/art_170/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

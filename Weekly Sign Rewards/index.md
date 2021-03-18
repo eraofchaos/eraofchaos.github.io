@@ -1,7 +1,7 @@
 ---
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
-excerpt: "Weekly Daily Sign-in Rewards."
+excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
 last_modified_at: 2021-03-18
 locale: en
 ref: "index.md"

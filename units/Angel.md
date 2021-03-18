@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Angel](/Items/unt_106/)
+ **Unit Soul:** [Angel](/Items/unt_196/)
 
  **Unit description:** Condemnation: Deals colossal damage to 3 units and stuns them.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Durandel Token](/Items/con_1329/)
+ **Item to Rank Up:** [Durandel Token](/Items/con_973/)
 
- **Skin:** [Durandel Special Skin](/Items/con_747/)
+ **Skin:** [Durandel Special Skin](/Items/con_641/)
 
 
 ## Recommended Holy Emblems
@@ -171,7 +171,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

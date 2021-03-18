@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Psychic Elemental](/Items/unt_34/)
+ **Unit Soul:** [Psychic Elemental](/Items/unt_267/)
 
  **Short description:** Energy burst. Burns
 
@@ -78,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Spirit Core Token](/Items/con_603/)
+ **Item to Rank Up:** [Spirit Core Token](/Items/con_1000/)
 
- **Skin:** [Spirit Core Special Skin](/Items/con_648/)
+ **Skin:** [Spirit Core Special Skin](/Items/con_668/)
 
 
 ## Recommended Holy Emblems
@@ -169,7 +169,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

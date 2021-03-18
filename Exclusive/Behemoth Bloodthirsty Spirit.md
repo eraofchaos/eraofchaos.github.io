@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Behemoth](/units/Behemoth/) 
 
- **Item to Rank Up:** [Bloodthirsty Spirit Token](/Items/con_377/)
+ **Item to Rank Up:** [Bloodthirsty Spirit Token](/Items/con_982/)
 
- **Skin:** [Bloodthirsty Spirit Special Skin](/Items/con_662/)
+ **Skin:** [Bloodthirsty Spirit Special Skin](/Items/con_650/)
 
  **Type:** Support
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Bloodthirsty Spirit Token](/Items/con_377/) | <Stronghold Spirit> Behemoth protects other Stronghold units from damage, taking 25% of all damage taken by Stronghold units on the battlefield and increasing Unit DMG Reduction by 40% for 5s. CD is 25s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Bloodthirsty Spirit Token](/Items/con_377/) | When Behemoth is on the battlefield, it increases Unit DMG of friendly Stronghold Ranged/Caster units by 20% and Unit DMG Reduction of friendly Melee units by 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Bloodthirsty Spirit Token](/Items/con_377/) | Increases Behemoth's base HP by 50,000 points. Damage taken from Ranged/Caster unit attacks are reduced by 40%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Bloodthirsty Spirit Token](/Items/con_377/) | <Mighty Behemoth> When Behemoth takes a critical hit, it unleashes its wrath, stunning enemies in a large range around it for 3s and decreasing Unit DMG and Attack Speed of enemies in a very large range by 20% for 5s. CD is 6s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Bloodthirsty Spirit Token](/Items/con_377/) | When Behemoth casts <Stronghold Spirit>, its ancient bloodline quickly restores HP, recovering 20% of its Max HP in 5s. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Bloodthirsty Spirit Token](/Items/con_377/) | When Behemoth casts <Mighty Behemoth>, it overwhelms enemies in a large range around it, dealing damage equal to 10% of the enemy's Max HP and 150% of Behemoth's ATK. Each <Mighty Behemoth> cast increases Behemoth's Unit DMG by 8% and Unit DMG Reduction by 5% for 8s. Stacks up to 8 times. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Bloodthirsty Spirit Token](/Items/con_377/) | <War Frenzy> The first time Behemoth's HP falls to 72%, 48%, and 24%, its DEF increases by 13% each time. Effect remains even after HP is restored. |
+  |  Awaken  | **100x** [Bloodthirsty Spirit Token](/Items/con_982/) | <Stronghold Spirit> Behemoth protects other Stronghold units from damage, taking 25% of all damage taken by Stronghold units on the battlefield and increasing Unit DMG Reduction by 40% for 5s. CD is 25s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Bloodthirsty Spirit Token](/Items/con_982/) | When Behemoth is on the battlefield, it increases Unit DMG of friendly Stronghold Ranged/Caster units by 20% and Unit DMG Reduction of friendly Melee units by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Bloodthirsty Spirit Token](/Items/con_982/) | Increases Behemoth's base HP by 50,000 points. Damage taken from Ranged/Caster unit attacks are reduced by 40%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Bloodthirsty Spirit Token](/Items/con_982/) | <Mighty Behemoth> When Behemoth takes a critical hit, it unleashes its wrath, stunning enemies in a large range around it for 3s and decreasing Unit DMG and Attack Speed of enemies in a very large range by 20% for 5s. CD is 6s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Bloodthirsty Spirit Token](/Items/con_982/) | When Behemoth casts <Stronghold Spirit>, its ancient bloodline quickly restores HP, recovering 20% of its Max HP in 5s. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Bloodthirsty Spirit Token](/Items/con_982/) | When Behemoth casts <Mighty Behemoth>, it overwhelms enemies in a large range around it, dealing damage equal to 10% of the enemy's Max HP and 150% of Behemoth's ATK. Each <Mighty Behemoth> cast increases Behemoth's Unit DMG by 8% and Unit DMG Reduction by 5% for 8s. Stacks up to 8 times. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Bloodthirsty Spirit Token](/Items/con_982/) | <War Frenzy> The first time Behemoth's HP falls to 72%, 48%, and 24%, its DEF increases by 13% each time. Effect remains even after HP is restored. |
 
 
 ## Level Up

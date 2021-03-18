@@ -1,7 +1,7 @@
 ---
 title: "Faction Altar for Inferno"
 permalink: /FactionAltar/DROP_105/
-excerpt: "Faction Altar for Inferno. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
+excerpt: "Era of Chaos  Faction Altar for Inferno. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
 last_modified_at: 2021-03-18
 locale: en
 ref: "DROP_105.md"
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Inferno Limited Edition Pack](/Items/con_1045/)
+  **Drop by Luck (10x spin): 30x** [Inferno Limited Edition Pack](/Items/con_2104/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Inferno Limited Edition Pack](/Items/con_1045/) |
-  | 2 | **12%** | **2x** | [Inferno Limited Edition Pack](/Items/con_1045/) |
-  | 3 | **12%** | **3x** | [Inferno Limited Edition Pack](/Items/con_1045/) |
-  | 4 | **12%** | **5x** |  **21%** [Hell Hound](/Items/unt_102/),  **21%** [Demon](/Items/unt_80/),  **6%** [Efreeti](/Items/unt_118/),  **21%** [Pit Fiend](/Items/unt_139/),  **21%** [Pit Lord Soul Stone](/Items/unt_38/),  **6%** [Efreet Sultan Soul Stone](/Items/unt_53/),  |
-  | 5 | **12%** | **3x** |  **21%** [Hell Hound](/Items/unt_102/),  **21%** [Demon](/Items/unt_80/),  **6%** [Efreeti](/Items/unt_118/),  **21%** [Pit Fiend](/Items/unt_139/),  **21%** [Pit Lord Soul Stone](/Items/unt_38/),  **6%** [Efreet Sultan Soul Stone](/Items/unt_53/),  |
-  | 6 | **12%** | **5x** |  **30%** [Imp](/Items/unt_63/),  **30%** [Gog](/Items/unt_44/),  **9%** [Familiar Soul Stone](/Items/unt_122/),  **30%** [Magog Soul Stone](/Items/unt_140/),  |
+  | 1 | **25%** | **1x** | [Inferno Limited Edition Pack](/Items/con_2104/) |
+  | 2 | **12%** | **2x** | [Inferno Limited Edition Pack](/Items/con_2104/) |
+  | 3 | **12%** | **3x** | [Inferno Limited Edition Pack](/Items/con_2104/) |
+  | 4 | **12%** | **5x** |  **21%** [Hell Hound](/Items/unt_228/),  **21%** [Demon](/Items/unt_229/),  **6%** [Efreeti](/Items/unt_231/),  **21%** [Pit Fiend](/Items/unt_230/),  **21%** [Pit Lord Soul Stone](/Items/unt_316/),  **6%** [Efreet Sultan Soul Stone](/Items/unt_317/),  |
+  | 5 | **12%** | **3x** |  **21%** [Hell Hound](/Items/unt_228/),  **21%** [Demon](/Items/unt_229/),  **6%** [Efreeti](/Items/unt_231/),  **21%** [Pit Fiend](/Items/unt_230/),  **21%** [Pit Lord Soul Stone](/Items/unt_316/),  **6%** [Efreet Sultan Soul Stone](/Items/unt_317/),  |
+  | 6 | **12%** | **5x** |  **30%** [Imp](/Items/unt_226/),  **30%** [Gog](/Items/unt_227/),  **9%** [Familiar Soul Stone](/Items/unt_313/),  **30%** [Magog Soul Stone](/Items/unt_314/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Inferno Limited Edition Pack](/Items/con_1045/) |
-  | 2 | **11%** | **5x** |  **21%** [Hell Hound](/Items/unt_102/),  **21%** [Demon](/Items/unt_80/),  **6%** [Efreeti](/Items/unt_118/),  **21%** [Pit Fiend](/Items/unt_139/),  **21%** [Pit Lord Soul Stone](/Items/unt_38/),  **6%** [Efreet Sultan Soul Stone](/Items/unt_53/),  |
-  | 3 | **11%** | **3x** |  **21%** [Hell Hound](/Items/unt_102/),  **21%** [Demon](/Items/unt_80/),  **6%** [Efreeti](/Items/unt_118/),  **21%** [Pit Fiend](/Items/unt_139/),  **21%** [Pit Lord Soul Stone](/Items/unt_38/),  **6%** [Efreet Sultan Soul Stone](/Items/unt_53/),  |
-  | 4 | **11%** | **5x** |  **30%** [Imp](/Items/unt_63/),  **30%** [Gog](/Items/unt_44/),  **9%** [Familiar Soul Stone](/Items/unt_122/),  **30%** [Magog Soul Stone](/Items/unt_140/),  |
+  | 1 | **55%** | **1x** | [Inferno Limited Edition Pack](/Items/con_2104/) |
+  | 2 | **11%** | **5x** |  **21%** [Hell Hound](/Items/unt_228/),  **21%** [Demon](/Items/unt_229/),  **6%** [Efreeti](/Items/unt_231/),  **21%** [Pit Fiend](/Items/unt_230/),  **21%** [Pit Lord Soul Stone](/Items/unt_316/),  **6%** [Efreet Sultan Soul Stone](/Items/unt_317/),  |
+  | 3 | **11%** | **3x** |  **21%** [Hell Hound](/Items/unt_228/),  **21%** [Demon](/Items/unt_229/),  **6%** [Efreeti](/Items/unt_231/),  **21%** [Pit Fiend](/Items/unt_230/),  **21%** [Pit Lord Soul Stone](/Items/unt_316/),  **6%** [Efreet Sultan Soul Stone](/Items/unt_317/),  |
+  | 4 | **11%** | **5x** |  **30%** [Imp](/Items/unt_226/),  **30%** [Gog](/Items/unt_227/),  **9%** [Familiar Soul Stone](/Items/unt_313/),  **30%** [Magog Soul Stone](/Items/unt_314/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Inferno Limited Edition Pack](/Items/con_1045/)
+  **Drop by 10x spin: X** [Inferno Limited Edition Pack](/Items/con_2104/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Familiar Soul Stone](/Items/unt_122/), [Magog Soul Stone](/Items/unt_140/), [Pit Lord Soul Stone](/Items/unt_38/), [Efreet Sultan Soul Stone](/Items/unt_53/), [Arch Devil Soul Stone](/Items/unt_74/) | [Imp](/Items/unt_63/), [Gog](/Items/unt_44/), [Hell Hound](/Items/unt_102/), [Demon](/Items/unt_80/), [Pit Fiend](/Items/unt_139/), [Efreeti](/Items/unt_118/), [Devil](/Items/unt_19/) |
+  | [Familiar Soul Stone](/Items/unt_313/), [Magog Soul Stone](/Items/unt_314/), [Pit Lord Soul Stone](/Items/unt_316/), [Efreet Sultan Soul Stone](/Items/unt_317/), [Arch Devil Soul Stone](/Items/unt_318/) | [Imp](/Items/unt_226/), [Gog](/Items/unt_227/), [Hell Hound](/Items/unt_228/), [Demon](/Items/unt_229/), [Pit Fiend](/Items/unt_230/), [Efreeti](/Items/unt_231/), [Devil](/Items/unt_232/) |
 
 
 

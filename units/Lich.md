@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Lich](/Items/unt_28/)
+ **Unit Soul:** [Lich](/Items/unt_212/)
 
  **Unit description:** Sacrifice: Summons a horde of Skeletons.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rank Up:** [Death Tribute Token](/Items/con_726/)
+ **Item to Rank Up:** [Death Tribute Token](/Items/con_978/)
 
- **Skin:** [Death Tribute Special Skin](/Items/con_304/)
+ **Skin:** [Death Tribute Special Skin](/Items/con_646/)
 
 
 ## Recommended Holy Emblems
@@ -173,7 +173,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

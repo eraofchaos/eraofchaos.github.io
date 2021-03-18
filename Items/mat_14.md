@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Rare Wood"
+title: "Item - Materials - Good Mercury"
 permalink: /Items/mat_14/
-excerpt: "Rare Wood"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Good Mercury"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_14.md"
 toc: false
@@ -11,18 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from purple +1 to purple +2.
+ **Description:** Common materials to upgrade equipment from blue to blue +1.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 12 (Sea of Ice) -> 12-2 
-*    Chapter 12 (Sea of Ice) -> 12-5 
-*    Chapter 12 (Sea of Ice) -> 12-8 
+*    Chapter 4 (Griffin Cliffs) -> 4-3 
+*    Chapter 4 (Griffin Cliffs) -> 4-6 
+*    Chapter 4 (Griffin Cliffs) -> 4-9 
 
 ## This item contains:
 

@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Mermaid](/Items/unt_109/)
+ **Unit Soul:** [Mermaid](/Items/unt_277/)
 
  **Short description:** Group heals. strong buffs
 
@@ -78,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Night Tides Token](/Items/con_317/)
+ **Item to Rank Up:** [Night Tides Token](/Items/con_1004/)
 
- **Skin:** [Night Tides Special Skin](/Items/con_778/)
+ **Skin:** [Night Tides Special Skin](/Items/con_672/)
 
 
 ## Recommended Holy Emblems
@@ -170,7 +170,7 @@ toc: true
 * Attack Speed
 * Healing
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

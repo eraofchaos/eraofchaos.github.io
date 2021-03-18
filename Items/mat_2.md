@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Rare Ore"
+title: "Item - Materials - Inferior Mercury"
 permalink: /Items/mat_2/
-excerpt: "Rare Ore"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Inferior Mercury"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_2.md"
 toc: false
@@ -11,18 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from purple +1 to purple +2.
+ **Description:** Common materials to upgrade equipment from white to green.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #C0C0C0">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 12 (Sea of Ice) -> 12-1 
-*    Chapter 12 (Sea of Ice) -> 12-4 
-*    Chapter 12 (Sea of Ice) -> 12-7 
+*    Chapter 1 (Evenmorn Island) -> 1-1 
+*    Chapter 1 (Evenmorn Island) -> 1-3 
+*    Chapter 2 (Return of the Queen) -> 2-3 
 
 ## This item contains:
 

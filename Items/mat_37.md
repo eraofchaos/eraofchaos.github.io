@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Radiant Crystal"
+title: "Item - Materials - Exceptional Gems"
 permalink: /Items/mat_37/
-excerpt: "Radiant Crystal"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Exceptional Gems"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_37.md"
 toc: false
@@ -11,18 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from orange +5 to Red.
+ **Description:** Common materials to upgrade equipment from purple to purple +1.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 27 (Dragon Father's Blood) -> 27-6 
-*    Chapter 27 (Dragon Father's Blood) -> 27-12 
-*    Chapter 27 (Dragon Father's Blood) -> 27-15 
+*    Chapter 11 (Tatalia) -> 11-1 
+*    Chapter 11 (Tatalia) -> 11-5 
+*    Chapter 11 (Tatalia) -> 11-11 
 
 ## This item contains:
 

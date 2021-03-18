@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Judicator](/units/Judicator/) 
 
- **Item to Rank Up:** [Sanctuary's Radiance Banner Soul](/Items/con_734/)
+ **Item to Rank Up:** [Sanctuary's Radiance Banner Soul](/Items/con_975/)
 
- **Skin:** -
+ **Skin:** [Tool_210909](/Items/con_643/)
 
  **Type:** Capital
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [Sanctuary's Radiance Banner Soul](/Items/con_734/) |  |
+  |  Awaken  | **100x** [Sanctuary's Radiance Banner Soul](/Items/con_975/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sanctuary's Radiance Banner Soul](/Items/con_975/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Sanctuary's Radiance Banner Soul](/Items/con_975/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Sanctuary's Radiance Banner Soul](/Items/con_975/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Sanctuary's Radiance Banner Soul](/Items/con_975/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Sanctuary's Radiance Banner Soul](/Items/con_975/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Sanctuary's Radiance Banner Soul](/Items/con_975/) |  |
 
 
 ## Level Up

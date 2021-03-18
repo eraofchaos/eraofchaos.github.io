@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Unicorn](/Items/unt_145/)
+ **Unit Soul:** [Unicorn](/Items/unt_204/)
 
  **Unit description:** Blind: Decreases the Accuracy of a row of enemy troops.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_916/)
 
  **Skin:** -
 
@@ -170,7 +170,7 @@ toc: true
 * Unit Dodge
 * unit DMG Reduction
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking

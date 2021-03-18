@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Exceptional Mercury"
+title: "Item - Materials - Star Mercury"
 permalink: /Items/mat_91/
-excerpt: "Exceptional Mercury"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Star Mercury"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_91.md"
 toc: false
@@ -11,18 +11,17 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from purple to purple +1.
+ **Description:** Common materials to upgrade equipment from orange +4 to orange +5.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 10 (Marshland) -> 10-3 
-*    Chapter 10 (Marshland) -> 10-6 
-*    Chapter 10 (Marshland) -> 10-9 
+*    Chapter 26 (Extend Lead) -> 26-3 
+*    Chapter 26 (Extend Lead) -> 26-9 
 
 ## This item contains:
 

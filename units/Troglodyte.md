@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Troglodyte](/Items/unt_23/)
+ **Unit Soul:** [Troglodyte](/Items/unt_244/)
 
  **Unit description:** Spear Array: AoE damage and stunning
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Sword Token](/Items/con_165/)
+ **Item to Rank Up:** [Sword Token](/Items/con_912/)
 
  **Skin:** -
 
@@ -170,7 +170,7 @@ toc: true
 * Unit Critical Hit
 * Magic resistance
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

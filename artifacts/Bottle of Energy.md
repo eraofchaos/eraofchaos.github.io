@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Elixir of Life - Bottle of Energy"
 permalink: /artifacts/Bottle of Energy/
-excerpt: "Elixir of Life - Bottle of Energy. A bottle to make the wearer feel energized. One of the components of the Elixir of Life."
+excerpt: "Era of Chaos  Elixir of Life - Bottle of Energy. A bottle to make the wearer feel energized. One of the components of the Elixir of Life."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Bottle of Energy.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Elixir of Life](/artifacts/Elixir of Life/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 1x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Bottle of Energy](/Items/art_14/)
+ **Related Item**: [Bottle of Energy](/Items/art_108/)
 
  **Quality:** [Green Artifact Components](/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

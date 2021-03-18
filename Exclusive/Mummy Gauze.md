@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Mummy](/units/Mummy/) 
 
- **Item to Rank Up:** [Gauze Token](/Items/con_44/)
+ **Item to Rank Up:** [Gauze Token](/Items/con_981/)
 
- **Skin:** [Gauze Special Skin](/Items/con_1256/)
+ **Skin:** [Gauze Special Skin](/Items/con_649/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Gauze Token](/Items/con_44/) | Mummy inflicts Low Morale on all units in a large range every 8s and decreases the Unit DMG of enemy units in range by 15% while inflicting them with Plague for 3s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Gauze Token](/Items/con_44/) | Increases Mummy's Unit DMG Reduction by 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Gauze Token](/Items/con_44/) | Mummy increases own DEF by 15% for 5s when suffering from Low Morale and recovers HP equal to 8% of their Max HP. CD is 15s. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Gauze Token](/Items/con_44/) | <Mummification> Mummy uses bandages to wrap up nearby Melee units, rendering them unable to move, attack, or cast skills while decreasing their Unit DMG Reduction by 15% for 3s. CD is 25s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Gauze Token](/Items/con_44/) | Increases own Unit DMG Reduction by 6% for every Necropolis unit on the battlefield. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Gauze Token](/Items/con_44/) | When a friendly hero casts an earth-type spell, Mummy increases Unit DMG of Necropolis units in a large range by 5% and Unit DMG Reduction by 10% for 6s. Stacks up to 3 times. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Gauze Token](/Items/con_44/) | Increases Unit DMG Reduction by 40% when Mummy is attacked by Ranged/Caster units. <Mummification> is triggered again when HP falls to 75%, 50%, and 25%, during which Mummy recovers HP equal to 3% of its Max HP every second. |
+  |  Awaken  | **100x** [Gauze Token](/Items/con_981/) | Mummy inflicts Low Morale on all units in a large range every 8s and decreases the Unit DMG of enemy units in range by 15% while inflicting them with Plague for 3s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Gauze Token](/Items/con_981/) | Increases Mummy's Unit DMG Reduction by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Gauze Token](/Items/con_981/) | Mummy increases own DEF by 15% for 5s when suffering from Low Morale and recovers HP equal to 8% of their Max HP. CD is 15s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Gauze Token](/Items/con_981/) | <Mummification> Mummy uses bandages to wrap up nearby Melee units, rendering them unable to move, attack, or cast skills while decreasing their Unit DMG Reduction by 15% for 3s. CD is 25s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Gauze Token](/Items/con_981/) | Increases own Unit DMG Reduction by 6% for every Necropolis unit on the battlefield. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Gauze Token](/Items/con_981/) | When a friendly hero casts an earth-type spell, Mummy increases Unit DMG of Necropolis units in a large range by 5% and Unit DMG Reduction by 10% for 6s. Stacks up to 3 times. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Gauze Token](/Items/con_981/) | Increases Unit DMG Reduction by 40% when Mummy is attacked by Ranged/Caster units. <Mummification> is triggered again when HP falls to 75%, 50%, and 25%, during which Mummy recovers HP equal to 3% of its Max HP every second. |
 
 
 ## Level Up

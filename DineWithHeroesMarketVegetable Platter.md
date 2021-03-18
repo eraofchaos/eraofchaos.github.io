@@ -20,11 +20,11 @@ sidebar:
 
  **Recommended Power: 1000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Vegetable Platter](/Items/con_365/)
+ **Reward:** [Vegetable Platter](/Items/con_1162/)
 
- **Extra Reward:** 20% [Vegetable Platter](/Items/con_365/)
+ **Extra Reward:** 20% [Vegetable Platter](/Items/con_1162/)
 
 #### Fight against Team
  **Hero:** [Ryland](/heroes/Ryland/)
@@ -48,11 +48,11 @@ sidebar:
 
  **Recommended Power: 4000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Vegetable Platter](/Items/con_365/)
+ **Reward:** [Vegetable Platter](/Items/con_1162/)
 
- **Extra Reward:** 40% [Vegetable Platter](/Items/con_365/)
+ **Extra Reward:** 40% [Vegetable Platter](/Items/con_1162/)
 
 #### Fight against Team
  **Hero:** [Mephala](/heroes/Mephala/)
@@ -76,11 +76,11 @@ sidebar:
 
  **Recommended Power: 7000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Vegetable Platter](/Items/con_365/)
+ **Reward:** [Vegetable Platter](/Items/con_1162/)
 
- **Extra Reward:** 70% [Vegetable Platter](/Items/con_365/)
+ **Extra Reward:** 70% [Vegetable Platter](/Items/con_1162/)
 
 #### Fight against Team
  **Hero:** [Mephala](/heroes/Mephala/)
@@ -104,11 +104,11 @@ sidebar:
 
  **Recommended Power: 10000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Vegetable Platter](/Items/con_365/)
+ **Reward:** [Vegetable Platter](/Items/con_1162/)
 
- **Extra Reward:** 100% [Vegetable Platter](/Items/con_365/)
+ **Extra Reward:** 100% [Vegetable Platter](/Items/con_1162/)
 
 #### Fight against Team
  **Hero:** [Gem](/heroes/Gem/)

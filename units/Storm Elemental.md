@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Storm Elemental](/Items/unt_115/)
+ **Unit Soul:** [Storm Elemental](/Items/unt_263/)
 
  **Short description:** Marks for high single-target damage.
 
@@ -79,7 +79,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_914/)
 
  **Skin:** -
 
@@ -171,7 +171,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_789/)
 
 
 ## Awaking

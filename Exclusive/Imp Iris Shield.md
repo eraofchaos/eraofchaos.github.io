@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Imp](/units/Imp/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Flametongue> Imp deals damage equal to 300% of own ATK to target unit and inflicts Burn for 6s. CD is 20s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Imp's Magic Resistance by 25%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Imp's DEF by 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Stalwart Armor> When Imp's HP falls to 60% and 30% for the first time, it gains a shield equal to 20% of its Max HP and increases Tenacity by 150 for 20s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Increases Imp's HP by 20% and Tenacity by 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | Increases Imp's Unit DMG Reduction by 2% and Tenacity by 30 each time an Inferno unit is deployed. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | <Flexible Form> Each time Imp dodges, there is a 25% chance of recovering HP equal to 3% of own Max HP and increasing ATK by 5% for 5s. Stacks up to 250%. |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_913/) | <Flametongue> Imp deals damage equal to 300% of own ATK to target unit and inflicts Burn for 6s. CD is 20s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_913/) | Increases Imp's Magic Resistance by 25%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_913/) | Increases Imp's DEF by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | <Stalwart Armor> When Imp's HP falls to 60% and 30% for the first time, it gains a shield equal to 20% of its Max HP and increases Tenacity by 150 for 20s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_913/) | Increases Imp's HP by 20% and Tenacity by 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | Increases Imp's Unit DMG Reduction by 2% and Tenacity by 30 each time an Inferno unit is deployed. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | <Flexible Form> Each time Imp dodges, there is a 25% chance of recovering HP equal to 3% of own Max HP and increasing ATK by 5% for 5s. Stacks up to 250%. |
 
 
 ## Level Up

@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Basilisk](/Items/unt_133/)
+ **Unit Soul:** [Basilisk](/Items/unt_256/)
 
  **Short description:** Controls tanks. Petrifies
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Basilisk's Tail Token](/Items/con_883/)
+ **Item to Rank Up:** [Basilisk's Tail Token](/Items/con_994/)
 
- **Skin:** [Fire Energy Special Skin](/Items/con_1062/)
+ **Skin:** [Fire Energy Special Skin](/Items/con_662/)
 
 
 ## Recommended Holy Emblems
@@ -172,7 +172,7 @@ toc: true
 * unit DMG Reduction
 * Magic resistance
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

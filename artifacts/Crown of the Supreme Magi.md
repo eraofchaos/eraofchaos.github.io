@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Axe of Ferocity - Crown of the Supreme Magi"
 permalink: /artifacts/Crown of the Supreme Magi/
-excerpt: "Axe of Ferocity - Crown of the Supreme Magi. A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity."
+excerpt: "Era of Chaos  Axe of Ferocity - Crown of the Supreme Magi. A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Crown of the Supreme Magi.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Axe of Ferocity](/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Crown of the Supreme Magi](/Items/art_37/)
+ **Related Item**: [Crown of the Supreme Magi](/Items/art_127/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

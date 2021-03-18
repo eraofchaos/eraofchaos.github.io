@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Cloak of the Undead King - Amulet of the Undertaker"
 permalink: /artifacts/Amulet of the Undertaker/
-excerpt: "Cloak of the Undead King - Amulet of the Undertaker. A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King."
+excerpt: "Era of Chaos  Cloak of the Undead King - Amulet of the Undertaker. A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Amulet of the Undertaker.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Amulet of the Undertaker](/Items/art_49/)
+ **Related Item**: [Amulet of the Undertaker](/Items/art_129/)
 
  **Quality:** [Violet Artifact Components](/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

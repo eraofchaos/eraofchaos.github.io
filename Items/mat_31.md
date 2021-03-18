@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Legendary Gems"
+title: "Item - Materials - Valuable Crystal"
 permalink: /Items/mat_31/
-excerpt: "Legendary Gems"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Valuable Crystal"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_31.md"
 toc: false
@@ -11,18 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from purple +3 to orange.
+ **Description:** Common materials to upgrade equipment from blue +2 to purple.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 17 (Liberation of the Empire) -> 17-1 
-*    Chapter 17 (Liberation of the Empire) -> 17-5 
-*    Chapter 17 (Liberation of the Empire) -> 17-11 
+*    Chapter 9 (Land of Chaos) -> 9-6 
+*    Chapter 9 (Land of Chaos) -> 9-12 
+*    Chapter 9 (Land of Chaos) -> 9-15 
 
 ## This item contains:
 

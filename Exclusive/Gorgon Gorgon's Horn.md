@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Gorgon](/units/Gorgon/) 
 
- **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_1225/)
+ **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_995/)
 
- **Skin:** [Gorgon's Horn Special Skin](/Items/con_16/)
+ **Skin:** [Gorgon's Horn Special Skin](/Items/con_663/)
 
  **Type:** Support
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Gorgon's Horn Token](/Items/con_1225/) | <Petrified Armor> Gorgon covers its entire body with petrified armor, increasing their DEF by 24% and Unit DMG Reduction by 20% for 6s. When losing all bonuses, Gorgon deals damage equal to 150% of own ATK to enemy units within a large range and has a 30% chance to inflict Petrify for 3s. CD is 18s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Gorgon's Horn Token](/Items/con_1225/) | Increases Gorgon's HP and Unit DMG Reduction by 20% each. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Gorgon's Horn Token](/Items/con_1225/) | When casting <Petrified Armor>, Gorgon restores HP equal to 10% of own Max HP over 5s. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Gorgon's Horn Token](/Items/con_1225/) | <Tectonic Fission> When Gorgon loses its <Petrified Armor> bonus, it inflicts Slow or Burn to enemy units within a large range every second, also dealing damage equal to 3% of Max HP for 6s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Gorgon's Horn Token](/Items/con_1225/) | When Gorgon takes a critical hit, its Tenacity is increased by 30 for the rest of the battle. CD is 2s. Stacks up to 20 times. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Gorgon's Horn Token](/Items/con_1225/) | After Gorgon casts <Petrified Armor>, it grants a shield to a random friendly Fortress unit equal to 10% of Max HP, and Gorgon has a 50% chance to gain a shield equal to 10% of Max HP for 6s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Gorgon's Horn Token](/Items/con_1225/) | Each time a Gorgon dies, increases the Unit DMG Reduction of all friendly Fortress units by 10% and Attack Speed by 10% for 10s. Stacks up to 4 times. Has a 7% chance to deal damage equal to 77% of Max HP to 3 random enemy units. |
+  |  Awaken  | **100x** [Gorgon's Horn Token](/Items/con_995/) | <Petrified Armor> Gorgon covers its entire body with petrified armor, increasing their DEF by 24% and Unit DMG Reduction by 20% for 6s. When losing all bonuses, Gorgon deals damage equal to 150% of own ATK to enemy units within a large range and has a 30% chance to inflict Petrify for 3s. CD is 18s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Gorgon's Horn Token](/Items/con_995/) | Increases Gorgon's HP and Unit DMG Reduction by 20% each. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Gorgon's Horn Token](/Items/con_995/) | When casting <Petrified Armor>, Gorgon restores HP equal to 10% of own Max HP over 5s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Gorgon's Horn Token](/Items/con_995/) | <Tectonic Fission> When Gorgon loses its <Petrified Armor> bonus, it inflicts Slow or Burn to enemy units within a large range every second, also dealing damage equal to 3% of Max HP for 6s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Gorgon's Horn Token](/Items/con_995/) | When Gorgon takes a critical hit, its Tenacity is increased by 30 for the rest of the battle. CD is 2s. Stacks up to 20 times. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Gorgon's Horn Token](/Items/con_995/) | After Gorgon casts <Petrified Armor>, it grants a shield to a random friendly Fortress unit equal to 10% of Max HP, and Gorgon has a 50% chance to gain a shield equal to 10% of Max HP for 6s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Gorgon's Horn Token](/Items/con_995/) | Each time a Gorgon dies, increases the Unit DMG Reduction of all friendly Fortress units by 10% and Attack Speed by 10% for 10s. Stacks up to 4 times. Has a 7% chance to deal damage equal to 77% of Max HP to 3 random enemy units. |
 
 
 ## Level Up

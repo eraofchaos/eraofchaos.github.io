@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Sword of Frost - Withering Staff"
 permalink: /artifacts/Withering Staff/
-excerpt: "Sword of Frost - Withering Staff. A staff used by an Arch Lich. One of the components of the Sword of Frost."
+excerpt: "Era of Chaos  Sword of Frost - Withering Staff. A staff used by an Arch Lich. One of the components of the Sword of Frost."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Withering Staff.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Withering Staff](/Items/art_33/)
+ **Related Item**: [Withering Staff](/Items/art_162/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

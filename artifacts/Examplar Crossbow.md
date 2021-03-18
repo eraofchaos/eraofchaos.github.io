@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Armageddon's Blade - Examplar Crossbow"
 permalink: /artifacts/Examplar Crossbow/
-excerpt: "Armageddon's Blade - Examplar Crossbow. An artifact worn by Hero Gelu before he came of age. One of the components of Armageddon's Blade."
+excerpt: "Era of Chaos  Armageddon's Blade - Examplar Crossbow. An artifact worn by Hero Gelu before he came of age. One of the components of Armageddon's Blade."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Examplar Crossbow.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Examplar Crossbow](/Items/art_38/)
+ **Related Item**: [Examplar Crossbow](/Items/art_171/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

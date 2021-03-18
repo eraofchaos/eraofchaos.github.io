@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Goblin](/units/Goblin/) | [Sword](/Exclusive/Goblin Sword/) | - | Charge | [Sword Token](/Items/con_165/) | - |
-  | 2  | [Wolf Rider](/units/Wolf Rider/) | [Knight Pike](/Exclusive/Wolf Rider Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_212/) | - |
-  | 3  | [Orc](/units/Orc/) | [Long Bow](/Exclusive/Orc Long Bow/) | - | Charge | [Long Bow Token](/Items/con_136/) | - |
-  | 4  | [Ogre](/units/Ogre/) | [Iris Shield](/Exclusive/Ogre Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_155/) | - |
-  | 5  | [Roc](/units/Roc/) | [Arcane Chant](/Exclusive/Roc Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_124/) | - |
-  | 6  | [Cyclops](/units/Cyclops/) | [Long Bow](/Exclusive/Cyclops Long Bow/) | + | Charge | [Long Bow Token](/Items/con_136/) | - |
-  | 7  | [Behemoth](/units/Behemoth/) | [Bloodthirsty Spirit](/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Support | [Bloodthirsty Spirit Token](/Items/con_377/) | [Bloodthirsty Spirit Special Skin](/Items/con_662/) |
-  | 8  | [Berserker](/units/Berserker/) | [Berserker's Axe](/Exclusive/Berserker Berserker's Axe/) | - | Support | [Berserker's Axe Token](/Items/con_801/) | [Berserker's Axe Special Skin](/Items/con_349/) |
+  | 1  | [Goblin](/units/Goblin/) | [Sword](/Exclusive/Goblin Sword/) | - | Charge | [Sword Token](/Items/con_912/) | - |
+  | 2  | [Wolf Rider](/units/Wolf Rider/) | [Knight Pike](/Exclusive/Wolf Rider Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_916/) | - |
+  | 3  | [Orc](/units/Orc/) | [Long Bow](/Exclusive/Orc Long Bow/) | - | Charge | [Long Bow Token](/Items/con_914/) | - |
+  | 4  | [Ogre](/units/Ogre/) | [Iris Shield](/Exclusive/Ogre Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
+  | 5  | [Roc](/units/Roc/) | [Arcane Chant](/Exclusive/Roc Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
+  | 6  | [Cyclops](/units/Cyclops/) | [Long Bow](/Exclusive/Cyclops Long Bow/) | + | Charge | [Long Bow Token](/Items/con_914/) | - |
+  | 7  | [Behemoth](/units/Behemoth/) | [Bloodthirsty Spirit](/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Support | [Bloodthirsty Spirit Token](/Items/con_982/) | [Bloodthirsty Spirit Special Skin](/Items/con_650/) |
+  | 8  | [Berserker](/units/Berserker/) | [Berserker's Axe](/Exclusive/Berserker Berserker's Axe/) | - | Support | [Berserker's Axe Token](/Items/con_983/) | [Berserker's Axe Special Skin](/Items/con_651/) |
   | 9  | [Troll](/units/Troll/) | - | - | - | none | none |

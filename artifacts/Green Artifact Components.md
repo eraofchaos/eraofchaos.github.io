@@ -1,7 +1,7 @@
 ---
 title: "Green Artifact Components"
 permalink: /artifacts/Green Artifact Components/
-excerpt: "Lis of all Green Artifact Components  in the game. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
+excerpt: "Era of Chaos  List of all Green Artifact Components . Collect artifacts to improve your heroes' attributes and unlock powerful skills."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Green Artifact Components.md"

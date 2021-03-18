@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Epic Ore"
+title: "Item - Materials - Rare Mercury"
 permalink: /Items/mat_42/
-excerpt: "Epic Ore"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Rare Mercury"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_42.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from purple +2 to purple +3.
+ **Description:** Common materials to upgrade equipment from purple +1 to purple +2.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -20,9 +20,9 @@ classes: wide
 ## Gather
 
 *    Unknown_17 
-*    Chapter 14 (Safe Passage) -> 14-1 
-*    Chapter 14 (Safe Passage) -> 14-4 
-*    Chapter 14 (Safe Passage) -> 14-7 
+*    Chapter 12 (Sea of Ice) -> 12-3 
+*    Chapter 12 (Sea of Ice) -> 12-6 
+*    Chapter 12 (Sea of Ice) -> 12-9 
 
 ## This item contains:
 

@@ -20,11 +20,11 @@ sidebar:
 
  **Recommended Power: 1000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Spicy Soup Base](/Items/con_145/)
+ **Reward:** [Spicy Soup Base](/Items/con_1159/)
 
- **Extra Reward:** 20% [Spicy Soup Base](/Items/con_145/)
+ **Extra Reward:** 20% [Spicy Soup Base](/Items/con_1159/)
 
 #### Fight against Team
  **Hero:** [Zydar](/heroes/Zydar/)
@@ -48,11 +48,11 @@ sidebar:
 
  **Recommended Power: 4000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Spicy Soup Base](/Items/con_145/)
+ **Reward:** [Spicy Soup Base](/Items/con_1159/)
 
- **Extra Reward:** 40% [Spicy Soup Base](/Items/con_145/)
+ **Extra Reward:** 40% [Spicy Soup Base](/Items/con_1159/)
 
 #### Fight against Team
  **Hero:** [Rashka](/heroes/Rashka/)
@@ -76,11 +76,11 @@ sidebar:
 
  **Recommended Power: 7000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Spicy Soup Base](/Items/con_145/)
+ **Reward:** [Spicy Soup Base](/Items/con_1159/)
 
- **Extra Reward:** 70% [Spicy Soup Base](/Items/con_145/)
+ **Extra Reward:** 70% [Spicy Soup Base](/Items/con_1159/)
 
 #### Fight against Team
  **Hero:** [Rashka](/heroes/Rashka/)
@@ -104,11 +104,11 @@ sidebar:
 
  **Recommended Power: 10000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Spicy Soup Base](/Items/con_145/)
+ **Reward:** [Spicy Soup Base](/Items/con_1159/)
 
- **Extra Reward:** 100% [Spicy Soup Base](/Items/con_145/)
+ **Extra Reward:** 100% [Spicy Soup Base](/Items/con_1159/)
 
 #### Fight against Team
  **Hero:** [Xeron](/heroes/Xeron/)

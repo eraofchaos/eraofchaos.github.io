@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Angelic Alliance - Pendant of Holiness"
 permalink: /artifacts/Pendant of Holiness/
-excerpt: "Angelic Alliance - Pendant of Holiness. A necklace from an Angel. One of the components of the Angelic Alliance."
+excerpt: "Era of Chaos  Angelic Alliance - Pendant of Holiness. A necklace from an Angel. One of the components of the Angelic Alliance."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Pendant of Holiness.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Pendant of Holiness](/Items/art_87/)
+ **Related Item**: [Pendant of Holiness](/Items/art_155/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

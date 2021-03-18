@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Power of the Dragon Father - Dragon Scale Armour"
 permalink: /artifacts/Dragon Scale Armour/
-excerpt: "Power of the Dragon Father - Dragon Scale Armour. A chest blessed by the Holy Dragon. One of the components of Power of the Dragon Father."
+excerpt: "Era of Chaos  Power of the Dragon Father - Dragon Scale Armour. A chest blessed by the Holy Dragon. One of the components of Power of the Dragon Father."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Dragon Scale Armour.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Dragon Scale Armour](/Items/art_20/)
+ **Related Item**: [Dragon Scale Armour](/Items/art_148/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

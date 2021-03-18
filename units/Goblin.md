@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Goblin](/Items/unt_26/)
+ **Unit Soul:** [Goblin](/Items/unt_217/)
 
  **Unit description:** War Storm: Deals damage to 3 nearby enemy units.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Sword Token](/Items/con_165/)
+ **Item to Rank Up:** [Sword Token](/Items/con_912/)
 
  **Skin:** -
 
@@ -174,7 +174,7 @@ toc: true
 * Attack Speed
 * Magic resistance
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

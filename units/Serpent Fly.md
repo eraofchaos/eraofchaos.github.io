@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Serpent Fly](/Items/unt_79/)
+ **Unit Soul:** [Serpent Fly](/Items/unt_255/)
 
  **Short description:** Weakens and controls back-row
 
@@ -81,7 +81,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 
  **Skin:** -
 
@@ -188,7 +188,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Sword of Frost - Ogre's Staff"
 permalink: /artifacts/Ogre's Staff/
-excerpt: "Sword of Frost - Ogre's Staff. A staff worshipped by the Ogre. One of the components of the Sword of Frost."
+excerpt: "Era of Chaos  Sword of Frost - Ogre's Staff. A staff worshipped by the Ogre. One of the components of the Sword of Frost."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Ogre's Staff.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Ogre's Staff](/Items/art_36/)
+ **Related Item**: [Ogre's Staff](/Items/art_163/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Eternal Crystal"
+title: "Item - Materials - Superior Ore"
 permalink: /Items/mat_19/
-excerpt: "Eternal Crystal"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Superior Ore"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_19.md"
 toc: false
@@ -11,18 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from orange +1 to orange +2.
+ **Description:** Common materials to upgrade equipment from blue +1 to blue +2.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 21 (The Grail) -> 21-6 
-*    Chapter 21 (The Grail) -> 21-12 
-*    Chapter 21 (The Grail) -> 21-15 
+*    Chapter 6 (Breaking Ground) -> 6-1 
+*    Chapter 6 (Breaking Ground) -> 6-4 
+*    Chapter 6 (Breaking Ground) -> 6-7 
 
 ## This item contains:
 

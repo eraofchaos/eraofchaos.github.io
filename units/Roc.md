@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Roc](/Items/unt_41/)
+ **Unit Soul:** [Roc](/Items/unt_221/)
 
  **Unit description:** Thunder: Deals catastrophic damage to all enemy troops in its path.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

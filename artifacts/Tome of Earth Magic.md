@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Spellbinder's Hat - Tome of Earth Magic"
 permalink: /artifacts/Tome of Earth Magic/
-excerpt: "Spellbinder's Hat - Tome of Earth Magic. This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat"
+excerpt: "Era of Chaos  Spellbinder's Hat - Tome of Earth Magic. This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat"
 last_modified_at: 2021-03-18
 locale: en
 ref: "Tome of Earth Magic.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 75x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Tome of Earth Magic](/Items/art_9/)
+ **Related Item**: [Tome of Earth Magic](/Items/art_181/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

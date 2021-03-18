@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Green Dragon](/Items/unt_126/)
+ **Unit Soul:** [Green Dragon](/Items/unt_205/)
 
  **Unit description:** Reinforcement from the Sky: Deals colossal damage to 3 enemy troops in the back row.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Resplendent Dragonwing Token](/Items/con_714/)
+ **Item to Rank Up:** [Resplendent Dragonwing Token](/Items/con_976/)
 
- **Skin:** [Resplendent Dragonwing Special Skin](/Items/con_281/)
+ **Skin:** [Resplendent Dragonwing Special Skin](/Items/con_644/)
 
 
 ## Recommended Holy Emblems
@@ -175,7 +175,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

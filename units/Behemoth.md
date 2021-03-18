@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Behemoth](/Items/unt_77/)
+ **Unit Soul:** [Behemoth](/Items/unt_223/)
 
  **Unit description:** Wild Roar: Decreases the enemy's attack sharply, causes stun.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Bloodthirsty Spirit Token](/Items/con_377/)
+ **Item to Rank Up:** [Bloodthirsty Spirit Token](/Items/con_982/)
 
- **Skin:** [Bloodthirsty Spirit Special Skin](/Items/con_662/)
+ **Skin:** [Bloodthirsty Spirit Special Skin](/Items/con_650/)
 
 
 ## Recommended Holy Emblems
@@ -178,7 +178,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

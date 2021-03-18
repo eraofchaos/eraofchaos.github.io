@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Pegasus](/units/Pegasus/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | Each normal attack causes additional damage equal to 30% of its ATK to the target |
-  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Pegasus unit's damage increased by 20% |
-  | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Pegasus' ATK increased by 20% and ATK speed by 10% |
-  | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | <Bladestorm> Pegasus throws a rose thorn every 25s, dealing damage equal to the sum of 5% of Max HP and 20% ATK to all hostile units while causing enemies to bleed for 10s |
-  | **4x** <i class="fas fa-star"/> | **170x** [Long Bow Token](/Items/con_136/) | Pegasus's normal attack lowers the target unit's damage reduction by 2%. The effect lasts for 3s, up to 7 stacks |
-  | **5x** <i class="fas fa-star"/> | **210x** [Long Bow Token](/Items/con_136/) | When fighting against targets with <Shield>, Pegasus increases its ATK speed by 10% for 3s. When fighting against<Bleeding>targets it increases its unit's damage by 20% for 3s |
-  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_136/) | <Heart Stab> Pegasus causes 250% damage to one member of the target unit and decreases DEF of the unit by 20% for 3s every 15s |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_914/) | Each normal attack causes additional damage equal to 30% of its ATK to the target |
+  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_914/) | Pegasus unit's damage increased by 20% |
+  | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_914/) | Pegasus' ATK increased by 20% and ATK speed by 10% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_914/) | <Bladestorm> Pegasus throws a rose thorn every 25s, dealing damage equal to the sum of 5% of Max HP and 20% ATK to all hostile units while causing enemies to bleed for 10s |
+  | **4x** <i class="fas fa-star"/> | **170x** [Long Bow Token](/Items/con_914/) | Pegasus's normal attack lowers the target unit's damage reduction by 2%. The effect lasts for 3s, up to 7 stacks |
+  | **5x** <i class="fas fa-star"/> | **210x** [Long Bow Token](/Items/con_914/) | When fighting against targets with <Shield>, Pegasus increases its ATK speed by 10% for 3s. When fighting against<Bleeding>targets it increases its unit's damage by 20% for 3s |
+  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_914/) | <Heart Stab> Pegasus causes 250% damage to one member of the target unit and decreases DEF of the unit by 20% for 3s every 15s |
 
 
 ## Level Up

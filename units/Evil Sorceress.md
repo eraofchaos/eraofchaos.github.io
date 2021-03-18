@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
+ **Unit Soul:** [Tool_3709](/Items/unt_252/)
+
  **Short description:** Reflects spells. Domain buffs.
 
  **Position :** Reflects spells. Domain buffs.
@@ -176,7 +178,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking

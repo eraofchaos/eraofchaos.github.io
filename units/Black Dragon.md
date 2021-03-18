@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Black Dragon](/Items/unt_130/)
+ **Unit Soul:** [Black Dragon](/Items/unt_250/)
 
  **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_1231/)
+ **Item to Rank Up:** [Black Dragon's Scale Token](/Items/con_993/)
 
- **Skin:** [Black Dragon's Scale Special Skin](/Items/con_612/)
+ **Skin:** [Black Dragon's Scale Special Skin](/Items/con_661/)
 
 
 ## Recommended Holy Emblems
@@ -172,7 +172,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

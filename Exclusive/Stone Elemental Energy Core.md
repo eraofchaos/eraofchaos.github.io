@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Stone Elemental](/units/Stone Elemental/) 
 
- **Item to Rank Up:** [Energy Core Token](/Items/con_205/)
+ **Item to Rank Up:** [Energy Core Token](/Items/con_999/)
 
- **Skin:** [Energy Core Special Skin](/Items/con_965/)
+ **Skin:** [Energy Core Special Skin](/Items/con_667/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Energy Core Token](/Items/con_205/) | <Rock Strike> Hits the ground hard to cause damage equal to 200% of its ATK on hostile units within a large area, \"knocking them up\" and \"stunning\" them for 3s. CD is 20s and pre-CD is 10s |
-  | **1x** <i class="fas fa-star"/> | **50x** [Energy Core Token](/Items/con_205/) | Stone Elemental's unit damage reduction is increased by 20%. The effect doubles when the Stone Elemental is attacked by a magic unit |
-  | **2x** <i class="fas fa-star"/> | **90x** [Energy Core Token](/Items/con_205/) | <Clay> When any hostile and friendly hero casts an earth spell, the Stone Elemental restores 2% of its Max HP |
-  | **3x** <i class="fas fa-star"/> | **130x** [Energy Core Token](/Items/con_205/) | <Rock Strike> Decreases ATK speed of hostile units by 20% for 8s. If enemies are being <burned> by <Fire Trio>, their 15% unit's damage reduction will be decreased. The effect lasts for 8s |
-  | **4x** <i class="fas fa-star"/> | **170x** [Energy Core Token](/Items/con_205/) | Stone Elemental's DEF is increased by 20%. <Clay> restores 30000 HP for all Conflux faction units within a large range |
-  | **5x** <i class="fas fa-star"/> | **210x** [Energy Core Token](/Items/con_205/) | The Stone Elemental is immune to damage caused by earth spells |
-  | **6x** <i class="fas fa-star"/> | **250x** [Energy Core Token](/Items/con_205/) | <Elemental Resonance> Whenever the Stone Elemental is on the battlefield, it increases DEF by 10% for all Conflux faction units. For each <Rock Strike> unleashed, DEF will be increased by 10% for all Conflux faction units. The effects last throughout the entire battle, but cannot be stacked |
+  |  Awaken  | **100x** [Energy Core Token](/Items/con_999/) | <Rock Strike> Hits the ground hard to cause damage equal to 200% of its ATK on hostile units within a large area, \"knocking them up\" and \"stunning\" them for 3s. CD is 20s and pre-CD is 10s |
+  | **1x** <i class="fas fa-star"/> | **50x** [Energy Core Token](/Items/con_999/) | Stone Elemental's unit damage reduction is increased by 20%. The effect doubles when the Stone Elemental is attacked by a magic unit |
+  | **2x** <i class="fas fa-star"/> | **90x** [Energy Core Token](/Items/con_999/) | <Clay> When any hostile and friendly hero casts an earth spell, the Stone Elemental restores 2% of its Max HP |
+  | **3x** <i class="fas fa-star"/> | **130x** [Energy Core Token](/Items/con_999/) | <Rock Strike> Decreases ATK speed of hostile units by 20% for 8s. If enemies are being <burned> by <Fire Trio>, their 15% unit's damage reduction will be decreased. The effect lasts for 8s |
+  | **4x** <i class="fas fa-star"/> | **170x** [Energy Core Token](/Items/con_999/) | Stone Elemental's DEF is increased by 20%. <Clay> restores 30000 HP for all Conflux faction units within a large range |
+  | **5x** <i class="fas fa-star"/> | **210x** [Energy Core Token](/Items/con_999/) | The Stone Elemental is immune to damage caused by earth spells |
+  | **6x** <i class="fas fa-star"/> | **250x** [Energy Core Token](/Items/con_999/) | <Elemental Resonance> Whenever the Stone Elemental is on the battlefield, it increases DEF by 10% for all Conflux faction units. For each <Rock Strike> unleashed, DEF will be increased by 10% for all Conflux faction units. The effects last throughout the entire battle, but cannot be stacked |
 
 
 ## Level Up

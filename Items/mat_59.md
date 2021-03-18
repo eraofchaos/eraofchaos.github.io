@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Rare Gems"
+title: "Item - Materials - Legendary Crystal"
 permalink: /Items/mat_59/
-excerpt: "Rare Gems"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Legendary Crystal"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_59.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from purple +1 to purple +2.
+ **Description:** Common materials to upgrade equipment from purple +3 to orange.
 
  **Quality:** <span style="color: #DA70D6">OK</span>
 
@@ -20,9 +20,9 @@ classes: wide
 ## Gather
 
 *    Unknown_17 
-*    Chapter 13 (From Day to Night) -> 13-1 
-*    Chapter 13 (From Day to Night) -> 13-5 
-*    Chapter 13 (From Day to Night) -> 13-11 
+*    Chapter 17 (Liberation of the Empire) -> 17-6 
+*    Chapter 17 (Liberation of the Empire) -> 17-12 
+*    Chapter 17 (Liberation of the Empire) -> 17-15 
 
 ## This item contains:
 

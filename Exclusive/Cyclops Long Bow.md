@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Cyclops](/units/Cyclops/) 
 
- **Item to Rank Up:** [Long Bow Token](/Items/con_136/)
+ **Item to Rank Up:** [Long Bow Token](/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Boulder Throwing> throws rocks that cause damage equal to 200% of Max HP to all enemies within the target area. It can be triggered once every 15s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Use <Boulder Throwing> once when Cyclops launches its first attack |
-  | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_136/) | Increases Cyclops' unit's damage and ATK speed by 20% |
-  | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_136/) | When its HP drops below 30% for the first time, the Cyclops unleashes Earthshaker once, increasing its ATK speed permanently by 25% |
-  | **4x** <i class="fas fa-star"/> | **170x** [Long Bow Token](/Items/con_136/) | DEF and Damage reduction are increased by 20% for the Cyclops |
-  | **5x** <i class="fas fa-star"/> | **210x** [Long Bow Token](/Items/con_136/) | Cyclops' attack decreases the target unit's Crit Hit by 500 |
-  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_136/) | <Misfortune Stare> When battle starts, all hostile units' ATK speed is decreased by 10% for 20s |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_914/) | <Boulder Throwing> throws rocks that cause damage equal to 200% of Max HP to all enemies within the target area. It can be triggered once every 15s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_914/) | Use <Boulder Throwing> once when Cyclops launches its first attack |
+  | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_914/) | Increases Cyclops' unit's damage and ATK speed by 20% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_914/) | When its HP drops below 30% for the first time, the Cyclops unleashes Earthshaker once, increasing its ATK speed permanently by 25% |
+  | **4x** <i class="fas fa-star"/> | **170x** [Long Bow Token](/Items/con_914/) | DEF and Damage reduction are increased by 20% for the Cyclops |
+  | **5x** <i class="fas fa-star"/> | **210x** [Long Bow Token](/Items/con_914/) | Cyclops' attack decreases the target unit's Crit Hit by 500 |
+  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_914/) | <Misfortune Stare> When battle starts, all hostile units' ATK speed is decreased by 10% for 20s |
 
 
 ## Level Up

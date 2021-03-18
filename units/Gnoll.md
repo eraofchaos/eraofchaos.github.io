@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Gnoll](/Items/unt_42/)
+ **Unit Soul:** [Gnoll](/Items/unt_253/)
 
  **Short description:** Melee DPS. Stuns
 
@@ -82,7 +82,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Sword Token](/Items/con_165/)
+ **Item to Rank Up:** [Sword Token](/Items/con_912/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

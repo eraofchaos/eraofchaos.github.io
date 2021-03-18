@@ -1,7 +1,7 @@
 ---
 title: "Artifacts Upgrade Costs"
 permalink: /artifacts/Artifacts Upgrade/
-excerpt: "Artifacts upgrade cost. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
+excerpt: "Era of Chaos  Artifacts upgrade cost. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Artifacts Upgrade.md"
@@ -9,9 +9,9 @@ toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Heaven-Cast Stone](/Items/art_42/)
+  First upgrade ingredient:[Heaven-Cast Stone](/Items/art_188/)
 
-  Second upgrade ingredient:[Casting Crystal](/Items/art_64/)
+  Second upgrade ingredient:[Casting Crystal](/Items/art_189/)
 
   |  Level  | [Green Artifacts](/artifacts/Green Artifacts/){: .btn .btn--era2} | [Blue Artifacts](/artifacts/Blue Artifacts/){: .btn .btn--era3} | [Violet Artifacts](/artifacts/Violet Artifacts/){: .btn .btn--era4} | [Orange Artifacts](/artifacts/Orange Artifacts/){: .btn .btn--era5} |
   |:--------|:-------|:-------|:-------|:-------|

@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Good Crystal"
+title: "Item - Materials - Good Gems"
 permalink: /Items/mat_16/
-excerpt: "Good Crystal"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Good Gems"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_16.md"
 toc: false
@@ -20,9 +20,9 @@ classes: wide
 ## Gather
 
 *    Unknown_17 
-*    Chapter 5 (Byrds) -> 5-6 
-*    Chapter 5 (Byrds) -> 5-12 
-*    Chapter 5 (Byrds) -> 5-15 
+*    Chapter 5 (Byrds) -> 5-1 
+*    Chapter 5 (Byrds) -> 5-5 
+*    Chapter 5 (Byrds) -> 5-11 
 
 ## This item contains:
 

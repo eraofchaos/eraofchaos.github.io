@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Nightmare](/Items/unt_5/)
+ **Unit Soul:** [Nightmare](/Items/unt_233/)
 
  **Short description:** Support. Early burst.
 
@@ -78,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Nightmare's Eye Token](/Items/con_115/)
+ **Item to Rank Up:** [Nightmare's Eye Token](/Items/con_985/)
 
- **Skin:** -
+ **Skin:** [Tool_250809](/Items/con_653/)
 
 
 ## Recommended Holy Emblems
@@ -167,7 +167,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

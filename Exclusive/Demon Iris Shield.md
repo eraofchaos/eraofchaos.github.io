@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Demon](/units/Demon/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | At the beginning of battle, Demon's dodge is increased by 1000 for 30s. For each dodge, get a permanent 1% unit's damage reduction increase, up to 30% |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | At the beginning of battle, the Demon's tenacity is increased by 500 for 30s |
-  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Demon's HP by 20% and unit's damage reduction by 10% |
-  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | Increases Demon's DEF by 10%. DEF increased by 100% for 10s when HP is less than 50% or below for the first time |
-  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Increases Demon's DEF by 20% |
-  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | Demon's attack decreases the target unit's dodge by 1000 for 5s |
-  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | When a Demon is on the battlefield, all hostile units' dodge is decreased by 500 |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_913/) | At the beginning of battle, Demon's dodge is increased by 1000 for 30s. For each dodge, get a permanent 1% unit's damage reduction increase, up to 30% |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_913/) | At the beginning of battle, the Demon's tenacity is increased by 500 for 30s |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_913/) | Increases Demon's HP by 20% and unit's damage reduction by 10% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | Increases Demon's DEF by 10%. DEF increased by 100% for 10s when HP is less than 50% or below for the first time |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_913/) | Increases Demon's DEF by 20% |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | Demon's attack decreases the target unit's dodge by 1000 for 5s |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | When a Demon is on the battlefield, all hostile units' dodge is decreased by 500 |
 
 
 ## Level Up

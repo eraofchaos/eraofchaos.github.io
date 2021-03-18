@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Titan's Thunder - Sentinel's Shield"
 permalink: /artifacts/Sentinel's Shield/
-excerpt: "Titan's Thunder - Sentinel's Shield. A shield blessed with holy power. One of the components of the Titan's Thunder."
+excerpt: "Era of Chaos  Titan's Thunder - Sentinel's Shield. A shield blessed with holy power. One of the components of the Titan's Thunder."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Sentinel's Shield.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 75x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Sentinel's Shield](/Items/art_55/)
+ **Related Item**: [Sentinel's Shield](/Items/art_157/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

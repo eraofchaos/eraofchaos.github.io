@@ -20,11 +20,11 @@ sidebar:
 
  **Level EXP: 100**
 
- **Reward:**  **5x** [Huge EXP potion](/Items/con_262/)
+ **Reward:**  **5x** [Huge EXP potion](/Items/con_703/)
 
  **Like Talk:** This dish tastes really authentic! I love this type of cuisine!
 
- **Like Food:** [Beijing Mutton Hotpot](/Items/con_259/)
+ **Like Food:** [Beijing Mutton Hotpot](/Items/con_1164/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -41,7 +41,7 @@ sidebar:
 
  **Like Talk:** This dish's sauce has an incredible aroma, making it simply irresistible! Let's dig in!
 
- **Like Food:** [Guangdong Stewed Lamb Brisket Over Charcoal Stove](/Items/con_595/)
+ **Like Food:** [Guangdong Stewed Lamb Brisket Over Charcoal Stove](/Items/con_1167/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -54,11 +54,11 @@ sidebar:
 
  **Level EXP: 600**
 
- **Reward:**  **4x** [Ancient Temple Scroll](/Items/con_163/)
+ **Reward:**  **4x** [Ancient Temple Scroll](/Items/con_697/)
 
  **Like Talk:** Both the broth and the meat have an incredibly satisfying aftertaste, making me feel warm and fuzzy inside!
 
- **Like Food:** [Sichuan Jianyang Mutton Soup](/Items/con_928/)
+ **Like Food:** [Sichuan Jianyang Mutton Soup](/Items/con_1170/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -75,7 +75,7 @@ sidebar:
 
  **Like Talk:** The texture of the beef is just right. It's pretty tasty!
 
- **Like Food:** [Leshan Cross-Legged Beef](/Items/con_1181/)
+ **Like Food:** [Leshan Cross-Legged Beef](/Items/con_1173/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -92,7 +92,7 @@ sidebar:
 
  **Like Talk:** The taste of food cooked in a specially made pot is in a class of its own.
 
- **Like Food:** [Sichuan Gao County Claypot](/Items/con_1381/)
+ **Like Food:** [Sichuan Gao County Claypot](/Items/con_1176/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -105,11 +105,11 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward:**  **6x** [Orange Crystal](/Items/con_1237/)
+ **Reward:**  **6x** [Orange Crystal](/Items/con_730/)
 
  **Like Talk:** Incredible, this Teochew Beef Hotpot really hits the spot! The texture of the beef is really amazing!
 
- **Like Food:** [Teochew Beef Hotpot](/Items/con_453/)
+ **Like Food:** [Teochew Beef Hotpot](/Items/con_1179/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -122,11 +122,11 @@ sidebar:
 
  **Level EXP: 2900**
 
- **Reward:**  **5x** [Gold Key](/Items/con_423/)
+ **Reward:**  **5x** [Gold Key](/Items/con_783/)
 
  **Like Talk:** This is the spicy hotpot I was looking for! The mala soup base goes so well with the other ingredients.
 
- **Like Food:** [Ningxia Chili Paste Hotpot](/Items/con_1410/)
+ **Like Food:** [Ningxia Chili Paste Hotpot](/Items/con_1212/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -143,7 +143,7 @@ sidebar:
 
  **Like Talk:** This is odd, I'm getting this warm fuzzy feeling while having dinner with you. How strange.
 
- **Like Food:** [Northeast Region Stove Fish](/Items/con_1152/)
+ **Like Food:** [Northeast Region Stove Fish](/Items/con_1215/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -156,11 +156,11 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward:** [Premium Artifact Component Pack](/Items/con_1296/)
+ **Reward:** [Premium Artifact Component Pack](/Items/con_1507/)
 
  **Like Talk:** This dish tastes slightly strange when first eaten, but I can detect a sweet aftertaste a long while after eating it.
 
- **Like Food:** [Qiandongnan Herbal Cattle Hotpot](/Items/con_37/)
+ **Like Food:** [Qiandongnan Herbal Cattle Hotpot](/Items/con_1242/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 
@@ -173,11 +173,11 @@ sidebar:
 
  **Level EXP: 9100**
 
- **Reward:**  **90x** [Holy Emblem Redemption Ticket](/Items/con_1429/)
+ **Reward:**  **90x** [Holy Emblem Redemption Ticket](/Items/con_513/)
 
  **Like Talk:** How intriguing! This dish has a unique flavor profile despite its pungent smell.
 
- **Like Food:** [Guizhou Stinky Hotpot](/Items/con_1092/)
+ **Like Food:** [Guizhou Stinky Hotpot](/Items/con_1245/)
 
  **Normal Talk:** Thanks, this style of hotpot is pretty delicious too!
 

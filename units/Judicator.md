@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Judicator](/Items/unt_147/)
+ **Unit Soul:** [Judicator](/Items/unt_198/)
 
  **Short description:** Halo assistance, range expanded
 
@@ -78,9 +78,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Sanctuary's Radiance Banner Soul](/Items/con_734/)
+ **Item to Rank Up:** [Sanctuary's Radiance Banner Soul](/Items/con_975/)
 
- **Skin:** -
+ **Skin:** [Tool_210909](/Items/con_643/)
 
 
 ## Recommended Holy Emblems
@@ -173,7 +173,7 @@ toc: true
 * Healing
 * unit Damage
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

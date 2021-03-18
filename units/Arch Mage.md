@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Mage](/Items/unt_21/)
+ **Unit Soul:** [Mage](/Items/unt_238/)
 
  **Unit description:** Spell penetration: Damage to single units gets higher and higher
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 
  **Skin:** -
 
@@ -171,7 +171,7 @@ toc: true
 * Unit Critical Hit
 * unit Damage
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Swordsman](/units/Swordsman/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Shield Smash> Swordsman slows an enemy unit once every 18s and decreases their Unit DMG Reduction by 15% for 7s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases HP by 20% and Dodge by 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases DEF by 20% for 5s when in High Morale. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Damage Recovery> When Swordsman unit takes damage exceeding 8% of their Max HP in a single attack, restores HP equal to 150% of own ATK. CD is 10s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Increases Tenacity by 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | Increases own Unit DMG Reduction by 4% for every Castle unit on the battlefield. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | <Dragon Slaying> Swordsman's Unit DMG Reduction is increased by 20% when facing 1-man units and 4-man units. Nearby units in a small range also gain a 20% increase to Attack Speed. |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_913/) | <Shield Smash> Swordsman slows an enemy unit once every 18s and decreases their Unit DMG Reduction by 15% for 7s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_913/) | Increases HP by 20% and Dodge by 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_913/) | Increases DEF by 20% for 5s when in High Morale. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | <Damage Recovery> When Swordsman unit takes damage exceeding 8% of their Max HP in a single attack, restores HP equal to 150% of own ATK. CD is 10s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_913/) | Increases Tenacity by 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | Increases own Unit DMG Reduction by 4% for every Castle unit on the battlefield. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | <Dragon Slaying> Swordsman's Unit DMG Reduction is increased by 20% when facing 1-man units and 4-man units. Nearby units in a small range also gain a 20% increase to Attack Speed. |
 
 
 ## Level Up

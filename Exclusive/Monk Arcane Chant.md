@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Monk](/units/Monk/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Preaching> will be triggered every 9s to restore HP equal to 125% of ATK for the friendly unit with the lowest HP percentage |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Monk unit's attack is increased by 20% |
-  | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Whenever <Preaching> is cast, applies \"High Morale\" to a random friendly unit for 10s |
-  | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | <Devotion>: Monk dispels 1 random friendly unit's debuff every 10s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Arcane Chant Token](/Items/con_124/) | Monk's unit's damage reduction is increased by 25% |
-  | **5x** <i class="fas fa-star"/> | **210x** [Arcane Chant Token](/Items/con_124/) | Whenever <Preaching> is cast, it decreases a random hostile unit's ATK speed by 10% for 10s |
-  | **6x** <i class="fas fa-star"/> | **250x** [Arcane Chant Token](/Items/con_124/) | Whenever <Devotion> is cast, he gets a shield equal to 20% of his Max HP and applies a shield equal to 10% of his Max HP to 1 random friendly unit. The \"shield\" effect cannot be stacked (Monks can get two \"shields\") |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_915/) | <Preaching> will be triggered every 9s to restore HP equal to 125% of ATK for the friendly unit with the lowest HP percentage |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_915/) | Monk unit's attack is increased by 20% |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_915/) | Whenever <Preaching> is cast, applies \"High Morale\" to a random friendly unit for 10s |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_915/) | <Devotion>: Monk dispels 1 random friendly unit's debuff every 10s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arcane Chant Token](/Items/con_915/) | Monk's unit's damage reduction is increased by 25% |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arcane Chant Token](/Items/con_915/) | Whenever <Preaching> is cast, it decreases a random hostile unit's ATK speed by 10% for 10s |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arcane Chant Token](/Items/con_915/) | Whenever <Devotion> is cast, he gets a shield equal to 20% of his Max HP and applies a shield equal to 10% of his Max HP to 1 random friendly unit. The \"shield\" effect cannot be stacked (Monks can get two \"shields\") |
 
 
 ## Level Up

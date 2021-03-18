@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Vampire](/units/Vampire/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Scarlet Strike> Vampire transforms into a bat and rushes into the enemy formation. During this time, Vampire's Movement Speed is increased by 30, and they become immune to Stun, Freeze, and Slow. Vampire will return to their human form after engaging with an enemy unit, and their first attack will deal damage equal to 500% of own ATK. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Vampire's HP by 20% and DEF by 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Vampire's Unit DMG Reduction by 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | <Bloodfang Gospel> Vampire deals damage equal to 300% of own ATK to the target unit, decreasing their Unit DMG Reduction by 20%. If the target unit is suffering from Low Morale, DEF is reduced by 10% for 5s. CD is 25s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Knight Pike Token](/Items/con_212/) | Increases Vampire's Unit DMG by 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Knight Pike Token](/Items/con_212/) | Increases Critical Hit by 200 and Critical Hit DMG by 20% when attacking enemies with Low Morale. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Knight Pike Token](/Items/con_212/) | <Bloodsoaked Armor> Vampire units grant themselves with a shield equal to 5% of their Max HP when a Vampire dies. Each time this skill is triggered, their shield increases by 5% from this base value up to 45% of their Max HP. Each shield last 5s when triggered. |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_916/) | <Scarlet Strike> Vampire transforms into a bat and rushes into the enemy formation. During this time, Vampire's Movement Speed is increased by 30, and they become immune to Stun, Freeze, and Slow. Vampire will return to their human form after engaging with an enemy unit, and their first attack will deal damage equal to 500% of own ATK. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_916/) | Increases Vampire's HP by 20% and DEF by 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_916/) | Increases Vampire's Unit DMG Reduction by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_916/) | <Bloodfang Gospel> Vampire deals damage equal to 300% of own ATK to the target unit, decreasing their Unit DMG Reduction by 20%. If the target unit is suffering from Low Morale, DEF is reduced by 10% for 5s. CD is 25s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Knight Pike Token](/Items/con_916/) | Increases Vampire's Unit DMG by 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Knight Pike Token](/Items/con_916/) | Increases Critical Hit by 200 and Critical Hit DMG by 20% when attacking enemies with Low Morale. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Knight Pike Token](/Items/con_916/) | <Bloodsoaked Armor> Vampire units grant themselves with a shield equal to 5% of their Max HP when a Vampire dies. Each time this skill is triggered, their shield increases by 5% from this base value up to 45% of their Max HP. Each shield last 5s when triggered. |
 
 
 ## Level Up

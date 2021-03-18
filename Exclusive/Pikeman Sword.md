@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Pikeman](/units/Pikeman/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_165/)
+ **Item to Rank Up:** [Sword Token](/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Holy Spear Strike> Pikeman deals damage equal to 400% of own ATK to the target unit once every 15s and decreases the target's DEF by 4% for 7s, stacking up to 4 times. If the target unit is stunned, Tenacity is also reduced by 150 for 6s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Pikeman's Attack Speed by 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Pikeman's Tenacity by 150. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | <Zealous Charge> Triggers an additional <Holy Spear Strike> when Pikeman is in High Morale. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_165/) | Increases Pikeman's Critical Hit DMG by 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_165/) | Increases DEF by 3% and Dodge by 30 for every Castle unit on the battlefield. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_165/) | <Valiance> When Pikeman's attacks are dodged, all friendly units in their path gain a 20% increase to Critical Hit DMG and Attack Speed each for 12s. CD is 20s. |
+  |  Awaken  | **100x** [Sword Token](/Items/con_912/) | <Holy Spear Strike> Pikeman deals damage equal to 400% of own ATK to the target unit once every 15s and decreases the target's DEF by 4% for 7s, stacking up to 4 times. If the target unit is stunned, Tenacity is also reduced by 150 for 6s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_912/) | Increases Pikeman's Attack Speed by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_912/) | Increases Pikeman's Tenacity by 150. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_912/) | <Zealous Charge> Triggers an additional <Holy Spear Strike> when Pikeman is in High Morale. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_912/) | Increases Pikeman's Critical Hit DMG by 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_912/) | Increases DEF by 3% and Dodge by 30 for every Castle unit on the battlefield. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_912/) | <Valiance> When Pikeman's attacks are dodged, all friendly units in their path gain a 20% increase to Critical Hit DMG and Attack Speed each for 12s. CD is 20s. |
 
 
 ## Level Up

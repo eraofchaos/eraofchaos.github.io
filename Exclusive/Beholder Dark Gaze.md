@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Beholder](/units/Beholder/) 
 
- **Item to Rank Up:** [Dark Gaze Token](/Items/con_1126/)
+ **Item to Rank Up:** [Dark Gaze Token](/Items/con_990/)
 
- **Skin:** [Dark Gaze Special Skin](/Items/con_9/)
+ **Skin:** [Dark Gaze Special Skin](/Items/con_658/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Dark Gaze Token](/Items/con_1126/) | <Darksight> Deals damage equal to 200% of own ATK to enemy units in a large area in front of it while decreasing their Unit DMG Reduction by 15%. Effect doubles against stunned targets. Lasts 7s. CD is 15s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Dark Gaze Token](/Items/con_1126/) | When enemy heroes casts a spell, Beholder gains a shield equal to 10% of Max HP for 7s. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Dark Gaze Token](/Items/con_1126/) | Increases Beholder's Critical Hit by 50 each time a Dungeon unit is deployed. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Dark Gaze Token](/Items/con_1126/) | Beholder casts <Umbral Bind> on a random enemy unit every 20s. The bound unit is unable to attack and its DEF is decreased by 20%. If the target unit is already affected by <Mind Control>, its Tenacity is decreased by 200 for 5s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Dark Gaze Token](/Items/con_1126/) | Increases Beholder's Unit DMG Reduction by 15%. Each time an Eye of Death is closed, increases DEF by 10%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Dark Gaze Token](/Items/con_1126/) | Increases Beholder's ATK and Critical Hit DMG by 20% when attacking bleeding units. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Dark Gaze Token](/Items/con_1126/) | <Unseen Blessing> At the start of battle, Beholder increases the Unit DMG and Attack Speed of friendly Dungeon units by 30% each. The effect weakens by 10% each every 10s up to 2 times. Effect lasts 30s. Effect duration doubles when fighting Melee units and the weakening effect is halved. |
+  |  Awaken  | **100x** [Dark Gaze Token](/Items/con_990/) | <Darksight> Deals damage equal to 200% of own ATK to enemy units in a large area in front of it while decreasing their Unit DMG Reduction by 15%. Effect doubles against stunned targets. Lasts 7s. CD is 15s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Dark Gaze Token](/Items/con_990/) | When enemy heroes casts a spell, Beholder gains a shield equal to 10% of Max HP for 7s. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Dark Gaze Token](/Items/con_990/) | Increases Beholder's Critical Hit by 50 each time a Dungeon unit is deployed. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Dark Gaze Token](/Items/con_990/) | Beholder casts <Umbral Bind> on a random enemy unit every 20s. The bound unit is unable to attack and its DEF is decreased by 20%. If the target unit is already affected by <Mind Control>, its Tenacity is decreased by 200 for 5s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Dark Gaze Token](/Items/con_990/) | Increases Beholder's Unit DMG Reduction by 15%. Each time an Eye of Death is closed, increases DEF by 10%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Dark Gaze Token](/Items/con_990/) | Increases Beholder's ATK and Critical Hit DMG by 20% when attacking bleeding units. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Dark Gaze Token](/Items/con_990/) | <Unseen Blessing> At the start of battle, Beholder increases the Unit DMG and Attack Speed of friendly Dungeon units by 30% each. The effect weakens by 10% each every 10s up to 2 times. Effect lasts 30s. Effect duration doubles when fighting Melee units and the weakening effect is halved. |
 
 
 ## Level Up

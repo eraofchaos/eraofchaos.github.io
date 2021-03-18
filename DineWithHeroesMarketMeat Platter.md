@@ -20,11 +20,11 @@ sidebar:
 
  **Recommended Power: 1000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Meat Platter](/Items/con_400/)
+ **Reward:** [Meat Platter](/Items/con_1161/)
 
- **Extra Reward:** 20% [Meat Platter](/Items/con_400/)
+ **Extra Reward:** 20% [Meat Platter](/Items/con_1161/)
 
 #### Fight against Team
  **Hero:** [Shiva](/heroes/Shiva/)
@@ -48,11 +48,11 @@ sidebar:
 
  **Recommended Power: 4000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Meat Platter](/Items/con_400/)
+ **Reward:** [Meat Platter](/Items/con_1161/)
 
- **Extra Reward:** 40% [Meat Platter](/Items/con_400/)
+ **Extra Reward:** 40% [Meat Platter](/Items/con_1161/)
 
 #### Fight against Team
  **Hero:** [Crag Hack](/heroes/Crag Hack/)
@@ -76,11 +76,11 @@ sidebar:
 
  **Recommended Power: 7000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Meat Platter](/Items/con_400/)
+ **Reward:** [Meat Platter](/Items/con_1161/)
 
- **Extra Reward:** 70% [Meat Platter](/Items/con_400/)
+ **Extra Reward:** 70% [Meat Platter](/Items/con_1161/)
 
 #### Fight against Team
  **Hero:** [Crag Hack](/heroes/Crag Hack/)
@@ -104,11 +104,11 @@ sidebar:
 
  **Recommended Power: 10000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Meat Platter](/Items/con_400/)
+ **Reward:** [Meat Platter](/Items/con_1161/)
 
- **Extra Reward:** 100% [Meat Platter](/Items/con_400/)
+ **Extra Reward:** 100% [Meat Platter](/Items/con_1161/)
 
 #### Fight against Team
  **Hero:** [Kilgor](/heroes/Kilgor/)

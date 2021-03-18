@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Griffin](/Items/unt_11/)
+ **Unit Soul:** [Griffin](/Items/unt_192/)
 
  **Unit description:** Dive: Deals damage to 3 opponent units when attacking.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_916/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking

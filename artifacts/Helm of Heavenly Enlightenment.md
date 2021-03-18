@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Angelic Alliance - Helm of Heavenly Enlightenment"
 permalink: /artifacts/Helm of Heavenly Enlightenment/
-excerpt: "Angelic Alliance - Helm of Heavenly Enlightenment. A crown blessed by the gods. One of the components of the Angelic Alliance."
+excerpt: "Era of Chaos  Angelic Alliance - Helm of Heavenly Enlightenment. A crown blessed by the gods. One of the components of the Angelic Alliance."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Helm of Heavenly Enlightenment.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Helm of Heavenly Enlightenment](/Items/art_18/)
+ **Related Item**: [Helm of Heavenly Enlightenment](/Items/art_152/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

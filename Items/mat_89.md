@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Star Gems"
+title: "Item - Materials - Star Ore"
 permalink: /Items/mat_89/
-excerpt: "Star Gems"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Star Ore"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_89.md"
 toc: false
@@ -20,9 +20,7 @@ classes: wide
 ## Gather
 
 *    Unknown_17 
-*    Chapter 26 (Extend Lead) -> 26-1 
-*    Chapter 26 (Extend Lead) -> 26-5 
-*    Chapter 26 (Extend Lead) -> 26-11 
+*    Chapter 26 (Extend Lead) -> 26-7 
 
 ## This item contains:
 

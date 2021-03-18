@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Armageddon's Blade - Forest Bow"
 permalink: /artifacts/Forest Bow/
-excerpt: "Armageddon's Blade - Forest Bow. A bow often used by wood elves. One of the components of Armageddon's Blade."
+excerpt: "Era of Chaos  Armageddon's Blade - Forest Bow. A bow often used by wood elves. One of the components of Armageddon's Blade."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Forest Bow.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Forest Bow](/Items/art_51/)
+ **Related Item**: [Forest Bow](/Items/art_167/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

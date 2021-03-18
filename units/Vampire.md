@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
 
- **Unit Soul:** [Vampire](/Items/unt_124/)
+ **Unit Soul:** [Vampire](/Items/unt_211/)
 
  **Unit description:** Life Drain: Drains the enemy unit's health, restoring its own.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_916/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * unit Damage
 * unit DMG Reduction
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking

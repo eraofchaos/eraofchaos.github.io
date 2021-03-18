@@ -1,7 +1,7 @@
 ---
 title: "Artifacts Component Upgrade Costs"
 permalink: /artifacts/Artifact Component Upgrade/
-excerpt: "Artifact component upgrade cost. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
+excerpt: "Era of Chaos Artifact component upgrade cost. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Artifact Component Upgrade.md"
@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Heaven-Cast Stone](/Items/art_42/)
+  First upgrade ingredient:[Heaven-Cast Stone](/Items/art_188/)
 
   Second upgrade ingredient: Artifact Components pieces 
 

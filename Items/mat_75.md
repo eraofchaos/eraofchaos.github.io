@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Eternal Wood"
+title: "Item - Materials - Secret Ore"
 permalink: /Items/mat_75/
-excerpt: "Eternal Wood"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Secret Ore"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_75.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from orange +1 to orange +2.
+ **Description:** Common materials to upgrade equipment from orange +2 to orange +3.
 
  **Quality:** <span style="color: #FF8C00">OK</span>
 
@@ -20,9 +20,8 @@ classes: wide
 ## Gather
 
 *    Unknown_17 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-2 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-5 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-8 
+*    Chapter 22 (Crystal Dragon) -> 22-7 
+*    Chapter 23 (Rust Dragon) -> 23-7 
 
 ## This item contains:
 

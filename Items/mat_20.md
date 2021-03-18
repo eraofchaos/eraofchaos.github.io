@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Book of Essences"
+title: "Item - Materials - Superior Wood"
 permalink: /Items/mat_20/
-excerpt: "Book of Essences"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Superior Wood"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_20.md"
 toc: false
@@ -11,19 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Rare materials to upgrade equipment from purple +2 to purple +3.
+ **Description:** Common materials to upgrade equipment from blue +1 to blue +2.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter - Corporal Punishment 
-*    Chapter - From Day to Night 
-*    Chapter - Safe Passage 
-*    Chapter - United Front 
+*    Chapter 6 (Breaking Ground) -> 6-2 
+*    Chapter 6 (Breaking Ground) -> 6-5 
+*    Chapter 6 (Breaking Ground) -> 6-8 
 
 ## This item contains:
 

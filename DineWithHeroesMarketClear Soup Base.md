@@ -20,11 +20,11 @@ sidebar:
 
  **Recommended Power: 1000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Clear Soup Base](/Items/con_10/)
+ **Reward:** [Clear Soup Base](/Items/con_1158/)
 
- **Extra Reward:** 20% [Clear Soup Base](/Items/con_10/)
+ **Extra Reward:** 20% [Clear Soup Base](/Items/con_1158/)
 
 #### Fight against Team
  **Hero:** [Adelaide](/heroes/Adelaide/)
@@ -48,11 +48,11 @@ sidebar:
 
  **Recommended Power: 4000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Clear Soup Base](/Items/con_10/)
+ **Reward:** [Clear Soup Base](/Items/con_1158/)
 
- **Extra Reward:** 40% [Clear Soup Base](/Items/con_10/)
+ **Extra Reward:** 40% [Clear Soup Base](/Items/con_1158/)
 
 #### Fight against Team
  **Hero:** [Catherine](/heroes/Catherine/)
@@ -76,11 +76,11 @@ sidebar:
 
  **Recommended Power: 7000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Clear Soup Base](/Items/con_10/)
+ **Reward:** [Clear Soup Base](/Items/con_1158/)
 
- **Extra Reward:** 70% [Clear Soup Base](/Items/con_10/)
+ **Extra Reward:** 70% [Clear Soup Base](/Items/con_1158/)
 
 #### Fight against Team
  **Hero:** [Catherine](/heroes/Catherine/)
@@ -104,11 +104,11 @@ sidebar:
 
  **Recommended Power: 10000000**
 
- **Cost: 10x** [Market Entry Ticket](/Items/con_3/)
+ **Cost: 10x** [Market Entry Ticket](/Items/con_1157/)
 
- **Reward:** [Clear Soup Base](/Items/con_10/)
+ **Reward:** [Clear Soup Base](/Items/con_1158/)
 
- **Extra Reward:** 100% [Clear Soup Base](/Items/con_10/)
+ **Extra Reward:** 100% [Clear Soup Base](/Items/con_1158/)
 
 #### Fight against Team
  **Hero:** [Roland](/heroes/Roland/)

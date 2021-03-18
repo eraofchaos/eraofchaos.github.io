@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Cavalier](/units/Cavalier/) 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Stifling Javelin> 2s after the battle starts, knights throw the extra spears they hold, dealing damage equal to 200% of their ATK to a random enemy target, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their Unit DMG by 20%. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Cavalier's unit's damage reduction increased by 25% when taking ranged damage |
-  | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Cavaliers ATK by 20% and unit's damage by 10% |
-  | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | Cavalier's DEF increases by 10%. At the beginning of battle, all friendly Castle units' penetration is increased by 300. This effect cannot be dispelled |
-  | **4x** <i class="fas fa-star"/> | **170x** [Knight Pike Token](/Items/con_212/) | Cavaliers' attacks decrease the target's DEF by 20% for 1s |
-  | **5x** <i class="fas fa-star"/> | **210x** [Knight Pike Token](/Items/con_212/) | Cavalier gets 15% life drain |
-  | **6x** <i class="fas fa-star"/> | **250x** [Knight Pike Token](/Items/con_212/) | Cavaliers restore 20% of their Max HP for themselves when in [High Morale]. This effect can only be triggered once every 3s |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_916/) | <Stifling Javelin> 2s after the battle starts, knights throw the extra spears they hold, dealing damage equal to 200% of their ATK to a random enemy target, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their Unit DMG by 20%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_916/) | Cavalier's unit's damage reduction increased by 25% when taking ranged damage |
+  | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_916/) | Increases Cavaliers ATK by 20% and unit's damage by 10% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_916/) | Cavalier's DEF increases by 10%. At the beginning of battle, all friendly Castle units' penetration is increased by 300. This effect cannot be dispelled |
+  | **4x** <i class="fas fa-star"/> | **170x** [Knight Pike Token](/Items/con_916/) | Cavaliers' attacks decrease the target's DEF by 20% for 1s |
+  | **5x** <i class="fas fa-star"/> | **210x** [Knight Pike Token](/Items/con_916/) | Cavalier gets 15% life drain |
+  | **6x** <i class="fas fa-star"/> | **250x** [Knight Pike Token](/Items/con_916/) | Cavaliers restore 20% of their Max HP for themselves when in [High Morale]. This effect can only be triggered once every 3s |
 
 
 ## Level Up

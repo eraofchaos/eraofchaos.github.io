@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Elixir of Life - Ring of Vitality"
 permalink: /artifacts/Ring of Vitality/
-excerpt: "Elixir of Life - Ring of Vitality. A ring that supplies energy. One of the components of the Elixir of Life."
+excerpt: "Era of Chaos  Elixir of Life - Ring of Vitality. A ring that supplies energy. One of the components of the Elixir of Life."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Ring of Vitality.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Elixir of Life](/artifacts/Elixir of Life/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 1x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Ring of Vitality](/Items/art_50/)
+ **Related Item**: [Ring of Vitality](/Items/art_106/)
 
  **Quality:** [Green Artifact Components](/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

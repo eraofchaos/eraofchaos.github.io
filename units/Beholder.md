@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Beholder](/Items/unt_55/)
+ **Unit Soul:** [Beholder](/Items/unt_246/)
 
  **Unit description:** Mind Control: Immobilizes enemies and makes them lose HP over time
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Dark Gaze Token](/Items/con_1126/)
+ **Item to Rank Up:** [Dark Gaze Token](/Items/con_990/)
 
- **Skin:** [Dark Gaze Special Skin](/Items/con_9/)
+ **Skin:** [Dark Gaze Special Skin](/Items/con_658/)
 
 
 ## Recommended Holy Emblems
@@ -165,7 +165,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

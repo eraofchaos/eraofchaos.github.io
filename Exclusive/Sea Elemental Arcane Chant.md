@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Sea Elemental](/units/Sea Elemental/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Tidal Waves> It can be triggered once every 20s. It summons waves beneath a random hostile unit, dealing damage equal to 200% of its ATK to hostile units within a small range |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | At the beginning of battle, all friendly units get a [Bubble] equal to 10% of their Max HP |
-  | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | The Sea Elemental's attack decreases the target unit's unit's damage by 10% and magic resistance by 50% |
-  | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | When the Sea Elemental is fighting against a 1-man or 4-man unit, its normal attack deals 30% AoE damage; when against a 9-man unit, its normal attack deals 50% damage to 5 units in the target |
-  | **4x** <i class="fas fa-star"/> | **170x** [Arcane Chant Token](/Items/con_124/) | If single damage taken by the Sea Elemental is more than 30% of its HP, the Sea Elemental generates a [bubble] equal to 30% of its HP over the next 10s. Can be triggered once every 15s |
-  | **5x** <i class="fas fa-star"/> | **210x** [Arcane Chant Token](/Items/con_124/) | The Sea Elemental's unit's damage reduction and unit's damage are increased by 20% |
-  | **6x** <i class="fas fa-star"/> | **250x** [Arcane Chant Token](/Items/con_124/) | Whenever the Sea Elemental generates an Abyss Cage, it increases all friendly unit's ATK by 10% and Crit Hit by 100 for 5s. For Cove Faction units, the effect doubles |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_915/) | <Tidal Waves> It can be triggered once every 20s. It summons waves beneath a random hostile unit, dealing damage equal to 200% of its ATK to hostile units within a small range |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_915/) | At the beginning of battle, all friendly units get a [Bubble] equal to 10% of their Max HP |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_915/) | The Sea Elemental's attack decreases the target unit's unit's damage by 10% and magic resistance by 50% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_915/) | When the Sea Elemental is fighting against a 1-man or 4-man unit, its normal attack deals 30% AoE damage; when against a 9-man unit, its normal attack deals 50% damage to 5 units in the target |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arcane Chant Token](/Items/con_915/) | If single damage taken by the Sea Elemental is more than 30% of its HP, the Sea Elemental generates a [bubble] equal to 30% of its HP over the next 10s. Can be triggered once every 15s |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arcane Chant Token](/Items/con_915/) | The Sea Elemental's unit's damage reduction and unit's damage are increased by 20% |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arcane Chant Token](/Items/con_915/) | Whenever the Sea Elemental generates an Abyss Cage, it increases all friendly unit's ATK by 10% and Crit Hit by 100 for 5s. For Cove Faction units, the effect doubles |
 
 
 ## Level Up

@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
+ **Unit Soul:** [Tool_3509](/Items/unt_234/)
+
  **Short description:** Steal souls to turnaround the match. Born to die.
 
  **Position :** Steal souls to turnaround the match. Born to die.
@@ -231,7 +233,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

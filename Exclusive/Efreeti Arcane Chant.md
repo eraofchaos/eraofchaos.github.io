@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Efreeti](/units/Efreeti/) 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Flames of Oblivion> When the attacked target is burning, an extremely concentrated fireball is thrown, dealing damage equal to 30% of Max HP to enemy units in a large range. CD is 30s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Increases Efreeti's Unit DMG by 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_124/) | Increases Efreeti's ATK by 20% and Attack Speed by 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_124/) | <Fealty> When any enemy unit on the battlefield has an Inferno mark, Efreeti will immediately use Hellfire to attack one of the marked units, dealing damage equal to 100% of own ATK and adding another Inferno mark. CD is 15s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Arcane Chant Token](/Items/con_124/) | Increases Efreeti's Critical Hit DMG by 40%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Arcane Chant Token](/Items/con_124/) | Efreeti is immune to damage caused by fire-type spells. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Arcane Chant Token](/Items/con_124/) | Casting <Flames of Oblivion> inflicts Stun for 5s and decreases Unit DMG by 40% for 10s. |
+  |  Awaken  | **100x** [Arcane Chant Token](/Items/con_915/) | <Flames of Oblivion> When the attacked target is burning, an extremely concentrated fireball is thrown, dealing damage equal to 30% of Max HP to enemy units in a large range. CD is 30s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_915/) | Increases Efreeti's Unit DMG by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Arcane Chant Token](/Items/con_915/) | Increases Efreeti's ATK by 20% and Attack Speed by 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Arcane Chant Token](/Items/con_915/) | <Fealty> When any enemy unit on the battlefield has an Inferno mark, Efreeti will immediately use Hellfire to attack one of the marked units, dealing damage equal to 100% of own ATK and adding another Inferno mark. CD is 15s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Arcane Chant Token](/Items/con_915/) | Increases Efreeti's Critical Hit DMG by 40%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Arcane Chant Token](/Items/con_915/) | Efreeti is immune to damage caused by fire-type spells. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Arcane Chant Token](/Items/con_915/) | Casting <Flames of Oblivion> inflicts Stun for 5s and decreases Unit DMG by 40% for 10s. |
 
 
 ## Level Up

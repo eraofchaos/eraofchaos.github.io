@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Rare Mercury"
+title: "Item - Materials - Valuable Sulfur"
 permalink: /Items/mat_29/
-excerpt: "Rare Mercury"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Valuable Sulfur"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_29.md"
 toc: false
@@ -11,18 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from purple +1 to purple +2.
+ **Description:** Common materials to upgrade equipment from blue +2 to purple.
 
- **Quality:** <span style="color: #DA70D6">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 12 (Sea of Ice) -> 12-3 
-*    Chapter 12 (Sea of Ice) -> 12-6 
-*    Chapter 12 (Sea of Ice) -> 12-9 
+*    Chapter 8 (Borderlands) -> 8-10 
+*    Chapter 8 (Borderlands) -> 8-14 
+*    Chapter 9 (Land of Chaos) -> 9-4 
 
 ## This item contains:
 

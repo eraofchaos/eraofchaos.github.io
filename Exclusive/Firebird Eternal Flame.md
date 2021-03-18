@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Firebird](/units/Firebird/) 
 
- **Item to Rank Up:** [Eternal Flame Token](/Items/con_982/)
+ **Item to Rank Up:** [Eternal Flame Token](/Items/con_1001/)
 
- **Skin:** [Eternal Flame Special Skin](/Items/con_319/)
+ **Skin:** [Eternal Flame Special Skin](/Items/con_669/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Eternal Flame Token](/Items/con_982/) | <Land on Fire> Firebird deals damage 3 times to all enemy units standing in the same horizontal row as the target every 10s and inflicts them with Burn for 8s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Eternal Flame Token](/Items/con_982/) | Firebird is immune to damage caused by fire spells |
-  | **2x** <i class="fas fa-star"/> | **90x** [Eternal Flame Token](/Items/con_982/) | Increases Firebird's unit's damage by 10% and ATK speed by 20% |
-  | **3x** <i class="fas fa-star"/> | **130x** [Eternal Flame Token](/Items/con_982/) | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals damage equal to 20% of own ATK to enemy units standing within a certain range around the target unit and inflicts them with Burn. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Eternal Flame Token](/Items/con_982/) | When fighting against \"Burned\" units, the Firebird receives an increase of 400 penetration |
-  | **5x** <i class="fas fa-star"/> | **210x** [Eternal Flame Token](/Items/con_982/) | When a friendly hero casts a fire spell, Firebird restores 10% of HP. The effect can only be triggered once every 5s |
-  | **6x** <i class="fas fa-star"/> | **250x** [Eternal Flame Token](/Items/con_982/) | Firebird's unit's damage is increased by 20%. When a hostile hero casts a fire spell, increases their unit's damage and unit's damage reduction by 20%. The effect lasts for 5s |
+  |  Awaken  | **100x** [Eternal Flame Token](/Items/con_1001/) | <Land on Fire> Firebird deals damage 3 times to all enemy units standing in the same horizontal row as the target every 10s and inflicts them with Burn for 8s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Eternal Flame Token](/Items/con_1001/) | Firebird is immune to damage caused by fire spells |
+  | **2x** <i class="fas fa-star"/> | **90x** [Eternal Flame Token](/Items/con_1001/) | Increases Firebird's unit's damage by 10% and ATK speed by 20% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Eternal Flame Token](/Items/con_1001/) | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals damage equal to 20% of own ATK to enemy units standing within a certain range around the target unit and inflicts them with Burn. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Eternal Flame Token](/Items/con_1001/) | When fighting against \"Burned\" units, the Firebird receives an increase of 400 penetration |
+  | **5x** <i class="fas fa-star"/> | **210x** [Eternal Flame Token](/Items/con_1001/) | When a friendly hero casts a fire spell, Firebird restores 10% of HP. The effect can only be triggered once every 5s |
+  | **6x** <i class="fas fa-star"/> | **250x** [Eternal Flame Token](/Items/con_1001/) | Firebird's unit's damage is increased by 20%. When a hostile hero casts a fire spell, increases their unit's damage and unit's damage reduction by 20%. The effect lasts for 5s |
 
 
 ## Level Up

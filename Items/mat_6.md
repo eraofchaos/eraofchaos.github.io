@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Book of Arms"
+title: "Item - Materials - Common Ore"
 permalink: /Items/mat_6/
-excerpt: "Book of Arms"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Common Ore"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_6.md"
 toc: false
@@ -11,19 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Normal materials to upgrade equipment from blue +2 to purple.
+ **Description:** Common materials to upgrade equipment from green to blue.
 
- **Quality:** <span style="color: #0000CD">OK</span>
+ **Quality:** <span style="color: #32CD32">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter - Fall of the Capital 
-*    Chapter - Borderlands 
-*    Chapter - Frenzied Thoughts 
-*    Chapter - Greed 
+*    Chapter 2 (Return of the Queen) -> 2-2 
+*    Chapter 2 (Return of the Queen) -> 2-6 
+*    Chapter 2 (Return of the Queen) -> 2-10 
 
 ## This item contains:
 

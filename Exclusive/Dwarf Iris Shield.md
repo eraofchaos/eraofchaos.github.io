@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Dwarf](/units/Dwarf/) 
 
- **Item to Rank Up:** [Iris Shield Token](/Items/con_155/)
+ **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | Dwarf hammers their anvil after being attacked, increasing their DEF by 50% for 5s but rendering them unable to move or attack. Once this effect ends, friendly front row units will gain a shield equal to 10% of Max HP that lasts for 5s. CD is 25s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Dwarf's HP by 20% and DEF by 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_155/) | Increases Dwarf's Unit DMG Reduction by 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_155/) | <Hammer Smash> Dwarf smashes with their hammer, dealing damage equal to 150% of own ATK to enemy units within a large range and slowing them for 5s. CD is 20s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_155/) | Increases Dwarf's HP by 8% and Unit DMG Reduction by 4% each time a Rampart unit is deployed. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_155/) | After <Hammer Smash> is cast, a crater will be left at the original location of the smash, dealing damage equal to 5% of Dwarf's Max HP every 2s to enemy units in the crater. Lasts 10s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_155/) | <Body Armor> Dwarf will wear armor the first time their HP falls to 66% and 33%, granting a shield equal to 10% of their Max HP and a 10% increase to Unit DMG Reduction for the rest of the battle. |
+  |  Awaken  | **100x** [Iris Shield Token](/Items/con_913/) | Dwarf hammers their anvil after being attacked, increasing their DEF by 50% for 5s but rendering them unable to move or attack. Once this effect ends, friendly front row units will gain a shield equal to 10% of Max HP that lasts for 5s. CD is 25s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_913/) | Increases Dwarf's HP by 20% and DEF by 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_913/) | Increases Dwarf's Unit DMG Reduction by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | <Hammer Smash> Dwarf smashes with their hammer, dealing damage equal to 150% of own ATK to enemy units within a large range and slowing them for 5s. CD is 20s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_913/) | Increases Dwarf's HP by 8% and Unit DMG Reduction by 4% each time a Rampart unit is deployed. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | After <Hammer Smash> is cast, a crater will be left at the original location of the smash, dealing damage equal to 5% of Dwarf's Max HP every 2s to enemy units in the crater. Lasts 10s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | <Body Armor> Dwarf will wear armor the first time their HP falls to 66% and 33%, granting a shield equal to 10% of their Max HP and a 10% increase to Unit DMG Reduction for the rest of the battle. |
 
 
 ## Level Up

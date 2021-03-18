@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Sprite](/Items/unt_136/)
+ **Unit Soul:** [Sprite](/Items/unt_262/)
 
  **Short description:** Silences. improved initial spell
 
@@ -80,7 +80,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_916/)
 
  **Skin:** -
 
@@ -168,7 +168,7 @@ toc: true
 * unit Damage
 * Magic resistance
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking

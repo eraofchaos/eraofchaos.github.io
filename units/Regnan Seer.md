@@ -28,7 +28,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Regnan Seer](/Items/unt_111/)
+ **Unit Soul:** [Regnan Seer](/Items/unt_279/)
 
  **Short description:** Cove leader. Powerful control.
 
@@ -81,9 +81,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [The City by the Ocean Banner Soul](/Items/con_987/)
+ **Item to Rank Up:** [The City by the Ocean Banner Soul](/Items/con_1006/)
 
- **Skin:** -
+ **Skin:** [Tool_2990709](/Items/con_674/)
 
 
 ## Recommended Holy Emblems
@@ -178,7 +178,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking

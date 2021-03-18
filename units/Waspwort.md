@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Waspwort](/Items/unt_50/)
+ **Unit Soul:** [Waspwort](/Items/unt_260/)
 
  **Short description:** DPS & control
 
@@ -174,7 +174,7 @@ toc: true
 * Attack Speed
 * unit Damage
 
- **Talent Enhance:** [Ranged Talent Potion](/Items/con_489/)
+ **Talent Enhance:** [Ranged Talent Potion](/Items/con_789/)
 
 
 ## Awaking

@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Apple of Eden - Crystal Skull"
 permalink: /artifacts/Crystal Skull/
-excerpt: "Apple of Eden - Crystal Skull. A skull made out of crystal by an unknown civilization. Has the power to see through the hearts of men."
+excerpt: "Era of Chaos  Apple of Eden - Crystal Skull. A skull made out of crystal by an unknown civilization. Has the power to see through the hearts of men."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Crystal Skull.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Crystal Skull](/Items/art_65/)
+ **Related Item**: [Crystal Skull](/Items/art_182/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Power of the Dragon Father - Dragonbone Greaves"
 permalink: /artifacts/Dragonbone Greaves/
-excerpt: "Power of the Dragon Father - Dragonbone Greaves. Greaves made with the Dragon King's shin bones. One of the components of Power of the Dragon Father."
+excerpt: "Era of Chaos  Power of the Dragon Father - Dragonbone Greaves. Greaves made with the Dragon King's shin bones. One of the components of Power of the Dragon Father."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Dragonbone Greaves.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Dragonbone Greaves](/Items/art_39/)
+ **Related Item**: [Dragonbone Greaves](/Items/art_145/)
 
  **Quality:** [Orange Artifact Components](/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

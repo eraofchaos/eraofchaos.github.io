@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Imp](/units/Imp/) | [Iris Shield](/Exclusive/Imp Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_155/) | - |
-  | 2  | [Gog](/units/Gog/) | [Arcane Chant](/Exclusive/Gog Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_124/) | - |
-  | 3  | [Hell Hound](/units/Hell Hound/) | [Knight Pike](/Exclusive/Hell Hound Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_212/) | - |
-  | 4  | [Demon](/units/Demon/) | [Iris Shield](/Exclusive/Demon Iris Shield/) | + | Charge | [Iris Shield Token](/Items/con_155/) | - |
-  | 5  | [Pit Fiend](/units/Pit Fiend/) | [Sword](/Exclusive/Pit Fiend Sword/) | - | Charge | [Sword Token](/Items/con_165/) | - |
-  | 6  | [Efreeti](/units/Efreeti/) | [Arcane Chant](/Exclusive/Efreeti Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_124/) | - |
-  | 7  | [Devil](/units/Devil/) | [Devil Scythe](/Exclusive/Devil Devil Scythe/) | - | Support | [Devil Scythe Token](/Items/con_1137/) | [Devil Scythe Special Skin](/Items/con_1263/) |
-  | 8  | [Nightmare](/units/Nightmare/) | [](/Exclusive/Nightmare /) | - | Ranged | [Nightmare's Eye Token](/Items/con_115/) | - |
+  | 1  | [Imp](/units/Imp/) | [Iris Shield](/Exclusive/Imp Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
+  | 2  | [Gog](/units/Gog/) | [Arcane Chant](/Exclusive/Gog Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
+  | 3  | [Hell Hound](/units/Hell Hound/) | [Knight Pike](/Exclusive/Hell Hound Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_916/) | - |
+  | 4  | [Demon](/units/Demon/) | [Iris Shield](/Exclusive/Demon Iris Shield/) | + | Charge | [Iris Shield Token](/Items/con_913/) | - |
+  | 5  | [Pit Fiend](/units/Pit Fiend/) | [Sword](/Exclusive/Pit Fiend Sword/) | - | Charge | [Sword Token](/Items/con_912/) | - |
+  | 6  | [Efreeti](/units/Efreeti/) | [Arcane Chant](/Exclusive/Efreeti Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
+  | 7  | [Devil](/units/Devil/) | [Devil Scythe](/Exclusive/Devil Devil Scythe/) | - | Support | [Devil Scythe Token](/Items/con_984/) | [Devil Scythe Special Skin](/Items/con_652/) |
+  | 8  | [Nightmare](/units/Nightmare/) | [](/Exclusive/Nightmare /) | - | Ranged | [Nightmare's Eye Token](/Items/con_985/) | [Tool_250809](/Items/con_653/) |
   | 9  | [Venom Spawn](/units/Venom Spawn/) | - | - | - | none | none |

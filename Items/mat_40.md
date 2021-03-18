@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Inferior Sulfur"
+title: "Item - Materials - Rare Ore"
 permalink: /Items/mat_40/
-excerpt: "Inferior Sulfur"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Rare Ore"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_40.md"
 toc: false
@@ -11,18 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from white to green.
+ **Description:** Common materials to upgrade equipment from purple +1 to purple +2.
 
- **Quality:** <span style="color: #C0C0C0">OK</span>
+ **Quality:** <span style="color: #DA70D6">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 1 (Evenmorn Island) -> 1-2 
-*    Chapter 1 (Evenmorn Island) -> 1-5 
-*    Chapter 2 (Return of the Queen) -> 2-4 
+*    Chapter 12 (Sea of Ice) -> 12-1 
+*    Chapter 12 (Sea of Ice) -> 12-4 
+*    Chapter 12 (Sea of Ice) -> 12-7 
 
 ## This item contains:
 

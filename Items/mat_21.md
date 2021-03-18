@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Radiant Wood"
+title: "Item - Materials - Superior Mercury"
 permalink: /Items/mat_21/
-excerpt: "Radiant Wood"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Superior Mercury"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_21.md"
 toc: false
@@ -11,17 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from orange +5 to Red.
+ **Description:** Common materials to upgrade equipment from blue +1 to blue +2.
 
- **Quality:** <span style="color: #FF8C00">OK</span>
+ **Quality:** <span style="color: #0000CD">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 27 (Dragon Father's Blood) -> 27-2 
-*    Chapter 27 (Dragon Father's Blood) -> 27-8 
+*    Chapter 6 (Breaking Ground) -> 6-3 
+*    Chapter 6 (Breaking Ground) -> 6-6 
+*    Chapter 6 (Breaking Ground) -> 6-9 
 
 ## This item contains:
 

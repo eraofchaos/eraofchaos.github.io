@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Red Dragon](/Items/unt_113/)
+ **Unit Soul:** [Red Dragon](/Items/unt_251/)
 
  **Short description:** Dragon overlord with strong roar
 
@@ -178,7 +178,7 @@ toc: true
 * unit Damage
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

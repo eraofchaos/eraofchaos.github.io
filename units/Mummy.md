@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Mummy](/Items/unt_48/)
+ **Unit Soul:** [Mummy](/Items/unt_215/)
 
  **Unit description:** Decaying Curse: Greatly decreased enemies' healing
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Gauze Token](/Items/con_44/)
+ **Item to Rank Up:** [Gauze Token](/Items/con_981/)
 
- **Skin:** [Gauze Special Skin](/Items/con_1256/)
+ **Skin:** [Gauze Special Skin](/Items/con_649/)
 
 
 ## Recommended Holy Emblems
@@ -173,7 +173,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

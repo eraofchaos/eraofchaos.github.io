@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Naga](/Items/unt_54/)
+ **Unit Soul:** [Naga](/Items/unt_240/)
 
  **Unit description:** Blade Dance: AoE damage and AoE DEF reduction
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rank Up:** [Naga Sword Token](/Items/con_95/)
+ **Item to Rank Up:** [Naga Sword Token](/Items/con_987/)
 
- **Skin:** [Naga Sword Special Skin](/Items/con_718/)
+ **Skin:** [Naga Sword Special Skin](/Items/con_655/)
 
 
 ## Recommended Holy Emblems
@@ -175,7 +175,7 @@ toc: true
 * Attack Speed
 * Unit Critical Hit
 
- **Talent Enhance:** [Offensive Talent Potion](/Items/con_431/)
+ **Talent Enhance:** [Offensive Talent Potion](/Items/con_786/)
 
 
 ## Awaking

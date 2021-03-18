@@ -20,11 +20,11 @@ sidebar:
 
  **Level EXP: 100**
 
- **Reward:**  **5x** [Huge EXP potion](/Items/con_262/)
+ **Reward:**  **5x** [Huge EXP potion](/Items/con_703/)
 
  **Like Talk:** Huff, this dish is not spicy at all, huff, huff. The beef tripe, pork aorta, and duck intestines in this dish are all extremely crisp.
 
- **Like Food:** [Chongqing Hotpot](/Items/con_1330/)
+ **Like Food:** [Chongqing Hotpot](/Items/con_1194/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -37,11 +37,11 @@ sidebar:
 
  **Level EXP: 300**
 
- **Reward:**  **7x** [Rare Material Chest](/Items/con_937/)
+ **Reward:**  **7x** [Rare Material Chest](/Items/con_757/)
 
  **Like Talk:** These skewers are pretty tasty, especially the avian giblet skewers, which are spicy, crispy and tender. They taste great!
 
- **Like Food:** [Sichuan Hotpot Skewers](/Items/con_246/)
+ **Like Food:** [Sichuan Hotpot Skewers](/Items/con_1197/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -54,11 +54,11 @@ sidebar:
 
  **Level EXP: 600**
 
- **Reward:**  **2x** [Orange Crystal](/Items/con_1237/)
+ **Reward:**  **2x** [Orange Crystal](/Items/con_730/)
 
  **Like Talk:** Huff, the carp meat is so tender. It doesn't taste spicy at first, but the spicy aftertaste certainly packs a punch!
 
- **Like Food:** [Guizhou Spicy Fish Hotpot](/Items/con_643/)
+ **Like Food:** [Guizhou Spicy Fish Hotpot](/Items/con_1200/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -75,7 +75,7 @@ sidebar:
 
  **Like Talk:** The chicken in this dish is tender and spicy while the taro has a sticky texture. While the dish is rather spicy, it does not leave you feeling parched after eating it. Instead, it has a sweet aftertaste. What an amazing delicacy!
 
- **Like Food:** [Sichuan and Chongqing Taro Chicken Hotpot](/Items/con_574/)
+ **Like Food:** [Sichuan and Chongqing Taro Chicken Hotpot](/Items/con_1203/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -88,11 +88,11 @@ sidebar:
 
  **Level EXP: 1500**
 
- **Reward:**  **8x** [Energy Scroll](/Items/con_160/)
+ **Reward:**  **8x** [Energy Scroll](/Items/con_830/)
 
  **Like Talk:** The Dragon Turtle can only handle spiciness up to this level? Well then, it should hurry up and go drink some milk!
 
- **Like Food:** [Dragon Turtle with a Steel Hotpot Shell](/Items/con_958/)
+ **Like Food:** [Dragon Turtle with a Steel Hotpot Shell](/Items/con_1206/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -105,11 +105,11 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward:**  **10x** [Multi-choice Cast Stone Pack](/Items/con_438/)
+ **Reward:**  **10x** [Multi-choice Cast Stone Pack](/Items/con_1480/)
 
  **Like Talk:** That's right, I'm talking about this Sichuan Hyssop Fish Hotpot! The dish is simply delectable due to the combination of the sourness of the pickled cabbage, the fragrance of the hyssop and the aroma of the fish.
 
- **Like Food:** [Sichuan Hyssop Fish Hotpot](/Items/con_1302/)
+ **Like Food:** [Sichuan Hyssop Fish Hotpot](/Items/con_1209/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -122,11 +122,11 @@ sidebar:
 
  **Level EXP: 2900**
 
- **Reward:**  **8x** [Astro Silver](/Items/con_538/)
+ **Reward:**  **8x** [Astro Silver](/Items/con_969/)
 
  **Like Talk:** This dish really tantalizes my taste buds! The tangy fragrance emitted from the fermented distillers grains pairs perfectly well with the seafood.
 
- **Like Food:** [Hainan Vinegar Hotpot](/Items/con_764/)
+ **Like Food:** [Hainan Vinegar Hotpot](/Items/con_1248/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -139,11 +139,11 @@ sidebar:
 
  **Level EXP: 4100**
 
- **Reward:**  **30x** [Holy Emblem Redemption Ticket](/Items/con_1429/)
+ **Reward:**  **30x** [Holy Emblem Redemption Ticket](/Items/con_513/)
 
  **Like Talk:** This sour soup is absolutely delectable and pairs well with the fresh fish. It's a match made in heaven!
 
- **Like Food:** [Guizhou Sour Fish Hotpot](/Items/con_47/)
+ **Like Food:** [Guizhou Sour Fish Hotpot](/Items/con_1251/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -156,11 +156,11 @@ sidebar:
 
  **Level EXP: 6100**
 
- **Reward:** [Premium Artifact Component Pack](/Items/con_1296/)
+ **Reward:** [Premium Artifact Component Pack](/Items/con_1507/)
 
  **Like Talk:** Even though this dish has no meat, the assortment of mushrooms in this delicacy have wildly varying textures that are comparable to even the best meat!
 
- **Like Food:** [Yunnan Wild Mushroom Hotpot](/Items/con_249/)
+ **Like Food:** [Yunnan Wild Mushroom Hotpot](/Items/con_1182/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 
@@ -173,11 +173,11 @@ sidebar:
 
  **Level EXP: 9100**
 
- **Reward:**  **90x** [Holy Emblem Redemption Ticket](/Items/con_1429/)
+ **Reward:**  **90x** [Holy Emblem Redemption Ticket](/Items/con_513/)
 
  **Like Talk:** The Dragon Turtle has come out to perform some live entertainment just as we are about to finish our meal. That's pretty good!
 
- **Like Food:** [Dragon Turtle with a Mechanical Hotpot Shell](/Items/con_542/)
+ **Like Food:** [Dragon Turtle with a Mechanical Hotpot Shell](/Items/con_1185/)
 
  **Normal Talk:** Are you waiting for me to thank you? I'm not very satisfied with the food you've served.
 

@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusive for Unit:** [Genie](/units/Genie/) 
 
- **Item to Rank Up:** [Lyra Token](/Items/con_1119/)
+ **Item to Rank Up:** [Lyra Token](/Items/con_986/)
 
- **Skin:** [Lyra Special Skin](/Items/con_191/)
+ **Skin:** [Lyra Special Skin](/Items/con_654/)
 
  **Type:** Ranged
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Lyra Token](/Items/con_1119/) | <Lamp Guardian> Genie receives a stack of Lamp Guardian every 5s. Each stack increases Unit DMG Reduction by 2% and lasts for the whole battle. Stacks up to 20 times. When Genie takes damage, it is granted another stack of Lamp Guardian. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Lyra Token](/Items/con_1119/) | Increases Genie's DEF by 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Lyra Token](/Items/con_1119/) | Increases Genie's healing by 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Lyra Token](/Items/con_1119/) | Genie releases a mist that decreases the Unit DMG of 2 random enemy Ranged/Caster units by 20% and Critical Hit by 400 for 10s. CD is 15s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Lyra Token](/Items/con_1119/) | Genie increases own Unit DMG Reduction by 5% for every Tower unit on the battlefield. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Lyra Token](/Items/con_1119/) | When Genie is on the battlefield, it increases the healing received by all friendly units by 10% and their DEF by 10%. Effect doubles for Tower faction units. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Lyra Token](/Items/con_1119/) | Genie is granted 10 stacks of Lamp Guardian at the start of battle and the maximum number of stacks is increased to 30. Each time Genie receives the effects of Lamp Guardian, 2 random friendly units will receive the same effect and recover HP equal to 50% of their own ATK. |
+  |  Awaken  | **100x** [Lyra Token](/Items/con_986/) | <Lamp Guardian> Genie receives a stack of Lamp Guardian every 5s. Each stack increases Unit DMG Reduction by 2% and lasts for the whole battle. Stacks up to 20 times. When Genie takes damage, it is granted another stack of Lamp Guardian. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Lyra Token](/Items/con_986/) | Increases Genie's DEF by 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Lyra Token](/Items/con_986/) | Increases Genie's healing by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Lyra Token](/Items/con_986/) | Genie releases a mist that decreases the Unit DMG of 2 random enemy Ranged/Caster units by 20% and Critical Hit by 400 for 10s. CD is 15s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Lyra Token](/Items/con_986/) | Genie increases own Unit DMG Reduction by 5% for every Tower unit on the battlefield. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Lyra Token](/Items/con_986/) | When Genie is on the battlefield, it increases the healing received by all friendly units by 10% and their DEF by 10%. Effect doubles for Tower faction units. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Lyra Token](/Items/con_986/) | Genie is granted 10 stacks of Lamp Guardian at the start of battle and the maximum number of stacks is increased to 30. Each time Genie receives the effects of Lamp Guardian, 2 random friendly units will receive the same effect and recover HP equal to 50% of their own ATK. |
 
 
 ## Level Up

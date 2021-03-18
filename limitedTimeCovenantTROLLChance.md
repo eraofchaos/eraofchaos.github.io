@@ -14,15 +14,15 @@ classes: wide
 
   |   Drop rate    |      Item     | 
   |:---------------|:--------------| 
-  | **20 %** | **1 x**[Oracle Covenant](/Items/con_738/) | 
-  | **15 %** | **2 x**[Oracle Covenant](/Items/con_738/) | 
-  | **20 %** | **100 x**[Dragonsteel](/Items/con_867/) | 
-  | **15 %** | **200 x**[Dragonsteel](/Items/con_867/) | 
-  | **6 %** | **2 x**[Purple Crystal](/Items/con_1194/) | 
-  | **6 %** | **3 x**[Purple Crystal](/Items/con_1194/) | 
-  | **6 %** | **5 x**[Rare Material Chest](/Items/con_937/) | 
-  | **6 %** | **50 x**[Ranged Talent Potion](/Items/con_489/) | 
-  | **6 %** | **5 x**[Huge EXP potion](/Items/con_262/) | 
+  | **20 %** | **1 x**[Oracle Covenant](/Items/con_816/) | 
+  | **15 %** | **2 x**[Oracle Covenant](/Items/con_816/) | 
+  | **20 %** | **100 x**[Dragonsteel](/Items/con_880/) | 
+  | **15 %** | **200 x**[Dragonsteel](/Items/con_880/) | 
+  | **6 %** | **2 x**[Purple Crystal](/Items/con_720/) | 
+  | **6 %** | **3 x**[Purple Crystal](/Items/con_720/) | 
+  | **6 %** | **5 x**[Rare Material Chest](/Items/con_757/) | 
+  | **6 %** | **50 x**[Ranged Talent Potion](/Items/con_789/) | 
+  | **6 %** | **5 x**[Huge EXP potion](/Items/con_703/) | 
 
 
 ## Rules

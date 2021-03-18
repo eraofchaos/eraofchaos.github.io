@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Gorgon](/Items/unt_117/)
+ **Unit Soul:** [Gorgon](/Items/unt_257/)
 
  **Short description:** High attack. Enduring. Powerful control
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_1225/)
+ **Item to Rank Up:** [Gorgon's Horn Token](/Items/con_995/)
 
- **Skin:** [Gorgon's Horn Special Skin](/Items/con_16/)
+ **Skin:** [Gorgon's Horn Special Skin](/Items/con_663/)
 
 
 ## Recommended Holy Emblems
@@ -184,7 +184,7 @@ toc: true
 * Defense
 * unit DMG Reduction
 
- **Talent Enhance:** [Defensive Talent Potion](/Items/con_461/)
+ **Talent Enhance:** [Defensive Talent Potion](/Items/con_787/)
 
 
 ## Awaking

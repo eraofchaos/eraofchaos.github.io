@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Common Gems"
+title: "Item - Materials - Eternal Wood"
 permalink: /Items/mat_69/
-excerpt: "Common Gems"
-last_modified_at: 2021-03-02
+excerpt: "Era of Chaos  Eternal Wood"
+last_modified_at: 2021-03-18
 locale: en
 ref: "mat_69.md"
 toc: false
@@ -11,18 +11,18 @@ classes: wide
  [Materials](/Items/){: .btn .btn--primary}[Artifacts](/Items/Artifacts/){: .btn .btn--success}[Units](/Items/Units/){: .btn .btn--warning}[Heroes](/Items/Heroes/){: .btn .btn--danger}[Consumables](/Items/Consumables/){: .btn .btn--info}[Unknown](/Items/Unknown/){: .btn .btn--primary}
 
 ## Details
- **Description:** Common materials to upgrade equipment from green to blue.
+ **Description:** Common materials to upgrade equipment from orange +1 to orange +2.
 
- **Quality:** <span style="color: #32CD32">OK</span>
+ **Quality:** <span style="color: #FF8C00">OK</span>
 
  **Type:** Material
 
 ## Gather
 
 *    Unknown_17 
-*    Chapter 3 (Guardian Angel) -> 3-1 
-*    Chapter 3 (Guardian Angel) -> 3-5 
-*    Chapter 3 (Guardian Angel) -> 3-11 
+*    Chapter 20 (Tunnels and Troglodytes) -> 20-2 
+*    Chapter 20 (Tunnels and Troglodytes) -> 20-5 
+*    Chapter 20 (Tunnels and Troglodytes) -> 20-8 
 
 ## This item contains:
 

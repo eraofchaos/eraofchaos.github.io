@@ -1,7 +1,7 @@
 ---
 title: "Artifacts - Ring of the Mage - Cape of Conjuring"
 permalink: /artifacts/Cape of Conjuring/
-excerpt: "Ring of the Mage - Cape of Conjuring. A cape crackling with magical power. One of the components of Ring of the Mage."
+excerpt: "Era of Chaos  Ring of the Mage - Cape of Conjuring. A cape crackling with magical power. One of the components of Ring of the Mage."
 last_modified_at: 2021-03-18
 locale: en
 ref: "Cape of Conjuring.md"
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ring of the Mage](/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Artifact essence](/Items/con_166/)
+ **Dismantle: 3x** [Artifact essence](/Items/con_905/)
 
- **Related Item**: [Cape of Conjuring](/Items/art_34/)
+ **Related Item**: [Cape of Conjuring](/Items/art_117/)
 
  **Quality:** [Blue Artifact Components](/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusive for Unit:** [Gnoll](/units/Gnoll/) 
 
- **Item to Rank Up:** [Sword Token](/Items/con_165/)
+ **Item to Rank Up:** [Sword Token](/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Open Wounds> Gnoll deals damage equal to 275% of own ATK to target unit and inflicts Bleed for 8s. CD is 15s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Gnoll's Penetration by 100. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_165/) | Increases Gnoll's Unit DMG by 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_165/) | Increases Gnoll's Dodge by 300. When taking a critical hit, restores 5% of Max HP and has a 50% chance to increase Unit DMG Reduction by 50% for 1s. CD is 3s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_165/) | Increases Gnoll's Unit DMG Reduction by 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_165/) | Gnoll additionally increases its ATK by 20% and Life Drain by 15% when fighting against bleeding units. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_165/) | When casting <Open Wounds>, deals an additional 2.5% of Max HP per second to the target unit, and decreases the target unit's Unit DMG by 30% and DEF by 10% for 5s. |
+  |  Awaken  | **100x** [Sword Token](/Items/con_912/) | <Open Wounds> Gnoll deals damage equal to 275% of own ATK to target unit and inflicts Bleed for 8s. CD is 15s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_912/) | Increases Gnoll's Penetration by 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Sword Token](/Items/con_912/) | Increases Gnoll's Unit DMG by 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Sword Token](/Items/con_912/) | Increases Gnoll's Dodge by 300. When taking a critical hit, restores 5% of Max HP and has a 50% chance to increase Unit DMG Reduction by 50% for 1s. CD is 3s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Sword Token](/Items/con_912/) | Increases Gnoll's Unit DMG Reduction by 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Sword Token](/Items/con_912/) | Gnoll additionally increases its ATK by 20% and Life Drain by 15% when fighting against bleeding units. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Sword Token](/Items/con_912/) | When casting <Open Wounds>, deals an additional 2.5% of Max HP per second to the target unit, and decreases the target unit's Unit DMG by 30% and DEF by 10% for 5s. |
 
 
 ## Level Up
