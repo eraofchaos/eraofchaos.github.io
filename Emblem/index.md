@@ -15,7 +15,7 @@ classes: wide
 
   [Order](/Emblem/Type Order/){: .btn .btn--warning}   [Goodness](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Evil](/Emblem/Type Evil/){: .btn .btn--primary} 
 
-## Holy Emblem (by name):
+## Holy Emblem (by Name):
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
