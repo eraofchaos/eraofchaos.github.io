@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Paladin"
 toc: true
@@ -155,6 +155,7 @@ toc: true
 
 * **Castle**  (Castle Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Roland](/heroes/Roland/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -172,7 +173,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Supreme Paladin
 

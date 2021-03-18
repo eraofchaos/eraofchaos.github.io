@@ -2,7 +2,7 @@
 title: "Exclusive - Miracle"
 permalink: /Exclusive/Regnan Archer Miracle/
 excerpt: "Era of Chaos Miracle. Miracle. Era of Chaos Exclusive Miracle. Regnan Archer Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Regnan Archer Miracle.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | ? | <Heart of the Ocean> When Regnan Archer units die, they have a 50% chance to resurrect and recover 20% HP. Each unit can trigger this effect up to 3 times. |
   | **1x** <i class="fas fa-star"/> | ? | Each time Regnan Archer triggers <Heart of the Ocean>, increases Unit DMG Reduction by 50% and Tenacity by 500 for 3s. Cannot be stacked. |

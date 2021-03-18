@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "index.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | 12 | [Centaur](/units/Centaur/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Centaur Captain  |
   | 13 | [Cyclops](/units/Cyclops/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Cyclops King  |
   | 14 | [Dark Champion](/units/Dark Champion/) | Offense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
-  | 15 | [Demon](/units/Demon/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |    |
+  | 15 | [Demon](/units/Demon/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Inferno Guard  |
   | 16 | [Dendroid Guard](/units/Dendroid Guard/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Dendroid Soldier  |
   | 17 | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arch Devil  |
   | 18 | [Dragon Golem](/units/Dragon Golem/) | Defense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
@@ -53,7 +53,7 @@ classes: wide
   | 31 | [Gorgon](/units/Gorgon/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mighty Gorgon  |
   | 32 | [Green Dragon](/units/Green Dragon/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Gold Dragon  |
   | 33 | [Gremlin](/units/Gremlin/) | Ranged | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
-  | 34 | [Griffin](/units/Griffin/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |   -   |
+  | 34 | [Griffin](/units/Griffin/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Saintly Griffin  |
   | 35 | [Harpy](/units/Harpy/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |    |
   | 36 | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
   | 37 | [Hydra](/units/Hydra/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Chaos Hydra  |
@@ -63,7 +63,7 @@ classes: wide
   | 41 | [Iron Golem](/units/Iron Golem/) | Defense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gold Golem  |
   | 42 | [Judicator](/units/Judicator/) | Caster | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 43 | [Leprechaun](/units/Leprechaun/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
-  | 44 | [Lich](/units/Lich/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 228.7 | 1581 |  Power Lich  |
+  | 44 | [Lich](/units/Lich/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Power Lich  |
   | 45 | [Lizardman](/units/Lizardman/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
   | 46 | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 47 | [Manticore](/units/Manticore/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicore  |
@@ -75,10 +75,10 @@ classes: wide
   | 53 | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zealot  |
   | 54 | [Mummy](/units/Mummy/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Mummy King  |
   | 55 | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Naga Queen  |
-  | 56 | [Nightmare](/units/Nightmare/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |    |
+  | 56 | [Nightmare](/units/Nightmare/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nightmare King  |
   | 57 | [Ogre](/units/Ogre/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre Mage  |
   | 58 | [Orc](/units/Orc/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  Orc Commander  |
-  | 59 | [Paladin](/units/Paladin/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Supreme Paladin  |
+  | 59 | [Paladin](/units/Paladin/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Supreme Paladin  |
   | 60 | [Pegasus](/units/Pegasus/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Silver Pegasus  |
   | 61 | [Pikeman](/units/Pikeman/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Halberdier  |
   | 62 | [Pit Fiend](/units/Pit Fiend/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Pit Lord  |

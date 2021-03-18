@@ -2,7 +2,7 @@
 title: "Exclusive - Wyvern's Tail"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Wyvern's Tail. Wyvern's Tail. Era of Chaos Exclusive Wyvern's Tail. Wyvern Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Wyvern Wyvern's Tail.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Wyvern's Tail Token](/Items/con_1315/) | <Plagued Soul> Each time a Wyvern dies, increases Unit DMG and Unit DMG Reduction of friendly Fortress units by 1% each. Stacks up to 15 times. Lasts for the whole battle. |
   | **1x** <i class="fas fa-star"/> | **50x** [Wyvern's Tail Token](/Items/con_1315/) | Increases Wyvern's Attack Speed by 20%. |

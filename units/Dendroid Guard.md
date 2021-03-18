@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Dendroid Guard"
 toc: true
@@ -162,6 +162,7 @@ toc: true
 
 * **Rampart**  (Rampart Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Ryland](/heroes/Ryland/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

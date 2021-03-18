@@ -2,7 +2,7 @@
 title: "Exclusive - Gloom Tides"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "Era of Chaos Gloom Tides. Gloom Tides. Era of Chaos Exclusive Gloom Tides. Revyaratan Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Revyaratan Gloom Tides.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | ? | <Blood Detect> Revyaratan deals damage equal to 120% of own ATK to the target unit every 7s. Also inflicts Bleed, and decreases Unit DMG Reduction by 20% and Tenacity by 200 for 4s. The target unit loses 1% of Max HP every second. |
   | **1x** <i class="fas fa-star"/> | ? | Increases Revyaratan's Unit DMG by 20%. Deals additional 20% Critical Hit DMG to enemy units inflicted with Slow. |

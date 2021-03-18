@@ -2,7 +2,7 @@
 title: "Exclusive - Staff of Regrowth"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Staff of Regrowth. Staff of Regrowth. Era of Chaos Exclusive Staff of Regrowth. Druid Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Druid Staff of Regrowth.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Staff of Regrowth Token](/Items/con_995/) | <Vine Lash> At the start of the battle, casts on a random back row enemy unit, dealing damage equal to 30% of own ATK and restricting the target's movement for 10s. Also grants friendly back row units a shield equal to 25% of Max HP. Lasts 10s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Staff of Regrowth Token](/Items/con_995/) | Increases Druid's Range by 50 and Tenacity by 200. |

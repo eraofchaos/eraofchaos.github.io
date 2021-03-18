@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Wyvern"
 toc: true
@@ -157,6 +157,7 @@ toc: true
 
 * **Fortress**  (Fortress Rosters)
 * **Offensive**  (Offensive Unit Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

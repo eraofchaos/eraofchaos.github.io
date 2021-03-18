@@ -2,7 +2,7 @@
 title: "Exclusive - Medusa's Bow"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Medusa's Bow. Medusa's Bow. Era of Chaos Exclusive Medusa's Bow. Medusa Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Medusa Medusa's Bow.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Medusa's Bow Token](/Items/con_103/) | Medusa has a 50% chance to apply <Snake Venom> to a random unit whenever she attacks. The effect lasts throughout the entire battle, up to 10 stacks. When Medusa attacks any unit with 10-stack [Snake Venom], her unit's damage is increased by 30%. <Snake Venom>: Causes damage equal to 5% of Medusa's ATK per second |
   | **1x** <i class="fas fa-star"/> | **50x** [Medusa's Bow Token](/Items/con_103/) | Medusa's Crit Hit increased by 300 |

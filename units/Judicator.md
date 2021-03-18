@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Judicator"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Castle units are proficient at joint defense. For every surviving unit, DEF is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Regular Skill 6 : Halo of Theocracy
- **Description:** <span style="color: #645252;font-size:20px">When 3 Castle Faction units are deployed, the Judicator increases unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and his own Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Judicator is in <span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"> state, he can reveal a <span style="color: #F0F000;font-size:20px">&lt;Theocratic Domain&gt;</span><span style="color: black"> <span style="color: #645252;font-size:20px">which expands as the unit skill levels up. The domain exists for 15. CD is 30s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Castle Faction units are deployed, the Judicator increases unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and his own Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Judicator is in <span style="color: #48b946;font-size:20px">&lt;High Morale&gt;</span><span style="color: black"> state, she can reveal a <span style="color: #F0F000;font-size:20px">&lt;Theocratic Domain&gt;</span><span style="color: black"> <span style="color: #645252;font-size:20px">which expands as the unit skill levels up. The domain exists for 15. CD is 30s.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -160,6 +160,7 @@ toc: true
 
 * **Castle**  (Castle Roster)
 * **Caster**  (Caster Roster)
+* **Commander**  (Commander)
 
 ### Hero Bonus
 * [Dracon](/heroes/Dracon/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

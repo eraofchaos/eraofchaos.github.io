@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Storm Elemental"
 toc: true
@@ -158,6 +158,7 @@ toc: true
 
 * **Conflux**  (Conflux Roster)
 * **Ranged**  (Ranged Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Gelu](/heroes/Gelu/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

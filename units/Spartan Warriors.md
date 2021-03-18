@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Spartan Warriors"
 toc: true
@@ -150,6 +150,7 @@ toc: true
 
 * **Neutral Unit**  (Neutral Roster)
 * **Offensive**  (Offensive Unit Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Kassandra](/heroes/Kassandra/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

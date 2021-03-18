@@ -2,7 +2,7 @@
 title: "Sinister Claws"
 permalink: /equipment/Sinister Claws/
 excerpt: "Era of Chaos Sinister Claws. Sinister Claws"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Sinister Claws.md"
 toc: false

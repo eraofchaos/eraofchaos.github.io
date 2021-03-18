@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Skeleton Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Skeleton Iris Shield.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Putrid Corpse> Skeleton turns itself into a putrid corpse, inflicting all units within a large range of itself with Low Morale every 20s for 10s and dealing damage equal to 250% of their ATK to the target unit. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Skeleton's DEF by 200. |

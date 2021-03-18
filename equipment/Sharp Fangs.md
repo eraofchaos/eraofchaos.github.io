@@ -2,7 +2,7 @@
 title: "Sharp Fangs"
 permalink: /equipment/Sharp Fangs/
 excerpt: "Era of Chaos Sharp Fangs. Sharp Fangs"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Sharp Fangs.md"
 toc: false

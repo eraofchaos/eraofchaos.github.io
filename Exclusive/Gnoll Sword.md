@@ -2,7 +2,7 @@
 title: "Exclusive - Sword"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Gnoll Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Gnoll Sword.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Open Wounds> Gnoll deals damage equal to 275% of own ATK to target unit and inflicts Bleed for 8s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Gnoll's Penetration by 100. |

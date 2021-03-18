@@ -2,7 +2,7 @@
 title: "Exclusive - Gauze"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Gauze. Gauze. Era of Chaos Exclusive Gauze. Mummy Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Mummy Gauze.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Gauze Token](/Items/con_44/) | Mummy inflicts Low Morale on all units in a large range every 8s and decreases the Unit DMG of enemy units in range by 15% while inflicting them with Plague for 3s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Gauze Token](/Items/con_44/) | Increases Mummy's Unit DMG Reduction by 20%. |

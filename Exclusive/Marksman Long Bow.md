@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Marksman Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Marksman Long Bow.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Armor-piercing Arrow> Deals damage to the current target equal to 300% of own ATK while ignoring 1,000 of the target unit's DEF. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Marksman's ATK by 20%. |

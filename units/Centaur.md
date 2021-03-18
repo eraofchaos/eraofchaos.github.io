@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Centaur"
 toc: true
@@ -162,6 +162,7 @@ toc: true
 
 * **Rampart**  (Rampart Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **R**  (R)
 
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Troglodyte"
 toc: true
@@ -156,6 +156,7 @@ toc: true
 
 * **Dungeon**  (Dungeon Rosters)
 * **Offensive**  (Offensive Unit Roster)
+* **R**  (R)
 
 ### Hero Bonus
 * [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

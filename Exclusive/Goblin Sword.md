@@ -2,7 +2,7 @@
 title: "Exclusive - Sword"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Goblin Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Goblin Sword.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Stonecrush> Goblin deals damage equal to 300% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is Overstrained, DEF is reduced by 15% for 5s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Goblin's HP by 20% and Dodge by 100. |

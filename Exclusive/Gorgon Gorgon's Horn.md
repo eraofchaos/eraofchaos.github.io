@@ -2,7 +2,7 @@
 title: "Exclusive - Gorgon's Horn"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Gorgon's Horn. Gorgon's Horn. Era of Chaos Exclusive Gorgon's Horn. Gorgon Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Gorgon Gorgon's Horn.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Gorgon's Horn Token](/Items/con_1225/) | <Petrified Armor> Gorgon covers its entire body with petrified armor, increasing their DEF by 24% and Unit DMG Reduction by 20% for 6s. When losing all bonuses, Gorgon deals damage equal to 150% of own ATK to enemy units within a large range and has a 30% chance to inflict Petrify for 3s. CD is 18s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Gorgon's Horn Token](/Items/con_1225/) | Increases Gorgon's HP and Unit DMG Reduction by 20% each. |

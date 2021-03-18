@@ -2,7 +2,7 @@
 title: "Exclusive - Death Tribute"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Death Tribute. Death Tribute. Era of Chaos Exclusive Death Tribute. Lich Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Lich Death Tribute.md"
 toc: false
@@ -21,13 +21,13 @@ classes: wide
 
  **Type:** Ranged
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Death Tribute Token](/Items/con_726/) | <Dragon Soul Sacrifice> When the battle has been ongoing for 5s and 45s, a Bone Dragon is summoned both times that exists for 20s.　(The Bone Dragon's ATK and HP depend on the unit level. The Bone Dragon has <Fear> and <Penetration>. When it is on the battlefield, it increases all friendly Necropolis units' unit's damage and unit's damage reduction by 20%) |
   | **1x** <i class="fas fa-star"/> | **50x** [Death Tribute Token](/Items/con_726/) | Lich's damage reduction is increased by 20% |

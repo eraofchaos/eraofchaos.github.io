@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Berserker"
 toc: true
@@ -167,6 +167,7 @@ toc: true
 
 * **Stronghold**  (Stronghold Roster)
 * **Offensive**  (Offensive Unit Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Crag Hack](/heroes/Crag Hack/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

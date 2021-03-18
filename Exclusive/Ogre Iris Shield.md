@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Ogre Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Ogre Iris Shield.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | Summons a sacrifice circle every 30s, causing damage equal to 1.5% of Max HP to the hostile units in the circle and restoring HP equal to 5% of ATK for friendly units in the circle for 15s |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Ogre unit's damage reduction is increased by 20% |

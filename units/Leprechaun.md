@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Units. Units. Era of Chaos With the help of Magic Charms that provide a mysterious shield, Leprechauns who respond to the summons use the Monolith of the World Tree to travel to the cruel and murderous battlefield, where they become the strongest shield of the Nature!"
 unitID: 909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Leprechaun"
 toc: true
@@ -69,10 +69,10 @@ toc: true
 
   |  Equipment  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [LuckyBlessings](/equipment/LuckyBlessings/) | **ATK** | **DEF** | 
-  | [SourceofPower](/equipment/SourceofPower/) | **HP** | **DEF** | 
-  | [LifeGuardian](/equipment/LifeGuardian/) | **ATK** | **DEF** | 
-  | [TheLightnessoftheWind](/equipment/TheLightnessoftheWind/) | **HP** | **DEF** | 
+  | [Lucky Blessings](/equipment/Lucky Blessings/) | **ATK** | **DEF** | 
+  | [Source of Power](/equipment/Source of Power/) | **HP** | **DEF** | 
+  | [Life Guardian](/equipment/Life Guardian/) | **ATK** | **DEF** | 
+  | [The Lightness of the Wind](/equipment/The Lightness of the Wind/) | **HP** | **DEF** | 
 
 ## Exclusive
 
@@ -110,10 +110,10 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Leprechaun casts Fortune on all friendly units once every 10s, increasing all friendly units' Dodge by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, Tenacity by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, and DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 5s. Skill effect will be doubled for 4-man units and quadrupled for 9- and 16-man units. Leprechaun will gain 3-10x the skill effect. If it gets a skill effect multiplier of 8 or higher, &lt;Direct Punch&gt; will trigger 1 additional time.</span><span style="color: black">
 
 ### Regular Skill 2 : Elemental Force
- **Description:** <span style="color: #645252;font-size:20px">Increases Leprechaun's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, Dodge by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, and Shield Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun is present on the battlefield, increases all friendly units' Shield Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">During a single instance of Leprechaun taking damage, a part of damage that exceeds 20% of Leprechaun's max HP will be avoided.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Increases Leprechaun's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, DEF by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, Dodge by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, and Block Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun is present on the battlefield, increases all friendly units' Block Value by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and Critical Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">During a single instance of Leprechaun taking damage, a part of damage that exceeds 20% of Leprechaun's max HP will be avoided.</span><span style="color: black">
 
 ### Regular Skill 3 : Tactical Block
- **Description:** <span style="color: #645252;font-size:20px">When Leprechaun is hit by a Critical Hit, its Shield Value will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, and a &lt;Direct Punch&gt; will be triggered. This effect lasts for 10s and has a CD of 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Dodge is triggered, it will recover </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its max HP. CD is 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Block is triggered, a &lt;Direct Punch&gt; will be immediately triggered. CD is 2s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When Leprechaun is hit by a Critical Hit, its Block Value will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">, and a &lt;Direct Punch&gt; will be triggered. This effect lasts for 10s and has a CD of 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Dodge is triggered, it will recover </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of its max HP. CD is 5s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">When Leprechaun's Block is triggered, a &lt;Direct Punch&gt; will be immediately triggered. CD is 2s.</span><span style="color: black">
 
 ### Faction Special Skill I : Elemental Affinity
  **Description:** <span style="color: #645252;font-size:20px">Conflux units are proficient at arcane Conflux magic, and increase heroes' magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
@@ -176,6 +176,7 @@ toc: true
 
 * **Conflux**  (Conflux Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -200,21 +201,21 @@ toc: true
  **Awaking Description:** Legend speaks of a massive World Tree in the Conflux Plane. Ancient and mysterious, adventurers both yearn for and fear it. This is because of the group of ferocious guardians garrisoned nearby—any creatures who dare to approach the World Tree are eliminated. Countless brave young adventurers have gone there out of admiration, but they have never returned.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Deploy Leprechaun with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Conflux units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Master Leprechaun Hero Souls in the Underground: Levels 15-2 and 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Deploy Leprechaun and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Heavy Punch
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is burning, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the target's Unit DMG Reduction by 3%. If the target is inflicted with Burn, their DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
 
 ### 2nd Skill (or 1st): Direct Blow
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Reduces the target's Unit DMG Reduction by 3%. If the target is frozen, their DEF will also be reduced by 2%. Each debuff lasts 7s and can stack up to 8 times.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the target's Unit DMG Reduction by 3%. If the target is inflicted with Freeze, their DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
 
 ### 3rd Skill (or 4th): Lucky Number
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortune&gt;</span><span style="color: #645252;font-size:18px"> Leprechaun's own skill effect stacks are increased by 5-12 stacks.</span>
@@ -223,10 +224,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortune&gt;</span><span style="color: #645252;font-size:18px"> Skill effects are multiplied by 3x against 4-man units, and 6x for 9-man units and 16-man units.</span>
 
 ### 5th Skill (or 6th): Tactical Defense
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactical Block&gt;</span><span style="color: #645252;font-size:18px"> When Leprechaun is inflicted with Bleed, Stun, or Silence, each debuff increases Leprechaun's Shield Value by 200 for 7s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactical Block&gt;</span><span style="color: #645252;font-size:18px"> When Leprechaun is inflicted with Bleed, Stun, or Silence, each debuff increases Leprechaun's Block Value by 200 for 7s.</span>
 
 ### 6th Skill (or 5th): Resistant Defense
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactical Block&gt;</span><span style="color: #645252;font-size:18px"> When Leprechaun is inflicted with Fear, Crystallization, or Deterrence, each debuff increases Leprechaun's Shield Value by 300 for 7s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactical Block&gt;</span><span style="color: #645252;font-size:18px"> When Leprechaun is inflicted with Fear, Crystallization, or Deterrence, each debuff increases Leprechaun's Block Value by 300 for 7s.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Stone Gargoyle"
 toc: true
@@ -163,6 +163,7 @@ toc: true
 
 * **Tower**  (Tower Roster)
 * **Offensive**  (Offensive Unit Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

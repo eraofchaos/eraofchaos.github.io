@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Minotaur Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Minotaur Iris Shield.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Brutal Rush> Minotaur charges violently toward the target, dealing damage equal to 300% of own ATK while decreasing the Unit DMG Reduction of enemy units in a large range by 20% and their Attack Speed by 10% for 7s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Minotaur's Unit DMG Reduction by 20%. |

@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Behemoth"
 toc: true
@@ -164,6 +164,7 @@ toc: true
 
 * **Stronghold**  (Stronghold Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Arch Mage Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Arch Mage Arcane Chant.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Infuse Magic> Mage infuses magic into their staff and launches a powerful attack, dealing damage equal to 200% of own ATK to the target unit. CD is 18s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | <Magic Awakening> When Mage is buffed by a friendly hero's support spell, they immediately cast <Infuse Magic> once. |

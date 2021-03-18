@@ -2,7 +2,7 @@
 title: "Twilight Stone"
 permalink: /equipment/Twilight Stone/
 excerpt: "Era of Chaos Twilight Stone. Twilight Stone"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Twilight Stone.md"
 toc: false

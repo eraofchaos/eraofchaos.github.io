@@ -2,7 +2,7 @@
 title: "Molten Pentagram"
 permalink: /equipment/Molten Pentagram/
 excerpt: "Era of Chaos Molten Pentagram. Molten Pentagram"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Molten Pentagram.md"
 toc: false

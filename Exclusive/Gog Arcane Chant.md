@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Gog Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Gog Arcane Chant.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Scalding Spark> Gog deals damage equal to 400% of own ATK to the target unit every 15s and inflicts them with Bleed for 7s. If the target unit is already Bleeding, DEF is reduced by 15% for 7s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Increases Gog's Attack Speed by 15%. |

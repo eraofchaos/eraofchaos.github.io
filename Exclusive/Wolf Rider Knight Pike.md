@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Wolf Rider Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Wolf Rider Knight Pike.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Wolf Strike> Wolf Rider deals damage equal to 250% of own ATK and 5% of the target's Max HP to the target unit. CD is 12s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Wolf Rider's ATK by 20% and Attack Speed by 10%. |

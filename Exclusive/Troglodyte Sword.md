@@ -2,7 +2,7 @@
 title: "Exclusive - Sword"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Troglodyte Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Troglodyte Sword.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Spear Lunge> Troglodyte deals damage equal to 200% of its own ATK to the target unit and inflicts Poison for 8s. If the target unit is already inflicted with Poison, the target unit is inflicted with Stun for 1s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Troglodyte's HP by 20% and Dodge by 200. |

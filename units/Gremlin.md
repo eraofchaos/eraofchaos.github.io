@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Gremlin"
 toc: true
@@ -160,6 +160,7 @@ toc: true
 
 * **Tower**  (Tower Roster)
 * **Ranged**  (Ranged Roster)
+* **R**  (R)
 
 ### Hero Bonus
 * [Gelu](/heroes/Gelu/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Beholder"
 toc: true
@@ -151,6 +151,7 @@ toc: true
 
 * **Dungeon**  (Dungeon Rosters)
 * **Caster**  (Caster Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Dracon](/heroes/Dracon/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

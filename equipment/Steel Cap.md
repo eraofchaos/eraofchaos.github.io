@@ -2,7 +2,7 @@
 title: "Steel Cap"
 permalink: /equipment/Steel Cap/
 excerpt: "Era of Chaos Steel Cap. Steel Cap"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Steel Cap.md"
 toc: false

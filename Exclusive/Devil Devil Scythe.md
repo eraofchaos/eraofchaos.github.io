@@ -2,7 +2,7 @@
 title: "Exclusive - Devil Scythe"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Devil Scythe. Devil Scythe. Era of Chaos Exclusive Devil Scythe. Devil Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Devil Devil Scythe.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Devil Scythe Token](/Items/con_1137/) | The Devil revives at its spawn point 6s after its first death. The reborn Devil increases Crit DMG, ATK speed and unit's damage reduction y 10% for all friendly units over the next 20s. For the Inferno Faction units, the effect doubles. The reborn Devil unleashes <Revenge> on the target unit. <Revenge> Causes damage equal to 200% of ATK and \"emaciates\" the target. The skill can be triggered once every 45s. \"Emaciation\"> lasts for 5s and cannot be dispelled. Decreases \"emaciated\" unit's damage reduction by 20%, decreases DEF by 20% |
   | **1x** <i class="fas fa-star"/> | **50x** [Devil Scythe Token](/Items/con_1137/) | The Devil applies an [Inferno Mark] to a random hostile unit every 9s. Each mark stack decreases the target unit's unit's damage reduction by 7%, up to 3 stacks. When the mark has 3 stacks, it will be removed from the target and cause 300% damage. The mark lasts throughout the entire battle and cannot be dispelled |

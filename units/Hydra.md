@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Hydra"
 toc: true
@@ -156,6 +156,7 @@ toc: true
 
 * **Fortress**  (Fortress Rosters)
 * **Offensive**  (Offensive Unit Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

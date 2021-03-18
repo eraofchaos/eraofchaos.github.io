@@ -2,7 +2,7 @@
 title: "Exclusive - Dark Gaze"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Dark Gaze. Dark Gaze. Era of Chaos Exclusive Dark Gaze. Beholder Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Beholder Dark Gaze.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Dark Gaze Token](/Items/con_1126/) | <Darksight> Deals damage equal to 200% of own ATK to enemy units in a large area in front of it while decreasing their Unit DMG Reduction by 15%. Effect doubles against stunned targets. Lasts 7s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Dark Gaze Token](/Items/con_1126/) | When enemy heroes casts a spell, Beholder gains a shield equal to 10% of Max HP for 7s. |

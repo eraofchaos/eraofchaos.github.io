@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Griffin Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Griffin Knight Pike.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Beak Peck> Griffin bites the target unit, dealing damage equal to 150% of own ATK to target unit. Inflicts Bleeding, decreases Accuracy by 300 and Attack Speed by 20% for 8s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Griffin's Unit DMG by 20%. |

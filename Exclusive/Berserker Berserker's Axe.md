@@ -2,7 +2,7 @@
 title: "Exclusive - Berserker's Axe"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Berserker's Axe. Berserker's Axe. Era of Chaos Exclusive Berserker's Axe. Berserker Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Berserker Berserker's Axe.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Berserker's Axe Token](/Items/con_801/) | <Spinning Axe> Berserker throws a spinning axe, dealing damage equal to 150% of own ATK to enemy units in a large area in front of them and inflicting Bleed for 8s. CD is 18s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Berserker's Axe Token](/Items/con_801/) | Increases Berserker's Unit DMG by 15%. Increases Unit DMG by another 15% when fighting against stunned units. |

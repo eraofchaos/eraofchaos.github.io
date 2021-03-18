@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Sea Elemental"
 toc: true
@@ -159,6 +159,7 @@ toc: true
 
 * **Cove**  (Cove Rosters)
 * **Caster**  (Caster Roster)
+* **R**  (R)
 
 ### Hero Bonus
 * [Dracon](/heroes/Dracon/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

@@ -3,14 +3,11 @@ title: "Ice Demon"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ice Demon is a strange existence even in the Conflux Plane. She is like a piece of ice that will never melt. She blinds your eyes and steals your breath. She is just like those corpses who are buried in glacial graves."
 unitID: 908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Ice Demon"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Description:** Ice Demon is a strange existence even in the Conflux Plane. She is like a piece of ice that will never melt. She blinds your eyes and steals your breath. She is just like those corpses who are buried in glacial graves.
 
@@ -178,6 +175,7 @@ toc: true
 
 * **Conflux**  (Conflux Roster)
 * **Ranged**  (Ranged Roster)
+* **Commander**  (Commander)
 
 ### Hero Bonus
 * [Gelu](/heroes/Gelu/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

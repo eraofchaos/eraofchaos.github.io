@@ -2,7 +2,7 @@
 title: "Exclusive - Sword"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Pikeman Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Pikeman Sword.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Holy Spear Strike> Pikeman deals damage equal to 400% of own ATK to the target unit once every 15s and decreases the target's DEF by 4% for 7s, stacking up to 4 times. If the target unit is stunned, Tenacity is also reduced by 150 for 6s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Pikeman's Attack Speed by 20%. |

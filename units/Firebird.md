@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Firebird"
 toc: true
@@ -159,6 +159,7 @@ toc: true
 
 * **Conflux**  (Conflux Roster)
 * **Caster**  (Caster Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Luna](/heroes/Luna/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

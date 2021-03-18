@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Orc"
 toc: true
@@ -164,6 +164,7 @@ toc: true
 
 * **Stronghold**  (Stronghold Roster)
 * **Ranged**  (Ranged Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Gelu](/heroes/Gelu/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Regnan Seer"
 toc: true
@@ -165,6 +165,7 @@ toc: true
 
 * **Cove**  (Cove Rosters)
 * **Caster**  (Caster Roster)
+* **Commander**  (Commander)
 
 ### Hero Bonus
 * [Dracon](/heroes/Dracon/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

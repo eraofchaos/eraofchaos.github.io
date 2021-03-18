@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Wood Elf Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Wood Elf Long Bow.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Arrow Storm> Wood Elf's normal attacks have a 3% chance to trigger <Arrow Storm>, unleashing a barrage of arrows on the target area that deal damage to the target area equal to 20% of Wood Elf's ATK every 0.5s for 3s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Wood Elf's Unit DMG by 20%. |

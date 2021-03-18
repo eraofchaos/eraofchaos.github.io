@@ -2,7 +2,7 @@
 title: "Exclusive - Night Tides"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Era of Chaos Night Tides. Night Tides. Era of Chaos Exclusive Night Tides. Mermaid Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Mermaid Night Tides.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Night Tides Token](/Items/con_317/) | <Guardian's Ode> When Mermaid takes damage exceeding 30% of own Max HP in a single attack, they gain a Bubble equal to 25% of own Max HP and increases DEF by 400 for 15s. CD is 10s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Night Tides Token](/Items/con_317/) | Increases Mermaid's ATK and Attack Speed by 20% each. |

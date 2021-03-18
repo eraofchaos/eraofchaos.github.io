@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Wolf Rider"
 toc: true
@@ -165,6 +165,7 @@ toc: true
 
 * **Stronghold**  (Stronghold Roster)
 * **Charging**  (Charging Roster)
+* **R**  (R)
 
 ### Hero Bonus
 * [Mullich](/heroes/Mullich/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

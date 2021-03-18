@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Harpy Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Harpy Knight Pike.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Aerobatics> Harpy launches a powerful strike at a target unit, dealing damage equal to 300% of own ATK. It then flies into the air to fire feathered arrows, dealing damage equal to 10% of Max HP to enemy units in a large range while inflicting them with Hawk Venom for 5s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Increases Harpy's Unit DMG by 20%. |

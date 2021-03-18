@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Green Dragon"
 toc: true
@@ -161,6 +161,7 @@ toc: true
 
 * **Rampart**  (Rampart Roster)
 * **Caster**  (Caster Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Dracon](/heroes/Dracon/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

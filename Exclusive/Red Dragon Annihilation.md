@@ -2,7 +2,7 @@
 title: "Exclusive - Annihilation"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Annihilation. Annihilation. Era of Chaos Exclusive Annihilation. Red Dragon Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Red Dragon Annihilation.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | ? | <Dragon Soul> Red Dragon condenses 1 Dragon Soul in its body every 15s, up to 4 Dragon Souls. Each Dragon Soul increases Red Dragon's Unit DMG by 10% and Unit DMG Reduction by 10%. When the Red Dragon has a Dragon Soul, it casts <Infernal Flame>, dealing damage equal to 150% of own ATK to the target unit, and additional damage equal to 20% of Max HP to units inflicted with Burn. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | ? | Increases Red Dragon's DEF by 50 and Penetration by 50 each time an Underground unit is deployed. |

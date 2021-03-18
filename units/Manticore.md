@@ -3,7 +3,7 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Manticore"
 toc: true
@@ -150,6 +150,7 @@ toc: true
 
 * **Dungeon**  (Dungeon Rosters)
 * **Charging**  (Charging Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Mullich](/heroes/Mullich/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

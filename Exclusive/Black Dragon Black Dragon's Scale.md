@@ -2,7 +2,7 @@
 title: "Exclusive - Black Dragon's Scale"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Black Dragon's Scale. Black Dragon's Scale. Era of Chaos Exclusive Black Dragon's Scale. Black Dragon Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Black Dragon Black Dragon's Scale.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Black Dragon's Scale Token](/Items/con_1231/) | <Shelter of Dragons> When its HP is less than 75%, 50%, 25%, the Black Dragon gives a shield equal to 15% of its Max HP to all friendly Defense dragon units (Dragon Turtle, Black Dragon/Black Dragon King) on the battlefield, and offers a shield equal to 30% of Max HP to all friendly non-Defense dragon units (Green Dragon/Gold Dragon, Bone Dragon/Ghost Dragon, Red Dragon, Hydra or Wyvern). The shield works throughout the entire battle and can be stacked. The Black Dragon's shield cannot be dispelled. Offers spell immunity for 3s when a shield is present |
   | **1x** <i class="fas fa-star"/> | **50x** [Black Dragon's Scale Token](/Items/con_1231/) | When the Black Dragon is on the battlefield, it increases unit's damage and unit's damage reduction for friendly Dungeon units by 10% |

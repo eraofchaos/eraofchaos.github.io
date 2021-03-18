@@ -2,7 +2,7 @@
 title: "Exclusive - Bloodthirsty Spirit"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Bloodthirsty Spirit. Bloodthirsty Spirit. Era of Chaos Exclusive Bloodthirsty Spirit. Behemoth Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Behemoth Bloodthirsty Spirit.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Bloodthirsty Spirit Token](/Items/con_377/) | <Stronghold Spirit> Behemoth protects other Stronghold units from damage, taking 25% of all damage taken by Stronghold units on the battlefield and increasing Unit DMG Reduction by 40% for 5s. CD is 25s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Bloodthirsty Spirit Token](/Items/con_377/) | When Behemoth is on the battlefield, it increases Unit DMG of friendly Stronghold Ranged/Caster units by 20% and Unit DMG Reduction of friendly Melee units by 20%. |

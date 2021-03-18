@@ -2,7 +2,7 @@
 title: "Combination Info for Low Morale"
 permalink: /combination/Low Morale/
 excerpt: "Combination Info - Low Morale. Units and Heroes Formation."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Low Morale.md"
 toc: false

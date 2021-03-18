@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Regnan Pirates"
 toc: true
@@ -157,6 +157,7 @@ toc: true
 
 * **Cove**  (Cove Rosters)
 * **Offensive**  (Offensive Unit Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

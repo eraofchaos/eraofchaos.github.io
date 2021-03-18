@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Cavalier Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Cavalier Knight Pike.md"
 toc: false
@@ -27,9 +27,9 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_212/) | <Stifling Javelin> 2s after the battle starts, knights throw the extra spears they hold, dealing damage equal to 200% of their ATK to a random enemy target, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their Unit DMG by 20%. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_212/) | Cavalier's unit's damage reduction increased by 25% when taking ranged damage |
   | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_212/) | Increases Cavaliers ATK by 20% and unit's damage by 10% |
   | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_212/) | Cavalier's DEF increases by 10%. At the beginning of battle, all friendly Castle units' penetration is increased by 300. This effect cannot be dispelled |

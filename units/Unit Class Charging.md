@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Charging -  Units"
 permalink: /units/Unit Class Charging/
 excerpt: "Era of Chaos Unit Class Charging. Unit Class Charging. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Unit Class Charging"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
   | 3 | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Shark Rider  |
   | 4 | [Harpy](/units/Harpy/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |    |
-  | 5 | [Griffin](/units/Griffin/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |   -   |
+  | 5 | [Griffin](/units/Griffin/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Saintly Griffin  |
   | 6 | [Cavalier](/units/Cavalier/) | Charging | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Champion Knights  |
   | 7 | [Manticore](/units/Manticore/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicore  |
   | 8 | [Sprite](/units/Sprite/) | Charging | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |

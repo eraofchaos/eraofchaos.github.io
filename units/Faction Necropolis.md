@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Necropolis -  Units"
 permalink: /units/Faction Necropolis/
 excerpt: "Era of Chaos Faction Necropolis. Faction Necropolis. List of Faction in Era of Chaos"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Faction Necropolis"
 toc: false
@@ -21,5 +21,5 @@ classes: wide
   | 5 | [Wight](/units/Wight/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Wraith  |
   | 6 | [Vampire](/units/Vampire/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Vampire Lord  |
   | 7 | [Black Knight](/units/Black Knight/) | Charging | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Dread Knight  |
-  | 8 | [Lich](/units/Lich/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 228.7 | 1581 |  Power Lich  |
+  | 8 | [Lich](/units/Lich/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Power Lich  |
   | 9 | [Bone Dragon](/units/Bone Dragon/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Ghost Dragon  |

@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Ogre"
 toc: true
@@ -163,6 +163,7 @@ toc: true
 
 * **Stronghold**  (Stronghold Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

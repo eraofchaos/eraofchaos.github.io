@@ -2,7 +2,7 @@
 title: "Exclusive - Immortal Dragon Bone"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Immortal Dragon Bone. Immortal Dragon Bone. Era of Chaos Exclusive Immortal Dragon Bone. Bone Dragon Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Bone Dragon Immortal Dragon Bone.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Immortal Dragon Bone Token](/Items/con_1418/) | <Dragon Power> Can be cast once every 12s to decrease DEF by 5% and magic resistance by 30% of all hostile units for 15s, up to 5 stacks. At the same time, <silence> all hostile units for 3s. Guaranteed to trigger once whenever a hostile unit is downed. |
   | **1x** <i class="fas fa-star"/> | **50x** [Immortal Dragon Bone Token](/Items/con_1418/) | When the Bone Dragon is on the battlefield, it increases tenacity by 200 and DEF by 10% for all friendly Necropolis units |

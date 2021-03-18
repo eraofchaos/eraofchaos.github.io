@@ -2,7 +2,7 @@
 title: "Mystic Gold Lamp"
 permalink: /equipment/Mystic Gold Lamp/
 excerpt: "Era of Chaos Mystic Gold Lamp. Mystic Gold Lamp"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Mystic Gold Lamp.md"
 toc: false

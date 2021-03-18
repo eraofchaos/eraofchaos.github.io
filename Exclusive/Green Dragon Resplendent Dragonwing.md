@@ -2,7 +2,7 @@
 title: "Exclusive - Resplendent Dragonwing"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Resplendent Dragonwing. Resplendent Dragonwing. Era of Chaos Exclusive Resplendent Dragonwing. Green Dragon Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Green Dragon Resplendent Dragonwing.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Resplendent Dragonwing Token](/Items/con_714/) | Green Dragon's attacks will inflict Bleed, causing targets to take damage equal to 2% of their Max HP every 2s for 3s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Resplendent Dragonwing Token](/Items/con_714/) | Increases Green Dragon's Unit DMG by 20% and Critical Hit by 200. |

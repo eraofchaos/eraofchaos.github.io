@@ -2,7 +2,7 @@
 title: "Exclusive - "
 permalink: /Exclusive/Paladin /
 excerpt: "Era of Chaos . . Era of Chaos Exclusive . Paladin Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Paladin .md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Fearless Token](/Items/con_339/) | <Enduring Guard> Paladin guards themselves and one random non-Inferno Melee unit, increasing both units' DEF and Unit DMG Reduction by 20% each for 10s. Also grants the Guardian status, which increases DEF and Unit DMG Reduction by an additional 20% each. The Guardian status will disappear once the unit has taken damage 10 times. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Fearless Token](/Items/con_339/) | Increases the Unit DMG Reduction of nearby friendly units within a small range by 20% and removing limits for Castle units. |

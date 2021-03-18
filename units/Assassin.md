@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Assassin"
 toc: true
@@ -152,6 +152,7 @@ toc: true
 
 * **Neutral Unit**  (Neutral Roster)
 * **Charging**  (Charging Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Ezio](/heroes/Ezio/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

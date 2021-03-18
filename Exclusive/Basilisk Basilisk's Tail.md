@@ -2,7 +2,7 @@
 title: "Exclusive - Basilisk's Tail"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Basilisk's Tail. Basilisk's Tail. Era of Chaos Exclusive Basilisk's Tail. Basilisk Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Basilisk Basilisk's Tail.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Basilisk's Tail Token](/Items/con_883/) | When an attack hits a target unit, there is a 8% chance to additionally deal damage equal to 100% of own ATK and Petrify them for 3s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Basilisk's Tail Token](/Items/con_883/) | Increases Basilisk's HP and Unit DMG Reduction by 20% each. |

@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Gnoll"
 toc: true
@@ -160,6 +160,7 @@ toc: true
 
 * **Fortress**  (Fortress Rosters)
 * **Offensive**  (Offensive Unit Roster)
+* **R**  (R)
 
 ### Hero Bonus
 * [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -198,7 +199,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Chain Slap&gt;</span><span style="color: #645252;font-size:18px">Deals additional damage equal to 400% of own ATK to the target unit.</span>
 
 ### 2nd Skill (or 1st): Chain Smite
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Chain Slap&gt;</span><span style="color: #645252;font-size:18px"> Increases the duration of the skill's Stun effect by 5s.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Chain Slap&gt;</span><span style="color: #645252;font-size:18px"> Increases the duration of the skill's Stun effect to 5s.</span>
 
 ### 3rd Skill (or 4th): Call of the Wild
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Primitive Wildness&gt;</span><span style="color: #645252;font-size:18px"> Increases Penetration by 100. The effect doubles against enemies inflicted with Stun.</span>

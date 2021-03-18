@@ -2,7 +2,7 @@
 title: "Bleak Barb"
 permalink: /equipment/Bleak Barb/
 excerpt: "Era of Chaos Bleak Barb. Bleak Barb"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Bleak Barb.md"
 toc: false

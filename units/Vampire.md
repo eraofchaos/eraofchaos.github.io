@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Vampire"
 toc: true
@@ -161,6 +161,7 @@ toc: true
 
 * **Necropolis**  (Necropolis Roster)
 * **Charging**  (Charging Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Mullich](/heroes/Mullich/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

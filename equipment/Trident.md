@@ -2,7 +2,7 @@
 title: "Trident"
 permalink: /equipment/Trident/
 excerpt: "Era of Chaos Trident. Trident"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Trident.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sharp Back-spikes"
 permalink: /equipment/Sharp Back-spikes/
 excerpt: "Era of Chaos Sharp Back-spikes. Sharp Back-spikes"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Sharp Back-spikes.md"
 toc: false

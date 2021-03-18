@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Ice Elemental Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Ice Elemental Arcane Chant.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Frozen Fracture> Strikes the enemy down with extreme cold, dealing damage to the target unit equal to 200% of own ATK and inflicting Freeze for 5s. CD is 20s. Pre-CD is 11s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | Increases Ice Elemental's Unit DMG by 20%. |

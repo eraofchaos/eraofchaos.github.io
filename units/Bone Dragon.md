@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Bone Dragon"
 toc: true
@@ -160,6 +160,7 @@ toc: true
 
 * **Necropolis**  (Necropolis Roster)
 * **Offensive**  (Offensive Unit Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Vidomina](/heroes/Vidomina/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

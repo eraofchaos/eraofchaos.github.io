@@ -2,7 +2,7 @@
 title: "Hardened Iron Chest Armor"
 permalink: /equipment/Hardened Iron Chest Armor/
 excerpt: "Era of Chaos Hardened Iron Chest Armor. Hardened Iron Chest Armor"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Hardened Iron Chest Armor.md"
 toc: false

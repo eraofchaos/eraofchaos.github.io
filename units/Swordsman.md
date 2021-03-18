@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Swordsman"
 toc: true
@@ -159,6 +159,7 @@ toc: true
 
 * **Castle**  (Castle Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Catherine](/heroes/Catherine/)  ->   Specialty: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

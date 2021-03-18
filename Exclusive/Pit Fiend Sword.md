@@ -2,7 +2,7 @@
 title: "Exclusive - Sword"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Pit Fiend Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Pit Fiend Sword.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Sword Token](/Items/con_165/) | <Lash> Pit Fiend swings its whip, dealing damage equal to 300% of own ATK to enemy units in a large range and inflicting Bleed. There is a 50% chance of decreasing Unit DMG by 20% for 6s. CD is 16s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | Increases Pit Fiend's ATK by 20% and Healing by 10%. |

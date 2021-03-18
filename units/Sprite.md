@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Sprite"
 toc: true
@@ -155,6 +155,7 @@ toc: true
 
 * **Conflux**  (Conflux Roster)
 * **Charging**  (Charging Roster)
+* **R**  (R)
 
 ### Hero Bonus
 * [Mullich](/heroes/Mullich/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

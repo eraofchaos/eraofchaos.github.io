@@ -3,7 +3,7 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Venom Spawn"
 toc: true
@@ -218,6 +218,7 @@ toc: true
 
 * **Inferno**  (Inferno Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **Commander**  (Commander)
 
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

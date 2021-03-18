@@ -2,7 +2,7 @@
 title: "Red Copper Bracer"
 permalink: /equipment/Red Copper Bracer/
 excerpt: "Era of Chaos Red Copper Bracer. Red Copper Bracer"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Red Copper Bracer.md"
 toc: false

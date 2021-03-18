@@ -2,7 +2,7 @@
 title: "Exclusive - Spirit Core"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Spirit Core. Spirit Core. Era of Chaos Exclusive Spirit Core. Psychic Elemental Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Psychic Elemental Spirit Core.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Spirit Core Token](/Items/con_603/) | <Demoralize> Psychic Elemental bombards the enemy's psyche, dealing damage equal to 20% of Max HP to the target unit and restoring HP equal to 50% of own ATK. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Spirit Core Token](/Items/con_603/) | Increases Psychic Elemental's Unit DMG by 30%. |

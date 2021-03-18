@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Units. Units. Era of Chaos He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Dark Champion"
 toc: true
@@ -160,6 +160,7 @@ toc: true
 
 * **Necropolis**  (Necropolis Roster)
 * **Offensive**  (Offensive Unit Roster)
+* **Commander**  (Commander)
 
 ### Hero Bonus
 * [Vidomina](/heroes/Vidomina/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

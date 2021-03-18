@@ -2,7 +2,7 @@
 title: "Hidden Blade"
 permalink: /equipment/Hidden Blade/
 excerpt: "Era of Chaos Hidden Blade. Hidden Blade"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Hidden Blade.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Medusa"
 toc: true
@@ -155,6 +155,7 @@ toc: true
 
 * **Dungeon**  (Dungeon Rosters)
 * **Ranged**  (Ranged Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Gelu](/heroes/Gelu/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

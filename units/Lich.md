@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Lich"
 toc: true
@@ -80,7 +80,7 @@ toc: true
 
  **Name:** [Death Tribute](/Exclusive/Lich Death Tribute/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rank Up:** [Death Tribute Token](/Items/con_726/)
 
@@ -159,6 +159,7 @@ toc: true
 
 * **Necropolis**  (Necropolis Roster)
 * **Caster**  (Caster Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Vidomina](/heroes/Vidomina/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

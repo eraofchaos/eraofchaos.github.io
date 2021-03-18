@@ -2,7 +2,7 @@
 title: "Exclusive - Durandel"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "Era of Chaos Durandel. Durandel. Era of Chaos Exclusive Durandel. Angel Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Angel Durandel.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Durandel Token](/Items/con_1329/) | <Retribution> Deals damage to the target unit and 1 random front row unit equal to 100% of own ATK and inflicts them with Retribution for 10s. CD is 17s. If the target unit is in Retribution state, deals damage equal to 150% of own ATK and decreases their DEF by 20% for 5s while also clearing the target's Retribution. Effect is doubled when used on Inferno units. CD is 10s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Durandel Token](/Items/con_1329/) | Nearby friendly units within a small range receive Angel's blessing, increasing their Unit DMG by 20% and removing range limits for Castle units. |

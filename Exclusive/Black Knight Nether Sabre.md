@@ -2,7 +2,7 @@
 title: "Exclusive - Nether Sabre"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Nether Sabre. Nether Sabre. Era of Chaos Exclusive Nether Sabre. Black Knight Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Black Knight Nether Sabre.md"
 toc: false
@@ -27,14 +27,14 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Nether Sabre Token](/Items/con_997/) | The Black Knight decreases the DEF of hostile units within a large range by 30%. Increases his own penetration by 500 when fighting against units in \"low morale\" |
   | **1x** <i class="fas fa-star"/> | **50x** [Nether Sabre Token](/Items/con_997/) | The Black Knight's unit's damage reduction increases by 20% |
   | **2x** <i class="fas fa-star"/> | **90x** [Nether Sabre Token](/Items/con_997/) | The Black Knight's unit's damage increases by 25% |
   | **3x** <i class="fas fa-star"/> | **130x** [Nether Sabre Token](/Items/con_997/) | At the beginning of battle, the Black Knight charges on the spot. During this time, he is immune to all kinds of damage. Appears in front of the hostile unit standing at the end of the path in 6s. If there is no suitable target, attacks a random back-row unit and deals a Critical Strike (No awakening effect. Only works once per battle) |
-  | **4x** <i class="fas fa-star"/> | **170x** [Nether Sabre Token](/Items/con_997/) | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
-  | **5x** <i class="fas fa-star"/> | **210x** [Nether Sabre Token](/Items/con_997/) | Black Knight's life drain increases by 20%. Gets 20% extra life drain after landing a Crit Hit for 5s |
+  | **4x** <i class="fas fa-star"/> | **170x** [Nether Sabre Token](/Items/con_997/) | When dealing a critical hit, the Black Knight gets 50 Critical Hit and 20% Magic Resistance. Lasts 5s and stacks up to 10 times. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Nether Sabre Token](/Items/con_997/) | Black Knight's Life Drain increases by 20% and an extra 20% after landing a critical hit. Lasts 5s. |
   | **6x** <i class="fas fa-star"/> | **250x** [Nether Sabre Token](/Items/con_997/) | <King's Revival> Summons 1 Black Knight every 20s. 1 Black Knight can be summoned once the target unit is killed. Whenever a Black Knight appears, increases its unit's Crit Hit by 100 and penetration by 50 |
 
 

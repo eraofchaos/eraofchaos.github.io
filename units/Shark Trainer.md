@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark."
 unitID: 9909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Shark Trainer"
 toc: true
@@ -199,6 +199,7 @@ toc: true
 
 * **Cove**  (Cove Rosters)
 * **Charging**  (Charging Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Mullich](/heroes/Mullich/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

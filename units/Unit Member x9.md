@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Unit Member x9"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Master Archer  |
   | 10 | [Harpy](/units/Harpy/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |    |
   | 11 | [Troglodyte](/units/Troglodyte/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Dark Troglodyte  |
-  | 12 | [Griffin](/units/Griffin/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |   -   |
+  | 12 | [Griffin](/units/Griffin/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Saintly Griffin  |
   | 13 | [Beholder](/units/Beholder/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Evil Eye  |
   | 14 | [Centaur](/units/Centaur/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Centaur Captain  |
   | 15 | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnoll Warrior  |

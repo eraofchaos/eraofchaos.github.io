@@ -2,7 +2,7 @@
 title: "Heart Stab Dagger"
 permalink: /equipment/Heart Stab Dagger/
 excerpt: "Era of Chaos Heart Stab Dagger. Heart Stab Dagger"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Heart Stab Dagger.md"
 toc: false

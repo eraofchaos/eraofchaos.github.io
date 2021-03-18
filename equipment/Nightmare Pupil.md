@@ -2,7 +2,7 @@
 title: "Nightmare Pupil"
 permalink: /equipment/Nightmare Pupil/
 excerpt: "Era of Chaos Nightmare Pupil. Nightmare Pupil"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Nightmare Pupil.md"
 toc: false

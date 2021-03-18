@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Sea Elemental Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Sea Elemental Arcane Chant.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Arcane Chant Token](/Items/con_124/) | <Tidal Waves> It can be triggered once every 20s. It summons waves beneath a random hostile unit, dealing damage equal to 200% of its ATK to hostile units within a small range |
   | **1x** <i class="fas fa-star"/> | **50x** [Arcane Chant Token](/Items/con_124/) | At the beginning of battle, all friendly units get a [Bubble] equal to 10% of their Max HP |

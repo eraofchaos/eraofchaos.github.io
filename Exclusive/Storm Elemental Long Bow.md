@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Storm Elemental Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Storm Elemental Long Bow.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Long Bow Token](/Items/con_136/) | <Force of Nature> Storm Elemental calls down the judgment of the heavens, dealing damage equal to 300% of own ATK to the target unit and inflicting Paralysis for 5s. CD is 20s. Pre-CD is 12s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_136/) | Increases Storm Elemental's Unit DMG by 20%. |

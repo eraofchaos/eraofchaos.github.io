@@ -2,7 +2,7 @@
 title: "Exclusive - Thousand Ton"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Thousand Ton. Thousand Ton. Era of Chaos Exclusive Thousand Ton. Giant Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Giant Thousand Ton.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Thousand Ton Token](/Items/con_451/) | Giant summons a thundercloud above a random unit for 10s. The thundercloud will strike a random unit within range every 0.5s, with each strike dealing damage equal to 40% of own ATK. If the same unit is struck twice in a row within 4s, the unit is inflicted with Paralysis for 5s. If the same unit is struck four times in a row, the unit is inflicted with Emaciated for 2s. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Thousand Ton Token](/Items/con_451/) | Giant increases its own Unit DMG by 10%. When it's on the battlefield, it also increases the Unit DMG of friendly Caster units by 10%. |

@@ -2,7 +2,7 @@
 title: "Exclusive - Energy Core"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Energy Core. Energy Core. Era of Chaos Exclusive Energy Core. Stone Elemental Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Stone Elemental Energy Core.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Energy Core Token](/Items/con_205/) | <Rock Strike> Hits the ground hard to cause damage equal to 200% of its ATK on hostile units within a large area, \"knocking them up\" and \"stunning\" them for 3s. CD is 20s and pre-CD is 10s |
   | **1x** <i class="fas fa-star"/> | **50x** [Energy Core Token](/Items/con_205/) | Stone Elemental's unit damage reduction is increased by 20%. The effect doubles when the Stone Elemental is attacked by a magic unit |

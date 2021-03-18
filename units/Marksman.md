@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Marksman"
 toc: true
@@ -162,6 +162,7 @@ toc: true
 
 * **Castle**  (Castle Roster)
 * **Ranged**  (Ranged Roster)
+* **R**  (R)
 
 ### Hero Bonus
 * [Roland](/heroes/Roland/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 

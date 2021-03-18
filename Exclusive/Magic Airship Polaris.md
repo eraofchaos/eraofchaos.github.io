@@ -2,7 +2,7 @@
 title: "Exclusive - Polaris"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "Era of Chaos Polaris. Polaris. Era of Chaos Exclusive Polaris. Magic Airship Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Magic Airship Polaris.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Polaris Token](/Items/con_878/) | Magic Airship deals damage equal to 150% of own ATK to 3 random enemy units and decreases their Unit DMG by 20% for 7s. CD is 21s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Polaris Token](/Items/con_878/) | Increases Magic Airship's Attack Speed by 10% and ATK by 20%. |

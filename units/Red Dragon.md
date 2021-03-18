@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Red Dragon"
 toc: true
@@ -164,6 +164,7 @@ toc: true
 
 * **Dungeon**  (Dungeon Rosters)
 * **Offensive**  (Offensive Unit Roster)
+* **SSR**  (SSR)
 
 ### Hero Bonus
 * [Kendal](/heroes/Kendal/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 

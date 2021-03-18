@@ -2,7 +2,7 @@
 title: "Exclusive - Sword"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Regnan Pirates Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Regnan Pirates Sword.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Sword Token](/Items/con_165/) | Triggers a powerful counter when attacked, and deals 300% damage to enemies. CD is 8s |
   | **1x** <i class="fas fa-star"/> | **50x** [Sword Token](/Items/con_165/) | When attacking, it has a 50% chance to infect hostile units with <scurvy>, causing them to lose 1% HP per second while decreasing their healing by 35% for 3s (No stack) |

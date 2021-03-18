@@ -2,7 +2,7 @@
 title: "Exclusive - "
 permalink: /Exclusive/Regnan Seer /
 excerpt: "Era of Chaos . . Era of Chaos Exclusive . Regnan Seer Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Regnan Seer .md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |
   | **1x** <i class="fas fa-star"/> | **50x** [The City by the Ocean Banner Soul](/Items/con_987/) |  |

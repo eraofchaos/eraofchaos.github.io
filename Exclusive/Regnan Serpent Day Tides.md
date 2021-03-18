@@ -2,7 +2,7 @@
 title: "Exclusive - Day Tides"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Day Tides. Day Tides. Era of Chaos Exclusive Day Tides. Regnan Serpent Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Regnan Serpent Day Tides.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Day Tides Token](/Items/con_1406/) | <Endless Torrent> Regnan Serpent waves its trident, summoning the power of the tides to sweep through the enemy, dealing damage equal to 100% of own ATK to enemy units in a large area in front and decreasing their Attack Speed by 20% and Critical Hit DMG by 40%. Decreases the Tenacity and Dodge of enemy units inflicted with Slow by 200 each for 6s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Day Tides Token](/Items/con_1406/) | Increases Regnan Serpent's Unit DMG Reduction by 20%, and increases Unit DMG Reduction by an additional 20% when taking ranged attacks. |

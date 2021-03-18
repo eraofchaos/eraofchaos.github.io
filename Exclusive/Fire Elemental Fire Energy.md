@@ -2,7 +2,7 @@
 title: "Exclusive - Fire Energy"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Fire Energy. Fire Energy. Era of Chaos Exclusive Fire Energy. Fire Elemental Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Fire Elemental Fire Energy.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Fire Energy Token](/Items/con_1291/) | <Fire Trio> Fire Elemental manipulates balls of fire to deal AoE damage on target units at 3 phases every 20s. The attack ranges change from small, to smaller, and then wide in that order, and deal 90%, 120%, and 150% of ATK respectively. The burning effect on the target lasts for 5s |
   | **1x** <i class="fas fa-star"/> | **50x** [Fire Energy Token](/Items/con_1291/) | Fire Elemental's penetration is increased by 150 |

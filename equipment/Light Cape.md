@@ -2,7 +2,7 @@
 title: "Light Cape"
 permalink: /equipment/Light Cape/
 excerpt: "Era of Chaos Light Cape. Light Cape"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Light Cape.md"
 toc: false

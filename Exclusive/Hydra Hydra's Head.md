@@ -2,7 +2,7 @@
 title: "Exclusive - Hydra's Head"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Hydra's Head. Hydra's Head. Era of Chaos Exclusive Hydra's Head. Hydra Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Hydra Hydra's Head.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Hydra's Head Token](/Items/con_178/) | <Feeding Frenzy> Bites the enemy 1 time every 1s, attacking 5 times in total and dealing damage equal to 50% of own ATK each time. Decreases the enemy's Tenacity by 50 and increases own Critical Hit DMG by 4%. Stacks up to 5 times. This effect lasts for 3s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Hydra's Head Token](/Items/con_178/) | Increases Hydra's Unit DMG and ATK by 20% each. |

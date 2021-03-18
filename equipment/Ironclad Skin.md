@@ -2,7 +2,7 @@
 title: "Ironclad Skin"
 permalink: /equipment/Ironclad Skin/
 excerpt: "Era of Chaos Ironclad Skin. Ironclad Skin"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Ironclad Skin.md"
 toc: false

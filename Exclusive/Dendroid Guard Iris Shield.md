@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Dendroid Guard Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Dendroid Guard Iris Shield.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Iris Shield Token](/Items/con_155/) | <Arboreal Armor> Grants Dendroid Guard and 1 random Rampart unit a 10% increase to Unit DMG Reduction and a shield equal to 10% of Max HP. Lasts 8s. CD is 18s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_155/) | Increases Dendroid Guard's HP by 20% and Unit DMG Reduction by 10%. |

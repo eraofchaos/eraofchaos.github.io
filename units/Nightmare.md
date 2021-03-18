@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Nightmare"
 toc: true
@@ -154,6 +154,7 @@ toc: true
 
 * **Inferno**  (Inferno Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -171,40 +172,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Nightmare King
 
  **Awaking Description:** Emerging from the realm of dreams and crossing lava into the world of the living, its body is wrapped in a terrifying aura. The flames it breathes burn everything to ashes, and molten-hot magma flows through its veins. When it attacks, even the bravest of warriors are weakened with fear and struggle to raise their swords and fight it.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Deploy Nightmare with at least </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> Inferno units and kill 1,000 Dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Nightmare King souls in the Underground: Levels 17-2 and 17-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Deploy Nightmare and win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Arena battles.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Nightmare Shroud
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Stuck in a Nightmare&gt;</span><span style="color: #645252;font-size:18px"> Triggers once every 15s. Casts a curse within a certain range of the enemy unit with the lowest HP. The curse inflicts Sleep on affected enemies for 3s (they cannot move or attack), decreases their Unit DMG Reduction by 30%, and inflicts Burn on them for 5s (Burn effect cannot be dispelled).</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Deep Nightmare
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Stuck in a Nightmare&gt;</span><span style="color: #645252;font-size:18px"> Triggers once every 15s. The skill casts a curse that inflicts Sleep on enemy units for 5s (they cannot move or attack), decreases their DEF by 15%, and inflicts Burn on them for 5s (Burn effect cannot be dispelled).</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Dream Eater
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dreamcatcher&gt;</span><span style="color: #645252;font-size:18px"> Each attack additionally increases Unit DMG Reduction of friendly Inferno Units by 1%. Stacks up to 10 times. Lasts for 10s. Cannot be dispelled. Each Critical Hit dealt by Nightmare increases own Attack Speed and Attack Speed of Inferno Units by 1%. Stacks up to 20 times. Lasts 10s. Cannot be dispelled.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Induced Dream
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dreamcatcher&gt;</span><span style="color: #645252;font-size:18px"> Each attack additionally decreases Unit DMG Reduction of enemies by 2%. Stacks up to 20 times. Lasts 10s. Cannot be dispelled. Each Critical Hit dealt by Nightmare increases own Attack Speed and Attack Speed of Inferno Units by 1%. Stacks up to 20 times. Lasts for 10s. Cannot be dispelled.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Harbinger
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Omen&gt;</span><span style="color: #645252;font-size:18px"> Increases own DEF by 10% for every Inferno unit deployed. Whenever a unit dies in battle, there is a 50% chance for the CD time of friendly heroes' Ultimate Skills to be reduced by 2s.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Ill Omen
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Omen&gt;</span><span style="color: #645252;font-size:18px"> Increases own DEF by 10% for every Inferno unit deployed. Whenever a unit dies in battle, the friendly unit with the lowest HP recovers HP equal to 20% of their Max HP.</span>
 
 ## Technical info
  **runart:** 1

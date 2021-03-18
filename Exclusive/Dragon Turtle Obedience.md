@@ -2,7 +2,7 @@
 title: "Exclusive - Obedience"
 permalink: /Exclusive/Dragon Turtle Obedience/
 excerpt: "Era of Chaos Obedience. Obedience. Era of Chaos Exclusive Obedience. Dragon Turtle Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Dragon Turtle Obedience.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Obedience Token](/Items/con_610/) | <Shield Shell> Dragon Turtle casts <Shield Shell> every 20s. For the next 6s, increases the Dragon Turtle's DMG Reflection and Unit DMG Reduction by 20% each, and when attacked by enemy Melee units, decreases their Attack Speed and Unit DMG by 20% each. Also inflicts Deter. If the target is bleeding, additionally decreases DEF by 20%. |
   | **1x** <i class="fas fa-star"/> | **50x** [Obedience Token](/Items/con_610/) | Increases Dragon Turtle's Unit DMG Reduction by 20%. When friendly heroes cast water-type spells, Dragon Turtle gains a Bubble equal to 20% of own Max HP for 10s. CD is 7s. |

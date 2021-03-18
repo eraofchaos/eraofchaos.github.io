@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Demon"
 toc: true
@@ -159,6 +159,7 @@ toc: true
 
 * **Inferno**  (Inferno Roster)
 * **Defensive**  (Defensive Unit Roster)
+* **SR**  (SR)
 
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -176,40 +177,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Inferno Guard
 
- **Awaking Description:** null
+ **Awaking Description:** If one were to say who was the most impartial person in this world, that would undoubtedly be the bloody-handed, steel-faced Inferno Guard. Be it demons or spirits, sages or thieves, those who are chosen by the Inferno Guard and sent to the Cerberus Gate have no other choice but to descend into the blazing flames.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Demon with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Inferno units and complete Dragon Utopia </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Inferno Guard souls in the Underground: Levels 15-2 and 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Demon and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Scalding Impact
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Scalding Strike&gt;</span><span style="color: #645252;font-size:18px"> Additionally decreased the Critical Hit of enemy units within the target range by 200. If the target is inflicted with Silence, their Attack Speed will also be decreased by 15%. Lasts 7s.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Scalding Smite
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Scalding Strike&gt;</span><span style="color: #645252;font-size:18px"> Additionally decreased the Critical Hit of enemy units within the target range by 200. If the target is inflicted with Burn, their Attack Speed will also be decreased by 15%. Lasts 7s.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Blaze
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Warmth&gt;</span><span style="color: #645252;font-size:18px"> Additionally restores HP of Inferno Guard units equal to 50% of their own ATK.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Magma
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Warmth&gt;</span><span style="color: #645252;font-size:18px"> Increases recovery effects by 50%.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Demonic Minion
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Inferno Minion&gt;</span><span style="color: #645252;font-size:18px"> Demon's Tenacity increases by 80 every time they dodge. Stacks up to 5 times. Lasts for the whole battle.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Horned Minion
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Inferno Minion&gt;</span><span style="color: #645252;font-size:18px"> Demon's Tenacity increases by 300.</span>
 
 ## Technical info
  **runart:** 1

@@ -2,7 +2,7 @@
 title: "Exclusive - Break Waves"
 permalink: /Exclusive/Shark Trainer Break Waves/
 excerpt: "Era of Chaos Break Waves. Break Waves. Era of Chaos Exclusive Break Waves. Shark Trainer Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Shark Trainer Break Waves.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | ? | <Tempest> Every 15s, Shark Trainer waves their blade, dealing 100% damage to all enemy units within a large range. Also inflicts Deter and decreases the Unit DMG of enemy units by 30% for 7s. |
   | **1x** <i class="fas fa-star"/> | ? | Increases Shark Trainer and Sharks' Critical Hit by 400. |

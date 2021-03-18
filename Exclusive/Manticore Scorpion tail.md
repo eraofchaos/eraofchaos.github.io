@@ -2,7 +2,7 @@
 title: "Exclusive - Scorpion Tail"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Scorpion Tail. Scorpion Tail. Era of Chaos Exclusive Scorpion Tail. Manticore Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Manticore Scorpion Tail.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Scorpion Tail Token](/Items/con_887/) | <Scorpion Raid> Manticore launches a 3-stage damage attack on a target unit every 20s, causing 100%, 125%, and 150% damage respectively and applying \"scorpion venom\" on the target. At the same time, the target unit's tenacity and dodge will be decreased by 200 for 5s |
   | **1x** <i class="fas fa-star"/> | **50x** [Scorpion Tail Token](/Items/con_887/) | Manticore's unit's damage increased by 25% |

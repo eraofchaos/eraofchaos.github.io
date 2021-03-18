@@ -2,7 +2,7 @@
 title: "Exclusive - Waspwort Leaf"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Waspwort Leaf. Waspwort Leaf. Era of Chaos Exclusive Waspwort Leaf. Waspwort Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Waspwort Waspwort Leaf.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | ? | <Lethal Poison> Every 4s, Waspwort summons Waspwort Leaves to 1 random enemy unit. (When randomly summoning to the same enemy unit, the effect will stack.) Wasps perched on Waspwort Leaves deal damage equal to 10% of own ATK to enemy units every second, and have a 10% chance to inflict Silence for 3s. CD is 9s. |
   | **1x** <i class="fas fa-star"/> | ? | Increases Waspwort's Unit DMG by 15% and DEF Pierce by 150. |
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | ? | <Poisonous Leaf> When friendly summoned creatures die, Waspwort controls Waspwort Leaves to inject poison into enemy units, inflicting Paralysis for 5s. At the same time, also purifies to remove 1 stack of buff. |
   | **4x** <i class="fas fa-star"/> | ? | Increases own Unit DMG by 6% for every Fortress unit on the battlefield. |
   | **5x** <i class="fas fa-star"/> | ? | The first time Waspwort's HP falls below 33%, increases Unit DMG Reduction by 40% for 7s. Cannot be dispelled. Also inflicts Stun to enemy units in a small range around it for 5s. |
-  | **6x** <i class="fas fa-star"/> | ? | <Venomous Corrosion> When Waspwort lands a critical hit, they have a 20% chance to deal an additional 40% damage and reduce their Unit DMG Reduction by 7% and Shield Value by 70 for 8s. Stacks up to 3 times. |
+  | **6x** <i class="fas fa-star"/> | ? | <Venomous Corrosion> When Waspwort lands a critical hit, they have a 20% chance to deal an additional 40% damage and reduce their Unit DMG Reduction by 7% and Block Value by 70 for 8s. Stacks up to 3 times. |
 
 
 ## Level Up

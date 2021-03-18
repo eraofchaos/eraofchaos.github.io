@@ -2,7 +2,7 @@
 title: "Exclusive - Lyra"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lyra. Lyra. Era of Chaos Exclusive Lyra. Genie Exclusive."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Genie Lyra.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rank Up
 
-  |     Stars    |  Required to Up | Exclusive Effect |
+  |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Lyra Token](/Items/con_1119/) | <Lamp Guardian> Genie receives a stack of Lamp Guardian every 5s. Each stack increases Unit DMG Reduction by 2% and lasts for the whole battle. Stacks up to 20 times. When Genie takes damage, it is granted another stack of Lamp Guardian. |
   | **1x** <i class="fas fa-star"/> | **50x** [Lyra Token](/Items/con_1119/) | Increases Genie's DEF by 20%. |

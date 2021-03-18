@@ -2,7 +2,7 @@
 title: "Light Crossbow"
 permalink: /equipment/Light Crossbow/
 excerpt: "Era of Chaos Light Crossbow. Light Crossbow"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: en
 ref: "Light Crossbow.md"
 toc: false
