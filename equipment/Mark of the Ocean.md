@@ -2,12 +2,19 @@
 title: "Mark of the Ocean"
 permalink: /equipment/Mark of the Ocean/
 excerpt: "Era of Chaos Mark of the Ocean. Mark of the Ocean"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mark of the Ocean.md"
 toc: false
 classes: wide
 ---
+
+  ![Mark of the Ocean](/images/e/e_9033.png)
+
+## Used by Units:
+
+* [Ice Elemental](/units/Ice Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

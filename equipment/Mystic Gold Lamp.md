@@ -2,12 +2,19 @@
 title: "Mystic Gold Lamp"
 permalink: /equipment/Mystic Gold Lamp/
 excerpt: "Era of Chaos Mystic Gold Lamp. Mystic Gold Lamp"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mystic Gold Lamp.md"
 toc: false
 classes: wide
 ---
+
+  ![Mystic Gold Lamp](/images/e/e_6051.png)
+
+## Used by Units:
+
+* [Genie](/units/Genie/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

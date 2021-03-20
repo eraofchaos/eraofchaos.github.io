@@ -2,12 +2,19 @@
 title: "Long Staff of Mystic Power"
 permalink: /equipment/Long Staff of Mystic Power/
 excerpt: "Era of Chaos Long Staff of Mystic Power. Long Staff of Mystic Power"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Long Staff of Mystic Power.md"
 toc: false
 classes: wide
 ---
+
+  ![Long Staff of Mystic Power](/images/e/e_6041.png)
+
+## Used by Units:
+
+* [Arch Mage](/units/Arch Mage/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "Pauldrons of Molten Lava"
 permalink: /equipment/Pauldrons of Molten Lava/
 excerpt: "Era of Chaos Pauldrons of Molten Lava. Pauldrons of Molten Lava"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pauldrons of Molten Lava.md"
 toc: false
 classes: wide
 ---
+
+  ![Pauldrons of Molten Lava](/images/e/e_5074.png)
+
+## Used by Units:
+
+* [Devil](/units/Devil/) 
+
 
 ## Basic stats
  **Stat 1:** HP

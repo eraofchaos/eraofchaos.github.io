@@ -2,12 +2,19 @@
 title: "Empire's Crest"
 permalink: /equipment/Empire's Crest/
 excerpt: "Era of Chaos Empire's Crest. Empire's Crest"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Empire's Crest.md"
 toc: false
 classes: wide
 ---
+
+  ![Empire's Crest](/images/e/e_1034.png)
+
+## Used by Units:
+
+* [Griffin](/units/Griffin/) 
+
 
 ## Basic stats
  **Stat 1:** HP

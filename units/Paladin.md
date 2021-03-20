@@ -3,7 +3,7 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Paladin"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Judgment Sword](/equipment/Judgment Sword/) | **ATK** | **DEF** | 
-  | [Vow Helmet](/equipment/Vow Helmet/) | **HP** | **DEF** | 
-  | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **ATK** | **DEF** | 
-  | [Forged Bracers](/equipment/Forged Bracers/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Judgment Sword](/images/e/e_1081.png) | [Judgment Sword](/equipment/Judgment Sword/) | **ATK** | **DEF** | 
+  | ![Vow Helmet](/images/e/e_1082.png) | [Vow Helmet](/equipment/Vow Helmet/) | **HP** | **DEF** | 
+  | ![Iron Pauldrons](/images/e/e_1083.png) | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **ATK** | **DEF** | 
+  | ![Forged Bracers](/images/e/e_1084.png) | [Forged Bracers](/equipment/Forged Bracers/) | **HP** | **DEF** | 
 
 ## Exclusive
 

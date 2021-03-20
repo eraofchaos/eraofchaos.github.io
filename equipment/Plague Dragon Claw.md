@@ -2,12 +2,19 @@
 title: "Plague Dragon Claw"
 permalink: /equipment/Plague Dragon Claw/
 excerpt: "Era of Chaos Plague Dragon Claw. Plague Dragon Claw"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Plague Dragon Claw.md"
 toc: false
 classes: wide
 ---
+
+  ![Plague Dragon Claw](/images/e/e_8073.png)
+
+## Used by Units:
+
+* [Hydra](/units/Hydra/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

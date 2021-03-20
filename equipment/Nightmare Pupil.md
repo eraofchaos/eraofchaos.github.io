@@ -2,12 +2,19 @@
 title: "Nightmare Pupil"
 permalink: /equipment/Nightmare Pupil/
 excerpt: "Era of Chaos Nightmare Pupil. Nightmare Pupil"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Nightmare Pupil.md"
 toc: false
 classes: wide
 ---
+
+  ![Nightmare Pupil](/images/e/e_5081.png)
+
+## Used by Units:
+
+* [Nightmare](/units/Nightmare/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

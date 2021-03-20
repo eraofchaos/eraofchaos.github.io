@@ -2,12 +2,19 @@
 title: "Charmed Light Armor"
 permalink: /equipment/Charmed Light Armor/
 excerpt: "Era of Chaos Charmed Light Armor. Charmed Light Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Charmed Light Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Charmed Light Armor](/images/e/e_5052.png)
+
+## Used by Units:
+
+* [Pit Fiend](/units/Pit Fiend/) 
+
 
 ## Basic stats
  **Stat 1:** HP

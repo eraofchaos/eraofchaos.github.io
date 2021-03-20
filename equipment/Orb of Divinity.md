@@ -2,12 +2,19 @@
 title: "Orb of Divinity"
 permalink: /equipment/Orb of Divinity/
 excerpt: "Era of Chaos Orb of Divinity. Orb of Divinity"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Orb of Divinity.md"
 toc: false
 classes: wide
 ---
+
+  ![Orb of Divinity](/images/e/e_1051.png)
+
+## Used by Units:
+
+* [Monk](/units/Monk/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

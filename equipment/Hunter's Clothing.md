@@ -2,12 +2,19 @@
 title: "Hunter's Clothing"
 permalink: /equipment/Hunter's Clothing/
 excerpt: "Era of Chaos Hunter's Clothing. Hunter's Clothing"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Hunter's Clothing.md"
 toc: false
 classes: wide
 ---
+
+  ![Hunter's Clothing](/images/e/e_99024.png)
+
+## Used by Units:
+
+* [Regnan Archer](/units/Regnan Archer/) 
+
 
 ## Basic stats
  **Stat 1:** HP

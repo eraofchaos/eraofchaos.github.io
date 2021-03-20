@@ -2,12 +2,19 @@
 title: "Throne of Ice"
 permalink: /equipment/Throne of Ice/
 excerpt: "Era of Chaos Throne of Ice. Throne of Ice"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Throne of Ice.md"
 toc: false
 classes: wide
 ---
+
+  ![Throne of Ice](/images/e/e_9084.png)
+
+## Used by Units:
+
+* [Ice Demon](/units/Ice Demon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

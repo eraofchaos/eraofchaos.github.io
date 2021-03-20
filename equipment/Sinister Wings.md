@@ -2,12 +2,19 @@
 title: "Sinister Wings"
 permalink: /equipment/Sinister Wings/
 excerpt: "Era of Chaos Sinister Wings. Sinister Wings"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sinister Wings.md"
 toc: false
 classes: wide
 ---
+
+  ![Sinister Wings](/images/e/e_5013.png)
+
+## Used by Units:
+
+* [Imp](/units/Imp/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

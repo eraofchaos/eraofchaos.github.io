@@ -2,12 +2,19 @@
 title: "Necklace of Bone"
 permalink: /equipment/Necklace of Bone/
 excerpt: "Era of Chaos Necklace of Bone. Necklace of Bone"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Necklace of Bone.md"
 toc: false
 classes: wide
 ---
+
+  ![Necklace of Bone](/images/e/e_4013.png)
+
+## Used by Units:
+
+* [Goblin](/units/Goblin/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

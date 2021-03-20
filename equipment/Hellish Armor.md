@@ -2,12 +2,19 @@
 title: "Hellish Armor"
 permalink: /equipment/Hellish Armor/
 excerpt: "Era of Chaos Hellish Armor. Hellish Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Hellish Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Hellish Armor](/images/e/e_5032.png)
+
+## Used by Units:
+
+* [Hell Hound](/units/Hell Hound/) 
+
 
 ## Basic stats
  **Stat 1:** HP

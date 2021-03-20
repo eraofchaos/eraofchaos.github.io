@@ -2,12 +2,19 @@
 title: "Shackles of War"
 permalink: /equipment/Shackles of War/
 excerpt: "Era of Chaos Shackles of War. Shackles of War"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Shackles of War.md"
 toc: false
 classes: wide
 ---
+
+  ![Shackles of War](/images/e/e_4062.png)
+
+## Used by Units:
+
+* [Cyclops](/units/Cyclops/) 
+
 
 ## Basic stats
  **Stat 1:** HP

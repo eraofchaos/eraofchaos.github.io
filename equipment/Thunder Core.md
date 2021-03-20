@@ -2,12 +2,19 @@
 title: "Thunder Core"
 permalink: /equipment/Thunder Core/
 excerpt: "Era of Chaos Thunder Core. Thunder Core"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Thunder Core.md"
 toc: false
 classes: wide
 ---
+
+  ![Thunder Core](/images/e/e_9022.png)
+
+## Used by Units:
+
+* [Storm Elemental](/units/Storm Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

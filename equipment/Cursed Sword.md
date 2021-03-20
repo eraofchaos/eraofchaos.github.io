@@ -2,12 +2,19 @@
 title: "Cursed Sword"
 permalink: /equipment/Cursed Sword/
 excerpt: "Era of Chaos Cursed Sword. Cursed Sword"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Cursed Sword.md"
 toc: false
 classes: wide
 ---
+
+  ![Cursed Sword](/images/e/e_3061.png)
+
+## Used by Units:
+
+* [Black Knight](/units/Black Knight/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

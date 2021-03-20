@@ -2,12 +2,19 @@
 title: "Light Battle Armor"
 permalink: /equipment/Light Battle Armor/
 excerpt: "Era of Chaos Light Battle Armor. Light Battle Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Light Battle Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Light Battle Armor](/images/e/e_1072.png)
+
+## Used by Units:
+
+* [Angel](/units/Angel/) 
+
 
 ## Basic stats
  **Stat 1:** HP

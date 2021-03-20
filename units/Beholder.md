@@ -3,7 +3,7 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Beholder"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Eye of Blasphemy](/equipment/Eye of Blasphemy/) | **ATK** | **DEF** | 
-  | [Pupil of Death](/equipment/Pupil of Death/) | **HP** | **DEF** | 
-  | [Evil Tusk](/equipment/Evil Tusk/) | **ATK** | **DEF** | 
-  | [Tentacles from the Abyss](/equipment/Tentacles from the Abyss/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Eye of Blasphemy](/images/e/e_7031.png) | [Eye of Blasphemy](/equipment/Eye of Blasphemy/) | **ATK** | **DEF** | 
+  | ![Pupil of Death](/images/e/e_7032.png) | [Pupil of Death](/equipment/Pupil of Death/) | **HP** | **DEF** | 
+  | ![Evil Tusk](/images/e/e_7033.png) | [Evil Tusk](/equipment/Evil Tusk/) | **ATK** | **DEF** | 
+  | ![Tentacles from the Abyss](/images/e/e_7034.png) | [Tentacles from the Abyss](/equipment/Tentacles from the Abyss/) | **HP** | **DEF** | 
 
 ## Exclusive
 

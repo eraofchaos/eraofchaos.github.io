@@ -2,12 +2,19 @@
 title: "Ironclad Scale"
 permalink: /equipment/Ironclad Scale/
 excerpt: "Era of Chaos Ironclad Scale. Ironclad Scale"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ironclad Scale.md"
 toc: false
 classes: wide
 ---
+
+  ![Ironclad Scale](/images/e/e_7074.png)
+
+## Used by Units:
+
+* [Black Dragon](/units/Black Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

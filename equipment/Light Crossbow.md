@@ -2,12 +2,19 @@
 title: "Light Crossbow"
 permalink: /equipment/Light Crossbow/
 excerpt: "Era of Chaos Light Crossbow. Light Crossbow"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Light Crossbow.md"
 toc: false
 classes: wide
 ---
+
+  ![Light Crossbow](/images/e/e_1021.png)
+
+## Used by Units:
+
+* [Marksman](/units/Marksman/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

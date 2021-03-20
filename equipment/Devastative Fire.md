@@ -2,12 +2,19 @@
 title: "Devastative Fire"
 permalink: /equipment/Devastative Fire/
 excerpt: "Era of Chaos Devastative Fire. Devastative Fire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Devastative Fire.md"
 toc: false
 classes: wide
 ---
+
+  ![Devastative Fire](/images/e/e_7072.png)
+
+## Used by Units:
+
+* [Black Dragon](/units/Black Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

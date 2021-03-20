@@ -2,12 +2,19 @@
 title: "Warrior's Bracers"
 permalink: /equipment/Warrior's Bracers/
 excerpt: "Era of Chaos Warrior's Bracers. Warrior's Bracers"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Warrior's Bracers.md"
 toc: false
 classes: wide
 ---
+
+  ![Warrior's Bracers](/images/e/e_8022.png)
+
+## Used by Units:
+
+* [Lizardman](/units/Lizardman/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Magic Claw"
 permalink: /equipment/Magic Claw/
 excerpt: "Era of Chaos Magic Claw. Magic Claw"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Magic Claw.md"
 toc: false
 classes: wide
 ---
+
+  ![Magic Claw](/images/e/e_9023.png)
+
+## Used by Units:
+
+* [Storm Elemental](/units/Storm Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

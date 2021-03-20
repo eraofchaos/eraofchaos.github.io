@@ -2,12 +2,19 @@
 title: "Alloy Armor"
 permalink: /equipment/Alloy Armor/
 excerpt: "Era of Chaos Alloy Armor. Alloy Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Alloy Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Alloy Armor](/images/e/e_6094.png)
+
+## Used by Units:
+
+* [Dragon Golem](/units/Dragon Golem/) 
+
 
 ## Basic stats
  **Stat 1:** HP

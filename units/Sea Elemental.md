@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sea Elemental"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Eternal Tear](/equipment/Eternal Tear/) | **ATK** | **DEF** | 
-  | [Core of Water Elemental](/equipment/Core of Water Elemental/) | **HP** | **DEF** | 
-  | [Wavy Flow](/equipment/Wavy Flow/) | **ATK** | **DEF** | 
-  | [Vortex Scar](/equipment/Vortex Scar/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Eternal Tear](/images/e/e_99031.png) | [Eternal Tear](/equipment/Eternal Tear/) | **ATK** | **DEF** | 
+  | ![Core of Water Elemental](/images/e/e_99032.png) | [Core of Water Elemental](/equipment/Core of Water Elemental/) | **HP** | **DEF** | 
+  | ![Wavy Flow](/images/e/e_99033.png) | [Wavy Flow](/equipment/Wavy Flow/) | **ATK** | **DEF** | 
+  | ![Vortex Scar](/images/e/e_99034.png) | [Vortex Scar](/equipment/Vortex Scar/) | **HP** | **DEF** | 
 
 ## Exclusive
 

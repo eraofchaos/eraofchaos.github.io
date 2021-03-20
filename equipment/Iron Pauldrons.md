@@ -2,12 +2,19 @@
 title: "Iron Pauldrons"
 permalink: /equipment/Iron Pauldrons/
 excerpt: "Era of Chaos Iron Pauldrons. Iron Pauldrons"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Iron Pauldrons.md"
 toc: false
 classes: wide
 ---
+
+  ![Iron Pauldrons](/images/e/e_1083.png)
+
+## Used by Units:
+
+* [Paladin](/units/Paladin/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

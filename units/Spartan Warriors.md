@@ -3,7 +3,7 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Spartan Warriors"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Spartan Helmet](/equipment/Spartan Helmet/) | **ATK** | **DEF** | 
-  | [Steel Shield](/equipment/Steel Shield/) | **HP** | **DEF** | 
-  | [Piercing Spear](/equipment/Piercing Spear/) | **ATK** | **DEF** | 
-  | [Footwraps](/equipment/Footwraps/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  |  | [Spartan Helmet](/equipment/Spartan Helmet/) | **ATK** | **DEF** | 
+  |  | [Steel Shield](/equipment/Steel Shield/) | **HP** | **DEF** | 
+  |  | [Piercing Spear](/equipment/Piercing Spear/) | **ATK** | **DEF** | 
+  |  | [Footwraps](/equipment/Footwraps/) | **HP** | **DEF** | 
 
 ## Exclusive
 

@@ -2,12 +2,19 @@
 title: "Deep Ice Crystal"
 permalink: /equipment/Deep Ice Crystal/
 excerpt: "Era of Chaos Deep Ice Crystal. Deep Ice Crystal"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Deep Ice Crystal.md"
 toc: false
 classes: wide
 ---
+
+  ![Deep Ice Crystal](/images/e/e_9031.png)
+
+## Used by Units:
+
+* [Ice Elemental](/units/Ice Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

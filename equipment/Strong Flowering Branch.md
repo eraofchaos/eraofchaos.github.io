@@ -2,12 +2,19 @@
 title: "Strong Flowering Branch"
 permalink: /equipment/Strong Flowering Branch/
 excerpt: "Era of Chaos Strong Flowering Branch. Strong Flowering Branch"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Strong Flowering Branch.md"
 toc: false
 classes: wide
 ---
+
+  ![Strong Flowering Branch](/images/e/e_8081.png)
+
+## Used by Units:
+
+* [Waspwort](/units/Waspwort/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "Bloodthirsty Belt"
 permalink: /equipment/Bloodthirsty Belt/
 excerpt: "Era of Chaos Bloodthirsty Belt. Bloodthirsty Belt"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bloodthirsty Belt.md"
 toc: false
 classes: wide
 ---
+
+  ![Bloodthirsty Belt](/images/e/e_3041.png)
+
+## Used by Units:
+
+* [Vampire](/units/Vampire/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -3,7 +3,7 @@ title: "Black Knight"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Black Knights are possessed by terrifying curses. They wander Necropolis killing any living being who crosses their path."
 unitID: 306
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Black Knight"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cursed Sword](/equipment/Cursed Sword/) | **ATK** | **DEF** | 
-  | [Visor of the Dead](/equipment/Visor of the Dead/) | **HP** | **DEF** | 
-  | [Bracer of Nightmares](/equipment/Bracer of Nightmares/) | **ATK** | **DEF** | 
-  | [Nightmare Pauldrons](/equipment/Nightmare Pauldrons/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cursed Sword](/images/e/e_3061.png) | [Cursed Sword](/equipment/Cursed Sword/) | **ATK** | **DEF** | 
+  | ![Visor of the Dead](/images/e/e_3062.png) | [Visor of the Dead](/equipment/Visor of the Dead/) | **HP** | **DEF** | 
+  | ![Bracer of Nightmares](/images/e/e_3063.png) | [Bracer of Nightmares](/equipment/Bracer of Nightmares/) | **ATK** | **DEF** | 
+  | ![Nightmare Pauldrons](/images/e/e_3064.png) | [Nightmare Pauldrons](/equipment/Nightmare Pauldrons/) | **HP** | **DEF** | 
 
 ## Exclusive
 

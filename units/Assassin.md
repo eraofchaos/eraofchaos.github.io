@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Assassin"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Assassin's Hood](/equipment/Assassin's Hood/) | **ATK** | **DEF** | 
-  | [Hidden Blade](/equipment/Hidden Blade/) | **HP** | **DEF** | 
-  | [Assassin's Belt](/equipment/Assassin's Belt/) | **ATK** | **DEF** | 
-  | [Leather Boots](/equipment/Leather Boots/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  |  | [Assassin's Hood](/equipment/Assassin's Hood/) | **ATK** | **DEF** | 
+  |  | [Hidden Blade](/equipment/Hidden Blade/) | **HP** | **DEF** | 
+  |  | [Assassin's Belt](/equipment/Assassin's Belt/) | **ATK** | **DEF** | 
+  |  | [Leather Boots](/equipment/Leather Boots/) | **HP** | **DEF** | 
 
 ## Exclusive
 

@@ -2,12 +2,19 @@
 title: "Sickle of Silence"
 permalink: /equipment/Sickle of Silence/
 excerpt: "Era of Chaos Sickle of Silence. Sickle of Silence"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sickle of Silence.md"
 toc: false
 classes: wide
 ---
+
+  ![Sickle of Silence](/images/e/e_3091.png)
+
+## Used by Units:
+
+* [Dark Champion](/units/Dark Champion/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

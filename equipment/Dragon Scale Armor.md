@@ -2,12 +2,19 @@
 title: "Dragon Scale Armor"
 permalink: /equipment/Dragon Scale Armor/
 excerpt: "Era of Chaos Dragon Scale Armor. Dragon Scale Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dragon Scale Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Dragon Scale Armor](/images/e/e_2072.png)
+
+## Used by Units:
+
+* [Green Dragon](/units/Green Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

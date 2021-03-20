@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Fire Elemental"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Core of Fire](/equipment/Core of Fire/) | **ATK** | **DEF** | 
-  | [Boiling Shield](/equipment/Boiling Shield/) | **HP** | **DEF** | 
-  | [Beholder of Sapphire](/equipment/Beholder of Sapphire/) | **ATK** | **DEF** | 
-  | [Navy Blue Sharp Claw](/equipment/Navy Blue Sharp Claw/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Core of Fire](/images/e/e_9041.png) | [Core of Fire](/equipment/Core of Fire/) | **ATK** | **DEF** | 
+  | ![Boiling Shield](/images/e/e_9042.png) | [Boiling Shield](/equipment/Boiling Shield/) | **HP** | **DEF** | 
+  | ![Beholder of Sapphire](/images/e/e_9043.png) | [Beholder of Sapphire](/equipment/Beholder of Sapphire/) | **ATK** | **DEF** | 
+  | ![Navy Blue Sharp Claw](/images/e/e_9044.png) | [Navy Blue Sharp Claw](/equipment/Navy Blue Sharp Claw/) | **HP** | **DEF** | 
 
 ## Exclusive
 

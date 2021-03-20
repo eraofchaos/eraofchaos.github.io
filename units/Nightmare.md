@@ -3,7 +3,7 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Nightmare"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Nightmare Pupil](/equipment/Nightmare Pupil/) | **ATK** | **DEF** | 
-  | [Fire in the Abyss](/equipment/Fire in the Abyss/) | **HP** | **DEF** | 
-  | [Ash Horseshoe](/equipment/Ash Horseshoe/) | **ATK** | **DEF** | 
-  | [Horsehair of Fire](/equipment/Horsehair of Fire/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Nightmare Pupil](/images/e/e_5081.png) | [Nightmare Pupil](/equipment/Nightmare Pupil/) | **ATK** | **DEF** | 
+  | ![Fire in the Abyss](/images/e/e_5082.png) | [Fire in the Abyss](/equipment/Fire in the Abyss/) | **HP** | **DEF** | 
+  | ![Ash Horseshoe](/images/e/e_5083.png) | [Ash Horseshoe](/equipment/Ash Horseshoe/) | **ATK** | **DEF** | 
+  | ![Horsehair of Fire](/images/e/e_5084.png) | [Horsehair of Fire](/equipment/Horsehair of Fire/) | **HP** | **DEF** | 
 
 ## Exclusive
 

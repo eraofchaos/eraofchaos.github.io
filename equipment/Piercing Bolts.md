@@ -2,12 +2,19 @@
 title: "Piercing Bolts"
 permalink: /equipment/Piercing Bolts/
 excerpt: "Era of Chaos Piercing Bolts. Piercing Bolts"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Piercing Bolts.md"
 toc: false
 classes: wide
 ---
+
+  ![Piercing Bolts](/images/e/e_1023.png)
+
+## Used by Units:
+
+* [Marksman](/units/Marksman/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

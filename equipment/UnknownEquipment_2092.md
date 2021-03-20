@@ -2,12 +2,19 @@
 title: "UnknownEquipment_2092"
 permalink: /equipment/UnknownEquipment_2092/
 excerpt: "Era of Chaos UnknownEquipment_2092. UnknownEquipment_2092"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "UnknownEquipment_2092.md"
 toc: false
 classes: wide
 ---
+
+  ![UnknownEquipment_2092](/images/e/e_2092.png)
+
+## Used by Units:
+
+* [Mantis](/units/Mantis/) 
+
 
 ## Basic stats
  **Stat 1:** HP

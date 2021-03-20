@@ -2,12 +2,19 @@
 title: "Strange Crystal Ornament"
 permalink: /equipment/Strange Crystal Ornament/
 excerpt: "Era of Chaos Strange Crystal Ornament. Strange Crystal Ornament"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Strange Crystal Ornament.md"
 toc: false
 classes: wide
 ---
+
+  ![Strange Crystal Ornament](/images/e/e_6052.png)
+
+## Used by Units:
+
+* [Genie](/units/Genie/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Barbarian Back Armor"
 permalink: /equipment/Barbarian Back Armor/
 excerpt: "Era of Chaos Barbarian Back Armor. Barbarian Back Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Barbarian Back Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Barbarian Back Armor](/images/e/e_8052.png)
+
+## Used by Units:
+
+* [Gorgon](/units/Gorgon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

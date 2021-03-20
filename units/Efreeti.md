@@ -3,7 +3,7 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Efreeti"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Orb of Flame](/equipment/Orb of Flame/) | **ATK** | **DEF** | 
-  | [Light Armor of Flame](/equipment/Light Armor of Flame/) | **HP** | **DEF** | 
-  | [Bracers of Flame](/equipment/Bracers of Flame/) | **ATK** | **DEF** | 
-  | [Pauldrons of Flame](/equipment/Pauldrons of Flame/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Orb of Flame](/images/e/e_5061.png) | [Orb of Flame](/equipment/Orb of Flame/) | **ATK** | **DEF** | 
+  | ![Light Armor of Flame](/images/e/e_5062.png) | [Light Armor of Flame](/equipment/Light Armor of Flame/) | **HP** | **DEF** | 
+  | ![Bracers of Flame](/images/e/e_5063.png) | [Bracers of Flame](/equipment/Bracers of Flame/) | **ATK** | **DEF** | 
+  | ![Pauldrons of Flame](/images/e/e_5064.png) | [Pauldrons of Flame](/equipment/Pauldrons of Flame/) | **HP** | **DEF** | 
 
 ## Exclusive
 

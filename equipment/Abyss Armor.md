@@ -2,12 +2,19 @@
 title: "Abyss Armor"
 permalink: /equipment/Abyss Armor/
 excerpt: "Era of Chaos Abyss Armor. Abyss Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Abyss Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Abyss Armor](/images/e/e_7044.png)
+
+## Used by Units:
+
+* [Medusa](/units/Medusa/) 
+
 
 ## Basic stats
  **Stat 1:** HP

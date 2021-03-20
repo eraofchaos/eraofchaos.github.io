@@ -2,12 +2,19 @@
 title: "Scalding Teeth"
 permalink: /equipment/Scalding Teeth/
 excerpt: "Era of Chaos Scalding Teeth. Scalding Teeth"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Scalding Teeth.md"
 toc: false
 classes: wide
 ---
+
+  ![Scalding Teeth](/images/e/e_5031.png)
+
+## Used by Units:
+
+* [Hell Hound](/units/Hell Hound/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

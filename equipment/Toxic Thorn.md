@@ -2,12 +2,19 @@
 title: "Toxic Thorn"
 permalink: /equipment/Toxic Thorn/
 excerpt: "Era of Chaos Toxic Thorn. Toxic Thorn"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Toxic Thorn.md"
 toc: false
 classes: wide
 ---
+
+  ![Toxic Thorn](/images/e/e_8082.png)
+
+## Used by Units:
+
+* [Waspwort](/units/Waspwort/) 
+
 
 ## Basic stats
  **Stat 1:** HP

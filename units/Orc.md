@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Orc"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Throwing Axe](/equipment/Throwing Axe/) | **ATK** | **DEF** | 
-  | [Belt of Constraint](/equipment/Belt of Constraint/) | **HP** | **DEF** | 
-  | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **ATK** | **DEF** | 
-  | [Bloodthirsty Pauldrons](/equipment/Bloodthirsty Pauldrons/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Throwing Axe](/images/e/e_4031.png) | [Throwing Axe](/equipment/Throwing Axe/) | **ATK** | **DEF** | 
+  | ![Belt of Constraint](/images/e/e_4032.png) | [Belt of Constraint](/equipment/Belt of Constraint/) | **HP** | **DEF** | 
+  | ![Iron Pauldrons](/images/e/e_4033.png) | [Iron Pauldrons](/equipment/Iron Pauldrons/) | **ATK** | **DEF** | 
+  | ![Bloodthirsty Pauldrons](/images/e/e_4034.png) | [Bloodthirsty Pauldrons](/equipment/Bloodthirsty Pauldrons/) | **HP** | **DEF** | 
 
 ## Exclusive
 

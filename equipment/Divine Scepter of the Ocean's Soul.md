@@ -2,12 +2,19 @@
 title: "Divine Scepter of the Ocean's Soul"
 permalink: /equipment/Divine Scepter of the Ocean's Soul/
 excerpt: "Era of Chaos Divine Scepter of the Ocean's Soul. Divine Scepter of the Ocean's Soul"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Divine Scepter of the Ocean's Soul.md"
 toc: false
 classes: wide
 ---
+
+  ![Divine Scepter of the Ocean's Soul](/images/e/e_99071.png)
+
+## Used by Units:
+
+* [Regnan Seer](/units/Regnan Seer/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

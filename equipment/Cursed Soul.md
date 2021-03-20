@@ -2,12 +2,19 @@
 title: "Cursed Soul"
 permalink: /equipment/Cursed Soul/
 excerpt: "Era of Chaos Cursed Soul. Cursed Soul"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Cursed Soul.md"
 toc: false
 classes: wide
 ---
+
+  ![Cursed Soul](/images/e/e_3033.png)
+
+## Used by Units:
+
+* [Wight](/units/Wight/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

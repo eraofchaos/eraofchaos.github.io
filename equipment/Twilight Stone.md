@@ -2,12 +2,19 @@
 title: "Twilight Stone"
 permalink: /equipment/Twilight Stone/
 excerpt: "Era of Chaos Twilight Stone. Twilight Stone"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Twilight Stone.md"
 toc: false
 classes: wide
 ---
+
+  ![Twilight Stone](/images/e/e_9053.png)
+
+## Used by Units:
+
+* [Stone Elemental](/units/Stone Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

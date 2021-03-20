@@ -2,12 +2,19 @@
 title: "UnknownEquipment_8091"
 permalink: /equipment/UnknownEquipment_8091/
 excerpt: "Era of Chaos UnknownEquipment_8091. UnknownEquipment_8091"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "UnknownEquipment_8091.md"
 toc: false
 classes: wide
 ---
+
+  ![UnknownEquipment_8091](/images/e/e_8091.png)
+
+## Used by Units:
+
+* [White Tiger](/units/White Tiger/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

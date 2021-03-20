@@ -2,12 +2,19 @@
 title: "Short Robe of Verdurous Leaves"
 permalink: /equipment/Short Robe of Verdurous Leaves/
 excerpt: "Era of Chaos Short Robe of Verdurous Leaves. Short Robe of Verdurous Leaves"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Short Robe of Verdurous Leaves.md"
 toc: false
 classes: wide
 ---
+
+  ![Short Robe of Verdurous Leaves](/images/e/e_2034.png)
+
+## Used by Units:
+
+* [Wood Elf](/units/Wood Elf/) 
+
 
 ## Basic stats
  **Stat 1:** HP

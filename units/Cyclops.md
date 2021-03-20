@@ -3,7 +3,7 @@ title: "Cyclops"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Cyclops are known for their single eye and hulking body. They are furious and fierce. Their lineage can be traced back to demons."
 unitID: 406
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Cyclops"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Boulder](/equipment/Boulder/) | **ATK** | **DEF** | 
-  | [Shackles of War](/equipment/Shackles of War/) | **HP** | **DEF** | 
-  | [Spiked Bracers](/equipment/Spiked Bracers/) | **ATK** | **DEF** | 
-  | [Leather Trousers](/equipment/Leather Trousers/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Boulder](/images/e/e_4061.png) | [Boulder](/equipment/Boulder/) | **ATK** | **DEF** | 
+  | ![Shackles of War](/images/e/e_4062.png) | [Shackles of War](/equipment/Shackles of War/) | **HP** | **DEF** | 
+  | ![Spiked Bracers](/images/e/e_4063.png) | [Spiked Bracers](/equipment/Spiked Bracers/) | **ATK** | **DEF** | 
+  | ![Leather Trousers](/images/e/e_4064.png) | [Leather Trousers](/equipment/Leather Trousers/) | **HP** | **DEF** | 
 
 ## Exclusive
 

@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Griffin"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Serrated Claws](/equipment/Serrated Claws/) | **ATK** | **DEF** | 
-  | [Headplate of Speed](/equipment/Headplate of Speed/) | **HP** | **DEF** | 
-  | [Archgriffin Feather](/equipment/Archgriffin Feather/) | **ATK** | **DEF** | 
-  | [Empire's Crest](/equipment/Empire's Crest/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Serrated Claws](/images/e/e_1031.png) | [Serrated Claws](/equipment/Serrated Claws/) | **ATK** | **DEF** | 
+  | ![Headplate of Speed](/images/e/e_1032.png) | [Headplate of Speed](/equipment/Headplate of Speed/) | **HP** | **DEF** | 
+  | ![Archgriffin Feather](/images/e/e_1033.png) | [Archgriffin Feather](/equipment/Archgriffin Feather/) | **ATK** | **DEF** | 
+  | ![Empire's Crest](/images/e/e_1034.png) | [Empire's Crest](/equipment/Empire's Crest/) | **HP** | **DEF** | 
 
 ## Exclusive
 

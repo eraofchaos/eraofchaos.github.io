@@ -2,12 +2,19 @@
 title: "Gauntlets of the Wild"
 permalink: /equipment/Gauntlets of the Wild/
 excerpt: "Era of Chaos Gauntlets of the Wild. Gauntlets of the Wild"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gauntlets of the Wild.md"
 toc: false
 classes: wide
 ---
+
+  ![Gauntlets of the Wild](/images/e/e_2013.png)
+
+## Used by Units:
+
+* [Centaur](/units/Centaur/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

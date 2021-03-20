@@ -2,12 +2,19 @@
 title: "Enchanted Tail"
 permalink: /equipment/Enchanted Tail/
 excerpt: "Era of Chaos Enchanted Tail. Enchanted Tail"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Enchanted Tail.md"
 toc: false
 classes: wide
 ---
+
+  ![Enchanted Tail](/images/e/e_6024.png)
+
+## Used by Units:
+
+* [Stone Gargoyle](/units/Stone Gargoyle/) 
+
 
 ## Basic stats
  **Stat 1:** HP

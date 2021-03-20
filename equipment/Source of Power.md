@@ -2,12 +2,19 @@
 title: "Source of Power"
 permalink: /equipment/Source of Power/
 excerpt: "Era of Chaos Source of Power. Source of Power"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Source of Power.md"
 toc: false
 classes: wide
 ---
+
+  ![Source of Power](/images/e/e_9092.png)
+
+## Used by Units:
+
+* [Leprechaun](/units/Leprechaun/) 
+
 
 ## Basic stats
  **Stat 1:** HP

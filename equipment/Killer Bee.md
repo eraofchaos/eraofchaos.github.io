@@ -2,12 +2,19 @@
 title: "Killer Bee"
 permalink: /equipment/Killer Bee/
 excerpt: "Era of Chaos Killer Bee. Killer Bee"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Killer Bee.md"
 toc: false
 classes: wide
 ---
+
+  ![Killer Bee](/images/e/e_8084.png)
+
+## Used by Units:
+
+* [Waspwort](/units/Waspwort/) 
+
 
 ## Basic stats
  **Stat 1:** HP

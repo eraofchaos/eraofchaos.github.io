@@ -2,12 +2,19 @@
 title: "Obsidian Battle Axe"
 permalink: /equipment/Obsidian Battle Axe/
 excerpt: "Era of Chaos Obsidian Battle Axe. Obsidian Battle Axe"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Obsidian Battle Axe.md"
 toc: false
 classes: wide
 ---
+
+  ![Obsidian Battle Axe](/images/e/e_4081.png)
+
+## Used by Units:
+
+* [Berserker](/units/Berserker/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

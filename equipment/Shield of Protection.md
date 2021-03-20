@@ -2,12 +2,19 @@
 title: "Shield of Protection"
 permalink: /equipment/Shield of Protection/
 excerpt: "Era of Chaos Shield of Protection. Shield of Protection"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Shield of Protection.md"
 toc: false
 classes: wide
 ---
+
+  ![Shield of Protection](/images/e/e_1063.png)
+
+## Used by Units:
+
+* [Cavalier](/units/Cavalier/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

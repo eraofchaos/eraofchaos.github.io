@@ -3,7 +3,7 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Arch Mage"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Long Staff of Mystic Power](/equipment/Long Staff of Mystic Power/) | **ATK** | **DEF** | 
-  | [Crystal Crown of Magic](/equipment/Crystal Crown of Magic/) | **HP** | **DEF** | 
-  | [Mystic Orb of Mana](/equipment/Mystic Orb of Mana/) | **ATK** | **DEF** | 
-  | [Mantle of the Magi](/equipment/Mantle of the Magi/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Long Staff of Mystic Power](/images/e/e_6041.png) | [Long Staff of Mystic Power](/equipment/Long Staff of Mystic Power/) | **ATK** | **DEF** | 
+  | ![Crystal Crown of Magic](/images/e/e_6042.png) | [Crystal Crown of Magic](/equipment/Crystal Crown of Magic/) | **HP** | **DEF** | 
+  | ![Mystic Orb of Mana](/images/e/e_6043.png) | [Mystic Orb of Mana](/equipment/Mystic Orb of Mana/) | **ATK** | **DEF** | 
+  | ![Mantle of the Magi](/images/e/e_6044.png) | [Mantle of the Magi](/equipment/Mantle of the Magi/) | **HP** | **DEF** | 
 
 ## Exclusive
 

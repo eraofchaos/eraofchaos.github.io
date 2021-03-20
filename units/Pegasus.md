@@ -3,7 +3,7 @@ title: "Pegasus"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pegasus"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Thorn's Chakram](/equipment/Thorn's Chakram/) | **ATK** | **DEF** | 
-  | [Evergreen Circlet](/equipment/Evergreen Circlet/) | **HP** | **DEF** | 
-  | [Gauntlets of Roses](/equipment/Gauntlets of Roses/) | **ATK** | **DEF** | 
-  | [Armor of Wonder](/equipment/Armor of Wonder/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Thorn's Chakram](/images/e/e_2041.png) | [Thorn's Chakram](/equipment/Thorn's Chakram/) | **ATK** | **DEF** | 
+  | ![Evergreen Circlet](/images/e/e_2042.png) | [Evergreen Circlet](/equipment/Evergreen Circlet/) | **HP** | **DEF** | 
+  | ![Gauntlets of Roses](/images/e/e_2043.png) | [Gauntlets of Roses](/equipment/Gauntlets of Roses/) | **ATK** | **DEF** | 
+  | ![Armor of Wonder](/images/e/e_2044.png) | [Armor of Wonder](/equipment/Armor of Wonder/) | **HP** | **DEF** | 
 
 ## Exclusive
 

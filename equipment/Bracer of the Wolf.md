@@ -2,12 +2,19 @@
 title: "Bracer of the Wolf"
 permalink: /equipment/Bracer of the Wolf/
 excerpt: "Era of Chaos Bracer of the Wolf. Bracer of the Wolf"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bracer of the Wolf.md"
 toc: false
 classes: wide
 ---
+
+  ![Bracer of the Wolf](/images/e/e_4023.png)
+
+## Used by Units:
+
+* [Wolf Rider](/units/Wolf Rider/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

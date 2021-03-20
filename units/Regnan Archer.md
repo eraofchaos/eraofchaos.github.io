@@ -3,7 +3,7 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Regnan Archer"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ocean's Arbalest](/equipment/Ocean's Arbalest/) | **ATK** | **DEF** | 
-  | [Cap of Prestige](/equipment/Cap of Prestige/) | **HP** | **DEF** | 
-  | [Steel Arrow](/equipment/Steel Arrow/) | **ATK** | **DEF** | 
-  | [Hunter's Clothing](/equipment/Hunter's Clothing/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ocean's Arbalest](/images/e/e_99021.png) | [Ocean's Arbalest](/equipment/Ocean's Arbalest/) | **ATK** | **DEF** | 
+  | ![Cap of Prestige](/images/e/e_99022.png) | [Cap of Prestige](/equipment/Cap of Prestige/) | **HP** | **DEF** | 
+  | ![Steel Arrow](/images/e/e_99023.png) | [Steel Arrow](/equipment/Steel Arrow/) | **ATK** | **DEF** | 
+  | ![Hunter's Clothing](/images/e/e_99024.png) | [Hunter's Clothing](/equipment/Hunter's Clothing/) | **HP** | **DEF** | 
 
 ## Exclusive
 

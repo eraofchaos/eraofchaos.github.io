@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Goblin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Spiked Club](/equipment/Spiked Club/) | **ATK** | **DEF** | 
-  | [Leather Belt](/equipment/Leather Belt/) | **HP** | **DEF** | 
-  | [Necklace of Bone](/equipment/Necklace of Bone/) | **ATK** | **DEF** | 
-  | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Spiked Club](/images/e/e_4011.png) | [Spiked Club](/equipment/Spiked Club/) | **ATK** | **DEF** | 
+  | ![Leather Belt](/images/e/e_4012.png) | [Leather Belt](/equipment/Leather Belt/) | **HP** | **DEF** | 
+  | ![Necklace of Bone](/images/e/e_4013.png) | [Necklace of Bone](/equipment/Necklace of Bone/) | **ATK** | **DEF** | 
+  | ![Leather Pauldrons](/images/e/e_4014.png) | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **HP** | **DEF** | 
 
 ## Exclusive
 

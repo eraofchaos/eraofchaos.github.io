@@ -2,12 +2,19 @@
 title: "Sinister Light Armor"
 permalink: /equipment/Sinister Light Armor/
 excerpt: "Era of Chaos Sinister Light Armor. Sinister Light Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sinister Light Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Sinister Light Armor](/images/e/e_5014.png)
+
+## Used by Units:
+
+* [Imp](/units/Imp/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Protective Strap"
 permalink: /equipment/Protective Strap/
 excerpt: "Era of Chaos Protective Strap. Protective Strap"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Protective Strap.md"
 toc: false
 classes: wide
 ---
+
+  ![Protective Strap](/images/e/e_99093.png)
+
+## Used by Units:
+
+* [Shark Trainer](/units/Shark Trainer/) 
+
 
 ## Basic stats
  **Stat 1:** HP

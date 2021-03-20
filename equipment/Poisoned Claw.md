@@ -2,12 +2,19 @@
 title: "Poisoned Claw"
 permalink: /equipment/Poisoned Claw/
 excerpt: "Era of Chaos Poisoned Claw. Poisoned Claw"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Poisoned Claw.md"
 toc: false
 classes: wide
 ---
+
+  ![Poisoned Claw](/images/e/e_8043.png)
+
+## Used by Units:
+
+* [Basilisk](/units/Basilisk/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

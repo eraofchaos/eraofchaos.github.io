@@ -2,12 +2,19 @@
 title: "Draconic Skull"
 permalink: /equipment/Draconic Skull/
 excerpt: "Era of Chaos Draconic Skull. Draconic Skull"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Draconic Skull.md"
 toc: false
 classes: wide
 ---
+
+  ![Draconic Skull](/images/e/e_3072.png)
+
+## Used by Units:
+
+* [Bone Dragon](/units/Bone Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

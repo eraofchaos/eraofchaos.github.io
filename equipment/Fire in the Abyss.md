@@ -2,12 +2,19 @@
 title: "Fire in the Abyss"
 permalink: /equipment/Fire in the Abyss/
 excerpt: "Era of Chaos Fire in the Abyss. Fire in the Abyss"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Fire in the Abyss.md"
 toc: false
 classes: wide
 ---
+
+  ![Fire in the Abyss](/images/e/e_5082.png)
+
+## Used by Units:
+
+* [Nightmare](/units/Nightmare/) 
+
 
 ## Basic stats
  **Stat 1:** HP

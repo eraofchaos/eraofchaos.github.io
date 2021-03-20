@@ -2,12 +2,19 @@
 title: "Core of Water Elemental"
 permalink: /equipment/Core of Water Elemental/
 excerpt: "Era of Chaos Core of Water Elemental. Core of Water Elemental"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Core of Water Elemental.md"
 toc: false
 classes: wide
 ---
+
+  ![Core of Water Elemental](/images/e/e_99032.png)
+
+## Used by Units:
+
+* [Sea Elemental](/units/Sea Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

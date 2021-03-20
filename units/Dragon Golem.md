@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dragon Golem"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Alloy Claw](/equipment/Alloy Claw/) | **ATK** | **DEF** | 
-  | [Titanium Dragon Head](/equipment/Titanium Dragon Head/) | **HP** | **DEF** | 
-  | [Main Control Stick](/equipment/Main Control Stick/) | **ATK** | **DEF** | 
-  | [Alloy Armor](/equipment/Alloy Armor/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Alloy Claw](/images/e/e_6091.png) | [Alloy Claw](/equipment/Alloy Claw/) | **ATK** | **DEF** | 
+  | ![Titanium Dragon Head](/images/e/e_6092.png) | [Titanium Dragon Head](/equipment/Titanium Dragon Head/) | **HP** | **DEF** | 
+  | ![Main Control Stick](/images/e/e_6093.png) | [Main Control Stick](/equipment/Main Control Stick/) | **ATK** | **DEF** | 
+  | ![Alloy Armor](/images/e/e_6094.png) | [Alloy Armor](/equipment/Alloy Armor/) | **HP** | **DEF** | 
 
 ## Exclusive
 

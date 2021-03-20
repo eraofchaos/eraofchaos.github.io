@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Serpent Fly"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Fiend's Neck Umbrella](/equipment/Fiend's Neck Umbrella/) | **ATK** | **DEF** | 
-  | [Fatal Jaw Weapon](/equipment/Fatal Jaw Weapon/) | **HP** | **DEF** | 
-  | [Bleak Barb](/equipment/Bleak Barb/) | **ATK** | **DEF** | 
-  | [Toxic Fang](/equipment/Toxic Fang/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Fiend's Neck Umbrella](/images/e/e_8031.png) | [Fiend's Neck Umbrella](/equipment/Fiend's Neck Umbrella/) | **ATK** | **DEF** | 
+  | ![Fatal Jaw Weapon](/images/e/e_8032.png) | [Fatal Jaw Weapon](/equipment/Fatal Jaw Weapon/) | **HP** | **DEF** | 
+  | ![Bleak Barb](/images/e/e_8033.png) | [Bleak Barb](/equipment/Bleak Barb/) | **ATK** | **DEF** | 
+  | ![Toxic Fang](/images/e/e_8034.png) | [Toxic Fang](/equipment/Toxic Fang/) | **HP** | **DEF** | 
 
 ## Exclusive
 

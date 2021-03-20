@@ -2,12 +2,19 @@
 title: "Battleaxe of the Wild"
 permalink: /equipment/Battleaxe of the Wild/
 excerpt: "Era of Chaos Battleaxe of the Wild. Battleaxe of the Wild"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Battleaxe of the Wild.md"
 toc: false
 classes: wide
 ---
+
+  ![Battleaxe of the Wild](/images/e/e_2011.png)
+
+## Used by Units:
+
+* [Centaur](/units/Centaur/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

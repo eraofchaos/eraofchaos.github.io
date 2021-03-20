@@ -2,12 +2,19 @@
 title: "UnknownEquipment_2091"
 permalink: /equipment/UnknownEquipment_2091/
 excerpt: "Era of Chaos UnknownEquipment_2091. UnknownEquipment_2091"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "UnknownEquipment_2091.md"
 toc: false
 classes: wide
 ---
+
+  ![UnknownEquipment_2091](/images/e/e_2091.png)
+
+## Used by Units:
+
+* [Mantis](/units/Mantis/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

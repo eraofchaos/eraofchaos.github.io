@@ -2,12 +2,19 @@
 title: "Gorgon Battle Axe"
 permalink: /equipment/Gorgon Battle Axe/
 excerpt: "Era of Chaos Gorgon Battle Axe. Gorgon Battle Axe"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gorgon Battle Axe.md"
 toc: false
 classes: wide
 ---
+
+  ![Gorgon Battle Axe](/images/e/e_7051.png)
+
+## Used by Units:
+
+* [Minotaur](/units/Minotaur/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

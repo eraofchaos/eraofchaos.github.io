@@ -2,12 +2,19 @@
 title: "Claws of Lightning"
 permalink: /equipment/Claws of Lightning/
 excerpt: "Era of Chaos Claws of Lightning. Claws of Lightning"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Claws of Lightning.md"
 toc: false
 classes: wide
 ---
+
+  ![Claws of Lightning](/images/e/e_4053.png)
+
+## Used by Units:
+
+* [Roc](/units/Roc/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

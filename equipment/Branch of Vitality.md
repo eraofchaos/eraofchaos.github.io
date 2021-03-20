@@ -2,12 +2,19 @@
 title: "Branch of Vitality"
 permalink: /equipment/Branch of Vitality/
 excerpt: "Era of Chaos Branch of Vitality. Branch of Vitality"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Branch of Vitality.md"
 toc: false
 classes: wide
 ---
+
+  ![Branch of Vitality](/images/e/e_2051.png)
+
+## Used by Units:
+
+* [Dendroid Guard](/units/Dendroid Guard/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "Judgment Sword"
 permalink: /equipment/Judgment Sword/
 excerpt: "Era of Chaos Judgment Sword. Judgment Sword"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Judgment Sword.md"
 toc: false
 classes: wide
 ---
+
+  ![Judgment Sword](/images/e/e_1081.png)
+
+## Used by Units:
+
+* [Paladin](/units/Paladin/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

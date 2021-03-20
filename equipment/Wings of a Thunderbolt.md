@@ -2,12 +2,19 @@
 title: "Wings of a Thunderbolt"
 permalink: /equipment/Wings of a Thunderbolt/
 excerpt: "Era of Chaos Wings of a Thunderbolt. Wings of a Thunderbolt"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Wings of a Thunderbolt.md"
 toc: false
 classes: wide
 ---
+
+  ![Wings of a Thunderbolt](/images/e/e_4052.png)
+
+## Used by Units:
+
+* [Roc](/units/Roc/) 
+
 
 ## Basic stats
  **Stat 1:** HP

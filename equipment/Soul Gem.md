@@ -2,12 +2,19 @@
 title: "Soul Gem"
 permalink: /equipment/Soul Gem/
 excerpt: "Era of Chaos Soul Gem. Soul Gem"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Soul Gem.md"
 toc: false
 classes: wide
 ---
+
+  ![Soul Gem](/images/e/e_3074.png)
+
+## Used by Units:
+
+* [Bone Dragon](/units/Bone Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Flower Overlord"
 permalink: /equipment/Flower Overlord/
 excerpt: "Era of Chaos Flower Overlord. Flower Overlord"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Flower Overlord.md"
 toc: false
 classes: wide
 ---
+
+  ![Flower Overlord](/images/e/e_8083.png)
+
+## Used by Units:
+
+* [Waspwort](/units/Waspwort/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

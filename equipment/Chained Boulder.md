@@ -2,12 +2,19 @@
 title: "Chained Boulder"
 permalink: /equipment/Chained Boulder/
 excerpt: "Era of Chaos Chained Boulder. Chained Boulder"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Chained Boulder.md"
 toc: false
 classes: wide
 ---
+
+  ![Chained Boulder](/images/e/e_4091.png)
+
+## Used by Units:
+
+* [Troll](/units/Troll/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

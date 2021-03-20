@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mantis"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **ATK** | **DEF** | 
-  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **HP** | **DEF** | 
-  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATK** | **DEF** | 
-  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_2091](/images/e/e_2091.png) | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **ATK** | **DEF** | 
+  | ![UnknownEquipment_2092](/images/e/e_2092.png) | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **HP** | **DEF** | 
+  | ![UnknownEquipment_2093](/images/e/e_2093.png) | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATK** | **DEF** | 
+  | ![UnknownEquipment_2094](/images/e/e_2094.png) | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **HP** | **DEF** | 
 
 ## Exclusive
 

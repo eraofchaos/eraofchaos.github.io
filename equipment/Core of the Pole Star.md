@@ -2,12 +2,19 @@
 title: "Core of the Pole Star"
 permalink: /equipment/Core of the Pole Star/
 excerpt: "Era of Chaos Core of the Pole Star. Core of the Pole Star"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Core of the Pole Star.md"
 toc: false
 classes: wide
 ---
+
+  ![Core of the Pole Star](/images/e/e_9061.png)
+
+## Used by Units:
+
+* [Psychic Elemental](/units/Psychic Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

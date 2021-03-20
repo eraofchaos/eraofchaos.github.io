@@ -2,12 +2,19 @@
 title: "Pauldrons of Hearth Fire"
 permalink: /equipment/Pauldrons of Hearth Fire/
 excerpt: "Era of Chaos Pauldrons of Hearth Fire. Pauldrons of Hearth Fire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pauldrons of Hearth Fire.md"
 toc: false
 classes: wide
 ---
+
+  ![Pauldrons of Hearth Fire](/images/e/e_2024.png)
+
+## Used by Units:
+
+* [Dwarf](/units/Dwarf/) 
+
 
 ## Basic stats
  **Stat 1:** HP

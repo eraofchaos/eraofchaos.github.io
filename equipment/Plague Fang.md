@@ -2,12 +2,19 @@
 title: "Plague Fang"
 permalink: /equipment/Plague Fang/
 excerpt: "Era of Chaos Plague Fang. Plague Fang"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Plague Fang.md"
 toc: false
 classes: wide
 ---
+
+  ![Plague Fang](/images/e/e_8062.png)
+
+## Used by Units:
+
+* [Wyvern](/units/Wyvern/) 
+
 
 ## Basic stats
  **Stat 1:** HP

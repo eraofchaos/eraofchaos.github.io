@@ -2,12 +2,19 @@
 title: "Adamantine Scale"
 permalink: /equipment/Adamantine Scale/
 excerpt: "Era of Chaos Adamantine Scale. Adamantine Scale"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Adamantine Scale.md"
 toc: false
 classes: wide
 ---
+
+  ![Adamantine Scale](/images/e/e_8042.png)
+
+## Used by Units:
+
+* [Basilisk](/units/Basilisk/) 
+
 
 ## Basic stats
  **Stat 1:** HP

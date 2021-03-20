@@ -2,12 +2,19 @@
 title: "Light Armor of Flame"
 permalink: /equipment/Light Armor of Flame/
 excerpt: "Era of Chaos Light Armor of Flame. Light Armor of Flame"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Light Armor of Flame.md"
 toc: false
 classes: wide
 ---
+
+  ![Light Armor of Flame](/images/e/e_5062.png)
+
+## Used by Units:
+
+* [Efreeti](/units/Efreeti/) 
+
 
 ## Basic stats
  **Stat 1:** HP

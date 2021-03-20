@@ -2,12 +2,19 @@
 title: "Gauntlets of Molten Lava"
 permalink: /equipment/Gauntlets of Molten Lava/
 excerpt: "Era of Chaos Gauntlets of Molten Lava. Gauntlets of Molten Lava"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gauntlets of Molten Lava.md"
 toc: false
 classes: wide
 ---
+
+  ![Gauntlets of Molten Lava](/images/e/e_5073.png)
+
+## Used by Units:
+
+* [Devil](/units/Devil/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

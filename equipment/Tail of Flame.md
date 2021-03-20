@@ -2,12 +2,19 @@
 title: "Tail of Flame"
 permalink: /equipment/Tail of Flame/
 excerpt: "Era of Chaos Tail of Flame. Tail of Flame"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Tail of Flame.md"
 toc: false
 classes: wide
 ---
+
+  ![Tail of Flame](/images/e/e_5023.png)
+
+## Used by Units:
+
+* [Gog](/units/Gog/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

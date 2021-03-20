@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Vampire"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bloodthirsty Belt](/equipment/Bloodthirsty Belt/) | **ATK** | **DEF** | 
-  | [Light Armor of Bloodthirst](/equipment/Light Armor of Bloodthirst/) | **HP** | **DEF** | 
-  | [Shadow Shoulders](/equipment/Shadow Shoulders/) | **ATK** | **DEF** | 
-  | [Shadow Cloak](/equipment/Shadow Cloak/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bloodthirsty Belt](/images/e/e_3041.png) | [Bloodthirsty Belt](/equipment/Bloodthirsty Belt/) | **ATK** | **DEF** | 
+  | ![Light Armor of Bloodthirst](/images/e/e_3042.png) | [Light Armor of Bloodthirst](/equipment/Light Armor of Bloodthirst/) | **HP** | **DEF** | 
+  | ![Shadow Shoulders](/images/e/e_3043.png) | [Shadow Shoulders](/equipment/Shadow Shoulders/) | **ATK** | **DEF** | 
+  | ![Shadow Cloak](/images/e/e_3044.png) | [Shadow Cloak](/equipment/Shadow Cloak/) | **HP** | **DEF** | 
 
 ## Exclusive
 

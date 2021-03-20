@@ -2,12 +2,19 @@
 title: "Dragon Claws"
 permalink: /equipment/Dragon Claws/
 excerpt: "Era of Chaos Dragon Claws. Dragon Claws"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dragon Claws.md"
 toc: false
 classes: wide
 ---
+
+  ![Dragon Claws](/images/e/e_8061.png)
+
+## Used by Units:
+
+* [Wyvern](/units/Wyvern/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

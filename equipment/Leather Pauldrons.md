@@ -2,12 +2,19 @@
 title: "Leather Pauldrons"
 permalink: /equipment/Leather Pauldrons/
 excerpt: "Era of Chaos Leather Pauldrons. Leather Pauldrons"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Leather Pauldrons.md"
 toc: false
 classes: wide
 ---
+
+  ![Leather Pauldrons](/images/e/e_4014.png)
+
+## Used by Units:
+
+* [Goblin](/units/Goblin/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Slaughter Longbow"
 permalink: /equipment/Slaughter Longbow/
 excerpt: "Era of Chaos Slaughter Longbow. Slaughter Longbow"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Slaughter Longbow.md"
 toc: false
 classes: wide
 ---
+
+  ![Slaughter Longbow](/images/e/e_7041.png)
+
+## Used by Units:
+
+* [Medusa](/units/Medusa/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

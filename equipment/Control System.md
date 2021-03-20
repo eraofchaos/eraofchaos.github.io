@@ -2,12 +2,19 @@
 title: "Control System"
 permalink: /equipment/Control System/
 excerpt: "Era of Chaos Control System. Control System"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Control System.md"
 toc: false
 classes: wide
 ---
+
+  ![Control System](/images/e/e_6082.png)
+
+## Used by Units:
+
+* [Magic Airship](/units/Magic Airship/) 
+
 
 ## Basic stats
  **Stat 1:** HP

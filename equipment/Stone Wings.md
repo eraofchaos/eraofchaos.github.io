@@ -2,12 +2,19 @@
 title: "Stone Wings"
 permalink: /equipment/Stone Wings/
 excerpt: "Era of Chaos Stone Wings. Stone Wings"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Stone Wings.md"
 toc: false
 classes: wide
 ---
+
+  ![Stone Wings](/images/e/e_6022.png)
+
+## Used by Units:
+
+* [Stone Gargoyle](/units/Stone Gargoyle/) 
+
 
 ## Basic stats
  **Stat 1:** HP

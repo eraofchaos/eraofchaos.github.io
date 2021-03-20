@@ -2,12 +2,19 @@
 title: "Boiling Shield"
 permalink: /equipment/Boiling Shield/
 excerpt: "Era of Chaos Boiling Shield. Boiling Shield"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Boiling Shield.md"
 toc: false
 classes: wide
 ---
+
+  ![Boiling Shield](/images/e/e_9042.png)
+
+## Used by Units:
+
+* [Fire Elemental](/units/Fire Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

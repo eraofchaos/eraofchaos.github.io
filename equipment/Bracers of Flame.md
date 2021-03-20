@@ -2,12 +2,19 @@
 title: "Bracers of Flame"
 permalink: /equipment/Bracers of Flame/
 excerpt: "Era of Chaos Bracers of Flame. Bracers of Flame"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bracers of Flame.md"
 toc: false
 classes: wide
 ---
+
+  ![Bracers of Flame](/images/e/e_5063.png)
+
+## Used by Units:
+
+* [Efreeti](/units/Efreeti/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

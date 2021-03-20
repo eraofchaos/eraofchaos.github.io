@@ -2,12 +2,19 @@
 title: "Enchanted Gloves"
 permalink: /equipment/Enchanted Gloves/
 excerpt: "Era of Chaos Enchanted Gloves. Enchanted Gloves"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Enchanted Gloves.md"
 toc: false
 classes: wide
 ---
+
+  ![Enchanted Gloves](/images/e/e_6013.png)
+
+## Used by Units:
+
+* [Gremlin](/units/Gremlin/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,17 @@
 title: "Assassin's Belt"
 permalink: /equipment/Assassin's Belt/
 excerpt: "Era of Chaos Assassin's Belt. Assassin's Belt"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Assassin's Belt.md"
 toc: false
 classes: wide
 ---
+
+## Used by Units:
+
+* [Assassin](/units/Assassin/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

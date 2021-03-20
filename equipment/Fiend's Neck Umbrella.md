@@ -2,12 +2,19 @@
 title: "Fiend's Neck Umbrella"
 permalink: /equipment/Fiend's Neck Umbrella/
 excerpt: "Era of Chaos Fiend's Neck Umbrella. Fiend's Neck Umbrella"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Fiend's Neck Umbrella.md"
 toc: false
 classes: wide
 ---
+
+  ![Fiend's Neck Umbrella](/images/e/e_8031.png)
+
+## Used by Units:
+
+* [Serpent Fly](/units/Serpent Fly/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

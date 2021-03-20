@@ -2,12 +2,19 @@
 title: "Bloodstained Machete"
 permalink: /equipment/Bloodstained Machete/
 excerpt: "Era of Chaos Bloodstained Machete. Bloodstained Machete"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bloodstained Machete.md"
 toc: false
 classes: wide
 ---
+
+  ![Bloodstained Machete](/images/e/e_3021.png)
+
+## Used by Units:
+
+* [Walking Dead](/units/Walking Dead/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

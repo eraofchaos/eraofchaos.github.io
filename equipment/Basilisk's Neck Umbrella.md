@@ -2,12 +2,19 @@
 title: "Basilisk's Neck Umbrella"
 permalink: /equipment/Basilisk's Neck Umbrella/
 excerpt: "Era of Chaos Basilisk's Neck Umbrella. Basilisk's Neck Umbrella"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Basilisk's Neck Umbrella.md"
 toc: false
 classes: wide
 ---
+
+  ![Basilisk's Neck Umbrella](/images/e/e_8041.png)
+
+## Used by Units:
+
+* [Basilisk](/units/Basilisk/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

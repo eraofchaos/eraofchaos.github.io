@@ -2,12 +2,19 @@
 title: "Crystal Crown of Magic"
 permalink: /equipment/Crystal Crown of Magic/
 excerpt: "Era of Chaos Crystal Crown of Magic. Crystal Crown of Magic"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Crystal Crown of Magic.md"
 toc: false
 classes: wide
 ---
+
+  ![Crystal Crown of Magic](/images/e/e_6042.png)
+
+## Used by Units:
+
+* [Arch Mage](/units/Arch Mage/) 
+
 
 ## Basic stats
  **Stat 1:** HP

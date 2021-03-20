@@ -2,12 +2,19 @@
 title: "Visor of Defense"
 permalink: /equipment/Visor of Defense/
 excerpt: "Era of Chaos Visor of Defense. Visor of Defense"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Visor of Defense.md"
 toc: false
 classes: wide
 ---
+
+  ![Visor of Defense](/images/e/e_1062.png)
+
+## Used by Units:
+
+* [Cavalier](/units/Cavalier/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sprite"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Fragrant Wreath](/equipment/Fragrant Wreath/) | **ATK** | **DEF** | 
-  | [Gown of Moon and Stars](/equipment/Gown of Moon and Stars/) | **HP** | **DEF** | 
-  | [Phosphorus Butterfly Wings](/equipment/Phosphorus Butterfly Wings/) | **ATK** | **DEF** | 
-  | [Emerald Arm Ring](/equipment/Emerald Arm Ring/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Fragrant Wreath](/images/e/e_9011.png) | [Fragrant Wreath](/equipment/Fragrant Wreath/) | **ATK** | **DEF** | 
+  | ![Gown of Moon and Stars](/images/e/e_9012.png) | [Gown of Moon and Stars](/equipment/Gown of Moon and Stars/) | **HP** | **DEF** | 
+  | ![Phosphorus Butterfly Wings](/images/e/e_9013.png) | [Phosphorus Butterfly Wings](/equipment/Phosphorus Butterfly Wings/) | **ATK** | **DEF** | 
+  | ![Emerald Arm Ring](/images/e/e_9014.png) | [Emerald Arm Ring](/equipment/Emerald Arm Ring/) | **HP** | **DEF** | 
 
 ## Exclusive
 

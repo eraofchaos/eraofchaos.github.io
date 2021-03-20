@@ -2,12 +2,19 @@
 title: "Beast-boned Helmet"
 permalink: /equipment/Beast-boned Helmet/
 excerpt: "Era of Chaos Beast-boned Helmet. Beast-boned Helmet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Beast-boned Helmet.md"
 toc: false
 classes: wide
 ---
+
+  ![Beast-boned Helmet](/images/e/e_4083.png)
+
+## Used by Units:
+
+* [Berserker](/units/Berserker/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "Ruler's Earrings"
 permalink: /equipment/Ruler's Earrings/
 excerpt: "Era of Chaos Ruler's Earrings. Ruler's Earrings"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ruler's Earrings.md"
 toc: false
 classes: wide
 ---
+
+  ![Ruler's Earrings](/images/e/e_8072.png)
+
+## Used by Units:
+
+* [Hydra](/units/Hydra/) 
+
 
 ## Basic stats
  **Stat 1:** HP

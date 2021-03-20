@@ -2,12 +2,19 @@
 title: "Venomous Dragon Blood"
 permalink: /equipment/Venomous Dragon Blood/
 excerpt: "Era of Chaos Venomous Dragon Blood. Venomous Dragon Blood"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Venomous Dragon Blood.md"
 toc: false
 classes: wide
 ---
+
+  ![Venomous Dragon Blood](/images/e/e_2074.png)
+
+## Used by Units:
+
+* [Green Dragon](/units/Green Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

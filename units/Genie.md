@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Genie"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Mystic Gold Lamp](/equipment/Mystic Gold Lamp/) | **ATK** | **DEF** | 
-  | [Strange Crystal Ornament](/equipment/Strange Crystal Ornament/) | **HP** | **DEF** | 
-  | [Red Copper Bracer](/equipment/Red Copper Bracer/) | **ATK** | **DEF** | 
-  | [Enchanted Armor](/equipment/Enchanted Armor/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Mystic Gold Lamp](/images/e/e_6051.png) | [Mystic Gold Lamp](/equipment/Mystic Gold Lamp/) | **ATK** | **DEF** | 
+  | ![Strange Crystal Ornament](/images/e/e_6052.png) | [Strange Crystal Ornament](/equipment/Strange Crystal Ornament/) | **HP** | **DEF** | 
+  | ![Red Copper Bracer](/images/e/e_6053.png) | [Red Copper Bracer](/equipment/Red Copper Bracer/) | **ATK** | **DEF** | 
+  | ![Enchanted Armor](/images/e/e_6054.png) | [Enchanted Armor](/equipment/Enchanted Armor/) | **HP** | **DEF** | 
 
 ## Exclusive
 

@@ -2,12 +2,19 @@
 title: "Frost Touch"
 permalink: /equipment/Frost Touch/
 excerpt: "Era of Chaos Frost Touch. Frost Touch"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Frost Touch.md"
 toc: false
 classes: wide
 ---
+
+  ![Frost Touch](/images/e/e_9082.png)
+
+## Used by Units:
+
+* [Ice Demon](/units/Ice Demon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

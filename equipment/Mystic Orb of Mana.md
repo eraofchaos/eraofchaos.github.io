@@ -2,12 +2,19 @@
 title: "Mystic Orb of Mana"
 permalink: /equipment/Mystic Orb of Mana/
 excerpt: "Era of Chaos Mystic Orb of Mana. Mystic Orb of Mana"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mystic Orb of Mana.md"
 toc: false
 classes: wide
 ---
+
+  ![Mystic Orb of Mana](/images/e/e_6043.png)
+
+## Used by Units:
+
+* [Arch Mage](/units/Arch Mage/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

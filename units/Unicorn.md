@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Unicorn"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Crystal Longhorn](/equipment/Crystal Longhorn/) | **ATK** | **DEF** | 
-  | [Dreamer's Stones](/equipment/Dreamer's Stones/) | **HP** | **DEF** | 
-  | [Crystal Hooves](/equipment/Crystal Hooves/) | **ATK** | **DEF** | 
-  | [Misty Mane](/equipment/Misty Mane/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Crystal Longhorn](/images/e/e_2061.png) | [Crystal Longhorn](/equipment/Crystal Longhorn/) | **ATK** | **DEF** | 
+  | ![Dreamer's Stones](/images/e/e_2062.png) | [Dreamer's Stones](/equipment/Dreamer's Stones/) | **HP** | **DEF** | 
+  | ![Crystal Hooves](/images/e/e_2063.png) | [Crystal Hooves](/equipment/Crystal Hooves/) | **ATK** | **DEF** | 
+  | ![Misty Mane](/images/e/e_2064.png) | [Misty Mane](/equipment/Misty Mane/) | **HP** | **DEF** | 
 
 ## Exclusive
 

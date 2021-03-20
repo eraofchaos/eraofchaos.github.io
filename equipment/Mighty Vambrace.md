@@ -2,12 +2,19 @@
 title: "Mighty Vambrace"
 permalink: /equipment/Mighty Vambrace/
 excerpt: "Era of Chaos Mighty Vambrace. Mighty Vambrace"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mighty Vambrace.md"
 toc: false
 classes: wide
 ---
+
+  ![Mighty Vambrace](/images/e/e_9064.png)
+
+## Used by Units:
+
+* [Psychic Elemental](/units/Psychic Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

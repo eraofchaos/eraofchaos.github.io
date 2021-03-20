@@ -2,12 +2,19 @@
 title: "Paladin's Pauldron"
 permalink: /equipment/Paladin's Pauldron/
 excerpt: "Era of Chaos Paladin's Pauldron. Paladin's Pauldron"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Paladin's Pauldron.md"
 toc: false
 classes: wide
 ---
+
+  ![Paladin's Pauldron](/images/e/e_1064.png)
+
+## Used by Units:
+
+* [Cavalier](/units/Cavalier/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Helm of the Wild"
 permalink: /equipment/Helm of the Wild/
 excerpt: "Era of Chaos Helm of the Wild. Helm of the Wild"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Helm of the Wild.md"
 toc: false
 classes: wide
 ---
+
+  ![Helm of the Wild](/images/e/e_2012.png)
+
+## Used by Units:
+
+* [Centaur](/units/Centaur/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Thigh Boots of the Forest"
 permalink: /equipment/Thigh Boots of the Forest/
 excerpt: "Era of Chaos Thigh Boots of the Forest. Thigh Boots of the Forest"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Thigh Boots of the Forest.md"
 toc: false
 classes: wide
 ---
+
+  ![Thigh Boots of the Forest](/images/e/e_2084.png)
+
+## Used by Units:
+
+* [Druid](/units/Druid/) 
+
 
 ## Basic stats
  **Stat 1:** HP

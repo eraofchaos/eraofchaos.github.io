@@ -2,12 +2,19 @@
 title: "Pupil of the Departed"
 permalink: /equipment/Pupil of the Departed/
 excerpt: "Era of Chaos Pupil of the Departed. Pupil of the Departed"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pupil of the Departed.md"
 toc: false
 classes: wide
 ---
+
+  ![Pupil of the Departed](/images/e/e_3083.png)
+
+## Used by Units:
+
+* [Mummy](/units/Mummy/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "Venomous Horn"
 permalink: /equipment/Venomous Horn/
 excerpt: "Era of Chaos Venomous Horn. Venomous Horn"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Venomous Horn.md"
 toc: false
 classes: wide
 ---
+
+  ![Venomous Horn](/images/e/e_2071.png)
+
+## Used by Units:
+
+* [Green Dragon](/units/Green Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

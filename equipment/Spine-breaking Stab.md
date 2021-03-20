@@ -2,12 +2,19 @@
 title: "Spine-breaking Stab"
 permalink: /equipment/Spine-breaking Stab/
 excerpt: "Era of Chaos Spine-breaking Stab. Spine-breaking Stab"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Spine-breaking Stab.md"
 toc: false
 classes: wide
 ---
+
+  ![Spine-breaking Stab](/images/e/e_7013.png)
+
+## Used by Units:
+
+* [Troglodyte](/units/Troglodyte/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

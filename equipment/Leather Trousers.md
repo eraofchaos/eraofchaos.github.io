@@ -2,12 +2,19 @@
 title: "Leather Trousers"
 permalink: /equipment/Leather Trousers/
 excerpt: "Era of Chaos Leather Trousers. Leather Trousers"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Leather Trousers.md"
 toc: false
 classes: wide
 ---
+
+  ![Leather Trousers](/images/e/e_4064.png)
+
+## Used by Units:
+
+* [Cyclops](/units/Cyclops/) 
+
 
 ## Basic stats
  **Stat 1:** HP

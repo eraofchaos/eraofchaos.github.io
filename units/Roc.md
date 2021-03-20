@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Roc"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Beak of Thunder](/equipment/Beak of Thunder/) | **ATK** | **DEF** | 
-  | [Wings of a Thunderbolt](/equipment/Wings of a Thunderbolt/) | **HP** | **DEF** | 
-  | [Claws of Lightning](/equipment/Claws of Lightning/) | **ATK** | **DEF** | 
-  | [Lightning's armor](/equipment/Lightning's armor/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Beak of Thunder](/images/e/e_4051.png) | [Beak of Thunder](/equipment/Beak of Thunder/) | **ATK** | **DEF** | 
+  | ![Wings of a Thunderbolt](/images/e/e_4052.png) | [Wings of a Thunderbolt](/equipment/Wings of a Thunderbolt/) | **HP** | **DEF** | 
+  | ![Claws of Lightning](/images/e/e_4053.png) | [Claws of Lightning](/equipment/Claws of Lightning/) | **ATK** | **DEF** | 
+  | ![Lightning's armor](/images/e/e_4054.png) | [Lightning's armor](/equipment/Lightning's armor/) | **HP** | **DEF** | 
 
 ## Exclusive
 

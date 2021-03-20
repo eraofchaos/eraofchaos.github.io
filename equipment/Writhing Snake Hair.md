@@ -2,12 +2,19 @@
 title: "Writhing Snake Hair"
 permalink: /equipment/Writhing Snake Hair/
 excerpt: "Era of Chaos Writhing Snake Hair. Writhing Snake Hair"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Writhing Snake Hair.md"
 toc: false
 classes: wide
 ---
+
+  ![Writhing Snake Hair](/images/e/e_7042.png)
+
+## Used by Units:
+
+* [Medusa](/units/Medusa/) 
+
 
 ## Basic stats
  **Stat 1:** HP

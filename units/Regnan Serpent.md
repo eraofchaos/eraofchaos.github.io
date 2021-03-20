@@ -3,7 +3,7 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Regnan Serpent"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Trident](/equipment/Trident/) | **ATK** | **DEF** | 
-  | [Shell Horn](/equipment/Shell Horn/) | **HP** | **DEF** | 
-  | [Mermaid Claws](/equipment/Mermaid Claws/) | **ATK** | **DEF** | 
-  | [Mazarine Fin](/equipment/Mazarine Fin/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Trident](/images/e/e_99041.png) | [Trident](/equipment/Trident/) | **ATK** | **DEF** | 
+  | ![Shell Horn](/images/e/e_99042.png) | [Shell Horn](/equipment/Shell Horn/) | **HP** | **DEF** | 
+  | ![Mermaid Claws](/images/e/e_99043.png) | [Mermaid Claws](/equipment/Mermaid Claws/) | **ATK** | **DEF** | 
+  | ![Mazarine Fin](/images/e/e_99044.png) | [Mazarine Fin](/equipment/Mazarine Fin/) | **HP** | **DEF** | 
 
 ## Exclusive
 

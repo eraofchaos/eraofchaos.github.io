@@ -2,12 +2,19 @@
 title: "Archgriffin Feather"
 permalink: /equipment/Archgriffin Feather/
 excerpt: "Era of Chaos Archgriffin Feather. Archgriffin Feather"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Archgriffin Feather.md"
 toc: false
 classes: wide
 ---
+
+  ![Archgriffin Feather](/images/e/e_1033.png)
+
+## Used by Units:
+
+* [Griffin](/units/Griffin/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

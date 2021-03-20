@@ -2,12 +2,19 @@
 title: "Bone Spike"
 permalink: /equipment/Bone Spike/
 excerpt: "Era of Chaos Bone Spike. Bone Spike"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bone Spike.md"
 toc: false
 classes: wide
 ---
+
+  ![Bone Spike](/images/e/e_3071.png)
+
+## Used by Units:
+
+* [Bone Dragon](/units/Bone Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

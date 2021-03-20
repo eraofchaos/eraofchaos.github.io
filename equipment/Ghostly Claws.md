@@ -2,12 +2,19 @@
 title: "Ghostly Claws"
 permalink: /equipment/Ghostly Claws/
 excerpt: "Era of Chaos Ghostly Claws. Ghostly Claws"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ghostly Claws.md"
 toc: false
 classes: wide
 ---
+
+  ![Ghostly Claws](/images/e/e_3031.png)
+
+## Used by Units:
+
+* [Wight](/units/Wight/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

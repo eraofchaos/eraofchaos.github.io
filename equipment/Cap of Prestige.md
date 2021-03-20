@@ -2,12 +2,19 @@
 title: "Cap of Prestige"
 permalink: /equipment/Cap of Prestige/
 excerpt: "Era of Chaos Cap of Prestige. Cap of Prestige"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Cap of Prestige.md"
 toc: false
 classes: wide
 ---
+
+  ![Cap of Prestige](/images/e/e_99022.png)
+
+## Used by Units:
+
+* [Regnan Archer](/units/Regnan Archer/) 
+
 
 ## Basic stats
  **Stat 1:** HP

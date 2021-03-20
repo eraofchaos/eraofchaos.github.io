@@ -3,7 +3,7 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Storm Elemental"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Flickering Lightning Ball](/equipment/Flickering Lightning Ball/) | **ATK** | **DEF** | 
-  | [Thunder Core](/equipment/Thunder Core/) | **HP** | **DEF** | 
-  | [Magic Claw](/equipment/Magic Claw/) | **ATK** | **DEF** | 
-  | [Beholder of Lightning](/equipment/Beholder of Lightning/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Flickering Lightning Ball](/images/e/e_9021.png) | [Flickering Lightning Ball](/equipment/Flickering Lightning Ball/) | **ATK** | **DEF** | 
+  | ![Thunder Core](/images/e/e_9022.png) | [Thunder Core](/equipment/Thunder Core/) | **HP** | **DEF** | 
+  | ![Magic Claw](/images/e/e_9023.png) | [Magic Claw](/equipment/Magic Claw/) | **ATK** | **DEF** | 
+  | ![Beholder of Lightning](/images/e/e_9024.png) | [Beholder of Lightning](/equipment/Beholder of Lightning/) | **HP** | **DEF** | 
 
 ## Exclusive
 

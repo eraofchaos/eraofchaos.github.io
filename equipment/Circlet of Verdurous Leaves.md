@@ -2,12 +2,19 @@
 title: "Circlet of Verdurous Leaves"
 permalink: /equipment/Circlet of Verdurous Leaves/
 excerpt: "Era of Chaos Circlet of Verdurous Leaves. Circlet of Verdurous Leaves"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Circlet of Verdurous Leaves.md"
 toc: false
 classes: wide
 ---
+
+  ![Circlet of Verdurous Leaves](/images/e/e_2032.png)
+
+## Used by Units:
+
+* [Wood Elf](/units/Wood Elf/) 
+
 
 ## Basic stats
  **Stat 1:** HP

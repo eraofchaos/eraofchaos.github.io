@@ -2,12 +2,19 @@
 title: "Stone Horn"
 permalink: /equipment/Stone Horn/
 excerpt: "Era of Chaos Stone Horn. Stone Horn"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Stone Horn.md"
 toc: false
 classes: wide
 ---
+
+  ![Stone Horn](/images/e/e_6021.png)
+
+## Used by Units:
+
+* [Stone Gargoyle](/units/Stone Gargoyle/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

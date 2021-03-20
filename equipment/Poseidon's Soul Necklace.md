@@ -2,12 +2,19 @@
 title: "Poseidon's Soul Necklace"
 permalink: /equipment/Poseidon's Soul Necklace/
 excerpt: "Era of Chaos Poseidon's Soul Necklace. Poseidon's Soul Necklace"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Poseidon's Soul Necklace.md"
 toc: false
 classes: wide
 ---
+
+  ![Poseidon's Soul Necklace](/images/e/e_99072.png)
+
+## Used by Units:
+
+* [Regnan Seer](/units/Regnan Seer/) 
+
 
 ## Basic stats
  **Stat 1:** HP

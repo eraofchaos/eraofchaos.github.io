@@ -2,12 +2,19 @@
 title: "Navy Blue Sharp Claw"
 permalink: /equipment/Navy Blue Sharp Claw/
 excerpt: "Era of Chaos Navy Blue Sharp Claw. Navy Blue Sharp Claw"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Navy Blue Sharp Claw.md"
 toc: false
 classes: wide
 ---
+
+  ![Navy Blue Sharp Claw](/images/e/e_9044.png)
+
+## Used by Units:
+
+* [Fire Elemental](/units/Fire Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

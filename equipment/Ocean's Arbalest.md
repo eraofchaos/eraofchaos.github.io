@@ -2,12 +2,19 @@
 title: "Ocean's Arbalest"
 permalink: /equipment/Ocean's Arbalest/
 excerpt: "Era of Chaos Ocean's Arbalest. Ocean's Arbalest"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ocean's Arbalest.md"
 toc: false
 classes: wide
 ---
+
+  ![Ocean's Arbalest](/images/e/e_99021.png)
+
+## Used by Units:
+
+* [Regnan Archer](/units/Regnan Archer/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

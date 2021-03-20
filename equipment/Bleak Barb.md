@@ -2,12 +2,19 @@
 title: "Bleak Barb"
 permalink: /equipment/Bleak Barb/
 excerpt: "Era of Chaos Bleak Barb. Bleak Barb"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bleak Barb.md"
 toc: false
 classes: wide
 ---
+
+  ![Bleak Barb](/images/e/e_8033.png)
+
+## Used by Units:
+
+* [Serpent Fly](/units/Serpent Fly/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

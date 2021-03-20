@@ -2,12 +2,19 @@
 title: "Thunderbolt"
 permalink: /equipment/Thunderbolt/
 excerpt: "Era of Chaos Thunderbolt. Thunderbolt"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Thunderbolt.md"
 toc: false
 classes: wide
 ---
+
+  ![Thunderbolt](/images/e/e_6071.png)
+
+## Used by Units:
+
+* [Giant](/units/Giant/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Skeleton Exclusive."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Skeleton Iris Shield.md"
 toc: false

@@ -2,12 +2,19 @@
 title: "Windproof Cloak"
 permalink: /equipment/Windproof Cloak/
 excerpt: "Era of Chaos Windproof Cloak. Windproof Cloak"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Windproof Cloak.md"
 toc: false
 classes: wide
 ---
+
+  ![Windproof Cloak](/images/e/e_6014.png)
+
+## Used by Units:
+
+* [Gremlin](/units/Gremlin/) 
+
 
 ## Basic stats
  **Stat 1:** HP

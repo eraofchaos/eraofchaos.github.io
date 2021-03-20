@@ -2,12 +2,19 @@
 title: "Thunder Helmet"
 permalink: /equipment/Thunder Helmet/
 excerpt: "Era of Chaos Thunder Helmet. Thunder Helmet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Thunder Helmet.md"
 toc: false
 classes: wide
 ---
+
+  ![Thunder Helmet](/images/e/e_6073.png)
+
+## Used by Units:
+
+* [Giant](/units/Giant/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "Mighty Belt"
 permalink: /equipment/Mighty Belt/
 excerpt: "Era of Chaos Mighty Belt. Mighty Belt"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mighty Belt.md"
 toc: false
 classes: wide
 ---
+
+  ![Mighty Belt](/images/e/e_4022.png)
+
+## Used by Units:
+
+* [Wolf Rider](/units/Wolf Rider/) 
+
 
 ## Basic stats
  **Stat 1:** HP

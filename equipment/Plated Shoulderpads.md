@@ -2,12 +2,19 @@
 title: "Plated Shoulderpads"
 permalink: /equipment/Plated Shoulderpads/
 excerpt: "Era of Chaos Plated Shoulderpads. Plated Shoulderpads"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Plated Shoulderpads.md"
 toc: false
 classes: wide
 ---
+
+  ![Plated Shoulderpads](/images/e/e_1014.png)
+
+## Used by Units:
+
+* [Pikeman](/units/Pikeman/) 
+
 
 ## Basic stats
  **Stat 1:** HP

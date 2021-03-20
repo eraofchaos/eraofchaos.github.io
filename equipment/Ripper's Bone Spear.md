@@ -2,12 +2,19 @@
 title: "Ripper's Bone Spear"
 permalink: /equipment/Ripper's Bone Spear/
 excerpt: "Era of Chaos Ripper's Bone Spear. Ripper's Bone Spear"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ripper's Bone Spear.md"
 toc: false
 classes: wide
 ---
+
+  ![Ripper's Bone Spear](/images/e/e_7011.png)
+
+## Used by Units:
+
+* [Troglodyte](/units/Troglodyte/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

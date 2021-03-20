@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows."
 unitID: 409
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Troll"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Chained Boulder](/equipment/Chained Boulder/) | **ATK** | **DEF** | 
-  | [Might of Lords](/equipment/Might of Lords/) | **HP** | **DEF** | 
-  | [Breach Armor](/equipment/Breach Armor/) | **ATK** | **DEF** | 
-  | [Garrison Boots](/equipment/Garrison Boots/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Chained Boulder](/images/e/e_4091.png) | [Chained Boulder](/equipment/Chained Boulder/) | **ATK** | **DEF** | 
+  | ![Might of Lords](/images/e/e_4092.png) | [Might of Lords](/equipment/Might of Lords/) | **HP** | **DEF** | 
+  | ![Breach Armor](/images/e/e_4093.png) | [Breach Armor](/equipment/Breach Armor/) | **ATK** | **DEF** | 
+  | ![Garrison Boots](/images/e/e_4094.png) | [Garrison Boots](/equipment/Garrison Boots/) | **HP** | **DEF** | 
 
 ## Exclusive
 

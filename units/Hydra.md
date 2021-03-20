@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Hydra"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Plague Dragon Tail](/equipment/Plague Dragon Tail/) | **ATK** | **DEF** | 
-  | [Ruler's Earrings](/equipment/Ruler's Earrings/) | **HP** | **DEF** | 
-  | [Plague Dragon Claw](/equipment/Plague Dragon Claw/) | **ATK** | **DEF** | 
-  | [Sharp Back-spikes](/equipment/Sharp Back-spikes/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Plague Dragon Tail](/images/e/e_8071.png) | [Plague Dragon Tail](/equipment/Plague Dragon Tail/) | **ATK** | **DEF** | 
+  | ![Ruler's Earrings](/images/e/e_8072.png) | [Ruler's Earrings](/equipment/Ruler's Earrings/) | **HP** | **DEF** | 
+  | ![Plague Dragon Claw](/images/e/e_8073.png) | [Plague Dragon Claw](/equipment/Plague Dragon Claw/) | **ATK** | **DEF** | 
+  | ![Sharp Back-spikes](/images/e/e_8074.png) | [Sharp Back-spikes](/equipment/Sharp Back-spikes/) | **HP** | **DEF** | 
 
 ## Exclusive
 

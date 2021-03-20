@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Units. Units. Era of Chaos White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "White Tiger"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/equipment/UnknownEquipment_8091/) | **ATK** | **DEF** | 
-  | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **HP** | **DEF** | 
-  | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ATK** | **DEF** | 
-  | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_8091](/images/e/e_8091.png) | [UnknownEquipment_8091](/equipment/UnknownEquipment_8091/) | **ATK** | **DEF** | 
+  | ![UnknownEquipment_8092](/images/e/e_8092.png) | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **HP** | **DEF** | 
+  | ![UnknownEquipment_8093](/images/e/e_8093.png) | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ATK** | **DEF** | 
+  | ![UnknownEquipment_8094](/images/e/e_8094.png) | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **HP** | **DEF** | 
 
 ## Exclusive
 

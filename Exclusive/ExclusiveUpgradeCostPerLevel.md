@@ -2,7 +2,7 @@
 title: "Exclusive Upgrade Cost Per Level"
 permalink: /Exclusive/ExclusiveUpgradeCostPerLevel/
 excerpt: "Era of Chaos Exclusive Upgrade Cost Per Level. Exclusive Upgrade Cost Per Level"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "ExclusiveUpgradeCostPerLevel.md"
 toc: false

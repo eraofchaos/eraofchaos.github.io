@@ -2,12 +2,19 @@
 title: "Celestial Hood of Bliss"
 permalink: /equipment/Celestial Hood of Bliss/
 excerpt: "Era of Chaos Celestial Hood of Bliss. Celestial Hood of Bliss"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Celestial Hood of Bliss.md"
 toc: false
 classes: wide
 ---
+
+  ![Celestial Hood of Bliss](/images/e/e_1092.png)
+
+## Used by Units:
+
+* [Judicator](/units/Judicator/) 
+
 
 ## Basic stats
  **Stat 1:** HP

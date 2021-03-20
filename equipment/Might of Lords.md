@@ -2,12 +2,19 @@
 title: "Might of Lords"
 permalink: /equipment/Might of Lords/
 excerpt: "Era of Chaos Might of Lords. Might of Lords"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Might of Lords.md"
 toc: false
 classes: wide
 ---
+
+  ![Might of Lords](/images/e/e_4092.png)
+
+## Used by Units:
+
+* [Troll](/units/Troll/) 
+
 
 ## Basic stats
  **Stat 1:** HP

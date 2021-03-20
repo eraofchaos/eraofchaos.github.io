@@ -2,12 +2,19 @@
 title: "Werewolf's Chain"
 permalink: /equipment/Werewolf's Chain/
 excerpt: "Era of Chaos Werewolf's Chain. Werewolf's Chain"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Werewolf's Chain.md"
 toc: false
 classes: wide
 ---
+
+  ![Werewolf's Chain](/images/e/e_8013.png)
+
+## Used by Units:
+
+* [Gnoll](/units/Gnoll/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

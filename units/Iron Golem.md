@@ -3,7 +3,7 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Iron Golem"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Iron Gauntlets](/equipment/Iron Gauntlets/) | **ATK** | **DEF** | 
-  | [Spiked Pauldrons](/equipment/Spiked Pauldrons/) | **HP** | **DEF** | 
-  | [Arcane Heart](/equipment/Arcane Heart/) | **ATK** | **DEF** | 
-  | [Hardened Iron Chest Armor](/equipment/Hardened Iron Chest Armor/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Iron Gauntlets](/images/e/e_6031.png) | [Iron Gauntlets](/equipment/Iron Gauntlets/) | **ATK** | **DEF** | 
+  | ![Spiked Pauldrons](/images/e/e_6032.png) | [Spiked Pauldrons](/equipment/Spiked Pauldrons/) | **HP** | **DEF** | 
+  | ![Arcane Heart](/images/e/e_6033.png) | [Arcane Heart](/equipment/Arcane Heart/) | **ATK** | **DEF** | 
+  | ![Hardened Iron Chest Armor](/images/e/e_6034.png) | [Hardened Iron Chest Armor](/equipment/Hardened Iron Chest Armor/) | **HP** | **DEF** | 
 
 ## Exclusive
 

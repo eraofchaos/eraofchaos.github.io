@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Units. Units. Era of Chaos He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dark Champion"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sickle of Silence](/equipment/Sickle of Silence/) | **ATK** | **DEF** | 
-  | [Heavy Helm of Pre-life](/equipment/Heavy Helm of Pre-life/) | **HP** | **DEF** | 
-  | [Salvation Inferno Fire](/equipment/Salvation Inferno Fire/) | **ATK** | **DEF** | 
-  | [Hades' Scapula](/equipment/Hades' Scapula/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sickle of Silence](/images/e/e_3091.png) | [Sickle of Silence](/equipment/Sickle of Silence/) | **ATK** | **DEF** | 
+  | ![Heavy Helm of Pre-life](/images/e/e_3092.png) | [Heavy Helm of Pre-life](/equipment/Heavy Helm of Pre-life/) | **HP** | **DEF** | 
+  | ![Salvation Inferno Fire](/images/e/e_3093.png) | [Salvation Inferno Fire](/equipment/Salvation Inferno Fire/) | **ATK** | **DEF** | 
+  | ![Hades' Scapula](/images/e/e_3094.png) | [Hades' Scapula](/equipment/Hades' Scapula/) | **HP** | **DEF** | 
 
 ## Exclusive
 

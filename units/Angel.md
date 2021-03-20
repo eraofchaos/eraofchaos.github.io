@@ -3,7 +3,7 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Angel"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Empire's Sword](/equipment/Empire's Sword/) | **ATK** | **DEF** | 
-  | [Light Battle Armor](/equipment/Light Battle Armor/) | **HP** | **DEF** | 
-  | [Light Gauntlets](/equipment/Light Gauntlets/) | **ATK** | **DEF** | 
-  | [Pauldrons of Lightness](/equipment/Pauldrons of Lightness/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Empire's Sword](/images/e/e_1071.png) | [Empire's Sword](/equipment/Empire's Sword/) | **ATK** | **DEF** | 
+  | ![Light Battle Armor](/images/e/e_1072.png) | [Light Battle Armor](/equipment/Light Battle Armor/) | **HP** | **DEF** | 
+  | ![Light Gauntlets](/images/e/e_1073.png) | [Light Gauntlets](/equipment/Light Gauntlets/) | **ATK** | **DEF** | 
+  | ![Pauldrons of Lightness](/images/e/e_1074.png) | [Pauldrons of Lightness](/equipment/Pauldrons of Lightness/) | **HP** | **DEF** | 
 
 ## Exclusive
 

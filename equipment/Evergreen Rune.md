@@ -2,12 +2,19 @@
 title: "Evergreen Rune"
 permalink: /equipment/Evergreen Rune/
 excerpt: "Era of Chaos Evergreen Rune. Evergreen Rune"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Evergreen Rune.md"
 toc: false
 classes: wide
 ---
+
+  ![Evergreen Rune](/images/e/e_2053.png)
+
+## Used by Units:
+
+* [Dendroid Guard](/units/Dendroid Guard/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

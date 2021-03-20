@@ -2,12 +2,19 @@
 title: "Radiance Headband"
 permalink: /equipment/Radiance Headband/
 excerpt: "Era of Chaos Radiance Headband. Radiance Headband"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Radiance Headband.md"
 toc: false
 classes: wide
 ---
+
+  ![Radiance Headband](/images/e/e_99073.png)
+
+## Used by Units:
+
+* [Regnan Seer](/units/Regnan Seer/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

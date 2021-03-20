@@ -2,12 +2,19 @@
 title: "Pauldrons of Pure Gold"
 permalink: /equipment/Pauldrons of Pure Gold/
 excerpt: "Era of Chaos Pauldrons of Pure Gold. Pauldrons of Pure Gold"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pauldrons of Pure Gold.md"
 toc: false
 classes: wide
 ---
+
+  ![Pauldrons of Pure Gold](/images/e/e_6072.png)
+
+## Used by Units:
+
+* [Giant](/units/Giant/) 
+
 
 ## Basic stats
  **Stat 1:** HP

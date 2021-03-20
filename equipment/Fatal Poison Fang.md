@@ -2,12 +2,19 @@
 title: "Fatal Poison Fang"
 permalink: /equipment/Fatal Poison Fang/
 excerpt: "Era of Chaos Fatal Poison Fang. Fatal Poison Fang"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Fatal Poison Fang.md"
 toc: false
 classes: wide
 ---
+
+  ![Fatal Poison Fang](/images/e/e_7062.png)
+
+## Used by Units:
+
+* [Manticore](/units/Manticore/) 
+
 
 ## Basic stats
  **Stat 1:** HP

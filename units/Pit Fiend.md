@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pit Fiend"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hellish Whip](/equipment/Hellish Whip/) | **ATK** | **DEF** | 
-  | [Charmed Light Armor](/equipment/Charmed Light Armor/) | **HP** | **DEF** | 
-  | [Charmed Horn](/equipment/Charmed Horn/) | **ATK** | **DEF** | 
-  | [Charming Pauldrons](/equipment/Charming Pauldrons/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hellish Whip](/images/e/e_5051.png) | [Hellish Whip](/equipment/Hellish Whip/) | **ATK** | **DEF** | 
+  | ![Charmed Light Armor](/images/e/e_5052.png) | [Charmed Light Armor](/equipment/Charmed Light Armor/) | **HP** | **DEF** | 
+  | ![Charmed Horn](/images/e/e_5053.png) | [Charmed Horn](/equipment/Charmed Horn/) | **ATK** | **DEF** | 
+  | ![Charming Pauldrons](/images/e/e_5054.png) | [Charming Pauldrons](/equipment/Charming Pauldrons/) | **HP** | **DEF** | 
 
 ## Exclusive
 

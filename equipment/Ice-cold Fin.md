@@ -2,12 +2,19 @@
 title: "Ice-cold Fin"
 permalink: /equipment/Ice-cold Fin/
 excerpt: "Era of Chaos Ice-cold Fin. Ice-cold Fin"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ice-cold Fin.md"
 toc: false
 classes: wide
 ---
+
+  ![Ice-cold Fin](/images/e/e_99082.png)
+
+## Used by Units:
+
+* [Revyaratan](/units/Revyaratan/) 
+
 
 ## Basic stats
  **Stat 1:** HP

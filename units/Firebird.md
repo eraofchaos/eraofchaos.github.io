@@ -3,7 +3,7 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Firebird"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Beak of Raging Flame](/equipment/Beak of Raging Flame/) | **ATK** | **DEF** | 
-  | [Rune of Resurrection](/equipment/Rune of Resurrection/) | **HP** | **DEF** | 
-  | [Claws of Raging Flame](/equipment/Claws of Raging Flame/) | **ATK** | **DEF** | 
-  | [Rainbow Feathered Wings](/equipment/Rainbow Feathered Wings/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Beak of Raging Flame](/images/e/e_9071.png) | [Beak of Raging Flame](/equipment/Beak of Raging Flame/) | **ATK** | **DEF** | 
+  | ![Rune of Resurrection](/images/e/e_9072.png) | [Rune of Resurrection](/equipment/Rune of Resurrection/) | **HP** | **DEF** | 
+  | ![Claws of Raging Flame](/images/e/e_9073.png) | [Claws of Raging Flame](/equipment/Claws of Raging Flame/) | **ATK** | **DEF** | 
+  | ![Rainbow Feathered Wings](/images/e/e_9074.png) | [Rainbow Feathered Wings](/equipment/Rainbow Feathered Wings/) | **HP** | **DEF** | 
 
 ## Exclusive
 

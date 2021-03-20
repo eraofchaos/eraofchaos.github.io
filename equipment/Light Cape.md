@@ -2,12 +2,19 @@
 title: "Light Cape"
 permalink: /equipment/Light Cape/
 excerpt: "Era of Chaos Light Cape. Light Cape"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Light Cape.md"
 toc: false
 classes: wide
 ---
+
+  ![Light Cape](/images/e/e_1093.png)
+
+## Used by Units:
+
+* [Judicator](/units/Judicator/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

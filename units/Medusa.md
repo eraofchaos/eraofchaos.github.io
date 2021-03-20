@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Medusa"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Slaughter Longbow](/equipment/Slaughter Longbow/) | **ATK** | **DEF** | 
-  | [Writhing Snake Hair](/equipment/Writhing Snake Hair/) | **HP** | **DEF** | 
-  | [Queen's Crown](/equipment/Queen's Crown/) | **ATK** | **DEF** | 
-  | [Abyss Armor](/equipment/Abyss Armor/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Slaughter Longbow](/images/e/e_7041.png) | [Slaughter Longbow](/equipment/Slaughter Longbow/) | **ATK** | **DEF** | 
+  | ![Writhing Snake Hair](/images/e/e_7042.png) | [Writhing Snake Hair](/equipment/Writhing Snake Hair/) | **HP** | **DEF** | 
+  | ![Queen's Crown](/images/e/e_7043.png) | [Queen's Crown](/equipment/Queen's Crown/) | **ATK** | **DEF** | 
+  | ![Abyss Armor](/images/e/e_7044.png) | [Abyss Armor](/equipment/Abyss Armor/) | **HP** | **DEF** | 
 
 ## Exclusive
 

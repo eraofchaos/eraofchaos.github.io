@@ -2,12 +2,19 @@
 title: "Everflowing Blade"
 permalink: /equipment/Everflowing Blade/
 excerpt: "Era of Chaos Everflowing Blade. Everflowing Blade"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Everflowing Blade.md"
 toc: false
 classes: wide
 ---
+
+  ![Everflowing Blade](/images/e/e_6061.png)
+
+## Used by Units:
+
+* [Naga](/units/Naga/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

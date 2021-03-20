@@ -2,12 +2,19 @@
 title: "Core of Magma"
 permalink: /equipment/Core of Magma/
 excerpt: "Era of Chaos Core of Magma. Core of Magma"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Core of Magma.md"
 toc: false
 classes: wide
 ---
+
+  ![Core of Magma](/images/e/e_9051.png)
+
+## Used by Units:
+
+* [Stone Elemental](/units/Stone Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

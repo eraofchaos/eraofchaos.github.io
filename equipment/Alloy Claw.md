@@ -2,12 +2,19 @@
 title: "Alloy Claw"
 permalink: /equipment/Alloy Claw/
 excerpt: "Era of Chaos Alloy Claw. Alloy Claw"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Alloy Claw.md"
 toc: false
 classes: wide
 ---
+
+  ![Alloy Claw](/images/e/e_6091.png)
+
+## Used by Units:
+
+* [Dragon Golem](/units/Dragon Golem/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

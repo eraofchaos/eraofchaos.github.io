@@ -3,7 +3,7 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Wolf Rider"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Razor-bladed Sabre](/equipment/Razor-bladed Sabre/) | **ATK** | **DEF** | 
-  | [Mighty Belt](/equipment/Mighty Belt/) | **HP** | **DEF** | 
-  | [Bracer of the Wolf](/equipment/Bracer of the Wolf/) | **ATK** | **DEF** | 
-  | [Pauldrons of Wolf-tongue](/equipment/Pauldrons of Wolf-tongue/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Razor-bladed Sabre](/images/e/e_4021.png) | [Razor-bladed Sabre](/equipment/Razor-bladed Sabre/) | **ATK** | **DEF** | 
+  | ![Mighty Belt](/images/e/e_4022.png) | [Mighty Belt](/equipment/Mighty Belt/) | **HP** | **DEF** | 
+  | ![Bracer of the Wolf](/images/e/e_4023.png) | [Bracer of the Wolf](/equipment/Bracer of the Wolf/) | **ATK** | **DEF** | 
+  | ![Pauldrons of Wolf-tongue](/images/e/e_4024.png) | [Pauldrons of Wolf-tongue](/equipment/Pauldrons of Wolf-tongue/) | **HP** | **DEF** | 
 
 ## Exclusive
 

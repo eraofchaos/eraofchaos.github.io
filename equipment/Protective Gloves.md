@@ -2,12 +2,19 @@
 title: "Protective Gloves"
 permalink: /equipment/Protective Gloves/
 excerpt: "Era of Chaos Protective Gloves. Protective Gloves"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Protective Gloves.md"
 toc: false
 classes: wide
 ---
+
+  ![Protective Gloves](/images/e/e_99092.png)
+
+## Used by Units:
+
+* [Shark Trainer](/units/Shark Trainer/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gremlin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lightning's Flail](/equipment/Lightning's Flail/) | **ATK** | **DEF** | 
-  | [Enchanted Hood](/equipment/Enchanted Hood/) | **HP** | **DEF** | 
-  | [Enchanted Gloves](/equipment/Enchanted Gloves/) | **ATK** | **DEF** | 
-  | [Windproof Cloak](/equipment/Windproof Cloak/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lightning's Flail](/images/e/e_6011.png) | [Lightning's Flail](/equipment/Lightning's Flail/) | **ATK** | **DEF** | 
+  | ![Enchanted Hood](/images/e/e_6012.png) | [Enchanted Hood](/equipment/Enchanted Hood/) | **HP** | **DEF** | 
+  | ![Enchanted Gloves](/images/e/e_6013.png) | [Enchanted Gloves](/equipment/Enchanted Gloves/) | **ATK** | **DEF** | 
+  | ![Windproof Cloak](/images/e/e_6014.png) | [Windproof Cloak](/equipment/Windproof Cloak/) | **HP** | **DEF** | 
 
 ## Exclusive
 

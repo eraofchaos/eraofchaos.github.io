@@ -2,12 +2,19 @@
 title: "Toxic Tail"
 permalink: /equipment/Toxic Tail/
 excerpt: "Era of Chaos Toxic Tail. Toxic Tail"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Toxic Tail.md"
 toc: false
 classes: wide
 ---
+
+  ![Toxic Tail](/images/e/e_7063.png)
+
+## Used by Units:
+
+* [Manticore](/units/Manticore/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

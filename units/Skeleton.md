@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Skeleton"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Unholy Scimitar](/equipment/Unholy Scimitar/) | **ATK** | **DEF** | 
-  | [Rusted Helmet](/equipment/Rusted Helmet/) | **HP** | **DEF** | 
-  | [Unholy Shield](/equipment/Unholy Shield/) | **ATK** | **DEF** | 
-  | [Rusted Pauldrons](/equipment/Rusted Pauldrons/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Unholy Scimitar](/images/e/e_3011.png) | [Unholy Scimitar](/equipment/Unholy Scimitar/) | **ATK** | **DEF** | 
+  | ![Rusted Helmet](/images/e/e_3012.png) | [Rusted Helmet](/equipment/Rusted Helmet/) | **HP** | **DEF** | 
+  | ![Unholy Shield](/images/e/e_3013.png) | [Unholy Shield](/equipment/Unholy Shield/) | **ATK** | **DEF** | 
+  | ![Rusted Pauldrons](/images/e/e_3014.png) | [Rusted Pauldrons](/equipment/Rusted Pauldrons/) | **HP** | **DEF** | 
 
 ## Exclusive
 

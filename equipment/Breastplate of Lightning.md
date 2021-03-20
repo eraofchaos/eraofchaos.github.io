@@ -2,12 +2,19 @@
 title: "Breastplate of Lightning"
 permalink: /equipment/Breastplate of Lightning/
 excerpt: "Era of Chaos Breastplate of Lightning. Breastplate of Lightning"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Breastplate of Lightning.md"
 toc: false
 classes: wide
 ---
+
+  ![Breastplate of Lightning](/images/e/e_6074.png)
+
+## Used by Units:
+
+* [Giant](/units/Giant/) 
+
 
 ## Basic stats
  **Stat 1:** HP

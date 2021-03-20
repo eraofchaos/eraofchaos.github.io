@@ -2,12 +2,19 @@
 title: "Breath of Death"
 permalink: /equipment/Breath of Death/
 excerpt: "Era of Chaos Breath of Death. Breath of Death"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Breath of Death.md"
 toc: false
 classes: wide
 ---
+
+  ![Breath of Death](/images/e/e_3084.png)
+
+## Used by Units:
+
+* [Mummy](/units/Mummy/) 
+
 
 ## Basic stats
  **Stat 1:** HP

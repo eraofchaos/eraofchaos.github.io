@@ -2,12 +2,19 @@
 title: "Frigid Helm"
 permalink: /equipment/Frigid Helm/
 excerpt: "Era of Chaos Frigid Helm. Frigid Helm"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Frigid Helm.md"
 toc: false
 classes: wide
 ---
+
+  ![Frigid Helm](/images/e/e_9083.png)
+
+## Used by Units:
+
+* [Ice Demon](/units/Ice Demon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

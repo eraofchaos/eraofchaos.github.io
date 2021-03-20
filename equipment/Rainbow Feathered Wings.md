@@ -2,12 +2,19 @@
 title: "Rainbow Feathered Wings"
 permalink: /equipment/Rainbow Feathered Wings/
 excerpt: "Era of Chaos Rainbow Feathered Wings. Rainbow Feathered Wings"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Rainbow Feathered Wings.md"
 toc: false
 classes: wide
 ---
+
+  ![Rainbow Feathered Wings](/images/e/e_9074.png)
+
+## Used by Units:
+
+* [Firebird](/units/Firebird/) 
+
 
 ## Basic stats
  **Stat 1:** HP

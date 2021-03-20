@@ -2,12 +2,19 @@
 title: "Queen's Crown"
 permalink: /equipment/Queen's Crown/
 excerpt: "Era of Chaos Queen's Crown. Queen's Crown"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Queen's Crown.md"
 toc: false
 classes: wide
 ---
+
+  ![Queen's Crown](/images/e/e_7043.png)
+
+## Used by Units:
+
+* [Medusa](/units/Medusa/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

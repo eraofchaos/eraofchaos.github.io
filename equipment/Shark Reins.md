@@ -2,12 +2,19 @@
 title: "Shark Reins"
 permalink: /equipment/Shark Reins/
 excerpt: "Era of Chaos Shark Reins. Shark Reins"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Shark Reins.md"
 toc: false
 classes: wide
 ---
+
+  ![Shark Reins](/images/e/e_99094.png)
+
+## Used by Units:
+
+* [Shark Trainer](/units/Shark Trainer/) 
+
 
 ## Basic stats
  **Stat 1:** HP

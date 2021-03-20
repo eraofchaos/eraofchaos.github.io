@@ -2,12 +2,19 @@
 title: "Iron Gauntlets"
 permalink: /equipment/Iron Gauntlets/
 excerpt: "Era of Chaos Iron Gauntlets. Iron Gauntlets"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Iron Gauntlets.md"
 toc: false
 classes: wide
 ---
+
+  ![Iron Gauntlets](/images/e/e_6031.png)
+
+## Used by Units:
+
+* [Iron Golem](/units/Iron Golem/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

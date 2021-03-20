@@ -2,12 +2,19 @@
 title: "UnknownEquipment_5093"
 permalink: /equipment/UnknownEquipment_5093/
 excerpt: "Era of Chaos UnknownEquipment_5093. UnknownEquipment_5093"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "UnknownEquipment_5093.md"
 toc: false
 classes: wide
 ---
+
+  ![UnknownEquipment_5093](/images/e/e_5093.png)
+
+## Used by Units:
+
+* [Venom Spawn](/units/Venom Spawn/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

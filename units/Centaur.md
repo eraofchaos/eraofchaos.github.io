@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Centaur"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Battleaxe of the Wild](/equipment/Battleaxe of the Wild/) | **ATK** | **DEF** | 
-  | [Helm of the Wild](/equipment/Helm of the Wild/) | **HP** | **DEF** | 
-  | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ATK** | **DEF** | 
-  | [Pauldrons of Wild](/equipment/Pauldrons of Wild/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Battleaxe of the Wild](/images/e/e_2011.png) | [Battleaxe of the Wild](/equipment/Battleaxe of the Wild/) | **ATK** | **DEF** | 
+  | ![Helm of the Wild](/images/e/e_2012.png) | [Helm of the Wild](/equipment/Helm of the Wild/) | **HP** | **DEF** | 
+  | ![Gauntlets of the Wild](/images/e/e_2013.png) | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ATK** | **DEF** | 
+  | ![Pauldrons of Wild](/images/e/e_2014.png) | [Pauldrons of Wild](/equipment/Pauldrons of Wild/) | **HP** | **DEF** | 
 
 ## Exclusive
 

@@ -2,12 +2,19 @@
 title: "Spiked Tortoise Shell"
 permalink: /equipment/Spiked Tortoise Shell/
 excerpt: "Era of Chaos Spiked Tortoise Shell. Spiked Tortoise Shell"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Spiked Tortoise Shell.md"
 toc: false
 classes: wide
 ---
+
+  ![Spiked Tortoise Shell](/images/e/e_99062.png)
+
+## Used by Units:
+
+* [Dragon Turtle](/units/Dragon Turtle/) 
+
 
 ## Basic stats
  **Stat 1:** HP

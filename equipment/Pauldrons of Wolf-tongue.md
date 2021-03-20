@@ -2,12 +2,19 @@
 title: "Pauldrons of Wolf-tongue"
 permalink: /equipment/Pauldrons of Wolf-tongue/
 excerpt: "Era of Chaos Pauldrons of Wolf-tongue. Pauldrons of Wolf-tongue"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pauldrons of Wolf-tongue.md"
 toc: false
 classes: wide
 ---
+
+  ![Pauldrons of Wolf-tongue](/images/e/e_4024.png)
+
+## Used by Units:
+
+* [Wolf Rider](/units/Wolf Rider/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Lightning's armor"
 permalink: /equipment/Lightning's armor/
 excerpt: "Era of Chaos Lightning's armor. Lightning's armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Lightning's armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Lightning's armor](/images/e/e_4054.png)
+
+## Used by Units:
+
+* [Roc](/units/Roc/) 
+
 
 ## Basic stats
  **Stat 1:** HP

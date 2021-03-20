@@ -2,12 +2,19 @@
 title: "Plate Helmet"
 permalink: /equipment/Plate Helmet/
 excerpt: "Era of Chaos Plate Helmet. Plate Helmet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Plate Helmet.md"
 toc: false
 classes: wide
 ---
+
+  ![Plate Helmet](/images/e/e_1012.png)
+
+## Used by Units:
+
+* [Pikeman](/units/Pikeman/) 
+
 
 ## Basic stats
  **Stat 1:** HP

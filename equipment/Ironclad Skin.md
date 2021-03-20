@@ -2,12 +2,19 @@
 title: "Ironclad Skin"
 permalink: /equipment/Ironclad Skin/
 excerpt: "Era of Chaos Ironclad Skin. Ironclad Skin"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ironclad Skin.md"
 toc: false
 classes: wide
 ---
+
+  ![Ironclad Skin](/images/e/e_4072.png)
+
+## Used by Units:
+
+* [Behemoth](/units/Behemoth/) 
+
 
 ## Basic stats
  **Stat 1:** HP

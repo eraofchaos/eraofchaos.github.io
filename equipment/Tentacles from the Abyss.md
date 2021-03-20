@@ -2,12 +2,19 @@
 title: "Tentacles from the Abyss"
 permalink: /equipment/Tentacles from the Abyss/
 excerpt: "Era of Chaos Tentacles from the Abyss. Tentacles from the Abyss"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Tentacles from the Abyss.md"
 toc: false
 classes: wide
 ---
+
+  ![Tentacles from the Abyss](/images/e/e_7034.png)
+
+## Used by Units:
+
+* [Beholder](/units/Beholder/) 
+
 
 ## Basic stats
  **Stat 1:** HP

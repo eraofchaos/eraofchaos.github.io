@@ -3,7 +3,7 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Giant"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Thunderbolt](/equipment/Thunderbolt/) | **ATK** | **DEF** | 
-  | [Pauldrons of Pure Gold](/equipment/Pauldrons of Pure Gold/) | **HP** | **DEF** | 
-  | [Thunder Helmet](/equipment/Thunder Helmet/) | **ATK** | **DEF** | 
-  | [Breastplate of Lightning](/equipment/Breastplate of Lightning/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Thunderbolt](/images/e/e_6071.png) | [Thunderbolt](/equipment/Thunderbolt/) | **ATK** | **DEF** | 
+  | ![Pauldrons of Pure Gold](/images/e/e_6072.png) | [Pauldrons of Pure Gold](/equipment/Pauldrons of Pure Gold/) | **HP** | **DEF** | 
+  | ![Thunder Helmet](/images/e/e_6073.png) | [Thunder Helmet](/equipment/Thunder Helmet/) | **ATK** | **DEF** | 
+  | ![Breastplate of Lightning](/images/e/e_6074.png) | [Breastplate of Lightning](/equipment/Breastplate of Lightning/) | **HP** | **DEF** | 
 
 ## Exclusive
 

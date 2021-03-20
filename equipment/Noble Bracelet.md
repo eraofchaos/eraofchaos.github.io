@@ -2,12 +2,19 @@
 title: "Noble Bracelet"
 permalink: /equipment/Noble Bracelet/
 excerpt: "Era of Chaos Noble Bracelet. Noble Bracelet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Noble Bracelet.md"
 toc: false
 classes: wide
 ---
+
+  ![Noble Bracelet](/images/e/e_99074.png)
+
+## Used by Units:
+
+* [Regnan Seer](/units/Regnan Seer/) 
+
 
 ## Basic stats
  **Stat 1:** HP

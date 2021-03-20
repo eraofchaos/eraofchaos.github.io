@@ -3,7 +3,7 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mummy"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Immortal Touch](/equipment/Immortal Touch/) | **ATK** | **DEF** | 
-  | [Ancient Bandage](/equipment/Ancient Bandage/) | **HP** | **DEF** | 
-  | [Pupil of the Departed](/equipment/Pupil of the Departed/) | **ATK** | **DEF** | 
-  | [Breath of Death](/equipment/Breath of Death/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Immortal Touch](/images/e/e_3081.png) | [Immortal Touch](/equipment/Immortal Touch/) | **ATK** | **DEF** | 
+  | ![Ancient Bandage](/images/e/e_3082.png) | [Ancient Bandage](/equipment/Ancient Bandage/) | **HP** | **DEF** | 
+  | ![Pupil of the Departed](/images/e/e_3083.png) | [Pupil of the Departed](/equipment/Pupil of the Departed/) | **ATK** | **DEF** | 
+  | ![Breath of Death](/images/e/e_3084.png) | [Breath of Death](/equipment/Breath of Death/) | **HP** | **DEF** | 
 
 ## Exclusive
 

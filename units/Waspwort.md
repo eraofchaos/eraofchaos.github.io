@@ -3,7 +3,7 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Waspwort"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Strong Flowering Branch](/equipment/Strong Flowering Branch/) | **ATK** | **DEF** | 
-  | [Toxic Thorn](/equipment/Toxic Thorn/) | **HP** | **DEF** | 
-  | [Flower Overlord](/equipment/Flower Overlord/) | **ATK** | **DEF** | 
-  | [Killer Bee](/equipment/Killer Bee/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Strong Flowering Branch](/images/e/e_8081.png) | [Strong Flowering Branch](/equipment/Strong Flowering Branch/) | **ATK** | **DEF** | 
+  | ![Toxic Thorn](/images/e/e_8082.png) | [Toxic Thorn](/equipment/Toxic Thorn/) | **HP** | **DEF** | 
+  | ![Flower Overlord](/images/e/e_8083.png) | [Flower Overlord](/equipment/Flower Overlord/) | **ATK** | **DEF** | 
+  | ![Killer Bee](/images/e/e_8084.png) | [Killer Bee](/equipment/Killer Bee/) | **HP** | **DEF** | 
 
 ## Exclusive
 

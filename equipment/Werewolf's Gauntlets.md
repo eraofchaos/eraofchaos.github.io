@@ -2,12 +2,19 @@
 title: "Werewolf's Gauntlets"
 permalink: /equipment/Werewolf's Gauntlets/
 excerpt: "Era of Chaos Werewolf's Gauntlets. Werewolf's Gauntlets"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Werewolf's Gauntlets.md"
 toc: false
 classes: wide
 ---
+
+  ![Werewolf's Gauntlets](/images/e/e_8014.png)
+
+## Used by Units:
+
+* [Gnoll](/units/Gnoll/) 
+
 
 ## Basic stats
  **Stat 1:** HP

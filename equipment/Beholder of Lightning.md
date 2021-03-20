@@ -2,12 +2,19 @@
 title: "Beholder of Lightning"
 permalink: /equipment/Beholder of Lightning/
 excerpt: "Era of Chaos Beholder of Lightning. Beholder of Lightning"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Beholder of Lightning.md"
 toc: false
 classes: wide
 ---
+
+  ![Beholder of Lightning](/images/e/e_9024.png)
+
+## Used by Units:
+
+* [Storm Elemental](/units/Storm Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

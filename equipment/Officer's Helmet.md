@@ -2,12 +2,19 @@
 title: "Officer's Helmet"
 permalink: /equipment/Officer's Helmet/
 excerpt: "Era of Chaos Officer's Helmet. Officer's Helmet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Officer's Helmet.md"
 toc: false
 classes: wide
 ---
+
+  ![Officer's Helmet](/images/e/e_1042.png)
+
+## Used by Units:
+
+* [Swordsman](/units/Swordsman/) 
+
 
 ## Basic stats
  **Stat 1:** HP

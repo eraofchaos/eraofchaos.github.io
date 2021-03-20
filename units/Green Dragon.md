@@ -3,7 +3,7 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Green Dragon"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Venomous Horn](/equipment/Venomous Horn/) | **ATK** | **DEF** | 
-  | [Dragon Scale Armor](/equipment/Dragon Scale Armor/) | **HP** | **DEF** | 
-  | [Claws of Decay](/equipment/Claws of Decay/) | **ATK** | **DEF** | 
-  | [Venomous Dragon Blood](/equipment/Venomous Dragon Blood/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Venomous Horn](/images/e/e_2071.png) | [Venomous Horn](/equipment/Venomous Horn/) | **ATK** | **DEF** | 
+  | ![Dragon Scale Armor](/images/e/e_2072.png) | [Dragon Scale Armor](/equipment/Dragon Scale Armor/) | **HP** | **DEF** | 
+  | ![Claws of Decay](/images/e/e_2073.png) | [Claws of Decay](/equipment/Claws of Decay/) | **ATK** | **DEF** | 
+  | ![Venomous Dragon Blood](/images/e/e_2074.png) | [Venomous Dragon Blood](/equipment/Venomous Dragon Blood/) | **HP** | **DEF** | 
 
 ## Exclusive
 

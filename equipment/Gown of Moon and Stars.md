@@ -2,12 +2,19 @@
 title: "Gown of Moon and Stars"
 permalink: /equipment/Gown of Moon and Stars/
 excerpt: "Era of Chaos Gown of Moon and Stars. Gown of Moon and Stars"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gown of Moon and Stars.md"
 toc: false
 classes: wide
 ---
+
+  ![Gown of Moon and Stars](/images/e/e_9012.png)
+
+## Used by Units:
+
+* [Sprite](/units/Sprite/) 
+
 
 ## Basic stats
  **Stat 1:** HP

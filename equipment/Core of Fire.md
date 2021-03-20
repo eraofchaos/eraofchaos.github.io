@@ -2,12 +2,19 @@
 title: "Core of Fire"
 permalink: /equipment/Core of Fire/
 excerpt: "Era of Chaos Core of Fire. Core of Fire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Core of Fire.md"
 toc: false
 classes: wide
 ---
+
+  ![Core of Fire](/images/e/e_9041.png)
+
+## Used by Units:
+
+* [Fire Elemental](/units/Fire Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "Beak of Thunder"
 permalink: /equipment/Beak of Thunder/
 excerpt: "Era of Chaos Beak of Thunder. Beak of Thunder"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Beak of Thunder.md"
 toc: false
 classes: wide
 ---
+
+  ![Beak of Thunder](/images/e/e_4051.png)
+
+## Used by Units:
+
+* [Roc](/units/Roc/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

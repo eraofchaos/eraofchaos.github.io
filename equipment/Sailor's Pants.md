@@ -2,12 +2,19 @@
 title: "Sailor's Pants"
 permalink: /equipment/Sailor's Pants/
 excerpt: "Era of Chaos Sailor's Pants. Sailor's Pants"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sailor's Pants.md"
 toc: false
 classes: wide
 ---
+
+  ![Sailor's Pants](/images/e/e_99014.png)
+
+## Used by Units:
+
+* [Regnan Pirates](/units/Regnan Pirates/) 
+
 
 ## Basic stats
  **Stat 1:** HP

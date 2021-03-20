@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ogre"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Rams-head Staff](/equipment/Rams-head Staff/) | **ATK** | **DEF** | 
-  | [Belt of Ritual](/equipment/Belt of Ritual/) | **HP** | **DEF** | 
-  | [Tribal Talisman](/equipment/Tribal Talisman/) | **ATK** | **DEF** | 
-  | [Pauldrons of Ritual](/equipment/Pauldrons of Ritual/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Rams-head Staff](/images/e/e_4041.png) | [Rams-head Staff](/equipment/Rams-head Staff/) | **ATK** | **DEF** | 
+  | ![Belt of Ritual](/images/e/e_4042.png) | [Belt of Ritual](/equipment/Belt of Ritual/) | **HP** | **DEF** | 
+  | ![Tribal Talisman](/images/e/e_4043.png) | [Tribal Talisman](/equipment/Tribal Talisman/) | **ATK** | **DEF** | 
+  | ![Pauldrons of Ritual](/images/e/e_4044.png) | [Pauldrons of Ritual](/equipment/Pauldrons of Ritual/) | **HP** | **DEF** | 
 
 ## Exclusive
 

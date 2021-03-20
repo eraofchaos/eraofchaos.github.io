@@ -2,12 +2,19 @@
 title: "Thorn's Chakram"
 permalink: /equipment/Thorn's Chakram/
 excerpt: "Era of Chaos Thorn's Chakram. Thorn's Chakram"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Thorn's Chakram.md"
 toc: false
 classes: wide
 ---
+
+  ![Thorn's Chakram](/images/e/e_2041.png)
+
+## Used by Units:
+
+* [Pegasus](/units/Pegasus/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

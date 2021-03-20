@@ -2,12 +2,19 @@
 title: "Ferocious Claws"
 permalink: /equipment/Ferocious Claws/
 excerpt: "Era of Chaos Ferocious Claws. Ferocious Claws"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ferocious Claws.md"
 toc: false
 classes: wide
 ---
+
+  ![Ferocious Claws](/images/e/e_4071.png)
+
+## Used by Units:
+
+* [Behemoth](/units/Behemoth/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

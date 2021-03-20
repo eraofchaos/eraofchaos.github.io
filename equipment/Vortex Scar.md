@@ -2,12 +2,19 @@
 title: "Vortex Scar"
 permalink: /equipment/Vortex Scar/
 excerpt: "Era of Chaos Vortex Scar. Vortex Scar"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Vortex Scar.md"
 toc: false
 classes: wide
 ---
+
+  ![Vortex Scar](/images/e/e_99034.png)
+
+## Used by Units:
+
+* [Sea Elemental](/units/Sea Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

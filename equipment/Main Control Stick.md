@@ -2,12 +2,19 @@
 title: "Main Control Stick"
 permalink: /equipment/Main Control Stick/
 excerpt: "Era of Chaos Main Control Stick. Main Control Stick"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Main Control Stick.md"
 toc: false
 classes: wide
 ---
+
+  ![Main Control Stick](/images/e/e_6093.png)
+
+## Used by Units:
+
+* [Dragon Golem](/units/Dragon Golem/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

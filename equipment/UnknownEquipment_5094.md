@@ -2,12 +2,19 @@
 title: "UnknownEquipment_5094"
 permalink: /equipment/UnknownEquipment_5094/
 excerpt: "Era of Chaos UnknownEquipment_5094. UnknownEquipment_5094"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "UnknownEquipment_5094.md"
 toc: false
 classes: wide
 ---
+
+  ![UnknownEquipment_5094](/images/e/e_5094.png)
+
+## Used by Units:
+
+* [Venom Spawn](/units/Venom Spawn/) 
+
 
 ## Basic stats
  **Stat 1:** HP

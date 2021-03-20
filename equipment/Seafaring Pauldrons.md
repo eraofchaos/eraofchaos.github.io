@@ -2,12 +2,19 @@
 title: "Seafaring Pauldrons"
 permalink: /equipment/Seafaring Pauldrons/
 excerpt: "Era of Chaos Seafaring Pauldrons. Seafaring Pauldrons"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Seafaring Pauldrons.md"
 toc: false
 classes: wide
 ---
+
+  ![Seafaring Pauldrons](/images/e/e_6062.png)
+
+## Used by Units:
+
+* [Naga](/units/Naga/) 
+
 
 ## Basic stats
  **Stat 1:** HP

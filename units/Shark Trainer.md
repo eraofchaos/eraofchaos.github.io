@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark."
 unitID: 9909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Shark Trainer"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Steel Scimitar](/equipment/Steel Scimitar/) | **ATK** | **DEF** | 
-  | [Protective Strap](/equipment/Protective Strap/) | **HP** | **DEF** | 
-  | [Protective Gloves](/equipment/Protective Gloves/) | **ATK** | **DEF** | 
-  | [Shark Reins](/equipment/Shark Reins/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Steel Scimitar](/images/e/e_99091.png) | [Steel Scimitar](/equipment/Steel Scimitar/) | **ATK** | **DEF** | 
+  | ![Protective Strap](/images/e/e_99093.png) | [Protective Strap](/equipment/Protective Strap/) | **HP** | **DEF** | 
+  | ![Protective Gloves](/images/e/e_99092.png) | [Protective Gloves](/equipment/Protective Gloves/) | **ATK** | **DEF** | 
+  | ![Shark Reins](/images/e/e_99094.png) | [Shark Reins](/equipment/Shark Reins/) | **HP** | **DEF** | 
 
 ## Exclusive
 

@@ -2,12 +2,19 @@
 title: "Staff of Theocracy"
 permalink: /equipment/Staff of Theocracy/
 excerpt: "Era of Chaos Staff of Theocracy. Staff of Theocracy"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Staff of Theocracy.md"
 toc: false
 classes: wide
 ---
+
+  ![Staff of Theocracy](/images/e/e_1091.png)
+
+## Used by Units:
+
+* [Judicator](/units/Judicator/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

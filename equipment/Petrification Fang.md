@@ -2,12 +2,19 @@
 title: "Petrification Fang"
 permalink: /equipment/Petrification Fang/
 excerpt: "Era of Chaos Petrification Fang. Petrification Fang"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Petrification Fang.md"
 toc: false
 classes: wide
 ---
+
+  ![Petrification Fang](/images/e/e_8044.png)
+
+## Used by Units:
+
+* [Basilisk](/units/Basilisk/) 
+
 
 ## Basic stats
  **Stat 1:** HP

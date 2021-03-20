@@ -3,7 +3,7 @@ title: "Mermaid"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The daughter of the sea, who is protected by the sea, heals companions using the power of the ocean."
 unitID: 9905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mermaid"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sea Organ](/equipment/Sea Organ/) | **ATK** | **DEF** | 
-  | [Merman Earrings](/equipment/Merman Earrings/) | **HP** | **DEF** | 
-  | [Flexible Fishtail](/equipment/Flexible Fishtail/) | **ATK** | **DEF** | 
-  | [Ocean's Protection](/equipment/Ocean's Protection/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sea Organ](/images/e/e_99051.png) | [Sea Organ](/equipment/Sea Organ/) | **ATK** | **DEF** | 
+  | ![Merman Earrings](/images/e/e_99052.png) | [Merman Earrings](/equipment/Merman Earrings/) | **HP** | **DEF** | 
+  | ![Flexible Fishtail](/images/e/e_99053.png) | [Flexible Fishtail](/equipment/Flexible Fishtail/) | **ATK** | **DEF** | 
+  | ![Ocean's Protection](/images/e/e_99054.png) | [Ocean's Protection](/equipment/Ocean's Protection/) | **HP** | **DEF** | 
 
 ## Exclusive
 

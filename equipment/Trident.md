@@ -2,12 +2,19 @@
 title: "Trident"
 permalink: /equipment/Trident/
 excerpt: "Era of Chaos Trident. Trident"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Trident.md"
 toc: false
 classes: wide
 ---
+
+  ![Trident](/images/e/e_99041.png)
+
+## Used by Units:
+
+* [Regnan Serpent](/units/Regnan Serpent/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

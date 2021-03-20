@@ -2,12 +2,19 @@
 title: "Leather Gauntlets"
 permalink: /equipment/Leather Gauntlets/
 excerpt: "Era of Chaos Leather Gauntlets. Leather Gauntlets"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Leather Gauntlets.md"
 toc: false
 classes: wide
 ---
+
+  ![Leather Gauntlets](/images/e/e_1024.png)
+
+## Used by Units:
+
+* [Marksman](/units/Marksman/) 
+
 
 ## Basic stats
  **Stat 1:** HP

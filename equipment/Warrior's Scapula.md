@@ -2,12 +2,19 @@
 title: "Warrior's Scapula"
 permalink: /equipment/Warrior's Scapula/
 excerpt: "Era of Chaos Warrior's Scapula. Warrior's Scapula"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Warrior's Scapula.md"
 toc: false
 classes: wide
 ---
+
+  ![Warrior's Scapula](/images/e/e_8023.png)
+
+## Used by Units:
+
+* [Lizardman](/units/Lizardman/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

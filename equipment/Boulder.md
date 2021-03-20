@@ -2,12 +2,19 @@
 title: "Boulder"
 permalink: /equipment/Boulder/
 excerpt: "Era of Chaos Boulder. Boulder"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Boulder.md"
 toc: false
 classes: wide
 ---
+
+  ![Boulder](/images/e/e_4061.png)
+
+## Used by Units:
+
+* [Cyclops](/units/Cyclops/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

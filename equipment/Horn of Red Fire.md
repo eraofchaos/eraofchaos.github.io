@@ -2,12 +2,19 @@
 title: "Horn of Red Fire"
 permalink: /equipment/Horn of Red Fire/
 excerpt: "Era of Chaos Horn of Red Fire. Horn of Red Fire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Horn of Red Fire.md"
 toc: false
 classes: wide
 ---
+
+  ![Horn of Red Fire](/images/e/e_7081.png)
+
+## Used by Units:
+
+* [Red Dragon](/units/Red Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

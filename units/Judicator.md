@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Judicator"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Staff of Theocracy](/equipment/Staff of Theocracy/) | **ATK** | **DEF** | 
-  | [Celestial Hood of Bliss](/equipment/Celestial Hood of Bliss/) | **HP** | **DEF** | 
-  | [Light Cape](/equipment/Light Cape/) | **ATK** | **DEF** | 
-  | [Divine Vambrace](/equipment/Divine Vambrace/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Staff of Theocracy](/images/e/e_1091.png) | [Staff of Theocracy](/equipment/Staff of Theocracy/) | **ATK** | **DEF** | 
+  | ![Celestial Hood of Bliss](/images/e/e_1092.png) | [Celestial Hood of Bliss](/equipment/Celestial Hood of Bliss/) | **HP** | **DEF** | 
+  | ![Light Cape](/images/e/e_1093.png) | [Light Cape](/equipment/Light Cape/) | **ATK** | **DEF** | 
+  | ![Divine Vambrace](/images/e/e_1094.png) | [Divine Vambrace](/equipment/Divine Vambrace/) | **HP** | **DEF** | 
 
 ## Exclusive
 

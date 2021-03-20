@@ -2,12 +2,19 @@
 title: "Claws of Decay"
 permalink: /equipment/Claws of Decay/
 excerpt: "Era of Chaos Claws of Decay. Claws of Decay"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Claws of Decay.md"
 toc: false
 classes: wide
 ---
+
+  ![Claws of Decay](/images/e/e_2073.png)
+
+## Used by Units:
+
+* [Green Dragon](/units/Green Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

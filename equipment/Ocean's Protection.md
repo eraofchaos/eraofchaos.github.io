@@ -2,12 +2,19 @@
 title: "Ocean's Protection"
 permalink: /equipment/Ocean's Protection/
 excerpt: "Era of Chaos Ocean's Protection. Ocean's Protection"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ocean's Protection.md"
 toc: false
 classes: wide
 ---
+
+  ![Ocean's Protection](/images/e/e_99054.png)
+
+## Used by Units:
+
+* [Mermaid](/units/Mermaid/) 
+
 
 ## Basic stats
  **Stat 1:** HP

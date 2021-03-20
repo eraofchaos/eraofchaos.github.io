@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dwarf"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Strong Hammer](/equipment/Strong Hammer/) | **ATK** | **DEF** | 
-  | [Horned Helmet](/equipment/Horned Helmet/) | **HP** | **DEF** | 
-  | [Gauntlets of Hearth Fire](/equipment/Gauntlets of Hearth Fire/) | **ATK** | **DEF** | 
-  | [Pauldrons of Hearth Fire](/equipment/Pauldrons of Hearth Fire/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Strong Hammer](/images/e/e_2021.png) | [Strong Hammer](/equipment/Strong Hammer/) | **ATK** | **DEF** | 
+  | ![Horned Helmet](/images/e/e_2022.png) | [Horned Helmet](/equipment/Horned Helmet/) | **HP** | **DEF** | 
+  | ![Gauntlets of Hearth Fire](/images/e/e_2023.png) | [Gauntlets of Hearth Fire](/equipment/Gauntlets of Hearth Fire/) | **ATK** | **DEF** | 
+  | ![Pauldrons of Hearth Fire](/images/e/e_2024.png) | [Pauldrons of Hearth Fire](/equipment/Pauldrons of Hearth Fire/) | **HP** | **DEF** | 
 
 ## Exclusive
 

@@ -2,12 +2,19 @@
 title: "Dreamer's Stones"
 permalink: /equipment/Dreamer's Stones/
 excerpt: "Era of Chaos Dreamer's Stones. Dreamer's Stones"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dreamer's Stones.md"
 toc: false
 classes: wide
 ---
+
+  ![Dreamer's Stones](/images/e/e_2062.png)
+
+## Used by Units:
+
+* [Unicorn](/units/Unicorn/) 
+
 
 ## Basic stats
  **Stat 1:** HP

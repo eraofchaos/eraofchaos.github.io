@@ -3,7 +3,7 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Swordsman"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Empire's Sword](/equipment/Empire's Sword/) | **ATK** | **DEF** | 
-  | [Officer's Helmet](/equipment/Officer's Helmet/) | **HP** | **DEF** | 
-  | [Empire's Shield](/equipment/Empire's Shield/) | **ATK** | **DEF** | 
-  | [Empire's Pauldrons](/equipment/Empire's Pauldrons/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Empire's Sword](/images/e/e_1041.png) | [Empire's Sword](/equipment/Empire's Sword/) | **ATK** | **DEF** | 
+  | ![Officer's Helmet](/images/e/e_1042.png) | [Officer's Helmet](/equipment/Officer's Helmet/) | **HP** | **DEF** | 
+  | ![Empire's Shield](/images/e/e_1043.png) | [Empire's Shield](/equipment/Empire's Shield/) | **ATK** | **DEF** | 
+  | ![Empire's Pauldrons](/images/e/e_1044.png) | [Empire's Pauldrons](/equipment/Empire's Pauldrons/) | **HP** | **DEF** | 
 
 ## Exclusive
 

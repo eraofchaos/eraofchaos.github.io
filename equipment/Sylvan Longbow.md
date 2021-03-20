@@ -2,12 +2,19 @@
 title: "Sylvan Longbow"
 permalink: /equipment/Sylvan Longbow/
 excerpt: "Era of Chaos Sylvan Longbow. Sylvan Longbow"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sylvan Longbow.md"
 toc: false
 classes: wide
 ---
+
+  ![Sylvan Longbow](/images/e/e_2031.png)
+
+## Used by Units:
+
+* [Wood Elf](/units/Wood Elf/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

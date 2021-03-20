@@ -2,12 +2,17 @@
 title: "Piercing Spear"
 permalink: /equipment/Piercing Spear/
 excerpt: "Era of Chaos Piercing Spear. Piercing Spear"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Piercing Spear.md"
 toc: false
 classes: wide
 ---
+
+## Used by Units:
+
+* [Spartan Warriors](/units/Spartan Warriors/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

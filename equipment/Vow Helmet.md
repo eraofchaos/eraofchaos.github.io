@@ -2,12 +2,19 @@
 title: "Vow Helmet"
 permalink: /equipment/Vow Helmet/
 excerpt: "Era of Chaos Vow Helmet. Vow Helmet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Vow Helmet.md"
 toc: false
 classes: wide
 ---
+
+  ![Vow Helmet](/images/e/e_1082.png)
+
+## Used by Units:
+
+* [Paladin](/units/Paladin/) 
+
 
 ## Basic stats
  **Stat 1:** HP

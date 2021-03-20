@@ -2,12 +2,19 @@
 title: "Sailor's Shirt"
 permalink: /equipment/Sailor's Shirt/
 excerpt: "Era of Chaos Sailor's Shirt. Sailor's Shirt"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sailor's Shirt.md"
 toc: false
 classes: wide
 ---
+
+  ![Sailor's Shirt](/images/e/e_99012.png)
+
+## Used by Units:
+
+* [Regnan Pirates](/units/Regnan Pirates/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -3,7 +3,7 @@ title: "Basilisk"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Predators living underwater. They're unfeeling and patient, and are used to waiting for their prey to wander into their trap in the dark."
 unitID: 804
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Basilisk"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Basilisk's Neck Umbrella](/equipment/Basilisk's Neck Umbrella/) | **ATK** | **DEF** | 
-  | [Adamantine Scale](/equipment/Adamantine Scale/) | **HP** | **DEF** | 
-  | [Poisoned Claw](/equipment/Poisoned Claw/) | **ATK** | **DEF** | 
-  | [Petrification Fang](/equipment/Petrification Fang/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Basilisk's Neck Umbrella](/images/e/e_8041.png) | [Basilisk's Neck Umbrella](/equipment/Basilisk's Neck Umbrella/) | **ATK** | **DEF** | 
+  | ![Adamantine Scale](/images/e/e_8042.png) | [Adamantine Scale](/equipment/Adamantine Scale/) | **HP** | **DEF** | 
+  | ![Poisoned Claw](/images/e/e_8043.png) | [Poisoned Claw](/equipment/Poisoned Claw/) | **ATK** | **DEF** | 
+  | ![Petrification Fang](/images/e/e_8044.png) | [Petrification Fang](/equipment/Petrification Fang/) | **HP** | **DEF** | 
 
 ## Exclusive
 

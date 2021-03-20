@@ -2,12 +2,19 @@
 title: "Cavalier's Lance"
 permalink: /equipment/Cavalier's Lance/
 excerpt: "Era of Chaos Cavalier's Lance. Cavalier's Lance"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Cavalier's Lance.md"
 toc: false
 classes: wide
 ---
+
+  ![Cavalier's Lance](/images/e/e_1061.png)
+
+## Used by Units:
+
+* [Cavalier](/units/Cavalier/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

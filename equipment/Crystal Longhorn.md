@@ -2,12 +2,19 @@
 title: "Crystal Longhorn"
 permalink: /equipment/Crystal Longhorn/
 excerpt: "Era of Chaos Crystal Longhorn. Crystal Longhorn"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Crystal Longhorn.md"
 toc: false
 classes: wide
 ---
+
+  ![Crystal Longhorn](/images/e/e_2061.png)
+
+## Used by Units:
+
+* [Unicorn](/units/Unicorn/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

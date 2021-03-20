@@ -2,12 +2,19 @@
 title: "Magic Dragon Claws"
 permalink: /equipment/Magic Dragon Claws/
 excerpt: "Era of Chaos Magic Dragon Claws. Magic Dragon Claws"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Magic Dragon Claws.md"
 toc: false
 classes: wide
 ---
+
+  ![Magic Dragon Claws](/images/e/e_7071.png)
+
+## Used by Units:
+
+* [Black Dragon](/units/Black Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

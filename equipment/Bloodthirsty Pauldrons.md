@@ -2,12 +2,19 @@
 title: "Bloodthirsty Pauldrons"
 permalink: /equipment/Bloodthirsty Pauldrons/
 excerpt: "Era of Chaos Bloodthirsty Pauldrons. Bloodthirsty Pauldrons"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bloodthirsty Pauldrons.md"
 toc: false
 classes: wide
 ---
+
+  ![Bloodthirsty Pauldrons](/images/e/e_4034.png)
+
+## Used by Units:
+
+* [Orc](/units/Orc/) 
+
 
 ## Basic stats
  **Stat 1:** HP

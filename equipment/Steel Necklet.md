@@ -2,12 +2,19 @@
 title: "Steel Necklet"
 permalink: /equipment/Steel Necklet/
 excerpt: "Era of Chaos Steel Necklet. Steel Necklet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Steel Necklet.md"
 toc: false
 classes: wide
 ---
+
+  ![Steel Necklet](/images/e/e_5042.png)
+
+## Used by Units:
+
+* [Demon](/units/Demon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

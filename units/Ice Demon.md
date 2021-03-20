@@ -3,7 +3,7 @@ title: "Ice Demon"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ice Demon is a strange existence even in the Conflux Plane. She is like a piece of ice that will never melt. She blinds your eyes and steals your breath. She is just like those corpses who are buried in glacial graves."
 unitID: 908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ice Demon"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ancient Ice](/equipment/Ancient Ice/) | **ATK** | **DEF** | 
-  | [Frost Touch](/equipment/Frost Touch/) | **HP** | **DEF** | 
-  | [Frigid Helm](/equipment/Frigid Helm/) | **ATK** | **DEF** | 
-  | [Throne of Ice](/equipment/Throne of Ice/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ancient Ice](/images/e/e_9081.png) | [Ancient Ice](/equipment/Ancient Ice/) | **ATK** | **DEF** | 
+  | ![Frost Touch](/images/e/e_9082.png) | [Frost Touch](/equipment/Frost Touch/) | **HP** | **DEF** | 
+  | ![Frigid Helm](/images/e/e_9083.png) | [Frigid Helm](/equipment/Frigid Helm/) | **ATK** | **DEF** | 
+  | ![Throne of Ice](/images/e/e_9084.png) | [Throne of Ice](/equipment/Throne of Ice/) | **HP** | **DEF** | 
 
 ## Exclusive
 

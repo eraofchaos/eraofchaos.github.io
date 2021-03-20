@@ -2,12 +2,17 @@
 title: "Leather Boots"
 permalink: /equipment/Leather Boots/
 excerpt: "Era of Chaos Leather Boots. Leather Boots"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Leather Boots.md"
 toc: false
 classes: wide
 ---
+
+## Used by Units:
+
+* [Assassin](/units/Assassin/) 
+
 
 ## Basic stats
  **Stat 1:** HP

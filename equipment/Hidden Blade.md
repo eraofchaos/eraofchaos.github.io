@@ -2,12 +2,17 @@
 title: "Hidden Blade"
 permalink: /equipment/Hidden Blade/
 excerpt: "Era of Chaos Hidden Blade. Hidden Blade"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Hidden Blade.md"
 toc: false
 classes: wide
 ---
+
+## Used by Units:
+
+* [Assassin](/units/Assassin/) 
+
 
 ## Basic stats
  **Stat 1:** HP

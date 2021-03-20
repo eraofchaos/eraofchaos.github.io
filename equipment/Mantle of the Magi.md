@@ -2,12 +2,19 @@
 title: "Mantle of the Magi"
 permalink: /equipment/Mantle of the Magi/
 excerpt: "Era of Chaos Mantle of the Magi. Mantle of the Magi"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mantle of the Magi.md"
 toc: false
 classes: wide
 ---
+
+  ![Mantle of the Magi](/images/e/e_6044.png)
+
+## Used by Units:
+
+* [Arch Mage](/units/Arch Mage/) 
+
 
 ## Basic stats
  **Stat 1:** HP

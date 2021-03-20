@@ -2,12 +2,19 @@
 title: "Spiked Club"
 permalink: /equipment/Spiked Club/
 excerpt: "Era of Chaos Spiked Club. Spiked Club"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Spiked Club.md"
 toc: false
 classes: wide
 ---
+
+  ![Spiked Club](/images/e/e_4011.png)
+
+## Used by Units:
+
+* [Goblin](/units/Goblin/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

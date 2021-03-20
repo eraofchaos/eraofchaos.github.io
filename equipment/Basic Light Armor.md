@@ -2,12 +2,19 @@
 title: "Basic Light Armor"
 permalink: /equipment/Basic Light Armor/
 excerpt: "Era of Chaos Basic Light Armor. Basic Light Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Basic Light Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Basic Light Armor](/images/e/e_1054.png)
+
+## Used by Units:
+
+* [Monk](/units/Monk/) 
+
 
 ## Basic stats
  **Stat 1:** HP

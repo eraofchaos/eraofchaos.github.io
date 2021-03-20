@@ -2,12 +2,19 @@
 title: "Empire's Shield"
 permalink: /equipment/Empire's Shield/
 excerpt: "Era of Chaos Empire's Shield. Empire's Shield"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Empire's Shield.md"
 toc: false
 classes: wide
 ---
+
+  ![Empire's Shield](/images/e/e_1043.png)
+
+## Used by Units:
+
+* [Swordsman](/units/Swordsman/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

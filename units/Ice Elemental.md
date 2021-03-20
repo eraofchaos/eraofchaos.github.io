@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ice Elemental"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Deep Ice Crystal](/equipment/Deep Ice Crystal/) | **ATK** | **DEF** | 
-  | [Tidal Headdress](/equipment/Tidal Headdress/) | **HP** | **DEF** | 
-  | [Mark of the Ocean](/equipment/Mark of the Ocean/) | **ATK** | **DEF** | 
-  | [Cloth of the Mermaid](/equipment/Cloth of the Mermaid/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Deep Ice Crystal](/images/e/e_9031.png) | [Deep Ice Crystal](/equipment/Deep Ice Crystal/) | **ATK** | **DEF** | 
+  | ![Tidal Headdress](/images/e/e_9032.png) | [Tidal Headdress](/equipment/Tidal Headdress/) | **HP** | **DEF** | 
+  | ![Mark of the Ocean](/images/e/e_9033.png) | [Mark of the Ocean](/equipment/Mark of the Ocean/) | **ATK** | **DEF** | 
+  | ![Cloth of the Mermaid](/images/e/e_9034.png) | [Cloth of the Mermaid](/equipment/Cloth of the Mermaid/) | **HP** | **DEF** | 
 
 ## Exclusive
 

@@ -2,12 +2,19 @@
 title: "Mermaid Claws"
 permalink: /equipment/Mermaid Claws/
 excerpt: "Era of Chaos Mermaid Claws. Mermaid Claws"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mermaid Claws.md"
 toc: false
 classes: wide
 ---
+
+  ![Mermaid Claws](/images/e/e_99043.png)
+
+## Used by Units:
+
+* [Regnan Serpent](/units/Regnan Serpent/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

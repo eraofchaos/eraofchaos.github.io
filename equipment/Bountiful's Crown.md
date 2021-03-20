@@ -2,12 +2,19 @@
 title: "Bountiful's Crown"
 permalink: /equipment/Bountiful's Crown/
 excerpt: "Era of Chaos Bountiful's Crown. Bountiful's Crown"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bountiful's Crown.md"
 toc: false
 classes: wide
 ---
+
+  ![Bountiful's Crown](/images/e/e_2052.png)
+
+## Used by Units:
+
+* [Dendroid Guard](/units/Dendroid Guard/) 
+
 
 ## Basic stats
  **Stat 1:** HP

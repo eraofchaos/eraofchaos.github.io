@@ -2,12 +2,19 @@
 title: "Piercing Claws"
 permalink: /equipment/Piercing Claws/
 excerpt: "Era of Chaos Piercing Claws. Piercing Claws"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Piercing Claws.md"
 toc: false
 classes: wide
 ---
+
+  ![Piercing Claws](/images/e/e_3073.png)
+
+## Used by Units:
+
+* [Bone Dragon](/units/Bone Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

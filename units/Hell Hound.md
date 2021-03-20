@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Hell Hound"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Scalding Teeth](/equipment/Scalding Teeth/) | **ATK** | **DEF** | 
-  | [Hellish Armor](/equipment/Hellish Armor/) | **HP** | **DEF** | 
-  | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
-  | [Mane of Flame](/equipment/Mane of Flame/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Scalding Teeth](/images/e/e_5031.png) | [Scalding Teeth](/equipment/Scalding Teeth/) | **ATK** | **DEF** | 
+  | ![Hellish Armor](/images/e/e_5032.png) | [Hellish Armor](/equipment/Hellish Armor/) | **HP** | **DEF** | 
+  | ![Scalding Claws](/images/e/e_5033.png) | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
+  | ![Mane of Flame](/images/e/e_5034.png) | [Mane of Flame](/equipment/Mane of Flame/) | **HP** | **DEF** | 
 
 ## Exclusive
 

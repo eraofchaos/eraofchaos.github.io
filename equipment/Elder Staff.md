@@ -2,12 +2,19 @@
 title: "Elder Staff"
 permalink: /equipment/Elder Staff/
 excerpt: "Era of Chaos Elder Staff. Elder Staff"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Elder Staff.md"
 toc: false
 classes: wide
 ---
+
+  ![Elder Staff](/images/e/e_2082.png)
+
+## Used by Units:
+
+* [Druid](/units/Druid/) 
+
 
 ## Basic stats
  **Stat 1:** HP

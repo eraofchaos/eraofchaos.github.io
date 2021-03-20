@@ -2,12 +2,19 @@
 title: "Garrison Boots"
 permalink: /equipment/Garrison Boots/
 excerpt: "Era of Chaos Garrison Boots. Garrison Boots"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Garrison Boots.md"
 toc: false
 classes: wide
 ---
+
+  ![Garrison Boots](/images/e/e_4094.png)
+
+## Used by Units:
+
+* [Troll](/units/Troll/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Strong and Flexible Waistplate"
 permalink: /equipment/Strong and Flexible Waistplate/
 excerpt: "Era of Chaos Strong and Flexible Waistplate. Strong and Flexible Waistplate"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Strong and Flexible Waistplate.md"
 toc: false
 classes: wide
 ---
+
+  ![Strong and Flexible Waistplate](/images/e/e_6064.png)
+
+## Used by Units:
+
+* [Naga](/units/Naga/) 
+
 
 ## Basic stats
  **Stat 1:** HP

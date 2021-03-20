@@ -2,12 +2,19 @@
 title: "Unholy Scimitar"
 permalink: /equipment/Unholy Scimitar/
 excerpt: "Era of Chaos Unholy Scimitar. Unholy Scimitar"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Unholy Scimitar.md"
 toc: false
 classes: wide
 ---
+
+  ![Unholy Scimitar](/images/e/e_3011.png)
+
+## Used by Units:
+
+* [Skeleton](/units/Skeleton/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

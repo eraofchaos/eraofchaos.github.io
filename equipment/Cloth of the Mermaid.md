@@ -2,12 +2,19 @@
 title: "Cloth of the Mermaid"
 permalink: /equipment/Cloth of the Mermaid/
 excerpt: "Era of Chaos Cloth of the Mermaid. Cloth of the Mermaid"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Cloth of the Mermaid.md"
 toc: false
 classes: wide
 ---
+
+  ![Cloth of the Mermaid](/images/e/e_9034.png)
+
+## Used by Units:
+
+* [Ice Elemental](/units/Ice Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

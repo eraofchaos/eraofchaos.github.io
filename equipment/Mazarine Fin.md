@@ -2,12 +2,19 @@
 title: "Mazarine Fin"
 permalink: /equipment/Mazarine Fin/
 excerpt: "Era of Chaos Mazarine Fin. Mazarine Fin"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mazarine Fin.md"
 toc: false
 classes: wide
 ---
+
+  ![Mazarine Fin](/images/e/e_99044.png)
+
+## Used by Units:
+
+* [Regnan Serpent](/units/Regnan Serpent/) 
+
 
 ## Basic stats
  **Stat 1:** HP

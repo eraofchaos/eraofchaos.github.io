@@ -2,12 +2,19 @@
 title: "Charmed Horn"
 permalink: /equipment/Charmed Horn/
 excerpt: "Era of Chaos Charmed Horn. Charmed Horn"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Charmed Horn.md"
 toc: false
 classes: wide
 ---
+
+  ![Charmed Horn](/images/e/e_5053.png)
+
+## Used by Units:
+
+* [Pit Fiend](/units/Pit Fiend/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

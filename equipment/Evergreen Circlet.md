@@ -2,12 +2,19 @@
 title: "Evergreen Circlet"
 permalink: /equipment/Evergreen Circlet/
 excerpt: "Era of Chaos Evergreen Circlet. Evergreen Circlet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Evergreen Circlet.md"
 toc: false
 classes: wide
 ---
+
+  ![Evergreen Circlet](/images/e/e_2042.png)
+
+## Used by Units:
+
+* [Pegasus](/units/Pegasus/) 
+
 
 ## Basic stats
  **Stat 1:** HP

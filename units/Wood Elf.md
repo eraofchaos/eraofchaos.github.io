@@ -3,7 +3,7 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Wood Elf"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sylvan Longbow](/equipment/Sylvan Longbow/) | **ATK** | **DEF** | 
-  | [Circlet of Verdurous Leaves](/equipment/Circlet of Verdurous Leaves/) | **HP** | **DEF** | 
-  | [Arrows of Jade](/equipment/Arrows of Jade/) | **ATK** | **DEF** | 
-  | [Short Robe of Verdurous Leaves](/equipment/Short Robe of Verdurous Leaves/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sylvan Longbow](/images/e/e_2031.png) | [Sylvan Longbow](/equipment/Sylvan Longbow/) | **ATK** | **DEF** | 
+  | ![Circlet of Verdurous Leaves](/images/e/e_2032.png) | [Circlet of Verdurous Leaves](/equipment/Circlet of Verdurous Leaves/) | **HP** | **DEF** | 
+  | ![Arrows of Jade](/images/e/e_2033.png) | [Arrows of Jade](/equipment/Arrows of Jade/) | **ATK** | **DEF** | 
+  | ![Short Robe of Verdurous Leaves](/images/e/e_2034.png) | [Short Robe of Verdurous Leaves](/equipment/Short Robe of Verdurous Leaves/) | **HP** | **DEF** | 
 
 ## Exclusive
 

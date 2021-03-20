@@ -2,12 +2,19 @@
 title: "Shadow Shoulders"
 permalink: /equipment/Shadow Shoulders/
 excerpt: "Era of Chaos Shadow Shoulders. Shadow Shoulders"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Shadow Shoulders.md"
 toc: false
 classes: wide
 ---
+
+  ![Shadow Shoulders](/images/e/e_3043.png)
+
+## Used by Units:
+
+* [Vampire](/units/Vampire/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

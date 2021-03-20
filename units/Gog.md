@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gog"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Scalding Orb](/equipment/Scalding Orb/) | **ATK** | **DEF** | 
-  | [Fiery Horn](/equipment/Fiery Horn/) | **HP** | **DEF** | 
-  | [Tail of Flame](/equipment/Tail of Flame/) | **ATK** | **DEF** | 
-  | [Scalding Bracers](/equipment/Scalding Bracers/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Scalding Orb](/images/e/e_5021.png) | [Scalding Orb](/equipment/Scalding Orb/) | **ATK** | **DEF** | 
+  | ![Fiery Horn](/images/e/e_5022.png) | [Fiery Horn](/equipment/Fiery Horn/) | **HP** | **DEF** | 
+  | ![Tail of Flame](/images/e/e_5023.png) | [Tail of Flame](/equipment/Tail of Flame/) | **ATK** | **DEF** | 
+  | ![Scalding Bracers](/images/e/e_5024.png) | [Scalding Bracers](/equipment/Scalding Bracers/) | **HP** | **DEF** | 
 
 ## Exclusive
 

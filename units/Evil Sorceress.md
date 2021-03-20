@@ -3,7 +3,7 @@ title: "Evil Sorceress"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Units. Units. Era of Chaos She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
 unitID: 709
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Evil Sorceress"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **ATK** | **DEF** | 
-  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **HP** | **DEF** | 
-  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ATK** | **DEF** | 
-  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **ATK** | **DEF** | 
+  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **HP** | **DEF** | 
+  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ATK** | **DEF** | 
+  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **HP** | **DEF** | 
 
 ## Exclusive
 

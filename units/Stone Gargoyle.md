@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These enchanted demonic statues protect mages' private estates. They love to tease the enemies below them during battle."
 unitID: 602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Stone Gargoyle"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Stone Horn](/equipment/Stone Horn/) | **ATK** | **DEF** | 
-  | [Stone Wings](/equipment/Stone Wings/) | **HP** | **DEF** | 
-  | [Sharp Rock Claws](/equipment/Sharp Rock Claws/) | **ATK** | **DEF** | 
-  | [Enchanted Tail](/equipment/Enchanted Tail/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Stone Horn](/images/e/e_6021.png) | [Stone Horn](/equipment/Stone Horn/) | **ATK** | **DEF** | 
+  | ![Stone Wings](/images/e/e_6022.png) | [Stone Wings](/equipment/Stone Wings/) | **HP** | **DEF** | 
+  | ![Sharp Rock Claws](/images/e/e_6023.png) | [Sharp Rock Claws](/equipment/Sharp Rock Claws/) | **ATK** | **DEF** | 
+  | ![Enchanted Tail](/images/e/e_6024.png) | [Enchanted Tail](/equipment/Enchanted Tail/) | **HP** | **DEF** | 
 
 ## Exclusive
 

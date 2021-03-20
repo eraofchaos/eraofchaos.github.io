@@ -3,7 +3,7 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Devil"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Devil's Scythe](/equipment/Devil's Scythe/) | **ATK** | **DEF** | 
-  | [Molten Pentagram](/equipment/Molten Pentagram/) | **HP** | **DEF** | 
-  | [Gauntlets of Molten Lava](/equipment/Gauntlets of Molten Lava/) | **ATK** | **DEF** | 
-  | [Pauldrons of Molten Lava](/equipment/Pauldrons of Molten Lava/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Devil's Scythe](/images/e/e_5071.png) | [Devil's Scythe](/equipment/Devil's Scythe/) | **ATK** | **DEF** | 
+  | ![Molten Pentagram](/images/e/e_5072.png) | [Molten Pentagram](/equipment/Molten Pentagram/) | **HP** | **DEF** | 
+  | ![Gauntlets of Molten Lava](/images/e/e_5073.png) | [Gauntlets of Molten Lava](/equipment/Gauntlets of Molten Lava/) | **ATK** | **DEF** | 
+  | ![Pauldrons of Molten Lava](/images/e/e_5074.png) | [Pauldrons of Molten Lava](/equipment/Pauldrons of Molten Lava/) | **HP** | **DEF** | 
 
 ## Exclusive
 

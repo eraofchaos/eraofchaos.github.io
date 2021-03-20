@@ -2,12 +2,19 @@
 title: "Dress of Requiem"
 permalink: /equipment/Dress of Requiem/
 excerpt: "Era of Chaos Dress of Requiem. Dress of Requiem"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dress of Requiem.md"
 toc: false
 classes: wide
 ---
+
+  ![Dress of Requiem](/images/e/e_3034.png)
+
+## Used by Units:
+
+* [Wight](/units/Wight/) 
+
 
 ## Basic stats
  **Stat 1:** HP

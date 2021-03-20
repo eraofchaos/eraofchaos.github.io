@@ -2,12 +2,19 @@
 title: "Spiked Bracers"
 permalink: /equipment/Spiked Bracers/
 excerpt: "Era of Chaos Spiked Bracers. Spiked Bracers"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Spiked Bracers.md"
 toc: false
 classes: wide
 ---
+
+  ![Spiked Bracers](/images/e/e_4063.png)
+
+## Used by Units:
+
+* [Cyclops](/units/Cyclops/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

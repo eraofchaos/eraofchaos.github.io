@@ -2,12 +2,19 @@
 title: "Enchantress' Shoulder-guards"
 permalink: /equipment/Enchantress' Shoulder-guards/
 excerpt: "Era of Chaos Enchantress' Shoulder-guards. Enchantress' Shoulder-guards"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Enchantress' Shoulder-guards.md"
 toc: false
 classes: wide
 ---
+
+  ![Enchantress' Shoulder-guards](/images/e/e_7024.png)
+
+## Used by Units:
+
+* [Harpy](/units/Harpy/) 
+
 
 ## Basic stats
  **Stat 1:** HP

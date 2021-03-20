@@ -2,12 +2,19 @@
 title: "Empire's Sword"
 permalink: /equipment/Empire's Sword/
 excerpt: "Era of Chaos Empire's Sword. Empire's Sword"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Empire's Sword.md"
 toc: false
 classes: wide
 ---
+
+  ![Empire's Sword](/images/e/e_1041.png)
+
+## Used by Units:
+
+* [Swordsman](/units/Swordsman/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "Steel Arrow"
 permalink: /equipment/Steel Arrow/
 excerpt: "Era of Chaos Steel Arrow. Steel Arrow"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Steel Arrow.md"
 toc: false
 classes: wide
 ---
+
+  ![Steel Arrow](/images/e/e_99023.png)
+
+## Used by Units:
+
+* [Regnan Archer](/units/Regnan Archer/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

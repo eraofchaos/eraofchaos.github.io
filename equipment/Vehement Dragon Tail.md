@@ -2,12 +2,19 @@
 title: "Vehement Dragon Tail"
 permalink: /equipment/Vehement Dragon Tail/
 excerpt: "Era of Chaos Vehement Dragon Tail. Vehement Dragon Tail"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Vehement Dragon Tail.md"
 toc: false
 classes: wide
 ---
+
+  ![Vehement Dragon Tail](/images/e/e_7084.png)
+
+## Used by Units:
+
+* [Red Dragon](/units/Red Dragon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

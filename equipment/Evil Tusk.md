@@ -2,12 +2,19 @@
 title: "Evil Tusk"
 permalink: /equipment/Evil Tusk/
 excerpt: "Era of Chaos Evil Tusk. Evil Tusk"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Evil Tusk.md"
 toc: false
 classes: wide
 ---
+
+  ![Evil Tusk](/images/e/e_7033.png)
+
+## Used by Units:
+
+* [Beholder](/units/Beholder/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

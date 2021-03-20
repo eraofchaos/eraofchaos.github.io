@@ -2,12 +2,19 @@
 title: "Light Armor of Requiem"
 permalink: /equipment/Light Armor of Requiem/
 excerpt: "Era of Chaos Light Armor of Requiem. Light Armor of Requiem"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Light Armor of Requiem.md"
 toc: false
 classes: wide
 ---
+
+  ![Light Armor of Requiem](/images/e/e_3032.png)
+
+## Used by Units:
+
+* [Wight](/units/Wight/) 
+
 
 ## Basic stats
  **Stat 1:** HP

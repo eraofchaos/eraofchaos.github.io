@@ -2,12 +2,19 @@
 title: "Hellish Whip"
 permalink: /equipment/Hellish Whip/
 excerpt: "Era of Chaos Hellish Whip. Hellish Whip"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Hellish Whip.md"
 toc: false
 classes: wide
 ---
+
+  ![Hellish Whip](/images/e/e_5051.png)
+
+## Used by Units:
+
+* [Pit Fiend](/units/Pit Fiend/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

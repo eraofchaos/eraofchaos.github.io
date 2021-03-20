@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Demon"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Horn of Scorching](/equipment/Horn of Scorching/) | **ATK** | **DEF** | 
-  | [Steel Necklet](/equipment/Steel Necklet/) | **HP** | **DEF** | 
-  | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
-  | [Spiked Bracers](/equipment/Spiked Bracers/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Horn of Scorching](/images/e/e_5041.png) | [Horn of Scorching](/equipment/Horn of Scorching/) | **ATK** | **DEF** | 
+  | ![Steel Necklet](/images/e/e_5042.png) | [Steel Necklet](/equipment/Steel Necklet/) | **HP** | **DEF** | 
+  | ![Scalding Claws](/images/e/e_5043.png) | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
+  | ![Spiked Bracers](/images/e/e_5044.png) | [Spiked Bracers](/equipment/Spiked Bracers/) | **HP** | **DEF** | 
 
 ## Exclusive
 

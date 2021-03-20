@@ -2,12 +2,19 @@
 title: "Robe of Storm Rage"
 permalink: /equipment/Robe of Storm Rage/
 excerpt: "Era of Chaos Robe of Storm Rage. Robe of Storm Rage"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Robe of Storm Rage.md"
 toc: false
 classes: wide
 ---
+
+  ![Robe of Storm Rage](/images/e/e_2083.png)
+
+## Used by Units:
+
+* [Druid](/units/Druid/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "Shadow Cloak"
 permalink: /equipment/Shadow Cloak/
 excerpt: "Era of Chaos Shadow Cloak. Shadow Cloak"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Shadow Cloak.md"
 toc: false
 classes: wide
 ---
+
+  ![Shadow Cloak](/images/e/e_3044.png)
+
+## Used by Units:
+
+* [Vampire](/units/Vampire/) 
+
 
 ## Basic stats
  **Stat 1:** HP

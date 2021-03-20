@@ -2,12 +2,19 @@
 title: "UnknownEquipment_7092"
 permalink: /equipment/UnknownEquipment_7092/
 excerpt: "Era of Chaos UnknownEquipment_7092. UnknownEquipment_7092"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "UnknownEquipment_7092.md"
 toc: false
 classes: wide
 ---
+
+  ![UnknownEquipment_7092](/images/e/e_7092.png)
+
+## Used by Units:
+
+* [Evil Sorceress](/units/Evil Sorceress/) 
+
 
 ## Basic stats
  **Stat 1:** HP

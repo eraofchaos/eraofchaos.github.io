@@ -2,12 +2,19 @@
 title: "Sharp Rock Claws"
 permalink: /equipment/Sharp Rock Claws/
 excerpt: "Era of Chaos Sharp Rock Claws. Sharp Rock Claws"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sharp Rock Claws.md"
 toc: false
 classes: wide
 ---
+
+  ![Sharp Rock Claws](/images/e/e_6023.png)
+
+## Used by Units:
+
+* [Stone Gargoyle](/units/Stone Gargoyle/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

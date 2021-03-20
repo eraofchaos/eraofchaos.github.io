@@ -2,12 +2,19 @@
 title: "Observation Deck"
 permalink: /equipment/Observation Deck/
 excerpt: "Era of Chaos Observation Deck. Observation Deck"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Observation Deck.md"
 toc: false
 classes: wide
 ---
+
+  ![Observation Deck](/images/e/e_6084.png)
+
+## Used by Units:
+
+* [Magic Airship](/units/Magic Airship/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -2,12 +2,19 @@
 title: "Gorgon Belt"
 permalink: /equipment/Gorgon Belt/
 excerpt: "Era of Chaos Gorgon Belt. Gorgon Belt"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gorgon Belt.md"
 toc: false
 classes: wide
 ---
+
+  ![Gorgon Belt](/images/e/e_7054.png)
+
+## Used by Units:
+
+* [Minotaur](/units/Minotaur/) 
+
 
 ## Basic stats
  **Stat 1:** HP

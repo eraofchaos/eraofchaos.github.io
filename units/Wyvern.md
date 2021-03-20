@@ -3,7 +3,7 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Wyvern"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Dragon Claws](/equipment/Dragon Claws/) | **ATK** | **DEF** | 
-  | [Plague Fang](/equipment/Plague Fang/) | **HP** | **DEF** | 
-  | [Imp Back-spikes](/equipment/Imp Back-spikes/) | **ATK** | **DEF** | 
-  | [Dragon Wings](/equipment/Dragon Wings/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Dragon Claws](/images/e/e_8061.png) | [Dragon Claws](/equipment/Dragon Claws/) | **ATK** | **DEF** | 
+  | ![Plague Fang](/images/e/e_8062.png) | [Plague Fang](/equipment/Plague Fang/) | **HP** | **DEF** | 
+  | ![Imp Back-spikes](/images/e/e_8063.png) | [Imp Back-spikes](/equipment/Imp Back-spikes/) | **ATK** | **DEF** | 
+  | ![Dragon Wings](/images/e/e_8064.png) | [Dragon Wings](/equipment/Dragon Wings/) | **HP** | **DEF** | 
 
 ## Exclusive
 

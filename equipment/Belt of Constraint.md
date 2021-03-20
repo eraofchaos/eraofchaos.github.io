@@ -2,12 +2,19 @@
 title: "Belt of Constraint"
 permalink: /equipment/Belt of Constraint/
 excerpt: "Era of Chaos Belt of Constraint. Belt of Constraint"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Belt of Constraint.md"
 toc: false
 classes: wide
 ---
+
+  ![Belt of Constraint](/images/e/e_4032.png)
+
+## Used by Units:
+
+* [Orc](/units/Orc/) 
+
 
 ## Basic stats
  **Stat 1:** HP

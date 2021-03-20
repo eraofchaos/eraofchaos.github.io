@@ -2,12 +2,19 @@
 title: "Exploding Magma"
 permalink: /equipment/Exploding Magma/
 excerpt: "Era of Chaos Exploding Magma. Exploding Magma"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Exploding Magma.md"
 toc: false
 classes: wide
 ---
+
+  ![Exploding Magma](/images/e/e_9052.png)
+
+## Used by Units:
+
+* [Stone Elemental](/units/Stone Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

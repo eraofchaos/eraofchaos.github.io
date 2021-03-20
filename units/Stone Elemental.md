@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Stone Elemental"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Core of Magma](/equipment/Core of Magma/) | **ATK** | **DEF** | 
-  | [Exploding Magma](/equipment/Exploding Magma/) | **HP** | **DEF** | 
-  | [Twilight Stone](/equipment/Twilight Stone/) | **ATK** | **DEF** | 
-  | [Crown of Stone](/equipment/Crown of Stone/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Core of Magma](/images/e/e_9051.png) | [Core of Magma](/equipment/Core of Magma/) | **ATK** | **DEF** | 
+  | ![Exploding Magma](/images/e/e_9052.png) | [Exploding Magma](/equipment/Exploding Magma/) | **HP** | **DEF** | 
+  | ![Twilight Stone](/images/e/e_9053.png) | [Twilight Stone](/equipment/Twilight Stone/) | **ATK** | **DEF** | 
+  | ![Crown of Stone](/images/e/e_9054.png) | [Crown of Stone](/equipment/Crown of Stone/) | **HP** | **DEF** | 
 
 ## Exclusive
 

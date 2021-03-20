@@ -2,12 +2,19 @@
 title: "Sentinel's Shield"
 permalink: /equipment/Sentinel's Shield/
 excerpt: "Era of Chaos Sentinel's Shield. Sentinel's Shield"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sentinel's Shield.md"
 toc: false
 classes: wide
 ---
+
+  ![Sentinel's Shield](/images/e/e_1013.png)
+
+## Used by Units:
+
+* [Pikeman](/units/Pikeman/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

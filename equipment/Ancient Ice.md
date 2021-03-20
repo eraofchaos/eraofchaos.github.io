@@ -2,12 +2,19 @@
 title: "Ancient Ice"
 permalink: /equipment/Ancient Ice/
 excerpt: "Era of Chaos Ancient Ice. Ancient Ice"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ancient Ice.md"
 toc: false
 classes: wide
 ---
+
+  ![Ancient Ice](/images/e/e_9081.png)
+
+## Used by Units:
+
+* [Ice Demon](/units/Ice Demon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

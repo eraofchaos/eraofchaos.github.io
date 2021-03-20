@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Harpy"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Heart Stab Dagger](/equipment/Heart Stab Dagger/) | **ATK** | **DEF** | 
-  | [Mystic Armor](/equipment/Mystic Armor/) | **HP** | **DEF** | 
-  | [Claw Killer](/equipment/Claw Killer/) | **ATK** | **DEF** | 
-  | [Enchantress' Shoulder-guards](/equipment/Enchantress' Shoulder-guards/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Heart Stab Dagger](/images/e/e_7021.png) | [Heart Stab Dagger](/equipment/Heart Stab Dagger/) | **ATK** | **DEF** | 
+  | ![Mystic Armor](/images/e/e_7022.png) | [Mystic Armor](/equipment/Mystic Armor/) | **HP** | **DEF** | 
+  | ![Claw Killer](/images/e/e_7023.png) | [Claw Killer](/equipment/Claw Killer/) | **ATK** | **DEF** | 
+  | ![Enchantress' Shoulder-guards](/images/e/e_7024.png) | [Enchantress' Shoulder-guards](/equipment/Enchantress' Shoulder-guards/) | **HP** | **DEF** | 
 
 ## Exclusive
 

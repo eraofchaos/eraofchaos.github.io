@@ -2,12 +2,19 @@
 title: "Phosphorus Butterfly Wings"
 permalink: /equipment/Phosphorus Butterfly Wings/
 excerpt: "Era of Chaos Phosphorus Butterfly Wings. Phosphorus Butterfly Wings"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Phosphorus Butterfly Wings.md"
 toc: false
 classes: wide
 ---
+
+  ![Phosphorus Butterfly Wings](/images/e/e_9013.png)
+
+## Used by Units:
+
+* [Sprite](/units/Sprite/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

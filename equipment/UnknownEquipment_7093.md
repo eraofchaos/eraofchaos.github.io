@@ -2,12 +2,19 @@
 title: "UnknownEquipment_7093"
 permalink: /equipment/UnknownEquipment_7093/
 excerpt: "Era of Chaos UnknownEquipment_7093. UnknownEquipment_7093"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "UnknownEquipment_7093.md"
 toc: false
 classes: wide
 ---
+
+  ![UnknownEquipment_7093](/images/e/e_7093.png)
+
+## Used by Units:
+
+* [Evil Sorceress](/units/Evil Sorceress/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

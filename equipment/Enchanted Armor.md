@@ -2,12 +2,19 @@
 title: "Enchanted Armor"
 permalink: /equipment/Enchanted Armor/
 excerpt: "Era of Chaos Enchanted Armor. Enchanted Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Enchanted Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Enchanted Armor](/images/e/e_6054.png)
+
+## Used by Units:
+
+* [Genie](/units/Genie/) 
+
 
 ## Basic stats
  **Stat 1:** HP

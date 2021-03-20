@@ -2,12 +2,19 @@
 title: "UnknownEquipment_7094"
 permalink: /equipment/UnknownEquipment_7094/
 excerpt: "Era of Chaos UnknownEquipment_7094. UnknownEquipment_7094"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "UnknownEquipment_7094.md"
 toc: false
 classes: wide
 ---
+
+  ![UnknownEquipment_7094](/images/e/e_7094.png)
+
+## Used by Units:
+
+* [Evil Sorceress](/units/Evil Sorceress/) 
+
 
 ## Basic stats
  **Stat 1:** HP

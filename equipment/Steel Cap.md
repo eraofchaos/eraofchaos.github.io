@@ -2,12 +2,19 @@
 title: "Steel Cap"
 permalink: /equipment/Steel Cap/
 excerpt: "Era of Chaos Steel Cap. Steel Cap"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Steel Cap.md"
 toc: false
 classes: wide
 ---
+
+  ![Steel Cap](/images/e/e_1022.png)
+
+## Used by Units:
+
+* [Marksman](/units/Marksman/) 
+
 
 ## Basic stats
  **Stat 1:** HP

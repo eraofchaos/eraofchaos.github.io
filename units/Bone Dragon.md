@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bone Dragon"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bone Spike](/equipment/Bone Spike/) | **ATK** | **DEF** | 
-  | [Draconic Skull](/equipment/Draconic Skull/) | **HP** | **DEF** | 
-  | [Piercing Claws](/equipment/Piercing Claws/) | **ATK** | **DEF** | 
-  | [Soul Gem](/equipment/Soul Gem/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bone Spike](/images/e/e_3071.png) | [Bone Spike](/equipment/Bone Spike/) | **ATK** | **DEF** | 
+  | ![Draconic Skull](/images/e/e_3072.png) | [Draconic Skull](/equipment/Draconic Skull/) | **HP** | **DEF** | 
+  | ![Piercing Claws](/images/e/e_3073.png) | [Piercing Claws](/equipment/Piercing Claws/) | **ATK** | **DEF** | 
+  | ![Soul Gem](/images/e/e_3074.png) | [Soul Gem](/equipment/Soul Gem/) | **HP** | **DEF** | 
 
 ## Exclusive
 

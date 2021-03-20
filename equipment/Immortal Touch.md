@@ -2,12 +2,19 @@
 title: "Immortal Touch"
 permalink: /equipment/Immortal Touch/
 excerpt: "Era of Chaos Immortal Touch. Immortal Touch"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Immortal Touch.md"
 toc: false
 classes: wide
 ---
+
+  ![Immortal Touch](/images/e/e_3081.png)
+
+## Used by Units:
+
+* [Mummy](/units/Mummy/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

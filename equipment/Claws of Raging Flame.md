@@ -2,12 +2,19 @@
 title: "Claws of Raging Flame"
 permalink: /equipment/Claws of Raging Flame/
 excerpt: "Era of Chaos Claws of Raging Flame. Claws of Raging Flame"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Claws of Raging Flame.md"
 toc: false
 classes: wide
 ---
+
+  ![Claws of Raging Flame](/images/e/e_9073.png)
+
+## Used by Units:
+
+* [Firebird](/units/Firebird/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

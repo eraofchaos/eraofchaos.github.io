@@ -2,12 +2,19 @@
 title: "Armor of Wonder"
 permalink: /equipment/Armor of Wonder/
 excerpt: "Era of Chaos Armor of Wonder. Armor of Wonder"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Armor of Wonder.md"
 toc: false
 classes: wide
 ---
+
+  ![Armor of Wonder](/images/e/e_2044.png)
+
+## Used by Units:
+
+* [Pegasus](/units/Pegasus/) 
+
 
 ## Basic stats
  **Stat 1:** HP

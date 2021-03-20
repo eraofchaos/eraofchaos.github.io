@@ -2,12 +2,19 @@
 title: "Arrows of Jade"
 permalink: /equipment/Arrows of Jade/
 excerpt: "Era of Chaos Arrows of Jade. Arrows of Jade"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Arrows of Jade.md"
 toc: false
 classes: wide
 ---
+
+  ![Arrows of Jade](/images/e/e_2033.png)
+
+## Used by Units:
+
+* [Wood Elf](/units/Wood Elf/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

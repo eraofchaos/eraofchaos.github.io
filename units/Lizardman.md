@@ -3,7 +3,7 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Lizardman"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Spiked Neck Umbrella](/equipment/Spiked Neck Umbrella/) | **ATK** | **DEF** | 
-  | [Warrior's Bracers](/equipment/Warrior's Bracers/) | **HP** | **DEF** | 
-  | [Warrior's Scapula](/equipment/Warrior's Scapula/) | **ATK** | **DEF** | 
-  | [Hunting Longbow](/equipment/Hunting Longbow/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Spiked Neck Umbrella](/images/e/e_8021.png) | [Spiked Neck Umbrella](/equipment/Spiked Neck Umbrella/) | **ATK** | **DEF** | 
+  | ![Warrior's Bracers](/images/e/e_8022.png) | [Warrior's Bracers](/equipment/Warrior's Bracers/) | **HP** | **DEF** | 
+  | ![Warrior's Scapula](/images/e/e_8023.png) | [Warrior's Scapula](/equipment/Warrior's Scapula/) | **ATK** | **DEF** | 
+  | ![Hunting Longbow](/images/e/e_8024.png) | [Hunting Longbow](/equipment/Hunting Longbow/) | **HP** | **DEF** | 
 
 ## Exclusive
 

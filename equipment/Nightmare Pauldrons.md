@@ -2,12 +2,19 @@
 title: "Nightmare Pauldrons"
 permalink: /equipment/Nightmare Pauldrons/
 excerpt: "Era of Chaos Nightmare Pauldrons. Nightmare Pauldrons"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Nightmare Pauldrons.md"
 toc: false
 classes: wide
 ---
+
+  ![Nightmare Pauldrons](/images/e/e_3064.png)
+
+## Used by Units:
+
+* [Black Knight](/units/Black Knight/) 
+
 
 ## Basic stats
  **Stat 1:** HP

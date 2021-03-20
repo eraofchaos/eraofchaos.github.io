@@ -3,7 +3,7 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Minotaur"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Gorgon Battle Axe](/equipment/Gorgon Battle Axe/) | **ATK** | **DEF** | 
-  | [Gorgon Shoulder-guards](/equipment/Gorgon Shoulder-guards/) | **HP** | **DEF** | 
-  | [Gorgon Bands](/equipment/Gorgon Bands/) | **ATK** | **DEF** | 
-  | [Gorgon Belt](/equipment/Gorgon Belt/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Gorgon Battle Axe](/images/e/e_7051.png) | [Gorgon Battle Axe](/equipment/Gorgon Battle Axe/) | **ATK** | **DEF** | 
+  | ![Gorgon Shoulder-guards](/images/e/e_7052.png) | [Gorgon Shoulder-guards](/equipment/Gorgon Shoulder-guards/) | **HP** | **DEF** | 
+  | ![Gorgon Bands](/images/e/e_7053.png) | [Gorgon Bands](/equipment/Gorgon Bands/) | **ATK** | **DEF** | 
+  | ![Gorgon Belt](/images/e/e_7054.png) | [Gorgon Belt](/equipment/Gorgon Belt/) | **HP** | **DEF** | 
 
 ## Exclusive
 

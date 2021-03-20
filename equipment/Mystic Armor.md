@@ -2,12 +2,19 @@
 title: "Mystic Armor"
 permalink: /equipment/Mystic Armor/
 excerpt: "Era of Chaos Mystic Armor. Mystic Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mystic Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Mystic Armor](/images/e/e_7022.png)
+
+## Used by Units:
+
+* [Harpy](/units/Harpy/) 
+
 
 ## Basic stats
  **Stat 1:** HP

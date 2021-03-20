@@ -3,7 +3,7 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Black Dragon"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Magic Dragon Claws](/equipment/Magic Dragon Claws/) | **ATK** | **DEF** | 
-  | [Devastative Fire](/equipment/Devastative Fire/) | **HP** | **DEF** | 
-  | [Sky-blocking Wings](/equipment/Sky-blocking Wings/) | **ATK** | **DEF** | 
-  | [Ironclad Scale](/equipment/Ironclad Scale/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Magic Dragon Claws](/images/e/e_7071.png) | [Magic Dragon Claws](/equipment/Magic Dragon Claws/) | **ATK** | **DEF** | 
+  | ![Devastative Fire](/images/e/e_7072.png) | [Devastative Fire](/equipment/Devastative Fire/) | **HP** | **DEF** | 
+  | ![Sky-blocking Wings](/images/e/e_7073.png) | [Sky-blocking Wings](/equipment/Sky-blocking Wings/) | **ATK** | **DEF** | 
+  | ![Ironclad Scale](/images/e/e_7074.png) | [Ironclad Scale](/equipment/Ironclad Scale/) | **HP** | **DEF** | 
 
 ## Exclusive
 

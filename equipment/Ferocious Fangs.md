@@ -2,12 +2,19 @@
 title: "Ferocious Fangs"
 permalink: /equipment/Ferocious Fangs/
 excerpt: "Era of Chaos Ferocious Fangs. Ferocious Fangs"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ferocious Fangs.md"
 toc: false
 classes: wide
 ---
+
+  ![Ferocious Fangs](/images/e/e_4073.png)
+
+## Used by Units:
+
+* [Behemoth](/units/Behemoth/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

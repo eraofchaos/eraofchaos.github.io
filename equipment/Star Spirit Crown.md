@@ -2,12 +2,19 @@
 title: "Star Spirit Crown"
 permalink: /equipment/Star Spirit Crown/
 excerpt: "Era of Chaos Star Spirit Crown. Star Spirit Crown"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Star Spirit Crown.md"
 toc: false
 classes: wide
 ---
+
+  ![Star Spirit Crown](/images/e/e_9063.png)
+
+## Used by Units:
+
+* [Psychic Elemental](/units/Psychic Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

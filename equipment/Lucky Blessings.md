@@ -2,12 +2,19 @@
 title: "Lucky Blessings"
 permalink: /equipment/Lucky Blessings/
 excerpt: "Era of Chaos Lucky Blessings. Lucky Blessings"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Lucky Blessings.md"
 toc: false
 classes: wide
 ---
+
+  ![Lucky Blessings](/images/e/e_9091.png)
+
+## Used by Units:
+
+* [Leprechaun](/units/Leprechaun/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

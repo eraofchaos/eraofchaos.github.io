@@ -2,12 +2,17 @@
 title: "Footwraps"
 permalink: /equipment/Footwraps/
 excerpt: "Era of Chaos Footwraps. Footwraps"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Footwraps.md"
 toc: false
 classes: wide
 ---
+
+## Used by Units:
+
+* [Spartan Warriors](/units/Spartan Warriors/) 
+
 
 ## Basic stats
  **Stat 1:** HP

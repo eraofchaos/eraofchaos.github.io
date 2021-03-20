@@ -2,12 +2,19 @@
 title: "Misty Mane"
 permalink: /equipment/Misty Mane/
 excerpt: "Era of Chaos Misty Mane. Misty Mane"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Misty Mane.md"
 toc: false
 classes: wide
 ---
+
+  ![Misty Mane](/images/e/e_2064.png)
+
+## Used by Units:
+
+* [Unicorn](/units/Unicorn/) 
+
 
 ## Basic stats
  **Stat 1:** HP

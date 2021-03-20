@@ -3,7 +3,7 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Psychic Elemental"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Core of the Pole Star](/equipment/Core of the Pole Star/) | **ATK** | **DEF** | 
-  | [Heavenly Star](/equipment/Heavenly Star/) | **HP** | **DEF** | 
-  | [Star Spirit Crown](/equipment/Star Spirit Crown/) | **ATK** | **DEF** | 
-  | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Core of the Pole Star](/images/e/e_9061.png) | [Core of the Pole Star](/equipment/Core of the Pole Star/) | **ATK** | **DEF** | 
+  | ![Heavenly Star](/images/e/e_9062.png) | [Heavenly Star](/equipment/Heavenly Star/) | **HP** | **DEF** | 
+  | ![Star Spirit Crown](/images/e/e_9063.png) | [Star Spirit Crown](/equipment/Star Spirit Crown/) | **ATK** | **DEF** | 
+  | ![Mighty Vambrace](/images/e/e_9064.png) | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **HP** | **DEF** | 
 
 ## Exclusive
 

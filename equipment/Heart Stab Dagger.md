@@ -2,12 +2,19 @@
 title: "Heart Stab Dagger"
 permalink: /equipment/Heart Stab Dagger/
 excerpt: "Era of Chaos Heart Stab Dagger. Heart Stab Dagger"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Heart Stab Dagger.md"
 toc: false
 classes: wide
 ---
+
+  ![Heart Stab Dagger](/images/e/e_7021.png)
+
+## Used by Units:
+
+* [Harpy](/units/Harpy/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

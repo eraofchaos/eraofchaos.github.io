@@ -2,12 +2,19 @@
 title: "Tidal Headdress"
 permalink: /equipment/Tidal Headdress/
 excerpt: "Era of Chaos Tidal Headdress. Tidal Headdress"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Tidal Headdress.md"
 toc: false
 classes: wide
 ---
+
+  ![Tidal Headdress](/images/e/e_9032.png)
+
+## Used by Units:
+
+* [Ice Elemental](/units/Ice Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** HP

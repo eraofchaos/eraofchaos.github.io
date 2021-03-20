@@ -2,12 +2,19 @@
 title: "Strong Hammer"
 permalink: /equipment/Strong Hammer/
 excerpt: "Era of Chaos Strong Hammer. Strong Hammer"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Strong Hammer.md"
 toc: false
 classes: wide
 ---
+
+  ![Strong Hammer](/images/e/e_2021.png)
+
+## Used by Units:
+
+* [Dwarf](/units/Dwarf/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

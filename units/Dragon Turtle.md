@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dragon Turtle"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Dragon Turtle's Sharp Teeth](/equipment/Dragon Turtle's Sharp Teeth/) | **ATK** | **DEF** | 
-  | [Spiked Tortoise Shell](/equipment/Spiked Tortoise Shell/) | **HP** | **DEF** | 
-  | [Dragon Turtle's Sharp Claw](/equipment/Dragon Turtle's Sharp Claw/) | **ATK** | **DEF** | 
-  | [Dragon Turtle's Tail](/equipment/Dragon Turtle's Tail/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Dragon Turtle's Sharp Teeth](/images/e/e_99061.png) | [Dragon Turtle's Sharp Teeth](/equipment/Dragon Turtle's Sharp Teeth/) | **ATK** | **DEF** | 
+  | ![Spiked Tortoise Shell](/images/e/e_99062.png) | [Spiked Tortoise Shell](/equipment/Spiked Tortoise Shell/) | **HP** | **DEF** | 
+  | ![Dragon Turtle's Sharp Claw](/images/e/e_99063.png) | [Dragon Turtle's Sharp Claw](/equipment/Dragon Turtle's Sharp Claw/) | **ATK** | **DEF** | 
+  | ![Dragon Turtle's Tail](/images/e/e_99064.png) | [Dragon Turtle's Tail](/equipment/Dragon Turtle's Tail/) | **HP** | **DEF** | 
 
 ## Exclusive
 

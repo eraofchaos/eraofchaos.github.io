@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Sprite Exclusive."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sprite Knight Pike.md"
 toc: false

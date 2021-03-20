@@ -2,12 +2,19 @@
 title: "Scalding Bracers"
 permalink: /equipment/Scalding Bracers/
 excerpt: "Era of Chaos Scalding Bracers. Scalding Bracers"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Scalding Bracers.md"
 toc: false
 classes: wide
 ---
+
+  ![Scalding Bracers](/images/e/e_5024.png)
+
+## Used by Units:
+
+* [Gog](/units/Gog/) 
+
 
 ## Basic stats
  **Stat 1:** HP

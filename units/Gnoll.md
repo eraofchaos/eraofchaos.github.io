@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gnoll"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Werewolf's Machete](/equipment/Werewolf's Machete/) | **ATK** | **DEF** | 
-  | [Werewolf's Square Shield](/equipment/Werewolf's Square Shield/) | **HP** | **DEF** | 
-  | [Werewolf's Chain](/equipment/Werewolf's Chain/) | **ATK** | **DEF** | 
-  | [Werewolf's Gauntlets](/equipment/Werewolf's Gauntlets/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Werewolf's Machete](/images/e/e_8011.png) | [Werewolf's Machete](/equipment/Werewolf's Machete/) | **ATK** | **DEF** | 
+  | ![Werewolf's Square Shield](/images/e/e_8012.png) | [Werewolf's Square Shield](/equipment/Werewolf's Square Shield/) | **HP** | **DEF** | 
+  | ![Werewolf's Chain](/images/e/e_8013.png) | [Werewolf's Chain](/equipment/Werewolf's Chain/) | **ATK** | **DEF** | 
+  | ![Werewolf's Gauntlets](/images/e/e_8014.png) | [Werewolf's Gauntlets](/equipment/Werewolf's Gauntlets/) | **HP** | **DEF** | 
 
 ## Exclusive
 

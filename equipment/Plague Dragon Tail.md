@@ -2,12 +2,19 @@
 title: "Plague Dragon Tail"
 permalink: /equipment/Plague Dragon Tail/
 excerpt: "Era of Chaos Plague Dragon Tail. Plague Dragon Tail"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Plague Dragon Tail.md"
 toc: false
 classes: wide
 ---
+
+  ![Plague Dragon Tail](/images/e/e_8071.png)
+
+## Used by Units:
+
+* [Hydra](/units/Hydra/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

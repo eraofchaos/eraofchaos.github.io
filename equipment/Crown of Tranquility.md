@@ -2,12 +2,19 @@
 title: "Crown of Tranquility"
 permalink: /equipment/Crown of Tranquility/
 excerpt: "Era of Chaos Crown of Tranquility. Crown of Tranquility"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Crown of Tranquility.md"
 toc: false
 classes: wide
 ---
+
+  ![Crown of Tranquility](/images/e/e_2081.png)
+
+## Used by Units:
+
+* [Druid](/units/Druid/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

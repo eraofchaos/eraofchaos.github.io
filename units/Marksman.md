@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Marksman"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Light Crossbow](/equipment/Light Crossbow/) | **ATK** | **DEF** | 
-  | [Steel Cap](/equipment/Steel Cap/) | **HP** | **DEF** | 
-  | [Piercing Bolts](/equipment/Piercing Bolts/) | **ATK** | **DEF** | 
-  | [Leather Gauntlets](/equipment/Leather Gauntlets/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Light Crossbow](/images/e/e_1021.png) | [Light Crossbow](/equipment/Light Crossbow/) | **ATK** | **DEF** | 
+  | ![Steel Cap](/images/e/e_1022.png) | [Steel Cap](/equipment/Steel Cap/) | **HP** | **DEF** | 
+  | ![Piercing Bolts](/images/e/e_1023.png) | [Piercing Bolts](/equipment/Piercing Bolts/) | **ATK** | **DEF** | 
+  | ![Leather Gauntlets](/images/e/e_1024.png) | [Leather Gauntlets](/equipment/Leather Gauntlets/) | **HP** | **DEF** | 
 
 ## Exclusive
 

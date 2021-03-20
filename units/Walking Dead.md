@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Walking Dead"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bloodstained Machete](/equipment/Bloodstained Machete/) | **ATK** | **DEF** | 
-  | [Bone Necklet](/equipment/Bone Necklet/) | **HP** | **DEF** | 
-  | [Refined Steel Bracer](/equipment/Refined Steel Bracer/) | **ATK** | **DEF** | 
-  | [Trousers of Decay](/equipment/Trousers of Decay/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bloodstained Machete](/images/e/e_3021.png) | [Bloodstained Machete](/equipment/Bloodstained Machete/) | **ATK** | **DEF** | 
+  | ![Bone Necklet](/images/e/e_3022.png) | [Bone Necklet](/equipment/Bone Necklet/) | **HP** | **DEF** | 
+  | ![Refined Steel Bracer](/images/e/e_3023.png) | [Refined Steel Bracer](/equipment/Refined Steel Bracer/) | **ATK** | **DEF** | 
+  | ![Trousers of Decay](/images/e/e_3024.png) | [Trousers of Decay](/equipment/Trousers of Decay/) | **HP** | **DEF** | 
 
 ## Exclusive
 

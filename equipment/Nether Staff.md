@@ -2,12 +2,19 @@
 title: "Nether Staff"
 permalink: /equipment/Nether Staff/
 excerpt: "Era of Chaos Nether Staff. Nether Staff"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Nether Staff.md"
 toc: false
 classes: wide
 ---
+
+  ![Nether Staff](/images/e/e_3051.png)
+
+## Used by Units:
+
+* [Lich](/units/Lich/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

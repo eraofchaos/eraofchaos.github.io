@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Lich"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Nether Staff](/equipment/Nether Staff/) | **ATK** | **DEF** | 
-  | [Carrion Crown](/equipment/Carrion Crown/) | **HP** | **DEF** | 
-  | [Soul Belt](/equipment/Soul Belt/) | **ATK** | **DEF** | 
-  | [Light Armor of the Netherworld](/equipment/Light Armor of the Netherworld/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Nether Staff](/images/e/e_3051.png) | [Nether Staff](/equipment/Nether Staff/) | **ATK** | **DEF** | 
+  | ![Carrion Crown](/images/e/e_3052.png) | [Carrion Crown](/equipment/Carrion Crown/) | **HP** | **DEF** | 
+  | ![Soul Belt](/images/e/e_3053.png) | [Soul Belt](/equipment/Soul Belt/) | **ATK** | **DEF** | 
+  | ![Light Armor of the Netherworld](/images/e/e_3054.png) | [Light Armor of the Netherworld](/equipment/Light Armor of the Netherworld/) | **HP** | **DEF** | 
 
 ## Exclusive
 

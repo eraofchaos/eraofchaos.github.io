@@ -2,12 +2,19 @@
 title: "Dragon Turtle's Sharp Teeth"
 permalink: /equipment/Dragon Turtle's Sharp Teeth/
 excerpt: "Era of Chaos Dragon Turtle's Sharp Teeth. Dragon Turtle's Sharp Teeth"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dragon Turtle's Sharp Teeth.md"
 toc: false
 classes: wide
 ---
+
+  ![Dragon Turtle's Sharp Teeth](/images/e/e_99061.png)
+
+## Used by Units:
+
+* [Dragon Turtle](/units/Dragon Turtle/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

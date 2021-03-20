@@ -2,12 +2,19 @@
 title: "Charming Pauldrons"
 permalink: /equipment/Charming Pauldrons/
 excerpt: "Era of Chaos Charming Pauldrons. Charming Pauldrons"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Charming Pauldrons.md"
 toc: false
 classes: wide
 ---
+
+  ![Charming Pauldrons](/images/e/e_5054.png)
+
+## Used by Units:
+
+* [Pit Fiend](/units/Pit Fiend/) 
+
 
 ## Basic stats
  **Stat 1:** HP

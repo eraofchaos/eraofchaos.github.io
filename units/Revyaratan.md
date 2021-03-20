@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Revyaratan"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sharp Fangs](/equipment/Sharp Fangs/) | **ATK** | **DEF** | 
-  | [Ice-cold Fin](/equipment/Ice-cold Fin/) | **HP** | **DEF** | 
-  | [Sea Monster Tail](/equipment/Sea Monster Tail/) | **ATK** | **DEF** | 
-  | [Tentacles of Temptation](/equipment/Tentacles of Temptation/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sharp Fangs](/images/e/e_99081.png) | [Sharp Fangs](/equipment/Sharp Fangs/) | **ATK** | **DEF** | 
+  | ![Ice-cold Fin](/images/e/e_99082.png) | [Ice-cold Fin](/equipment/Ice-cold Fin/) | **HP** | **DEF** | 
+  | ![Sea Monster Tail](/images/e/e_99083.png) | [Sea Monster Tail](/equipment/Sea Monster Tail/) | **ATK** | **DEF** | 
+  | ![Tentacles of Temptation](/images/e/e_99084.png) | [Tentacles of Temptation](/equipment/Tentacles of Temptation/) | **HP** | **DEF** | 
 
 ## Exclusive
 

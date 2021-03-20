@@ -2,12 +2,19 @@
 title: "Sinister Claws"
 permalink: /equipment/Sinister Claws/
 excerpt: "Era of Chaos Sinister Claws. Sinister Claws"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sinister Claws.md"
 toc: false
 classes: wide
 ---
+
+  ![Sinister Claws](/images/e/e_5011.png)
+
+## Used by Units:
+
+* [Imp](/units/Imp/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

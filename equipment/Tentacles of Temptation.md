@@ -2,12 +2,19 @@
 title: "Tentacles of Temptation"
 permalink: /equipment/Tentacles of Temptation/
 excerpt: "Era of Chaos Tentacles of Temptation. Tentacles of Temptation"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Tentacles of Temptation.md"
 toc: false
 classes: wide
 ---
+
+  ![Tentacles of Temptation](/images/e/e_99084.png)
+
+## Used by Units:
+
+* [Revyaratan](/units/Revyaratan/) 
+
 
 ## Basic stats
  **Stat 1:** HP

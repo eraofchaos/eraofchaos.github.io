@@ -2,12 +2,19 @@
 title: "Azure Lance"
 permalink: /equipment/Azure Lance/
 excerpt: "Era of Chaos Azure Lance. Azure Lance"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Azure Lance.md"
 toc: false
 classes: wide
 ---
+
+  ![Azure Lance](/images/e/e_1011.png)
+
+## Used by Units:
+
+* [Pikeman](/units/Pikeman/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

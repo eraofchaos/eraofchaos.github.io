@@ -2,12 +2,19 @@
 title: "Sinister Katar"
 permalink: /equipment/Sinister Katar/
 excerpt: "Era of Chaos Sinister Katar. Sinister Katar"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sinister Katar.md"
 toc: false
 classes: wide
 ---
+
+  ![Sinister Katar](/images/e/e_5012.png)
+
+## Used by Units:
+
+* [Imp](/units/Imp/) 
+
 
 ## Basic stats
  **Stat 1:** HP

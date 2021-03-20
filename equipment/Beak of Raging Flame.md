@@ -2,12 +2,19 @@
 title: "Beak of Raging Flame"
 permalink: /equipment/Beak of Raging Flame/
 excerpt: "Era of Chaos Beak of Raging Flame. Beak of Raging Flame"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Beak of Raging Flame.md"
 toc: false
 classes: wide
 ---
+
+  ![Beak of Raging Flame](/images/e/e_9071.png)
+
+## Used by Units:
+
+* [Firebird](/units/Firebird/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

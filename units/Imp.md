@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Imp"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sinister Claws](/equipment/Sinister Claws/) | **ATK** | **DEF** | 
-  | [Sinister Katar](/equipment/Sinister Katar/) | **HP** | **DEF** | 
-  | [Sinister Wings](/equipment/Sinister Wings/) | **ATK** | **DEF** | 
-  | [Sinister Light Armor](/equipment/Sinister Light Armor/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sinister Claws](/images/e/e_5011.png) | [Sinister Claws](/equipment/Sinister Claws/) | **ATK** | **DEF** | 
+  | ![Sinister Katar](/images/e/e_5012.png) | [Sinister Katar](/equipment/Sinister Katar/) | **HP** | **DEF** | 
+  | ![Sinister Wings](/images/e/e_5013.png) | [Sinister Wings](/equipment/Sinister Wings/) | **ATK** | **DEF** | 
+  | ![Sinister Light Armor](/images/e/e_5014.png) | [Sinister Light Armor](/equipment/Sinister Light Armor/) | **HP** | **DEF** | 
 
 ## Exclusive
 

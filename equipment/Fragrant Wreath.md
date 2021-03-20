@@ -2,12 +2,19 @@
 title: "Fragrant Wreath"
 permalink: /equipment/Fragrant Wreath/
 excerpt: "Era of Chaos Fragrant Wreath. Fragrant Wreath"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Fragrant Wreath.md"
 toc: false
 classes: wide
 ---
+
+  ![Fragrant Wreath](/images/e/e_9011.png)
+
+## Used by Units:
+
+* [Sprite](/units/Sprite/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

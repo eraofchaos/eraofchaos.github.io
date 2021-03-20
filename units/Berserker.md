@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Berserker"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Obsidian Battle Axe](/equipment/Obsidian Battle Axe/) | **ATK** | **DEF** | 
-  | [Necklace of Bone](/equipment/Necklace of Bone/) | **HP** | **DEF** | 
-  | [Beast-boned Helmet](/equipment/Beast-boned Helmet/) | **ATK** | **DEF** | 
-  | [Leather Band](/equipment/Leather Band/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Obsidian Battle Axe](/images/e/e_4081.png) | [Obsidian Battle Axe](/equipment/Obsidian Battle Axe/) | **ATK** | **DEF** | 
+  | ![Necklace of Bone](/images/e/e_4082.png) | [Necklace of Bone](/equipment/Necklace of Bone/) | **HP** | **DEF** | 
+  | ![Beast-boned Helmet](/images/e/e_4083.png) | [Beast-boned Helmet](/equipment/Beast-boned Helmet/) | **ATK** | **DEF** | 
+  | ![Leather Band](/images/e/e_4084.png) | [Leather Band](/equipment/Leather Band/) | **HP** | **DEF** | 
 
 ## Exclusive
 

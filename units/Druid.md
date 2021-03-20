@@ -3,7 +3,7 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Druid"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Crown of Tranquility](/equipment/Crown of Tranquility/) | **ATK** | **DEF** | 
-  | [Elder Staff](/equipment/Elder Staff/) | **HP** | **DEF** | 
-  | [Robe of Storm Rage](/equipment/Robe of Storm Rage/) | **ATK** | **DEF** | 
-  | [Thigh Boots of the Forest](/equipment/Thigh Boots of the Forest/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Crown of Tranquility](/images/e/e_2081.png) | [Crown of Tranquility](/equipment/Crown of Tranquility/) | **ATK** | **DEF** | 
+  | ![Elder Staff](/images/e/e_2082.png) | [Elder Staff](/equipment/Elder Staff/) | **HP** | **DEF** | 
+  | ![Robe of Storm Rage](/images/e/e_2083.png) | [Robe of Storm Rage](/equipment/Robe of Storm Rage/) | **ATK** | **DEF** | 
+  | ![Thigh Boots of the Forest](/images/e/e_2084.png) | [Thigh Boots of the Forest](/equipment/Thigh Boots of the Forest/) | **HP** | **DEF** | 
 
 ## Exclusive
 

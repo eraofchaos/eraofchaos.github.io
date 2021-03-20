@@ -2,12 +2,19 @@
 title: "Bracer of Nightmares"
 permalink: /equipment/Bracer of Nightmares/
 excerpt: "Era of Chaos Bracer of Nightmares. Bracer of Nightmares"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bracer of Nightmares.md"
 toc: false
 classes: wide
 ---
+
+  ![Bracer of Nightmares](/images/e/e_3063.png)
+
+## Used by Units:
+
+* [Black Knight](/units/Black Knight/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

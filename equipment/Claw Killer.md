@@ -2,12 +2,19 @@
 title: "Claw Killer"
 permalink: /equipment/Claw Killer/
 excerpt: "Era of Chaos Claw Killer. Claw Killer"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Claw Killer.md"
 toc: false
 classes: wide
 ---
+
+  ![Claw Killer](/images/e/e_7023.png)
+
+## Used by Units:
+
+* [Harpy](/units/Harpy/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

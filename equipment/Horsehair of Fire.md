@@ -2,12 +2,19 @@
 title: "Horsehair of Fire"
 permalink: /equipment/Horsehair of Fire/
 excerpt: "Era of Chaos Horsehair of Fire. Horsehair of Fire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Horsehair of Fire.md"
 toc: false
 classes: wide
 ---
+
+  ![Horsehair of Fire](/images/e/e_5084.png)
+
+## Used by Units:
+
+* [Nightmare](/units/Nightmare/) 
+
 
 ## Basic stats
  **Stat 1:** HP

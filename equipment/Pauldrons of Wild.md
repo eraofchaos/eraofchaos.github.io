@@ -2,12 +2,19 @@
 title: "Pauldrons of Wild"
 permalink: /equipment/Pauldrons of Wild/
 excerpt: "Era of Chaos Pauldrons of Wild. Pauldrons of Wild"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pauldrons of Wild.md"
 toc: false
 classes: wide
 ---
+
+  ![Pauldrons of Wild](/images/e/e_2014.png)
+
+## Used by Units:
+
+* [Centaur](/units/Centaur/) 
+
 
 ## Basic stats
  **Stat 1:** HP

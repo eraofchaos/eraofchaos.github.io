@@ -3,7 +3,7 @@ title: "Dendroid Guard"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dendroid Guards embody their forest home. Though clumsy, they are extremely tough. They wield forest vines to strangle unsuspecting enemies."
 unitID: 205
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Dendroid Guard"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Branch of Vitality](/equipment/Branch of Vitality/) | **ATK** | **DEF** | 
-  | [Bountiful's Crown](/equipment/Bountiful's Crown/) | **HP** | **DEF** | 
-  | [Evergreen Rune](/equipment/Evergreen Rune/) | **ATK** | **DEF** | 
-  | [Vine's Armor](/equipment/Vine's Armor/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Branch of Vitality](/images/e/e_2051.png) | [Branch of Vitality](/equipment/Branch of Vitality/) | **ATK** | **DEF** | 
+  | ![Bountiful's Crown](/images/e/e_2052.png) | [Bountiful's Crown](/equipment/Bountiful's Crown/) | **HP** | **DEF** | 
+  | ![Evergreen Rune](/images/e/e_2053.png) | [Evergreen Rune](/equipment/Evergreen Rune/) | **ATK** | **DEF** | 
+  | ![Vine's Armor](/images/e/e_2054.png) | [Vine's Armor](/equipment/Vine's Armor/) | **HP** | **DEF** | 
 
 ## Exclusive
 

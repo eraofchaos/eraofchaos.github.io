@@ -2,12 +2,19 @@
 title: "Magic Ox Hoof"
 permalink: /equipment/Magic Ox Hoof/
 excerpt: "Era of Chaos Magic Ox Hoof. Magic Ox Hoof"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Magic Ox Hoof.md"
 toc: false
 classes: wide
 ---
+
+  ![Magic Ox Hoof](/images/e/e_8054.png)
+
+## Used by Units:
+
+* [Gorgon](/units/Gorgon/) 
+
 
 ## Basic stats
  **Stat 1:** HP

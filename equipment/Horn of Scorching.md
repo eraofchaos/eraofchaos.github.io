@@ -2,12 +2,19 @@
 title: "Horn of Scorching"
 permalink: /equipment/Horn of Scorching/
 excerpt: "Era of Chaos Horn of Scorching. Horn of Scorching"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Horn of Scorching.md"
 toc: false
 classes: wide
 ---
+
+  ![Horn of Scorching](/images/e/e_5041.png)
+
+## Used by Units:
+
+* [Demon](/units/Demon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

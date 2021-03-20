@@ -2,12 +2,19 @@
 title: "Pupil of Death"
 permalink: /equipment/Pupil of Death/
 excerpt: "Era of Chaos Pupil of Death. Pupil of Death"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pupil of Death.md"
 toc: false
 classes: wide
 ---
+
+  ![Pupil of Death](/images/e/e_7032.png)
+
+## Used by Units:
+
+* [Beholder](/units/Beholder/) 
+
 
 ## Basic stats
  **Stat 1:** HP

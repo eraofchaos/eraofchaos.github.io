@@ -2,12 +2,17 @@
 title: "Spartan Helmet"
 permalink: /equipment/Spartan Helmet/
 excerpt: "Era of Chaos Spartan Helmet. Spartan Helmet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Spartan Helmet.md"
 toc: false
 classes: wide
 ---
+
+## Used by Units:
+
+* [Spartan Warriors](/units/Spartan Warriors/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

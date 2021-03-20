@@ -2,12 +2,19 @@
 title: "Fiery Horn"
 permalink: /equipment/Fiery Horn/
 excerpt: "Era of Chaos Fiery Horn. Fiery Horn"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Fiery Horn.md"
 toc: false
 classes: wide
 ---
+
+  ![Fiery Horn](/images/e/e_5022.png)
+
+## Used by Units:
+
+* [Gog](/units/Gog/) 
+
 
 ## Basic stats
  **Stat 1:** HP

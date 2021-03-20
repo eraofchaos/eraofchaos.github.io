@@ -2,12 +2,19 @@
 title: "Rams-head Staff"
 permalink: /equipment/Rams-head Staff/
 excerpt: "Era of Chaos Rams-head Staff. Rams-head Staff"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Rams-head Staff.md"
 toc: false
 classes: wide
 ---
+
+  ![Rams-head Staff](/images/e/e_4041.png)
+
+## Used by Units:
+
+* [Ogre](/units/Ogre/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

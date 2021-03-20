@@ -2,12 +2,19 @@
 title: "Spiked Neck Umbrella"
 permalink: /equipment/Spiked Neck Umbrella/
 excerpt: "Era of Chaos Spiked Neck Umbrella. Spiked Neck Umbrella"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Spiked Neck Umbrella.md"
 toc: false
 classes: wide
 ---
+
+  ![Spiked Neck Umbrella](/images/e/e_8021.png)
+
+## Used by Units:
+
+* [Lizardman](/units/Lizardman/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

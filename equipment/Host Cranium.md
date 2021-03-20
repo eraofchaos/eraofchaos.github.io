@@ -2,12 +2,19 @@
 title: "Host Cranium"
 permalink: /equipment/Host Cranium/
 excerpt: "Era of Chaos Host Cranium. Host Cranium"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Host Cranium.md"
 toc: false
 classes: wide
 ---
+
+  ![Host Cranium](/images/e/e_7012.png)
+
+## Used by Units:
+
+* [Troglodyte](/units/Troglodyte/) 
+
 
 ## Basic stats
  **Stat 1:** HP

@@ -3,7 +3,7 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Troglodyte"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ripper's Bone Spear](/equipment/Ripper's Bone Spear/) | **ATK** | **DEF** | 
-  | [Host Cranium](/equipment/Host Cranium/) | **HP** | **DEF** | 
-  | [Spine-breaking Stab](/equipment/Spine-breaking Stab/) | **ATK** | **DEF** | 
-  | [Blood of Strong Acid](/equipment/Blood of Strong Acid/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ripper's Bone Spear](/images/e/e_7011.png) | [Ripper's Bone Spear](/equipment/Ripper's Bone Spear/) | **ATK** | **DEF** | 
+  | ![Host Cranium](/images/e/e_7012.png) | [Host Cranium](/equipment/Host Cranium/) | **HP** | **DEF** | 
+  | ![Spine-breaking Stab](/images/e/e_7013.png) | [Spine-breaking Stab](/equipment/Spine-breaking Stab/) | **ATK** | **DEF** | 
+  | ![Blood of Strong Acid](/images/e/e_7014.png) | [Blood of Strong Acid](/equipment/Blood of Strong Acid/) | **HP** | **DEF** | 
 
 ## Exclusive
 

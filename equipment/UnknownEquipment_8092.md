@@ -2,12 +2,19 @@
 title: "UnknownEquipment_8092"
 permalink: /equipment/UnknownEquipment_8092/
 excerpt: "Era of Chaos UnknownEquipment_8092. UnknownEquipment_8092"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "UnknownEquipment_8092.md"
 toc: false
 classes: wide
 ---
+
+  ![UnknownEquipment_8092](/images/e/e_8092.png)
+
+## Used by Units:
+
+* [White Tiger](/units/White Tiger/) 
+
 
 ## Basic stats
  **Stat 1:** HP

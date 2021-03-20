@@ -2,12 +2,19 @@
 title: "Flickering Lightning Ball"
 permalink: /equipment/Flickering Lightning Ball/
 excerpt: "Era of Chaos Flickering Lightning Ball. Flickering Lightning Ball"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Flickering Lightning Ball.md"
 toc: false
 classes: wide
 ---
+
+  ![Flickering Lightning Ball](/images/e/e_9021.png)
+
+## Used by Units:
+
+* [Storm Elemental](/units/Storm Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

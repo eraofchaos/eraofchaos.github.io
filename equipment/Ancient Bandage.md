@@ -2,12 +2,19 @@
 title: "Ancient Bandage"
 permalink: /equipment/Ancient Bandage/
 excerpt: "Era of Chaos Ancient Bandage. Ancient Bandage"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ancient Bandage.md"
 toc: false
 classes: wide
 ---
+
+  ![Ancient Bandage](/images/e/e_3082.png)
+
+## Used by Units:
+
+* [Mummy](/units/Mummy/) 
+
 
 ## Basic stats
  **Stat 1:** HP

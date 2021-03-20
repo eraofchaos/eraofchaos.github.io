@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Units. Units. Era of Chaos With the help of Magic Charms that provide a mysterious shield, Leprechauns who respond to the summons use the Monolith of the World Tree to travel to the cruel and murderous battlefield, where they become the strongest shield of the Nature!"
 unitID: 909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Leprechaun"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lucky Blessings](/equipment/Lucky Blessings/) | **ATK** | **DEF** | 
-  | [Source of Power](/equipment/Source of Power/) | **HP** | **DEF** | 
-  | [Life Guardian](/equipment/Life Guardian/) | **ATK** | **DEF** | 
-  | [The Lightness of the Wind](/equipment/The Lightness of the Wind/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lucky Blessings](/images/e/e_9091.png) | [Lucky Blessings](/equipment/Lucky Blessings/) | **ATK** | **DEF** | 
+  | ![Source of Power](/images/e/e_9092.png) | [Source of Power](/equipment/Source of Power/) | **HP** | **DEF** | 
+  | ![Life Guardian](/images/e/e_9093.png) | [Life Guardian](/equipment/Life Guardian/) | **ATK** | **DEF** | 
+  | ![The Lightness of the Wind](/images/e/e_9094.png) | [The Lightness of the Wind](/equipment/The Lightness of the Wind/) | **HP** | **DEF** | 
 
 ## Exclusive
 

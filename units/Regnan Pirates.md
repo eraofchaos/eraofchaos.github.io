@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Regnan Pirates"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Toughened Machete](/equipment/Toughened Machete/) | **ATK** | **DEF** | 
-  | [Sailor's Shirt](/equipment/Sailor's Shirt/) | **HP** | **DEF** | 
-  | [Righteous Headband](/equipment/Righteous Headband/) | **ATK** | **DEF** | 
-  | [Sailor's Pants](/equipment/Sailor's Pants/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Toughened Machete](/images/e/e_99011.png) | [Toughened Machete](/equipment/Toughened Machete/) | **ATK** | **DEF** | 
+  | ![Sailor's Shirt](/images/e/e_99012.png) | [Sailor's Shirt](/equipment/Sailor's Shirt/) | **HP** | **DEF** | 
+  | ![Righteous Headband](/images/e/e_99013.png) | [Righteous Headband](/equipment/Righteous Headband/) | **ATK** | **DEF** | 
+  | ![Sailor's Pants](/images/e/e_99014.png) | [Sailor's Pants](/equipment/Sailor's Pants/) | **HP** | **DEF** | 
 
 ## Exclusive
 

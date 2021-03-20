@@ -2,12 +2,19 @@
 title: "Imp Back-spikes"
 permalink: /equipment/Imp Back-spikes/
 excerpt: "Era of Chaos Imp Back-spikes. Imp Back-spikes"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Imp Back-spikes.md"
 toc: false
 classes: wide
 ---
+
+  ![Imp Back-spikes](/images/e/e_8063.png)
+
+## Used by Units:
+
+* [Wyvern](/units/Wyvern/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

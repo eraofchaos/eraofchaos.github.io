@@ -2,12 +2,19 @@
 title: "Mane of Flame"
 permalink: /equipment/Mane of Flame/
 excerpt: "Era of Chaos Mane of Flame. Mane of Flame"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Mane of Flame.md"
 toc: false
 classes: wide
 ---
+
+  ![Mane of Flame](/images/e/e_5034.png)
+
+## Used by Units:
+
+* [Hell Hound](/units/Hell Hound/) 
+
 
 ## Basic stats
  **Stat 1:** HP

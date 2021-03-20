@@ -2,12 +2,19 @@
 title: "Throwing Axe"
 permalink: /equipment/Throwing Axe/
 excerpt: "Era of Chaos Throwing Axe. Throwing Axe"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Throwing Axe.md"
 toc: false
 classes: wide
 ---
+
+  ![Throwing Axe](/images/e/e_4031.png)
+
+## Used by Units:
+
+* [Orc](/units/Orc/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

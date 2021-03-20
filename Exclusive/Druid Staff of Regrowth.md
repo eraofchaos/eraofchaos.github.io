@@ -2,7 +2,7 @@
 title: "Exclusive - Staff of Regrowth"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Staff of Regrowth. Staff of Regrowth. Era of Chaos Exclusive Staff of Regrowth. Druid Exclusive."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Druid Staff of Regrowth.md"
 toc: false

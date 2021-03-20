@@ -2,12 +2,19 @@
 title: "Ash Horseshoe"
 permalink: /equipment/Ash Horseshoe/
 excerpt: "Era of Chaos Ash Horseshoe. Ash Horseshoe"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Ash Horseshoe.md"
 toc: false
 classes: wide
 ---
+
+  ![Ash Horseshoe](/images/e/e_5083.png)
+
+## Used by Units:
+
+* [Nightmare](/units/Nightmare/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

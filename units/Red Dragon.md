@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Red Dragon"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Horn of Red Fire](/equipment/Horn of Red Fire/) | **ATK** | **DEF** | 
-  | [Ancient Wings](/equipment/Ancient Wings/) | **HP** | **DEF** | 
-  | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
-  | [Vehement Dragon Tail](/equipment/Vehement Dragon Tail/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Horn of Red Fire](/images/e/e_7081.png) | [Horn of Red Fire](/equipment/Horn of Red Fire/) | **ATK** | **DEF** | 
+  | ![Ancient Wings](/images/e/e_7082.png) | [Ancient Wings](/equipment/Ancient Wings/) | **HP** | **DEF** | 
+  | ![Scalding Claws](/images/e/e_7083.png) | [Scalding Claws](/equipment/Scalding Claws/) | **ATK** | **DEF** | 
+  | ![Vehement Dragon Tail](/images/e/e_7084.png) | [Vehement Dragon Tail](/equipment/Vehement Dragon Tail/) | **HP** | **DEF** | 
 
 ## Exclusive
 

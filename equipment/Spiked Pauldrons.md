@@ -2,12 +2,19 @@
 title: "Spiked Pauldrons"
 permalink: /equipment/Spiked Pauldrons/
 excerpt: "Era of Chaos Spiked Pauldrons. Spiked Pauldrons"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Spiked Pauldrons.md"
 toc: false
 classes: wide
 ---
+
+  ![Spiked Pauldrons](/images/e/e_6032.png)
+
+## Used by Units:
+
+* [Iron Golem](/units/Iron Golem/) 
+
 
 ## Basic stats
  **Stat 1:** HP

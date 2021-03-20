@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Regnan Seer"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Divine Scepter of the Ocean's Soul](/equipment/Divine Scepter of the Ocean's Soul/) | **ATK** | **DEF** | 
-  | [Poseidon's Soul Necklace](/equipment/Poseidon's Soul Necklace/) | **HP** | **DEF** | 
-  | [Radiance Headband](/equipment/Radiance Headband/) | **ATK** | **DEF** | 
-  | [Noble Bracelet](/equipment/Noble Bracelet/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Divine Scepter of the Ocean's Soul](/images/e/e_99071.png) | [Divine Scepter of the Ocean's Soul](/equipment/Divine Scepter of the Ocean's Soul/) | **ATK** | **DEF** | 
+  | ![Poseidon's Soul Necklace](/images/e/e_99072.png) | [Poseidon's Soul Necklace](/equipment/Poseidon's Soul Necklace/) | **HP** | **DEF** | 
+  | ![Radiance Headband](/images/e/e_99073.png) | [Radiance Headband](/equipment/Radiance Headband/) | **ATK** | **DEF** | 
+  | ![Noble Bracelet](/images/e/e_99074.png) | [Noble Bracelet](/equipment/Noble Bracelet/) | **HP** | **DEF** | 
 
 ## Exclusive
 

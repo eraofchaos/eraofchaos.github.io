@@ -2,12 +2,19 @@
 title: "Breach Armor"
 permalink: /equipment/Breach Armor/
 excerpt: "Era of Chaos Breach Armor. Breach Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Breach Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Breach Armor](/images/e/e_4093.png)
+
+## Used by Units:
+
+* [Troll](/units/Troll/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

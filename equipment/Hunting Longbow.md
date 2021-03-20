@@ -2,12 +2,19 @@
 title: "Hunting Longbow"
 permalink: /equipment/Hunting Longbow/
 excerpt: "Era of Chaos Hunting Longbow. Hunting Longbow"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Hunting Longbow.md"
 toc: false
 classes: wide
 ---
+
+  ![Hunting Longbow](/images/e/e_8024.png)
+
+## Used by Units:
+
+* [Lizardman](/units/Lizardman/) 
+
 
 ## Basic stats
  **Stat 1:** HP

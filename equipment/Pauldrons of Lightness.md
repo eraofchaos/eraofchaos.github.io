@@ -2,12 +2,19 @@
 title: "Pauldrons of Lightness"
 permalink: /equipment/Pauldrons of Lightness/
 excerpt: "Era of Chaos Pauldrons of Lightness. Pauldrons of Lightness"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pauldrons of Lightness.md"
 toc: false
 classes: wide
 ---
+
+  ![Pauldrons of Lightness](/images/e/e_1074.png)
+
+## Used by Units:
+
+* [Angel](/units/Angel/) 
+
 
 ## Basic stats
  **Stat 1:** HP

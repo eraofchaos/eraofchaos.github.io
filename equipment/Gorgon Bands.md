@@ -2,12 +2,19 @@
 title: "Gorgon Bands"
 permalink: /equipment/Gorgon Bands/
 excerpt: "Era of Chaos Gorgon Bands. Gorgon Bands"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gorgon Bands.md"
 toc: false
 classes: wide
 ---
+
+  ![Gorgon Bands](/images/e/e_7053.png)
+
+## Used by Units:
+
+* [Minotaur](/units/Minotaur/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

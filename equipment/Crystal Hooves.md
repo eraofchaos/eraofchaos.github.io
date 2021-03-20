@@ -2,12 +2,19 @@
 title: "Crystal Hooves"
 permalink: /equipment/Crystal Hooves/
 excerpt: "Era of Chaos Crystal Hooves. Crystal Hooves"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Crystal Hooves.md"
 toc: false
 classes: wide
 ---
+
+  ![Crystal Hooves](/images/e/e_2063.png)
+
+## Used by Units:
+
+* [Unicorn](/units/Unicorn/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

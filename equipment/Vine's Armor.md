@@ -2,12 +2,19 @@
 title: "Vine's Armor"
 permalink: /equipment/Vine's Armor/
 excerpt: "Era of Chaos Vine's Armor. Vine's Armor"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Vine's Armor.md"
 toc: false
 classes: wide
 ---
+
+  ![Vine's Armor](/images/e/e_2054.png)
+
+## Used by Units:
+
+* [Dendroid Guard](/units/Dendroid Guard/) 
+
 
 ## Basic stats
  **Stat 1:** HP

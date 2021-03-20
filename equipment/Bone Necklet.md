@@ -2,12 +2,19 @@
 title: "Bone Necklet"
 permalink: /equipment/Bone Necklet/
 excerpt: "Era of Chaos Bone Necklet. Bone Necklet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Bone Necklet.md"
 toc: false
 classes: wide
 ---
+
+  ![Bone Necklet](/images/e/e_3022.png)
+
+## Used by Units:
+
+* [Walking Dead](/units/Walking Dead/) 
+
 
 ## Basic stats
  **Stat 1:** HP

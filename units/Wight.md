@@ -3,7 +3,7 @@ title: "Wight"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Wight"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ghostly Claws](/equipment/Ghostly Claws/) | **ATK** | **DEF** | 
-  | [Light Armor of Requiem](/equipment/Light Armor of Requiem/) | **HP** | **DEF** | 
-  | [Cursed Soul](/equipment/Cursed Soul/) | **ATK** | **DEF** | 
-  | [Dress of Requiem](/equipment/Dress of Requiem/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ghostly Claws](/images/e/e_3031.png) | [Ghostly Claws](/equipment/Ghostly Claws/) | **ATK** | **DEF** | 
+  | ![Light Armor of Requiem](/images/e/e_3032.png) | [Light Armor of Requiem](/equipment/Light Armor of Requiem/) | **HP** | **DEF** | 
+  | ![Cursed Soul](/images/e/e_3033.png) | [Cursed Soul](/equipment/Cursed Soul/) | **ATK** | **DEF** | 
+  | ![Dress of Requiem](/images/e/e_3034.png) | [Dress of Requiem](/equipment/Dress of Requiem/) | **HP** | **DEF** | 
 
 ## Exclusive
 

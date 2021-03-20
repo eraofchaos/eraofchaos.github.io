@@ -2,12 +2,19 @@
 title: "Eye of Blasphemy"
 permalink: /equipment/Eye of Blasphemy/
 excerpt: "Era of Chaos Eye of Blasphemy. Eye of Blasphemy"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Eye of Blasphemy.md"
 toc: false
 classes: wide
 ---
+
+  ![Eye of Blasphemy](/images/e/e_7031.png)
+
+## Used by Units:
+
+* [Beholder](/units/Beholder/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

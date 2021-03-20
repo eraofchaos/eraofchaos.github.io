@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Behemoth"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ferocious Claws](/equipment/Ferocious Claws/) | **ATK** | **DEF** | 
-  | [Ironclad Skin](/equipment/Ironclad Skin/) | **HP** | **DEF** | 
-  | [Ferocious Fangs](/equipment/Ferocious Fangs/) | **ATK** | **DEF** | 
-  | [Thick Fur Hide](/equipment/Thick Fur Hide/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ferocious Claws](/images/e/e_4071.png) | [Ferocious Claws](/equipment/Ferocious Claws/) | **ATK** | **DEF** | 
+  | ![Ironclad Skin](/images/e/e_4072.png) | [Ironclad Skin](/equipment/Ironclad Skin/) | **HP** | **DEF** | 
+  | ![Ferocious Fangs](/images/e/e_4073.png) | [Ferocious Fangs](/equipment/Ferocious Fangs/) | **ATK** | **DEF** | 
+  | ![Thick Fur Hide](/images/e/e_4074.png) | [Thick Fur Hide](/equipment/Thick Fur Hide/) | **HP** | **DEF** | 
 
 ## Exclusive
 

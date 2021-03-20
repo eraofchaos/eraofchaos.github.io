@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Pikeman"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Azure Lance](/equipment/Azure Lance/) | **ATK** | **DEF** | 
-  | [Plate Helmet](/equipment/Plate Helmet/) | **HP** | **DEF** | 
-  | [Sentinel's Shield](/equipment/Sentinel's Shield/) | **ATK** | **DEF** | 
-  | [Plated Shoulderpads](/equipment/Plated Shoulderpads/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Azure Lance](/images/e/e_1011.png) | [Azure Lance](/equipment/Azure Lance/) | **ATK** | **DEF** | 
+  | ![Plate Helmet](/images/e/e_1012.png) | [Plate Helmet](/equipment/Plate Helmet/) | **HP** | **DEF** | 
+  | ![Sentinel's Shield](/images/e/e_1013.png) | [Sentinel's Shield](/equipment/Sentinel's Shield/) | **ATK** | **DEF** | 
+  | ![Plated Shoulderpads](/images/e/e_1014.png) | [Plated Shoulderpads](/equipment/Plated Shoulderpads/) | **HP** | **DEF** | 
 
 ## Exclusive
 

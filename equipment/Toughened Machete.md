@@ -2,12 +2,19 @@
 title: "Toughened Machete"
 permalink: /equipment/Toughened Machete/
 excerpt: "Era of Chaos Toughened Machete. Toughened Machete"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Toughened Machete.md"
 toc: false
 classes: wide
 ---
+
+  ![Toughened Machete](/images/e/e_99011.png)
+
+## Used by Units:
+
+* [Regnan Pirates](/units/Regnan Pirates/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

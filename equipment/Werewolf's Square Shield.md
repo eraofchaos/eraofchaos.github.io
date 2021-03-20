@@ -2,12 +2,19 @@
 title: "Werewolf's Square Shield"
 permalink: /equipment/Werewolf's Square Shield/
 excerpt: "Era of Chaos Werewolf's Square Shield. Werewolf's Square Shield"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Werewolf's Square Shield.md"
 toc: false
 classes: wide
 ---
+
+  ![Werewolf's Square Shield](/images/e/e_8012.png)
+
+## Used by Units:
+
+* [Gnoll](/units/Gnoll/) 
+
 
 ## Basic stats
  **Stat 1:** HP

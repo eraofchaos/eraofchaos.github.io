@@ -2,12 +2,19 @@
 title: "Molten Pentagram"
 permalink: /equipment/Molten Pentagram/
 excerpt: "Era of Chaos Molten Pentagram. Molten Pentagram"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Molten Pentagram.md"
 toc: false
 classes: wide
 ---
+
+  ![Molten Pentagram](/images/e/e_5072.png)
+
+## Used by Units:
+
+* [Devil](/units/Devil/) 
+
 
 ## Basic stats
  **Stat 1:** HP

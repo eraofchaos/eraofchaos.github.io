@@ -2,12 +2,19 @@
 title: "Forged Bracers"
 permalink: /equipment/Forged Bracers/
 excerpt: "Era of Chaos Forged Bracers. Forged Bracers"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Forged Bracers.md"
 toc: false
 classes: wide
 ---
+
+  ![Forged Bracers](/images/e/e_1084.png)
+
+## Used by Units:
+
+* [Paladin](/units/Paladin/) 
+
 
 ## Basic stats
  **Stat 1:** HP

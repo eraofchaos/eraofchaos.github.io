@@ -2,7 +2,7 @@
 title: "Exclusive - Medusa's Bow"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Medusa's Bow. Medusa's Bow. Era of Chaos Exclusive Medusa's Bow. Medusa Exclusive."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Medusa Medusa's Bow.md"
 toc: false

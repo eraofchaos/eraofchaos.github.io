@@ -2,12 +2,19 @@
 title: "Salvation Inferno Fire"
 permalink: /equipment/Salvation Inferno Fire/
 excerpt: "Era of Chaos Salvation Inferno Fire. Salvation Inferno Fire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Salvation Inferno Fire.md"
 toc: false
 classes: wide
 ---
+
+  ![Salvation Inferno Fire](/images/e/e_3093.png)
+
+## Used by Units:
+
+* [Dark Champion](/units/Dark Champion/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

@@ -2,12 +2,19 @@
 title: "The Lightness of the Wind"
 permalink: /equipment/The Lightness of the Wind/
 excerpt: "Era of Chaos The Lightness of the Wind. The Lightness of the Wind"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "The Lightness of the Wind.md"
 toc: false
 classes: wide
 ---
+
+  ![The Lightness of the Wind](/images/e/e_9094.png)
+
+## Used by Units:
+
+* [Leprechaun](/units/Leprechaun/) 
+
 
 ## Basic stats
  **Stat 1:** HP

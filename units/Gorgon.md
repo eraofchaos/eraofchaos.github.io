@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Gorgon"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Adamantine Leather](/equipment/Adamantine Leather/) | **ATK** | **DEF** | 
-  | [Barbarian Back Armor](/equipment/Barbarian Back Armor/) | **HP** | **DEF** | 
-  | [Deadly Ox Horn](/equipment/Deadly Ox Horn/) | **ATK** | **DEF** | 
-  | [Magic Ox Hoof](/equipment/Magic Ox Hoof/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Adamantine Leather](/images/e/e_8051.png) | [Adamantine Leather](/equipment/Adamantine Leather/) | **ATK** | **DEF** | 
+  | ![Barbarian Back Armor](/images/e/e_8052.png) | [Barbarian Back Armor](/equipment/Barbarian Back Armor/) | **HP** | **DEF** | 
+  | ![Deadly Ox Horn](/images/e/e_8053.png) | [Deadly Ox Horn](/equipment/Deadly Ox Horn/) | **ATK** | **DEF** | 
+  | ![Magic Ox Hoof](/images/e/e_8054.png) | [Magic Ox Hoof](/equipment/Magic Ox Hoof/) | **HP** | **DEF** | 
 
 ## Exclusive
 

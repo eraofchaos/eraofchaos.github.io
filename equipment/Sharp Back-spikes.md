@@ -2,12 +2,19 @@
 title: "Sharp Back-spikes"
 permalink: /equipment/Sharp Back-spikes/
 excerpt: "Era of Chaos Sharp Back-spikes. Sharp Back-spikes"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sharp Back-spikes.md"
 toc: false
 classes: wide
 ---
+
+  ![Sharp Back-spikes](/images/e/e_8074.png)
+
+## Used by Units:
+
+* [Hydra](/units/Hydra/) 
+
 
 ## Basic stats
  **Stat 1:** HP

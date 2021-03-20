@@ -2,12 +2,19 @@
 title: "Righteous Headband"
 permalink: /equipment/Righteous Headband/
 excerpt: "Era of Chaos Righteous Headband. Righteous Headband"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Righteous Headband.md"
 toc: false
 classes: wide
 ---
+
+  ![Righteous Headband](/images/e/e_99013.png)
+
+## Used by Units:
+
+* [Regnan Pirates](/units/Regnan Pirates/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

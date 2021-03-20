@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Naga"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Everflowing Blade](/equipment/Everflowing Blade/) | **ATK** | **DEF** | 
-  | [Seafaring Pauldrons](/equipment/Seafaring Pauldrons/) | **HP** | **DEF** | 
-  | [Headdress of the Serpent God](/equipment/Headdress of the Serpent God/) | **ATK** | **DEF** | 
-  | [Strong and Flexible Waistplate](/equipment/Strong and Flexible Waistplate/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Everflowing Blade](/images/e/e_6061.png) | [Everflowing Blade](/equipment/Everflowing Blade/) | **ATK** | **DEF** | 
+  | ![Seafaring Pauldrons](/images/e/e_6062.png) | [Seafaring Pauldrons](/equipment/Seafaring Pauldrons/) | **HP** | **DEF** | 
+  | ![Headdress of the Serpent God](/images/e/e_6063.png) | [Headdress of the Serpent God](/equipment/Headdress of the Serpent God/) | **ATK** | **DEF** | 
+  | ![Strong and Flexible Waistplate](/images/e/e_6064.png) | [Strong and Flexible Waistplate](/equipment/Strong and Flexible Waistplate/) | **HP** | **DEF** | 
 
 ## Exclusive
 

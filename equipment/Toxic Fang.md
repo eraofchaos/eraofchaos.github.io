@@ -2,12 +2,19 @@
 title: "Toxic Fang"
 permalink: /equipment/Toxic Fang/
 excerpt: "Era of Chaos Toxic Fang. Toxic Fang"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Toxic Fang.md"
 toc: false
 classes: wide
 ---
+
+  ![Toxic Fang](/images/e/e_8034.png)
+
+## Used by Units:
+
+* [Serpent Fly](/units/Serpent Fly/) 
+
 
 ## Basic stats
  **Stat 1:** HP

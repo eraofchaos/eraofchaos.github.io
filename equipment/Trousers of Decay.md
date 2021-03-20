@@ -2,12 +2,19 @@
 title: "Trousers of Decay"
 permalink: /equipment/Trousers of Decay/
 excerpt: "Era of Chaos Trousers of Decay. Trousers of Decay"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Trousers of Decay.md"
 toc: false
 classes: wide
 ---
+
+  ![Trousers of Decay](/images/e/e_3024.png)
+
+## Used by Units:
+
+* [Walking Dead](/units/Walking Dead/) 
+
 
 ## Basic stats
  **Stat 1:** HP

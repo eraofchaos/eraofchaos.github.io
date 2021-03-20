@@ -2,12 +2,19 @@
 title: "Unholy Shield"
 permalink: /equipment/Unholy Shield/
 excerpt: "Era of Chaos Unholy Shield. Unholy Shield"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Unholy Shield.md"
 toc: false
 classes: wide
 ---
+
+  ![Unholy Shield](/images/e/e_3013.png)
+
+## Used by Units:
+
+* [Skeleton](/units/Skeleton/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

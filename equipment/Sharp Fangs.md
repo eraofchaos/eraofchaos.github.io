@@ -2,12 +2,19 @@
 title: "Sharp Fangs"
 permalink: /equipment/Sharp Fangs/
 excerpt: "Era of Chaos Sharp Fangs. Sharp Fangs"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Sharp Fangs.md"
 toc: false
 classes: wide
 ---
+
+  ![Sharp Fangs](/images/e/e_99081.png)
+
+## Used by Units:
+
+* [Revyaratan](/units/Revyaratan/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

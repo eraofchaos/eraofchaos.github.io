@@ -2,12 +2,19 @@
 title: "Emerald Arm Ring"
 permalink: /equipment/Emerald Arm Ring/
 excerpt: "Era of Chaos Emerald Arm Ring. Emerald Arm Ring"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Emerald Arm Ring.md"
 toc: false
 classes: wide
 ---
+
+  ![Emerald Arm Ring](/images/e/e_9014.png)
+
+## Used by Units:
+
+* [Sprite](/units/Sprite/) 
+
 
 ## Basic stats
  **Stat 1:** HP

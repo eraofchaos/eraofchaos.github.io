@@ -2,12 +2,19 @@
 title: "Eternal Tear"
 permalink: /equipment/Eternal Tear/
 excerpt: "Era of Chaos Eternal Tear. Eternal Tear"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Eternal Tear.md"
 toc: false
 classes: wide
 ---
+
+  ![Eternal Tear](/images/e/e_99031.png)
+
+## Used by Units:
+
+* [Sea Elemental](/units/Sea Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

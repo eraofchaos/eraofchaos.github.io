@@ -2,12 +2,19 @@
 title: "Blood of Strong Acid"
 permalink: /equipment/Blood of Strong Acid/
 excerpt: "Era of Chaos Blood of Strong Acid. Blood of Strong Acid"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Blood of Strong Acid.md"
 toc: false
 classes: wide
 ---
+
+  ![Blood of Strong Acid](/images/e/e_7014.png)
+
+## Used by Units:
+
+* [Troglodyte](/units/Troglodyte/) 
+
 
 ## Basic stats
  **Stat 1:** HP

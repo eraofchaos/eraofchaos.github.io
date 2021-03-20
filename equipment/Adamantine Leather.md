@@ -2,12 +2,19 @@
 title: "Adamantine Leather"
 permalink: /equipment/Adamantine Leather/
 excerpt: "Era of Chaos Adamantine Leather. Adamantine Leather"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Adamantine Leather.md"
 toc: false
 classes: wide
 ---
+
+  ![Adamantine Leather](/images/e/e_8051.png)
+
+## Used by Units:
+
+* [Gorgon](/units/Gorgon/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

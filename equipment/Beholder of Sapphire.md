@@ -2,12 +2,19 @@
 title: "Beholder of Sapphire"
 permalink: /equipment/Beholder of Sapphire/
 excerpt: "Era of Chaos Beholder of Sapphire. Beholder of Sapphire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Beholder of Sapphire.md"
 toc: false
 classes: wide
 ---
+
+  ![Beholder of Sapphire](/images/e/e_9043.png)
+
+## Used by Units:
+
+* [Fire Elemental](/units/Fire Elemental/) 
+
 
 ## Basic stats
  **Stat 1:** ATK

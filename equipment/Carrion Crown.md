@@ -2,12 +2,19 @@
 title: "Carrion Crown"
 permalink: /equipment/Carrion Crown/
 excerpt: "Era of Chaos Carrion Crown. Carrion Crown"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: en
 ref: "Carrion Crown.md"
 toc: false
 classes: wide
 ---
+
+  ![Carrion Crown](/images/e/e_3052.png)
+
+## Used by Units:
+
+* [Lich](/units/Lich/) 
+
 
 ## Basic stats
  **Stat 1:** HP
