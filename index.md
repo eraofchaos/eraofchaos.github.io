@@ -76,7 +76,7 @@ You will find here:
 * <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
 * <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
 
-* <i class="fas fa-question-circle"/>  [Sphinx Answer questions for approval and rewards!](/sphinx/)
+* <i class="fas fa-question-circle"/>  [Sphinx: Answer questions for approval and rewards!](/sphinx/)
 
 * <i class="fas fa-hat-cowboy-side"/>  [Backup](/Backup/)
 * <i class="fas fa-place-of-worship"/>  [Alchemy Formula Library](/Alchemy Workshop/)
