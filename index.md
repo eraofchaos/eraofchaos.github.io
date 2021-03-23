@@ -10,6 +10,25 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210323 %}
+
+* New info for <i class="fas fa-mask"/> [Adjutants](/heroes/Adjutants/)
+  * <i class="fas fa-mask"/>  [DE Adjutant](/de/heroes/Adjutants/)
+  * <i class="fas fa-mask"/>  [FR Adjudant](/fr/heroes/Adjutants/)
+  * <i class="fas fa-mask"/>  [RU Адъютант](/ru/heroes/Adjutants/)
+  * <i class="fas fa-mask"/>  [IT Aiutante](/it/heroes/Adjutants/)
+  * <i class="fas fa-mask"/>  [ES Ayudante](/es/heroes/Adjutants/)
+* New not released Hero - [Melodia](https://eraofchaos.github.io/heroes/Melodia/)
+* Added images for Equipment (See [Units](/units/) )
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">23 March 2021 Update:</h4>
+  {{ notice-update20210323 | markdownify }}
+</div>
+
+
 {% capture notice-update20210318 %}
 
 Wiki updated to Client version 146 (3255)... Some features are still in progress...
