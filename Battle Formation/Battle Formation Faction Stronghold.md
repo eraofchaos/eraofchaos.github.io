@@ -2,7 +2,7 @@
 title: "Battle Formation Stronghold"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "Battle Formation Stronghold"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: en
 ref: "BattleFormationFactionStronghold"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
 
 ## Battle Formation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Stronghold - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Goblin](/units/Goblin) |
   | 2 | Stronghold - Storm Assaulter | ATK + **0.9** % | 70 |   |
@@ -51,7 +51,7 @@ classes: wide
 
 ## Battle Formation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Stronghold - Damage Amplification | Unit DMG + **0.4** % | 160 |  **10** x [Goblin](/units/Goblin) |
   | 2 | Stronghold - Storm Assaulter | ATK + **1** % | 80 |   |

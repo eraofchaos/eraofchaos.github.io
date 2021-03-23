@@ -2,7 +2,7 @@
 title: "Battle Formation Cove"
 permalink: /Battle Formation/Battle Formation Faction Cove internal
 excerpt: "Battle Formation Cove"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: en
 ref: "BattleFormationFactionCove"
 toc: false
@@ -41,7 +41,7 @@ classes: wide
 
 ## Battle Formation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Cove - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 2 | Cove - Damage Amplification | ATK + **0.9** % | 70 |   |
@@ -60,7 +60,7 @@ classes: wide
 
 ## Battle Formation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Cove - Storm Assaulter | Unit DMG + **0.4** % | 160 |  **10** x [Regnan Pirates](/units/Regnan Pirates) |
   | 2 | Cove - Damage Amplification | ATK + **1** % | 80 |   |
@@ -85,7 +85,7 @@ classes: wide
 
 ## Battle Formation Circle 3:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Cove - Storm Assaulter | Unit DMG + **0.4** % | 180 |  **10** x [Sea Elemental](/units/Sea Elemental) |
   | 2 | Cove - Damage Amplification | ATK + **1.2** % | 90 |   |
@@ -116,7 +116,7 @@ classes: wide
 
 ## Battle Formation Circle 4:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Cove - Storm Assaulter | Unit DMG + **0.5** % | 190 |  **20** x [Regnan Serpent](/units/Regnan Serpent) |
   | 2 | Cove - Damage Amplification | ATK + **1.4** % | 100 |   |

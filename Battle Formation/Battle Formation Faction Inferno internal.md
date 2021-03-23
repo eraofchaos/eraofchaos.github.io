@@ -2,7 +2,7 @@
 title: "Battle Formation Inferno"
 permalink: /Battle Formation/Battle Formation Faction Inferno internal
 excerpt: "Battle Formation Inferno"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: en
 ref: "BattleFormationFactionInferno"
 toc: false
@@ -38,7 +38,7 @@ classes: wide
 
 ## Battle Formation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Inferno - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Imp](/units/Imp) |
   | 2 | Inferno - Storm Assaulter | ATK + **0.9** % | 70 |   |
@@ -57,7 +57,7 @@ classes: wide
 
 ## Battle Formation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Inferno - Damage Amplification | Unit DMG + **0.4** % | 160 |  **10** x [Imp](/units/Imp) |
   | 2 | Inferno - Storm Assaulter | ATK + **1** % | 80 |   |
@@ -82,7 +82,7 @@ classes: wide
 
 ## Battle Formation Circle 3:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Inferno - Damage Amplification | Unit DMG + **0.4** % | 180 |  **10** x [Demon](/units/Demon) |
   | 2 | Inferno - Storm Assaulter | ATK + **1.2** % | 90 |   |
@@ -113,7 +113,7 @@ classes: wide
 
 ## Battle Formation Circle 4:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Inferno - Damage Amplification | Unit DMG + **0.5** % | 190 |  **20** x [Pit Fiend](/units/Pit Fiend) |
   | 2 | Inferno - Storm Assaulter | ATK + **1.4** % | 100 |   |

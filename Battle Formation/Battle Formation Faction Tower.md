@@ -2,7 +2,7 @@
 title: "Battle Formation Tower"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "Battle Formation Tower"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: en
 ref: "BattleFormationFactionTower"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
 
 ## Battle Formation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Tower - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Gremlin](/units/Gremlin) |
   | 2 | Tower - Storm Assaulter | ATK + **0.9** % | 70 |   |
@@ -51,7 +51,7 @@ classes: wide
 
 ## Battle Formation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Tower - Damage Amplification | Unit DMG + **0.4** % | 160 |  **10** x [Gremlin](/units/Gremlin) |
   | 2 | Tower - Storm Assaulter | ATK + **1** % | 80 |   |

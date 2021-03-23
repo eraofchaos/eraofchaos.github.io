@@ -2,7 +2,7 @@
 title: "Battle Formation Rampart"
 permalink: /Battle Formation/Battle Formation Faction Rampart internal
 excerpt: "Battle Formation Rampart"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: en
 ref: "BattleFormationFactionRampart"
 toc: false
@@ -38,7 +38,7 @@ classes: wide
 
 ## Battle Formation Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Rampart - Damage Amplification | Unit DMG + **0.3** % | 150 |  **10** x [Centaur](/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ATK + **0.9** % | 70 |   |
@@ -57,7 +57,7 @@ classes: wide
 
 ## Battle Formation Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Rampart - Damage Amplification | Unit DMG + **0.4** % | 160 |  **10** x [Centaur](/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ATK + **1** % | 80 |   |
@@ -82,7 +82,7 @@ classes: wide
 
 ## Battle Formation Circle 3:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Rampart - Damage Amplification | Unit DMG + **0.4** % | 180 |  **10** x [Centaur](/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ATK + **1.2** % | 90 |   |
@@ -113,7 +113,7 @@ classes: wide
 
 ## Battle Formation Circle 4:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
   | 1 | Rampart - Damage Amplification | Unit DMG + **0.5** % | 190 |  **20** x [Dendroid Guard](/units/Dendroid Guard) |
   | 2 | Rampart - Storm Assaulter | ATK + **1.4** % | 100 |   |
