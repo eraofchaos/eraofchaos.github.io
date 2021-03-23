@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. Even though he's in a wholly different world, Ezio continues to hold fast to his conviction. He works in the dark to serve the light."
 heroID: 61901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Ezio"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Description:** Grants <span style="color: #e07c44;font-size:20px">Hawkeye</span><span style="color: black"> to all friendly units while increasing Critical Hit and Accuracy by 900 for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
 
+## Adjutant
+
+ **Adjutant:**  [Adjutant Ezio](/heroes/Adjutant Ezio/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Nothing is True 
+
+ **Description:** When a friendly hero casts an offensive spell, increases the Critical Hit DMG of your Neutral units by <span style="color: #48b946;font-size:20px">{(9+1*($sklevel-1))}%</span><span style="color: black"> for 10s.
+
+## Combination Info
+
+  none
 ## HERO Biography
 
 ## HERO Skins

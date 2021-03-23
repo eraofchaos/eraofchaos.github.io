@@ -3,7 +3,7 @@ title: "Peter Lee"
 permalink: /heroes/Peter Lee/
 excerpt: "Era of Chaos Peter Lee. Peter Lee. Peter Lee is a legendary pirate, but he seems to prefer treasure and adventure to burning and pillaging. Rumor has it that him and his fleet have been to the end of the world."
 heroID: 61801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Peter Lee"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Break Waves
  **Description:** Peter Lee drives an assault ship into enemy units, dealing <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage on all enemy units. Defensive units take additional spell damage equal to 10% of their Max HP.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Peter Lee](/heroes/Adjutant Peter Lee/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Enhanced Cove 
+
+ **Description:** Increases friendly Cove units' ATK by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Slow](/combination/Slow/) 
+* [Deterrence](/combination/Deterrence/) 
 
 ## HERO Biography
 

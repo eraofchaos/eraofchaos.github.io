@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. As a young woman, shipwrecked and alone, Adelaide stumbled into Snow Elf territory. She underwent 20 years of training with her rescuers and became the most powerful mage in the kingdom before returning to Erathia."
 heroID: 60001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Adelaide"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Frost Ring
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage on enemy units within a very large range, and <span style="color: #e07c44;font-size:20px">freezes</span><span style="color: black"> to <span style="color: #e07c44;font-size:20px">slowed down</span><span style="color: black"> targets for 5s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Adelaide](/heroes/Adjutant Adelaide/) 
+
+ **Type:**  Spell 
+
+ **Adjutant Skill:**  Enhanced Water Magic 
+
+ **Description:** Increases water-type spell DMG of friendly heroes by <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+* [Freeze](/combination/Freeze/) 
 
 ## HERO Biography
 

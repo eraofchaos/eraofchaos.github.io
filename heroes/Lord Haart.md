@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart was killed, and has been resurrected. As a general of the undead army, he has even more formidable powers than he had in life. "
 heroID: 60401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Lord Haart"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Kill Order
  **Description:** Order Death Knights to deal <span style="color: #48b946;font-size:20px">Critical Strike</span><span style="color: black"> once. The damage this time increases by 20%. Reduces the target's DEF by {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Lord Haart](/heroes/Adjutant Lord Haart/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Frightful Aura 
+
+ **Description:** Increases friendly Necropolis units' Unit DMG by <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Low Morale](/combination/Low Morale/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

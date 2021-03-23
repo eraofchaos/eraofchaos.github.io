@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr was trapped in a genie bottle for more than a thousand years. He's eternally grateful to the person who freed him -- Gavin Magnus, the immortal ruler of the Bracada Highlands -- and has pledged everlasting allegiance to him."
 heroID: 61201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Solmyr"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Chain Lightning
  **Description:** Fires 1 bolt of lightning which jumps 5 times across different enemy units. Each jump deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> air spell damage.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Solmyr](/heroes/Adjutant Solmyr/) 
+
+ **Type:**  Spell 
+
+ **Adjutant Skill:**  Enhanced Air Magic 
+
+ **Description:** Increases air-type spell DMG of friendly heroes by <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Static](/combination/Static/) 
 
 ## HERO Biography
    - A new consciousness began to form in the Mind's Maze...

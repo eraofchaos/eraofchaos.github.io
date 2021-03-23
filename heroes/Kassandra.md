@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Kassandra's outstanding combat skills are due to the Spartan education she received as a child. After the Spartan left her for dead at Mount Taygetos, she became a mercenary."
 heroID: 62001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Kassandra"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: #e07c44;font-size:20px">burning</span><span style="color: black"> and <span style="color: #e07c44;font-size:20px">stun</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
 
+## Adjutant
+
+ **Adjutant:**  [Adjutant Kassandra](/heroes/Adjutant Kassandra/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Might of Leonidas 
+
+ **Description:** When an enemy hero casts a fire-type spell, increases the DEF of your Neutral units by <span style="color: #48b946;font-size:20px">{(0.5+0.5*($sklevel-1))}%</span><span style="color: black"> for 10s.
+
+## Combination Info
+
+  none
 ## HERO Biography
 
 ## HERO Skins

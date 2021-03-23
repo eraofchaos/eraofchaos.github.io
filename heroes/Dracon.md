@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon is considered a magical prodigy by many of his elders. His goal in life is to become history's greatest dragonslayer."
 heroID: 61202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Dracon"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Clone
  **Description:** Copy 1 of friendly units to fight in the battlefield. It has <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> of the original unit's ATK and takes {($duplidmg11+$duplidmg12*($sklevel-1))}% more damage. Lasts for 30s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Dracon](/heroes/Adjutant Dracon/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Enhanced Tower 
+
+ **Description:** Increases friendly Tower units' ATK by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere was born with the ability to control Psychic and Magic Elementals. He is a vital general of Elemental."
 heroID: 60702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Monere"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Mystic Domain
  **Description:** Creates a Mystic Domain in the target area, dealing <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a very large range, and inflicting <span style="color: #e07c44;font-size:20px">silence</span><span style="color: black"> on enemy units within range for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Monere](/heroes/Adjutant Monere/) 
+
+ **Type:**  Stats 
+
+ **Adjutant Skill:**  Ruined Knowledge 
+
+ **Description:** Decreases enemy heroes' Knowledge by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+* [Burning](/combination/Burning/) 
+* [Silence](/combination/Silence/) 
 
 ## HERO Biography
 

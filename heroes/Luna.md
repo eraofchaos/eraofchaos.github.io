@@ -3,7 +3,7 @@ title: "Luna"
 permalink: /heroes/Luna/
 excerpt: "Era of Chaos Luna. Luna. Luna was living in Enroth when she heard that an Elemental had appeared in Erathia. Believing she could learn far greater magic there, she made her way across the sea to discover its secrets."
 heroID: 60701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Luna"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Land on Fire
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> fire spell damage on enemy units within a very large range and deals an additional <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> fire damage to <span style="color: #e07c44;font-size:20px">burned</span><span style="color: black"> targets.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Luna](/heroes/Adjutant Luna/) 
+
+ **Type:**  Spell 
+
+ **Adjutant Skill:**  Enhanced Fire Magic 
+
+ **Description:** Increases fire-type spell DMG of friendly heroes by <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

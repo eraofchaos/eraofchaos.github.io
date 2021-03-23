@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Trained in the Erathian army, Mephala was a natural genius at using terrain to her advantage. Although she prefers the calm quiet of her village, she remains in the military for the sake of her country. "
 heroID: 60302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Mephala"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Holy Shield
  **Description:** Summons 1 giant protective shield and makes friendly units immune to all damage for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Mephala](/heroes/Adjutant Mephala/) 
+
+ **Type:**  Units 
+
+ **Adjutant Skill:**  Defensive Formation 
+
+ **Description:** Increases friendly Defensive units' Shield Value by <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [Shield](/combination/Shield/) 
 
 ## HERO Biography
    - A devastating fire raged in the forest. Mephala went to investigate the root of it...

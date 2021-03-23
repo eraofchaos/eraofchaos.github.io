@@ -3,7 +3,7 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-20
 locale: en
 ref: "Cavalier"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Cavalier ](/Items/unt_45/)
+ **Unit Soul:** [Cavalier ](/Items/unt_195/)
 
  **Unit description:** Jousting: Deals sizeable damage, causing stun on a first attack.
 
@@ -73,12 +73,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cavalier's Lance](/equipment/Cavalier's Lance/) | **ATK** | **DEF** | 
-  | [Visor of Defense](/equipment/Visor of Defense/) | **HP** | **DEF** | 
-  | [Shield of Protection](/equipment/Shield of Protection/) | **ATK** | **DEF** | 
-  | [Paladin's Pauldron](/equipment/Paladin's Pauldron/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cavalier's Lance](/images/e/e_1061.png) | [Cavalier's Lance](/equipment/Cavalier's Lance/) | **ATK** | **DEF** | 
+  | ![Visor of Defense](/images/e/e_1062.png) | [Visor of Defense](/equipment/Visor of Defense/) | **HP** | **DEF** | 
+  | ![Shield of Protection](/images/e/e_1063.png) | [Shield of Protection](/equipment/Shield of Protection/) | **ATK** | **DEF** | 
+  | ![Paladin's Pauldron](/images/e/e_1064.png) | [Paladin's Pauldron](/equipment/Paladin's Pauldron/) | **HP** | **DEF** | 
 
 ## Exclusive
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rank Up:** [Knight Pike Token](/Items/con_212/)
+ **Item to Rank Up:** [Knight Pike Token](/Items/con_916/)
 
  **Skin:** -
 
@@ -162,8 +162,6 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* **Castle**  (Castle Roster)
-* **Charging**  (Charging Roster)
 
 ### Hero Bonus
 * [Mullich](/heroes/Mullich/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -171,12 +169,9 @@ toc: true
 
 ## Talent
 
-* Attack
-* HP
-* unit Damage
-* unit DMG Reduction
+* ?!? 
 
- **Talent Enhance:** [Charging Talent Potion](/Items/con_449/)
+ **Talent Enhance:** [Charging Talent Potion](/Items/con_788/)
 
 
 ## Awaking
@@ -195,26 +190,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Champion Knight souls in the Underground: 16-2 and 16-4 levels.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Deploy Cavalier and win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battles in the Duel of Champions under the leadership of Mullich.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Survival Skills
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Increases HP and Magic resistance by 30%</span>
-
-### 2nd Skill (or 1st): Skills of War
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Increases ATK and Magic resistance by a further 30%</span>
-
-### 3rd Skill (or 4th): Light-Armored Knight's Rush
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fast Breaching&gt;</span><span style="color: #645252;font-size:18px">Activates Fast Breaching whenever a target unit is killed (excluding summoned units )</span>
-
-### 4th Skill (or 3rd): Heavy-Armored Charge
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Fast Breaching&gt;</span><span style="color: #645252;font-size:18px"> Damage after another assault is  increased to 150% and &lt;stuns&gt; enemies for 5s</span>
-
-### 5th Skill (or 6th): Fanaticism
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Pike&gt;</span><span style="color: #645252;font-size:18px">Increases unit's damage reduction by an extra 20%. The effect doubles under \"High Morale\" </span>
-
-### 6th Skill (or 5th): Calm Thinking
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Knight Pike&gt; </span><span style="color: #645252;font-size:18px">When in combat, guaranteed to deal a Critical Hit under \"High Morale\" effect. The effect lasts for 10s</span>
 
 ## Technical info
  **runart:** 1

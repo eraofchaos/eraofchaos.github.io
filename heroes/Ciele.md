@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. As one of the first heroes to join Elemental, Ciele is an ever-victorious general on the battlefield. She discovered the connection among Magic Elementals through her magical arrows"
 heroID: 60705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Ciele"
 toc: true
@@ -43,6 +43,24 @@ toc: true
 ### 4 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Ciele](/heroes/Adjutant Ciele/) 
+
+ **Type:**  Spell 
+
+ **Adjutant Skill:**  Lit Conflux 
+
+ **Description:** Decreases all enemy units' Magic Resistance to all spells by <span style="color: #48b946;font-size:20px">{(8+0.8*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Static](/combination/Static/) 
+* [Petrify](/combination/Petrify/) 
+* [Slow](/combination/Slow/) 
+* [Burning](/combination/Burning/) 
+* [Silence](/combination/Silence/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. As a recently risen Nighon lord, Mutare was born with the ability to command dragons, which makes her nigh invincible in wars."
 heroID: 61301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Mutare"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Landslide
  **Description:** Deal <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> earth spell damage to enemy units in the AoE every 0.8s. These units are also <span style="color: #e07c44;font-size:20px">stunned</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s. The effect lasts for {$olast11/1000}s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Mutare](/heroes/Adjutant Mutare/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Enhanced Dungeon 
+
+ **Description:** Increases friendly Dungeon units' HP by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

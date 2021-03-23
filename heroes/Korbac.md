@@ -3,7 +3,7 @@ title: "Korbac"
 permalink: /heroes/Korbac/
 excerpt: "Era of Chaos Korbac. Korbac. Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia."
 heroID: 61502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Korbac"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Nest of Serpent Flies
  **Description:** Builds a Nest of Serpent Flies in target area, and summons 1 Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> Serpent unit, which has an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and an HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">. Lasts for 20s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Korbac](/heroes/Adjutant Korbac/) 
+
+ **Type:**  Stats 
+
+ **Adjutant Skill:**  Attack Pool 
+
+ **Description:** Increases friendly heroes' ATK by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Slow](/combination/Slow/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

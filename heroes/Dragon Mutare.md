@@ -3,7 +3,7 @@ title: "Dragon Mutare"
 permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Dragon Mutare. Dragon Mutare. After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father."
 heroID: 61302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Dragon Mutare"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Dragon Roar
  **Description:** Inflict <span style="color: #e07c44;font-size:20px">Bleed</span><span style="color: black"> on all enemy units, dealing damage equal to <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> of their Max HP every 2s, lasting for 16s, and <span style="color: #e07c44;font-size:20px">stun</span><span style="color: black"> them for 6s. Some units may become immune to the <span style="color: #e07c44;font-size:20px">bleed</span><span style="color: black"> damage, and the <span style="color: #e07c44;font-size:20px">bleeding</span><span style="color: black"> units have reduced healing received.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Dragon Mutare](/heroes/Adjutant Dragon Mutare/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Dragon Circle 
+
+ **Description:** When an enemy hero casts a spell, increases friendly Dungeon units' Unit DMG by <span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))}%</span><span style="color: black"> for 5s. Stacks up to 5 times.
+
+## Combination Info
+
+* [Bleeding](/combination/Bleeding/) 
+* [Burning](/combination/Burning/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

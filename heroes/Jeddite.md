@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite is a mysterious man who keeps in close touch with the high-rank officials of different countries. But no one knows about his past, and he never mentions it."
 heroID: 61401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Jeddite"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: The Cycle of Life
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy units within a large range every {$ointerval/1000}s and restores the HP of friendly units equal to the damage dealt. Lasts for {($olast11+$olast12*($sklevel-1))/1000}s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Jeddite](/heroes/Adjutant Jeddite/) 
+
+ **Type:**  Spell 
+
+ **Adjutant Skill:**  Ruined Defense 
+
+ **Description:** Decreases enemy heroes' DEF by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [Petrify](/combination/Petrify/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. When Lucifer Kreegan killed Xenofex and seized power, Xeron was the first to pledge allegiance to the usurper. This act won him the favour of the new king."
 heroID: 60801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Xeron"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Echo of the Abyss
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> fire spell damage on enemy units within a certain range and summons 1 Devil of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area with an ATK of <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black"> and immune to all damage. The Devil lasts for 10s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Xeron](/heroes/Adjutant Xeron/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Scorched Soul 
+
+ **Description:** When friendly Inferno units attack units inflicted with <span style="color: #e07c44;font-size:20px">Burn</span><span style="color: black">, increases Unit DMG by <span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
 
 ## HERO Biography
 

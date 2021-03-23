@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Although she lost her \"father\" due to humankind, she still chooses to help the people who live on the sea."
 heroID: 61701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Cassanbel"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Tidal Waves
  **Description:** Casts a Tidal Waves that blasts all enemy units, dealing <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage and inflicting <span style="color: #e07c44;font-size:20px">deterrence</span><span style="color: black"> on them for 10s. Also has a 20% chance to <span style="color: #e07c44;font-size:20px">freeze</span><span style="color: black"> them for 2s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Cassanbel](/heroes/Adjutant Cassanbel/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Lord of the Ocean 
+
+ **Description:** When friendly heroes cast water-type spells, increases Critical Hit of friendly Cove units by <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}</span><span style="color: black"> and Critical Hit DMG by 1%. Stacks up to 20 times.
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+* [Freeze](/combination/Freeze/) 
+* [Deterrence](/combination/Deterrence/) 
 
 ## HERO Biography
 

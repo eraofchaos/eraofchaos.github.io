@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-20
 locale: en
 ref: "Monk"
 toc: true
@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
 
- **Unit Soul:** [Monk](/Items/unt_64/)
+ **Unit Soul:** [Monk](/Items/unt_194/)
 
  **Unit description:** Prayer: Heals the unit in your army with the lowest health.
 
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipment
 
-  |  Equipment  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Orb of Divinity](/equipment/Orb of Divinity/) | **ATK** | **DEF** | 
-  | [Mystic's Cap](/equipment/Mystic's Cap/) | **HP** | **DEF** | 
-  | [Rune of Ritual](/equipment/Rune of Ritual/) | **ATK** | **DEF** | 
-  | [Basic Light Armor](/equipment/Basic Light Armor/) | **HP** | **DEF** | 
+  | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Orb of Divinity](/images/e/e_1051.png) | [Orb of Divinity](/equipment/Orb of Divinity/) | **ATK** | **DEF** | 
+  | ![Mystic's Cap](/images/e/e_1052.png) | [Mystic's Cap](/equipment/Mystic's Cap/) | **HP** | **DEF** | 
+  | ![Rune of Ritual](/images/e/e_1053.png) | [Rune of Ritual](/equipment/Rune of Ritual/) | **ATK** | **DEF** | 
+  | ![Basic Light Armor](/images/e/e_1054.png) | [Basic Light Armor](/equipment/Basic Light Armor/) | **HP** | **DEF** | 
 
 ## Exclusive
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** [Arcane Chant Token](/Items/con_124/)
+ **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 
  **Skin:** -
 
@@ -156,8 +156,6 @@ toc: true
 ## Relevance
 ### Roster Connection
 
-* **Castle**  (Castle Roster)
-* **Caster**  (Caster Roster)
 
 ### Hero Bonus
 * [Roland](/heroes/Roland/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/> 
@@ -165,12 +163,9 @@ toc: true
 
 ## Talent
 
-* Attack
-* HP
-* Healing
-* Magic resistance
+* ?!? 
 
- **Talent Enhance:** [Caster Talent Potion](/Items/con_478/)
+ **Talent Enhance:** [Caster Talent Potion](/Items/con_790/)
 
 
 ## Awaking
@@ -189,26 +184,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Zealot souls in the Underground: Levels 13-2 and 13-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Deploy Monk and win </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> Arena battles.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Inquisition of Holy Light
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blessings of the Valiant&gt;</span><span style="color: #645252;font-size:18px"> Every 30s, grants all friendly units within a large range of the caster High Morale for 10s. At the beginning of the battle, Monk additionally increases all friendly units' Critical Hit DMG and healing received by 20% each for 60s. During the first 60s of battle, each Monk unit will deal damage equal to 10% of their ATK to enemy Inferno units once every 2s.</span>
-
-### 2nd Skill (or 1st): Blessing of Holy Light
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Blessings of the Valiant&gt;</span><span style="color: #645252;font-size:18px"> Every 30s, grants all friendly units within a large range of the caster High Morale for 10s. When Monk is present on the battlefield, increases all friendly units' Critical Hit DMG and healing received by 20% each for 120s. During the first 60s of battle, each Monk unit will heal friendly Castle units for HP equal to 10% of their ATK once every 2s.</span>
-
-### 3rd Skill (or 4th): Radiant Blessing
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> When Monk gains High Morale, increases all friendly units' Critical Hit by 200 points. This effect lasts for the whole battle but cannot be stacked. Also increases heroes' Mana by 10. CD is 3s.</span>
-
-### 4th Skill (or 3rd): Magnificent Grace
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Meditation&gt;</span><span style="color: #645252;font-size:18px"> When Monk gains High Morale, increases all friendly units' Critical Hit by 200 points. This effect lasts for the whole battle but cannot be stacked. Also increases heroes' Mana Recovery by 0.5. CD is 3s. Mana Recovery buff can be triggered up to 4 times.</span>
-
-### 5th Skill (or 6th): Sagely Judgement
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Recovery&gt;</span><span style="color: #645252;font-size:18px"> When Monk is present on the battlefield, increases all friendly units' healing received by 20%. When Prayer is cast, also launches a 3-stage attack on the enemy unit with the lowest HP, dealing damage equal to 150% of own ATK.</span>
-
-### 6th Skill (or 5th): Psalm of Mass
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Recovery&gt;</span><span style="color: #645252;font-size:18px"> When Monk is present on the battlefield, increases all friendly units' healing received by 20%. When Prayer is cast, also heals the friendly unit with the lowest HP over 3 stages for HP equal to 150% of own ATK.</span>
 
 ## Technical info
  **runart:** 0

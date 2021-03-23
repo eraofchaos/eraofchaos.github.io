@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. King Roland was rescued from the Kreegans by a group of warriors. In thanks, he joined the Erathian army as a general. There he met Catherine, and they fought together to resist foreign forces. "
 heroID: 60103
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Roland"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: King's Wind
  **Description:** Strengthens all friendly units with <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black">, increasing their ATK by 50<50*($a122+$a126+$a132+$a136)>%, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Roland](/heroes/Adjutant Roland/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Morale Surge 
+
+ **Description:** When friendly Castle units have <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black">, increases Attack Speed by <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black"> for 6s.
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Burning](/combination/Burning/) 
 
 ## HERO Biography
 

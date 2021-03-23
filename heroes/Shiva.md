@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead."
 heroID: 60603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Shiva"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Storm
  **Description:** Summons a storm in the target area, dealing <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><span style="color: black"><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all units in a certain area every 0.5s and reducing their ATK speed by 15%, lasting for {$olast11/1000}s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Shiva](/heroes/Adjutant Shiva/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Enhanced Stronghold 
+
+ **Description:** Increases friendly Stronghold units' ATK by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

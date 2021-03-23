@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. Sir Mullich's troops are known for their speed. Mullich's self-control and discipline are well-known. He uses special training to make his troops faster."
 heroID: 60101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Mullich"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Time Stop
  **Description:** Summons a large range of Time Field, immobilizing enemy units in range for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Mullich](/heroes/Adjutant Mullich/) 
+
+ **Type:**  Units 
+
+ **Adjutant Skill:**  Through Enemy Lines 
+
+ **Description:** Increases Charging unit's Unit DMG Reduction by <span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))}%</span><span style="color: black"> for 20s at the start of battle.
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
    - Mullich was knighted in an inn...

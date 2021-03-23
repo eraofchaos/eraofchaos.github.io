@@ -3,7 +3,7 @@ title: "Kilgor"
 permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. At a young age, Kilgor defeated his father for the title of clan chief. His fame has kept spreading throughout Krewlod ever since. Many consider him the only warrior capable of winning this generation's Festival of Life. "
 heroID: 60601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Kilgor"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Unyielding Will
  **Description:** Increases all friendly units' Tenacity by 50 and their CRIT DMG by 10%. Friendly Stronghold units restore <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"> HP every 3s for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Kilgor](/heroes/Adjutant Kilgor/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Master of War 
+
+ **Description:** Increases friendly Stronghold units' Unit DMG by <span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))}%</span><span style="color: black"> every 15s. Stacks up to 4 times.
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far."
 heroID: 60802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Rashka"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Inferno Flame
  **Description:** Summons an Inferno Fissure, dealing <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units around the fissure every 0.5s, lasting for {$olast11/1000}s. The damage is halved for Inferno units.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Rashka](/heroes/Adjutant Rashka/) 
+
+ **Type:**  Spell 
+
+ **Adjutant Skill:**  Fiery Rampage 
+
+ **Description:** Increases fire-type spell DMG of friendly heroes by <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
 
 ## HERO Biography
    - Rashka is an ambitious Lord of Hell. Ever since Xyronfax was dethroned, he started his plan to unify Eeofol.

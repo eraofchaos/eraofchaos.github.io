@@ -3,7 +3,7 @@ title: "Tazar"
 permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. During the six-month border war with Krewlod, Tazar led a small force in a Tatalia outpost and held back the Krewlod army, which was five times larger as his, for eight days until reinforcements arrived."
 heroID: 61501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Tazar"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Death Match
  **Description:** All units on the battlefield get 2 random debuffs which can't be dispelled. The damage debuffs for enemies double. Friendly Fortress units gain 10% life drain for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Tazar](/heroes/Adjutant Tazar/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Plague Aggravation 
+
+ **Description:** Decreases healing received by all units by <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Petrify](/combination/Petrify/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

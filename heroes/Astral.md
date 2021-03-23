@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral came to Erathia about a decade ago and was quickly accepted by the mage guild of Bracada. After obtaining a high rank in the guild, some joked that he must have used magic to get there so quickly."
 heroID: 61203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Astral"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Brilliant Earth
  **Description:** <span style="color: #e07c44;font-size:20px">Blinds</span><span style="color: black"> all hostile units and decreases their accuracy by 1000, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Astral](/heroes/Adjutant Astral/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Magic Surge 
+
+ **Description:** Each time a friendly hero casts spells, friendly Tower units recover <span style="color: #48b946;font-size:20px">{(0.5+0.05*($sklevel-1))}%</span><span style="color: black"> of Max HP. CD is 4s.
+
+## Combination Info
+
+* [Blind](/combination/Blind/) 
+* [Silence](/combination/Silence/) 
 
 ## HERO Biography
 

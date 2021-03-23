@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. As a child, she was captured and trafficked by Dark Elves. Jenova was finally freed from her miserable life by a vengeful Unicorn. From then on she began to worship these mysterious creatures in the forest and became determined to live with them all her life. No one knows Unicorns better than Jenova, who uses their speed and power in war to offer tactical advantages"
 heroID: 60202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Jenova"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Heart of Purity
  **Description:** Summon 4 Unicorn Kings of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. They will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{1200+320*($sklevel-1)}</span><span style="color: black"> and a HP of <span style="color: #48b946;font-size:20px">{5000+2200*($sklevel-1)}</span><span style="color: black">.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Jenova](/heroes/Adjutant Jenova/) 
+
+ **Type:**  Stats 
+
+ **Adjutant Skill:**  Knowledge Pool 
+
+ **Description:** Increases friendly heroes' Knowledge by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [Blind](/combination/Blind/) 
+* [Shield](/combination/Shield/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Although he's still young and untested for an Elemental, Fiur has unmatched prowess. It's believed that he will eventually become one of the most powerful heroes in Elemental"
 heroID: 60704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Fiur"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Flame Eruption
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> fire spell damage to enemy units within a large range and deals additional fire spell damage on <span style="color: #e07c44;font-size:20px">burned</span><span style="color: black"> targets equal to 35% of their Max HP.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Fiur](/heroes/Adjutant Fiur/) 
+
+ **Type:**  Stats 
+
+ **Adjutant Skill:**  Ruined Intelligence 
+
+ **Description:** Decreases enemy heroes' Intelligence by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina showed great promise when she was young, but she was expelled from Bracada when it was discovered that she was using her magic to turn the living into the undead. Her expulsion set her permanently on the path to evil. "
 heroID: 60502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Vidomina"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Undead Army
  **Description:** Summons Skeletons of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area that match the number of enemy units standing there. Skeletons will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Vidomina](/heroes/Adjutant Vidomina/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Enhanced Necropolis 
+
+ **Description:** Increases friendly Necropolis units' ATK by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Low Morale](/combination/Low Morale/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
    - An experiment labeled as heresy helps Vidomina find the reason of life...

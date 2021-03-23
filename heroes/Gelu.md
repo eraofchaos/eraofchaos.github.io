@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
 heroID: 60301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Gelu"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Frenzy
  **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Gelu](/heroes/Adjutant Gelu/) 
+
+ **Type:**  Units 
+
+ **Adjutant Skill:**  Precision Strike 
+
+ **Description:** Increases friendly Ranged units' Critical Hit DMG by <span style="color: #48b946;font-size:20px">{(3+0.3*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
 
 ## HERO Biography
    - Gelu was an excellent scout even when he was young and as he has aged, his talents have increased tenfold.

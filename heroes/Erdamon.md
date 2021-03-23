@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, the ancient King of Lava, has been sleeping for centuries in the mountains at the border of Eeofol. Now he wakes up and joins the Elemental. Erdamon is very willing to help the world get rid of the Kreegan through war."
 heroID: 60703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Erdamon"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Lava Trap
  **Description:** Summons a Lava Trap, dealing <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> earth spell damage on non-flying enemy units next to the trap every second, and <span style="color: #e07c44;font-size:20px">stunning</span><span style="color: black"> them for 0.7s. The trap lasts for {$olast11/1000}s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Erdamon](/heroes/Adjutant Erdamon/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Enhanced Conflux 
+
+ **Description:** Increases friendly Conflux units' HP by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Stun](/combination/Stun/) 
+* [Shield](/combination/Shield/) 
 
 ## HERO Biography
 

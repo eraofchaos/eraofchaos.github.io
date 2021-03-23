@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use."
 heroID: 60602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Crag Hack"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Will to Kill
  **Description:** Increases ATK by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% and life drain by {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% for all friendly Melee units, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Crag Hack](/heroes/Adjutant Crag Hack/) 
+
+ **Type:**  Units 
+
+ **Adjutant Skill:**  To the Death 
+
+ **Description:** Increases all friendly Melee units' Penetration by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [Bleeding](/combination/Bleeding/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
    - When there are no battles to be fought, Crag Hack loves to sail on the seas, raiding ships and port towns to satisfy his bloodlust.

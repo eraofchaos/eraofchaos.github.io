@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /heroes/Yog/
 excerpt: "Era of Chaos Yog. Yog. Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army."
 heroID: 60604
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Yog"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Energy Reverse
  **Description:** Spell damage taken by all friendly units from heroes now heals them instead, and spell recovery from heroes that heals enemy units now deals damage instead. Lasts for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Yog](/heroes/Adjutant Yog/) 
+
+ **Type:**  Stats 
+
+ **Adjutant Skill:**  Defense Pool 
+
+ **Description:** Increases friendly heroes' DEF by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
 
 ## HERO Biography
    - Duke Boragus has appointed Yog as the commander of the Cyclops units. But before this, you must have the ability to rein them in...

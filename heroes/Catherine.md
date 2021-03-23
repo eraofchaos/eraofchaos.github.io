@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. As the queen of Erathia, Catherine has been forced to wage war to preserve the kingdom her father created. She will battle until the final showdown of Armageddon's Blade. "
 heroID: 60102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Catherine"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Blizzard
  **Description:** Summons a Blizzard, dealing water spell damage 5 times (totalling up to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) damage to enemy units within a large range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Catherine](/heroes/Adjutant Catherine/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Enhanced Castle 
+
+ **Description:** Increases friendly Castle units' HP by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Slow](/combination/Slow/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
    - The most difficult battle for Catherine was also one of the last; the battle of Griffin Cliff, where her troops defeated a mighty army of devils. The conflict formally announced her return to the throne.

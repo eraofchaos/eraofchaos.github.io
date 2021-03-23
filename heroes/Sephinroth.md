@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, the only known sorceress of Antagarich, said to be the illegitimate daughter of King Gryphonheart."
 heroID: 61402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Sephinroth"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Crystallized Earth
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to hostile non-<span style="color: #e07c44;font-size:20px">petrified</span><span style="color: black"> units within a very large range, and <span style="color: #e07c44;font-size:20px">petrifies</span><span style="color: black"> them for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s. Deals double damage to <span style="color: #e07c44;font-size:20px">petrified</span><span style="color: black"> hostile units.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Sephinroth](/heroes/Adjutant Sephinroth/) 
+
+ **Type:**  Stats 
+
+ **Adjutant Skill:**  Enhanced Earth Magic 
+
+ **Description:** Increases earth-type spell DMG of friendly heroes by <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Petrify](/combination/Petrify/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

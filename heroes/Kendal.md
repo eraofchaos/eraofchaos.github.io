@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. A general loyal to the royal family of Erathia. Since the death of King Gryphonheart, Morgan Kendal has taken charge of the country until the rightful heir returns."
 heroID: 60104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Kendal"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Rush Tactic
  **Description:** Summons a huge energy circle, Increasing the ATK speed and magic resistance of friendly units inside the circle by 30% and 50% respectively for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s. The effect for 9-man units is doubled.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Kendal](/heroes/Adjutant Kendal/) 
+
+ **Type:**  Units 
+
+ **Adjutant Skill:**  War Fever 
+
+ **Description:** Increases friendly Offensive units' Unit DMG by <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [High Morale](/combination/High Morale/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
 

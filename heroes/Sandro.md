@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro is a Necromancer who has seen all of Enroth and Erathia. Now he apparently supports Finneas Vilmar, leader of the Necromancers of Deyja."
 heroID: 60501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Sandro"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Darkest Hours
  **Description:** Deals earth spell damage to all hostile non-Necropolis units equal to <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> and 5% of their Max HP, and inflicts <span style="color: #e07c44;font-size:20px">Low Morale</span><span style="color: black"> on them for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s. Meanwhile, restores the HP of friendly Necropolis units by <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101>, and inflicts <span style="color: #e07c44;font-size:20px">Low Morale</span><span style="color: black"> on them.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Sandro](/heroes/Adjutant Sandro/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Dark Invasion 
+
+ **Description:** When all units have <span style="color: #e07c44;font-size:20px">Low Morale</span><span style="color: black">, decreases Unit DMG Reduction by <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Low Morale](/combination/Low Morale/) 
+* [Stun](/combination/Stun/) 
 
 ## HERO Biography
    - Sandro decided to visit Deyja after obtaining the Cloak of the Undead King and the Armour of the Damned...

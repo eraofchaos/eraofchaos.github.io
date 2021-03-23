@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland is the first – and so far, the only – human to be fully accepted by the Circle of Elf Elders. Some even joke that he is really an elf, reincarnated in a human body. "
 heroID: 60303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Ryland"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Prayer
  **Description:** Restore <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> HP for friendly units within a large range. The HP restored for targets with a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> doubles.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Ryland](/heroes/Adjutant Ryland/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Enhanced Rampart 
+
+ **Description:** Increases friendly Rampart units' HP by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+* [Stun](/combination/Stun/) 
+* [Shield](/combination/Shield/) 
 
 ## HERO Biography
 

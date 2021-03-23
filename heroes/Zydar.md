@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar focused much of his life on improving his spells, becoming a great spellcaster before he became a leader on the battlefield. He is more reliable than any of his demon kin. "
 heroID: 60901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Zydar"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Gate of Fire
  **Description:** Raise 1 Gate of Fire in the target area and summon 3 Imp units of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">. Imps will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Zydar](/heroes/Adjutant Zydar/) 
+
+ **Type:**  Stats 
+
+ **Adjutant Skill:**  Intelligence Pool 
+
+ **Description:** Increases friendly heroes' Intelligence by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [Burning](/combination/Burning/) 
 
 ## HERO Biography
 

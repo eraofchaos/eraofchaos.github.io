@@ -3,7 +3,7 @@ title: "Human Sandro"
 permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Human Sandro. Human Sandro. Human Sandro, the apprentice of Mage Eric in Bracada, is a young mage who crossed the sea from Enroth. He has been hiding his ambitions and intentions from his teacher and others that know him."
 heroID: 60503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Human Sandro"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Description:** Summons a shadow that lasts for 10s, dealing <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage on enemy units within range every second, and reduces their ATK speed by 30%. Meanwhile, increases the ATK speed and life drain of friendly Necropolis units by 30%.
 
 
+## Adjutant
+
+ **Adjutant:**  [Adjutant Human Sandro](/heroes/Adjutant Human Sandro/) 
+
+ **Type:**  Spell 
+
+ **Adjutant Skill:**  Forbidden Necromancy 
+
+ **Description:** Increases effect of all friendly hero summon spells by <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> and Unit DMG Reduction by <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black">.
+
+## Combination Info
+
+  none
 ## HERO Biography
 
 ## HERO Skins

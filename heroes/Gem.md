@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there."
 heroID: 60304
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: en
 ref: "Gem"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Tranquil Rain
  **Description:** Restores HP of friendly units equal to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> and 1% of their Max HP for 6s.
 
+
+## Adjutant
+
+ **Adjutant:**  [Adjutant Gem](/heroes/Adjutant Gem/) 
+
+ **Type:**  Faction 
+
+ **Adjutant Skill:**  Nature's Asylum 
+
+ **Description:** When friendly Rampart units receive a <span style="color: #48b946;font-size:20px">shield</span><span style="color: black">, increases Shield Value by <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+
+## Combination Info
+
+* [Slow](/combination/Slow/) 
+* [Shield](/combination/Shield/) 
 
 ## HERO Biography
 
