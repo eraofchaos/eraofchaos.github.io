@@ -24,7 +24,6 @@ Please check your language and let me know if You have localization issue on Wik
 </div>
 
 {% capture notice-update20210312 %}
-Message to Developers:
 首先，感谢魔法门英雄无敌手游。我是这手游的大粉丝。为了帮助这手游，我启发了 “eraofchaos.github.io Wiki” 网站。主要目的是为了提供手游资料给每个玩家。为了帮助玩家能享受这手游以及能决定最好的成长路程。
 由你所知，“Ubisoft” 大致支持英文社区。Discord 和官方Wiki 只有英语，可是我们有大批法国，德国，苏联，西班牙等等玩家。你们做的很好！游戏能接纳所有语言。这是大工程也对玩家有极大帮助。谢谢。你们的队友做的很好！内部组织给与极大的空间来激活或停用游戏的莫些特征。
 当然，支持的两个版本（内地与全球）是件复杂的工程。这会引起你们很大的开销来把这两个版本来同步化。不幸，因为极大的游戏复杂会带来出新特征时许多游戏的“bug”. 结果游戏得不断加入2-3次的补丁。
@@ -39,11 +38,9 @@ Message to Developers:
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">12 March 2021 Update:</h4>
+  <h4 class="no_toc">12 March 2021 Update - Message to Developers</h4>
   {{ notice-update20210312 | markdownify }}
 </div>
-
-
 
 
 
@@ -52,37 +49,41 @@ Message to Developers:
 This information portal contains information about "Era Of Chaos" mobile game.
 
 You will find here:
-### <i class="fas fa-gavel"/> [Items](/Items/)
-### <i class="fas fa-chess-king"/>  [Heroes](/heroes/) 
-### <i class="fab fa-optin-monster"/>  [Units](/units/)
-### <i class="fas fa-fist-raised"/> [Combination Bonus for Units and Heroes](https://eraofchaos.github.io/combination/)
-### <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
-### <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
+* <i class="fas fa-gavel"/> [Items](/Items/)
+* <i class="fas fa-chess-king"/>  [Heroes](/heroes/)
+* <i class="fas fa-mask"/>  [Adjutant](/heroes/Adjutants/)
+* <i class="fab fa-optin-monster"/>  [Units](/units/)
+* <i class="fas fa-fist-raised"/> [Combination Info: Heroes & Units](/combination/)
+* <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
+* <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
 
-### <i class="fas fa-question-circle"/>  [Sphinx answers](/sphinx/)
+* <i class="fas fa-question-circle"/>  [Sphinx Answer questions for approval and rewards!](/sphinx/)
 
-### <i class="fas fa-hat-cowboy-side"/>  [Battlefield Backup](https://eraofchaos.github.io/Backup/)
-### <i class="fas fa-place-of-worship"/>  [Alchemy Workshop](/Alchemy Workshop/)
-### <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/)
-### <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
-### <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
+* <i class="fas fa-hat-cowboy-side"/>  [Backup](/Backup/)
+* <i class="fas fa-place-of-worship"/>  [Alchemy Formula Library](/Alchemy Workshop/)
+* <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/)
+* <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
+* <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 
-### <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 6 April 2021)
-### <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 6 April 2021)
-### <i class="fas fa-calendar-day"/> [Hotspot Artifacs and Spells](https://eraofchaos.github.io/Hotspot/) (for complete 2021)
-#### <i class="fas fa-calendar-day"/> [Hotspot Artifacs 2021](https://eraofchaos.github.io/Hotspot/HotSpot Artifact _2021/)
-#### <i class="fas fa-calendar-day"/> [Hotspot Spells 2021](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
+* <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 6 April 2021)
+* <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 6 April 2021)
+* <i class="fas fa-calendar-day"/> [Hotspot Artifacts & Spell 2021](/Hotspot/)
+* <i class="fas fa-calendar-day"/> [Hotspot Artifacts 2021](/Hotspot/HotSpot Artifact _2021/)
+* <i class="fas fa-calendar-day"/> [Hotspot Spell 2021](/Hotspot/HotSpot Spell _2021/)
+
+
 
 <br/>
 <br/>
 **YOUR feedback is welcome!**
 [Please contact me via Discord](https://discordapp.com/users/351705203038224385/)
 
-Currently in the development:
+<!--
 ### <i class="fas fa-place-of-worship"/>  Guild
 ### <i class="fas fa-store"/>  Stores
 ### <i class="fas fa-chess"/>  Auto Chess
 ### <i class="fas fa-cogs"/> War Maschines
+-->
 
 
 Update History:
