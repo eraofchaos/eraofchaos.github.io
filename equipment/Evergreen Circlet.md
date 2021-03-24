@@ -2,7 +2,7 @@
 title: "Evergreen Circlet"
 permalink: /equipment/Evergreen Circlet/
 excerpt: "Era of Chaos Evergreen Circlet. Evergreen Circlet"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Evergreen Circlet.md"
 toc: false

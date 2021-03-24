@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Mercury"
 permalink: /Items/mat_84/
 excerpt: "Era of Chaos  Soul Mercury"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "mat_84.md"
 toc: false

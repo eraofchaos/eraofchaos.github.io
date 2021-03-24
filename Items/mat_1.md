@@ -2,7 +2,7 @@
 title: "Item - Materials - Inferior Wood"
 permalink: /Items/mat_1/
 excerpt: "Era of Chaos  Inferior Wood"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "mat_1.md"
 toc: false

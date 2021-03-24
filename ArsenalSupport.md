@@ -2,7 +2,7 @@
 title: "Support"
 permalink: /ArsenalSupport.html
 excerpt: "Era of Chaos  Support. <span style="color: #8a5c1d;font-size:18px">As there is limited room for combat on the battlefield, the School of War has researched a type of support magic to better improve unit combat capabilities. This magic allows the transfer of abilities from a support unit onto a combat unit, thus improving a combat unit's combat capabilities.</span><br/><span style="color: #ffffff">　</span><br/>"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "ArsenalSupport.md"
 toc: false

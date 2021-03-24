@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Trolls have high intelligence and use heavy boulders as weapons. They often stand at the front lines of battle to attack the enemy with the most violent and heavy blows."
 unitID: 409
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Troll"
 toc: true

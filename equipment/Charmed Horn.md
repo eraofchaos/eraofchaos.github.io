@@ -2,7 +2,7 @@
 title: "Charmed Horn"
 permalink: /equipment/Charmed Horn/
 excerpt: "Era of Chaos Charmed Horn. Charmed Horn"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Charmed Horn.md"
 toc: false

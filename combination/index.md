@@ -2,7 +2,7 @@
 title: "Combination Info"
 permalink: /combination/
 excerpt: "Era of Chaos Combination Info. Combination Info. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "index.md"
 toc: false

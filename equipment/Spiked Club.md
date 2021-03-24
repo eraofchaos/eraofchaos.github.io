@@ -2,7 +2,7 @@
 title: "Spiked Club"
 permalink: /equipment/Spiked Club/
 excerpt: "Era of Chaos Spiked Club. Spiked Club"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Spiked Club.md"
 toc: false

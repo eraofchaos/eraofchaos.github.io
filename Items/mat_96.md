@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Ore"
 permalink: /Items/mat_96/
 excerpt: "Era of Chaos  Radiant Ore"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "mat_96.md"
 toc: false

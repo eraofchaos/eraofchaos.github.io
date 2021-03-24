@@ -2,7 +2,7 @@
 title: "Artifacts - Armour of the Damned - Skull Helmet"
 permalink: /artifacts/Skull Helmet/
 excerpt: "Era of Chaos  Armour of the Damned - Skull Helmet. A helmet found in the underworld. One of the components of the Armour of the Damned."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "Skull Helmet.md"
 toc: false

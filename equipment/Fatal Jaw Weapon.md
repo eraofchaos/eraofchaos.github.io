@@ -2,7 +2,7 @@
 title: "Fatal Jaw Weapon"
 permalink: /equipment/Fatal Jaw Weapon/
 excerpt: "Era of Chaos Fatal Jaw Weapon. Fatal Jaw Weapon"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Fatal Jaw Weapon.md"
 toc: false

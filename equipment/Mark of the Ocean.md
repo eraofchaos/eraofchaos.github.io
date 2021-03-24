@@ -2,7 +2,7 @@
 title: "Mark of the Ocean"
 permalink: /equipment/Mark of the Ocean/
 excerpt: "Era of Chaos Mark of the Ocean. Mark of the Ocean"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Mark of the Ocean.md"
 toc: false

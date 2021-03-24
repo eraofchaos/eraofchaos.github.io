@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Era of Chaos Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Unit Class Caster"
 toc: false

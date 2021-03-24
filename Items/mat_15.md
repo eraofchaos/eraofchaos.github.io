@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Sulfur"
 permalink: /Items/mat_15/
 excerpt: "Era of Chaos  Good Sulfur"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "mat_15.md"
 toc: false

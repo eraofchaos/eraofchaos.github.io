@@ -2,7 +2,7 @@
 title: "Schedule"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Schedule. Schedule for all near events and shop sales."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "index.md"
 toc: false

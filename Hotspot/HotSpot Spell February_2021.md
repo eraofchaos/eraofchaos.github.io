@@ -2,7 +2,7 @@
 title: "Hotspot Spells for February 2021"
 permalink: /Hotspot/HotSpot Spell February_2021/
 excerpt: "Spells Hotspot for February 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "HotSpot Spell February_2021.md"
 toc: false

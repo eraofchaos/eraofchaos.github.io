@@ -2,7 +2,7 @@
 title: "Serrated Claws"
 permalink: /equipment/Serrated Claws/
 excerpt: "Era of Chaos Serrated Claws. Serrated Claws"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Serrated Claws.md"
 toc: false

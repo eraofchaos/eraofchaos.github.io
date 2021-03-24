@@ -2,7 +2,7 @@
 title: "Item - Materials - Exceptional Mercury"
 permalink: /Items/mat_35/
 excerpt: "Era of Chaos  Exceptional Mercury"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "mat_35.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Market - Seafood Platter"
 permalink: /DineWithHeroesMarket Seafood Platter.html
 excerpt: "Dine with Heroes - Market - Seafood Platter. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "DineWithHeroesMarketSeafood Platter.html"
 toc: true

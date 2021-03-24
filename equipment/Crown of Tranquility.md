@@ -2,7 +2,7 @@
 title: "Crown of Tranquility"
 permalink: /equipment/Crown of Tranquility/
 excerpt: "Era of Chaos Crown of Tranquility. Crown of Tranquility"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Crown of Tranquility.md"
 toc: false

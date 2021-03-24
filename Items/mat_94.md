@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Crystal"
 permalink: /Items/mat_94/
 excerpt: "Era of Chaos  Star Crystal"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "mat_94.md"
 toc: false

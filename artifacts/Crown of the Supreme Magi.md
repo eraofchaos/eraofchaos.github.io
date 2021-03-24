@@ -2,7 +2,7 @@
 title: "Artifacts - Axe of Ferocity - Crown of the Supreme Magi"
 permalink: /artifacts/Crown of the Supreme Magi/
 excerpt: "Era of Chaos  Axe of Ferocity - Crown of the Supreme Magi. A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "Crown of the Supreme Magi.md"
 toc: false

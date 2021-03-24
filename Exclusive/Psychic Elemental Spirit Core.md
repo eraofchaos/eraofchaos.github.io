@@ -2,7 +2,7 @@
 title: "Exclusive - Spirit Core"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Spirit Core. Spirit Core. Era of Chaos Exclusive Spirit Core. Psychic Elemental Exclusive."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Psychic Elemental Spirit Core.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusive - Hydra's Head"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Hydra's Head. Hydra's Head. Era of Chaos Exclusive Hydra's Head. Hydra Exclusive."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Hydra Hydra's Head.md"
 toc: false

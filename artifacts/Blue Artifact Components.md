@@ -2,7 +2,7 @@
 title: "Blue Artifact Components"
 permalink: /artifacts/Blue Artifact Components/
 excerpt: "Era of Chaos  List of all Blue Artifact Components . Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: en
 ref: "Blue Artifact Components.md"
 toc: false

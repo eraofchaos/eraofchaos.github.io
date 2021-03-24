@@ -2,7 +2,7 @@
 title: "Elder Staff"
 permalink: /equipment/Elder Staff/
 excerpt: "Era of Chaos Elder Staff. Elder Staff"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: en
 ref: "Elder Staff.md"
 toc: false
