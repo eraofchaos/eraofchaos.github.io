@@ -10,6 +10,23 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210325 %}
+Wiki updated to Client version. All Schedule, Altars, etc are updated too.
+
+Changes in latest update:
+
+* Artifact [Angelic Alliance](/artifacts/Angelic Alliance/): Changed from "Lasts **25** seconds." to "Lasts **40** seconds."
+* Unit [Arch Mage](/units/Arch Mage/): Regular Skill 1 changed
+* Awake for [Serpent Fly](/units/Serpent Fly/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">25 March 2021 Update: Client version 146(3295/3294) </h4>
+  {{ notice-update20210325 | markdownify }}
+</div>
+
+
 {% capture notice-update20210323 %}
 
 * New info for <i class="fas fa-mask"/> [Adjutants](/heroes/Adjutants/)
@@ -29,18 +46,7 @@ sidebar:
 </div>
 
 
-{% capture notice-update20210318 %}
 
-Wiki updated to Client version 146 (3255)... Some features are still in progress...
-
-Please check your language and let me know if You have localization issue on Wiki.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">18 March 2021 Update:</h4>
-  {{ notice-update20210318 | markdownify }}
-</div>
 
 {% capture notice-update20210312 %}
 首先，感谢魔法门英雄无敌手游。我是这手游的大粉丝。为了帮助这手游，我启发了 “eraofchaos.github.io Wiki” 网站。主要目的是为了提供手游资料给每个玩家。为了帮助玩家能享受这手游以及能决定最好的成长路程。

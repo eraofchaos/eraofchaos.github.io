@@ -13,6 +13,19 @@ sidebar:
 
 ### Era Of Chaos - Wiki update History
 
+{% capture notice-update20210318 %}
+
+Wiki updated to Client version 146 (3255)... Some features are still in progress...
+
+Please check your language and let me know if You have localization issue on Wiki.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">18 March 2021 Update:</h4>
+  {{ notice-update20210318 | markdownify }}
+</div>
+
 {% capture notice-update20210308 %}
 Work is in progress with new changes (client 146 (3208))... 
 
