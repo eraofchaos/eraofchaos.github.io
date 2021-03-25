@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Era of Chaos  Live Hawkeye. Live Hawkeye Stay alive. Then, you will witness more wealth"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Live Hawkeye.md"
 toc: false

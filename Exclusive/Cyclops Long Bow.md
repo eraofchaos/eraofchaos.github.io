@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Cyclops Exclusive."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Cyclops Long Bow.md"
 toc: false

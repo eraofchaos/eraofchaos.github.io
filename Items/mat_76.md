@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Wood"
 permalink: /Items/mat_76/
 excerpt: "Era of Chaos  Secret Wood"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "mat_76.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Items"
 permalink: /Items/internal/
 excerpt: "Era of Chaos  List of ALL ITEMS"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "items.md"
 toc: false
@@ -446,7 +446,7 @@ classes: wide
   | 433 | 690024 | <span style="color: #FF8C00">Fame on the High Seas</span> | 1 | INFO | GIFT | CONSUMABLES | 10 |  |  |  |  | 1, 2 | Use to receive the Fame on the High Seas Special Effects Avatar Frame. |
   | 434 | 10122 | <span style="color: #FF8C00">Adelaide Avatar</span> | 0 | INFO | 104 | CONSUMABLES | 81 |  |  |  |  | 2 | Use it to receive the Adelaide Avatar |
   | 435 | 302502 | <span style="color: #FF8C00">Radiant Wood</span> | 0 | NIL | MATERIAL | MATERIAL | 50891 |  |  {17, 0, 0, 33},  |  {1, 71027, 7102702, 11},  {1, 71027, 7102708, 1},  |  |  | Common materials to upgrade equipment from orange +5 to Red. |
-  | 436 | 94803 | <span style="color: #FF8C00">Pestilential Serpent Fly Soul Stone</span> | 0 | NIL | AWAKESPLICE | TEAMSOUL | 9108 |  |  {3, 11, 0, 37},  |  |  |  | Soul Stone for Pestilential Serpent Fly's Awakening level enhancement. |
+  | 436 | 94803 | <span style="color: #FF8C00">Dragon Fly Soul Stone</span> | 0 | NIL | AWAKESPLICE | TEAMSOUL | 9108 |  |  {3, 11, 0, 37},  |  |  |  | Soul Stone for Dragon Fly's Awakening level enhancement. |
   | 437 | 6010203 | <span style="color: #FF8C00">Royal Wedding: Catherine</span> | 1 | INFO | 102 | CONSUMABLES | 67 |  |  |  |  | 2 | Use to get Catherine's Royal Wedding skin |
   | 438 | 10037 | <span style="color: #DA70D6">Blue Candy</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 100047 |  |  |  |  | 2 | A beautifully packaged blue candy. Can be used in the New Year Double Discounts event. |
   | 439 | 81522233 | <span style="color: #0000CD">Northeast Region Stove Fish</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 999999 |  |  |  |  |  | A large wild fish caught from lakes or rivers is placed into a large metal stove and stewed slowly with all kinds of vegetables. Meanwhile, flat breads made out of corn flour are heated on the side of the pot. This dish is a local dish enjoyed in farms in the Northeast Region. This particular pot of food still seems rather raw. |
@@ -697,7 +697,7 @@ classes: wide
   | 684 | 907358 | <span style="color: #DA70D6">Holiday Unit Special Offer</span> | 1 | SPLICE | GIFT | CONSUMABLES | 5 |  |  |  |  | 2 | Grants 2,580 diamonds, 1 Elite Unit Pack, 300 Talent Potion Materials, and 10 Huge EXP Potions. (Elite Unit Pack: Use to select 1 of the following: 3-star Lich, 3-star Stone Elemental, 3-star Genie, 3-star Mummy, 3-star Manticore, or 3-star Beholder.) |
   | 685 | 907443 | <span style="color: #FF8C00">Festival Prestigious Artifact Offer</span> | 1 | SPLICE | GIFT | CONSUMABLES | 1 |  |  |  |  | 2 | Grants 1 Prestigious Artifact Component Chest and 3,800 diamonds. |
   | 686 | 907007 | <span style="color: #DA70D6">Swordsman's soul package</span> | 1 | INFO | GIFT | CONSUMABLES | 29 |  |  |  |  | 2 | Pack celebrating the revival of Erathia. Possibility of receiving Swordsman tokens or Catherine tokens after use. |
-  | 687 | 3709 | <span style="color: #FF0000">_Tool_3709</span> | 0 | NIL | SPLICE | TEAMSOUL | 10709 |  |  |  |  | 2 |  |
+  | 687 | 3709 | <span style="color: #FF0000">Evil Sorceress</span> | 0 | NIL | SPLICE | TEAMSOUL | 10709 |  |  |  |  | 2 | Once you have gathered 80 soul tokens you can summon an Evil Sorceress. Tokens can also be used to increase the rank of Evil Sorceress. |
   | 688 | 500506 | <span style="color: #FF8C00">Death Ripple</span> |  | NIL | SKILL | HEROSOUL | 61020 |  |  |  {18, 0, 0, 35},  |  | 1 | Token used for composing Spell Book - Death Ripple |
   | 689 | 301807 | <span style="color: #DA70D6">Book of Essences</span> | 0 | NIL | MATERIAL | MATERIAL | 50504 |  |  {17, 0, 0, 33},  |  {6, 3, {72012, 72012, null, null}, 6},  {6, 3, {72013, 72013, null, null}, 6},  {6, 3, {72014, 72014, null, null}, 6},  {6, 3, {72015, 72015, null, null}, 6},  |  |  | Rare materials to upgrade equipment from purple +2 to purple +3. |
   | 690 | 3045 | <span style="color: #DA70D6">Defensive Talent Potion</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 5201 |  |  {7, 4, 0, 30},  |  {14, 0, 0, 15},  |  |  | This potion improves your Defensive units' attributes and upgrades their skills. |
@@ -1524,7 +1524,7 @@ classes: wide
   | 1511 | 10102 | <span style="color: #FF8C00">Catherine Avatar</span> | 0 | INFO | 104 | CONSUMABLES | 81 |  |  |  |  | 2 | Use to receive the Catherine avatar |
   | 1512 | 10017 | <span style="color: #DA70D6">Christmas Candy</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 100035 |  |  |  |  | 2 | Christmas-exclusive item. Can be exchanged for event rewards. |
   | 1513 | 906040 | <span style="color: #FF8C00">Premium Component Pack</span> | 1 | SPLICE | GIFT | CONSUMABLES | 300 |  |  |  |  | 1, 2 | Choose to get one of the following: Power of the Dragon Father Accessory*1, Sword of Frost Accessory*1, Angelic Alliance Accessory*1, Armageddon's Blade*1 |
-  | 1514 | 93803 | <span style="color: #FF8C00">Pestilential Serpent Fly Soul</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 12029 |  |  |  |  | 1 | Ancient Immortal Hero Soul. Can be used for Serpent Fly's Awakening. |
+  | 1514 | 93803 | <span style="color: #FF8C00">Dragon Fly Soul</span> | 0 | NIL | EVENT_RELATED | CONSUMABLES | 12029 |  |  |  |  | 1 | Ancient Immortal Hero Soul. Can be used for Serpent Fly's Awakening. |
   | 1515 | 302305 | <span style="color: #FF8C00">Soul Gems</span> | 0 | NIL | MATERIAL | MATERIAL | 50914 |  |  {17, 0, 0, 33},  |  {1, 71024, 7102401, 3},  {1, 71024, 7102405, 3},  {1, 71024, 7102411, 3},  |  |  | Common materials to upgrade equipment from orange +3 to orange +4. |
   | 1516 | 6030104 | <span style="color: #FF8C00">Gelu Spring Festival Celebrations</span> | 1 | INFO | 102 | CONSUMABLES | 67 |  |  |  |  | 2 | Use to get a skin: Gelu Spring Festival Celebration |
   | 1517 | 30000 | <span style="color: #32CD32">Player's EXP potions</span> | 2 | USE | EXP | CONSUMABLES | 4000 |  |  |  |  |  | Required to increase the rank of Firebird: an SR aptitude unit. |

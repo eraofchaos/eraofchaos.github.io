@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Roc"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Faction:** [Stronghold](/units/Faction Stronghold/)
 
- **Race:** Unicorn
+ **Race:** Divine Beast
 
  **Members:** [x4](/units/Unit Member x4/)
 

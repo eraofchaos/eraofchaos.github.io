@@ -2,7 +2,7 @@
 title: "Beast-boned Helmet"
 permalink: /equipment/Beast-boned Helmet/
 excerpt: "Era of Chaos Beast-boned Helmet. Beast-boned Helmet"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Beast-boned Helmet.md"
 toc: false

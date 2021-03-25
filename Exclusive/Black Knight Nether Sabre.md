@@ -2,7 +2,7 @@
 title: "Exclusive - Nether Sabre"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Nether Sabre. Nether Sabre. Era of Chaos Exclusive Nether Sabre. Black Knight Exclusive."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Black Knight Nether Sabre.md"
 toc: false

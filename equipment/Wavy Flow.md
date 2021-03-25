@@ -2,7 +2,7 @@
 title: "Wavy Flow"
 permalink: /equipment/Wavy Flow/
 excerpt: "Era of Chaos Wavy Flow. Wavy Flow"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Wavy Flow.md"
 toc: false

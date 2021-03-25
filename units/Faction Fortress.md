@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Units"
 permalink: /units/Faction Fortress/
 excerpt: "Era of Chaos Faction Fortress. Faction Fortress. List of Faction in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Faction Fortress"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 | [White Tiger](/units/White Tiger/) | Charging | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 2 | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnoll Warrior  |
   | 3 | [Lizardman](/units/Lizardman/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
-  | 4 | [Serpent Fly](/units/Serpent Fly/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 4 | [Serpent Fly](/units/Serpent Fly/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Dragon Fly  |
   | 5 | [Basilisk](/units/Basilisk/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
   | 6 | [Gorgon](/units/Gorgon/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mighty Gorgon  |
   | 7 | [Wyvern](/units/Wyvern/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Wyvern Monarch  |

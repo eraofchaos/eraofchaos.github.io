@@ -2,7 +2,7 @@
 title: "Artifacts - Mirror of Revenge"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Mirror of Revenge. Mirror of Revenge A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Mirror of Revenge.md"
 toc: false

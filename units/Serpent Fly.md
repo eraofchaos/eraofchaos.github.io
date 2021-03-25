@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Serpent Fly"
 toc: true
@@ -193,40 +193,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Dragon Fly
 
- **Awaking Description:** null
+ **Awaking Description:** Under the natural law of \"survival of the fittest,\" the Serpent Flies' weaponry is constantly evolving. The sharper their spines are, the more lethal their venom becomes. They are terrifying predators and the masters of the Mudlands.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Serpent Fly with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Fortress units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> resources during a Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Dragon Fly souls in the Underground: Levels 15-2 and 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Serpent Fly with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Fortress units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Plague Form
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Marsh Plague&gt;</span><span style="color: #645252;font-size:18px"> Increases Unit DMG against target by 50%. If the target unit is inflicted with Petrify, additionally decreases their Unit DMG Reduction by 20%. Lasts 6s.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Pestilential Form
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Marsh Plague&gt;</span><span style="color: #645252;font-size:18px"> Increases Unit DMG against target by 50%. If the target unit is inflicted with Petrify, additionally decreases their Unit DMG by 20%. Lasts 6s.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Miasmatic Breath
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flies in the Air&gt;</span><span style="color: #645252;font-size:18px"> Doubles Serpent Fly's Attack Speed increase.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Might of the Marsh
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Flies in the Air&gt;</span><span style="color: #645252;font-size:18px"> Doubles Serpent Fly's Critical Hit value increase.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Exhausted Power
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Weakness&gt;</span><span style="color: #645252;font-size:18px"> Additionally decreases the Unit DMG Reduction and Tenacity of enemy units within range by 5% and 80 respectively. Lasts 10s. Stacks up to 3 times.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Depleted Energy
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Weakness&gt;</span><span style="color: #645252;font-size:18px"> Additionally decreases the Defense and Dodge of enemy units in range by 5% and 80 respectively. Lasts 10s. Stacks up to 3 times.</span>
 
 ## Technical info
  **runart:** 0

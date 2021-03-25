@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Ore"
 permalink: /Items/mat_75/
 excerpt: "Era of Chaos  Secret Ore"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "mat_75.md"
 toc: false

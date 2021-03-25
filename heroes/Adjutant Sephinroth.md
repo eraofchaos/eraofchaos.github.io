@@ -2,7 +2,7 @@
 title: "Adjutant Sephinroth"
 permalink: /heroes/Adjutant Sephinroth/
 excerpt: "Era of Chaos  Adjutant Sephinroth"
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: en
 ref: "Adjutant Sephinroth.md"
 toc: false

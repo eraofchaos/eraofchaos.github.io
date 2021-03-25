@@ -2,7 +2,7 @@
 title: "Unholy Scimitar"
 permalink: /equipment/Unholy Scimitar/
 excerpt: "Era of Chaos Unholy Scimitar. Unholy Scimitar"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Unholy Scimitar.md"
 toc: false

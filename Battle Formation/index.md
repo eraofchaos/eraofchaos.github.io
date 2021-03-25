@@ -2,7 +2,7 @@
 title: "Battle Formation "
 permalink: /Battle Formation/
 excerpt: "Battle Formation.Each faction has distinct potentials and energy. Light up the exclusive Battle Formation to activate your latent power."
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: en
 ref: "index.md"
 toc: false

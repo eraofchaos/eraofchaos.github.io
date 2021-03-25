@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Sulfur"
 permalink: /Items/mat_43/
 excerpt: "Era of Chaos  Rare Sulfur"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "mat_43.md"
 toc: false

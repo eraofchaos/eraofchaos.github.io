@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Behemoth"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Faction:** [Stronghold](/units/Faction Stronghold/)
 
- **Race:** Unicorn
+ **Race:** Divine Beast
 
  **Members:** [x1](/units/Unit Member x1/)
 

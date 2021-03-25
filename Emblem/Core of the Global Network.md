@@ -2,7 +2,7 @@
 title: "Holy Emblem - Core of the Global Network"
 permalink: /Emblem/Core of the Global Network/
 excerpt: "Era of Chaos Core of the Global Network. Core of the Global Network. Era of Chaos Holy Emblem Core of the Global Network. Era of Chaos Neutral Core of the Global Network"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: en
 ref: "Core of the Global Network.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Order](/Emblem/Type Order/){: .btn .btn--warning}   [Goodness](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Evil](/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +0.1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases deployed units' DMG Reduction by 2% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +0.2%, Holy Emblem DEF +6</span> | 
   | [Core of the Global Network](/Emblem/Core of the Global Network/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +0.3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases deployed units' DMG Reduction by 3% for each unit of the same class deployed in your lineup.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +0.7%, Holy Emblem DEF +16</span> | 

@@ -2,7 +2,7 @@
 title: "Petrification Fang"
 permalink: /equipment/Petrification Fang/
 excerpt: "Era of Chaos Petrification Fang. Petrification Fang"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Petrification Fang.md"
 toc: false

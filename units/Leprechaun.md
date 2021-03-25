@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Units. Units. Era of Chaos With the help of Magic Charms that provide a mysterious shield, Leprechauns who respond to the summons use the Monolith of the World Tree to travel to the cruel and murderous battlefield, where they become the strongest shield of the Nature!"
 unitID: 909
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Leprechaun"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Faction:** [Conflux](/units/Faction Conflux/)
 
- **Race:** Unicorn
+ **Race:** Divine Beast
 
  **Members:** [x1](/units/Unit Member x1/)
 

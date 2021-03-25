@@ -2,7 +2,7 @@
 title: "Artifacts - Apple of Eden - Staff of Eden"
 permalink: /artifacts/Staff of Eden/
 excerpt: "Era of Chaos  Apple of Eden - Staff of Eden. A staff from the First Civilization. It can grant the wielder limitless time and knowledge."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Staff of Eden.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusive - Dark Gaze"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Dark Gaze. Dark Gaze. Era of Chaos Exclusive Dark Gaze. Beholder Exclusive."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Beholder Dark Gaze.md"
 toc: false

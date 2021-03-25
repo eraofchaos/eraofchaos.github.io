@@ -2,7 +2,7 @@
 title: "Holy Emblem - Ancient Fire"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Era of Chaos Ancient Fire. Ancient Fire. Era of Chaos Holy Emblem Ancient Fire. Era of Chaos Order Ancient Fire"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: en
 ref: "Ancient Fire.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Order](/Emblem/Type Order/){: .btn .btn--warning}   [Goodness](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Evil](/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Ancient Fire](/Emblem/Ancient Fire/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +6, HP +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When fighting against ground units, unit's damage increases by 4%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +16, HP +7%</span> | 
   | [Ancient Fire](/Emblem/Ancient Fire/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +2, HP +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When fighting against Ground units, unit's damage increases by 2%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +6, HP +2%</span> | 

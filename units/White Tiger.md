@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Units. Units. Era of Chaos White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "White Tiger"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Faction:** [Fortress](/units/Faction Fortress/)
 
- **Race:** Unicorn
+ **Race:** Divine Beast
 
  **Members:** [x1](/units/Unit Member x1/)
 

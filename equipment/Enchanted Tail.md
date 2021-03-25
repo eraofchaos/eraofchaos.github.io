@@ -2,7 +2,7 @@
 title: "Enchanted Tail"
 permalink: /equipment/Enchanted Tail/
 excerpt: "Era of Chaos Enchanted Tail. Enchanted Tail"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Enchanted Tail.md"
 toc: false

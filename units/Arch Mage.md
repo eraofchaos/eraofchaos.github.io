@@ -3,7 +3,7 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Arch Mage"
 toc: true
@@ -111,7 +111,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Mage's normal attack increases its own ATK by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, up to 20 stacks. The stacks are permanent if the target doesn't change. They will be cleared once a new target is chosen.</span><span style="color: black">
 
 ### Regular Skill 1 : Hurricane
- **Description:** <span style="color: #645252;font-size:20px">The Mage unit summons a tornado to pick up 1 random enemy back-row unit, making it unable to attack and cast skills, while increasing its unit's damage reduction by 100%. A tornado applies <span style="color: #48b946;font-size:20px">\"Static\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> to the target unit. The tornado and static lasts for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. (The back-row refers to the hostile unit standing at the end of each line)</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">The Mage unit summons a tornado to pick up 1 random enemy back-row unit, making it unable to attack and cast skills, and decreasing its Unit DMG Reduction by 20%. The tornado inflicts <span style="color: #48b946;font-size:20px">Static</span><span style="color: black"><span style="color: #645252;font-size:20px"> to the target unit. The tornado and Static last for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. (The back-row refers to the enemy unit standing at the end of each line.)</span><span style="color: black">
 
 ### Regular Skill 2 : Energy Loss
  **Description:** <span style="color: #645252;font-size:20px">When Mage units are on the battlefield, Enemy Hero's spell recovery speed decreases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">,When friend hero cast air spell, Mage will recover friend hero 2 mana.</span><span style="color: black">

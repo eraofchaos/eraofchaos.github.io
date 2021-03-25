@@ -2,7 +2,7 @@
 title: "Artifacts - Apple of Eden - Ankh"
 permalink: /artifacts/Ankh/
 excerpt: "Era of Chaos  Apple of Eden - Ankh. A cross that grants the wearer immortality. No one knows what happened to its previous owner."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Ankh.md"
 toc: false

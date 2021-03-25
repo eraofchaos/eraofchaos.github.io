@@ -2,7 +2,7 @@
 title: "Artifacts - Angelic Alliance"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Era of Chaos  Angelic Alliance. Angelic Alliance A holy relic forged from precious items by Angelic power. Able to increase the power of your allies."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Angelic Alliance.md"
 toc: false
@@ -51,8 +51,8 @@ classes: wide
   |:--------|:----------------| 
   | **2** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 20 seconds. | 
   | **5** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 20 seconds. | 
-  | **8** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
-  | **11** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
-  | **14** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
-  | **17** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
-  | **20** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 25 seconds. | 
+  | **8** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 40 seconds. | 
+  | **11** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 40 seconds. | 
+  | **14** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 40 seconds. | 
+  | **17** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 40 seconds. | 
+  | **20** | Increases all friendly units' attack by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>, attack speed by <span style="color: #48b946;font-size:20px">{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>, and movement speed by 30. Lasts 40 seconds. | 

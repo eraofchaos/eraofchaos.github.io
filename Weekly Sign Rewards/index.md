@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 14  Necropolis Week
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Apr** | **3x [Skeleton](/Items/unt_208/)**  | A squad of Skeleton joined your army and you become stronger! |
+  | **6 Apr** | **3x [Walking Dead](/Items/unt_209/)**  | A squad of Walking Dead joined your army and you become stronger! |
+  | **7 Apr** | **100x <i class="fas fa-gem"/>**  | Your troops have found a number of treasures in the torn ancient tomb! |
+  | **8 Apr** | **2x [Vampire](/Items/unt_211/)**  | A squad of Vampire joined your army and you become stronger! |
+  | **9 Apr** | **2x [Wight](/Items/unt_210/)**  | A squad of Wight joined your army and you become stronger! |
+  | **10 Apr** | **5x [Necropolis Unit Chest](/Items/con_1271/)**  | Your Necropolis units have presented you with several treasure chests! |
+  | **11 Apr** | **3x [Vidomina](/Items/her_372/)**  | Vidomina is interested in your undead warriors and is willing to join your team! |
+
 
 #### 2021 Week 13  Dungeon Week
 

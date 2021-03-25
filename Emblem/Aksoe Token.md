@@ -2,7 +2,7 @@
 title: "Holy Emblem - Aksoe Token"
 permalink: /Emblem/Aksoe Token/
 excerpt: "Era of Chaos Aksoe Token. Aksoe Token. Era of Chaos Holy Emblem Aksoe Token. Era of Chaos Neutral Aksoe Token"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: en
 ref: "Aksoe Token.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Order](/Emblem/Type Order/){: .btn .btn--warning}   [Goodness](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Evil](/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Aksoe Token](/Emblem/Aksoe Token/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; unit's damage increases by 1.5%. When fighting against slowed targets, unit's damage increases by additional 4.5%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +7%, Holy Emblem DEF +16</span> | 
   | [Aksoe Token](/Emblem/Aksoe Token/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK +1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; When fighting against slowed targets, unit's damage increases by 3%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK +2%, Holy Emblem DEF +6</span> | 

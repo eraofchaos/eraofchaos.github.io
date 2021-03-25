@@ -2,7 +2,7 @@
 title: "Holy Emblem - Dragon King's Breath"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Era of Chaos Dragon King's Breath. Dragon King's Breath. Era of Chaos Holy Emblem Dragon King's Breath. Era of Chaos Evil Dragon King's Breath"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: en
 ref: "Dragon King's Breath.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Order](/Emblem/Type Order/){: .btn .btn--warning}   [Goodness](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Evil](/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Dragon King's Breath](/Emblem/Dragon King's Breath/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +1.5, Holy Emblem DEF +1.5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;frozen, stunned, or petrified&gt;, their HP is restored by 2%. CD is 10s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +4, Holy Emblem DEF +4</span> | 
   | [Dragon King's Breath](/Emblem/Dragon King's Breath/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +4.5, Holy Emblem DEF +4.5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;frozen, stunned, or petrified&gt;, their HP is restored by 4%. CD is 10s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +11.5, Holy Emblem DEF +11.5</span> | 

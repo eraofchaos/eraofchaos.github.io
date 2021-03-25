@@ -2,7 +2,7 @@
 title: "Thunder Core"
 permalink: /equipment/Thunder Core/
 excerpt: "Era of Chaos Thunder Core. Thunder Core"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Thunder Core.md"
 toc: false

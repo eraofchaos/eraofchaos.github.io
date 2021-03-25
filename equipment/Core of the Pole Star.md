@@ -2,7 +2,7 @@
 title: "Core of the Pole Star"
 permalink: /equipment/Core of the Pole Star/
 excerpt: "Era of Chaos Core of the Pole Star. Core of the Pole Star"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Core of the Pole Star.md"
 toc: false

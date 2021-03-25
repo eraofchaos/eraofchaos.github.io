@@ -2,7 +2,7 @@
 title: "Adjutant Mullich"
 permalink: /heroes/Adjutant Mullich/
 excerpt: "Era of Chaos  Adjutant Mullich"
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: en
 ref: "Adjutant Mullich.md"
 toc: false

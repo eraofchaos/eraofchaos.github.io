@@ -2,7 +2,7 @@
 title: "Holy Emblem - Path of an Assassin"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Era of Chaos Path of an Assassin. Path of an Assassin. Era of Chaos Holy Emblem Path of an Assassin. Era of Chaos Neutral Path of an Assassin"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: en
 ref: "Path of an Assassin.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Order](/Emblem/Type Order/){: .btn .btn--warning}   [Goodness](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Evil](/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Path of an Assassin](/Emblem/Path of an Assassin/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +6, HP +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases penetration by 90. Grants an additional 200 Crit Hit at the start of battle for 30s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +16, HP +7%</span> | 
   | [Path of an Assassin](/Emblem/Path of an Assassin/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Holy Emblem ATK +13, HP +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases penetration by 120. Grants an additional 300 Crit Hit at the start of battle for 30s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +30, HP +15%</span> | 

@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Mantis"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Faction:** [Rampart](/units/Faction Rampart/)
 
- **Race:** Unicorn
+ **Race:** Divine Beast
 
  **Members:** [x1](/units/Unit Member x1/)
 

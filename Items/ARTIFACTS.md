@@ -2,7 +2,7 @@
 title: "Item - Artifacts"
 permalink: /Items/Artifacts/
 excerpt: "Artifacts in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Artifacts.md"
 toc: false

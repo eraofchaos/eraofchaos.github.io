@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan is the eldest son-in-law of King Tralossk and the second successor to the throne. He's been waiting for the day when he ascends to the throne."
 heroID: 61504
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: en
 ref: "Wystan"
 toc: true

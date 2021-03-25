@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Xeron"
 permalink: /DineWithHeroesRestaurant Xeron.html
 excerpt: "Dine with Heroes - Restaurant - Xeron. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "DineWithHeroesRestaurantXeron.html"
 toc: true

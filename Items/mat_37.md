@@ -2,7 +2,7 @@
 title: "Item - Materials - Exceptional Gems"
 permalink: /Items/mat_37/
 excerpt: "Era of Chaos  Exceptional Gems"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "mat_37.md"
 toc: false

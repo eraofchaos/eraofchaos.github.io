@@ -2,7 +2,7 @@
 title: "Holy Emblem - Green Prophet"
 permalink: /Emblem/Green Prophet/
 excerpt: "Era of Chaos Green Prophet. Green Prophet. Era of Chaos Holy Emblem Green Prophet. Era of Chaos Goodness Green Prophet"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: en
 ref: "Green Prophet.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Order](/Emblem/Type Order/){: .btn .btn--warning}   [Goodness](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Chaos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Evil](/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Green Prophet](/Emblem/Green Prophet/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +1%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Deployed units have a 35% chance to be immune to petrify, stun, and freeze.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +2%, Holy Emblem DEF +55</span> | 
   | [Green Prophet](/Emblem/Green Prophet/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATK speed +0.5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Deployed units have a 25% chance to be immune to petrify, stun, and freeze.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATK speed +1.5%, Holy Emblem DEF +30</span> | 

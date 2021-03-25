@@ -2,7 +2,7 @@
 title: "Artifacts - Armour of the Damned - Bone Armour"
 permalink: /artifacts/Bone Armour/
 excerpt: "Era of Chaos  Armour of the Damned - Bone Armour. A shield made from hard bones. One of the components of the Armour of the Damned."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Bone Armour.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Common Sulfur"
 permalink: /Items/mat_9/
 excerpt: "Era of Chaos  Common Sulfur"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "mat_9.md"
 toc: false

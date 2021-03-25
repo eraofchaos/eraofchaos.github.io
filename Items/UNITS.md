@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Units.md"
 toc: false
@@ -113,7 +113,7 @@ classes: wide
   | 99 | [Orc Commander Soul Stone](/Items/unt_307/){: .btn .btn--era5} | Awakening Soul | A soul stone for Orc Commander's Awakening level enhancement. |
   | 100 | [Paladin](/Items/unt_197/){: .btn .btn--era5} | Unit Soul | Once you have gathered 80 soul tokens you can summon a Paladin, an SSR aptitude unit |
   | 101 | [Pegasus](/Items/unt_202/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Pegasus, an SR aptitude unit. |
-  | 102 | [Pestilential Serpent Fly Soul Stone](/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Pestilential Serpent Fly's Awakening level enhancement. |
+  | 102 | [Pestilential Serpent Fly Soul Stone](/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Dragon Fly's Awakening level enhancement. |
   | 103 | [Phoenix Soul Stone](/Items/unt_348/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Phoenix Awakening level enhancement |
   | 104 | [Pikeman](/Items/unt_190/){: .btn .btn--era3} | Unit Soul | Once you have gathered 10 soul tokens you can summon a Pikeman, an R aptitude unit. |
   | 105 | [Pit Fiend](/Items/unt_230/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Pit Fiend, an SR aptitude unit. |
@@ -148,7 +148,7 @@ classes: wide
   | 134 | [Titan Soul Stone](/Items/unt_326/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Titan's Awakening level enhancement. |
   | 135 | [Tool_3209](/Items/unt_207/){: .btn .btn--era6} | Unit Soul |  |
   | 136 | [Tool_3509](/Items/unt_234/){: .btn .btn--era6} | Unit Soul |  |
-  | 137 | [Tool_3709](/Items/unt_252/){: .btn .btn--era6} | Unit Soul |  |
+  | 137 | [Tool_3709](/Items/unt_252/){: .btn .btn--era6} | Unit Soul | Once you have gathered 80 soul tokens you can summon an Evil Sorceress. Tokens can also be used to increase the rank of Evil Sorceress. |
   | 138 | [Tool_3809](/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
   | 139 | [Tool_94601](/Items/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
   | 140 | [Tool_94602](/Items/unt_321/){: .btn .btn--era5} | Awakening Soul |  |

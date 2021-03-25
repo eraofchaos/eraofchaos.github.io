@@ -2,7 +2,7 @@
 title: "Evergreen Rune"
 permalink: /equipment/Evergreen Rune/
 excerpt: "Era of Chaos Evergreen Rune. Evergreen Rune"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "Evergreen Rune.md"
 toc: false

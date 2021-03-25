@@ -2,7 +2,7 @@
 title: "Item - Materials - Epic Wood"
 permalink: /Items/mat_48/
 excerpt: "Era of Chaos  Epic Wood"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: en
 ref: "mat_48.md"
 toc: false
