@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. When Lucifer Kreegan killed Xenofex and seized power, Xeron was the first to pledge allegiance to the usurper. This act won him the favour of the new king."
 heroID: 60801
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: en
 ref: "Xeron"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Inferno
 
  **Rate:** SSR
+
+ **User Rate:** SSR
 
  **Specialty:** Arch Devil
 

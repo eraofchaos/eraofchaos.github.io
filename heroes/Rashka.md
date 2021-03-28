@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far."
 heroID: 60802
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: en
 ref: "Rashka"
 toc: true
@@ -14,7 +14,9 @@ toc: true
 
  **Race:** Inferno
 
- **Rate:** R
+ **Rate:** SR
+
+ **User Rate:** R
 
  **Specialty:** Fire Lord
 

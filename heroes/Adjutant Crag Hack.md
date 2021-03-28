@@ -2,7 +2,7 @@
 title: "Adjutant Crag Hack"
 permalink: /heroes/Adjutant Crag Hack/
 excerpt: "Era of Chaos  Adjutant Crag Hack"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: en
 ref: "Adjutant Crag Hack.md"
 toc: false

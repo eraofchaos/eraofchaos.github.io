@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, the only known sorceress of Antagarich, said to be the illegitimate daughter of King Gryphonheart."
 heroID: 61402
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: en
 ref: "Sephinroth"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Dungeon
 
  **Rate:** R
+
+ **User Rate:** R
 
  **Specialty:** Crystal Stare
 

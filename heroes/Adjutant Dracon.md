@@ -2,7 +2,7 @@
 title: "Adjutant Dracon"
 permalink: /heroes/Adjutant Dracon/
 excerpt: "Era of Chaos  Adjutant Dracon"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: en
 ref: "Adjutant Dracon.md"
 toc: false
