@@ -160,3 +160,20 @@ classes: wide
   | [Chapter 27](/Main Story/Chapter 27/) | TBD | 
 
 
+## Path to Daybreak: Chapter 28 - Chapter 30
+
+ **Open level:** 999
+
+ **Reward Hero:** -
+
+ **Begin Description:** <span style="color: #3d1f00;font-size:22px">The liberation of Steadwick is a major strategic defeat for the evil alliance, ending the offensive advantage the enemies had maintained since the war started. Enemies were defeated in Steadwick, suffering heavy casualties. The morale of their troops is sinking lower. All of these make Deyja mired in governance crisis. Now, Victory is smiling at to Queen Catherine </span>
+
+ **End Description:** <span style="color: #3d1f00;font-size:22px"> Roland and Catherine had a reunion after the disaster. They sworn to wipe out all the evil things. However, the evil forces will not vanish under the effect of a swear. A shadow creeps from the north and builds up gradually as the old enemies are still free and unfettered during the war.</span>
+
+  | Name |  Description | 
+  |:------------|:------------| 
+  | [Chapter 28](/Main Story/Chapter 28/) | TBD | 
+  | [Chapter 29](/Main Story/Chapter 29/) | TBD | 
+  | [Chapter 30](/Main Story/Chapter 30/) | TBD | 
+
+
