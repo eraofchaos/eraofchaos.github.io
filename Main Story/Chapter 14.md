@@ -11,18 +11,18 @@ classes: wide
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
-  | [14-1 Stealth](/Main Story/Chapter 14_1/) |  | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
-  | [14-2 Killing the Scout](/Main Story/Chapter 14_2/) |  | [Epic Wood](/Items/mat_48/), [Rare Mercury](/Items/mat_42/), [Spell Scrolls](/Items/con_694/) |
-  | [14-3 Fortress Assault](/Main Story/Chapter 14_3/) |  | [Epic Mercury](/Items/mat_49/), [Rare Sulfur](/Items/mat_43/), [Spell Scrolls](/Items/con_694/) |
-  | [14-4 The Unexpected](/Main Story/Chapter 14_4/) |  | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
-  | [14-5 Into the Swamp](/Main Story/Chapter 14_5/) |  | [Epic Wood](/Items/mat_48/), [Rare Mercury](/Items/mat_42/), [Spell Scrolls](/Items/con_694/) |
-  | [14-6 Beastly Encounter](/Main Story/Chapter 14_6/) |  | [Epic Mercury](/Items/mat_49/), [Rare Sulfur](/Items/mat_43/), [Spell Scrolls](/Items/con_694/) |
-  | [14-7 Endless Crisis](/Main Story/Chapter 14_7/) |  | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
-  | [14-8 Internal Conflict](/Main Story/Chapter 14_8/) |  | [Epic Wood](/Items/mat_48/), [Rare Mercury](/Items/mat_42/), [Spell Scrolls](/Items/con_694/) |
-  | [14-9 Misfortunes Never Come Alone](/Main Story/Chapter 14_9/) |  | [Epic Mercury](/Items/mat_49/), [Rare Sulfur](/Items/mat_43/), [Spell Scrolls](/Items/con_694/) |
-  | [14-10 The Unseen Manipulator](/Main Story/Chapter 14_10/) |  | [Epic Sulfur](/Items/mat_50/), [Rare Ore](/Items/mat_40/), [Spell Scrolls](/Items/con_694/) |
-  | [14-11 Search for Truth](/Main Story/Chapter 14_11/) |  | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
-  | [14-12 Mystery Solved](/Main Story/Chapter 14_12/) |  | [Epic Wood](/Items/mat_48/), [Rare Mercury](/Items/mat_42/), [Spell Scrolls](/Items/con_694/) |
-  | [14-13 Nearing the Target](/Main Story/Chapter 14_13/) |  | [Epic Mercury](/Items/mat_49/), [Rare Sulfur](/Items/mat_43/), [Spell Scrolls](/Items/con_694/) |
-  | [14-14 Beastmaster Fortress](/Main Story/Chapter 14_14/) |  | [Epic Sulfur](/Items/mat_50/), [Rare Ore](/Items/mat_40/), [Spell Scrolls](/Items/con_694/) |
-  | [14-15 The Crazed Beast](/Main Story/Chapter 14_15/) |  | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
+  | [14-1 Stealth](/Main Story/Chapter 14_1/) | [Silver Key](/Items/con_693/) | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
+  | [14-2 Killing the Scout](/Main Story/Chapter 14_2/) | [Silver Key](/Items/con_693/) | [Epic Wood](/Items/mat_48/), [Rare Mercury](/Items/mat_42/), [Spell Scrolls](/Items/con_694/) |
+  | [14-3 Fortress Assault](/Main Story/Chapter 14_3/) | [Silver Key](/Items/con_693/) | [Epic Mercury](/Items/mat_49/), [Rare Sulfur](/Items/mat_43/), [Spell Scrolls](/Items/con_694/) |
+  | [14-4 The Unexpected](/Main Story/Chapter 14_4/) | [Silver Key](/Items/con_693/) | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
+  | [14-5 Into the Swamp](/Main Story/Chapter 14_5/) | [Silver Key](/Items/con_693/) | [Epic Wood](/Items/mat_48/), [Rare Mercury](/Items/mat_42/), [Spell Scrolls](/Items/con_694/) |
+  | [14-6 Beastly Encounter](/Main Story/Chapter 14_6/) | [Silver Key](/Items/con_693/) | [Epic Mercury](/Items/mat_49/), [Rare Sulfur](/Items/mat_43/), [Spell Scrolls](/Items/con_694/) |
+  | [14-7 Endless Crisis](/Main Story/Chapter 14_7/) | [Silver Key](/Items/con_693/) | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
+  | [14-8 Internal Conflict](/Main Story/Chapter 14_8/) | [Silver Key](/Items/con_693/) | [Epic Wood](/Items/mat_48/), [Rare Mercury](/Items/mat_42/), [Spell Scrolls](/Items/con_694/) |
+  | [14-9 Misfortunes Never Come Alone](/Main Story/Chapter 14_9/) | [Silver Key](/Items/con_693/) | [Epic Mercury](/Items/mat_49/), [Rare Sulfur](/Items/mat_43/), [Spell Scrolls](/Items/con_694/) |
+  | [14-10 The Unseen Manipulator](/Main Story/Chapter 14_10/) | [Silver Key](/Items/con_693/) | [Epic Sulfur](/Items/mat_50/), [Rare Ore](/Items/mat_40/), [Spell Scrolls](/Items/con_694/) |
+  | [14-11 Search for Truth](/Main Story/Chapter 14_11/) | [Silver Key](/Items/con_693/) | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
+  | [14-12 Mystery Solved](/Main Story/Chapter 14_12/) | [Silver Key](/Items/con_693/) | [Epic Wood](/Items/mat_48/), [Rare Mercury](/Items/mat_42/), [Spell Scrolls](/Items/con_694/) |
+  | [14-13 Nearing the Target](/Main Story/Chapter 14_13/) | [Silver Key](/Items/con_693/) | [Epic Mercury](/Items/mat_49/), [Rare Sulfur](/Items/mat_43/), [Spell Scrolls](/Items/con_694/) |
+  | [14-14 Beastmaster Fortress](/Main Story/Chapter 14_14/) | [Silver Key](/Items/con_693/) | [Epic Sulfur](/Items/mat_50/), [Rare Ore](/Items/mat_40/), [Spell Scrolls](/Items/con_694/) |
+  | [14-15 The Crazed Beast](/Main Story/Chapter 14_15/) | [Silver Key](/Items/con_693/) | [Epic Ore](/Items/mat_47/), [Rare Wood](/Items/mat_41/), [Spell Scrolls](/Items/con_694/) |
