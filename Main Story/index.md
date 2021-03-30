@@ -2,7 +2,7 @@
 title: "Main Story"
 permalink: /Main Story/
 excerpt: "Main Story. Era of Chaos  Main Story."
-last_modified_at: 2021-03-29
+last_modified_at: 2021-03-30
 locale: en
 ref: "index.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
 ## Evermorn Island: Chapter 1
 
- **Open level:** 1
+ **Required level:** 1
 
  **Reward Hero:** -
 
@@ -24,7 +24,7 @@ classes: wide
 
 ## Return of the Queen: Chapter 2 - Chapter 4
 
- **Open level:** 1
+ **Required level:** 1
 
  **Reward Hero:** -
 
@@ -41,7 +41,7 @@ classes: wide
 
 ## Infernal Unit: Chapter 5 - Chapter 8
 
- **Open level:** 10
+ **Required level:** 10
 
  **Reward Hero:** [Rashka](/heroes/Rashka/)
 
@@ -59,7 +59,7 @@ classes: wide
 
 ## Border Battle: Chapter 9 - Chapter 12
 
- **Open level:** 35
+ **Required level:** 35
 
  **Reward Hero:** [Crag Hack](/heroes/Crag Hack/)
 
@@ -77,7 +77,7 @@ classes: wide
 
 ## Magic Reinforcement: Chapter 13 - Chapter 15
 
- **Open level:** 48
+ **Required level:** 48
 
  **Reward Hero:** [Solmyr](/heroes/Solmyr/)
 
@@ -94,7 +94,7 @@ classes: wide
 
 ## Revenge of Avlee: Chapter 16 - Chapter 18
 
- **Open level:** 60
+ **Required level:** 60
 
  **Reward Hero:** [Mephala](/heroes/Mephala/)
 
@@ -111,7 +111,7 @@ classes: wide
 
 ## Power and magic: Chapter 19 - Chapter 21
 
- **Open level:** 72
+ **Required level:** 72
 
  **Reward Hero:** [Yog](/heroes/Yog/)
 
@@ -128,7 +128,7 @@ classes: wide
 
 ## Dragon Slayer: Chapter 22 - Chapter 24
 
- **Open level:** 84
+ **Required level:** 84
 
  **Reward Hero:** [Dracon](/heroes/Dracon/)
 
@@ -145,7 +145,7 @@ classes: wide
 
 ## Blood of Dragon: Chapter 25 - Chapter 27
 
- **Open level:** 96
+ **Required level:** 96
 
  **Reward Hero:** [Mutare](/heroes/Mutare/)
 
@@ -162,7 +162,7 @@ classes: wide
 
 ## Path to Daybreak: Chapter 28 - Chapter 30
 
- **Open level:** 999
+ **Required level:** 999
 
  **Reward Hero:** -
 
