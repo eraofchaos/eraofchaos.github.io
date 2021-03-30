@@ -19,7 +19,7 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 1](/Main Story/Chapter 1/) | TBD | 
+  | [Chapter 1](/Main Story/Chapter 1/) | Evenmorn Island | 
 
 
 ## Return of the Queen: Chapter 2 - Chapter 4
@@ -34,9 +34,9 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 2](/Main Story/Chapter 2/) | TBD | 
-  | [Chapter 3](/Main Story/Chapter 3/) | TBD | 
-  | [Chapter 4](/Main Story/Chapter 4/) | TBD | 
+  | [Chapter 2](/Main Story/Chapter 2/) | Return of the Queen | 
+  | [Chapter 3](/Main Story/Chapter 3/) | Guardian Angel | 
+  | [Chapter 4](/Main Story/Chapter 4/) | Griffin Cliffs | 
 
 
 ## Infernal Unit: Chapter 5 - Chapter 8
@@ -51,10 +51,10 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 5](/Main Story/Chapter 5/) | TBD | 
-  | [Chapter 6](/Main Story/Chapter 6/) | TBD | 
-  | [Chapter 7](/Main Story/Chapter 7/) | TBD | 
-  | [Chapter 8](/Main Story/Chapter 8/) | TBD | 
+  | [Chapter 5](/Main Story/Chapter 5/) | Byrds | 
+  | [Chapter 6](/Main Story/Chapter 6/) | Breaking Ground | 
+  | [Chapter 7](/Main Story/Chapter 7/) | Erathia | 
+  | [Chapter 8](/Main Story/Chapter 8/) | Borderlands | 
 
 
 ## Border Battle: Chapter 9 - Chapter 12
@@ -69,10 +69,10 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 9](/Main Story/Chapter 9/) | TBD | 
-  | [Chapter 10](/Main Story/Chapter 10/) | TBD | 
-  | [Chapter 11](/Main Story/Chapter 11/) | TBD | 
-  | [Chapter 12](/Main Story/Chapter 12/) | TBD | 
+  | [Chapter 9](/Main Story/Chapter 9/) | Land of Chaos | 
+  | [Chapter 10](/Main Story/Chapter 10/) | Marshland | 
+  | [Chapter 11](/Main Story/Chapter 11/) | Tatalia | 
+  | [Chapter 12](/Main Story/Chapter 12/) | Sea of Ice | 
 
 
 ## Magic Reinforcement: Chapter 13 - Chapter 15
@@ -87,9 +87,9 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 13](/Main Story/Chapter 13/) | TBD | 
-  | [Chapter 14](/Main Story/Chapter 14/) | TBD | 
-  | [Chapter 15](/Main Story/Chapter 15/) | TBD | 
+  | [Chapter 13](/Main Story/Chapter 13/) | From Day to Night | 
+  | [Chapter 14](/Main Story/Chapter 14/) | Safe Passage | 
+  | [Chapter 15](/Main Story/Chapter 15/) | United Front | 
 
 
 ## Revenge of Avlee: Chapter 16 - Chapter 18
@@ -104,9 +104,9 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 16](/Main Story/Chapter 16/) | TBD | 
-  | [Chapter 17](/Main Story/Chapter 17/) | TBD | 
-  | [Chapter 18](/Main Story/Chapter 18/) | TBD | 
+  | [Chapter 16](/Main Story/Chapter 16/) | For King and Country | 
+  | [Chapter 17](/Main Story/Chapter 17/) | Liberation of the Empire | 
+  | [Chapter 18](/Main Story/Chapter 18/) | Deal with the Devil | 
 
 
 ## Power and magic: Chapter 19 - Chapter 21
@@ -121,9 +121,9 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 19](/Main Story/Chapter 19/) | TBD | 
-  | [Chapter 20](/Main Story/Chapter 20/) | TBD | 
-  | [Chapter 21](/Main Story/Chapter 21/) | TBD | 
+  | [Chapter 19](/Main Story/Chapter 19/) | Neutral Ground | 
+  | [Chapter 20](/Main Story/Chapter 20/) | Tunnels and Troglodytes | 
+  | [Chapter 21](/Main Story/Chapter 21/) | The Grail | 
 
 
 ## Dragon Slayer: Chapter 22 - Chapter 24
@@ -138,9 +138,9 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 22](/Main Story/Chapter 22/) | TBD | 
-  | [Chapter 23](/Main Story/Chapter 23/) | TBD | 
-  | [Chapter 24](/Main Story/Chapter 24/) | TBD | 
+  | [Chapter 22](/Main Story/Chapter 22/) | Crystal Dragon | 
+  | [Chapter 23](/Main Story/Chapter 23/) | Rust Dragon | 
+  | [Chapter 24](/Main Story/Chapter 24/) | Faerie Dragon | 
 
 
 ## Blood of Dragon: Chapter 25 - Chapter 27
@@ -155,9 +155,9 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 25](/Main Story/Chapter 25/) | TBD | 
-  | [Chapter 26](/Main Story/Chapter 26/) | TBD | 
-  | [Chapter 27](/Main Story/Chapter 27/) | TBD | 
+  | [Chapter 25](/Main Story/Chapter 25/) | Survival of the Fittest | 
+  | [Chapter 26](/Main Story/Chapter 26/) | Extend Lead | 
+  | [Chapter 27](/Main Story/Chapter 27/) | Dragon Father's Blood | 
 
 
 ## Path to Daybreak: Chapter 28 - Chapter 30
@@ -172,8 +172,8 @@ classes: wide
 
   | Name |  Description | 
   |:------------|:------------| 
-  | [Chapter 28](/Main Story/Chapter 28/) | TBD | 
-  | [Chapter 29](/Main Story/Chapter 29/) | TBD | 
-  | [Chapter 30](/Main Story/Chapter 30/) | TBD | 
+  | [Chapter 28](/Main Story/Chapter 28/) | Tunnels and Troglodytes | 
+  | [Chapter 29](/Main Story/Chapter 29/) | Deal with the Demon | 
+  | [Chapter 30](/Main Story/Chapter 30/) | The King's Salvation | 
 
 

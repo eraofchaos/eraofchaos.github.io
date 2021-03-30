@@ -1,7 +1,7 @@
 ---
-title: "Main Story - Chapter 27"
+title: "Main Story - Chapter 27 Dragon Father's Blood"
 permalink: /Main Story/Chapter 27/
-excerpt: "Chapter 27. Era of Chaos  Main Story - Chapter 27."
+excerpt: "Chapter 27. Era of Chaos  Main Story - Chapter 27. Dragon Father's Blood"
 last_modified_at: 2021-03-30
 locale: en
 ref: "Chapter 27.md"

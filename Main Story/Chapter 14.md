@@ -1,7 +1,7 @@
 ---
-title: "Main Story - Chapter 14"
+title: "Main Story - Chapter 14 Safe Passage"
 permalink: /Main Story/Chapter 14/
-excerpt: "Chapter 14. Era of Chaos  Main Story - Chapter 14."
+excerpt: "Chapter 14. Era of Chaos  Main Story - Chapter 14. Safe Passage"
 last_modified_at: 2021-03-30
 locale: en
 ref: "Chapter 14.md"

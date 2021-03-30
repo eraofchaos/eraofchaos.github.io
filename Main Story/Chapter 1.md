@@ -1,7 +1,7 @@
 ---
-title: "Main Story - Chapter 1"
+title: "Main Story - Chapter 1 Evenmorn Island"
 permalink: /Main Story/Chapter 1/
-excerpt: "Chapter 1. Era of Chaos  Main Story - Chapter 1."
+excerpt: "Chapter 1. Era of Chaos  Main Story - Chapter 1. Evenmorn Island"
 last_modified_at: 2021-03-30
 locale: en
 ref: "Chapter 1.md"

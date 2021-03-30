@@ -1,7 +1,7 @@
 ---
-title: "Main Story - Chapter 30"
+title: "Main Story - Chapter 30 The King's Salvation"
 permalink: /Main Story/Chapter 30/
-excerpt: "Chapter 30. Era of Chaos  Main Story - Chapter 30."
+excerpt: "Chapter 30. Era of Chaos  Main Story - Chapter 30. The King's Salvation"
 last_modified_at: 2021-03-30
 locale: en
 ref: "Chapter 30.md"

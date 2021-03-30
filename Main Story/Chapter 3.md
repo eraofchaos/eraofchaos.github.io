@@ -1,7 +1,7 @@
 ---
-title: "Main Story - Chapter 3"
+title: "Main Story - Chapter 3 Guardian Angel"
 permalink: /Main Story/Chapter 3/
-excerpt: "Chapter 3. Era of Chaos  Main Story - Chapter 3."
+excerpt: "Chapter 3. Era of Chaos  Main Story - Chapter 3. Guardian Angel"
 last_modified_at: 2021-03-30
 locale: en
 ref: "Chapter 3.md"

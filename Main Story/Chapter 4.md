@@ -1,7 +1,7 @@
 ---
-title: "Main Story - Chapter 4"
+title: "Main Story - Chapter 4 Griffin Cliffs"
 permalink: /Main Story/Chapter 4/
-excerpt: "Chapter 4. Era of Chaos  Main Story - Chapter 4."
+excerpt: "Chapter 4. Era of Chaos  Main Story - Chapter 4. Griffin Cliffs"
 last_modified_at: 2021-03-30
 locale: en
 ref: "Chapter 4.md"

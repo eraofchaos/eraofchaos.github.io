@@ -10,6 +10,21 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210330 %}
+* New info for <i class="fas fa-poo-storm"/>  [Main Story](/Main Story/)
+  * <i class="fas fa-poo-storm"/> [Hauptstory](/de/Main Story/)
+  * <i class="fas fa-poo-storm"/> [Histoire principale](/fr/Main Story/)
+  * <i class="fas fa-poo-storm"/> [Основной сюжет](/ru/Main Story/)
+  * <i class="fas fa-poo-storm"/> [Storia principale](/it/Main Story/)
+  * <i class="fas fa-poo-storm"/> [Historia principal](/es/Main Story/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">30 March 2021 Update:</h4>
+  {{ notice-update20210330 | markdownify }}
+</div>
+
 {% capture notice-update20210325 %}
 Wiki updated to Client version. All Schedule, Altars, etc are updated too.
 
@@ -81,6 +96,8 @@ You will find here:
 * <i class="fas fa-fist-raised"/> [Combination Info: Heroes & Units](/combination/)
 * <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
 * <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
+
+* <i class="fas fa-poo-storm"/>  [Main Story](/Main Story/)
 
 * <i class="fas fa-question-circle"/>  [Sphinx: Answer questions for approval and rewards!](/sphinx/)
 
