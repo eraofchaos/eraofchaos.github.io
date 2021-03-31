@@ -2,7 +2,7 @@
 title: "Era Of Chaos Wiki: Units, Heroes, Items, Artifacts, Quests and more"
 excerpt: "Era of Chaos, Era of Chaos Wiki. Complete information about the Era Of Chaos: Units, Heroes, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
 author_profile: false
-last_modified_at: 2021-02-23
+last_modified_at: 2021-03-31
 toc: false
 locale: en
 classes: wide
@@ -10,7 +10,9 @@ sidebar:
   nav: "docs"
 ---
 
+
 {% capture notice-update20210331 %}
+
 New Items in the update:
 
  * [Regnan Seer Avatar](/Items/con_2117/)
@@ -34,7 +36,7 @@ Wiki updated to latest game state.
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">31 March 2021 Update: Client version 146(3333/3332)</h4>
+  <h4 class="no_toc">31 March 2021 Update: Client version 146 (3333/3332)</h4>
   {{ notice-update20210331 | markdownify }}
 </div>
 
