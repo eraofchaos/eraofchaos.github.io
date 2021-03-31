@@ -2,7 +2,7 @@
 title: "Obsidian Battle Axe"
 permalink: /equipment/Obsidian Battle Axe/
 excerpt: "Era of Chaos Obsidian Battle Axe. Obsidian Battle Axe"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Obsidian Battle Axe.md"
 toc: false

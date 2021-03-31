@@ -2,7 +2,7 @@
 title: "Era of Chaos  Faction Altar for September 2021"
 permalink: /FactionAltar/Faction Altar September_2021/
 excerpt: "Era of Chaos  Faction Altar for September 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Faction Altar September_2021.md"
 toc: false
@@ -23,11 +23,11 @@ classes: wide
 
   |    Date    |  Race  |  Details  |   Drop Souls   | Drop Units |
   |:-----------|:-------|:---------:|:--------------:|:----------:|
-  | 30 Aug - 6 Sep | **Conflux** | [Faction Altar Drop Details](/FactionAltar/DROP_109/) | [Thunder Rage Soul Stone](/Items/unt_344/), [Silent Snow Spirit Soul Stone](/Items/unt_345/), [Magic Elemental Soul Stone](/Items/unt_347/), [Phoenix Soul Stone](/Items/unt_348/) | [Sprite](/Items/unt_262/), [Storm Elemental](/Items/unt_263/), [Ice Elemental](/Items/unt_264/), [Psychic Elemental](/Items/unt_267/), [Firebird](/Items/unt_268/), [Leprechaun](/Items/unt_270/) | 
+  | 30 Aug - 6 Sep | **Dungeon** | [Faction Altar Drop Details](/FactionAltar/DROP_107/) | [Dark Troglodyte Soul Stone](/Items/unt_328/), [Minotaur King Soul Stone](/Items/unt_332/), [Black Dragon King Soul Stone](/Items/unt_334/) | [Troglodyte](/Items/unt_244/), [Harpy](/Items/unt_245/), [Minotaur](/Items/unt_248/), [Black Dragon](/Items/unt_250/), [Red Dragon](/Items/unt_251/) | 
   | 6 - 13 Sep | **Inferno** | [Faction Altar Drop Details](/FactionAltar/DROP_105/) | [Familiar Soul Stone](/Items/unt_313/), [Magog Soul Stone](/Items/unt_314/), [Pit Lord Soul Stone](/Items/unt_316/), [Efreet Sultan Soul Stone](/Items/unt_317/), [Arch Devil Soul Stone](/Items/unt_318/) | [Imp](/Items/unt_226/), [Gog](/Items/unt_227/), [Hell Hound](/Items/unt_228/), [Demon](/Items/unt_229/), [Pit Fiend](/Items/unt_230/), [Efreeti](/Items/unt_231/), [Devil](/Items/unt_232/) | 
-  | 13 - 20 Sep | **Castle** | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [Halberdier Soul Stone](/Items/unt_282/), [Master Archer Soul Stone](/Items/unt_283/), [Crusader Soul Stone](/Items/unt_285/), [Zealot Soul Stone](/Items/unt_286/), [Champions Knight's Soul Stone](/Items/unt_287/), [Archangel Soul Stone](/Items/unt_288/) | [Pikeman](/Items/unt_190/), [Marksman](/Items/unt_191/), [Griffin](/Items/unt_192/), [Swordsman](/Items/unt_193/), [Monk](/Items/unt_194/), [Cavalier ](/Items/unt_195/), [Angel](/Items/unt_196/), [Paladin](/Items/unt_197/) | 
-  | 20 - 27 Sep | **Fortress** | [Faction Altar Drop Details](/FactionAltar/DROP_108/) | [Chaos Hydra Soul Stone](/Items/unt_341/) | [Gnoll](/Items/unt_253/), [Lizardman](/Items/unt_254/), [Serpent Fly](/Items/unt_255/), [Gorgon](/Items/unt_257/), [Hydra](/Items/unt_259/) | 
-  | 27 Sep - 4 Oct | **Dungeon** | [Faction Altar Drop Details](/FactionAltar/DROP_107/) | [Dark Troglodyte Soul Stone](/Items/unt_328/), [Minotaur King Soul Stone](/Items/unt_332/), [Black Dragon King Soul Stone](/Items/unt_334/) | [Troglodyte](/Items/unt_244/), [Harpy](/Items/unt_245/), [Minotaur](/Items/unt_248/), [Black Dragon](/Items/unt_250/), [Red Dragon](/Items/unt_251/) | 
+  | 13 - 20 Sep | **Rampart** | [Faction Altar Drop Details](/FactionAltar/DROP_102/) | [Centaur Captain Soul Stone](/Items/unt_290/), [Grand Elf Soul Stone](/Items/unt_291/), [Silver Pegasus Soul Stone](/Items/unt_292/), [Dendroid Soldier Soul Stone](/Items/unt_293/), [War Unicorn Soul Stone](/Items/unt_294/), [Gold Dragon Soul Stone](/Items/unt_295/) | [Centaur](/Items/unt_199/), [Dwarf](/Items/unt_200/), [Wood Elf](/Items/unt_201/), [Pegasus](/Items/unt_202/), [Dendroid Guard](/Items/unt_203/), [Unicorn](/Items/unt_204/), [Green Dragon](/Items/unt_205/) | 
+  | 20 - 27 Sep | **Castle** | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [Halberdier Soul Stone](/Items/unt_282/), [Master Archer Soul Stone](/Items/unt_283/), [Crusader Soul Stone](/Items/unt_285/), [Zealot Soul Stone](/Items/unt_286/), [Champions Knight's Soul Stone](/Items/unt_287/), [Archangel Soul Stone](/Items/unt_288/) | [Pikeman](/Items/unt_190/), [Marksman](/Items/unt_191/), [Griffin](/Items/unt_192/), [Swordsman](/Items/unt_193/), [Monk](/Items/unt_194/), [Cavalier ](/Items/unt_195/), [Angel](/Items/unt_196/), [Paladin](/Items/unt_197/) | 
+  | 27 Sep - 4 Oct | **Cove** | [Faction Altar Drop Details](/FactionAltar/DROP_112/) |  - | [Regnan Pirates](/Items/unt_273/), [Regnan Archer](/Items/unt_274/), [Sea Elemental](/Items/unt_275/), [Dragon Turtle](/Items/unt_278/), [Shark Trainer](/Items/unt_281/) | 
 
 
 

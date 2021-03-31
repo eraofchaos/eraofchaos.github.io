@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite is a mysterious man who keeps in close touch with the high-rank officials of different countries. But no one knows about his past, and he never mentions it."
 heroID: 61401
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: en
 ref: "Jeddite"
 toc: true
@@ -62,12 +62,27 @@ toc: true
 * [Stun](/combination/Stun/) 
 
 ## HERO Biography
+   - Jeddite sets out to search for the resurrection spell after his lover is slain.
+   - Jeddite gains a better understanding of the resurrection spell under Eric's guidance.
+   - Jeddite, Eric and Sandro drift further and further apart...
+   - It's said that Jeddite and the Demon King made a deal that only two of them know about.
+   - The Dungeon extends hand of friendship to Jeddite. To revive his wife as soon as possible, Jeddite readily agrees.
 
 ## HERO Skins
 ### Skin 1: **Classic**
 
  **Description:** <span style="color: #ffffff;font-size:20px">Necromancer's understanding of death is not worth mentioning.</span>
 
+
+### Skin 2: **Undying Love**
+
+ **Description:** <span style="color: #ffffff;font-size:20px">Everything Jeddite does is for resurrecting his wife.</span>
+
+ **Skin features:** 
+
+   - A Mage Crazy for Love
+   - All-new Battle Image
+   - Unique Avatar
 
 
 ## Initial Mastery

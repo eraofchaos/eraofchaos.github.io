@@ -2,7 +2,7 @@
 title: "Rune of Resurrection"
 permalink: /equipment/Rune of Resurrection/
 excerpt: "Era of Chaos Rune of Resurrection. Rune of Resurrection"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Rune of Resurrection.md"
 toc: false

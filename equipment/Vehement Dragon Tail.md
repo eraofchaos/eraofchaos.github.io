@@ -2,7 +2,7 @@
 title: "Vehement Dragon Tail"
 permalink: /equipment/Vehement Dragon Tail/
 excerpt: "Era of Chaos Vehement Dragon Tail. Vehement Dragon Tail"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Vehement Dragon Tail.md"
 toc: false

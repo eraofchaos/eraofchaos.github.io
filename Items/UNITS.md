@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Units.md"
 toc: false
@@ -127,7 +127,7 @@ classes: wide
   | 113 | [Regnan Serpent](/Items/unt_276/){: .btn .btn--era4} | Unit Soul | Once you have gathered 80 soul tokens you can summon a Regnan Serpent. Tokens can also be used to upgrade or increase the rank of Regnan Serpents. |
   | 114 | [Revyaratan](/Items/unt_280/){: .btn .btn--era4} | Unit Soul | Once you have gathered 80 soul tokens you can summon a Revyaratan. Tokens can also be used to upgrade or increase the rank of Revyaratans. |
   | 115 | [Roc](/Items/unt_221/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Roc, an SR aptitude unit. |
-  | 116 | [Saintly Griffin Soul Stone](/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Saintly Griffin's Awakening level enhancement. |
+  | 116 | [Saintly Griffin Soul Stone](/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Royal Griffin's Awakening level enhancement. |
   | 117 | [Scorpicore Soul Stone](/Items/unt_333/){: .btn .btn--era5} | Awakening Soul | Soul Stone for Scorpicore's Awakening level enhancement |
   | 118 | [Sea Elemental](/Items/unt_275/){: .btn .btn--era3} | Unit Soul | Once you have gathered 10 soul tokens you can summon a Sea elemental. Tokens can also be used to upgrade or increase the rank of Sea elementals. |
   | 119 | [Serpent Fly](/Items/unt_255/){: .btn .btn--era4} | Unit Soul | Once you have gathered 30 soul tokens you can summon a Serpent Fly. Tokens can also be used to upgrade or increase the rank of Serpent Flies. |

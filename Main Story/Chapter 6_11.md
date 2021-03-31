@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-11 Stand with the City"
 permalink: /Main Story/Chapter 6_11/
 excerpt: "Chapter 6 - 11. Era of Chaos  Main Story - Chapter 6_11. 6-11 Stand with the City"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 6_11.md"
 toc: false

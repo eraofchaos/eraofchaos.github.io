@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Gems"
 permalink: /Items/mat_72/
 excerpt: "Era of Chaos  Eternal Gems"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_72.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Griffin"
 toc: true
@@ -182,7 +182,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Saintly Griffin
+ **Awaking Name:** Royal Griffin
 
  **Awaking Description:** Griffins that were trained by the Edric family now serve as Erathia's guardians. Day and night, they circle the skies above the castle. Any invaders foolish enough to approach the castle are torn to shreds by these Griffins' sharp claws.
 
@@ -191,7 +191,7 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> resources during a Guild Adventure.</span>
 
- 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Saintly Griffin souls in the Underground: Levels 15-2 and 15-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Royal Griffin souls in the Underground: Levels 15-2 and 15-4.</span>
 
  4. <span style="color: #876741;font-size:18px">Deploy Griffin with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Castle units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 

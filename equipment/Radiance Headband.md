@@ -2,7 +2,7 @@
 title: "Radiance Headband"
 permalink: /equipment/Radiance Headband/
 excerpt: "Era of Chaos Radiance Headband. Radiance Headband"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Radiance Headband.md"
 toc: false

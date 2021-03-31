@@ -2,7 +2,7 @@
 title: "Crystal Hooves"
 permalink: /equipment/Crystal Hooves/
 excerpt: "Era of Chaos Crystal Hooves. Crystal Hooves"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Crystal Hooves.md"
 toc: false

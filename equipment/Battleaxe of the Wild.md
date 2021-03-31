@@ -2,7 +2,7 @@
 title: "Battleaxe of the Wild"
 permalink: /equipment/Battleaxe of the Wild/
 excerpt: "Era of Chaos Battleaxe of the Wild. Battleaxe of the Wild"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Battleaxe of the Wild.md"
 toc: false

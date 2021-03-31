@@ -2,7 +2,7 @@
 title: "Artifacts - Wizard's Well - Mystic Orb of Mana"
 permalink: /artifacts/Mystic Orb of Mana/
 excerpt: "Era of Chaos  Wizard's Well - Mystic Orb of Mana. A crystal ball with strong magic. One of the components of the Wizard's Well."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Mystic Orb of Mana.md"
 toc: false

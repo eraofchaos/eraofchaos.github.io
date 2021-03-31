@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-15 Killing Night"
 permalink: /Main Story/Chapter 6_15/
 excerpt: "Chapter 6 - 15. Era of Chaos  Main Story - Chapter 6_15. 6-15 Killing Night"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 6_15.md"
 toc: false

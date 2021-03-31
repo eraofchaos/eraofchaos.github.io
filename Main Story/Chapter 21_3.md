@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-3 Bard"
 permalink: /Main Story/Chapter 21_3/
 excerpt: "Chapter 21 - 3. Era of Chaos  Main Story - Chapter 21_3. 21-3 Bard"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 21_3.md"
 toc: false

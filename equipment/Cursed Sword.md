@@ -2,7 +2,7 @@
 title: "Cursed Sword"
 permalink: /equipment/Cursed Sword/
 excerpt: "Era of Chaos Cursed Sword. Cursed Sword"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Cursed Sword.md"
 toc: false

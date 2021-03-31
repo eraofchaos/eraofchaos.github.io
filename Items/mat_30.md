@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Gems"
 permalink: /Items/mat_30/
 excerpt: "Era of Chaos  Valuable Gems"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_30.md"
 toc: false

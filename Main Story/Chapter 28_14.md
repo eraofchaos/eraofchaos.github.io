@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-14 Holy Sanctuary"
 permalink: /Main Story/Chapter 28_14/
 excerpt: "Chapter 28 - 14. Era of Chaos  Main Story - Chapter 28_14. 28-14 Holy Sanctuary"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 28_14.md"
 toc: false

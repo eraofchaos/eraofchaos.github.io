@@ -2,7 +2,7 @@
 title: "Era of Chaos  Faction Altar for April 2021"
 permalink: /FactionAltar/Faction Altar April_2021/
 excerpt: "Era of Chaos  Faction Altar for April 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Faction Altar April_2021.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 5 - 12 Apr | **Necropolis** | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [Skeleton Warrior Soul Stone](/Items/unt_297/), [Zombie Soul Stone](/Items/unt_298/), [Vampire Lord Soul Stone](/Items/unt_300/), [Ghost Dragon Soul Stone](/Items/unt_303/) | [Skeleton](/Items/unt_208/), [Walking Dead](/Items/unt_209/), [Wight](/Items/unt_210/), [Vampire](/Items/unt_211/), [Bone Dragon](/Items/unt_214/) | 
   | 12 - 19 Apr | **Conflux** | [Faction Altar Drop Details](/FactionAltar/DROP_109/) | [Thunder Rage Soul Stone](/Items/unt_344/), [Silent Snow Spirit Soul Stone](/Items/unt_345/), [Magic Elemental Soul Stone](/Items/unt_347/), [Phoenix Soul Stone](/Items/unt_348/) | [Sprite](/Items/unt_262/), [Storm Elemental](/Items/unt_263/), [Ice Elemental](/Items/unt_264/), [Psychic Elemental](/Items/unt_267/), [Firebird](/Items/unt_268/), [Leprechaun](/Items/unt_270/) | 
   | 19 - 26 Apr | **Stronghold** | [Faction Altar Drop Details](/FactionAltar/DROP_103/) | [Hobgoblin Soul Stone](/Items/unt_305/), [Wolf Raider Soul Stone](/Items/unt_306/), [Orc Commander Soul Stone](/Items/unt_307/), [Ogre Mage Soul Stone](/Items/unt_308/), [Thunderbird Soul Stone](/Items/unt_309/), [Cyclops King Soul Stone](/Items/unt_310/), [Ancient Behemoth Soul Stone](/Items/unt_311/) | [Goblin](/Items/unt_217/), [Wolf Rider](/Items/unt_218/), [Orc](/Items/unt_219/), [Ogre](/Items/unt_220/), [Roc](/Items/unt_221/), [Cyclops](/Items/unt_222/), [Behemoth](/Items/unt_223/), [Berserker](/Items/unt_224/) | 
-  | 26 Apr - 3 May | **Rampart** | [Faction Altar Drop Details](/FactionAltar/DROP_102/) | [Centaur Captain Soul Stone](/Items/unt_290/), [Grand Elf Soul Stone](/Items/unt_291/), [Silver Pegasus Soul Stone](/Items/unt_292/), [Dendroid Soldier Soul Stone](/Items/unt_293/), [War Unicorn Soul Stone](/Items/unt_294/), [Gold Dragon Soul Stone](/Items/unt_295/) | [Centaur](/Items/unt_199/), [Dwarf](/Items/unt_200/), [Wood Elf](/Items/unt_201/), [Pegasus](/Items/unt_202/), [Dendroid Guard](/Items/unt_203/), [Unicorn](/Items/unt_204/), [Green Dragon](/Items/unt_205/) | 
+  | 26 Apr - 3 May | **Cove** | [Faction Altar Drop Details](/FactionAltar/DROP_112/) |  - | [Regnan Pirates](/Items/unt_273/), [Regnan Archer](/Items/unt_274/), [Sea Elemental](/Items/unt_275/), [Dragon Turtle](/Items/unt_278/), [Shark Trainer](/Items/unt_281/) | 
 
 
 

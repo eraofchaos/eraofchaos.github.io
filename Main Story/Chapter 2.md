@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 2 Return of the Queen"
 permalink: /Main Story/Chapter 2/
 excerpt: "Chapter 2. Era of Chaos  Main Story - Chapter 2. Return of the Queen"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 2.md"
 toc: false

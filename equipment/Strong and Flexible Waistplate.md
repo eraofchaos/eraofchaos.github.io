@@ -2,7 +2,7 @@
 title: "Strong and Flexible Waistplate"
 permalink: /equipment/Strong and Flexible Waistplate/
 excerpt: "Era of Chaos Strong and Flexible Waistplate. Strong and Flexible Waistplate"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Strong and Flexible Waistplate.md"
 toc: false

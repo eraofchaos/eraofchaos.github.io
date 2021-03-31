@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Gems"
 permalink: /Items/mat_93/
 excerpt: "Era of Chaos  Star Gems"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_93.md"
 toc: false

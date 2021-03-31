@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Sulfur"
 permalink: /Items/mat_71/
 excerpt: "Era of Chaos  Eternal Sulfur"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_71.md"
 toc: false

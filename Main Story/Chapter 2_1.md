@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 2 - 2-1 Red Mills"
 permalink: /Main Story/Chapter 2_1/
 excerpt: "Chapter 2 - 1. Era of Chaos  Main Story - Chapter 2_1. 2-1 Red Mills"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 2_1.md"
 toc: false

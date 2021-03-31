@@ -2,7 +2,7 @@
 title: "Item - Materials - Exceptional Sulfur"
 permalink: /Items/mat_36/
 excerpt: "Era of Chaos  Exceptional Sulfur"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_36.md"
 toc: false

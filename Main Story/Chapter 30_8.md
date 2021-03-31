@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-8 Fire Altar"
 permalink: /Main Story/Chapter 30_8/
 excerpt: "Chapter 30 - 8. Era of Chaos  Main Story - Chapter 30_8. 30-8 Fire Altar"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 30_8.md"
 toc: false

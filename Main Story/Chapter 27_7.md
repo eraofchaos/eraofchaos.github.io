@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-7 Dark Nourishment"
 permalink: /Main Story/Chapter 27_7/
 excerpt: "Chapter 27 - 7. Era of Chaos  Main Story - Chapter 27_7. 27-7 Dark Nourishment"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 27_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Battle Formation Rampart"
 permalink: /Battle Formation/Battle Formation Faction Rampart internal
 excerpt: "Battle Formation Rampart"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "BattleFormationFactionRampart"
 toc: false

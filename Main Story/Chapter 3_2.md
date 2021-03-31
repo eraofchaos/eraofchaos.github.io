@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-2 Cursed Temple"
 permalink: /Main Story/Chapter 3_2/
 excerpt: "Chapter 3 - 2. Era of Chaos  Main Story - Chapter 3_2. 3-2 Cursed Temple"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 3_2.md"
 toc: false

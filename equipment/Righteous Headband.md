@@ -2,7 +2,7 @@
 title: "Righteous Headband"
 permalink: /equipment/Righteous Headband/
 excerpt: "Era of Chaos Righteous Headband. Righteous Headband"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Righteous Headband.md"
 toc: false

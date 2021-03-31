@@ -2,7 +2,7 @@
 title: "Leather Belt"
 permalink: /equipment/Leather Belt/
 excerpt: "Era of Chaos Leather Belt. Leather Belt"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Leather Belt.md"
 toc: false

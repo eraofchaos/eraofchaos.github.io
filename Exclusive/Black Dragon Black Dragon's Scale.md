@@ -2,7 +2,7 @@
 title: "Exclusive - Black Dragon's Scale"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Black Dragon's Scale. Black Dragon's Scale. Era of Chaos Exclusive Black Dragon's Scale. Black Dragon Exclusive."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Black Dragon Black Dragon's Scale.md"
 toc: false

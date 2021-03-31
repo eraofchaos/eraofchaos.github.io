@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-2 The Chaos of War"
 permalink: /Main Story/Chapter 13_2/
 excerpt: "Chapter 13 - 2. Era of Chaos  Main Story - Chapter 13_2. 13-2 The Chaos of War"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 13_2.md"
 toc: false

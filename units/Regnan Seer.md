@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Regnan Seer"
 toc: true
@@ -109,7 +109,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Regnan Seer summons a waterspout from the deep every 25s, causing </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> damage and additional damage equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Max HP to 2 hostile units within the area every 0.5s. At the same time, it </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;emaciates&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> the targets. For &lt;deterred&gt; hostile units, the damage is increased by 30%. The waterspout lasts for 5s.</span><span style="color: black">
 
 ### Regular Skill 1 : Lineage of Neptune
- **Description:** <span style="color: #645252;font-size:20px">Regnan Seer's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When HP is lower than 40%, summons a Regnan Serpent unit and stuns all hostile units for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. Triggers <span style="color: #F0F000;font-size:20px">&lt;Azure Protection&gt;</span><span style="color: black"> when only 10% HP is left
+ **Description:** <span style="color: #645252;font-size:20px">Increases Regnan Seer's HP by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When Regnan Seer sustains a single instance of damage that exceeds 10% of its Max HP, the portion of it that exceeds the 10% will be blocked. When HP is lower than 40%, summons a Regnan Serpent unit and stuns all enemy units for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. Triggers <span style="color: #F0F000;font-size:20px">&lt;Azure Protection&gt;</span><span style="color: black"> when only 10% HP is left.</span><span style="color: black">
 
 ### Regular Skill 2 : Deep Fear
  **Description:** <span style="color: #645252;font-size:20px">After battle has started for 5s, increases penetration of all friendly units on its path by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Emaciates&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units for 5s. Triggered once every 20s</span><span style="color: black">

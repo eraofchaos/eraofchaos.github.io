@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-2 Bounty Hunter"
 permalink: /Main Story/Chapter 16_2/
 excerpt: "Chapter 16 - 2. Era of Chaos  Main Story - Chapter 16_2. 16-2 Bounty Hunter"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 16_2.md"
 toc: false

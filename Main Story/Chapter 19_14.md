@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 19 - 19-14 Immortal King"
 permalink: /Main Story/Chapter 19_14/
 excerpt: "Chapter 19 - 14. Era of Chaos  Main Story - Chapter 19_14. 19-14 Immortal King"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 19_14.md"
 toc: false

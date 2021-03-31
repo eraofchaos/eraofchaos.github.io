@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-8 Towering Rock Mass"
 permalink: /Main Story/Chapter 28_8/
 excerpt: "Chapter 28 - 8. Era of Chaos  Main Story - Chapter 28_8. 28-8 Towering Rock Mass"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 28_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Beak of Thunder"
 permalink: /equipment/Beak of Thunder/
 excerpt: "Era of Chaos Beak of Thunder. Beak of Thunder"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Beak of Thunder.md"
 toc: false

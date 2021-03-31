@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Mercury"
 permalink: /Items/mat_28/
 excerpt: "Era of Chaos  Valuable Mercury"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_28.md"
 toc: false

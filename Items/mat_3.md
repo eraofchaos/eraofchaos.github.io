@@ -2,7 +2,7 @@
 title: "Item - Materials - Inferior Sulfur"
 permalink: /Items/mat_3/
 excerpt: "Era of Chaos  Inferior Sulfur"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Gems"
 permalink: /Items/mat_16/
 excerpt: "Era of Chaos  Good Gems"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_16.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Harpy"
 toc: true
@@ -172,40 +172,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Harpy Hag
 
- **Awaking Description:** null
+ **Awaking Description:** Midnight falls, and the harpies dance to the faun's song. Moonlight reflects off their blades, emitting an icy-cold gleam that follows the sway of their flight in a beautiful yet deadly display.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #876741;font-size:18px">Deploy Harpy with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #876741;font-size:18px">In the Guild Adventure Underground, occupy City </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> time.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Harpy souls in the Underground: Levels 16-2 and 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Deploy Harpy with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Charging units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Harpy's Sharp Blade
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Harpy's Sharp Claw&gt;</span><span style="color: #645252;font-size:18px"> &lt;Harpy's Sharp Claw&gt; is guaranteed to trigger 1 time whenever Harpy's attacks are dodged. CD is 5s.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Harpy's Poisoned Blade
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Harpy's Sharp Claw&gt;</span><span style="color: #645252;font-size:18px"> Skills deal additional damage equal to 200% of own ATK to the target unit and inflict Poison for 5s.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Spell Breaker Defense
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Scream&gt;</span><span style="color: #645252;font-size:18px"> Whenever an enemy hero casts a spell, additionally decreases the Attack Speed of enemy units in the front row by 4%. Stacks up to 5 times. Lasts 8s.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Spell Breaker Invasion
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Scream&gt;</span><span style="color: #645252;font-size:18px"> Whenever an enemy hero casts a spell, additionally increases the Attack Speed of friendly units in the front row by 4%. Stacks up to 5 times. Lasts 8s.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Aerial Aim
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Aiming in Mid Air&gt;</span><span style="color: #645252;font-size:18px"> Own Unit DMG is increased by 20% when attacking units inflicted with Bleed.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Aerial Slaughter
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Aiming in Mid Air&gt;</span><span style="color: #645252;font-size:18px"> Own Unit DMG Reduction is increased by 20% when attacking units inflicted with Poison.</span>
 
 ## Technical info
  **runart:** 1

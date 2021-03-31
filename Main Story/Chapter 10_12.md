@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-12 Civil War at Stronghold"
 permalink: /Main Story/Chapter 10_12/
 excerpt: "Chapter 10 - 12. Era of Chaos  Main Story - Chapter 10_12. 10-12 Civil War at Stronghold"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 10_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-12 Evil Impression"
 permalink: /Main Story/Chapter 21_12/
 excerpt: "Chapter 21 - 12. Era of Chaos  Main Story - Chapter 21_12. 21-12 Evil Impression"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 21_12.md"
 toc: false

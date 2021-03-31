@@ -2,7 +2,7 @@
 title: "Era of Chaos  Faction Altar for October 2021"
 permalink: /FactionAltar/Faction Altar October_2021/
 excerpt: "Era of Chaos  Faction Altar for October 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "Faction Altar October_2021.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
   |    Date    |  Race  |  Details  |   Drop Souls   | Drop Units |
   |:-----------|:-------|:---------:|:--------------:|:----------:|
-  | 27 Sep - 4 Oct | **Dungeon** | [Faction Altar Drop Details](/FactionAltar/DROP_107/) | [Dark Troglodyte Soul Stone](/Items/unt_328/), [Minotaur King Soul Stone](/Items/unt_332/), [Black Dragon King Soul Stone](/Items/unt_334/) | [Troglodyte](/Items/unt_244/), [Harpy](/Items/unt_245/), [Minotaur](/Items/unt_248/), [Black Dragon](/Items/unt_250/), [Red Dragon](/Items/unt_251/) | 
+  | 27 Sep - 4 Oct | **Cove** | [Faction Altar Drop Details](/FactionAltar/DROP_112/) |  - | [Regnan Pirates](/Items/unt_273/), [Regnan Archer](/Items/unt_274/), [Sea Elemental](/Items/unt_275/), [Dragon Turtle](/Items/unt_278/), [Shark Trainer](/Items/unt_281/) | 
   | 4 - 11 Oct | **Necropolis** | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [Skeleton Warrior Soul Stone](/Items/unt_297/), [Zombie Soul Stone](/Items/unt_298/), [Vampire Lord Soul Stone](/Items/unt_300/), [Ghost Dragon Soul Stone](/Items/unt_303/) | [Skeleton](/Items/unt_208/), [Walking Dead](/Items/unt_209/), [Wight](/Items/unt_210/), [Vampire](/Items/unt_211/), [Bone Dragon](/Items/unt_214/) | 
   | 11 - 18 Oct | **Conflux** | [Faction Altar Drop Details](/FactionAltar/DROP_109/) | [Thunder Rage Soul Stone](/Items/unt_344/), [Silent Snow Spirit Soul Stone](/Items/unt_345/), [Magic Elemental Soul Stone](/Items/unt_347/), [Phoenix Soul Stone](/Items/unt_348/) | [Sprite](/Items/unt_262/), [Storm Elemental](/Items/unt_263/), [Ice Elemental](/Items/unt_264/), [Psychic Elemental](/Items/unt_267/), [Firebird](/Items/unt_268/), [Leprechaun](/Items/unt_270/) | 
   | 18 - 25 Oct | **Stronghold** | [Faction Altar Drop Details](/FactionAltar/DROP_103/) | [Hobgoblin Soul Stone](/Items/unt_305/), [Wolf Raider Soul Stone](/Items/unt_306/), [Orc Commander Soul Stone](/Items/unt_307/), [Ogre Mage Soul Stone](/Items/unt_308/), [Thunderbird Soul Stone](/Items/unt_309/), [Cyclops King Soul Stone](/Items/unt_310/), [Ancient Behemoth Soul Stone](/Items/unt_311/) | [Goblin](/Items/unt_217/), [Wolf Rider](/Items/unt_218/), [Orc](/Items/unt_219/), [Ogre](/Items/unt_220/), [Roc](/Items/unt_221/), [Cyclops](/Items/unt_222/), [Behemoth](/Items/unt_223/), [Berserker](/Items/unt_224/) | 

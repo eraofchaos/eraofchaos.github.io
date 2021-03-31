@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 Byrds"
 permalink: /Main Story/Chapter 5/
 excerpt: "Chapter 5. Era of Chaos  Main Story - Chapter 5. Byrds"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 5.md"
 toc: false

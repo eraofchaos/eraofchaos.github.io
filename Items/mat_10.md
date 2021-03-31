@@ -2,7 +2,7 @@
 title: "Item - Materials - Common Gems"
 permalink: /Items/mat_10/
 excerpt: "Era of Chaos  Common Gems"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_10.md"
 toc: false

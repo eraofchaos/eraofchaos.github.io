@@ -2,7 +2,7 @@
 title: "Adjutant Korbac"
 permalink: /heroes/Adjutant Korbac/
 excerpt: "Era of Chaos  Adjutant Korbac"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: en
 ref: "Adjutant Korbac.md"
 toc: false

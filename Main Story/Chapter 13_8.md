@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-8 Before Daylight"
 permalink: /Main Story/Chapter 13_8/
 excerpt: "Chapter 13 - 8. Era of Chaos  Main Story - Chapter 13_8. 13-8 Before Daylight"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 13_8.md"
 toc: false

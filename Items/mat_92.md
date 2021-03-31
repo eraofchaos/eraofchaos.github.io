@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Sulfur"
 permalink: /Items/mat_92/
 excerpt: "Era of Chaos  Star Sulfur"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_92.md"
 toc: false

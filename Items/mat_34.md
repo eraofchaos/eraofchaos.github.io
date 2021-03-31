@@ -2,7 +2,7 @@
 title: "Item - Materials - Exceptional Wood"
 permalink: /Items/mat_34/
 excerpt: "Era of Chaos  Exceptional Wood"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: en
 ref: "mat_34.md"
 toc: false

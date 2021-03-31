@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 - 25-11 Wiseman Assistance"
 permalink: /Main Story/Chapter 25_11/
 excerpt: "Chapter 25 - 11. Era of Chaos  Main Story - Chapter 25_11. 25-11 Wiseman Assistance"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: en
 ref: "Chapter 25_11.md"
 toc: false
