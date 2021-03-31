@@ -12,26 +12,24 @@ sidebar:
 
 
 {% capture notice-update20210331 %}
+* New Items in the update:
+  * [Regnan Seer Avatar](/Items/con_2117/)
+  * [Carrot Hot Cross Bun](/Items/con_2119/)
+  * [Easter Decoration Material](/Items/con_2118/)
+  * [Dark Retinue: Titan Skin](/Items/con_2131/)
+  * [Holiday Orange Holy Emblem Special Offer](/Items/con_2126/)
+  * [Random Purple Artifact Component Chest](/Items/con_2127/)
+  * [Commander Avatar Selection Pack](/Items/con_2128/)
+  * [April 1st Gift](/Items/con_2129/)
+  * [April 1st Gift](/Items/con_2130/)
+  * [6,600 Carrot Hot Cross Buns](/Items/con_2123/)
+  * [13,200 Carrot Hot Cross Buns](/Items/con_2124/)
+  * [Holiday Mithril Special Offer](/Items/con_2125/)
+  * [400 Carrot Hot Cross Buns](/Items/con_2120/)
+  * [1,200 Carrot Hot Cross Buns](/Items/con_2121/)
+  * [3,000 Carrot Hot Cross Buns](/Items/con_2122/)
 
-New Items in the update:
-
- * [Regnan Seer Avatar](/Items/con_2117/)
- * [Carrot Hot Cross Bun](/Items/con_2119/)
- * [Easter Decoration Material](/Items/con_2118/)
- * [Dark Retinue: Titan Skin](/Items/con_2131/)
- * [Holiday Orange Holy Emblem Special Offer](/Items/con_2126/)
- * [Random Purple Artifact Component Chest](/Items/con_2127/)
- * [Commander Avatar Selection Pack](/Items/con_2128/)
- * [April 1st Gift](/Items/con_2129/)
- * [April 1st Gift](/Items/con_2130/)
- * [6,600 Carrot Hot Cross Buns](/Items/con_2123/)
- * [13,200 Carrot Hot Cross Buns](/Items/con_2124/)
- * [Holiday Mithril Special Offer](/Items/con_2125/)
- * [400 Carrot Hot Cross Buns](/Items/con_2120/)
- * [1,200 Carrot Hot Cross Buns](/Items/con_2121/)
- * [3,000 Carrot Hot Cross Buns](/Items/con_2122/)
-
-Wiki updated to latest game state.
+* Wiki updated to latest game state.
 
 {% endcapture %}
 
