@@ -2,7 +2,7 @@
 title: "Item - Materials - Common Crystal"
 permalink: /Items/mat_11/
 excerpt: "Era of Chaos  Common Crystal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_11.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 3 (Guardian Angel) -> 3-6 
-*    Chapter 3 (Guardian Angel) -> 3-12 
-*    Chapter 3 (Guardian Angel) -> 3-15 
+*    Guild Adventure 
+*    [Chapter 3: Guardian Angel -> 3-6](/Main Story/Chapter 3_6/) 
+*    [Chapter 3: Guardian Angel -> 3-12](/Main Story/Chapter 3_12/) 
+*    [Chapter 3: Guardian Angel -> 3-15](/Main Story/Chapter 3_15/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Ore"
 permalink: /Items/mat_61/
 excerpt: "Era of Chaos  Mythical Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_61.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 18 (Deal with the Devil) -> 18-1 
-*    Chapter 18 (Deal with the Devil) -> 18-4 
-*    Chapter 18 (Deal with the Devil) -> 18-7 
+*    Guild Adventure 
+*    [Chapter 18: Deal with the Devil -> 18-1](/Main Story/Chapter 18_1/) 
+*    [Chapter 18: Deal with the Devil -> 18-4](/Main Story/Chapter 18_4/) 
+*    [Chapter 18: Deal with the Devil -> 18-7](/Main Story/Chapter 18_7/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Epic Wood"
 permalink: /Items/mat_48/
 excerpt: "Era of Chaos  Epic Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_48.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 14 (Safe Passage) -> 14-2 
-*    Chapter 14 (Safe Passage) -> 14-5 
-*    Chapter 14 (Safe Passage) -> 14-8 
+*    Guild Adventure 
+*    [Chapter 14: Safe Passage -> 14-2](/Main Story/Chapter 14_2/) 
+*    [Chapter 14: Safe Passage -> 14-5](/Main Story/Chapter 14_5/) 
+*    [Chapter 14: Safe Passage -> 14-8](/Main Story/Chapter 14_8/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Sulfur"
 permalink: /Items/mat_78/
 excerpt: "Era of Chaos  Secret Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_78.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 22 (Crystal Dragon) -> 22-4 
-*    Chapter 22 (Crystal Dragon) -> 22-10 
-*    Chapter 22 (Crystal Dragon) -> 22-13 
+*    Guild Adventure 
+*    [Chapter 22: Crystal Dragon -> 22-4](/Main Story/Chapter 22_4/) 
+*    [Chapter 22: Crystal Dragon -> 22-10](/Main Story/Chapter 22_10/) 
+*    [Chapter 22: Crystal Dragon -> 22-13](/Main Story/Chapter 22_13/) 
 
 ## This item contains:
 

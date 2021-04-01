@@ -2,7 +2,7 @@
 title: "Item - Materials - Certificate of Legend"
 permalink: /Items/mat_74/
 excerpt: "Era of Chaos  Certificate of Legend"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_74.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Guild Adventure 
 *    Chapter - Deal with the Devil 
 *    Chapter - Neutral Ground 
 *    Chapter - Tunnels and Troglodytes 

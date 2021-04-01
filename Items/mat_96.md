@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Ore"
 permalink: /Items/mat_96/
 excerpt: "Era of Chaos  Radiant Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_96.md"
 toc: false
@@ -19,8 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 27 (Dragon Father's Blood) -> 27-7 
+*    Guild Adventure 
+*    [Chapter 27: Dragon Father's Blood -> 27-7](/Main Story/Chapter 27_7/) 
 
 ## This item contains:
 

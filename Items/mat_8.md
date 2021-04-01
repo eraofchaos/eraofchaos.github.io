@@ -2,7 +2,7 @@
 title: "Item - Materials - Common Mercury"
 permalink: /Items/mat_8/
 excerpt: "Era of Chaos  Common Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_8.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 2 (Return of the Queen) -> 2-4 
-*    Chapter 2 (Return of the Queen) -> 2-8 
-*    Chapter 3 (Guardian Angel) -> 3-3 
+*    Guild Adventure 
+*    [Chapter 2: Return of the Queen -> 2-4](/Main Story/Chapter 2_4/) 
+*    [Chapter 2: Return of the Queen -> 2-8](/Main Story/Chapter 2_8/) 
+*    [Chapter 3: Guardian Angel -> 3-3](/Main Story/Chapter 3_3/) 
 
 ## This item contains:
 

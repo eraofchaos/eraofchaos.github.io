@@ -2,7 +2,7 @@
 title: "Item - Materials - Epic Ore"
 permalink: /Items/mat_47/
 excerpt: "Era of Chaos  Epic Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_47.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 14 (Safe Passage) -> 14-1 
-*    Chapter 14 (Safe Passage) -> 14-4 
-*    Chapter 14 (Safe Passage) -> 14-7 
+*    Guild Adventure 
+*    [Chapter 14: Safe Passage -> 14-1](/Main Story/Chapter 14_1/) 
+*    [Chapter 14: Safe Passage -> 14-4](/Main Story/Chapter 14_4/) 
+*    [Chapter 14: Safe Passage -> 14-7](/Main Story/Chapter 14_7/) 
 
 ## This item contains:
 

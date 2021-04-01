@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Wood"
 permalink: /Items/mat_69/
 excerpt: "Era of Chaos  Eternal Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_69.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-2 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-5 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-8 
+*    Guild Adventure 
+*    [Chapter 20: Tunnels and Troglodytes -> 20-2](/Main Story/Chapter 20_2/) 
+*    [Chapter 20: Tunnels and Troglodytes -> 20-5](/Main Story/Chapter 20_5/) 
+*    [Chapter 20: Tunnels and Troglodytes -> 20-8](/Main Story/Chapter 20_8/) 
 
 ## This item contains:
 

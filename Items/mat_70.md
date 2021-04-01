@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Mercury"
 permalink: /Items/mat_70/
 excerpt: "Era of Chaos  Eternal Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_70.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-3 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-6 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-9 
+*    Guild Adventure 
+*    [Chapter 20: Tunnels and Troglodytes -> 20-3](/Main Story/Chapter 20_3/) 
+*    [Chapter 20: Tunnels and Troglodytes -> 20-6](/Main Story/Chapter 20_6/) 
+*    [Chapter 20: Tunnels and Troglodytes -> 20-9](/Main Story/Chapter 20_9/) 
 
 ## This item contains:
 

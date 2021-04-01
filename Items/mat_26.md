@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Ore"
 permalink: /Items/mat_26/
 excerpt: "Era of Chaos  Valuable Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_26.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 8 (Borderlands) -> 8-1 
-*    Chapter 8 (Borderlands) -> 8-4 
-*    Chapter 8 (Borderlands) -> 8-7 
+*    Guild Adventure 
+*    [Chapter 8: Borderlands -> 8-1](/Main Story/Chapter 8_1/) 
+*    [Chapter 8: Borderlands -> 8-4](/Main Story/Chapter 8_4/) 
+*    [Chapter 8: Borderlands -> 8-7](/Main Story/Chapter 8_7/) 
 
 ## This item contains:
 

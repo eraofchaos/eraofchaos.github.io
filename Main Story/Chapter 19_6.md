@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 19 - 19-6 Dual Center"
 permalink: /Main Story/Chapter 19_6/
 excerpt: "Chapter 19 - 6. Era of Chaos  Main Story - Chapter 19_6. 19-6 Dual Center"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Chapter 19_6.md"
 toc: false

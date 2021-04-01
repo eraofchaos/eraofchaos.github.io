@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Ore"
 permalink: /Items/mat_82/
 excerpt: "Era of Chaos  Soul Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_82.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 24 (Faerie Dragon) -> 24-7 
-*    Chapter 25 (Survival of the Fittest) -> 25-7 
+*    Guild Adventure 
+*    [Chapter 24: Faerie Dragon -> 24-7](/Main Story/Chapter 24_7/) 
+*    [Chapter 25: Survival of the Fittest -> 25-7](/Main Story/Chapter 25_7/) 
 
 ## This item contains:
 

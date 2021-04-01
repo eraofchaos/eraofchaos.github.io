@@ -2,7 +2,7 @@
 title: "Item - Materials - Epic Gems"
 permalink: /Items/mat_51/
 excerpt: "Era of Chaos  Epic Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_51.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 15 (United Front) -> 15-1 
-*    Chapter 15 (United Front) -> 15-5 
-*    Chapter 15 (United Front) -> 15-11 
+*    Guild Adventure 
+*    [Chapter 15: United Front -> 15-1](/Main Story/Chapter 15_1/) 
+*    [Chapter 15: United Front -> 15-5](/Main Story/Chapter 15_5/) 
+*    [Chapter 15: United Front -> 15-11](/Main Story/Chapter 15_11/) 
 
 ## This item contains:
 

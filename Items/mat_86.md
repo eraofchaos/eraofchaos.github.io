@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Gems"
 permalink: /Items/mat_86/
 excerpt: "Era of Chaos  Soul Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_86.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 24 (Faerie Dragon) -> 24-1 
-*    Chapter 24 (Faerie Dragon) -> 24-5 
-*    Chapter 24 (Faerie Dragon) -> 24-11 
+*    Guild Adventure 
+*    [Chapter 24: Faerie Dragon -> 24-1](/Main Story/Chapter 24_1/) 
+*    [Chapter 24: Faerie Dragon -> 24-5](/Main Story/Chapter 24_5/) 
+*    [Chapter 24: Faerie Dragon -> 24-11](/Main Story/Chapter 24_11/) 
 
 ## This item contains:
 

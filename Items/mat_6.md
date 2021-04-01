@@ -2,7 +2,7 @@
 title: "Item - Materials - Common Ore"
 permalink: /Items/mat_6/
 excerpt: "Era of Chaos  Common Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_6.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 2 (Return of the Queen) -> 2-2 
-*    Chapter 2 (Return of the Queen) -> 2-6 
-*    Chapter 2 (Return of the Queen) -> 2-10 
+*    Guild Adventure 
+*    [Chapter 2: Return of the Queen -> 2-2](/Main Story/Chapter 2_2/) 
+*    [Chapter 2: Return of the Queen -> 2-6](/Main Story/Chapter 2_6/) 
+*    [Chapter 2: Return of the Queen -> 2-10](/Main Story/Chapter 2_10/) 
 
 ## This item contains:
 

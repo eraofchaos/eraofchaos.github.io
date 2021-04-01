@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Sulfur"
 permalink: /Items/mat_99/
 excerpt: "Era of Chaos  Radiant Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_99.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 27 (Dragon Father's Blood) -> 27-4 
-*    Chapter 27 (Dragon Father's Blood) -> 27-10 
-*    Chapter 27 (Dragon Father's Blood) -> 27-13 
+*    Guild Adventure 
+*    [Chapter 27: Dragon Father's Blood -> 27-4](/Main Story/Chapter 27_4/) 
+*    [Chapter 27: Dragon Father's Blood -> 27-10](/Main Story/Chapter 27_10/) 
+*    [Chapter 27: Dragon Father's Blood -> 27-13](/Main Story/Chapter 27_13/) 
 
 ## This item contains:
 

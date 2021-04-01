@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Wood"
 permalink: /Items/mat_97/
 excerpt: "Era of Chaos  Radiant Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_97.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 27 (Dragon Father's Blood) -> 27-2 
-*    Chapter 27 (Dragon Father's Blood) -> 27-8 
+*    Guild Adventure 
+*    [Chapter 27: Dragon Father's Blood -> 27-2](/Main Story/Chapter 27_2/) 
+*    [Chapter 27: Dragon Father's Blood -> 27-8](/Main Story/Chapter 27_8/) 
 
 ## This item contains:
 

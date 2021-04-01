@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Wood"
 permalink: /Items/mat_90/
 excerpt: "Era of Chaos  Star Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_90.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 26 (Extend Lead) -> 26-2 
-*    Chapter 26 (Extend Lead) -> 26-8 
+*    Guild Adventure 
+*    [Chapter 26: Extend Lead -> 26-2](/Main Story/Chapter 26_2/) 
+*    [Chapter 26: Extend Lead -> 26-8](/Main Story/Chapter 26_8/) 
 
 ## This item contains:
 

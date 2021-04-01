@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Wood"
 permalink: /Items/mat_55/
 excerpt: "Era of Chaos  Legendary Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_55.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 16 (For King and Country) -> 16-2 
-*    Chapter 16 (For King and Country) -> 16-5 
-*    Chapter 16 (For King and Country) -> 16-8 
+*    Guild Adventure 
+*    [Chapter 16: For King and Country -> 16-2](/Main Story/Chapter 16_2/) 
+*    [Chapter 16: For King and Country -> 16-5](/Main Story/Chapter 16_5/) 
+*    [Chapter 16: For King and Country -> 16-8](/Main Story/Chapter 16_8/) 
 
 ## This item contains:
 

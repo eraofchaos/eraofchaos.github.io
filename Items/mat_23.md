@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Gems"
 permalink: /Items/mat_23/
 excerpt: "Era of Chaos  Superior Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_23.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 7 (Erathia) -> 7-1 
-*    Chapter 7 (Erathia) -> 7-5 
-*    Chapter 7 (Erathia) -> 7-11 
+*    Guild Adventure 
+*    [Chapter 7: Erathia -> 7-1](/Main Story/Chapter 7_1/) 
+*    [Chapter 7: Erathia -> 7-5](/Main Story/Chapter 7_5/) 
+*    [Chapter 7: Erathia -> 7-11](/Main Story/Chapter 7_11/) 
 
 ## This item contains:
 

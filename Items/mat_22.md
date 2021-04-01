@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Sulfur"
 permalink: /Items/mat_22/
 excerpt: "Era of Chaos  Superior Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_22.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 6 (Breaking Ground) -> 6-10 
-*    Chapter 6 (Breaking Ground) -> 6-14 
-*    Chapter 7 (Erathia) -> 7-4 
+*    Guild Adventure 
+*    [Chapter 6: Breaking Ground -> 6-10](/Main Story/Chapter 6_10/) 
+*    [Chapter 6: Breaking Ground -> 6-14](/Main Story/Chapter 6_14/) 
+*    [Chapter 7: Erathia -> 7-4](/Main Story/Chapter 7_4/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Wood"
 permalink: /Items/mat_13/
 excerpt: "Era of Chaos  Good Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_13.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 4 (Griffin Cliffs) -> 4-2 
-*    Chapter 4 (Griffin Cliffs) -> 4-5 
-*    Chapter 4 (Griffin Cliffs) -> 4-8 
+*    Guild Adventure 
+*    [Chapter 4: Griffin Cliffs -> 4-2](/Main Story/Chapter 4_2/) 
+*    [Chapter 4: Griffin Cliffs -> 4-5](/Main Story/Chapter 4_5/) 
+*    [Chapter 4: Griffin Cliffs -> 4-8](/Main Story/Chapter 4_8/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Certificate of Legend"
 permalink: /Items/mat_88/
 excerpt: "Era of Chaos  Certificate of Legend"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_88.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Guild Adventure 
 *    Chapter - The Road Home 
 *    Chapter - Independence 
 *    Chapter - Elemental Tide 

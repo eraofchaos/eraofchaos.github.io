@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Wood"
 permalink: /Items/mat_83/
 excerpt: "Era of Chaos  Soul Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_83.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 24 (Faerie Dragon) -> 24-2 
-*    Chapter 24 (Faerie Dragon) -> 24-8 
-*    Chapter 25 (Survival of the Fittest) -> 25-2 
+*    Guild Adventure 
+*    [Chapter 24: Faerie Dragon -> 24-2](/Main Story/Chapter 24_2/) 
+*    [Chapter 24: Faerie Dragon -> 24-8](/Main Story/Chapter 24_8/) 
+*    [Chapter 25: Survival of the Fittest -> 25-2](/Main Story/Chapter 25_2/) 
 
 ## This item contains:
 

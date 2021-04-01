@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Gems"
 permalink: /Items/mat_65/
 excerpt: "Era of Chaos  Mythical Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_65.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 19 (Neutral Ground) -> 19-1 
-*    Chapter 19 (Neutral Ground) -> 19-5 
-*    Chapter 19 (Neutral Ground) -> 19-11 
+*    Guild Adventure 
+*    [Chapter 19: Neutral Ground -> 19-1](/Main Story/Chapter 19_1/) 
+*    [Chapter 19: Neutral Ground -> 19-5](/Main Story/Chapter 19_5/) 
+*    [Chapter 19: Neutral Ground -> 19-11](/Main Story/Chapter 19_11/) 
 
 ## This item contains:
 

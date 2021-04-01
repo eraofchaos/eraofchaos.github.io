@@ -2,7 +2,7 @@
 title: "Item - Materials - Exceptional Mercury"
 permalink: /Items/mat_35/
 excerpt: "Era of Chaos  Exceptional Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_35.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 10 (Marshland) -> 10-3 
-*    Chapter 10 (Marshland) -> 10-6 
-*    Chapter 10 (Marshland) -> 10-9 
+*    Guild Adventure 
+*    [Chapter 10: Marshland -> 10-3](/Main Story/Chapter 10_3/) 
+*    [Chapter 10: Marshland -> 10-6](/Main Story/Chapter 10_6/) 
+*    [Chapter 10: Marshland -> 10-9](/Main Story/Chapter 10_9/) 
 
 ## This item contains:
 

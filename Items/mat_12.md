@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Ore"
 permalink: /Items/mat_12/
 excerpt: "Era of Chaos  Good Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_12.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 4 (Griffin Cliffs) -> 4-1 
-*    Chapter 4 (Griffin Cliffs) -> 4-4 
-*    Chapter 4 (Griffin Cliffs) -> 4-7 
+*    Guild Adventure 
+*    [Chapter 4: Griffin Cliffs -> 4-1](/Main Story/Chapter 4_1/) 
+*    [Chapter 4: Griffin Cliffs -> 4-4](/Main Story/Chapter 4_4/) 
+*    [Chapter 4: Griffin Cliffs -> 4-7](/Main Story/Chapter 4_7/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Book of Essences"
 permalink: /Items/mat_46/
 excerpt: "Era of Chaos  Book of Essences"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_46.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Guild Adventure 
 *    Chapter - Gryphonheart 
 *    Chapter - Harvest Season 
 *    Chapter - Corporal Punishment 

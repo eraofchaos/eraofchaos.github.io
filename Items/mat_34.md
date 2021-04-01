@@ -2,7 +2,7 @@
 title: "Item - Materials - Exceptional Wood"
 permalink: /Items/mat_34/
 excerpt: "Era of Chaos  Exceptional Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_34.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 10 (Marshland) -> 10-2 
-*    Chapter 10 (Marshland) -> 10-5 
-*    Chapter 10 (Marshland) -> 10-8 
+*    Guild Adventure 
+*    [Chapter 10: Marshland -> 10-2](/Main Story/Chapter 10_2/) 
+*    [Chapter 10: Marshland -> 10-5](/Main Story/Chapter 10_5/) 
+*    [Chapter 10: Marshland -> 10-8](/Main Story/Chapter 10_8/) 
 
 ## This item contains:
 

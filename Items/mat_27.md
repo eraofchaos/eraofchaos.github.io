@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Wood"
 permalink: /Items/mat_27/
 excerpt: "Era of Chaos  Valuable Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_27.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 8 (Borderlands) -> 8-2 
-*    Chapter 8 (Borderlands) -> 8-5 
-*    Chapter 8 (Borderlands) -> 8-8 
+*    Guild Adventure 
+*    [Chapter 8: Borderlands -> 8-2](/Main Story/Chapter 8_2/) 
+*    [Chapter 8: Borderlands -> 8-5](/Main Story/Chapter 8_5/) 
+*    [Chapter 8: Borderlands -> 8-8](/Main Story/Chapter 8_8/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Mercury"
 permalink: /Items/mat_14/
 excerpt: "Era of Chaos  Good Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_14.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 4 (Griffin Cliffs) -> 4-3 
-*    Chapter 4 (Griffin Cliffs) -> 4-6 
-*    Chapter 4 (Griffin Cliffs) -> 4-9 
+*    Guild Adventure 
+*    [Chapter 4: Griffin Cliffs -> 4-3](/Main Story/Chapter 4_3/) 
+*    [Chapter 4: Griffin Cliffs -> 4-6](/Main Story/Chapter 4_6/) 
+*    [Chapter 4: Griffin Cliffs -> 4-9](/Main Story/Chapter 4_9/) 
 
 ## This item contains:
 

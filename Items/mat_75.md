@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Ore"
 permalink: /Items/mat_75/
 excerpt: "Era of Chaos  Secret Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_75.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 22 (Crystal Dragon) -> 22-7 
-*    Chapter 23 (Rust Dragon) -> 23-7 
+*    Guild Adventure 
+*    [Chapter 22: Crystal Dragon -> 22-7](/Main Story/Chapter 22_7/) 
+*    [Chapter 23: Rust Dragon -> 23-7](/Main Story/Chapter 23_7/) 
 
 ## This item contains:
 

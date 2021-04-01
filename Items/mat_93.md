@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Gems"
 permalink: /Items/mat_93/
 excerpt: "Era of Chaos  Star Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_93.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 26 (Extend Lead) -> 26-1 
-*    Chapter 26 (Extend Lead) -> 26-5 
-*    Chapter 26 (Extend Lead) -> 26-11 
+*    Guild Adventure 
+*    [Chapter 26: Extend Lead -> 26-1](/Main Story/Chapter 26_1/) 
+*    [Chapter 26: Extend Lead -> 26-5](/Main Story/Chapter 26_5/) 
+*    [Chapter 26: Extend Lead -> 26-11](/Main Story/Chapter 26_11/) 
 
 ## This item contains:
 

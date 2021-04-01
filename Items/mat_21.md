@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Mercury"
 permalink: /Items/mat_21/
 excerpt: "Era of Chaos  Superior Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_21.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 6 (Breaking Ground) -> 6-3 
-*    Chapter 6 (Breaking Ground) -> 6-6 
-*    Chapter 6 (Breaking Ground) -> 6-9 
+*    Guild Adventure 
+*    [Chapter 6: Breaking Ground -> 6-3](/Main Story/Chapter 6_3/) 
+*    [Chapter 6: Breaking Ground -> 6-6](/Main Story/Chapter 6_6/) 
+*    [Chapter 6: Breaking Ground -> 6-9](/Main Story/Chapter 6_9/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-4 Aircraft"
 permalink: /Main Story/Chapter 20_4/
 excerpt: "Chapter 20 - 4. Era of Chaos  Main Story - Chapter 20_4. 20-4 Aircraft"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Chapter 20_4.md"
 toc: false

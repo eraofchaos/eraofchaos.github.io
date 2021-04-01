@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Gems"
 permalink: /Items/mat_58/
 excerpt: "Era of Chaos  Legendary Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_58.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 17 (Liberation of the Empire) -> 17-1 
-*    Chapter 17 (Liberation of the Empire) -> 17-5 
-*    Chapter 17 (Liberation of the Empire) -> 17-11 
+*    Guild Adventure 
+*    [Chapter 17: Liberation of the Empire -> 17-1](/Main Story/Chapter 17_1/) 
+*    [Chapter 17: Liberation of the Empire -> 17-5](/Main Story/Chapter 17_5/) 
+*    [Chapter 17: Liberation of the Empire -> 17-11](/Main Story/Chapter 17_11/) 
 
 ## This item contains:
 

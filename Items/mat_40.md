@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Ore"
 permalink: /Items/mat_40/
 excerpt: "Era of Chaos  Rare Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_40.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 12 (Sea of Ice) -> 12-1 
-*    Chapter 12 (Sea of Ice) -> 12-4 
-*    Chapter 12 (Sea of Ice) -> 12-7 
+*    Guild Adventure 
+*    [Chapter 12: Sea of Ice -> 12-1](/Main Story/Chapter 12_1/) 
+*    [Chapter 12: Sea of Ice -> 12-4](/Main Story/Chapter 12_4/) 
+*    [Chapter 12: Sea of Ice -> 12-7](/Main Story/Chapter 12_7/) 
 
 ## This item contains:
 

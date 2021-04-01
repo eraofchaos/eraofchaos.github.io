@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-11 An Angel Descends"
 permalink: /Main Story/Chapter 5_11/
 excerpt: "Chapter 5 - 11. Era of Chaos  Main Story - Chapter 5_11. 5-11 An Angel Descends"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Chapter 5_11.md"
 toc: false

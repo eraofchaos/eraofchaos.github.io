@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Crystal"
 permalink: /Items/mat_45/
 excerpt: "Era of Chaos  Rare Crystal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_45.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 13 (From Day to Night) -> 13-6 
-*    Chapter 13 (From Day to Night) -> 13-12 
-*    Chapter 13 (From Day to Night) -> 13-15 
+*    Guild Adventure 
+*    [Chapter 13: From Day to Night -> 13-6](/Main Story/Chapter 13_6/) 
+*    [Chapter 13: From Day to Night -> 13-12](/Main Story/Chapter 13_12/) 
+*    [Chapter 13: From Day to Night -> 13-15](/Main Story/Chapter 13_15/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Ore"
 permalink: /Items/mat_19/
 excerpt: "Era of Chaos  Superior Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_19.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 6 (Breaking Ground) -> 6-1 
-*    Chapter 6 (Breaking Ground) -> 6-4 
-*    Chapter 6 (Breaking Ground) -> 6-7 
+*    Guild Adventure 
+*    [Chapter 6: Breaking Ground -> 6-1](/Main Story/Chapter 6_1/) 
+*    [Chapter 6: Breaking Ground -> 6-4](/Main Story/Chapter 6_4/) 
+*    [Chapter 6: Breaking Ground -> 6-7](/Main Story/Chapter 6_7/) 
 
 ## This item contains:
 

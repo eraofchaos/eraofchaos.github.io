@@ -2,7 +2,7 @@
 title: "Item - Materials - Inferior Wood"
 permalink: /Items/mat_1/
 excerpt: "Era of Chaos  Inferior Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_1.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 1 (Evenmorn Island) -> 1-2 
-*    Chapter 1 (Evenmorn Island) -> 1-3 
-*    Chapter 1 (Evenmorn Island) -> 1-5 
+*    Guild Adventure 
+*    [Chapter 1: Evenmorn Island -> 1-2](/Main Story/Chapter 1_2/) 
+*    [Chapter 1: Evenmorn Island -> 1-3](/Main Story/Chapter 1_3/) 
+*    [Chapter 1: Evenmorn Island -> 1-5](/Main Story/Chapter 1_5/) 
 
 ## This item contains:
 

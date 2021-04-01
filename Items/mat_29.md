@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Sulfur"
 permalink: /Items/mat_29/
 excerpt: "Era of Chaos  Valuable Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_29.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 8 (Borderlands) -> 8-10 
-*    Chapter 8 (Borderlands) -> 8-14 
-*    Chapter 9 (Land of Chaos) -> 9-4 
+*    Guild Adventure 
+*    [Chapter 8: Borderlands -> 8-10](/Main Story/Chapter 8_10/) 
+*    [Chapter 8: Borderlands -> 8-14](/Main Story/Chapter 8_14/) 
+*    [Chapter 9: Land of Chaos -> 9-4](/Main Story/Chapter 9_4/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-3 Mortals' Friendship"
 permalink: /Main Story/Chapter 24_3/
 excerpt: "Chapter 24 - 3. Era of Chaos  Main Story - Chapter 24_3. 24-3 Mortals' Friendship"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Chapter 24_3.md"
 toc: false

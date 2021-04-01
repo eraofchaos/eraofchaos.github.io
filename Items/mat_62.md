@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Wood"
 permalink: /Items/mat_62/
 excerpt: "Era of Chaos  Mythical Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_62.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 18 (Deal with the Devil) -> 18-2 
-*    Chapter 18 (Deal with the Devil) -> 18-5 
-*    Chapter 18 (Deal with the Devil) -> 18-8 
+*    Guild Adventure 
+*    [Chapter 18: Deal with the Devil -> 18-2](/Main Story/Chapter 18_2/) 
+*    [Chapter 18: Deal with the Devil -> 18-5](/Main Story/Chapter 18_5/) 
+*    [Chapter 18: Deal with the Devil -> 18-8](/Main Story/Chapter 18_8/) 
 
 ## This item contains:
 

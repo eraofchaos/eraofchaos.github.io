@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Ore"
 permalink: /Items/mat_68/
 excerpt: "Era of Chaos  Eternal Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_68.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-1 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-4 
-*    Chapter 20 (Tunnels and Troglodytes) -> 20-7 
+*    Guild Adventure 
+*    [Chapter 20: Tunnels and Troglodytes -> 20-1](/Main Story/Chapter 20_1/) 
+*    [Chapter 20: Tunnels and Troglodytes -> 20-4](/Main Story/Chapter 20_4/) 
+*    [Chapter 20: Tunnels and Troglodytes -> 20-7](/Main Story/Chapter 20_7/) 
 
 ## This item contains:
 

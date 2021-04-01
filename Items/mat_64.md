@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Sulfur"
 permalink: /Items/mat_64/
 excerpt: "Era of Chaos  Mythical Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_64.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 18 (Deal with the Devil) -> 18-10 
-*    Chapter 18 (Deal with the Devil) -> 18-14 
+*    Guild Adventure 
+*    [Chapter 18: Deal with the Devil -> 18-10](/Main Story/Chapter 18_10/) 
+*    [Chapter 18: Deal with the Devil -> 18-14](/Main Story/Chapter 18_14/) 
 
 ## This item contains:
 

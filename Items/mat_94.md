@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Crystal"
 permalink: /Items/mat_94/
 excerpt: "Era of Chaos  Star Crystal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_94.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 26 (Extend Lead) -> 26-6 
-*    Chapter 26 (Extend Lead) -> 26-12 
-*    Chapter 26 (Extend Lead) -> 26-15 
+*    Guild Adventure 
+*    [Chapter 26: Extend Lead -> 26-6](/Main Story/Chapter 26_6/) 
+*    [Chapter 26: Extend Lead -> 26-12](/Main Story/Chapter 26_12/) 
+*    [Chapter 26: Extend Lead -> 26-15](/Main Story/Chapter 26_15/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Gems"
 permalink: /Items/mat_79/
 excerpt: "Era of Chaos  Secret Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_79.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 22 (Crystal Dragon) -> 22-1 
-*    Chapter 22 (Crystal Dragon) -> 22-5 
-*    Chapter 22 (Crystal Dragon) -> 22-11 
+*    Guild Adventure 
+*    [Chapter 22: Crystal Dragon -> 22-1](/Main Story/Chapter 22_1/) 
+*    [Chapter 22: Crystal Dragon -> 22-5](/Main Story/Chapter 22_5/) 
+*    [Chapter 22: Crystal Dragon -> 22-11](/Main Story/Chapter 22_11/) 
 
 ## This item contains:
 

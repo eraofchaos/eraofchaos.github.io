@@ -2,7 +2,7 @@
 title: "Item - Materials - Epic Sulfur"
 permalink: /Items/mat_50/
 excerpt: "Era of Chaos  Epic Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_50.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 14 (Safe Passage) -> 14-10 
-*    Chapter 14 (Safe Passage) -> 14-14 
-*    Chapter 15 (United Front) -> 15-4 
+*    Guild Adventure 
+*    [Chapter 14: Safe Passage -> 14-10](/Main Story/Chapter 14_10/) 
+*    [Chapter 14: Safe Passage -> 14-14](/Main Story/Chapter 14_14/) 
+*    [Chapter 15: United Front -> 15-4](/Main Story/Chapter 15_4/) 
 
 ## This item contains:
 

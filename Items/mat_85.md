@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Sulfur"
 permalink: /Items/mat_85/
 excerpt: "Era of Chaos  Soul Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_85.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 24 (Faerie Dragon) -> 24-4 
-*    Chapter 24 (Faerie Dragon) -> 24-10 
-*    Chapter 24 (Faerie Dragon) -> 24-13 
+*    Guild Adventure 
+*    [Chapter 24: Faerie Dragon -> 24-4](/Main Story/Chapter 24_4/) 
+*    [Chapter 24: Faerie Dragon -> 24-10](/Main Story/Chapter 24_10/) 
+*    [Chapter 24: Faerie Dragon -> 24-13](/Main Story/Chapter 24_13/) 
 
 ## This item contains:
 

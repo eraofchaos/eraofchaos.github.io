@@ -2,7 +2,7 @@
 title: "Era of Chaos  Faction Altar for  2021"
 permalink: /FactionAltar/Faction Altar _2021/
 excerpt: "Era of Chaos  Faction Altar for  2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Faction Altar _2021.md"
 toc: false
@@ -21,12 +21,11 @@ classes: wide
 
   |    Date    |  Race  |  Details  |   Drop Souls   | Drop Units |
   |:-----------|:-------|:---------:|:--------------:|:----------:|
-  | 22 Feb - 1 Mar | **Tower** | [Faction Altar Drop Details](/FactionAltar/DROP_106/) | [Gold Golem Soul Stone](/Items/unt_322/), [Arch Mage Soul Stone](/Items/unt_323/), [Naga Queen Soul Stone](/Items/unt_325/), [Titan Soul Stone](/Items/unt_326/) | [Gremlin](/Items/unt_235/), [Stone Gargoyle](/Items/unt_236/), [Iron Golem](/Items/unt_237/), [Mage](/Items/unt_238/), [Naga](/Items/unt_240/), [Giant ](/Items/unt_241/) | 
-  | 1 - 8 Mar | **Conflux** | [Faction Altar Drop Details](/FactionAltar/DROP_109/) | [Thunder Rage Soul Stone](/Items/unt_344/), [Silent Snow Spirit Soul Stone](/Items/unt_345/), [Magic Elemental Soul Stone](/Items/unt_347/), [Phoenix Soul Stone](/Items/unt_348/) | [Sprite](/Items/unt_262/), [Storm Elemental](/Items/unt_263/), [Ice Elemental](/Items/unt_264/), [Psychic Elemental](/Items/unt_267/), [Firebird](/Items/unt_268/), [Leprechaun](/Items/unt_270/) | 
-  | 8 - 15 Mar | **Inferno** | [Faction Altar Drop Details](/FactionAltar/DROP_105/) | [Familiar Soul Stone](/Items/unt_313/), [Magog Soul Stone](/Items/unt_314/), [Pit Lord Soul Stone](/Items/unt_316/), [Efreet Sultan Soul Stone](/Items/unt_317/), [Arch Devil Soul Stone](/Items/unt_318/) | [Imp](/Items/unt_226/), [Gog](/Items/unt_227/), [Hell Hound](/Items/unt_228/), [Demon](/Items/unt_229/), [Pit Fiend](/Items/unt_230/), [Efreeti](/Items/unt_231/), [Devil](/Items/unt_232/) | 
-  | 15 - 22 Mar | **Castle** | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [Halberdier Soul Stone](/Items/unt_282/), [Master Archer Soul Stone](/Items/unt_283/), [Crusader Soul Stone](/Items/unt_285/), [Zealot Soul Stone](/Items/unt_286/), [Champions Knight's Soul Stone](/Items/unt_287/), [Archangel Soul Stone](/Items/unt_288/) | [Pikeman](/Items/unt_190/), [Marksman](/Items/unt_191/), [Griffin](/Items/unt_192/), [Swordsman](/Items/unt_193/), [Monk](/Items/unt_194/), [Cavalier ](/Items/unt_195/), [Angel](/Items/unt_196/), [Paladin](/Items/unt_197/) | 
-  | 22 - 29 Mar | **Fortress** | [Faction Altar Drop Details](/FactionAltar/DROP_108/) | [Chaos Hydra Soul Stone](/Items/unt_341/) | [Gnoll](/Items/unt_253/), [Lizardman](/Items/unt_254/), [Serpent Fly](/Items/unt_255/), [Gorgon](/Items/unt_257/), [Hydra](/Items/unt_259/) | 
   | 29 Mar - 5 Apr | **Dungeon** | [Faction Altar Drop Details](/FactionAltar/DROP_107/) | [Dark Troglodyte Soul Stone](/Items/unt_328/), [Minotaur King Soul Stone](/Items/unt_332/), [Black Dragon King Soul Stone](/Items/unt_334/) | [Troglodyte](/Items/unt_244/), [Harpy](/Items/unt_245/), [Minotaur](/Items/unt_248/), [Black Dragon](/Items/unt_250/), [Red Dragon](/Items/unt_251/) | 
+  | 5 - 12 Apr | **Necropolis** | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [Skeleton Warrior Soul Stone](/Items/unt_297/), [Zombie Soul Stone](/Items/unt_298/), [Vampire Lord Soul Stone](/Items/unt_300/), [Ghost Dragon Soul Stone](/Items/unt_303/) | [Skeleton](/Items/unt_208/), [Walking Dead](/Items/unt_209/), [Wight](/Items/unt_210/), [Vampire](/Items/unt_211/), [Bone Dragon](/Items/unt_214/) | 
+  | 12 - 19 Apr | **Conflux** | [Faction Altar Drop Details](/FactionAltar/DROP_109/) | [Thunder Rage Soul Stone](/Items/unt_344/), [Silent Snow Spirit Soul Stone](/Items/unt_345/), [Magic Elemental Soul Stone](/Items/unt_347/), [Phoenix Soul Stone](/Items/unt_348/) | [Sprite](/Items/unt_262/), [Storm Elemental](/Items/unt_263/), [Ice Elemental](/Items/unt_264/), [Psychic Elemental](/Items/unt_267/), [Firebird](/Items/unt_268/), [Leprechaun](/Items/unt_270/) | 
+  | 19 - 26 Apr | **Stronghold** | [Faction Altar Drop Details](/FactionAltar/DROP_103/) | [Hobgoblin Soul Stone](/Items/unt_305/), [Wolf Raider Soul Stone](/Items/unt_306/), [Orc Commander Soul Stone](/Items/unt_307/), [Ogre Mage Soul Stone](/Items/unt_308/), [Thunderbird Soul Stone](/Items/unt_309/), [Cyclops King Soul Stone](/Items/unt_310/), [Ancient Behemoth Soul Stone](/Items/unt_311/) | [Goblin](/Items/unt_217/), [Wolf Rider](/Items/unt_218/), [Orc](/Items/unt_219/), [Ogre](/Items/unt_220/), [Roc](/Items/unt_221/), [Cyclops](/Items/unt_222/), [Behemoth](/Items/unt_223/), [Berserker](/Items/unt_224/) | 
+  | 26 Apr - 3 May | **Cove** | [Faction Altar Drop Details](/FactionAltar/DROP_112/) |  - | [Regnan Pirates](/Items/unt_273/), [Regnan Archer](/Items/unt_274/), [Sea Elemental](/Items/unt_275/), [Dragon Turtle](/Items/unt_278/), [Shark Trainer](/Items/unt_281/) | 
 
 
 

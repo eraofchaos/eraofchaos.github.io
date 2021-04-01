@@ -2,7 +2,7 @@
 title: "Item - Materials - Book of Arms"
 permalink: /Items/mat_25/
 excerpt: "Era of Chaos  Book of Arms"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_25.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Guild Adventure 
 *    Chapter - A Devilish Plan 
 *    Chapter - Pioneer 
 *    Chapter - Fall of the Capital 

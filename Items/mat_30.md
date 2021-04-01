@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Gems"
 permalink: /Items/mat_30/
 excerpt: "Era of Chaos  Valuable Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_30.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 9 (Land of Chaos) -> 9-1 
-*    Chapter 9 (Land of Chaos) -> 9-5 
-*    Chapter 9 (Land of Chaos) -> 9-11 
+*    Guild Adventure 
+*    [Chapter 9: Land of Chaos -> 9-1](/Main Story/Chapter 9_1/) 
+*    [Chapter 9: Land of Chaos -> 9-5](/Main Story/Chapter 9_5/) 
+*    [Chapter 9: Land of Chaos -> 9-11](/Main Story/Chapter 9_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Inferior Gems"
 permalink: /Items/mat_4/
 excerpt: "Era of Chaos  Inferior Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_4.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 1 (Evenmorn Island) -> 1-4 
-*    Chapter 2 (Return of the Queen) -> 2-1 
-*    Chapter 3 (Guardian Angel) -> 3-6 
+*    Guild Adventure 
+*    [Chapter 1: Evenmorn Island -> 1-4](/Main Story/Chapter 1_4/) 
+*    [Chapter 2: Return of the Queen -> 2-1](/Main Story/Chapter 2_1/) 
+*    [Chapter 3: Guardian Angel -> 3-6](/Main Story/Chapter 3_6/) 
 
 ## This item contains:
 

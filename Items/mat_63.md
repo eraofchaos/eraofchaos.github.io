@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Mercury"
 permalink: /Items/mat_63/
 excerpt: "Era of Chaos  Mythical Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_63.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 18 (Deal with the Devil) -> 18-3 
-*    Chapter 18 (Deal with the Devil) -> 18-6 
-*    Chapter 18 (Deal with the Devil) -> 18-9 
+*    Guild Adventure 
+*    [Chapter 18: Deal with the Devil -> 18-3](/Main Story/Chapter 18_3/) 
+*    [Chapter 18: Deal with the Devil -> 18-6](/Main Story/Chapter 18_6/) 
+*    [Chapter 18: Deal with the Devil -> 18-9](/Main Story/Chapter 18_9/) 
 
 ## This item contains:
 

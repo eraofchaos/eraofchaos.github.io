@@ -2,7 +2,7 @@
 title: "Item - Materials - Radiant Mercury"
 permalink: /Items/mat_98/
 excerpt: "Era of Chaos  Radiant Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_98.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 27 (Dragon Father's Blood) -> 27-3 
-*    Chapter 27 (Dragon Father's Blood) -> 27-9 
+*    Guild Adventure 
+*    [Chapter 27: Dragon Father's Blood -> 27-3](/Main Story/Chapter 27_3/) 
+*    [Chapter 27: Dragon Father's Blood -> 27-9](/Main Story/Chapter 27_9/) 
 
 ## This item contains:
 

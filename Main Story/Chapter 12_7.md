@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-7 Dislodging the Enemy"
 permalink: /Main Story/Chapter 12_7/
 excerpt: "Chapter 12 - 7. Era of Chaos  Main Story - Chapter 12_7. 12-7 Dislodging the Enemy"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Chapter 12_7.md"
 toc: false

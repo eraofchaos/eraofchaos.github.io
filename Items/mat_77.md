@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Mercury"
 permalink: /Items/mat_77/
 excerpt: "Era of Chaos  Secret Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_77.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 22 (Crystal Dragon) -> 22-3 
-*    Chapter 22 (Crystal Dragon) -> 22-9 
-*    Chapter 23 (Rust Dragon) -> 23-3 
+*    Guild Adventure 
+*    [Chapter 22: Crystal Dragon -> 22-3](/Main Story/Chapter 22_3/) 
+*    [Chapter 22: Crystal Dragon -> 22-9](/Main Story/Chapter 22_9/) 
+*    [Chapter 23: Rust Dragon -> 23-3](/Main Story/Chapter 23_3/) 
 
 ## This item contains:
 

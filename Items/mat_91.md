@@ -2,7 +2,7 @@
 title: "Item - Materials - Star Mercury"
 permalink: /Items/mat_91/
 excerpt: "Era of Chaos  Star Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_91.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 26 (Extend Lead) -> 26-3 
-*    Chapter 26 (Extend Lead) -> 26-9 
+*    Guild Adventure 
+*    [Chapter 26: Extend Lead -> 26-3](/Main Story/Chapter 26_3/) 
+*    [Chapter 26: Extend Lead -> 26-9](/Main Story/Chapter 26_9/) 
 
 ## This item contains:
 

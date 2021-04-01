@@ -2,7 +2,7 @@
 title: "Item - Materials - Valuable Crystal"
 permalink: /Items/mat_31/
 excerpt: "Era of Chaos  Valuable Crystal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_31.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 9 (Land of Chaos) -> 9-6 
-*    Chapter 9 (Land of Chaos) -> 9-12 
-*    Chapter 9 (Land of Chaos) -> 9-15 
+*    Guild Adventure 
+*    [Chapter 9: Land of Chaos -> 9-6](/Main Story/Chapter 9_6/) 
+*    [Chapter 9: Land of Chaos -> 9-12](/Main Story/Chapter 9_12/) 
+*    [Chapter 9: Land of Chaos -> 9-15](/Main Story/Chapter 9_15/) 
 
 ## This item contains:
 

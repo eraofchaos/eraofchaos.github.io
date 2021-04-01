@@ -2,7 +2,7 @@
 title: "Item - Materials - Inferior Mercury"
 permalink: /Items/mat_2/
 excerpt: "Era of Chaos  Inferior Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_2.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 1 (Evenmorn Island) -> 1-1 
-*    Chapter 1 (Evenmorn Island) -> 1-3 
-*    Chapter 2 (Return of the Queen) -> 2-3 
+*    Guild Adventure 
+*    [Chapter 1: Evenmorn Island -> 1-1](/Main Story/Chapter 1_1/) 
+*    [Chapter 1: Evenmorn Island -> 1-3](/Main Story/Chapter 1_3/) 
+*    [Chapter 2: Return of the Queen -> 2-3](/Main Story/Chapter 2_3/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Wood"
 permalink: /Items/mat_76/
 excerpt: "Era of Chaos  Secret Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_76.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 22 (Crystal Dragon) -> 22-2 
-*    Chapter 22 (Crystal Dragon) -> 22-8 
-*    Chapter 23 (Rust Dragon) -> 23-2 
+*    Guild Adventure 
+*    [Chapter 22: Crystal Dragon -> 22-2](/Main Story/Chapter 22_2/) 
+*    [Chapter 22: Crystal Dragon -> 22-8](/Main Story/Chapter 22_8/) 
+*    [Chapter 23: Rust Dragon -> 23-2](/Main Story/Chapter 23_2/) 
 
 ## This item contains:
 

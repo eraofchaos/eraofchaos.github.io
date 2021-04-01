@@ -2,7 +2,7 @@
 title: "Item - Materials - Eternal Gems"
 permalink: /Items/mat_72/
 excerpt: "Era of Chaos  Eternal Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_72.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 21 (The Grail) -> 21-1 
-*    Chapter 21 (The Grail) -> 21-5 
-*    Chapter 21 (The Grail) -> 21-11 
+*    Guild Adventure 
+*    [Chapter 21: The Grail -> 21-1](/Main Story/Chapter 21_1/) 
+*    [Chapter 21: The Grail -> 21-5](/Main Story/Chapter 21_5/) 
+*    [Chapter 21: The Grail -> 21-11](/Main Story/Chapter 21_11/) 
 
 ## This item contains:
 

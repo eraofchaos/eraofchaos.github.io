@@ -2,7 +2,7 @@
 title: "Item - Materials - Secret Crystal"
 permalink: /Items/mat_80/
 excerpt: "Era of Chaos  Secret Crystal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_80.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 22 (Crystal Dragon) -> 22-6 
-*    Chapter 22 (Crystal Dragon) -> 22-12 
-*    Chapter 22 (Crystal Dragon) -> 22-15 
+*    Guild Adventure 
+*    [Chapter 22: Crystal Dragon -> 22-6](/Main Story/Chapter 22_6/) 
+*    [Chapter 22: Crystal Dragon -> 22-12](/Main Story/Chapter 22_12/) 
+*    [Chapter 22: Crystal Dragon -> 22-15](/Main Story/Chapter 22_15/) 
 
 ## This item contains:
 

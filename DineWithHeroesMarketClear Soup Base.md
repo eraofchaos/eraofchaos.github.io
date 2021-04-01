@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Market - Clear Soup Base"
 permalink: /DineWithHeroesMarket Clear Soup Base.html
 excerpt: "Dine with Heroes - Market - Clear Soup Base. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "DineWithHeroesMarketClear Soup Base.html"
 toc: true

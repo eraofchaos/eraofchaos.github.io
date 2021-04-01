@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Gems"
 permalink: /Items/mat_44/
 excerpt: "Era of Chaos  Rare Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_44.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 13 (From Day to Night) -> 13-1 
-*    Chapter 13 (From Day to Night) -> 13-5 
-*    Chapter 13 (From Day to Night) -> 13-11 
+*    Guild Adventure 
+*    [Chapter 13: From Day to Night -> 13-1](/Main Story/Chapter 13_1/) 
+*    [Chapter 13: From Day to Night -> 13-5](/Main Story/Chapter 13_5/) 
+*    [Chapter 13: From Day to Night -> 13-11](/Main Story/Chapter 13_11/) 
 
 ## This item contains:
 

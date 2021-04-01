@@ -2,7 +2,7 @@
 title: "Item - Materials - Mythical Crystal"
 permalink: /Items/mat_66/
 excerpt: "Era of Chaos  Mythical Crystal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_66.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 19 (Neutral Ground) -> 19-6 
-*    Chapter 19 (Neutral Ground) -> 19-12 
-*    Chapter 19 (Neutral Ground) -> 19-15 
+*    Guild Adventure 
+*    [Chapter 19: Neutral Ground -> 19-6](/Main Story/Chapter 19_6/) 
+*    [Chapter 19: Neutral Ground -> 19-12](/Main Story/Chapter 19_12/) 
+*    [Chapter 19: Neutral Ground -> 19-15](/Main Story/Chapter 19_15/) 
 
 ## This item contains:
 

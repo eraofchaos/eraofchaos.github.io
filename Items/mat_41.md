@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Wood"
 permalink: /Items/mat_41/
 excerpt: "Era of Chaos  Rare Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_41.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 12 (Sea of Ice) -> 12-2 
-*    Chapter 12 (Sea of Ice) -> 12-5 
-*    Chapter 12 (Sea of Ice) -> 12-8 
+*    Guild Adventure 
+*    [Chapter 12: Sea of Ice -> 12-2](/Main Story/Chapter 12_2/) 
+*    [Chapter 12: Sea of Ice -> 12-5](/Main Story/Chapter 12_5/) 
+*    [Chapter 12: Sea of Ice -> 12-8](/Main Story/Chapter 12_8/) 
 
 ## This item contains:
 

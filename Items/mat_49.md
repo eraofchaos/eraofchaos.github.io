@@ -2,7 +2,7 @@
 title: "Item - Materials - Epic Mercury"
 permalink: /Items/mat_49/
 excerpt: "Era of Chaos  Epic Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_49.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 14 (Safe Passage) -> 14-3 
-*    Chapter 14 (Safe Passage) -> 14-6 
-*    Chapter 14 (Safe Passage) -> 14-9 
+*    Guild Adventure 
+*    [Chapter 14: Safe Passage -> 14-3](/Main Story/Chapter 14_3/) 
+*    [Chapter 14: Safe Passage -> 14-6](/Main Story/Chapter 14_6/) 
+*    [Chapter 14: Safe Passage -> 14-9](/Main Story/Chapter 14_9/) 
 
 ## This item contains:
 

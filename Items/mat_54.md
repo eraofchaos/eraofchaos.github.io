@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Ore"
 permalink: /Items/mat_54/
 excerpt: "Era of Chaos  Legendary Ore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_54.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 16 (For King and Country) -> 16-1 
-*    Chapter 16 (For King and Country) -> 16-4 
-*    Chapter 16 (For King and Country) -> 16-7 
+*    Guild Adventure 
+*    [Chapter 16: For King and Country -> 16-1](/Main Story/Chapter 16_1/) 
+*    [Chapter 16: For King and Country -> 16-4](/Main Story/Chapter 16_4/) 
+*    [Chapter 16: For King and Country -> 16-7](/Main Story/Chapter 16_7/) 
 
 ## This item contains:
 

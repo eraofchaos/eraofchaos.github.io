@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Mercury"
 permalink: /Items/mat_56/
 excerpt: "Era of Chaos  Legendary Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_56.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 16 (For King and Country) -> 16-3 
-*    Chapter 16 (For King and Country) -> 16-6 
-*    Chapter 16 (For King and Country) -> 16-9 
+*    Guild Adventure 
+*    [Chapter 16: For King and Country -> 16-3](/Main Story/Chapter 16_3/) 
+*    [Chapter 16: For King and Country -> 16-6](/Main Story/Chapter 16_6/) 
+*    [Chapter 16: For King and Country -> 16-9](/Main Story/Chapter 16_9/) 
 
 ## This item contains:
 

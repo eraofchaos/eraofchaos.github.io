@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Gems"
 permalink: /Items/mat_16/
 excerpt: "Era of Chaos  Good Gems"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_16.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 5 (Byrds) -> 5-1 
-*    Chapter 5 (Byrds) -> 5-5 
-*    Chapter 5 (Byrds) -> 5-11 
+*    Guild Adventure 
+*    [Chapter 5: Byrds -> 5-1](/Main Story/Chapter 5_1/) 
+*    [Chapter 5: Byrds -> 5-5](/Main Story/Chapter 5_5/) 
+*    [Chapter 5: Byrds -> 5-11](/Main Story/Chapter 5_11/) 
 
 ## This item contains:
 

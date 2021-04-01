@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-4 Dark Vision"
 permalink: /Main Story/Chapter 27_4/
 excerpt: "Chapter 27 - 4. Era of Chaos  Main Story - Chapter 27_4. 27-4 Dark Vision"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Chapter 27_4.md"
 toc: false

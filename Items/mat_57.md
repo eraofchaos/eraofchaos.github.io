@@ -2,7 +2,7 @@
 title: "Item - Materials - Legendary Sulfur"
 permalink: /Items/mat_57/
 excerpt: "Era of Chaos  Legendary Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_57.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 16 (For King and Country) -> 16-10 
-*    Chapter 16 (For King and Country) -> 16-14 
-*    Chapter 17 (Liberation of the Empire) -> 17-4 
+*    Guild Adventure 
+*    [Chapter 16: For King and Country -> 16-10](/Main Story/Chapter 16_10/) 
+*    [Chapter 16: For King and Country -> 16-14](/Main Story/Chapter 16_14/) 
+*    [Chapter 17: Liberation of the Empire -> 17-4](/Main Story/Chapter 17_4/) 
 
 ## This item contains:
 

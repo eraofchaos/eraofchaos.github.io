@@ -2,7 +2,7 @@
 title: "Item - Materials - Rare Sulfur"
 permalink: /Items/mat_43/
 excerpt: "Era of Chaos  Rare Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_43.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 12 (Sea of Ice) -> 12-10 
-*    Chapter 12 (Sea of Ice) -> 12-14 
-*    Chapter 13 (From Day to Night) -> 13-4 
+*    Guild Adventure 
+*    [Chapter 12: Sea of Ice -> 12-10](/Main Story/Chapter 12_10/) 
+*    [Chapter 12: Sea of Ice -> 12-14](/Main Story/Chapter 12_14/) 
+*    [Chapter 13: From Day to Night -> 13-4](/Main Story/Chapter 13_4/) 
 
 ## This item contains:
 

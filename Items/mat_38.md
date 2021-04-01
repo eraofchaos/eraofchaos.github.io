@@ -2,7 +2,7 @@
 title: "Item - Materials - Exceptional Crystal"
 permalink: /Items/mat_38/
 excerpt: "Era of Chaos  Exceptional Crystal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_38.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 11 (Tatalia) -> 11-6 
-*    Chapter 11 (Tatalia) -> 11-12 
-*    Chapter 11 (Tatalia) -> 11-15 
+*    Guild Adventure 
+*    [Chapter 11: Tatalia -> 11-6](/Main Story/Chapter 11_6/) 
+*    [Chapter 11: Tatalia -> 11-12](/Main Story/Chapter 11_12/) 
+*    [Chapter 11: Tatalia -> 11-15](/Main Story/Chapter 11_15/) 
 
 ## This item contains:
 

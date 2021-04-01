@@ -2,7 +2,7 @@
 title: "Item - Materials - Soul Mercury"
 permalink: /Items/mat_84/
 excerpt: "Era of Chaos  Soul Mercury"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_84.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 24 (Faerie Dragon) -> 24-3 
-*    Chapter 24 (Faerie Dragon) -> 24-9 
-*    Chapter 25 (Survival of the Fittest) -> 25-3 
+*    Guild Adventure 
+*    [Chapter 24: Faerie Dragon -> 24-3](/Main Story/Chapter 24_3/) 
+*    [Chapter 24: Faerie Dragon -> 24-9](/Main Story/Chapter 24_9/) 
+*    [Chapter 25: Survival of the Fittest -> 25-3](/Main Story/Chapter 25_3/) 
 
 ## This item contains:
 

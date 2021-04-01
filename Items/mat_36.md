@@ -2,7 +2,7 @@
 title: "Item - Materials - Exceptional Sulfur"
 permalink: /Items/mat_36/
 excerpt: "Era of Chaos  Exceptional Sulfur"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_36.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 10 (Marshland) -> 10-10 
-*    Chapter 10 (Marshland) -> 10-14 
-*    Chapter 11 (Tatalia) -> 11-4 
+*    Guild Adventure 
+*    [Chapter 10: Marshland -> 10-10](/Main Story/Chapter 10_10/) 
+*    [Chapter 10: Marshland -> 10-14](/Main Story/Chapter 10_14/) 
+*    [Chapter 11: Tatalia -> 11-4](/Main Story/Chapter 11_4/) 
 
 ## This item contains:
 

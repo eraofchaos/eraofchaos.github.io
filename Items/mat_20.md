@@ -2,7 +2,7 @@
 title: "Item - Materials - Superior Wood"
 permalink: /Items/mat_20/
 excerpt: "Era of Chaos  Superior Wood"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "mat_20.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Chapter 6 (Breaking Ground) -> 6-2 
-*    Chapter 6 (Breaking Ground) -> 6-5 
-*    Chapter 6 (Breaking Ground) -> 6-8 
+*    Guild Adventure 
+*    [Chapter 6: Breaking Ground -> 6-2](/Main Story/Chapter 6_2/) 
+*    [Chapter 6: Breaking Ground -> 6-5](/Main Story/Chapter 6_5/) 
+*    [Chapter 6: Breaking Ground -> 6-8](/Main Story/Chapter 6_8/) 
 
 ## This item contains:
 
