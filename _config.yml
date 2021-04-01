@@ -20,7 +20,7 @@ description: "Era of Chaos Wiki portal: Units, Heroes, Artifacts, Events and mor
 keywords:           EraOfChaos Units Heroes Artifacts Events HeroesMightAndMagicMobile
 language:           "en" 
 url:                "https://eraofchaos.github.io"
-logo: "/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
+logo: "/images/HMM_EraOfChaos_Wiki_Logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
 
@@ -82,7 +82,7 @@ analytics:
 
 author:
   name   : "MisterX"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/images/bio-photo.jpg"
   bio    : "Camel is Horse designed by committee"
   links:
     - label: "Website"

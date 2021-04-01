@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-![image-center](/assets/images/newBattleFormation.jpg){: .align-center}
+![image-center](/images/newBattleFormation.jpg){: .align-center}
 
   Each faction has distinct potentials and energy. Light up the exclusive Battle Formation to activate your latent power.
 

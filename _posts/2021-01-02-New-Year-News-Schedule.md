@@ -10,7 +10,7 @@ tags:
 ---
 
 {% capture notice-update20210102 %}
-![image-center](https://eraofchaos.github.io/assets/images/xmass2021.jpg){: .align-center}
+![image-center](https://eraofchaos.github.io/images/xmass2021.jpg){: .align-center}
 {% endcapture %}
 
 <div class="notice--danger">

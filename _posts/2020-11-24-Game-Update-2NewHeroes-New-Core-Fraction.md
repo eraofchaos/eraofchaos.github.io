@@ -27,7 +27,7 @@ Congratulation with new game update (24.11.2020)
 
 
 ## New Fraction Cove
-![image-center](/assets/images/units/newunits.png){: .align-center}
+![image-center](/images/newunits.png){: .align-center}
 <i class="fab fa-optin-monster"/> [New COVE fraction](/units/Fraction Cove/)
 
 | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |    Art     |

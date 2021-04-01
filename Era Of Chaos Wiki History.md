@@ -341,7 +341,7 @@ Each item contains section **Gather** from where You can get it and **This item 
 </div>
 
 {% capture notice-update20201224 %}
-![image-center](/assets/images/xmass2021.jpg){: .align-center}
+![image-center](/images/xmass2021.jpg){: .align-center}
 In our perfect ways. In the ways we are **players**. In the ways we are **Era Of Chaos** fun. We are here. **Happy New 2021 Year**. Lets make it ours.
 {% endcapture %}
 
