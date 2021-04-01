@@ -44,8 +44,8 @@ classes: wide
   | 30 | [68 Diamond Pack](/Items/con_735/){: .btn .btn--era2} | EXP | A package of 68 diamonds! |
   | 31 | [68 Upgrade Box](/Items/con_732/){: .btn .btn--era3} | Gift | A treasure chest containing 68 upgrade stones. |
   | 32 | [8,300 Candy Pumpkins](/Items/con_1826/){: .btn .btn--era4} | Gift | Grants 8,300 Candy Pumpkins and 250 diamonds. |
-  | 33 | [Activity value](/Items/con_901/){: .btn .btn--era4} | Unknown | You can increase your activity levels by completing Daily Missions. |
-  | 34 | [Adelaide Avatar](/Items/con_581/){: .btn .btn--era5} | Unknown | Use it to receive the Adelaide Avatar |
+  | 33 | [Activity value](/Items/con_901/){: .btn .btn--era4} | VIP related | You can increase your activity levels by completing Daily Missions. |
+  | 34 | [Adelaide Avatar](/Items/con_581/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Adelaide Avatar |
   | 35 | [Advanced Book of Essences](/Items/con_1121/){: .btn .btn--era4} | Gift | A mysterious book of secrets. Contains secrets of a random advanced unit skill. |
   | 36 | [Advanced Roster Box](/Items/con_775/){: .btn .btn--era3} | Gift | A chest that can be found in some areas of Dragon's Treasures. Open to receive 2 random Roster runes. |
   | 37 | [Adventure Manual](/Items/con_555/){: .btn .btn--era4} | Event related | Obtain by logging in, completing Activity missions, or through purchase. Can be used to access Treasure Hunt Prep. |
@@ -54,7 +54,7 @@ classes: wide
   | 40 | [Amazonian: Kassandra](/Items/con_1819/){: .btn .btn--era4} | Gift | Grants 980 Diamonds and 1 Amazonian: Kassandra Skin. |
   | 41 | [Amazonian: Kassandra Special Offer](/Items/con_1818/){: .btn .btn--era4} | Gift | Grants 680 Diamonds, 1 Amazonian: Kassandra Skin, and 10 Ancient Temple Scrolls. |
   | 42 | [Ancient Behemoth's Soul](/Items/con_2041/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Behemoth's Awakening |
-  | 43 | [Ancient Sea Monster Concept Art Avatar](/Items/con_1103/){: .btn .btn--era5} | Unknown | Use to receive the Ancient Sea Monster Special Effects Avatar. |
+  | 43 | [Ancient Sea Monster Concept Art Avatar](/Items/con_1103/){: .btn .btn--era5} | Hero Avatar | Use to receive the Ancient Sea Monster Special Effects Avatar. |
   | 44 | [Ancient Temple Scroll](/Items/con_697/){: .btn .btn--era4} | Event related | A mysterious scroll from an ancient temple. Only the luckiest can use it to its full potential, refreshing a hero's mastery once for free. |
   | 45 | [Anniversary Celebration Hero Special Offer](/Items/con_1503/){: .btn .btn--era4} | Gift | Use it to get Diamond *6480, Elite Unit Pack *1, Spell Scroll *500 and Temple Scroll *15 |
   | 46 | [Anniversary Celebration Memorial Coins](/Items/con_514/){: .btn .btn--era4} | Event related | The exclusive items during the Anniversary Celebration, used to exchange for event items |
@@ -67,21 +67,21 @@ classes: wide
   | 53 | [Arch Mage's Soul](/Items/con_2053/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Mage's Awakening |
   | 54 | [Archangel's Soul](/Items/con_2018/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Angel's Awakening |
   | 55 | [Archdruid Soul](/Items/con_2026/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Druid's Awakening. |
-  | 56 | [Archmage Adelaide](/Items/con_1024/){: .btn .btn--era5} | Unknown | Use to get a skin: Vori Archmage Adelaide |
+  | 56 | [Archmage Adelaide](/Items/con_1024/){: .btn .btn--era5} | Special Skin | Use to get a skin: Vori Archmage Adelaide |
   | 57 | [Arena Challenge Pass](/Items/con_695/){: .btn .btn--era3} | Event related | Only the luckiest will find this precious item. It allows players to access the Arena once more. |
-  | 58 | [Arena Coin](/Items/con_903/){: .btn .btn--era9} | Unknown | Arena coins can be obtained by fighting in the Arena or through Daily Rewards. |
+  | 58 | [Arena Coin](/Items/con_903/){: .btn .btn--era9} | VIP related | Arena coins can be obtained by fighting in the Arena or through Daily Rewards. |
   | 59 | [Armageddon's Blade Offer](/Items/con_1905/){: .btn .btn--era5} | Gift | Grants 1 Doomsday Component Chest and 3,880 diamonds. |
   | 60 | [Armageddon's Blade Special Offer](/Items/con_1837/){: .btn .btn--era5} | Gift | Grants 1 Doomsday Component Chest and 6,480 diamonds. |
-  | 61 | [Armageddon's Blade: Gelu](/Items/con_1037/){: .btn .btn--era5} | Unknown | Use to get Gelu's Armageddon's Blade skin |
+  | 61 | [Armageddon's Blade: Gelu](/Items/con_1037/){: .btn .btn--era5} | Special Skin | Use to get Gelu's Armageddon's Blade skin |
   | 62 | [Army Supply](/Items/con_1083/){: .btn .btn--era5} | Gift | A reward from Xeron for the Roland's Capture event. You can get random valuable resources from it. |
-  | 63 | [Arrow](/Items/con_890/){: .btn .btn--era4} | Unknown | An arrow commonly used by wood elves. |
+  | 63 | [Arrow](/Items/con_890/){: .btn .btn--era4} | VIP related | An arrow commonly used by wood elves. |
   | 64 | [Artifact Card](/Items/con_1913/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 2 Astro Silver, 100 Heaven-Cast Stones, and 80 diamonds. |
   | 65 | [Artifact Essence](/Items/con_761/){: .btn .btn--era4} | Gift | Use it to receive 1 Artifact Essence, which can be exchanged for various rare items. |
   | 66 | [Artifact Essence Gift Box](/Items/con_764/){: .btn .btn--era4} | Gift | Grants 1 artifact essence. |
   | 67 | [Artifact Special Offer Pack](/Items/con_1434/){: .btn .btn--era5} | Gift | Use it to get Hawkeye Component Chest *1, Titan Component Chest* 1 and Casting Crystal *1 |
-  | 68 | [Artifact essence](/Items/con_905/){: .btn .btn--era5} | Unknown | Artifact essence can be exchanged for artifacts at the Artifact Merchant. |
-  | 69 | [Ash Tyrant avatar](/Items/con_568/){: .btn .btn--era5} | Unknown | Use to receive Rashka's Ash Tyrant skin and avatar |
-  | 70 | [Ash Tyrant: Rashka](/Items/con_1064/){: .btn .btn--era5} | Unknown | Use to get Rashka's Ash Tyrant skin |
+  | 68 | [Artifact essence](/Items/con_905/){: .btn .btn--era5} | VIP related | Artifact essence can be exchanged for artifacts at the Artifact Merchant. |
+  | 69 | [Ash Tyrant avatar](/Items/con_568/){: .btn .btn--era5} | Hero Avatar | Use to receive Rashka's Ash Tyrant skin and avatar |
+  | 70 | [Ash Tyrant: Rashka](/Items/con_1064/){: .btn .btn--era5} | Special Skin | Use to get Rashka's Ash Tyrant skin |
   | 71 | [Astro Package](/Items/con_728/){: .btn .btn--era3} | Gift | A small gift box. It might contain Astro Silver! |
   | 72 | [Astro Silver](/Items/con_969/){: .btn .btn--era5} | Other | A mysterious coin of unknown source said to grant free Astrology silver to the user once. |
   | 73 | [Astro Silver Pack A](/Items/con_1575/){: .btn .btn--era4} | Gift | Buy to get 5 astro silvers. |
@@ -89,7 +89,7 @@ classes: wide
   | 75 | [Astro Silver Pack C](/Items/con_1577/){: .btn .btn--era4} | Gift | Buy to get 10 astro silvers, 1,780 diamonds, and 1,780 VIP EXP. |
   | 76 | [Astrologer Supply Pack](/Items/con_1436/){: .btn .btn--era4} | Gift | Use it to get Astro Silver *5 |
   | 77 | [Astrology Discount Ticket](/Items/con_700/){: .btn .btn--era5} | Gift | A bronze chest containing many treasures. |
-  | 78 | [Asura: Troll Skin](/Items/con_1989/){: .btn .btn--era5} | Unknown | Grants the Asura: Troll skin. |
+  | 78 | [Asura: Troll Skin](/Items/con_1989/){: .btn .btn--era5} | Unit Skin | Grants the Asura: Troll skin. |
   | 79 | [At War Avatar Frame Pack](/Items/con_1525/){: .btn .btn--era5} | Gift | Open it to receive an At War Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
   | 80 | [Attack skill essence](/Items/con_1110/){: .btn .btn--era3} | Unknown | Records the basic secrets of battle. Can be used to improve units' attack. |
   | 81 | [Auto Chess Chest](/Items/con_2007/){: .btn .btn--era5} | Gift | Auto Chess Chests are rewards given to those who have made great achievements in Heroes Auto Chess. |
@@ -102,25 +102,25 @@ classes: wide
   | 88 | [Basic Roster Box](/Items/con_774/){: .btn .btn--era2} | Gift | A chest that can be found anywhere in Dragon's Treasures. Open to receive a random Roster rune. |
   | 89 | [Basic monthly card](/Items/con_884/){: .btn .btn--era4} | Unknown | A mysterious item which produces wealth continuously. Only the luckiest will possess it. |
   | 90 | [Basilisk's Tail Token](/Items/con_994/){: .btn .btn--era4} | WEAPON PIECE | A Basilisk's Tail token from an ancient campaign that can be used for awakening Basilisk's exclusive potential, Basilisk's Tail. |
-  | 91 | [Battle Commander: Mephala](/Items/con_1041/){: .btn .btn--era5} | Unknown | Use to get Mephala's Battle Commander skin |
+  | 91 | [Battle Commander: Mephala](/Items/con_1041/){: .btn .btn--era5} | Special Skin | Use to get Mephala's Battle Commander skin |
   | 92 | [Battle Lord avatar frame](/Items/con_559/) | Gift | Only a real hero can earn this high honor! Unlock the avatar frame: Battle Lord |
-  | 93 | [Battle Mage Yog](/Items/con_1059/){: .btn .btn--era5} | Unknown | Use to get a skin: Battle Mage Yog |
+  | 93 | [Battle Mage Yog](/Items/con_1059/){: .btn .btn--era5} | Special Skin | Use to get a skin: Battle Mage Yog |
   | 94 | [Beijing Mutton Hotpot](/Items/con_1166/){: .btn .btn--era3} | Event related | Mutton is heated over a charcoal flame in an authentic old Beijing copper hotpot, giving it a soft and delicate texture while removing its gamy odor. The boiled mutton is fresh and tender, although this particular pot of food still seems rather raw. |
   | 95 | [Berserker Rage Chest](/Items/con_1537/){: .btn .btn--era5} | Gift | A treasure chest sealed with blood, only the lords having Berserker can open it |
-  | 96 | [Berserker's Axe Special Skin](/Items/con_651/){: .btn .btn--era5} | Unknown | Unlock the skin when Berserker's Axe is awakened. |
+  | 96 | [Berserker's Axe Special Skin](/Items/con_651/){: .btn .btn--era5} | Special Skin | Unlock the skin when Berserker's Axe is awakened. |
   | 97 | [Berserker's Axe Token](/Items/con_983/){: .btn .btn--era5} | WEAPON PIECE | A Berserker's Axe token from an ancient campaign that can be used for awakening Berserker's exclusive potential, Berserker's Axe. |
   | 98 | [Big sack of Gold](/Items/con_715/){: .btn .btn--era4} | EXP | A large sack containing 200,000 gold. |
   | 99 | [Black Awakening Pack](/Items/con_1591/){: .btn .btn--era4} | Gift | Grants 2,680 diamonds, 20 Black Knight Soul Stones, 15 Necropolis roster runes, 15 Charging roster runes, 5 Huge EXP potions, and 2,680 VIP EXP. |
   | 100 | [Black Dragon King's Soul](/Items/con_2064/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Black Dragon's Awakening |
   | 101 | [Black Dragon's Scale Chest](/Items/con_1535/){: .btn .btn--era5} | Gift | Use it to select one from the following: Black Dragon's Scale Weapon Token *1 or Black Dragon's Scale Weapon Token *2 |
-  | 102 | [Black Dragon's Scale Special Skin](/Items/con_661/){: .btn .btn--era5} | Unknown | Unlock the skin when Back Dragon's Scale is awakened |
+  | 102 | [Black Dragon's Scale Special Skin](/Items/con_661/){: .btn .btn--era5} | Special Skin | Unlock the skin when Back Dragon's Scale is awakened |
   | 103 | [Black Dragon's Scale Token](/Items/con_993/){: .btn .btn--era5} | WEAPON PIECE | A Black Dragon's Scale token from an ancient campaign that can be used for awakening Black Dragon's general exclusive potential - Black Dragon's Scale |
   | 104 | [Blade Lord - Naga Skin (2 days)](/Items/con_1013/){: .btn .btn--era5} | Experience Card | Grants access to the Blade Lord - Naga Skin for 2 days. |
   | 105 | [Blade Lord - Naga Skin Avatar (2 days)](/Items/con_1011/){: .btn .btn--era5} | Experience Card | Grants access to the Blade Lord - Naga Skin Avatar for 2 days. |
-  | 106 | [Blade Lord - Naga's Skin](/Items/con_1993/){: .btn .btn--era5} | Unknown | Open to get Blade Lord - Naga's skin. |
+  | 106 | [Blade Lord - Naga's Skin](/Items/con_1993/){: .btn .btn--era5} | Unit Skin | Open to get Blade Lord - Naga's skin. |
   | 107 | [Blaze Mark](/Items/con_948/){: .btn .btn--era4} | Other | A medal dropped in stages of the Roland's Capture event. Can be redeemed for valuable rewards in the event store. |
-  | 108 | [Blood Crystal Dragon: Red Dragon skin](/Items/con_1996/){: .btn .btn--era5} | Unknown | Grants the Blood Crystal Dragon: Red Dragon skin. |
-  | 109 | [Bloodthirsty Spirit Special Skin](/Items/con_650/){: .btn .btn--era5} | Unknown | Unlock the skin when Bloodthirsty Spirit is awakened. |
+  | 108 | [Blood Crystal Dragon: Red Dragon skin](/Items/con_1996/){: .btn .btn--era5} | Unit Skin | Grants the Blood Crystal Dragon: Red Dragon skin. |
+  | 109 | [Bloodthirsty Spirit Special Skin](/Items/con_650/){: .btn .btn--era5} | Special Skin | Unlock the skin when Bloodthirsty Spirit is awakened. |
   | 110 | [Bloodthirsty Spirit Token](/Items/con_982/){: .btn .btn--era5} | WEAPON PIECE | A Bloodthirsty Spirit token from an ancient campaign that can be used for awakening Behemoth's exclusive potential, Bloodthirsty Spirit. |
   | 111 | [Blue +1 Material Chest](/Items/con_1257/){: .btn .btn--era3} | Gift | Receive a random blue +1 equipment-upgrading item. |
   | 112 | [Blue +2 Material Chest](/Items/con_1258/){: .btn .btn--era3} | Gift | Receive a random blue +2 equipment-upgrading item. |
@@ -130,33 +130,33 @@ classes: wide
   | 116 | [Blue rose](/Items/con_801/){: .btn .btn--era4} | Event related |  |
   | 117 | [Bonetooth Necklace](/Items/con_796/){: .btn .btn--era4} | Event related | A necklace made from the skulls of powerful beasts. Can be exchanged for Stronghold Faction items in corresponding events. |
   | 118 | [Born from the Ashes](/Items/con_1022/){: .btn .btn--era5} | Experience Card | Obtained through the Glory Arena |
-  | 119 | [Born from the Ashes avatar](/Items/con_576/){: .btn .btn--era5} | Unknown | Use to receive Luna's Born from the Ashes skin and avatar |
-  | 120 | [Born from the Ashes: Luna](/Items/con_1060/){: .btn .btn--era5} | Unknown | Use to get Luna's Born from the Ashes skin |
-  | 121 | [Bracada Envoy](/Items/con_1066/){: .btn .btn--era5} | Unknown | Use to get a skin: Envoy of Bracada Solmyr |
-  | 122 | [Brilliant Nirvana: Firebird Skin](/Items/con_2002/){: .btn .btn--era5} | Unknown | Grants the Firebird skin: Brilliant Nirvana. |
+  | 119 | [Born from the Ashes avatar](/Items/con_576/){: .btn .btn--era5} | Hero Avatar | Use to receive Luna's Born from the Ashes skin and avatar |
+  | 120 | [Born from the Ashes: Luna](/Items/con_1060/){: .btn .btn--era5} | Special Skin | Use to get Luna's Born from the Ashes skin |
+  | 121 | [Bracada Envoy](/Items/con_1066/){: .btn .btn--era5} | Special Skin | Use to get a skin: Envoy of Bracada Solmyr |
+  | 122 | [Brilliant Nirvana: Firebird Skin](/Items/con_2002/){: .btn .btn--era5} | Unit Skin | Grants the Firebird skin: Brilliant Nirvana. |
   | 123 | [Bronze Chest](/Items/con_968/){: .btn .btn--era2} | Gift | A Golden Chest obtained from Archery Master. Get either an Unit Token or 1000 unit EXP at random after opening it |
   | 124 | [Calendar Stone](/Items/con_813/){: .btn .btn--era4} | Event related | Well designed Calendar Stone, can be exchanged for Fortress Faction items in corresponding events! |
   | 125 | [Candy Corn](/Items/con_1085/){: .btn .btn--era4} | Event related | Limited-time candy for Halloween. Give it to the faerie in the main city to use it as a decoration! |
   | 126 | [Candy Pumpkin](/Items/con_1086/){: .btn .btn--era4} | Event related | Limited-time candy for Halloween. A particular favorite of a certain Wight in the main city... |
   | 127 | [Candy Variety Gift Box](/Items/con_1902/){: .btn .btn--era4} | Gift | Grants 2 Red Candy, 2 Yellow Candy, 2 Blue Candy, and 2 Green Candy. |
-  | 128 | [Candy Witch](/Items/con_1053/){: .btn .btn--era5} | Unknown | Use to get a skin: Candy Witch Vidomina |
-  | 129 | [Candy Witch Avatar](/Items/con_583/){: .btn .btn--era5} | Unknown | Candy Witch Vidomina Avatar |
+  | 128 | [Candy Witch](/Items/con_1053/){: .btn .btn--era5} | Special Skin | Use to get a skin: Candy Witch Vidomina |
+  | 129 | [Candy Witch Avatar](/Items/con_583/){: .btn .btn--era5} | Hero Avatar | Candy Witch Vidomina Avatar |
   | 130 | [Cantonese Seafood Hotpot](/Items/con_1190/){: .btn .btn--era3} | Event related | A wide assortment of seafood has been added to a porridge base boiled from pork bone stock and scallops. All sorts of seafood have been added to this dish, from fish to shrimp to crab to shellfish, and they all taste incredibly fresh after being blanched. This dish is an artistic interpretation of the Guangdong perspective on food. However, this particular pot of food still seems rather raw. |
-  | 131 | [Captain avatar](/Items/con_566/){: .btn .btn--era5} | Unknown | Use to receive Catherine's Captain skin and avatar |
-  | 132 | [Captain: Catherine](/Items/con_1029/){: .btn .btn--era5} | Unknown | Use to get Catherine's Captain skin |
+  | 131 | [Captain avatar](/Items/con_566/){: .btn .btn--era5} | Hero Avatar | Use to receive Catherine's Captain skin and avatar |
+  | 132 | [Captain: Catherine](/Items/con_1029/){: .btn .btn--era5} | Special Skin | Use to get Catherine's Captain skin |
   | 133 | [Carnival Chest A](/Items/con_1610/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest, and 40 purple crystal runestones. |
   | 134 | [Carnival Chest B](/Items/con_1611/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 50 gold keys, 2 SR+ unit token chests, and 2 Purple Artifact Component Selection Chests. |
   | 135 | [Carnival Gift Box](/Items/con_1609/){: .btn .btn--era4} | Gift | Grants 1,280 diamonds, 10 gold keys, and 10 astro silver. |
   | 136 | [Carnival Pack](/Items/con_1608/){: .btn .btn--era4} | Gift | Grants 680 diamonds, 5 gold keys, 1 SR unit token chest, and 500,000 gold. |
   | 137 | [Carrot Hot Cross Bun](/Items/con_2119/){: .btn .btn--era4} | Event related | An Easter food obtained from a Chaos Egg. Its flavor doesn't seem very mainstream, but... why was this thing in a Chaos Egg? |
-  | 138 | [Cassanbel Avatar](/Items/con_588/){: .btn .btn--era5} | Unknown | Use it to receive the Cassanbel Avatar |
+  | 138 | [Cassanbel Avatar](/Items/con_588/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Cassanbel Avatar |
   | 139 | [Caster Roster runes](/Items/con_746/){: .btn .btn--era3} | Event related | Important item to increase your Caster units' rankings. |
   | 140 | [Caster Talent Potion](/Items/con_790/){: .btn .btn--era4} | Event related | This potion improves your Caster units' attributes and upgrades their skills. |
   | 141 | [Castle Faction Selection Chest](/Items/con_1667/){: .btn .btn--era4} | Gift | Use to select 1 Pikeman, Marksman, Griffin, Swordsman, Monk, or Cavalier token. |
   | 142 | [Castle Limited Edition Pack](/Items/con_2100/){: .btn .btn--era5} | Gift | Choose to get either 1 Castle SSR token or 1 Castle SSR Soul Stone. |
   | 143 | [Castle Roster runes](/Items/con_752/){: .btn .btn--era3} | Event related | Important item to increase your Castle units' rankings. |
   | 144 | [Castle Unit Chest](/Items/con_1269/){: .btn .btn--era4} | Gift | Receive a random Castle Faction Unit token. |
-  | 145 | [Castle avatar frame gift pack](/Items/con_612/){: .btn .btn--era5} | Unknown | Open it to receive a Castle avatar frame! |
+  | 145 | [Castle avatar frame gift pack](/Items/con_612/){: .btn .btn--era5} | Avatar frame | Open it to receive a Castle avatar frame! |
   | 146 | [Catherine Avatar](/Items/con_561/){: .btn .btn--era5} | Unknown | Use to receive the Catherine avatar |
   | 147 | [Celebration Artifact Special Offer](/Items/con_1441/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Phantom, the Undead King, Curse, Savage Component Chest *2 or Artifact Essence *300 |
   | 148 | [Celebration Diamond Lucky Bag](/Items/con_1438/){: .btn .btn--era4} | Gift | Use it to get a certain amount of Diamonds |
@@ -164,35 +164,35 @@ classes: wide
   | 150 | [Celebration Unit Special Offer](/Items/con_1440/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Wight, Dwarf, Cyclops, Fire Elemental or Griffin Token *40 |
   | 151 | [Centaur Captain's Soul](/Items/con_2020/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Centaur's Awakening |
   | 152 | [Champion Creature Roster Rune](/Items/con_782/){: .btn .btn--era4} | Event related | Important item for upgrading your champion creature roster. |
-  | 153 | [Champion Fighter: Mephala](/Items/con_1043/){: .btn .btn--era5} | Unknown | Use to get Mephala's Champion Fighter skin |
+  | 153 | [Champion Fighter: Mephala](/Items/con_1043/){: .btn .btn--era5} | Special Skin | Use to get Mephala's Champion Fighter skin |
   | 154 | [Champion Knight's Soul](/Items/con_2017/){: .btn .btn--era5} | Event related | Immortal Hero Soul, can be used for Cavalier s' Awakening |
   | 155 | [Chaos Hydra Soul](/Items/con_2071/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Hydra's Awakening. |
-  | 156 | [Chaos-Cast Stone](/Items/con_1126/){: .btn .btn--era5} | Unknown | Chaos-Cast Stone, a necessary item used for casting Chaos Holy Emblems |
+  | 156 | [Chaos-Cast Stone](/Items/con_1126/){: .btn .btn--era5} | Holy Emblems Cast Stone | Chaos-Cast Stone, a necessary item used for casting Chaos Holy Emblems |
   | 157 | [Charging Roster runes](/Items/con_741/){: .btn .btn--era3} | Event related | Important item to increase your Charging units' rankings. |
   | 158 | [Charging Talent Potion](/Items/con_788/){: .btn .btn--era4} | Event related | This potion improves your Charging units' attributes and upgrades their skills. |
   | 159 | [Chongqing Hotpot](/Items/con_1196/){: .btn .btn--era3} | Event related | The Chongqing Hotpot is an important cultural symbol of Chongqing. To make it, beef tripe, pork aorta, and duck intestines are boiled in a mala soup base. The dish has a refreshingly delectable taste, although this particular pot of food still seems rather raw. |
   | 160 | [Christmas Bell](/Items/con_809/){: .btn .btn--era5} | Event related | Available during the Christmas, used to exchange for the Customized Christmas Adelaide Skin |
   | 161 | [Christmas Candy](/Items/con_531/){: .btn .btn--era4} | Event related | Christmas-exclusive item. Can be exchanged for event rewards. |
-  | 162 | [Christmas Carol](/Items/con_1058/){: .btn .btn--era5} | Unknown | Use to get a skin: Christmas Carol Crag Hack |
+  | 162 | [Christmas Carol](/Items/con_1058/){: .btn .btn--era5} | Special Skin | Use to get a skin: Christmas Carol Crag Hack |
   | 163 | [Christmas Carol - Adelaide Skin (2 days)](/Items/con_1018/){: .btn .btn--era5} | Experience Card | Grants access to the Christmas Carol - Adelaide Skin for 2 days. |
   | 164 | [Christmas Carol - Adelaide Skin Avatar (2 days)](/Items/con_1016/){: .btn .btn--era5} | Experience Card | Grants access to the Christmas Carol - Adelaide Skin Avatar for 2 days. |
-  | 165 | [Christmas Carol Adelaide](/Items/con_1025/){: .btn .btn--era5} | Unknown | Use to get a skin: Christmas Carol Adelaide |
+  | 165 | [Christmas Carol Adelaide](/Items/con_1025/){: .btn .btn--era5} | Special Skin | Use to get a skin: Christmas Carol Adelaide |
   | 166 | [Christmas Carol Pack](/Items/con_1446/){: .btn .btn--era4} | Gift | Use it to get Diamond *980, Christmas Carol Crag Hack *1 and Flourishing Christmas Avatar Frame *1 |
   | 167 | [Christmas Dragon King Special Offer](/Items/con_1445/){: .btn .btn--era5} | Gift | Use it to get Diamond *6480, Dragon King Component Chest *1 and Green Dragon Token *5 |
-  | 168 | [Christmas Elf](/Items/con_1074/){: .btn .btn--era5} | Unknown | Christmas Elf Playing with Snowflakes |
+  | 168 | [Christmas Elf](/Items/con_1074/){: .btn .btn--era5} | Special Skin | Christmas Elf Playing with Snowflakes |
   | 169 | [Christmas Elf Dragon Mutare Offer](/Items/con_1889/){: .btn .btn--era5} | Gift | Grants 6,480 diamonds, 1 Christmas Elf Dragon Mutare skin, 40 Dragon Mutare Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
   | 170 | [Christmas Elf Limited-Time Special Offer](/Items/con_1888/){: .btn .btn--era5} | Gift | Grants 980 diamonds, 1 Christmas Elf Dragon Mutare skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
   | 171 | [Christmas Hat](/Items/con_811/){: .btn .btn--era4} | Event related | Available during the Christmas, used to exchange for the Customized Christmas Adelaide Skin |
   | 172 | [Christmas Stockings](/Items/con_810/){: .btn .btn--era3} | Event related | Available during the Christmas, used to exchange for the Customized Christmas Adelaide Skin |
   | 173 | [Christmas Wheel Token](/Items/con_1087/){: .btn .btn--era4} | Event related | Required to spin the limited-time Christmas Wheel. |
   | 174 | [Chronicles Chest](/Items/con_1071/){: .btn .btn--era5} | Gift | You can select one from the SR+ Soul Stones after opening. |
-  | 175 | [Ciele Avatar](/Items/con_585/){: .btn .btn--era5} | Unknown | Use it to receive the Ciele Avatar |
+  | 175 | [Ciele Avatar](/Items/con_585/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Ciele Avatar |
   | 176 | [Ciele Special Offer Pack](/Items/con_1514/){: .btn .btn--era4} | Gift | Use it to get Diamond *6480, Ciele Token *55, Spell Scroll *288 and Temple Scroll *10 |
   | 177 | [Classics](/Items/con_865/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |
   | 178 | [Clear Soup Base](/Items/con_1158/){: .btn .btn--era4} | Event related | It has a light taste and is highly palatable. It is also nutritious and has a faint aroma. This luxurious soup nourishes the body and beautifies the skin. |
   | 179 | [Cloak of the Undead King Set Pack](/Items/con_1920/){: .btn .btn--era4} | Gift | Grants 1 Amulet of the Undertaker, 1 Vampire's Cowl, 1 Dead Man's Boots, and 880 diamonds. |
   | 180 | [Clover](/Items/con_537/){: .btn .btn--era4} | Event related | The four leaves of the clover represent fame, wealth, love, and health. |
-  | 181 | [Coin Reward Package](/Items/con_556/){: .btn .btn--era4} | Unknown | A reward package filled with coins. Open it to try your luck! (This item will be removed when the event ends.) |
+  | 181 | [Coin Reward Package](/Items/con_556/){: .btn .btn--era4} | Event related | A reward package filled with coins. Open it to try your luck! (This item will be removed when the event ends.) |
   | 182 | [Cold-resistant Fabric](/Items/con_530/){: .btn .btn--era4} | Event related | Specially-processed fabric made using the fur of an animal from the north. Its excellent cold resistance and comfortable feel may be the reason for its high price. |
   | 183 | [Collector - Advanced](/Items/con_1108/){: .btn .btn--era5} | Gift | Collector - Advanced |
   | 184 | [Collector - Basic](/Items/con_1107/){: .btn .btn--era5} | Gift | Collector - Basic |
@@ -208,7 +208,7 @@ classes: wide
   | 194 | [Conflux Unit Chest](/Items/con_1275/){: .btn .btn--era4} | Gift | Receive a random Conflux Faction Unit token. |
   | 195 | [Converted Saint - Monk Skin (2 days)](/Items/con_1014/){: .btn .btn--era5} | Experience Card | Grants access to the Converted Saint - Monk Skin for 2 days. |
   | 196 | [Converted Saint - Monk Skin Avatar (2 days)](/Items/con_1012/){: .btn .btn--era5} | Experience Card | Grants access to the Converted Saint - Monk Skin Avatar for 2 days. |
-  | 197 | [Converted Saint: Monk Skin](/Items/con_1972/){: .btn .btn--era5} | Unknown | Open for the Converted Saint: Monk skin. |
+  | 197 | [Converted Saint: Monk Skin](/Items/con_1972/){: .btn .btn--era5} | Unit Skin | Open for the Converted Saint: Monk skin. |
   | 198 | [Corpse Flower Soul](/Items/con_2072/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Waspwort's Awakening. |
   | 199 | [Cove Chest](/Items/con_1093/){: .btn .btn--era5} | Gift | A chest found in the Cove Attack event. You can acquire random valuable resources from it. |
   | 200 | [Cove Daily Special Offer Pack A](/Items/con_1944/){: .btn .btn--era4} | Gift | Grants 20 diamonds and 2 Cove Faction Chests. |
@@ -219,7 +219,7 @@ classes: wide
   | 205 | [Cove Faction Selection Chest](/Items/con_1948/){: .btn .btn--era4} | Gift | Use to select 1 Sea Elemental or Regnan Pirate token. |
   | 206 | [Cove Limited Edition Pack](/Items/con_2112/){: .btn .btn--era5} | Gift | Choose to get 1 Cove SSR token. |
   | 207 | [Cove Roster runes](/Items/con_868/){: .btn .btn--era3} | Event related | Important item for upgrading your Cove Rosters |
-  | 208 | [Critical hit skill essence](/Items/con_1115/){: .btn .btn--era4} | Unknown | Records the advanced secrets of battle. Can be used to improve units' critical hits. |
+  | 208 | [Critical hit skill essence](/Items/con_1115/){: .btn .btn--era4} | Skill Essence | Records the advanced secrets of battle. Can be used to improve units' critical hits. |
   | 209 | [Cross-server Guild Coin](/Items/con_929/){: .btn .btn--era4} | Other | Obtained by challenging Cross-server Guild War |
   | 210 | [Crusader's Soul](/Items/con_2015/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Swordsman's Awakening |
   | 211 | [Cursed armour pack](/Items/con_1554/){: .btn .btn--era4} | Gift | Get black magic sword x1, specter shield x1, bone breastplate x1, skeleton crown x1. Activates artifact \"cursed armor\". |
@@ -230,24 +230,24 @@ classes: wide
   | 216 | [Daily Special Offer Pack D](/Items/con_1671/){: .btn .btn--era4} | Gift | Grants 20 Castle Faction Selection Chests, 5 gold keys, 300,000 gold, and 5 large energy potions. |
   | 217 | [Daily Special Offer Pack E](/Items/con_1621/){: .btn .btn--era4} | Gift | Grants 5 astro silver, 200 Heaven-Cast Stones, 100 artifact essence, and 5 large bottles of energy potion. |
   | 218 | [Daily Top-up Pack](/Items/con_1798/){: .btn .btn--era4} | Gift | Use to select 1 of the following: 1 Phantom Component Chest, 1 Undead King Component Chest, or 1 Treasure Component Chest. |
-  | 219 | [Damage augmentation skill essence](/Items/con_1117/){: .btn .btn--era5} | Unknown | Records the expert secrets of battle. Can be used to improve units' damage augmentation. |
-  | 220 | [Damage reduction skill essence](/Items/con_1116/){: .btn .btn--era5} | Unknown | Records the expert secrets of battle. Can be used to improve units' damage reduction. |
+  | 219 | [Damage augmentation skill essence](/Items/con_1117/){: .btn .btn--era5} | Skill Essence | Records the expert secrets of battle. Can be used to improve units' damage augmentation. |
+  | 220 | [Damage reduction skill essence](/Items/con_1116/){: .btn .btn--era5} | Skill Essence | Records the expert secrets of battle. Can be used to improve units' damage reduction. |
   | 221 | [Dance of the Blades Pack](/Items/con_1453/){: .btn .btn--era5} | Gift | Use it to select 1 of the following: Dance of the Blades Avatar Frame *1 or Naga Token *5 |
-  | 222 | [Dance of the Blades avatar frame gift pack](/Items/con_627/){: .btn .btn--era5} | Unknown | Open to receive the Dance of the Blades portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
-  | 223 | [Dark Champion Skin - Azrael](/Items/con_1985/){: .btn .btn--era5} | Unknown | Get Dark Champion Skin - Azrael after opening it |
-  | 224 | [Dark Gaze Special Skin](/Items/con_658/){: .btn .btn--era4} | Unknown | Unlock the skin when Dark Gaze is awakened. |
+  | 222 | [Dance of the Blades avatar frame gift pack](/Items/con_627/){: .btn .btn--era5} | Avatar frame | Open to receive the Dance of the Blades portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
+  | 223 | [Dark Champion Skin - Azrael](/Items/con_1985/){: .btn .btn--era5} | Unit Skin | Get Dark Champion Skin - Azrael after opening it |
+  | 224 | [Dark Gaze Special Skin](/Items/con_658/){: .btn .btn--era4} | Special Skin | Unlock the skin when Dark Gaze is awakened. |
   | 225 | [Dark Gaze Token](/Items/con_990/){: .btn .btn--era4} | WEAPON PIECE | A Dark Gaze token from an ancient campaign that can be used for awakening Beholder's exclusive potential, Dark Gaze. |
-  | 226 | [Dark Retinue: Titan Skin](/Items/con_2131/){: .btn .btn--era5} | Unknown | Grants the Dark Retinue: Titan skin. |
+  | 226 | [Dark Retinue: Titan Skin](/Items/con_2131/){: .btn .btn--era5} | Unit Skin | Grants the Dark Retinue: Titan skin. |
   | 227 | [Dark Soul Altar Chest](/Items/con_1472/){: .btn .btn--era5} | Gift | A treasure chest covered with death and darkness are, only the lords having Bone Dragons can open it. |
   | 228 | [Dark Troglodyte Soul](/Items/con_2058/){: .btn .btn--era5} | Event related | An ancient immortal hero soul. Can be used for Troglodyte's Awakening. |
   | 229 | [Darkness Dominance Pack](/Items/con_1470/){: .btn .btn--era5} | Gift | Use it to select one from the following: Darkness Dominance Avatar Frame *1 or Bone Dragon Token *5 |
-  | 230 | [Day Tides Special Skin](/Items/con_671/){: .btn .btn--era4} | Unknown | Unlock the skin when Day Tides is awakened. |
+  | 230 | [Day Tides Special Skin](/Items/con_671/){: .btn .btn--era4} | Special Skin | Unlock the skin when Day Tides is awakened. |
   | 231 | [Day Tides Token](/Items/con_1003/){: .btn .btn--era4} | WEAPON PIECE | A Day Tides token from an ancient campaign that can be used for awakening Regnan Serpent's exclusive potential, Day Tides. |
-  | 232 | [Deadly Commander gift pack](/Items/con_622/){: .btn .btn--era5} | Unknown | Open to receive the Deadly Commander portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
+  | 232 | [Deadly Commander gift pack](/Items/con_622/){: .btn .btn--era5} | Avatar frame | Open to receive the Deadly Commander portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
   | 233 | [Death Howler's Soul](/Items/con_2042/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Berserker's Awakening |
   | 234 | [Death Leader Pack](/Items/con_1439/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Lich Token*1 or Lich Soul Stone*1 |
   | 235 | [Death Leader package](/Items/con_1402/){: .btn .btn--era4} | Gift | Chance of receiving Lich tokens or Skeleton tokens after use. |
-  | 236 | [Death Tribute Special Skin](/Items/con_646/){: .btn .btn--era4} | Unknown | Unlock the skin when Death Tribute is awakened |
+  | 236 | [Death Tribute Special Skin](/Items/con_646/){: .btn .btn--era4} | Special Skin | Unlock the skin when Death Tribute is awakened |
   | 237 | [Death Tribute Token](/Items/con_978/){: .btn .btn--era4} | WEAPON PIECE | A Death Tribute token from an ancient campaign that can be used for awakening the Lich's general exclusive potential - Death Tribute |
   | 238 | [Death Vanguard Pack](/Items/con_1425/){: .btn .btn--era5} | Gift | Exclusive resource for the pioneering Black Knight. Use it to select 1 of the following: Black Knight Token *1 or Dread Knight *1 |
   | 239 | [Death vanguard package](/Items/con_1397/){: .btn .btn--era4} | Gift | Exclusive resource for the pioneering troops of the Black Knight. Use it to receive Black Knight tokens. |
@@ -258,25 +258,25 @@ classes: wide
   | 244 | [Demon Crest Gift Box](/Items/con_763/){: .btn .btn--era5} | Gift | Grants the legendary assault-type machine component, Demon Crest. |
   | 245 | [Dendroid Soldier's Soul](/Items/con_2023/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Dendroid Guard's Awakening |
   | 246 | [Devil Scythe Chest](/Items/con_1527/){: .btn .btn--era5} | Gift | Use it to get random Devil Scythe Weapon Token *1 or Devil Scythe Weapon Token *2 |
-  | 247 | [Devil Scythe Special Skin](/Items/con_652/){: .btn .btn--era5} | Unknown | Unlock the skin when Devil Scythe is awakened |
+  | 247 | [Devil Scythe Special Skin](/Items/con_652/){: .btn .btn--era5} | Special Skin | Unlock the skin when Devil Scythe is awakened |
   | 248 | [Devil Scythe Token](/Items/con_984/){: .btn .btn--era5} | WEAPON PIECE | A Devil Scythe token from an ancient campaign that can be used for awakening Devil's general exclusive potential - Devil Scythe |
-  | 249 | [Devil in a Bottle: Solmyr](/Items/con_1065/){: .btn .btn--era5} | Unknown | Use to get Solmyr's Devil in a Bottle skin |
-  | 250 | [Devotee - Judicator Avatar](/Items/con_584/){: .btn .btn--era5} | Unknown | Use to receive Devotee Judicator Avatar |
+  | 249 | [Devil in a Bottle: Solmyr](/Items/con_1065/){: .btn .btn--era5} | Special Skin | Use to get Solmyr's Devil in a Bottle skin |
+  | 250 | [Devotee - Judicator Avatar](/Items/con_584/){: .btn .btn--era5} | Hero Avatar | Use to receive Devotee Judicator Avatar |
   | 251 | [Diamond](/Items/con_885/){: .btn .btn--era4} | Unknown | Diamonds represent wealth. |
-  | 252 | [Diamond ](/Items/con_898/){: .btn .btn--era9} | Unknown | Diamonds represent wealth. |
+  | 252 | [Diamond ](/Items/con_898/){: .btn .btn--era9} | VIP related | Diamonds represent wealth. |
   | 253 | [Diamond Pack](/Items/con_1951/){: .btn .btn--era4} | Gift | Randomly grants a certain number of Diamonds. |
-  | 254 | [Diamond Reward Package](/Items/con_557/){: .btn .btn--era5} | Unknown | A reward package filled with diamonds. Open it to try your luck! (This item will be removed when the event ends.) |
-  | 255 | [Dice](/Items/con_946/){: .btn .btn--era4} | Unknown | Exquisite dice that can be used in the Healing Sea event. |
+  | 254 | [Diamond Reward Package](/Items/con_557/){: .btn .btn--era5} | Event related | A reward package filled with diamonds. Open it to try your luck! (This item will be removed when the event ends.) |
+  | 255 | [Dice](/Items/con_946/){: .btn .btn--era4} | VIP related | Exquisite dice that can be used in the Healing Sea event. |
   | 256 | [Discount Coupon](/Items/con_945/){: .btn .btn--era4} | Other | Coupon that can be used in the Healing Sea event. |
   | 257 | [Disrupting Component Chest](/Items/con_1371/){: .btn .btn--era5} | Gift | A component chest of the Orb of Vulnerability. Use it to select 1 of the components from the Orb of Vulnerability's Artifacts |
   | 258 | [Disrupting Special Offer Pack](/Items/con_1531/){: .btn .btn--era5} | Gift | Use it to get Diamond *6480 and Destruction Component Chest *1 |
   | 259 | [Divine Certificate](/Items/con_958/){: .btn .btn--era5} | Other | A Divine Certificate, the Glory Arena's season rank reward. |
   | 260 | [Divine Water](/Items/con_959/){: .btn .btn--era5} | Other | A resource produced in the Sacred Statue Trial. Can be used to purchase items in the Store. |
-  | 261 | [Dodge skill essence](/Items/con_1114/){: .btn .btn--era4} | Unknown | Records the advanced secrets of battle. Can be used to improve units' dodging. |
-  | 262 | [Don Mullich](/Items/con_1028/){: .btn .btn--era5} | Unknown | Use to get a skin: Don Mullich |
+  | 261 | [Dodge skill essence](/Items/con_1114/){: .btn .btn--era4} | Skill Essence | Records the advanced secrets of battle. Can be used to improve units' dodging. |
+  | 262 | [Don Mullich](/Items/con_1028/){: .btn .btn--era5} | Special Skin | Use to get a skin: Don Mullich |
   | 263 | [Doomsday Component Chest](/Items/con_1360/){: .btn .btn--era5} | Gift | A component chest of the Armageddon's Blade. Use it to select 1 of the components from the Armageddon's Blade's Artifacts |
   | 264 | [Doomsday Special Offer Pack](/Items/con_1511/){: .btn .btn--era5} | Gift | Use it to get Diamond *6480 and Doomsday Component Chest *1 |
-  | 265 | [Down-and-Out Prince: Roland](/Items/con_1033/){: .btn .btn--era5} | Unknown | Use to get Roland's Down-and-Out Prince skin |
+  | 265 | [Down-and-Out Prince: Roland](/Items/con_1033/){: .btn .btn--era5} | Special Skin | Use to get Roland's Down-and-Out Prince skin |
   | 266 | [Dragon Blood Crystal](/Items/con_879/){: .btn .btn--era5} | Other | A pile of Dragon Blood Crystals (a level 4 resource); can be used to improve Barracks |
   | 267 | [Dragon Boat Festival Gift Box](/Items/con_1720/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds and 1 Premium Artifact Component Chest. |
   | 268 | [Dragon Father's Treasure](/Items/con_2006/){: .btn .btn--era5} | Gift | These are just a few part of treasures that the dragon king stored thousands of years ago. They are priceless treasures. |
@@ -285,15 +285,15 @@ classes: wide
   | 271 | [Dragon Temple Chest](/Items/con_1513/){: .btn .btn--era5} | Gift | A treasure chest sealed with the whisper of ancient dragon, only the lords having Black Dragon can open it. |
   | 272 | [Dragon Turtle with a Mechanical Hotpot Shell](/Items/con_1187/){: .btn .btn--era3} | Event related | \"Hello friend, I am the Mechanical Dragon Turtle. As you can see, my shell is made of 30% wrought iron.\" |
   | 273 | [Dragon Turtle with a Steel Hotpot Shell](/Items/con_1208/){: .btn .btn--era3} | Event related | \"Hello friend, I am the Steel Dragon Turtle. As you can see, my shell is made out of plastic.\" |
-  | 274 | [Dragon's Flight - Cassanbel Avatar](/Items/con_870/){: .btn .btn--era5} | Unknown |  |
-  | 275 | [Dragon's Flight, Lion's Leap Avatar](/Items/con_873/){: .btn .btn--era5} | Unknown |  |
+  | 274 | [Dragon's Flight - Cassanbel Avatar](/Items/con_870/){: .btn .btn--era5} | Hero Avatar |  |
+  | 275 | [Dragon's Flight, Lion's Leap Avatar](/Items/con_873/){: .btn .btn--era5} | Hero Avatar |  |
   | 276 | [Dragonsteel](/Items/con_880/){: .btn .btn--era5} | Other | A pile of Dragonsteel (a level 3 resource); can be used to improve Barracks. |
   | 277 | [Dragonsteel Half Price Pack](/Items/con_1754/){: .btn .btn--era4} | Gift | Use it to receive 6,480 diamonds, 6,500 Dragonsteel |
   | 278 | [Dragonsteel Pack](/Items/con_729/){: .btn .btn--era5} | EXP | A gift box containing a great deal of Dragonsteel. Open it and you will receive 1,000 Dragonsteel. |
   | 279 | [Dragonsteel Supply Pack](/Items/con_1316/){: .btn .btn--era4} | Gift | Grants 10,000 of the barracks resource, Dragonsteel. Players who have reached Lv. 39 can exchange Dragonsteel for SR units' unit tokens at the barracks. |
   | 280 | [Dread Knight's Soul](/Items/con_2032/){: .btn .btn--era5} | Event related | Immortal Hero Soul, can be used for Black Knights' Awakening |
   | 281 | [Duel Ticket](/Items/con_784/){: .btn .btn--era5} | Event related | An invitation to the Duel of Heroes. Battle against other masters! Delivered via email on Monday, Wednesday, and Friday. |
-  | 282 | [Duel coin](/Items/con_907/){: .btn .btn--era5} | Unknown | Duel Coins can be obtained by playing Duel of Heroes mode. |
+  | 282 | [Duel coin](/Items/con_907/){: .btn .btn--era5} | VIP related | Duel Coins can be obtained by playing Duel of Heroes mode. |
   | 283 | [Duel of Heroes Chest](/Items/con_1008/){: .btn .btn--era4} | Gift | Duel of Heroes Chest may offer your Duel Coins, Hero Tokens or Unit Tokens. You may obtain Iron Golem Tokens if you are lucky |
   | 284 | [Dungeon Faction Chest](/Items/con_1276/){: .btn .btn--era4} | Gift | Get a random Dungeon Faction Unit Token |
   | 285 | [Dungeon Faction Selection Chest](/Items/con_1688/){: .btn .btn--era4} | Gift | Use to select 1 Troglodyte, Harpy, or Minotaur token. |
@@ -328,28 +328,28 @@ classes: wide
   | 314 | [Elite Unit Soul](/Items/con_536/){: .btn .btn--era5} | Event related | Collect 80 to randomly get 80 elite unit tokens. (Elite unit: Lich, Mummy, Genie, Manticore, Beholder, Medusa, Stone Elemental.) |
   | 315 | [Elite Unit Special Offer](/Items/con_1515/){: .btn .btn--era4} | Gift | Use it to get Diamond *3280, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20 |
   | 316 | [Elite Unit Token Selection Pack](/Items/con_1623/){: .btn .btn--era4} | Gift | Use to select 1 Mummy, Genie, Stone Elemental, or Lich token. |
-  | 317 | [Empire Medal](/Items/con_904/){: .btn .btn--era9} | Unknown | Empire Medals can be obtained by fighting in campaigns. |
-  | 318 | [Enchanted Dragon](/Items/con_1073/){: .btn .btn--era5} | Unknown | Use to get the skin: Enchanted Dragon Constellation - Dragon Mutare |
+  | 317 | [Empire Medal](/Items/con_904/){: .btn .btn--era9} | VIP related | Empire Medals can be obtained by fighting in campaigns. |
+  | 318 | [Enchanted Dragon](/Items/con_1073/){: .btn .btn--era5} | Special Skin | Use to get the skin: Enchanted Dragon Constellation - Dragon Mutare |
   | 319 | [Enchanted Dragon Skin Special Offer](/Items/con_1518/){: .btn .btn--era4} | Gift | Use it to get Enchanted Dragon Skin *1 and Diamond *1980 |
   | 320 | [Enchanted rune treasure chest](/Items/con_1409/){: .btn .btn--era5} | Gift | A treasure chest sealed with raging, enchanted energy that can only be opened by the Lord of Naga. |
   | 321 | [Endless Inferno Avatar Frame (7 days)](/Items/con_1009/){: .btn .btn--era5} | Experience Card | Grants access to the Endless Inferno Avatar Frame for 7 days. |
-  | 322 | [Energy](/Items/con_900/){: .btn .btn--era4} | Unknown | Energy will be consumed when you play in story mode or Underground mode. |
+  | 322 | [Energy](/Items/con_900/){: .btn .btn--era4} | VIP related | Energy will be consumed when you play in story mode or Underground mode. |
   | 323 | [Energy Card](/Items/con_1907/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 60 Energy, 60 Movement, and 30 diamonds. |
   | 324 | [Energy Core](/Items/con_931/){: .btn .btn--era5} | Unknown | Used for activating Battle Formation nodes |
-  | 325 | [Energy Core Special Skin](/Items/con_667/){: .btn .btn--era4} | Unknown | Unlock the skin when Energy Core is awakened |
+  | 325 | [Energy Core Special Skin](/Items/con_667/){: .btn .btn--era4} | Special Skin | Unlock the skin when Energy Core is awakened |
   | 326 | [Energy Core Token](/Items/con_999/){: .btn .btn--era4} | WEAPON PIECE | A Energy Core token from an ancient campaign that can be used for awakening Stone Elemental's general exclusive potential - Energy Core |
   | 327 | [Energy Elemental's Soul](/Items/con_2076/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Fire Elemental's Awakening |
   | 328 | [Energy Pack](/Items/con_1692/){: .btn .btn--era4} | Gift | Grants 60 diamonds and 1 large energy potion. |
   | 329 | [Energy Scroll](/Items/con_830/){: .btn .btn--era4} | Event related | Used for improving battlefield skills and all skills of backup lineup |
   | 330 | [Epic Artifact Component Chest](/Items/con_1926/){: .btn .btn--era4} | Gift | Use to select 1 of the following: Revenge Component Chest, 1 Phantom Component Chest, 1 Undead King Component Chest, or 1 Treasure Component Chest. |
   | 331 | [Epic Artifact Selection Special Offer](/Items/con_1925/){: .btn .btn--era4} | Gift | Grants 1 Epic Artifact Component Chest, 50 Heaven-Cast Stones, 50,000 gold, and 60 diamonds. |
-  | 332 | [Erathia Mullich](/Items/con_1027/){: .btn .btn--era5} | Unknown | Use to get a skin: Erathia Mullich |
-  | 333 | [Eternal Flame Special Skin](/Items/con_669/){: .btn .btn--era4} | Unknown | Unlock the skin when Eternal Flame is awakened |
+  | 332 | [Erathia Mullich](/Items/con_1027/){: .btn .btn--era5} | Special Skin | Use to get a skin: Erathia Mullich |
+  | 333 | [Eternal Flame Special Skin](/Items/con_669/){: .btn .btn--era4} | Special Skin | Unlock the skin when Eternal Flame is awakened |
   | 334 | [Eternal Flame Token](/Items/con_1001/){: .btn .btn--era4} | WEAPON PIECE | A Eternal Flame token from an ancient campaign that can be used for awakening Firebird's general exclusive potential - Eternal Flame |
   | 335 | [Evil Eye's Soul](/Items/con_2060/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Beholder's Awakening |
   | 336 | [Evil Sigil](/Items/con_793/){: .btn .btn--era4} | Event related | A seal containing deadly powers. Can be exchanged for Necropolis Faction items in corresponding events. |
-  | 337 | [Evil Sorceress Avatar](/Items/con_599/){: .btn .btn--era5} | Unknown | Use to get the Evil Sorceress avatar |
-  | 338 | [Evil-Cast Stone](/Items/con_1127/){: .btn .btn--era5} | Unknown | Evil-Cast Stone, a necessary item used for casting Evil Holy Emblems |
+  | 337 | [Evil Sorceress Avatar](/Items/con_599/){: .btn .btn--era5} | Hero Avatar | Use to get the Evil Sorceress avatar |
+  | 338 | [Evil-Cast Stone](/Items/con_1127/){: .btn .btn--era5} | Holy Emblems Cast Stone | Evil-Cast Stone, a necessary item used for casting Evil Holy Emblems |
   | 339 | [Expedition Chest](/Items/con_727/){: .btn .btn--era4} | Gift | A rare item only lords excelling in Battles for Territory can receive. |
   | 340 | [Expedition Medal](/Items/con_960/){: .btn .btn--era5} | Other | A medal given to heroes who have fought on the front lines for a long time. Can be used to exchange for rewards in the Expedition Shop. All medals will be converted at the end of the current Sound the Horns period. |
   | 341 | [Expedition medal](/Items/con_875/){: .btn .btn--era5} | Other | Only warriors fighting in Battles for Territory can receive expedition medals. |
@@ -361,12 +361,12 @@ classes: wide
   | 347 | [Ezio Pack](/Items/con_1814/){: .btn .btn--era4} | Gift | Grants 6,480 Diamonds, 40 Ezio Tokens, 10 Ancient Temple Scrolls, and 200 Spell Scrolls. |
   | 348 | [Fame on the High Seas](/Items/con_1096/){: .btn .btn--era5} | Gift | Use to receive the Fame on the High Seas Special Effects Avatar Frame. |
   | 349 | [Familiar's Soul](/Items/con_2043/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Imp's Awakening |
-  | 350 | [Fan voucher](/Items/con_908/){: .btn .btn--era9} | Unknown | Fan voucher |
-  | 351 | [Fatal Plot: Lord Haart](/Items/con_1049/){: .btn .btn--era5} | Unknown | Use to get Lord Haart's Fatal Plot skin |
-  | 352 | [Fatal Plot: Sandro](/Items/con_1051/){: .btn .btn--era5} | Unknown | Use to get Sandro's Fatal Plot skin |
+  | 350 | [Fan voucher](/Items/con_908/){: .btn .btn--era9} | VIP related | Fan voucher |
+  | 351 | [Fatal Plot: Lord Haart](/Items/con_1049/){: .btn .btn--era5} | Special Skin | Use to get Lord Haart's Fatal Plot skin |
+  | 352 | [Fatal Plot: Sandro](/Items/con_1051/){: .btn .btn--era5} | Special Skin | Use to get Sandro's Fatal Plot skin |
   | 353 | [Fate Cards](/Items/con_698/){: .btn .btn--era4} | Event related | A card which could seal your fate. |
   | 354 | [Fate Dominator (14 Days)](/Items/con_1021/){: .btn .btn--era5} | Experience Card | Obtained by becoming the champion in the cross-server Clash of Gods |
-  | 355 | [Father and Son Roland](/Items/con_1036/){: .btn .btn--era5} | Unknown | Use to get a skin: Father and Son Roland |
+  | 355 | [Father and Son Roland](/Items/con_1036/){: .btn .btn--era5} | Special Skin | Use to get a skin: Father and Son Roland |
   | 356 | [Favor of the Gods (14 Days)](/Items/con_1020/){: .btn .btn--era5} | Experience Card | Obtained by getting 2nd place in the cross-server Clash of Gods |
   | 357 | [Fearless Special Skin](/Items/con_642/){: .btn .btn--era5} | Unknown | Unlock the skin when Fearless is awakened. |
   | 358 | [Fearless Token](/Items/con_974/){: .btn .btn--era5} | WEAPON PIECE | A Fearless token from an ancient campaign that can be used for awakening Paladin's exclusive potential, Fearless. |
@@ -380,9 +380,9 @@ classes: wide
   | 366 | [Festival Prayer Special Offer](/Items/con_1942/){: .btn .btn--era4} | Gift | Grants 10 Prayer Stones and 180 diamonds. |
   | 367 | [Festival Premium Artifact Offer](/Items/con_1822/){: .btn .btn--era5} | Gift | Grants 1 Premium Artifact Component Chest and 400 diamonds. |
   | 368 | [Festival Prestigious Artifact Offer](/Items/con_1894/){: .btn .btn--era5} | Gift | 1 Premium Artifact Component Chest and 3,880 diamonds. |
-  | 369 | [Fiery Mountain Lament: Dragon Turtle Skin](/Items/con_2004/){: .btn .btn--era5} | Unknown | Grants the Dragon Turtle skin: Fiery Mountain Lament. |
+  | 369 | [Fiery Mountain Lament: Dragon Turtle Skin](/Items/con_2004/){: .btn .btn--era5} | Unit Skin | Grants the Dragon Turtle skin: Fiery Mountain Lament. |
   | 370 | [Fire Elemental Rank-up Pack](/Items/con_1565/){: .btn .btn--era4} | Gift | Get Fire Elemental token x15. |
-  | 371 | [Fire Energy Special Skin](/Items/con_666/){: .btn .btn--era4} | Unknown | Unlock the skin when Fire Energy is awakened |
+  | 371 | [Fire Energy Special Skin](/Items/con_666/){: .btn .btn--era4} | Special Skin | Unlock the skin when Fire Energy is awakened |
   | 372 | [Fire Energy Token](/Items/con_998/){: .btn .btn--era4} | WEAPON PIECE | A Fire Energy token from an ancient campaign that can be used for awakening Fire Elemental's general exclusive potential - Fire Energy |
   | 373 | [Fire Lord package](/Items/con_1396/){: .btn .btn--era4} | Gift | A scorching-hot pack containing unending chaos. Possibility of receiving Efreeti sultan tokens or Rashka tokens after use. |
   | 374 | [Firebird Awakening Pack](/Items/con_1590/){: .btn .btn--era4} | Gift | Grants 980 diamonds, 20 Firebird Soul Stones, 5 Caster roster runes, 5 Luna Tokens, and 980 VIP EXP. |
@@ -393,7 +393,7 @@ classes: wide
   | 379 | [Football Girl Gem](/Items/con_1807/){: .btn .btn--era4} | Gift | Grants 1,980 Diamonds and 1 Football Girl Gem skin. |
   | 380 | [Football Girl Limited-Time Special Offer](/Items/con_1806/){: .btn .btn--era4} | Gift | Grants 1,580 Diamonds, 1 Football Girl Gem skin, and 10 Ancient Temple Scrolls. |
   | 381 | [Football Girl Special Offer](/Items/con_1486/){: .btn .btn--era5} | Gift | Use it to get Football Girl Skin *1 and Diamond *1980 |
-  | 382 | [Forest Guardian - Centaur](/Items/con_1978/){: .btn .btn--era5} | Unknown | Grants the Forest Guardian: Centaur skin. |
+  | 382 | [Forest Guardian - Centaur](/Items/con_1978/){: .btn .btn--era5} | Unit Skin | Grants the Forest Guardian: Centaur skin. |
   | 383 | [Forest guardian package](/Items/con_1395/){: .btn .btn--era4} | Gift | A pack full of the essence of Mother Nature. Possibility of receiving Dendroid Guard tokens or Ryland tokens after use. |
   | 384 | [Fortress Elite Pack](/Items/con_1473/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Basilisk Token *40 or Wyvern Token *40 |
   | 385 | [Fortress Faction Chest](/Items/con_1277/){: .btn .btn--era4} | Gift | Get a random Fortress Faction Unit Token |
@@ -405,28 +405,28 @@ classes: wide
   | 391 | [Fortress Week Special Offer Pack B](/Items/con_1734/){: .btn .btn--era4} | Gift | Grants 10 Fortress Faction Chests, 60 diamonds, and 50,000 gold. |
   | 392 | [Fortress Week Special Offer Pack C](/Items/con_1735/){: .btn .btn--era4} | Gift | Grants 20 Fortress Faction Chests, 300 diamonds, 1 gold key, and 2 large energy potions. |
   | 393 | [Fortress Week Special Offer Pack D](/Items/con_1736/){: .btn .btn--era4} | Gift | Grants 20 Fortress Faction Selection Chests, 5 gold keys, 300,000 gold, and 5 large energy potions. |
-  | 394 | [Free reward package](/Items/con_842/){: .btn .btn--era5} | Unknown | You've cleared level 3 of Trial of Angels! You receive a free chance to send a red envelope to your guild members! |
+  | 394 | [Free reward package](/Items/con_842/){: .btn .btn--era5} | Guild member gift | You've cleared level 3 of Trial of Angels! You receive a free chance to send a red envelope to your guild members! |
   | 395 | [Fresh Moss](/Items/con_532/){: .btn .btn--era4} | Event related | It's said that this is one of a reindeer's favorite foods. Bring it with you, and if you're lucky, you might meet a reindeer companion willing to follow you into battle. |
   | 396 | [Friendship Point](/Items/con_918/){: .btn .btn--era4} | Other | A Friendship Certificate obtained by inviting friends and completing quests with them. |
   | 397 | [Frost Component Pack](/Items/con_1352/){: .btn .btn--era5} | Gift | A component chest of the Sword of Frost. Using it allows you to choose 1 component from the Sword of Frost Artifacts |
   | 398 | [Frost Kilgor Skin](/Items/con_1704/){: .btn .btn--era4} | Gift | Grants 1,980 diamonds and 1 Sword of Frost Kilgor skin. |
   | 399 | [Frost Kilgor Special Offer](/Items/con_1705/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 40 Kilgor tokens, and 1 Sword of Frost Kilgor skin. |
-  | 400 | [Frost Lord: Ice Demon Skin](/Items/con_2003/){: .btn .btn--era5} | Unknown | Grants the Frost Lord: Ice Demon skin. |
+  | 400 | [Frost Lord: Ice Demon Skin](/Items/con_2003/){: .btn .btn--era5} | Unit Skin | Grants the Frost Lord: Ice Demon skin. |
   | 401 | [Frost Special Offer Pack](/Items/con_1694/){: .btn .btn--era5} | Gift | Grants 6,480 diamonds and 1 Frost Component Chest. |
   | 402 | [Fujian Zhangzhou Intestines with Pickled Vegetables](/Items/con_1241/){: .btn .btn--era3} | Event related | Sweet and sour Luxi pickled vegetables, thick and fragrant boiled large intestines, fresh spring bamboo shoots, and delicious bone broth collide in this dish to create the unique taste of Zhangzhou. This particular pot of food still seems rather raw. |
   | 403 | [Fury of the Wilderness Pack](/Items/con_1428/){: .btn .btn--era5} | Gift | Use it to select 1 of the following: Fury of the Wilderness Avatar Frame *1 or Behemoth Token *5 |
-  | 404 | [Fury of the Wilderness avatar frame gift pack](/Items/con_630/){: .btn .btn--era5} | Unknown | Open to receive the Fury of the Wilderness portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
+  | 404 | [Fury of the Wilderness avatar frame gift pack](/Items/con_630/){: .btn .btn--era5} | Avatar frame | Open to receive the Fury of the Wilderness portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
   | 405 | [GK of Angel Michael](/Items/con_516/){: .btn .btn--era5} | Event related | Congratulations! You got one GK of Angel Michael. We will send you the real item as soon as possible! |
   | 406 | [GK of Duke Ivan](/Items/con_515/){: .btn .btn--era5} | Event related | Congratulations! You got one GK of Duke Ivan. We will send you the real item as soon as possible! |
-  | 407 | [Gauze Special Skin](/Items/con_649/){: .btn .btn--era4} | Unknown | Unlock the skin when Gauze is awakened. |
+  | 407 | [Gauze Special Skin](/Items/con_649/){: .btn .btn--era4} | Special Skin | Unlock the skin when Gauze is awakened. |
   | 408 | [Gauze Token](/Items/con_981/){: .btn .btn--era4} | WEAPON PIECE | A Gauze token from an ancient campaign that can be used for awakening Mummy's exclusive potential, Gauze. |
-  | 409 | [Gelu Avatar](/Items/con_562/){: .btn .btn--era5} | Unknown | Use to receive the Gelu avatar |
-  | 410 | [Gelu Spring Festival Celebrations](/Items/con_1039/){: .btn .btn--era5} | Unknown | Use to get a skin: Gelu Spring Festival Celebration |
-  | 411 | [Gem Avatar](/Items/con_580/){: .btn .btn--era5} | Unknown | Use it to receive the Gem Avatar |
+  | 409 | [Gelu Avatar](/Items/con_562/){: .btn .btn--era5} | Hero Avatar | Use to receive the Gelu avatar |
+  | 410 | [Gelu Spring Festival Celebrations](/Items/con_1039/){: .btn .btn--era5} | Special Skin | Use to get a skin: Gelu Spring Festival Celebration |
+  | 411 | [Gem Avatar](/Items/con_580/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Gem Avatar |
   | 412 | [Genie](/Items/con_1573/){: .btn .btn--era4} | Gift | Genie |
   | 413 | [Genie Special offer Pack](/Items/con_1465/){: .btn .btn--era4} | Gift | Use it to get 3-star Genie *1, Magic Talent Potion *288, Tower Roster runes *30 and Diamond *3280 |
   | 414 | [Ghost Dragon's Soul](/Items/con_2033/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Bone Dragon's Awakening |
-  | 415 | [Ghostly Return: Black Knight Skin](/Items/con_1983/){: .btn .btn--era5} | Unknown | Grants the Ghostly Return: Black Knight skin. |
+  | 415 | [Ghostly Return: Black Knight Skin](/Items/con_1983/){: .btn .btn--era5} | Unit Skin | Grants the Ghostly Return: Black Knight skin. |
   | 416 | [Giant Special Offer Pack](/Items/con_1562/){: .btn .btn--era4} | Gift | Get Giant token x10. |
   | 417 | [Gingerbread Man](/Items/con_1092/){: .btn .btn--era4} | Event related | A Jolly Christmas event item. Can be exchanged for Christmas presents. |
   | 418 | [Glimmer Crystal](/Items/con_807/){: .btn .btn--era4} | Event related | A Crystal guarded by powerful dragons. Can be exchanged for the Dungeon Faction items in corresponding events! |
@@ -438,7 +438,7 @@ classes: wide
   | 424 | [Glory Coin](/Items/con_922/){: .btn .btn--era4} | Other | Casted by the glorious light of the Kingdom. Can only be obtained by fighting in Kingdom Contest battles |
   | 425 | [Gnoll Warrior Soul](/Items/con_2066/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Gnoll's Awakening. |
   | 426 | [Gods' Gift Pack](/Items/con_1457/){: .btn .btn--era5} | Gift | Use it to get Heaven Component Chest*1, Diamond *6480, and Angel Token *5 |
-  | 427 | [Gold](/Items/con_899/){: .btn .btn--era9} | Unknown | Glittering gold can be used in many ways. |
+  | 427 | [Gold](/Items/con_899/){: .btn .btn--era9} | VIP related | Glittering gold can be used in many ways. |
   | 428 | [Gold Compass](/Items/con_815/){: .btn .btn--era4} | Event related | A gold compass to predict the future. Can be exchanged for Cove Faction items in corresponding events! |
   | 429 | [Gold Dragon's Soul](/Items/con_2025/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Green Dragon's Awakening |
   | 430 | [Gold Golem's Soul](/Items/con_2052/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Iron Golem's Awakening |
@@ -448,27 +448,27 @@ classes: wide
   | 434 | [Gold Key Pack C](/Items/con_1569/){: .btn .btn--era5} | Gift | 15 Gold Keys and 1,980 Diamonds |
   | 435 | [Gold Key Pack D](/Items/con_1570/){: .btn .btn--era5} | Gift | 10 Gold Keys and 2,280 Diamonds |
   | 436 | [Gold Key Pack E](/Items/con_1571/){: .btn .btn--era5} | Gift | 20 Gold Keys and 3,380 Diamonds |
-  | 437 | [Golden Armor: Angel Skin](/Items/con_1974/){: .btn .btn--era5} | Unknown | Grants the Gold Armor: Angel skin. |
-  | 438 | [Golden Armor: PhuThieu](/Items/con_972/){: .btn .btn--era5} | Unknown |  |
+  | 437 | [Golden Armor: Angel Skin](/Items/con_1974/){: .btn .btn--era5} | Unit Skin | Grants the Gold Armor: Angel skin. |
+  | 438 | [Golden Armor: PhuThieu](/Items/con_972/){: .btn .btn--era5} | Hero Avatar |  |
   | 439 | [Golden Chest](/Items/con_966/){: .btn .btn--era4} | Gift | A Golden Chest obtained from Archery Master. Get either an Unit Token or 5000 unit EXP at random after opening it |
-  | 440 | [Golden Duke avatar](/Items/con_571/){: .btn .btn--era5} | Unknown | Use to receive Crag Hack's Golden Duke skin and avatar |
-  | 441 | [Golden Duke: Crag Hack](/Items/con_1057/){: .btn .btn--era5} | Unknown | Use to get Crag Hack's Golden Duke skin |
-  | 442 | [Goodness-Cast Stone](/Items/con_1124/){: .btn .btn--era5} | Unknown | Goodness-Cast Stone, a necessary item used for casting Goodness Holy Emblems |
-  | 443 | [Gorgon's Horn Special Skin](/Items/con_663/){: .btn .btn--era5} | Unknown | Unlock the skin when Gorgon's Horn is awakened. |
+  | 440 | [Golden Duke avatar](/Items/con_571/){: .btn .btn--era5} | Hero Avatar | Use to receive Crag Hack's Golden Duke skin and avatar |
+  | 441 | [Golden Duke: Crag Hack](/Items/con_1057/){: .btn .btn--era5} | Special Skin | Use to get Crag Hack's Golden Duke skin |
+  | 442 | [Goodness-Cast Stone](/Items/con_1124/){: .btn .btn--era5} | Holy Emblems Cast Stone | Goodness-Cast Stone, a necessary item used for casting Goodness Holy Emblems |
+  | 443 | [Gorgon's Horn Special Skin](/Items/con_663/){: .btn .btn--era5} | Special Skin | Unlock the skin when Gorgon's Horn is awakened. |
   | 444 | [Gorgon's Horn Token](/Items/con_995/){: .btn .btn--era5} | WEAPON PIECE | A Gorgon's Horn token from an ancient campaign that can be used for awakening Gorgon's exclusive potential, Gorgon's Horn. |
   | 445 | [Grand Elf's Soul](/Items/con_2021/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Grand Elf's Awakening |
-  | 446 | [Gratitude bonus pack](/Items/con_2114/){: .btn .btn--era4} | Unknown | Use it to select 1 Universal Weapon Token |
+  | 446 | [Gratitude bonus pack](/Items/con_2114/){: .btn .btn--era4} | Weapon Token related | Use it to select 1 Universal Weapon Token |
   | 447 | [Greedy Heart Chest](/Items/con_1519/){: .btn .btn--era5} | Gift | A treasure chest cursed by tide power, only the lords having Regnan Archer can open it |
   | 448 | [Green Candy](/Items/con_552/){: .btn .btn--era4} | Event related | A beautifully packaged green candy. Can be used in the New Year Double Discounts event. |
   | 449 | [Green Crystal](/Items/con_711/){: .btn .btn--era2} | Material | A mysterious runestone. Can improve your unit's skill insight a little. Provides 50 skill EXP when used. |
   | 450 | [Green Material Chest](/Items/con_1255/){: .btn .btn--era2} | Gift | Receive a random green equipment-upgrading item. |
-  | 451 | [Griffin Heart avatar frame gift pack](/Items/con_607/){: .btn .btn--era5} | Unknown | Open it to receive a Griffin Heart avatar frame! |
+  | 451 | [Griffin Heart avatar frame gift pack](/Items/con_607/){: .btn .btn--era5} | Avatar frame | Open it to receive a Griffin Heart avatar frame! |
   | 452 | [Growth Card](/Items/con_1911/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 300 Dragonsteel, 300 Shadowsteel, 300 Starsilver, and 60 diamonds. |
   | 453 | [Guangdong Stewed Lamb Brisket Over Charcoal Stove](/Items/con_1169/){: .btn .btn--era3} | Event related | Using a charcoal stove and clay pot, while similar to the hotpot used in Guangdong, requires less frequent boiling of the lamb brisket. The lamb brisket is chewy and the dish's sauce has a strong aroma, although this particular pot of food still seems rather raw. |
-  | 454 | [Guard of Light - Angel Skin](/Items/con_1973/){: .btn .btn--era5} | Unknown | Obtain Guard of Light - Angel Skin after opening |
-  | 455 | [Guardian of Vernin Ryland](/Items/con_1045/){: .btn .btn--era5} | Unknown | Use to get a skin: Guardian of Vernin Ryland |
+  | 454 | [Guard of Light - Angel Skin](/Items/con_1973/){: .btn .btn--era5} | Unit Skin | Obtain Guard of Light - Angel Skin after opening |
+  | 455 | [Guardian of Vernin Ryland](/Items/con_1045/){: .btn .btn--era5} | Special Skin | Use to get a skin: Guardian of Vernin Ryland |
   | 456 | [Guild Fund](/Items/con_930/){: .btn .btn--era4} | Other | Obtained through donations. Can be used for City Bidding in the Cross-server Guild War |
-  | 457 | [Guild coin](/Items/con_896/){: .btn .btn--era4} | Unknown | Can be exchanged for items in the Guild Store. |
+  | 457 | [Guild coin](/Items/con_896/){: .btn .btn--era4} | VIP related | Can be exchanged for items in the Guild Store. |
   | 458 | [Guizhou Sour Fish Hotpot](/Items/con_1253/){: .btn .btn--era3} | Event related | Wild tomatos, red peppers, white wine, ginger, and garlic are fermented together for half a month to make a sour red soup. Gutted fresh fish is then boiled in this sour soup to give it a fresh and refreshing taste.This particular pot of food still seems rather raw. |
   | 459 | [Guizhou Spicy Fish Hotpot](/Items/con_1202/){: .btn .btn--era3} | Event related | The Yunnan Guizhou region prefers to use a pickling method to infuse foods with spiciness. This hotpot is made by cooking carp in a broth with chili pickled with ginger and garlic, and is loved by the people. This particular pot of food still seems rather raw. |
   | 460 | [Guizhou Stinky Hotpot](/Items/con_1247/){: .btn .btn--era3} | Event related | Passed down by the Qiannan Buyei people, this dish is made by cooking a variety of vegetables together and then fermenting them for some time to make a peculiar and pungent sour food that is used to make the hotpot soup base. This particular pot of food still seems rather raw. |
@@ -478,24 +478,24 @@ classes: wide
   | 464 | [Halloween Special Offer Pack](/Items/con_1419/){: .btn .btn--era4} | Gift | Includes Diamond *980, Candy Witch Skin *1 and Skeleton Soul Stone *20 |
   | 465 | [Harpy Hag Soul](/Items/con_2059/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Harpy's Awakening. |
   | 466 | [Harvest Night Limited-Time Special Offer](/Items/con_1851/){: .btn .btn--era4} | Gift | Grants 980 diamonds, 1 Harvest Night Roland skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
-  | 467 | [Harvest Night Roland](/Items/con_1034/){: .btn .btn--era5} | Unknown | Use to get a skin: Harvest Night Roland |
+  | 467 | [Harvest Night Roland](/Items/con_1034/){: .btn .btn--era5} | Special Skin | Use to get a skin: Harvest Night Roland |
   | 468 | [Harvest Night Roland Offer](/Items/con_1852/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 1 Harvest Night Roland skin, 40 Roland Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
   | 469 | [Hawkeye Component Chest](/Items/con_1349/){: .btn .btn--era5} | Gift | A component chest of the Live Hawkeye. Using it allows you to select 1 component from the Live Hawkeye's Artifacts |
   | 470 | [Hawkeye Special Offer Pack](/Items/con_1431/){: .btn .btn--era5} | Gift | Use it to get Diamond *980, Hawkeye Component Chest *1, Heaven-Cast Stone *50 and Artifact Essence *10 |
   | 471 | [Healing Spring](/Items/con_1333/){: .btn .btn--era4} | Gift | Mysterious spring water from a desert oasis. Recovers 100 Action Points. |
-  | 472 | [Heart of Fire avatar frame gift pack](/Items/con_624/){: .btn .btn--era5} | Unknown | Open to receive the Heart of Fire portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
+  | 472 | [Heart of Fire avatar frame gift pack](/Items/con_624/){: .btn .btn--era5} | Avatar frame | Open to receive the Heart of Fire portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
   | 473 | [Heart of Raging Flame package](/Items/con_1392/){: .btn .btn--era4} | Gift | Fiery crystals produced after a Firebird is reborn. Possibility of receiving Firebird tokens or a Firebird God profile picture frame after use. |
   | 474 | [Heart of the Land package](/Items/con_1410/){: .btn .btn--era4} | Gift | There is a chance you will obtain Stone Element tokens or Dendroid Guard tokens after use. |
   | 475 | [Heart of the Melting Flame package](/Items/con_1405/){: .btn .btn--era4} | Gift | A pack burning with blue spectral flame. Chance of receiving Efreeti Sultan tokens or Fire Elemental tokens after use. |
-  | 476 | [Heart-pounding Summer - Cassanbel](/Items/con_1080/){: .btn .btn--era5} | Unknown | Angel of Budding Love |
+  | 476 | [Heart-pounding Summer - Cassanbel](/Items/con_1080/){: .btn .btn--era5} | Special Skin | Angel of Budding Love |
   | 477 | [Heart-pounding Summer Limited-Time Special Offer](/Items/con_1950/){: .btn .btn--era5} | Gift | Grants 980 diamonds, 1 Heart-pounding Summer Cassanbel, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
   | 478 | [Heaven Component Chest](/Items/con_1354/){: .btn .btn--era5} | Gift | A component chest of the Angelic Alliance. Use it to select 1 of the components from the Angelic Alliance's Artifacts |
-  | 479 | [Heaven Messenger Avatar Frame Pack](/Items/con_639/){: .btn .btn--era5} | Unknown | Open it to receive a Heaven Messenger Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 479 | [Heaven Messenger Avatar Frame Pack](/Items/con_639/){: .btn .btn--era5} | Avatar frame | Open it to receive a Heaven Messenger Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
   | 480 | [Heavenly Miracle Chest](/Items/con_1464/){: .btn .btn--era5} | Gift | A treasure chest built in the Heavenly Brilliance, only the lords having Angel can open it. |
   | 481 | [Heavenly Miracle chest](/Items/con_1407/){: .btn .btn--era5} | Gift | Only lords who possess Angel can use the mystic chest that was built in the Heavenly Brilliance. |
   | 482 | [Heavenly Special Offer Pack](/Items/con_1729/){: .btn .btn--era5} | Gift | Grants 6,480 diamonds and 1 Heavenly Component Chest. |
   | 483 | [Heavenly Value Pack](/Items/con_1752/){: .btn .btn--era5} | Gift | Grants 1 Heavenly Component Chest and 3,880 diamonds. |
-  | 484 | [Heresy Apprentice Vidomina](/Items/con_1052/){: .btn .btn--era5} | Unknown | Use to get a skin: Heresy Apprentice Vidomina |
+  | 484 | [Heresy Apprentice Vidomina](/Items/con_1052/){: .btn .btn--era5} | Special Skin | Use to get a skin: Heresy Apprentice Vidomina |
   | 485 | [Hero Card](/Items/con_1912/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 2 Universal (Hero) Tokens, 2 Ancient Temple Scrolls, 80 Spell Scrolls, and 80 diamonds. |
   | 486 | [Hero King Avatar Frame (2 days)](/Items/con_1010/){: .btn .btn--era5} | Experience Card | Grants access to the Hero King Avatar Frame for 2 days. |
   | 487 | [Hero Leader Pack](/Items/con_1689/){: .btn .btn--era5} | Gift | Use to select one of the following heroes to recruit: Roland, Sandro, or Kilgor. If you select a hero that you already own, then you will receive 30 tokens for that hero. |
@@ -528,17 +528,17 @@ classes: wide
   | 514 | [Holy Emblem Selection Pack](/Items/con_1799/){: .btn .btn--era5} | Gift | Use it to select one of many Holy Emblems. |
   | 515 | [Holy Emblem Voucher Special offer](/Items/con_1370/){: .btn .btn--era5} | Gift | Use it to get Diamond *300 and Holy Emblem Redemption Ticket *30 |
   | 516 | [Holy Light Judge Pack](/Items/con_1484/){: .btn .btn--era5} | Gift | Use it to select 1 of the following: Holy Light Judge Avatar Frame *1 or Paladin Token *5 |
-  | 517 | [Hot Commenters Pack](/Items/con_615/){: .btn .btn--era5} | Unknown | Hot Commenters Event rewards. Open it to receive an avatar frame. You will get 30 diamonds instead if the avatar frame has already been unlocked |
+  | 517 | [Hot Commenters Pack](/Items/con_615/){: .btn .btn--era5} | Avatar frame | Hot Commenters Event rewards. Open it to receive an avatar frame. You will get 30 diamonds instead if the avatar frame has already been unlocked |
   | 518 | [Hubei Fish Offal](/Items/con_1223/){: .btn .btn--era3} | Event related | Smooth fish intestines, tender fish maw, and delicate fish liver are cooked together in a fragrant sauce. The combination of all the different textures in your mouth gives a unique taste experience. This particular pot of food still seems rather raw. |
   | 519 | [Huge EXP potion](/Items/con_703/){: .btn .btn--era4} | EXP | A bottle of highly purified EXP potion. You will gain 7500 unit EXP after drinking it. |
   | 520 | [Huge Roster runes](/Items/con_750/){: .btn .btn--era3} | Event related | Important item to increase your massive units' rankings. |
-  | 521 | [Human Sandro Avatar](/Items/con_579/){: .btn .btn--era5} | Unknown | Use to receive the Human Sandro Avatar |
+  | 521 | [Human Sandro Avatar](/Items/con_579/){: .btn .btn--era5} | Hero Avatar | Use to receive the Human Sandro Avatar |
   | 522 | [Hydra's Head Token](/Items/con_997/){: .btn .btn--era5} | WEAPON PIECE | A Hydra's Head token from an ancient campaign that can be used for awakening Hydra's exclusive potential, Hydra's Head. |
-  | 523 | [Ice Crystal avatar](/Items/con_569/){: .btn .btn--era5} | Unknown | Use to receive Adelaide's Ice Crystal skin and avatar |
-  | 524 | [Ice Crystal: Adelaide](/Items/con_1023/){: .btn .btn--era5} | Unknown | Use to get Adelaide's Ice Crystal skin |
-  | 525 | [Ice Demon Avatar](/Items/con_596/){: .btn .btn--era5} | Unknown | Use to get the Ice Demon avatar. |
+  | 523 | [Ice Crystal avatar](/Items/con_569/){: .btn .btn--era5} | Hero Avatar | Use to receive Adelaide's Ice Crystal skin and avatar |
+  | 524 | [Ice Crystal: Adelaide](/Items/con_1023/){: .btn .btn--era5} | Special Skin | Use to get Adelaide's Ice Crystal skin |
+  | 525 | [Ice Demon Avatar](/Items/con_596/){: .btn .btn--era5} | Hero Avatar | Use to get the Ice Demon avatar. |
   | 526 | [Immortal Dragon Bone Chest](/Items/con_1530/){: .btn .btn--era5} | Gift | Use it to get random Immortal Dragon Bone Weapon Token *1 or Immortal Dragon Bone Weapon Token *2 |
-  | 527 | [Immortal Dragon Bone Special Skin](/Items/con_648/){: .btn .btn--era5} | Unknown | Unlock the skin when Immortal Dragon Bone is awakened |
+  | 527 | [Immortal Dragon Bone Special Skin](/Items/con_648/){: .btn .btn--era5} | Special Skin | Unlock the skin when Immortal Dragon Bone is awakened |
   | 528 | [Immortal Dragon Bone Token](/Items/con_980/){: .btn .btn--era5} | WEAPON PIECE | An Immortal Dragon Done token from an ancient campaign that can be used for awakening Bone Dragon's general exclusive potential - Immortal Dragon Bone |
   | 529 | [Inferno Faction Selection Chest](/Items/con_1630/){: .btn .btn--era4} | Gift | Use to select 1 Imp, Gog, Hell Hound, Demon, Pit Fiend, or Efreeti token. |
   | 530 | [Inferno Guard Soul](/Items/con_2045/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Demon's Awakening. |
@@ -548,19 +548,19 @@ classes: wide
   | 534 | [Inferno Unit Chest](/Items/con_1273/){: .btn .btn--era4} | Gift | Receive a random Inferno Faction Unit token. |
   | 535 | [Inferno Unit Random Token Chest](/Items/con_1582/){: .btn .btn--era4} | Gift | Randomly obtain 30 tokens for one unit: Pit Fiend, Demon, Efreeti, Hell Hound, Gog, Imp. |
   | 536 | [Inferno Unit Selectable Token Chest](/Items/con_1583/){: .btn .btn--era4} | Gift | Choose and get 50 tokens for one unit: Pit Fiend, Demon, Efreeti, Hell Hound. |
-  | 537 | [Inferno avatar frame gift pack](/Items/con_604/){: .btn .btn--era5} | Unknown | Open it to receive an Inferno avatar frame! |
+  | 537 | [Inferno avatar frame gift pack](/Items/con_604/){: .btn .btn--era5} | Avatar frame | Open it to receive an Inferno avatar frame! |
   | 538 | [Intelligence Scroll](/Items/con_964/){: .btn .btn--era9} | Event related | Intelligence is invaluable. Intelligence Scrolls record secrets about heroes from a mysterious continent and can be exchanged for items at the Tavern. |
   | 539 | [Iris Shield Token](/Items/con_913/){: .btn .btn--era4} | WEAPON PIECE | An exclusive token from an ancient campaign that can be used for awakening the Defensive unit's general exclusive potential - Iris Shield |
   | 540 | [Iron Pickaxe](/Items/con_539/){: .btn .btn--era4} | Event related | Can be used to participate in the mining event; however, it is made of weak materials and will break after mining 1 time. |
   | 541 | [Joyous Pack 1](/Items/con_1748/){: .btn .btn--era3} | Gift | Open to get Rock-paper-scissors Cards and various rewards. |
   | 542 | [Joyous Pack 2](/Items/con_1749/){: .btn .btn--era3} | Gift | Open to get Rock-paper-scissors Cards and various rewards. |
   | 543 | [Joyous Pack 3](/Items/con_1750/){: .btn .btn--era3} | Gift | Open to get Rock-paper-scissors Cards and various rewards. |
-  | 544 | [Judicator Avatar](/Items/con_597/){: .btn .btn--era5} | Unknown | Use to get the Judicator Avatar |
-  | 545 | [Judicator Skin - Devotee](/Items/con_1976/){: .btn .btn--era5} | Unknown | Obtain Devotee - Judicator Skin after opening |
+  | 544 | [Judicator Avatar](/Items/con_597/){: .btn .btn--era5} | Hero Avatar | Use to get the Judicator Avatar |
+  | 545 | [Judicator Skin - Devotee](/Items/con_1976/){: .btn .btn--era5} | Unit Skin | Obtain Devotee - Judicator Skin after opening |
   | 546 | [Jujube Rice Dumpling](/Items/con_544/){: .btn .btn--era4} | Event related | A delicious jujube rice dumpling. Can be used in the Double Discounts event. |
   | 547 | [Kassandra Pack](/Items/con_1815/){: .btn .btn--era4} | Gift | Grants 680 Diamonds, 30 Kassandra Tokens, and 100 Spell Scrolls. |
   | 548 | [King of Abyss Pack](/Items/con_1479/){: .btn .btn--era5} | Gift | Use it to select one from the following: King of Abyss Avatar Frame *1 or Devil Token *5 |
-  | 549 | [King of Pirates Concept Art Avatar](/Items/con_1101/){: .btn .btn--era5} | Unknown | Use to receive the King of Pirates Special Effects Avatar. |
+  | 549 | [King of Pirates Concept Art Avatar](/Items/con_1101/){: .btn .btn--era5} | Hero Avatar | Use to receive the King of Pirates Special Effects Avatar. |
   | 550 | [King's Store](/Items/con_1408/){: .btn .btn--era4} | Gift | There is a chance you will obtain a certain number of privilege points after use |
   | 551 | [Knight Pack](/Items/con_1589/){: .btn .btn--era4} | Gift | Grants 300 diamonds, 15 Cavalier tokens, 30 Pikeman tokens, and 300 VIP EXP. |
   | 552 | [Knight Pike Token](/Items/con_916/){: .btn .btn--era4} | WEAPON PIECE | An exclusive token from an ancient campaign that can be used for awakening the Charging unit's general exclusive potential - Knight Pike |
@@ -572,14 +572,14 @@ classes: wide
   | 558 | [Laborer Supply Pack C](/Items/con_1676/){: .btn .btn--era4} | Gift | Labor Day-exclusive pack. Not only can you get the corresponding amount of diamonds and VIP EXP, you can also get a lot of gold keys and event items! |
   | 559 | [Laborer Supply Pack D](/Items/con_1677/){: .btn .btn--era5} | Gift | Labor Day-exclusive pack. Not only can you get the corresponding amount of diamonds and VIP EXP, you can also get a lot of gold keys and event items! |
   | 560 | [Laborer Supply Pack E](/Items/con_1678/){: .btn .btn--era5} | Gift | Labor Day-exclusive pack. Not only can you get the corresponding amount of diamonds and VIP EXP, you can also get a lot of gold keys and event items! |
-  | 561 | [Lady Luck - Sprite](/Items/con_2001/){: .btn .btn--era5} | Unknown | Grants the Lady Luck: Sprite skin. |
+  | 561 | [Lady Luck - Sprite](/Items/con_2001/){: .btn .btn--era5} | Unit Skin | Grants the Lady Luck: Sprite skin. |
   | 562 | [Large Arena Treasure](/Items/con_719/){: .btn .btn--era4} | EXP | A treasure chest containing 60 Arena Coins! |
   | 563 | [Large Campaign Treasure](/Items/con_723/){: .btn .btn--era4} | EXP | A treasure chest containing 60 Empire Medals! |
   | 564 | [Large EXP Potion](/Items/con_702/){: .btn .btn--era3} | EXP | A bottle of purified EXP potion. You will gain 1500 units of EXP after drinking it. |
   | 565 | [Large Energy Potion](/Items/con_706/){: .btn .btn--era4} | EXP | A bottle of highly purified energy potion. You will gain 60 energy after drinking it. |
   | 566 | [Large Energy-Binding Vial](/Items/con_726/){: .btn .btn--era4} | EXP | A vial filled to the brim with artifact essence. You will gain 30 artifact essence from it. |
   | 567 | [Large Roster runes](/Items/con_749/){: .btn .btn--era3} | Event related | Important item to increase your large units' rankings. |
-  | 568 | [League coin](/Items/con_892/){: .btn .btn--era4} | Unknown | League Coins can be obtained in Duel of Champion and Season Rewards. |
+  | 568 | [League coin](/Items/con_892/){: .btn .btn--era4} | VIP related | League Coins can be obtained in Duel of Champion and Season Rewards. |
   | 569 | [Legendary Dragon Chest](/Items/con_2008/){: .btn .btn--era5} | Gift | Legendary Chest obtained from Dragon Invasion |
   | 570 | [Legendary Nian Monster Chest](/Items/con_2010/){: .btn .btn--era5} | Gift | Legendary Chest obtained by challenging the Nian Monster during the New Year. |
   | 571 | [Legendary Warrior (14 Days)](/Items/con_1019/){: .btn .btn--era5} | Experience Card | Obtained by getting 3rd place in the cross-server Clash of Gods |
@@ -618,21 +618,21 @@ classes: wide
   | 604 | [Limited-Time Pack D](/Items/con_1581/){: .btn .btn--era4} | Gift | Buy to get 2,280 diamonds, 10 gold keys, and 2,280 VIP EXP. |
   | 605 | [Limited-time Live Hawkeye Set](/Items/con_1635/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds, 1 Bird of Perception, 1 Ring of Eagle Vision, 1 Stoic Watchman, and 1 Medal of Truth. |
   | 606 | [Limited-time offer on Vidomina](/Items/con_1564/){: .btn .btn--era4} | Gift | Get 1-star Vidomina x1, Candy Witch Skin *1, Necropolis roster rune x10, spell scroll x50, Temple Scroll x2. |
-  | 607 | [Lion's Leap - Gem Avatar](/Items/con_874/){: .btn .btn--era5} | Unknown |  |
+  | 607 | [Lion's Leap - Gem Avatar](/Items/con_874/){: .btn .btn--era5} | Hero Avatar |  |
   | 608 | [Long Bow Token](/Items/con_914/){: .btn .btn--era4} | WEAPON PIECE | An exclusive token from an ancient campaign that can be used for awakening the Ranged unit's general exclusive potential - Long Bow |
   | 609 | [Lord Haart Hero Pack](/Items/con_1602/){: .btn .btn--era4} | Gift | Grants a 1-star Lord Haart, 20 Lord Haart tokens, and 2,700 diamonds. |
   | 610 | [Lord Haart Skin Pack](/Items/con_1592/){: .btn .btn--era4} | Gift | Use to get Lord Haart's Death of Deyja skin. |
-  | 611 | [Lord of Frost](/Items/con_1075/){: .btn .btn--era5} | Unknown | Use to get Dragon Mutare's Lord of Frost skin. |
-  | 612 | [Lord of Heaven avatar frame gift pack](/Items/con_619/){: .btn .btn--era5} | Unknown | Open it to receive a Lord of Heaven avatar frame! |
+  | 611 | [Lord of Frost](/Items/con_1075/){: .btn .btn--era5} | Special Skin | Use to get Dragon Mutare's Lord of Frost skin. |
+  | 612 | [Lord of Heaven avatar frame gift pack](/Items/con_619/){: .btn .btn--era5} | Avatar frame | Open it to receive a Lord of Heaven avatar frame! |
   | 613 | [Lord of Heaven package](/Items/con_1398/){: .btn .btn--era4} | Gift | Only the rare lords who earn the dragons' approval may claim this mysterious reward. Possibility of receiving Roc tokens or Green Dragon tokens after use. |
-  | 614 | [Lord of War avatar frame gift pack](/Items/con_610/){: .btn .btn--era5} | Unknown | Open it to receive a Lord of War avatar frame! |
-  | 615 | [Losses in battle](/Items/con_893/){: .btn .btn--era4} | Unknown | Represents the damage you have received in guild wars. You will need to be revived when it reaches 0. |
-  | 616 | [Love of Ice and Fire avatar frame gift pack](/Items/con_629/){: .btn .btn--era5} | Unknown | Open to receive the Love of Ice and Fire portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
+  | 614 | [Lord of War avatar frame gift pack](/Items/con_610/){: .btn .btn--era5} | Avatar frame | Open it to receive a Lord of War avatar frame! |
+  | 615 | [Losses in battle](/Items/con_893/){: .btn .btn--era4} | VIP related | Represents the damage you have received in guild wars. You will need to be revived when it reaches 0. |
+  | 616 | [Love of Ice and Fire avatar frame gift pack](/Items/con_629/){: .btn .btn--era5} | Avatar frame | Open to receive the Love of Ice and Fire portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
   | 617 | [Luck Card](/Items/con_1906/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 10 diamonds and 10 Energy. |
   | 618 | [Lucky Bag](/Items/con_1842/){: .btn .btn--era4} | Gift | Randomly grants one type of item. |
-  | 619 | [Lucky Coin](/Items/con_909/){: .btn .btn--era5} | Unknown | Commemorative coin |
-  | 620 | [Lucky dice](/Items/con_891/){: .btn .btn--era4} | Unknown | Can be used to find secret treasure! |
-  | 621 | [Luna avatar](/Items/con_575/){: .btn .btn--era5} | Unknown | Use to receive the Luna avatar |
+  | 619 | [Lucky Coin](/Items/con_909/){: .btn .btn--era5} | VIP related | Commemorative coin |
+  | 620 | [Lucky dice](/Items/con_891/){: .btn .btn--era4} | VIP related | Can be used to find secret treasure! |
+  | 621 | [Luna avatar](/Items/con_575/){: .btn .btn--era5} | Hero Avatar | Use to receive the Luna avatar |
   | 622 | [Lunar Invitation Gem Offer](/Items/con_1854/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 1 Lunar Invitation Gem skin, 40 Gem Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
   | 623 | [Lunar Invitation Limited-Time Special Offer](/Items/con_1853/){: .btn .btn--era4} | Gift | Grants 980 diamonds, 1 Lunar Invitation Gem skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
   | 624 | [Luxury Festive Box A](/Items/con_1633/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest, 500,000 gold, 200 spell scrolls, and 300 clovers. |
@@ -664,16 +664,16 @@ classes: wide
   | 650 | [Lv. 50 Joyful Growth Pack](/Items/con_1770/){: .btn .btn--era4} | Gift | Grants 80 SSR Unit Souls and 5 Green Crystals (Runestone). |
   | 651 | [Lv. 50 Premium Growth Pack](/Items/con_1788/){: .btn .btn--era4} | Gift | Grants 80 SSR Unit Souls and 5 Purple Crystals (Runestone). |
   | 652 | [Lv. 50 VIP Growth Pack](/Items/con_1779/){: .btn .btn--era4} | Gift | Grants 80 SSR Unit Souls and 5 Blue Crystals (Runestone). |
-  | 653 | [Lyra Special Skin](/Items/con_654/){: .btn .btn--era4} | Unknown | Unlock the skin when Lyra is awakened. |
+  | 653 | [Lyra Special Skin](/Items/con_654/){: .btn .btn--era4} | Special Skin | Unlock the skin when Lyra is awakened. |
   | 654 | [Lyra Token](/Items/con_986/){: .btn .btn--era4} | WEAPON PIECE | A Lyra token from an ancient campaign that can be used for awakening Genie's exclusive potential, Lyra. |
   | 655 | [Macau Hotpot Soup](/Items/con_1193/){: .btn .btn--era3} | Event related | The delectable soup base in this dish is made by boiling abalone, fish maw and sea cucumber for numerous hours. The fresh and distinct flavor of the ocean has been concentrated in this little pot of soup, although this particular pot of food still seems rather raw. |
   | 656 | [Magic](/Items/con_861/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |
   | 657 | [Magic Beast Chest](/Items/con_1521/){: .btn .btn--era6} | Gift | A treasure chest made by a casting master, only the lords having Dragon Golem can open it |
   | 658 | [Magic Elemental's Soul](/Items/con_2077/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Psychic Elemental's Awakening |
-  | 659 | [Magic Master Avatar Frame Pack](/Items/con_633/){: .btn .btn--era5} | Unknown | Open it to receive a Magic Master Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 660 | [Magic crystal](/Items/con_895/){: .btn .btn--era4} | Unknown | Can be used to enhance your spells in the Mage Guild. Win by completing levels. |
-  | 661 | [Magic resistance skill essence](/Items/con_1118/){: .btn .btn--era4} | Unknown | Records the advanced secrets of battle. Can be used to improve units' magic resistance. |
-  | 662 | [Magician Astral](/Items/con_1067/){: .btn .btn--era5} | Unknown | Use to get a skin: Magician Astral |
+  | 659 | [Magic Master Avatar Frame Pack](/Items/con_633/){: .btn .btn--era5} | Avatar frame | Open it to receive a Magic Master Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 660 | [Magic crystal](/Items/con_895/){: .btn .btn--era4} | VIP related | Can be used to enhance your spells in the Mage Guild. Win by completing levels. |
+  | 661 | [Magic resistance skill essence](/Items/con_1118/){: .btn .btn--era4} | Skill Essence | Records the advanced secrets of battle. Can be used to improve units' magic resistance. |
+  | 662 | [Magician Astral](/Items/con_1067/){: .btn .btn--era5} | Special Skin | Use to get a skin: Magician Astral |
   | 663 | [Magician Astral Offer](/Items/con_1924/){: .btn .btn--era5} | Gift | Grants 6,480 diamonds, 1 Magician Astral skin, 40 Astral Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
   | 664 | [Magician Limited-Time Special Offer](/Items/con_1923/){: .btn .btn--era5} | Gift | Grants 980 diamonds, 1 Magician Astral skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
   | 665 | [Magma Core](/Items/con_819/){: .btn .btn--era4} | Event related | Item dropped in the Xeron's Capture event. Used in the event to upgrade the volcano. |
@@ -696,10 +696,10 @@ classes: wide
   | 682 | [Medium Energy-Binding Vial](/Items/con_725/){: .btn .btn--era4} | EXP | A vial containing artifact essence. You will gain 20 artifact essence from it. |
   | 683 | [Medium Roster runes](/Items/con_748/){: .btn .btn--era3} | Event related | Important item to increase your mid-sized units' rankings. |
   | 684 | [Medusa Queen Soul](/Items/con_2061/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Medusa's Awakening. |
-  | 685 | [Medusa's Bow Special Skin](/Items/con_659/){: .btn .btn--era4} | Unknown | Unlock the skin when Medusa's Bow is awakened |
+  | 685 | [Medusa's Bow Special Skin](/Items/con_659/){: .btn .btn--era4} | Special Skin | Unlock the skin when Medusa's Bow is awakened |
   | 686 | [Medusa's Bow Token](/Items/con_991/){: .btn .btn--era4} | WEAPON PIECE | A Medusa's Bow token from an ancient campaign that can be used for awakening Medusa's general exclusive potential - Medusa's Bow |
-  | 687 | [Memory Crystal](/Items/con_941/){: .btn .btn--era5} | Unknown | Memory Crystals are obtained from memory extraction and are used to purchase items in the Memory Store. |
-  | 688 | [Mephala Avatar](/Items/con_563/){: .btn .btn--era5} | Unknown | Use to receive the Mephala avatar |
+  | 687 | [Memory Crystal](/Items/con_941/){: .btn .btn--era5} | VIP related | Memory Crystals are obtained from memory extraction and are used to purchase items in the Memory Store. |
+  | 688 | [Mephala Avatar](/Items/con_563/){: .btn .btn--era5} | Hero Avatar | Use to receive the Mephala avatar |
   | 689 | [Might](/Items/con_859/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |
   | 690 | [Mighty Gorgon Chest](/Items/con_1523/){: .btn .btn--era5} | Gift | A treasure chest with wild power, only the lords having Gorgon can open it. |
   | 691 | [Mighty Gorgon Pack](/Items/con_1522/){: .btn .btn--era5} | Gift | Use it to select 1 of the following: Mighty Gorgon Avatar Frame *1 or Gorgon Token *5 |
@@ -708,9 +708,9 @@ classes: wide
   | 694 | [Minotaur King's Soul](/Items/con_2062/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Minotaur's Awakening |
   | 695 | [Mission Points](/Items/con_949/){: .btn .btn--era4} | Other | Complete missions to earn points, which can be used to unlock special items. |
   | 696 | [Mithril Special Offer Pack](/Items/con_1958/){: .btn .btn--era5} | Gift | Buy to get the following items every day for a week: 5 Void Mithril, 5 General Exclusive Token Chests, and 30 Refinement Stones. |
-  | 697 | [Moonlight Invitation - Gem](/Items/con_1048/){: .btn .btn--era5} | Unknown | Use to get Gem's Moonlight Invitation skin |
+  | 697 | [Moonlight Invitation - Gem](/Items/con_1048/){: .btn .btn--era5} | Special Skin | Use to get Gem's Moonlight Invitation skin |
   | 698 | [Moonlight Rose](/Items/con_558/){: .btn .btn--era4} | Event related | An exotic rose picked by a hero along the campaign trail. Can exchanged for rewards in the Valentine's Day 2021 Rose Exchange event. |
-  | 699 | [Movement](/Items/con_894/){: .btn .btn--era4} | Unknown | Onward to adventure! |
+  | 699 | [Movement](/Items/con_894/){: .btn .btn--era4} | VIP related | Onward to adventure! |
   | 700 | [Movement Pack](/Items/con_1722/){: .btn .btn--era4} | Gift | Grants 60 diamonds and 100 Movement. |
   | 701 | [Movement Premium Pack](/Items/con_1723/){: .btn .btn--era4} | Gift | Grants 180 diamonds and 360 Movement. |
   | 702 | [Multi-choice Cast Stone Pack](/Items/con_1480/){: .btn .btn--era4} | Gift | Use it to select one from the following: Goodness, Order, Neutral, Evil or Chaos-Cast Stone *1 |
@@ -719,7 +719,7 @@ classes: wide
   | 705 | [Mysterious Premium Artifact Component Chest](/Items/con_1928/){: .btn .btn--era5} | Gift | Randomly grants 1 of the following: 1 Dragon King Component Chest, 1 Frost Component Chest, 1 Heaven Component Chest, 1 Piece of Eden Component Chest, or 1 Doomsday Component Chest. |
   | 706 | [Naga Queen's Soul](/Items/con_2055/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Naga's Awakening |
   | 707 | [Naga Sword Chest](/Items/con_1520/){: .btn .btn--era5} | Gift | Use it to get random Naga Sword Weapon Token *1 or Naga Sword Weapon Token *2 |
-  | 708 | [Naga Sword Special Skin](/Items/con_655/){: .btn .btn--era5} | Unknown | Unlock the skin when Naga Sword is awakened |
+  | 708 | [Naga Sword Special Skin](/Items/con_655/){: .btn .btn--era5} | Special Skin | Unlock the skin when Naga Sword is awakened |
   | 709 | [Naga Sword Token](/Items/con_987/){: .btn .btn--era5} | WEAPON PIECE | A Naga Sword token from an ancient campaign that can be used for awakening Naga's general exclusive potential - Naga Sword |
   | 710 | [Necropolis Elite Pack](/Items/con_1471/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Lich Token *40 or Mummy Token *40 |
   | 711 | [Necropolis Faction Selection Chest](/Items/con_1683/){: .btn .btn--era4} | Gift | Use to select 1 Skeleton, Walking Dead, Wight, or Vampire token. |
@@ -730,11 +730,11 @@ classes: wide
   | 716 | [Necropolis Week Special Offer Pack B](/Items/con_1680/){: .btn .btn--era4} | Gift | Grants 10 Necropolis Faction Chests, 60 diamonds, and 50,000 gold. |
   | 717 | [Necropolis Week Special Offer Pack C](/Items/con_1681/){: .btn .btn--era4} | Gift | Grants 20 Necropolis Faction Chests, 300 diamonds, 1 gold key, and 2 large energy potions. |
   | 718 | [Necropolis Week Special Offer Pack D](/Items/con_1682/){: .btn .btn--era4} | Gift | Grants 20 Necropolis Faction Selection Chests, 5 gold keys, 300,000 gold, and 5 large energy potions. |
-  | 719 | [Necropolis avatar frame gift pack](/Items/con_614/){: .btn .btn--era5} | Unknown | Open it to receive a Necropolis avatar frame! |
-  | 720 | [Nether Sabre Special Skin](/Items/con_647/){: .btn .btn--era5} | Unknown | Unlock the skin when Nether Sabre is awakened |
+  | 719 | [Necropolis avatar frame gift pack](/Items/con_614/){: .btn .btn--era5} | Avatar frame | Open it to receive a Necropolis avatar frame! |
+  | 720 | [Nether Sabre Special Skin](/Items/con_647/){: .btn .btn--era5} | Special Skin | Unlock the skin when Nether Sabre is awakened |
   | 721 | [Nether Sabre Token](/Items/con_979/){: .btn .btn--era5} | WEAPON PIECE | A Nether Sabre token from an ancient campaign that can be used for awakening Black Knight's general exclusive potential - Nether Sabre |
   | 722 | [Neutral Roster Rune](/Items/con_869/){: .btn .btn--era3} | Event related | Important item for upgrading your neutral roster. |
-  | 723 | [Neutral-Cast Stone](/Items/con_1125/){: .btn .btn--era5} | Unknown | Neutral-Cast Stone, a necessary item used for casting Neutral Holy Emblems |
+  | 723 | [Neutral-Cast Stone](/Items/con_1125/){: .btn .btn--era5} | Holy Emblems Cast Stone | Neutral-Cast Stone, a necessary item used for casting Neutral Holy Emblems |
   | 724 | [New Year Celebration Challenge Pass](/Items/con_867/){: .btn .btn--era5} | Event related | A mysterious Challenge Pass that drops during the New Year Celebration. Collect enough to gain access to the limited-time new year celebration stage! |
   | 725 | [New Year Celebration Pack](/Items/con_1106/){: .btn .btn--era5} | Gift | A mysterious pack obtained from the New Year celebration. It's said that lucky lords chosen by Queen Catherine will get rare artifact components when they open it! |
   | 726 | [New Year Diamond Lucky Bag](/Items/con_1450/){: .btn .btn--era4} | Gift | Use it to get a certain amount of Diamonds. Happy new year! |
@@ -744,7 +744,7 @@ classes: wide
   | 730 | [New Year Unit Special Offer](/Items/con_1451/){: .btn .btn--era4} | Gift | Use it to get Diamond *3280 and Multi-choice Elite Special Offer *1 (select 1 from the following 3-star units: Lich, Mummy, Genie, Beholder, Medusa and Stone Elemental *1) |
   | 731 | [Newcomer Pack](/Items/con_1338/){: .btn .btn--era5} | Gift | We've prepared great units and supplies to help you embark on your campaign! |
   | 732 | [Newcomer Special Offer Pack](/Items/con_1385/){: .btn .btn--era5} | Gift | Grants 1,000 diamonds, 10 gold keys, and 10 silver keys. |
-  | 733 | [Night Tides Special Skin](/Items/con_672/){: .btn .btn--era4} | Unknown | Unlock the skin when Night Tides is awakened. |
+  | 733 | [Night Tides Special Skin](/Items/con_672/){: .btn .btn--era4} | Special Skin | Unlock the skin when Night Tides is awakened. |
   | 734 | [Night Tides Token](/Items/con_1004/){: .btn .btn--era4} | WEAPON PIECE | A Night Tides token from an ancient campaign that can be used for awakening Mermaid's exclusive potential, Night Tides |
   | 735 | [Nightmare Soul](/Items/con_2049/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Nightmare's Awakening. |
   | 736 | [Nightmare Special Offer Pack](/Items/con_1481/){: .btn .btn--era4} | Gift | Use it to get 3-star Nightmare *1, Offensive Talent Potion *288, Inferno Roster runes *30 and Diamond *3280 |
@@ -752,13 +752,13 @@ classes: wide
   | 738 | [Ningxia Chili Paste Hotpot](/Items/con_1214/){: .btn .btn--era3} | Event related | The Ningxia people make this dish by adding chili noodles to a broth made with crushed peanuts and various spices. All the ingredients in this dish are wrapped in the spicy and fragrant paste. This particular pot of food still seems rather raw. |
   | 739 | [Northeast Region Pickled Cabbage Hotpot](/Items/con_1229/){: .btn .btn--era3} | Event related | This stew was originally made from large slices of pork belly, pig blood sausages, and home-fermented pickled cabbage when pigs were slaughtered every year during the New Year in Northeast rural areas. This particular pot of food still seems rather raw. |
   | 740 | [Northeast Region Stove Fish](/Items/con_1217/){: .btn .btn--era3} | Event related | A large wild fish caught from lakes or rivers is placed into a large metal stove and stewed slowly with all kinds of vegetables. Meanwhile, flat breads made out of corn flour are heated on the side of the pot. This dish is a local dish enjoyed in farms in the Northeast Region. This particular pot of food still seems rather raw. |
-  | 741 | [Obedience Special Skin](/Items/con_673/){: .btn .btn--era5} | Unknown | Unlock the skin when Obedience is awakened. |
+  | 741 | [Obedience Special Skin](/Items/con_673/){: .btn .btn--era5} | Special Skin | Unlock the skin when Obedience is awakened. |
   | 742 | [Obedience Token](/Items/con_1005/){: .btn .btn--era5} | WEAPON PIECE | An Obedience token from an ancient campaign that can be used for awakening Dragon Turtle's exclusive potential, Obedience. |
   | 743 | [Obsidian](/Items/con_797/){: .btn .btn--era4} | Event related | An exotic gem only found in the Inferno. Can be exchanged for Inferno Faction items in corresponding events. |
-  | 744 | [Obsidian Dragon: Bone Dragon skin](/Items/con_1984/){: .btn .btn--era5} | Unknown | Grants the Obsidian Dragon: Bone Dragon skin. |
+  | 744 | [Obsidian Dragon: Bone Dragon skin](/Items/con_1984/){: .btn .btn--era5} | Unit Skin | Grants the Obsidian Dragon: Bone Dragon skin. |
   | 745 | [Ocean Overlord](/Items/con_1097/){: .btn .btn--era5} | Gift | Use to receive the Ocean Overlord Special Effects Avatar Frame. |
   | 746 | [Ocean's Tear](/Items/con_955/){: .btn .btn--era5} | Other | If you use the Ocean's Tear to summon a boss during the Cove Attack, it will increase your chance of summoning a rare boss, which will massively increase the rewards up for grabs. |
-  | 747 | [Oceanid - Regnan Seer](/Items/con_2005/){: .btn .btn--era5} | Unknown | Obtain Oceanid - Regnan Seer Skin after opening it |
+  | 747 | [Oceanid - Regnan Seer](/Items/con_2005/){: .btn .btn--era5} | Unit Skin | Obtain Oceanid - Regnan Seer Skin after opening it |
   | 748 | [Offensive Roster runes](/Items/con_734/){: .btn .btn--era3} | Event related | Important item to increase your Offensive units' rankings. |
   | 749 | [Offensive Talent Potion](/Items/con_786/){: .btn .btn--era4} | Event related | This potion improves your Offensive units' attributes and upgrades their skills. |
   | 750 | [Ogre Mage's Soul](/Items/con_2038/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Ogre's Awakening |
@@ -785,20 +785,20 @@ classes: wide
   | 771 | [Pestilential Serpent Fly Soul](/Items/con_2067/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Serpent Fly's Awakening. |
   | 772 | [Phantom Component Chest](/Items/con_1339/){: .btn .btn--era5} | Gift | A component chest of the Bow of the Sharpshooter. Open it to receive one of the components of the Bow of the Sharpshooter. |
   | 773 | [Phantom ranger package](/Items/con_1394/){: .btn .btn--era4} | Gift | This pack commemorates Gelu, the legendary ranger. Possibility of receiving Marksman tokens, Wood Elf tokens or Gelu tokens after use. |
-  | 774 | [Phoenix Nirvana avatar frame gift pack](/Items/con_618/){: .btn .btn--era5} | Unknown | Open it to receive a Phoenix Nirvana avatar frame! |
+  | 774 | [Phoenix Nirvana avatar frame gift pack](/Items/con_618/){: .btn .btn--era5} | Avatar frame | Open it to receive a Phoenix Nirvana avatar frame! |
   | 775 | [Phoenix Soul](/Items/con_2078/){: .btn .btn--era5} | Event related | Immortal Hero Soul, can be used for Firebird's Awakening |
   | 776 | [Piece of Eden Component Chest](/Items/con_1864/){: .btn .btn--era5} | Gift | A component chest of the Apple of Eden. Use it to select 1 of the components from the Apple of Eden Artifact. |
   | 777 | [Pikeman Soul Stone Chest](/Items/con_1414/){: .btn .btn--era4} | Gift | Use it to get a certain amount of Halberdier Soul Stones |
   | 778 | [Pit Lord's Soul](/Items/con_2046/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Pit Fiend's Awakening |
   | 779 | [Plane tokens](/Items/con_910/){: .btn .btn--era5} | Other | These tokens, forged by the elementals between planes over many years, are extremely valuable, and can be exchanged for items.  |
-  | 780 | [Player EXP](/Items/con_897/){: .btn .btn--era4} | Unknown | Everyone loves gaining more experience! |
+  | 780 | [Player EXP](/Items/con_897/){: .btn .btn--era4} | VIP related | Everyone loves gaining more experience! |
   | 781 | [Player's EXP potions](/Items/con_676/){: .btn .btn--era2} | EXP | Required to increase the rank of Firebird: an SR aptitude unit. |
-  | 782 | [Polaris Special Skin](/Items/con_657/){: .btn .btn--era4} | Unknown | Unlock the skin when Polaris is awakened. |
+  | 782 | [Polaris Special Skin](/Items/con_657/){: .btn .btn--era4} | Special Skin | Unlock the skin when Polaris is awakened. |
   | 783 | [Polaris Token](/Items/con_989/){: .btn .btn--era4} | WEAPON PIECE | A Polaris token from an ancient campaign that can be used for awakening Magic Airship's exclusive potential, Polaris. |
   | 784 | [Pork Rice Dumpling](/Items/con_542/){: .btn .btn--era4} | Event related | A delicious pork rice dumpling. Can be used in the Double Discounts event. |
   | 785 | [Power Lich's Soul](/Items/con_2031/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Lich's Awakening |
   | 786 | [Power Rank Chest](/Items/con_1332/){: .btn .btn--era4} | Gift | A chest for players at peak status. You can choose between 40 Pit Fiend tokens, 40 Cyclops tokens or 40 Dendroid Guard tokens. |
-  | 787 | [Power of the Dragon Father](/Items/con_1068/){: .btn .btn--era5} | Unknown | Use to get Astral's Power of the Dragon Father skin. |
+  | 787 | [Power of the Dragon Father](/Items/con_1068/){: .btn .btn--era5} | Special Skin | Use to get Astral's Power of the Dragon Father skin. |
   | 788 | [Power of the Dragon Father Offer](/Items/con_1756/){: .btn .btn--era5} | Gift | Grants 1 Dragon King Component Chest and 3,880 diamonds. |
   | 789 | [Power of the Dragon Father Special Offer](/Items/con_1757/){: .btn .btn--era5} | Gift | Grants 1 Dragon King Component Chest and 6,480 diamonds. |
   | 790 | [Power of the Dragon Father component 1](/Items/con_1346/){: .btn .btn--era5} | Gift | A component chest of the Power of the Dragon Father. Open it to receive one of the components from the Red Dragon Sword, Crown of Dragontooth, or Necklace of Dragonteeth. |
@@ -838,7 +838,7 @@ classes: wide
   | 824 | [Rampart Limited Edition Pack](/Items/con_2101/){: .btn .btn--era5} | Gift | Choose to get either Green Dragon Token*1 or Green Dragon Soul Stone*1 when used |
   | 825 | [Rampart Roster runes](/Items/con_753/){: .btn .btn--era3} | Event related | Important item to increase your Rampart units' rankings. |
   | 826 | [Rampart Unit Chest](/Items/con_1270/){: .btn .btn--era4} | Gift | Receive a random Rampart Faction Unit token. |
-  | 827 | [Rampart avatar frame gift pack](/Items/con_613/){: .btn .btn--era5} | Unknown | Open it to receive a Rampart avatar frame! |
+  | 827 | [Rampart avatar frame gift pack](/Items/con_613/){: .btn .btn--era5} | Avatar frame | Open it to receive a Rampart avatar frame! |
   | 828 | [Random Blue Holy Emblem](/Items/con_1970/){: .btn .btn--era3} | Gift | A blue Holy Emblem Chest obtained in Luck Snatch. Get either a blue Jealousy or Forgotten Autonym at random after opening it |
   | 829 | [Random Blue Holy Emblem Pack](/Items/con_1879/){: .btn .btn--era3} | Gift | Grants 1 random Blue Holy Emblem. |
   | 830 | [Random Elite SR Unit Token](/Items/con_1587/){: .btn .btn--era4} | Gift | Randomly grants 1 Lich, Genie, Stone Elemental, Manticore, or Mummy token. |
@@ -861,12 +861,12 @@ classes: wide
   | 847 | [Ranged Roster runes](/Items/con_742/){: .btn .btn--era3} | Event related | Important item to increase your Ranged units' rankings. |
   | 848 | [Ranged Talent Potion](/Items/con_789/){: .btn .btn--era4} | Event related | This potion improves your Ranged units' attributes and upgrades their skills. |
   | 849 | [Ranger Medal](/Items/con_795/){: .btn .btn--era4} | Event related | A keepsake of the legendary ranger. Can be exchanged for Rampart Faction items in corresponding events. |
-  | 850 | [Ranger of the Forest: Mephala](/Items/con_1042/){: .btn .btn--era5} | Unknown | Use to get Mephala's Ranger of the Forest skin |
+  | 850 | [Ranger of the Forest: Mephala](/Items/con_1042/){: .btn .btn--era5} | Special Skin | Use to get Mephala's Ranger of the Forest skin |
   | 851 | [Rare Building Materials](/Items/con_805/){: .btn .btn--era5} | Event related | Used for building walls during the Steadwick Defense Battle |
   | 852 | [Rare Dragon Chest](/Items/con_2009/){: .btn .btn--era4} | Gift | Rare Chest obtained from Dragon Invasion |
   | 853 | [Rare Material Chest](/Items/con_757/){: .btn .btn--era4} | Unknown | Yields rare equipment-upgrading items according to the player's level. |
   | 854 | [Rare Nian Monster Chest](/Items/con_2011/){: .btn .btn--era4} | Gift | Rare Chest obtained by challenging the Nian Monster during the New Year. |
-  | 855 | [Rashka avatar](/Items/con_572/){: .btn .btn--era5} | Unknown | Use to receive the Rashka avatar |
+  | 855 | [Rashka avatar](/Items/con_572/){: .btn .btn--era5} | Hero Avatar | Use to receive the Rashka avatar |
   | 856 | [Realm Package](/Items/con_1154/){: .btn .btn--era4} | Gift | A pack obtained from a realm. You have a chance to obtain Guild Coins, Skill Runes, and Rosters Box after opening it |
   | 857 | [Recruitment Card](/Items/con_1908/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 1 gold key, 1 silver key, and 40 diamonds. |
   | 858 | [Recruitment Letter](/Items/con_965/){: .btn .btn--era5} | Event related | Recruitment Letters are proof of your worth that make it easier to gain the trust of this mysterious continent's inhabitants. You can recruit units in the Tavern. |
@@ -877,9 +877,9 @@ classes: wide
   | 863 | [Refresh Reward](/Items/con_1968/){: .btn .btn--era4} | Gift | Refresh the Holy Emblem Store 120 times every week to claim reward. Open to get one random Purple Holy Emblem |
   | 864 | [Regnan Copper Coin](/Items/con_953/){: .btn .btn--era5} | Other | An item dropped in the Cove Attack event. Use it to summon and challenge a boss. |
   | 865 | [Regnan Gold Coin](/Items/con_951/){: .btn .btn--era5} | Other | An item dropped in the Cove Attack event. Use it to summon and challenge a boss. |
-  | 866 | [Regnan Seer Avatar](/Items/con_2117/){: .btn .btn--era5} | Unknown | Use to receive the Regnan Seer avatar. |
+  | 866 | [Regnan Seer Avatar](/Items/con_2117/){: .btn .btn--era5} | Hero Avatar | Use to receive the Regnan Seer avatar. |
   | 867 | [Regnan Silver Coin](/Items/con_952/){: .btn .btn--era5} | Other | An item dropped in the Cove Attack event. Use it to summon and challenge a boss. |
-  | 868 | [Resplendent Dragonwing Special Skin](/Items/con_644/){: .btn .btn--era5} | Unknown | Unlock the skin when Resplendent Dragonwing is awakened. |
+  | 868 | [Resplendent Dragonwing Special Skin](/Items/con_644/){: .btn .btn--era5} | Special Skin | Unlock the skin when Resplendent Dragonwing is awakened. |
   | 869 | [Resplendent Dragonwing Token](/Items/con_976/){: .btn .btn--era5} | WEAPON PIECE | A Resplendent Dragonwing token from an ancient campaign that can be used for awakening Green Dragon's exclusive potential, Resplendent Dragonwing. |
   | 870 | [Return](/Items/con_863/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |
   | 871 | [Return Hero Pack](/Items/con_1355/){: .btn .btn--era4} | Gift | Use it to select 1 from the following: Astral, Roland, Gem, Lord Haart, Sandro, Xeron, Dragon Mutare, and Kilgor |
@@ -902,7 +902,7 @@ classes: wide
   | 888 | [Revelations: Ezio Special Offer](/Items/con_1816/){: .btn .btn--era4} | Gift | Grants 680 Diamonds, 1 Revelations: Ezio Skin, and 10 Ancient Temple Scrolls. |
   | 889 | [Revenge Component Chest](/Items/con_1386/){: .btn .btn--era4} | Gift | A Mirror of Revenge component chest. Use it to select 1 of the components of the Mirror of Revenge artifact. |
   | 890 | [Rice Dumpling Variety Gift Box](/Items/con_1714/){: .btn .btn--era4} | Gift | Grants 2 Pork Rice Dumplings, 2 Egg Yolk Rice Dumplings, 2 Jujube Rice Dumplings, and 2 Red Bean Rice Dumplings. |
-  | 891 | [Riddle of the Sphinx Avatar Frame Pack](/Items/con_626/){: .btn .btn--era5} | Unknown | Open to receive the Riddle of the Sphinx avatar frame. If you have already unlocked the avatar frame, you will receive 30 diamonds instead. |
+  | 891 | [Riddle of the Sphinx Avatar Frame Pack](/Items/con_626/){: .btn .btn--era5} | Avatar frame | Open to receive the Riddle of the Sphinx avatar frame. If you have already unlocked the avatar frame, you will receive 30 diamonds instead. |
   | 892 | [Righteous Justice Chest](/Items/con_1517/){: .btn .btn--era6} | Gift | A treasure chest sealed with holy power, only the lords having Judicator can open it |
   | 893 | [Rock-paper-scissors Card](/Items/con_547/){: .btn .btn--era4} | Event related | Used to play Rock-paper-scissors in Rock-paper-scissors Party. Can be earned by completing Joyous Missions. |
   | 894 | [Rock-paper-scissors Card x1](/Items/con_1800/){: .btn .btn--era4} | Gift | Grants 1 Rock-paper-scissors Card and 60 diamonds. |
@@ -914,13 +914,13 @@ classes: wide
   | 900 | [Royal Medal](/Items/con_794/){: .btn .btn--era4} | Event related | A medal issued by the Erathian Imperial Court. Can be exchanged for Castle Faction items in corresponding events. |
   | 901 | [Royal Wedding - Catherine Skin (2 days)](/Items/con_1017/){: .btn .btn--era5} | Experience Card | Grants access to the Royal Wedding - Catherine Skin for 2 days. |
   | 902 | [Royal Wedding - Catherine Skin Avatar (2 days)](/Items/con_1015/){: .btn .btn--era5} | Experience Card | Grants access to the Royal Wedding - Catherine Skin Avatar for 2 days. |
-  | 903 | [Royal Wedding Roland](/Items/con_1035/){: .btn .btn--era5} | Unknown | Use to get a skin: Royal Wedding Roland |
-  | 904 | [Royal Wedding: Catherine](/Items/con_1030/){: .btn .btn--era5} | Unknown | Use to get Catherine's Royal Wedding skin |
-  | 905 | [Ruler of Earth Avatar Frame Pack](/Items/con_636/){: .btn .btn--era5} | Unknown | Open it to receive a Ruler of Earth Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 906 | [Ruler of Flames Avatar Frame Pack](/Items/con_635/){: .btn .btn--era5} | Unknown | Open it to receive a Ruler of Flames Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 907 | [Ruler of Frost Avatar Frame Pack](/Items/con_634/){: .btn .btn--era5} | Unknown | Open it to receive a Ruler of Frost Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 908 | [Ruler of Sky Avatar Frame Pack](/Items/con_637/){: .btn .btn--era5} | Unknown | Open it to receive a Ruler of Sky Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 909 | [Ruler of Void Avatar Frame Pack](/Items/con_638/){: .btn .btn--era5} | Unknown | Open it to receive a Ruler of Void Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 903 | [Royal Wedding Roland](/Items/con_1035/){: .btn .btn--era5} | Special Skin | Use to get a skin: Royal Wedding Roland |
+  | 904 | [Royal Wedding: Catherine](/Items/con_1030/){: .btn .btn--era5} | Special Skin | Use to get Catherine's Royal Wedding skin |
+  | 905 | [Ruler of Earth Avatar Frame Pack](/Items/con_636/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Earth Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 906 | [Ruler of Flames Avatar Frame Pack](/Items/con_635/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Flames Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 907 | [Ruler of Frost Avatar Frame Pack](/Items/con_634/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Frost Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 908 | [Ruler of Sky Avatar Frame Pack](/Items/con_637/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Sky Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 909 | [Ruler of Void Avatar Frame Pack](/Items/con_638/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ruler of Void Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
   | 910 | [Rune Special offer Pack](/Items/con_1430/){: .btn .btn--era4} | Gift | Use it to get Purple Crystal Runestone *6, Blue Crystal Runestone *8 and Green Crystal Runestone *8 |
   | 911 | [Runestone Card](/Items/con_1865/){: .btn .btn--era5} | Gift |  |
   | 912 | [SR Unit Pack](/Items/con_1601/){: .btn .btn--era4} | Gift | SR Unit Pack |
@@ -946,14 +946,14 @@ classes: wide
   | 932 | [Sanctuary Leader Chest](/Items/con_1534/){: .btn .btn--era5} | Gift | A treasure chest blessed by all the gods, only the lords having Paladin can open it |
   | 933 | [Sanctuary's Radiance Banner Soul](/Items/con_975/){: .btn .btn--era6} | WEAPON PIECE | A Castle banner soul from an ancient campaign that can be used for awakening the potential of Judicator's banner, Sanctuary's Radiance. |
   | 934 | [Scorpicore's Soul](/Items/con_2063/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Manticore's Awakening |
-  | 935 | [Scorpion Tail Special Skin](/Items/con_660/){: .btn .btn--era4} | Unknown | Unlock the skin when Scorpion Tail is awakened |
+  | 935 | [Scorpion Tail Special Skin](/Items/con_660/){: .btn .btn--era4} | Special Skin | Unlock the skin when Scorpion Tail is awakened |
   | 936 | [Scorpion Tail Token](/Items/con_992/){: .btn .btn--era4} | WEAPON PIECE | A Scorpion Tail token from an ancient campaign that can be used for awakening Manticore's general exclusive potential - Scorpion Tail |
-  | 937 | [Scout Team avatar](/Items/con_570/){: .btn .btn--era5} | Unknown | Use to receive Gelu's Scout Team skin and avatar |
-  | 938 | [Scout Team: Gelu](/Items/con_1038/){: .btn .btn--era5} | Unknown | Use to get Gelu's Scout Team skin |
+  | 937 | [Scout Team avatar](/Items/con_570/){: .btn .btn--era5} | Hero Avatar | Use to receive Gelu's Scout Team skin and avatar |
+  | 938 | [Scout Team: Gelu](/Items/con_1038/){: .btn .btn--era5} | Special Skin | Use to get Gelu's Scout Team skin |
   | 939 | [Seafood Platter](/Items/con_1163/){: .btn .btn--era4} | Event related | A large platter filled with an assortment of seafood. |
   | 940 | [Selected Holy Emblem Pack](/Items/con_1533/){: .btn .btn--era5} | Gift | Use it to select one from the hot Holy Emblem |
   | 941 | [Semi-annual Celebration](/Items/con_1447/){: .btn .btn--era4} | Gift | Use to get Celebrity Catherine's Socialite Skin *1 and Firebird God Avatar Frame *1 |
-  | 942 | [Sephinroth Avatar](/Items/con_578/){: .btn .btn--era5} | Unknown | Use it to receive the Sephinroth Avatar |
+  | 942 | [Sephinroth Avatar](/Items/con_578/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Sephinroth Avatar |
   | 943 | [Server Merge Compensation](/Items/con_1448/){: .btn .btn--era4} | Gift | Use it to get Diamond *500, Memorial Coin *20, Universal Token *10, Temple Scroll *10 and Casting Crystal *2 |
   | 944 | [Server Merge Pack](/Items/con_1449/){: .btn .btn--era4} | Gift | Use it to get Diamond *1000, Arena Coin *1250, Universal Token *5, Purple Crystal Rune Stone *5, Duel Ticket *1, Duel Coin *5000 and Hero Duel Chest *2 |
   | 945 | [Shadow of Beast Pack](/Items/con_1528/){: .btn .btn--era5} | Gift | Use it to select 1 of the following: Shadow of Beast Avatar Frame *1 or Dragon Golem Token *5 |
@@ -968,10 +968,10 @@ classes: wide
   | 954 | [Shadowy Diamond ×2,500](/Items/con_1932/){: .btn .btn--era4} | Gift | Grants 1,980 Diamonds and 2,500 Shadowy Diamonds. |
   | 955 | [Shadowy Diamond ×5,000](/Items/con_1933/){: .btn .btn--era4} | Gift | Grants 3,880 Diamonds and 5,000 Shadowy Diamonds. |
   | 956 | [Shadowy Diamond ×625](/Items/con_1930/){: .btn .btn--era4} | Gift | Grants 500 Diamonds and 625 Shadowy Diamonds. |
-  | 957 | [Sharpshooter Female Avatar](/Items/con_565/){: .btn .btn--era5} | Unknown | Use to receive the female Sharpshooter avatar |
-  | 958 | [Sharpshooter Male Avatar](/Items/con_564/){: .btn .btn--era5} | Unknown | Use to receive the male Sharpshooter avatar |
+  | 957 | [Sharpshooter Female Avatar](/Items/con_565/){: .btn .btn--era5} | Hero Avatar | Use to receive the female Sharpshooter avatar |
+  | 958 | [Sharpshooter Male Avatar](/Items/con_564/){: .btn .btn--era5} | Hero Avatar | Use to receive the male Sharpshooter avatar |
   | 959 | [Shekel](/Items/con_950/){: .btn .btn--era4} | Other | A sea token dropped in the Cove Attack event. Can be redeemed for valuable rewards in the event store. |
-  | 960 | [Shiva avatar](/Items/con_1007/){: .btn .btn--era5} | Unknown | Use to receive the Shiva avatar |
+  | 960 | [Shiva avatar](/Items/con_1007/){: .btn .btn--era5} | Hero Avatar | Use to receive the Shiva avatar |
   | 961 | [Sichuan Fushun Tofu Fish](/Items/con_1220/){: .btn .btn--era3} | Event related | Grass carp and Sichuan Fushun silken tofu are combined perfectly in this mala fragrant soup. The tender and smooth fish meat and tofu leaves you drooling for more. This particular pot of food still seems rather raw. |
   | 962 | [Sichuan Gao County Claypot](/Items/con_1178/){: .btn .btn--era3} | Event related | The special ceramic claypot is made with unique soil found locally in Gao County and contains an assortment of micronutrients that are beneficial to the human body. Food cooked using this unique claypot are fresher and crisper, although this particular pot of food still seems rather raw. |
   | 963 | [Sichuan Hotpot Skewers](/Items/con_1199/){: .btn .btn--era3} | Event related | This dish has evolved from its street food origins to its current form today. A wide assortment of ingredients can be placed onto the skewers, although the most popular skewers are of the avian giblet variety. This particular pot of food still seems rather raw. |
@@ -980,17 +980,17 @@ classes: wide
   | 966 | [Sichuan and Chongqing Taro Chicken Hotpot](/Items/con_1205/){: .btn .btn--era3} | Event related | This famous Sichuan and Chongqing delicacy is a spicy hotpot made with fresh chicken and taro. The chicken is tender and spicy, yet you do not feel parched after eating it, while the taro is sweet and leaves you wanting more. This particular pot of food still seems rather raw. |
   | 967 | [Sign-in Coins](/Items/con_928/){: .btn .btn--era4} | Other | Rare Coins, can exchange for different items in the Sign-in Store |
   | 968 | [Silent Snow Spirit Soul](/Items/con_2075/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Ice Elemental's Awakening. |
-  | 969 | [Silver](/Items/con_942/){: .btn .btn--era5} | Unknown |  |
+  | 969 | [Silver](/Items/con_942/){: .btn .btn--era5} | VIP related |  |
   | 970 | [Silver Chest](/Items/con_967/){: .btn .btn--era3} | Gift | A Golden Chest obtained from Archery Master. Get either an Unit Token or 3000 unit EXP at random after opening it |
   | 971 | [Silver Key](/Items/con_693/){: .btn .btn--era3} | Event related | A certificate of recruitment. Allows you to recruit units once for free. |
   | 972 | [Silver Pegasus' Soul](/Items/con_2022/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Silver Pegasus' Awakening |
   | 973 | [Sir Pumpkin Limited-Time Special Offer](/Items/con_1831/){: .btn .btn--era4} | Gift | Grants 1,580 diamonds, 1 Sir Pumpkin: Black Knight skin, and 5 Black Knight Tokens. |
-  | 974 | [Sir Pumpkin: Black Knight Skin](/Items/con_1982/){: .btn .btn--era5} | Unknown | Grants the Sir Pumpkin: Black Knight skin. |
+  | 974 | [Sir Pumpkin: Black Knight Skin](/Items/con_1982/){: .btn .btn--era5} | Unit Skin | Grants the Sir Pumpkin: Black Knight skin. |
   | 975 | [Skeleton Essence Chest](/Items/con_1327/){: .btn .btn--era4} | Unknown | Has a 50% possibility of yielding a Vidomina token! |
   | 976 | [Skeleton Rank-Up Pack 1](/Items/con_1559/){: .btn .btn--era4} | Gift | Get Skeleton Warrior token x100, unit EXP x10,000, Necropolis faction chest x10, purple crystal runestone x10, gold x100,000. |
   | 977 | [Skeleton Rank-Up Pack 2](/Items/con_1560/){: .btn .btn--era4} | Gift | Get Skeleton Warrior token x150, unit EXP x10,000, Necropolis faction chest x20, purple crystal runestone x10, gold x100,000. |
   | 978 | [Skeleton Warrior's Soul](/Items/con_2027/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Skeleton Warrior's Awakening |
-  | 979 | [Sky Dragon: Green Dragon skin](/Items/con_1980/){: .btn .btn--era5} | Unknown | Grants the Sky Dragon: Green Dragon skin. |
+  | 979 | [Sky Dragon: Green Dragon skin](/Items/con_1980/){: .btn .btn--era5} | Unit Skin | Grants the Sky Dragon: Green Dragon skin. |
   | 980 | [Sky King Chest](/Items/con_1474/){: .btn .btn--era5} | Gift | A treasure chest blessed by the ancient dragon, only the lords having Green Dragon can open it. |
   | 981 | [Small Arena Treasure](/Items/con_717/){: .btn .btn--era2} | EXP | A treasure chest containing 6 Arena Coins! |
   | 982 | [Small Campaign Treasure](/Items/con_721/){: .btn .btn--era2} | EXP | A treasure chest containing 6 Empire Medals! |
@@ -998,11 +998,11 @@ classes: wide
   | 984 | [Small Energy potion](/Items/con_704/){: .btn .btn--era2} | EXP | A small, murky bottle of energy potion. You will gain 6 energy after drinking it. |
   | 985 | [Small Energy-Binding Vial](/Items/con_724/){: .btn .btn--era4} | EXP | A vial containing a little artifact essence. You will gain 10 artifact essence from it. |
   | 986 | [Small Roster runes](/Items/con_747/){: .btn .btn--era3} | Event related | Important item to increase your small units' rankings. |
-  | 987 | [Social Butterfly Avatar Frame Pack](/Items/con_631/){: .btn .btn--era5} | Unknown | Open it to receive a Social Butterfly Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 988 | [Socialite: Catherine](/Items/con_1031/){: .btn .btn--era5} | Unknown | Use to get skin Catherine's Socialite skin |
+  | 987 | [Social Butterfly Avatar Frame Pack](/Items/con_631/){: .btn .btn--era5} | Avatar frame | Open it to receive a Social Butterfly Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 988 | [Socialite: Catherine](/Items/con_1031/){: .btn .btn--era5} | Special Skin | Use to get skin Catherine's Socialite skin |
   | 989 | [Soldier Selection Soul Stones](/Items/con_1617/){: .btn .btn--era4} | Gift | Choose to get either Skeleton soul stone *1 or Pikeman soul stone *1 |
-  | 990 | [Son of the Forest avatar](/Items/con_567/){: .btn .btn--era5} | Unknown | Use to receive Ryland's Son of the Forest skin and avatar |
-  | 991 | [Son of the Forest: Ryland](/Items/con_1044/){: .btn .btn--era5} | Unknown | Use to get Rylan's Son of the Forest skin Ryland |
+  | 990 | [Son of the Forest avatar](/Items/con_567/){: .btn .btn--era5} | Hero Avatar | Use to receive Ryland's Son of the Forest skin and avatar |
+  | 991 | [Son of the Forest: Ryland](/Items/con_1044/){: .btn .btn--era5} | Special Skin | Use to get Rylan's Son of the Forest skin Ryland |
   | 992 | [Soul Special Offer Pack A](/Items/con_1838/){: .btn .btn--era4} | Gift | Grants 10 diamonds and 1 R Unit Soul. |
   | 993 | [Soul Special Offer Pack B](/Items/con_1839/){: .btn .btn--era4} | Gift | Grants 60 diamonds, 10 SR Unit Souls, and 50,000 gold. |
   | 994 | [Soul Special Offer Pack C](/Items/con_1840/){: .btn .btn--era4} | Gift | Grants 300 diamonds, 1 gold key, 20 SR Unit Souls, and 2 large energy potions. |
@@ -1020,7 +1020,7 @@ classes: wide
   | 1006 | [Spectral Flame special offer package](/Items/con_1404/){: .btn .btn--era4} | Gift | Use it to receive 3-star Fire Elemental x 1, Heart of Fire Elemental frame x 1 and Fire Elemental tokens x 20. |
   | 1007 | [Speed token](/Items/con_906/){: .btn .btn--era4} | Unknown | Use it to speed up your current Shipyard Quest by 30 minutes. |
   | 1008 | [Spell Card](/Items/con_1909/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 3 Orange Spell Token Selection Chests and 45 diamonds. |
-  | 1009 | [Spell Master avatar frame gift pack](/Items/con_611/){: .btn .btn--era5} | Unknown | Open it to receive a Spellmaster avatar frame! |
+  | 1009 | [Spell Master avatar frame gift pack](/Items/con_611/){: .btn .btn--era5} | Avatar frame | Open it to receive a Spellmaster avatar frame! |
   | 1010 | [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} | Event related | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills. |
   | 1011 | [Spellbinder's Hat Component Chest](/Items/con_1359/){: .btn .btn--era5} | Gift | A component chest of the Spellbinder's Hat. Use it to get 1 of the components of the Spellbinder's Hat's Artifacts |
   | 1012 | [Spellbinder's Hat Offer](/Items/con_1760/){: .btn .btn--era5} | Gift | Grants 4 Spellbinder's Hat Component Chests and 2,580 diamonds. |
@@ -1028,19 +1028,19 @@ classes: wide
   | 1014 | [Sphinx's Comfort Package](/Items/con_1129/){: .btn .btn--era4} | Gift | The treasure chest awarded to you by the Sphinx. There could be a precious treasure inside. |
   | 1015 | [Sphinx's Joy Package](/Items/con_1128/){: .btn .btn--era5} | Gift | The treasure chest awarded to you by the Sphinx. There could be a precious treasure inside, though it is somewhat unlikely there will be a purple treasure.  |
   | 1016 | [Spicy Soup Base](/Items/con_1159/){: .btn .btn--era4} | Event related | With mala spiciness at its core, this soup base is incredibly versatile due to a myriad of flavors brought forth by an aggressive use of seasoning. It's clear that this soup is the star of any dish that uses it, due to its emphasis on natural ingredients. |
-  | 1017 | [Spirit Core Special Skin](/Items/con_668/){: .btn .btn--era5} | Unknown | Unlock the skin when Spirit Core is awakened. |
+  | 1017 | [Spirit Core Special Skin](/Items/con_668/){: .btn .btn--era5} | Special Skin | Unlock the skin when Spirit Core is awakened. |
   | 1018 | [Spirit Core Token](/Items/con_1000/){: .btn .btn--era5} | WEAPON PIECE | A Spirit Core token from an ancient campaign that can be used for awakening Psychic Elemental's exclusive potential, Spirit Core. |
   | 1019 | [Spirit Crystal](/Items/con_924/){: .btn .btn--era5} | Other | Spirit Crystal, can be used to exchange for Holy Emblems in the Lucky Snatch Exchange Store. Obtained by playing Lucky Snatch. |
   | 1020 | [Spring Festival Celebrations Limited-Time Special Offer](/Items/con_1935/){: .btn .btn--era5} | Gift | Grants 980 diamonds, the Spring Festival Celebrations Xeron skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
   | 1021 | [Spring Festival Celebrations Xeron Offer](/Items/con_1936/){: .btn .btn--era5} | Gift | Grants 6,480 diamonds, the Spring Festival Celebrations Xeron skin, 40 Xeron Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
   | 1022 | [Spring Festival Hero Special Offer](/Items/con_1937/){: .btn .btn--era5} | Gift | Grants 8,820 diamonds, 1 Elite Hero Pack, 300 Spell Scrolls, and 10 Ancient Temple Scrolls. |
   | 1023 | [Spring Festival Unit Special Offer](/Items/con_1939/){: .btn .btn--era5} | Gift | Grants 4,470 diamonds, 1 Elite Unit Pack, 300 Talent Potion Materials, and 10 Huge EXP Potions. |
-  | 1024 | [Springtime Sword: Paladin Skin](/Items/con_1975/){: .btn .btn--era5} | Unknown | Grants the Springtime Sword: Paladin skin. |
-  | 1025 | [Staff of Regrowth Special Skin](/Items/con_645/){: .btn .btn--era4} | Unknown | Unlock the skin when Staff of Regrowth is awakened. |
+  | 1024 | [Springtime Sword: Paladin Skin](/Items/con_1975/){: .btn .btn--era5} | Unit Skin | Grants the Springtime Sword: Paladin skin. |
+  | 1025 | [Staff of Regrowth Special Skin](/Items/con_645/){: .btn .btn--era4} | Special Skin | Unlock the skin when Staff of Regrowth is awakened. |
   | 1026 | [Staff of Regrowth Token](/Items/con_977/){: .btn .btn--era4} | WEAPON PIECE | A Staff of Regrowth token from an ancient campaign that can be used for awakening Druid's exclusive potential, Staff of Regrowth. |
   | 1027 | [Star Ore](/Items/con_956/){: .btn .btn--era4} | Other | Museum EXP. Accumulate a certain amount to raise the Museum Level. |
   | 1028 | [Star Sigil](/Items/con_876/){: .btn .btn--era5} | Other | The power of a star, scattered throughout Enroth and sealed in amber. Can destroy the power of artifacts. |
-  | 1029 | [Star Soul](/Items/con_926/){: .btn .btn--era5} | Unknown | A material used for activating Stars. Obtained by converting Hero Tokens. Each hero requires a different unique Star Soul |
+  | 1029 | [Star Soul](/Items/con_926/){: .btn .btn--era5} | VIP related | A material used for activating Stars. Obtained by converting Hero Tokens. Each hero requires a different unique Star Soul |
   | 1030 | [Starlit Rose](/Items/con_812/){: .btn .btn--era4} | Event related | The exclusive items during Valentine's Day, used to exchange for event items |
   | 1031 | [Starlit rose](/Items/con_802/){: .btn .btn--era5} | Event related |  |
   | 1032 | [Starsilver](/Items/con_882/){: .btn .btn--era3} | Other | A pile of Starsilver (a level 1 resource); can be used to improve Barracks. |
@@ -1049,46 +1049,46 @@ classes: wide
   | 1035 | [Stronghold Limited Edition Pack](/Items/con_2103/){: .btn .btn--era5} | Gift | Choose to get either 1 Stronghold SSR token or 1 Stronghold SSR Soul Stone. |
   | 1036 | [Stronghold Roster runes](/Items/con_754/){: .btn .btn--era3} | Event related | Important item to increase your Stronghold units' rankings. |
   | 1037 | [Stronghold Unit Chest](/Items/con_1272/){: .btn .btn--era4} | Gift | Receive a random Stronghold Faction Unit token. |
-  | 1038 | [Stronghold avatar frame gift pack](/Items/con_605/){: .btn .btn--era5} | Unknown | Open it to receive a Stronghold avatar frame! |
+  | 1038 | [Stronghold avatar frame gift pack](/Items/con_605/){: .btn .btn--era5} | Avatar frame | Open it to receive a Stronghold avatar frame! |
   | 1039 | [Supply Artifact Selection Chest](/Items/con_1084/){: .btn .btn--era5} | Gift | A valuable reward from the army supply obtained during the Roland's Capture event. Select one of the following: Armour of the Damned Component Selection Chest, Axe of Ferocity Component Selection Chest, Sharpshooter Bow Component Selection Chest, Undead King Cloak Component Selection Chest. |
   | 1040 | [Supreme Paladin's Soul](/Items/con_2019/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Paladin's Awakening |
-  | 1041 | [Surging Aura - Mantis Avatar](/Items/con_593/){: .btn .btn--era5} | Unknown |  |
+  | 1041 | [Surging Aura - Mantis Avatar](/Items/con_593/){: .btn .btn--era5} | Hero Avatar |  |
   | 1042 | [Survival skill essence](/Items/con_1111/){: .btn .btn--era3} | Unknown | Records the basic secrets of battle. Can be used to improve units' survival. |
   | 1043 | [Sword Token](/Items/con_912/){: .btn .btn--era4} | WEAPON PIECE | An exclusive token from an ancient campaign that can be used for awakening the Offensive unit's general exclusive potential - Sword |
-  | 1044 | [Sword of Frost Kilgor](/Items/con_1055/){: .btn .btn--era5} | Unknown | Grants the Sword of Frost Kilgor skin. |
+  | 1044 | [Sword of Frost Kilgor](/Items/con_1055/){: .btn .btn--era5} | Special Skin | Grants the Sword of Frost Kilgor skin. |
   | 1045 | [Sword of Frost Kilgor Limited-Time Special Offer](/Items/con_1959/){: .btn .btn--era5} | Gift | Grants 980 diamonds, 1 Sword of Frost Kilgor skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
   | 1046 | [Sword of Frost Kilgor Offer](/Items/con_1960/){: .btn .btn--era5} | Gift | Grants 6480 diamonds, 1 Sword of Frost Kilgor skin, 40 Kilgor Tokens, 5 Universal (Hero) Tokens, and 15 Ancient Temple Scrolls. |
   | 1047 | [Sword of Frost Offer](/Items/con_1758/){: .btn .btn--era5} | Gift | Grants 1 Frost Component Chest and 3,880 diamonds. |
   | 1048 | [Sword of Frost Special Offer](/Items/con_1759/){: .btn .btn--era5} | Gift | Grants 1 Frost Component Chest and 6,480 diamonds. |
   | 1049 | [Swordsman's soul package](/Items/con_1393/){: .btn .btn--era4} | Gift | Pack celebrating the revival of Erathia. Possibility of receiving Swordsman tokens or Catherine tokens after use. |
-  | 1050 | [Tactical Commander gift pack](/Items/con_621/){: .btn .btn--era5} | Unknown | Open to receive the Tactical Commander portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
+  | 1050 | [Tactical Commander gift pack](/Items/con_621/){: .btn .btn--era5} | Avatar frame | Open to receive the Tactical Commander portrait frame. When you unlock this portrait frame, you will receive 30 diamonds. |
   | 1051 | [Talent potion ingredients](/Items/con_1120/){: .btn .btn--era3} | Gift | The ingredients for a talent potion. After concocting them, you will receive a talent potion for a random unit.  |
   | 1052 | [Talent supply pack (back row)](/Items/con_1401/){: .btn .btn--era4} | Gift | Use it to receive 1 of 488 Caster/Ranged/Charging Units Talent Potions. |
   | 1053 | [Talent supply pack (front row)](/Items/con_1400/){: .btn .btn--era4} | Gift | Use it to receive 1 of 488 Offensive/Defensive/Charging Units Talent Potions. |
-  | 1054 | [Tarot World](/Items/con_1054/){: .btn .btn--era5} | Unknown | Use to get a skin: Human Sandro in Tarot World |
+  | 1054 | [Tarot World](/Items/con_1054/){: .btn .btn--era5} | Special Skin | Use to get a skin: Human Sandro in Tarot World |
   | 1055 | [Teleportation](/Items/con_944/){: .btn .btn--era4} | Other | Enables teleportation in the Healing Sea event. |
   | 1056 | [Teochew Beef Hotpot](/Items/con_1181/){: .btn .btn--era3} | Event related | The soup, consisting of only beef bone stock and white radish, accentuates the beef's inherent flavor. This dish perfectly exemplifies the philosophy of Teochew cuisine—even a humble dish can still pack a punch. However, this particular pot of food still seems rather raw. |
   | 1057 | [Teochew Master Stock Hotpot](/Items/con_1232/){: .btn .btn--era3} | Event related | Goose oil is added to a master stock made from a variety of Chinese herbs and medicines, giving this dish a soul. Fresh goose intestines, foie gras, and goose gizzards are cooked in this stock. The more you eat, the more fragrant it seems. This particular pot of food still seems rather raw. |
   | 1058 | [Thanksgiving Pack](/Items/con_1487/){: .btn .btn--era4} | Gift | Thank you for your support of Heroes of Might and Magic! |
   | 1059 | [Thanksgiving Special Offer Pack](/Items/con_1426/){: .btn .btn--era4} | Gift | Use it to get Diamond *1980, Harvest Knight Skin *1 and Champion Soul Stone *20 |
-  | 1060 | [The Champion Avatar](/Items/con_586/){: .btn .btn--era5} | Unknown | Use to receive The Champion of Sephinroth Avatar |
-  | 1061 | [The Champion avatar](/Items/con_577/){: .btn .btn--era5} | Unknown | Use to receive The Champion of Mephala Avatar |
-  | 1062 | [The Champion of Adelaide](/Items/con_1026/){: .btn .btn--era5} | Unknown | Use to get a skin: The Champion of Adelaide |
-  | 1063 | [The Champion of Sephinroth](/Items/con_1077/){: .btn .btn--era5} | Unknown | Use to get a skin: The Champion of Sephinroth |
+  | 1060 | [The Champion Avatar](/Items/con_586/){: .btn .btn--era5} | Hero Avatar | Use to receive The Champion of Sephinroth Avatar |
+  | 1061 | [The Champion avatar](/Items/con_577/){: .btn .btn--era5} | Hero Avatar | Use to receive The Champion of Mephala Avatar |
+  | 1062 | [The Champion of Adelaide](/Items/con_1026/){: .btn .btn--era5} | Special Skin | Use to get a skin: The Champion of Adelaide |
+  | 1063 | [The Champion of Sephinroth](/Items/con_1077/){: .btn .btn--era5} | Special Skin | Use to get a skin: The Champion of Sephinroth |
   | 1064 | [The City by the Ocean Banner Soul](/Items/con_1006/){: .btn .btn--era6} | WEAPON PIECE | A Cove banner soul from an ancient campaign that can be used for awakening the potential of Regnan Seer's banner, The City by the Ocean. |
   | 1065 | [The Cursed Component Chest](/Items/con_1341/){: .btn .btn--era5} | Gift | A component chest of the Armour of the Damned.. Open it to receive one of the components of the Armour of the Damned. |
-  | 1066 | [The Death of Deyja](/Items/con_1050/){: .btn .btn--era5} | Unknown | Use to get a skin: The Death of Deyja Lord Haart |
+  | 1066 | [The Death of Deyja](/Items/con_1050/){: .btn .btn--era5} | Special Skin | Use to get a skin: The Death of Deyja Lord Haart |
   | 1067 | [The Death of Deyja Pack](/Items/con_1917/){: .btn .btn--era4} | Gift | Grants Lord Haart's The Death of Deyja skin, 200 Spell Scrolls, and 980 diamonds. |
   | 1068 | [The Moor Chest](/Items/con_1505/){: .btn .btn--era5} | Gift | A treasure chest sealed with swamp poison, only the lords having Hydra can open it. |
   | 1069 | [The Turkey](/Items/con_1529/){: .btn .btn--era4} | Gift | Delicious golden turkey, eat it to alleviate some fatigue from the battle. |
   | 1070 | [The Undead King Component Chest](/Items/con_1340/){: .btn .btn--era5} | Gift | A component chest of the Cloak of the Undead King. Open it to receive one of the components of the Cloak of the Undead King. |
-  | 1071 | [Thousand Ton Special Skin](/Items/con_656/){: .btn .btn--era5} | Unknown | Unlock the skin when Thousand Ton is awakened. |
+  | 1071 | [Thousand Ton Special Skin](/Items/con_656/){: .btn .btn--era5} | Special Skin | Unlock the skin when Thousand Ton is awakened. |
   | 1072 | [Thousand Ton Token](/Items/con_988/){: .btn .btn--era5} | WEAPON PIECE | A Thousand Ton token from an ancient campaign that can be used for awakening Giant's exclusive potential, Thousand Ton. |
-  | 1073 | [Thunder Gorgon - Gorgon Skin](/Items/con_1998/){: .btn .btn--era5} | Unknown | Open to get Thunder Gorgon - Gorgon skin. |
+  | 1073 | [Thunder Gorgon - Gorgon Skin](/Items/con_1998/){: .btn .btn--era5} | Unit Skin | Open to get Thunder Gorgon - Gorgon skin. |
   | 1074 | [Thunder Rage Chest](/Items/con_1549/){: .btn .btn--era5} | Gift | A treasure chest with ancient power, only the lords having Giant can open it. |
   | 1075 | [Thunder Rage Pack](/Items/con_1512/){: .btn .btn--era5} | Gift | Use it to select 1 of the following: Thunder Rage Avatar Frame *1 or Giant Token *5 |
   | 1076 | [Thunderbird's Soul](/Items/con_2039/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Roc's Awakening |
-  | 1077 | [Tidal Elemental Concept Art Avatar](/Items/con_1099/){: .btn .btn--era5} | Unknown | Use to receive the Tidal Elemental Special Effects Avatar. |
+  | 1077 | [Tidal Elemental Concept Art Avatar](/Items/con_1099/){: .btn .btn--era5} | Hero Avatar | Use to receive the Tidal Elemental Special Effects Avatar. |
   | 1078 | [Tidal Force Pack](/Items/con_1504/){: .btn .btn--era4} | Gift | Open to get 1 Sea Elemental Token |
   | 1079 | [Titan Component Chest](/Items/con_1343/){: .btn .btn--era5} | Gift | A component chest of the Titan's Thunder. Open it to receive one of the components of the Titan's Thunder. |
   | 1080 | [Titan Soul](/Items/con_2056/){: .btn .btn--era5} | Event related | An ancient immortal hero soul. Can be used for Titan's Awakening. |
@@ -1100,44 +1100,44 @@ classes: wide
   | 1086 | [Tool_10011](/Items/con_525/){: .btn .btn--era4} | Event related |  |
   | 1087 | [Tool_10012](/Items/con_526/){: .btn .btn--era4} | Event related |  |
   | 1088 | [Tool_10014](/Items/con_528/){: .btn .btn--era4} | Event related | Can exchange for Rare item in corresponding events. Have fun! |
-  | 1089 | [Tool_10130](/Items/con_589/){: .btn .btn--era5} | Unknown | Use to receive the Peter Lee Avatar |
-  | 1090 | [Tool_10131](/Items/con_590/){: .btn .btn--era5} | Unknown |  |
-  | 1091 | [Tool_10133](/Items/con_592/){: .btn .btn--era5} | Unknown |  |
-  | 1092 | [Tool_10135](/Items/con_594/){: .btn .btn--era5} | Unknown |  |
-  | 1093 | [Tool_10136](/Items/con_595/){: .btn .btn--era5} | Unknown |  |
-  | 1094 | [Tool_21007](/Items/con_608/){: .btn .btn--era5} | Unknown |  |
-  | 1095 | [Tool_21008](/Items/con_609/){: .btn .btn--era5} | Unknown |  |
-  | 1096 | [Tool_21015](/Items/con_616/){: .btn .btn--era5} | Unknown |  |
-  | 1097 | [Tool_21016](/Items/con_617/){: .btn .btn--era5} | Unknown |  |
-  | 1098 | [Tool_21022](/Items/con_623/){: .btn .btn--era5} | Unknown |  |
-  | 1099 | [Tool_21024](/Items/con_625/){: .btn .btn--era5} | Unknown |  |
-  | 1100 | [Tool_21027](/Items/con_628/){: .btn .btn--era5} | Unknown |  |
-  | 1101 | [Tool_21035](/Items/con_632/){: .btn .btn--era5} | Unknown |  |
+  | 1089 | [Tool_10130](/Items/con_589/){: .btn .btn--era5} | Hero Avatar | Use to receive the Peter Lee Avatar |
+  | 1090 | [Tool_10131](/Items/con_590/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1091 | [Tool_10133](/Items/con_592/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1092 | [Tool_10135](/Items/con_594/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1093 | [Tool_10136](/Items/con_595/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1094 | [Tool_21007](/Items/con_608/){: .btn .btn--era5} | Avatar frame |  |
+  | 1095 | [Tool_21008](/Items/con_609/){: .btn .btn--era5} | Avatar frame |  |
+  | 1096 | [Tool_21015](/Items/con_616/){: .btn .btn--era5} | Avatar frame |  |
+  | 1097 | [Tool_21016](/Items/con_617/){: .btn .btn--era5} | Avatar frame |  |
+  | 1098 | [Tool_21022](/Items/con_623/){: .btn .btn--era5} | Avatar frame |  |
+  | 1099 | [Tool_21024](/Items/con_625/){: .btn .btn--era5} | Avatar frame |  |
+  | 1100 | [Tool_21027](/Items/con_628/){: .btn .btn--era5} | Avatar frame |  |
+  | 1101 | [Tool_21035](/Items/con_632/){: .btn .btn--era5} | Avatar frame |  |
   | 1102 | [Tool_210909](/Items/con_643/){: .btn .btn--era6} | Unknown |  |
-  | 1103 | [Tool_250809](/Items/con_653/){: .btn .btn--era4} | Unknown |  |
-  | 1104 | [Tool_2990309](/Items/con_670/){: .btn .btn--era4} | Unknown |  |
-  | 1105 | [Tool_2990709](/Items/con_674/){: .btn .btn--era6} | Unknown |  |
+  | 1103 | [Tool_250809](/Items/con_653/){: .btn .btn--era4} | Special Skin |  |
+  | 1104 | [Tool_2990309](/Items/con_670/){: .btn .btn--era4} | Special Skin |  |
+  | 1105 | [Tool_2990709](/Items/con_674/){: .btn .btn--era6} | Special Skin |  |
   | 1106 | [Tool_2991](/Items/con_675/){: .btn .btn--era4} | Gift |  |
   | 1107 | [Tool_303001](/Items/con_743/){: .btn .btn--era4} | Gift |  |
   | 1108 | [Tool_303002](/Items/con_744/){: .btn .btn--era4} | Gift |  |
   | 1109 | [Tool_303003](/Items/con_745/){: .btn .btn--era4} | Gift |  |
   | 1110 | [Tool_3064](/Items/con_806/){: .btn .btn--era4} | Event related |  |
-  | 1111 | [Tool_31022](/Items/con_843/){: .btn .btn--era5} | Unknown |  |
-  | 1112 | [Tool_31023](/Items/con_844/){: .btn .btn--era5} | Unknown |  |
-  | 1113 | [Tool_31024](/Items/con_845/){: .btn .btn--era5} | Unknown |  |
-  | 1114 | [Tool_31025](/Items/con_846/){: .btn .btn--era5} | Unknown |  |
-  | 1115 | [Tool_31026](/Items/con_847/){: .btn .btn--era5} | Unknown |  |
-  | 1116 | [Tool_31027](/Items/con_848/){: .btn .btn--era5} | Unknown |  |
-  | 1117 | [Tool_31028](/Items/con_849/){: .btn .btn--era5} | Unknown |  |
-  | 1118 | [Tool_31029](/Items/con_850/){: .btn .btn--era5} | Unknown |  |
-  | 1119 | [Tool_31030](/Items/con_851/){: .btn .btn--era5} | Unknown |  |
-  | 1120 | [Tool_31031](/Items/con_852/){: .btn .btn--era5} | Unknown |  |
-  | 1121 | [Tool_31032](/Items/con_853/){: .btn .btn--era5} | Unknown |  |
-  | 1122 | [Tool_31033](/Items/con_854/){: .btn .btn--era5} | Unknown |  |
-  | 1123 | [Tool_31034](/Items/con_855/){: .btn .btn--era5} | Unknown |  |
-  | 1124 | [Tool_31035](/Items/con_856/){: .btn .btn--era5} | Unknown |  |
-  | 1125 | [Tool_31036](/Items/con_857/){: .btn .btn--era5} | Unknown |  |
-  | 1126 | [Tool_31037](/Items/con_858/){: .btn .btn--era5} | Unknown |  |
+  | 1111 | [Tool_31022](/Items/con_843/){: .btn .btn--era5} | Guild member gift |  |
+  | 1112 | [Tool_31023](/Items/con_844/){: .btn .btn--era5} | Guild member gift |  |
+  | 1113 | [Tool_31024](/Items/con_845/){: .btn .btn--era5} | Guild member gift |  |
+  | 1114 | [Tool_31025](/Items/con_846/){: .btn .btn--era5} | Guild member gift |  |
+  | 1115 | [Tool_31026](/Items/con_847/){: .btn .btn--era5} | Guild member gift |  |
+  | 1116 | [Tool_31027](/Items/con_848/){: .btn .btn--era5} | Guild member gift |  |
+  | 1117 | [Tool_31028](/Items/con_849/){: .btn .btn--era5} | Guild member gift |  |
+  | 1118 | [Tool_31029](/Items/con_850/){: .btn .btn--era5} | Guild member gift |  |
+  | 1119 | [Tool_31030](/Items/con_851/){: .btn .btn--era5} | Guild member gift |  |
+  | 1120 | [Tool_31031](/Items/con_852/){: .btn .btn--era5} | Guild member gift |  |
+  | 1121 | [Tool_31032](/Items/con_853/){: .btn .btn--era5} | Guild member gift |  |
+  | 1122 | [Tool_31033](/Items/con_854/){: .btn .btn--era5} | Guild member gift |  |
+  | 1123 | [Tool_31034](/Items/con_855/){: .btn .btn--era5} | Guild member gift |  |
+  | 1124 | [Tool_31035](/Items/con_856/){: .btn .btn--era5} | Guild member gift |  |
+  | 1125 | [Tool_31036](/Items/con_857/){: .btn .btn--era5} | Guild member gift |  |
+  | 1126 | [Tool_31037](/Items/con_858/){: .btn .btn--era5} | Guild member gift |  |
   | 1127 | [Tool_31045](/Items/con_866/){: .btn .btn--era5} | Event related | It is said that collecting all the mysterious symbols from the foreign lands may point the way to a great deal of treasure! |
   | 1128 | [Tool_40013](/Items/con_925/){: .btn .btn--era4} | Other |  |
   | 1129 | [Tool_40024](/Items/con_936/){: .btn .btn--era5} | Other |  |
@@ -1148,10 +1148,10 @@ classes: wide
   | 1134 | [Tool_408001](/Items/con_961/){: .btn .btn--era3} | Gift |  |
   | 1135 | [Tool_408002](/Items/con_962/){: .btn .btn--era4} | Gift |  |
   | 1136 | [Tool_499035](/Items/con_1002/){: .btn .btn--era4} | WEAPON PIECE |  |
-  | 1137 | [Tool_6030403](/Items/con_1047/){: .btn .btn--era5} | Unknown |  |
-  | 1138 | [Tool_6070503](/Items/con_1062/){: .btn .btn--era5} | Unknown |  |
+  | 1137 | [Tool_6030403](/Items/con_1047/){: .btn .btn--era5} | Special Skin |  |
+  | 1138 | [Tool_6070503](/Items/con_1062/){: .btn .btn--era5} | Special Skin |  |
   | 1139 | [Tool_613002](/Items/con_1070/){: .btn .btn--era5} | Gift |  |
-  | 1140 | [Tool_6170102](/Items/con_1079/){: .btn .btn--era5} | Unknown |  |
+  | 1140 | [Tool_6170102](/Items/con_1079/){: .btn .btn--era5} | Special Skin |  |
   | 1141 | [Tool_906041](/Items/con_1364/){: .btn .btn--era4} | Gift | Use it to get Diamond *2580, Elite Unit Pack *1, Talent Potion Material *288 and Huge Bottle of EXP Potion *20 |
   | 1142 | [Tool_906043](/Items/con_1366/){: .btn .btn--era4} | Gift | Use it to get Diamond *5180, Elite Unit Pack *1, Spell Scroll *300 and Temple Scroll *10 |
   | 1143 | [Tool_906045](/Items/con_1368/){: .btn .btn--era5} | Gift | Use it to get Diamond *60 and Premium Artifact Component Pack *1 |
@@ -1195,15 +1195,15 @@ classes: wide
   | 1181 | [Tool_907419](/Items/con_1797/){: .btn .btn--era4} | Gift |  |
   | 1182 | [Tool_907545](/Items/con_1922/){: .btn .btn--era4} | Gift |  |
   | 1183 | [Tool_9210101](/Items/con_1971/){: .btn .btn--era5} | Unknown |  |
-  | 1184 | [Tool_9210903](/Items/con_1977/){: .btn .btn--era5} | Unknown |  |
-  | 1185 | [Tool_9220902](/Items/con_1981/){: .btn .btn--era5} | Unknown |  |
-  | 1186 | [Tool_9230903](/Items/con_1986/){: .btn .btn--era5} | Unknown |  |
-  | 1187 | [Tool_9250902](/Items/con_1991/){: .btn .btn--era5} | Unknown |  |
-  | 1188 | [Tool_9250903](/Items/con_1992/){: .btn .btn--era5} | Unknown |  |
-  | 1189 | [Tool_9260903](/Items/con_1995/){: .btn .btn--era5} | Unknown |  |
-  | 1190 | [Tool_9270902](/Items/con_1997/){: .btn .btn--era5} | Unknown | Unlocked after getting the Evil Condensed: Evil Sorceress Skin. |
-  | 1191 | [Tool_9280803](/Items/con_1999/){: .btn .btn--era5} | Unknown |  |
-  | 1192 | [Tool_9280902](/Items/con_2000/){: .btn .btn--era5} | Unknown |  |
+  | 1184 | [Tool_9210903](/Items/con_1977/){: .btn .btn--era5} | Unit Skin |  |
+  | 1185 | [Tool_9220902](/Items/con_1981/){: .btn .btn--era5} | Unit Skin |  |
+  | 1186 | [Tool_9230903](/Items/con_1986/){: .btn .btn--era5} | Unit Skin |  |
+  | 1187 | [Tool_9250902](/Items/con_1991/){: .btn .btn--era5} | Unit Skin |  |
+  | 1188 | [Tool_9250903](/Items/con_1992/){: .btn .btn--era5} | Unit Skin |  |
+  | 1189 | [Tool_9260903](/Items/con_1995/){: .btn .btn--era5} | Unit Skin |  |
+  | 1190 | [Tool_9270902](/Items/con_1997/){: .btn .btn--era5} | Unit Skin | Unlocked after getting the Evil Condensed: Evil Sorceress Skin. |
+  | 1191 | [Tool_9280803](/Items/con_1999/){: .btn .btn--era5} | Unit Skin |  |
+  | 1192 | [Tool_9280902](/Items/con_2000/){: .btn .btn--era5} | Unit Skin |  |
   | 1193 | [Tool_93601](/Items/con_2050/){: .btn .btn--era5} | Event related |  |
   | 1194 | [Tool_93602](/Items/con_2051/){: .btn .btn--era5} | Event related |  |
   | 1195 | [Tool_93608](/Items/con_2057/){: .btn .btn--era5} | Event related |  |
@@ -1216,36 +1216,36 @@ classes: wide
   | 1202 | [Tool_939906](/Items/con_2084/){: .btn .btn--era5} | Event related |  |
   | 1203 | [Tool_939908](/Items/con_2085/){: .btn .btn--era5} | Event related |  |
   | 1204 | [Tool_939909](/Items/con_2086/){: .btn .btn--era5} | Event related |  |
-  | 1205 | [Tool_940001](/Items/con_2087/){: .btn .btn--era4} | Unknown |  |
-  | 1206 | [Tool_940002](/Items/con_2088/){: .btn .btn--era4} | Unknown |  |
-  | 1207 | [Tool_940101](/Items/con_2089/){: .btn .btn--era4} | Unknown |  |
-  | 1208 | [Tool_940102](/Items/con_2090/){: .btn .btn--era4} | Unknown |  |
-  | 1209 | [Tool_940103](/Items/con_2091/){: .btn .btn--era4} | Unknown |  |
-  | 1210 | [Tool_940104](/Items/con_2092/){: .btn .btn--era4} | Unknown |  |
-  | 1211 | [Tool_940105](/Items/con_2093/){: .btn .btn--era4} | Unknown |  |
-  | 1212 | [Tool_940106](/Items/con_2094/){: .btn .btn--era4} | Unknown |  |
-  | 1213 | [Tool_940107](/Items/con_2095/){: .btn .btn--era4} | Unknown |  |
-  | 1214 | [Tool_940108](/Items/con_2096/){: .btn .btn--era4} | Unknown |  |
-  | 1215 | [Tool_940109](/Items/con_2097/){: .btn .btn--era4} | Unknown |  |
-  | 1216 | [Tool_940110](/Items/con_2098/){: .btn .btn--era4} | Unknown |  |
+  | 1205 | [Tool_940001](/Items/con_2087/){: .btn .btn--era4} | Battle Formation |  |
+  | 1206 | [Tool_940002](/Items/con_2088/){: .btn .btn--era4} | Battle Formation |  |
+  | 1207 | [Tool_940101](/Items/con_2089/){: .btn .btn--era4} | Battle Formation |  |
+  | 1208 | [Tool_940102](/Items/con_2090/){: .btn .btn--era4} | Battle Formation |  |
+  | 1209 | [Tool_940103](/Items/con_2091/){: .btn .btn--era4} | Battle Formation |  |
+  | 1210 | [Tool_940104](/Items/con_2092/){: .btn .btn--era4} | Battle Formation |  |
+  | 1211 | [Tool_940105](/Items/con_2093/){: .btn .btn--era4} | Battle Formation |  |
+  | 1212 | [Tool_940106](/Items/con_2094/){: .btn .btn--era4} | Battle Formation |  |
+  | 1213 | [Tool_940107](/Items/con_2095/){: .btn .btn--era4} | Battle Formation |  |
+  | 1214 | [Tool_940108](/Items/con_2096/){: .btn .btn--era4} | Battle Formation |  |
+  | 1215 | [Tool_940109](/Items/con_2097/){: .btn .btn--era4} | Battle Formation |  |
+  | 1216 | [Tool_940110](/Items/con_2098/){: .btn .btn--era4} | Battle Formation |  |
   | 1217 | [Tool_990099](/Items/con_2099/){: .btn .btn--era4} | Gift |  |
   | 1218 | [Tower Faction Selection Chest](/Items/con_1666/){: .btn .btn--era4} | Gift | Use to select 1 Gremlin, Stone Gargoyle, Iron Golem, or Mage token. |
   | 1219 | [Tower Limited Edition Pack](/Items/con_2110/){: .btn .btn--era5} | Gift | Choose to get either 1 Tower SSR token or 1 Tower SSR Soul Stone. |
   | 1220 | [Tower Roster runes](/Items/con_785/){: .btn .btn--era3} | Event related | Important item to increase your Tower units' rankings. |
   | 1221 | [Tower Unit Chest](/Items/con_1274/){: .btn .btn--era4} | Gift | Receive a random Tower Faction Unit token. |
-  | 1222 | [Tower avatar frame gift pack](/Items/con_606/){: .btn .btn--era5} | Unknown | Open it to receive a Tower avatar frame! |
+  | 1222 | [Tower avatar frame gift pack](/Items/con_606/){: .btn .btn--era5} | Avatar frame | Open it to receive a Tower avatar frame! |
   | 1223 | [Toy Christmas Stocking](/Items/con_1091/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
   | 1224 | [Toy Christmas Tree](/Items/con_1090/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
   | 1225 | [Toy Reindeer](/Items/con_1088/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
   | 1226 | [Toy Sleigh](/Items/con_1089/){: .btn .btn--era4} | Event related | Christmas Wheel event item. Can be exchanged for rewards during the event period. |
-  | 1227 | [Treasure Collector avatar frame gift pack](/Items/con_620/){: .btn .btn--era5} | Unknown | Open it to receive a Treasure Collector avatar frame! |
+  | 1227 | [Treasure Collector avatar frame gift pack](/Items/con_620/){: .btn .btn--era5} | Avatar frame | Open it to receive a Treasure Collector avatar frame! |
   | 1228 | [Treasure Component Chest](/Items/con_1383/){: .btn .btn--era4} | Gift | An Archmage's Codex component chest. Use it to select 1 of the components of the Archmage's Codex artifact. |
-  | 1229 | [Troll Avatar](/Items/con_598/){: .btn .btn--era5} | Unknown | Use to get the Troll Avatar |
+  | 1229 | [Troll Avatar](/Items/con_598/){: .btn .btn--era5} | Hero Avatar | Use to get the Troll Avatar |
   | 1230 | [UBI Coin](/Items/con_546/){: .btn .btn--era4} | Event related | Limited-time event item. Can be exchanged for various rewards during this event only! |
   | 1231 | [Ultimate Champion Chest](/Items/con_1463/){: .btn .btn--era5} | Gift | A treasure chest sealed with the will of ancient beast, only the lords having Behemoth can open it. |
   | 1232 | [Underground Gem](/Items/con_540/){: .btn .btn--era4} | Event related | A gem of special material obtained through mining. It can be exchanged for items at the Exchange Store. |
-  | 1233 | [Undying Love of Jeddite](/Items/con_1076/){: .btn .btn--era5} | Unknown | Use to get a skin: Undying Love of Jeddite |
-  | 1234 | [Unit EXP](/Items/con_902/){: .btn .btn--era9} | Unknown | Leveling up your units consumes unit experience. |
+  | 1233 | [Undying Love of Jeddite](/Items/con_1076/){: .btn .btn--era5} | Special Skin | Use to get a skin: Undying Love of Jeddite |
+  | 1234 | [Unit EXP](/Items/con_902/){: .btn .btn--era9} | VIP related | Leveling up your units consumes unit experience. |
   | 1235 | [Unit Skill Enhancement Pack](/Items/con_1918/){: .btn .btn--era4} | Gift | Grants 100 Blue Crystals (Runestone), 5 Huge EXP Potions, 10 Vampire tokens, and 680 diamonds. |
   | 1236 | [Unit Talent Enhancement pack](/Items/con_1919/){: .btn .btn--era4} | Gift | Grants 200 Charging Talent Potions, 10 Vampire tokens, 30,000 coins, 1 Skeleton Crown, and 500 diamonds. |
   | 1237 | [Unit Training Pack](/Items/con_510/){: .btn .btn--era4} | Gift | Get orange crystal runestone x5, purple crystal runestone x10, magic talent potion x700. |
@@ -1275,7 +1275,7 @@ classes: wide
   | 1261 | [V7 Premium Package](/Items/con_1303/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 7 and above |
   | 1262 | [V8 Premium Package](/Items/con_1304/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 8 and above |
   | 1263 | [V9 Premium Package](/Items/con_1305/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 9 and above |
-  | 1264 | [VIP EXP](/Items/con_888/){: .btn .btn--era5} | Unknown | VIP EXP represents dignity. |
+  | 1264 | [VIP EXP](/Items/con_888/){: .btn .btn--era5} | VIP related | VIP EXP represents dignity. |
   | 1265 | [VIP monthly card](/Items/con_883/){: .btn .btn--era5} | Unknown | A mysterious item which produces wealth continuously. Only the luckiest will possess it. |
   | 1266 | [Valentine's Day Chest A](/Items/con_1595/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest and Starlit Rose*70 |
   | 1267 | [Valentine's Day Chest B](/Items/con_1600/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 30 gold keys, 2 SR+ unit token chests, and Starlit Rose*70 |
@@ -1287,34 +1287,34 @@ classes: wide
   | 1273 | [Vega Limited-Time Special Offer](/Items/con_1808/){: .btn .btn--era4} | Gift | Grants 1,580 Diamonds, 1 Vega Ciele skin, and 10 Ancient Temple Scrolls. |
   | 1274 | [Vegetable Platter](/Items/con_1162/){: .btn .btn--era4} | Event related | A large platter filled with an assortment of vegetables. |
   | 1275 | [Vidomina Pack](/Items/con_1561/){: .btn .btn--era4} | Gift | Get 1-star Vidomina x1, Necropolis roster rune x10, spell scroll x50, Temple Scroll x2. |
-  | 1276 | [Viking God of War: Crag Hack](/Items/con_1056/){: .btn .btn--era5} | Unknown | Use to get Crag Hack's Viking God of War skin |
+  | 1276 | [Viking God of War: Crag Hack](/Items/con_1056/){: .btn .btn--era5} | Special Skin | Use to get Crag Hack's Viking God of War skin |
   | 1277 | [Void Mithril](/Items/con_817/){: .btn .btn--era4} | Event related | A mysterious meteorite that landed from the sky with powerful magic energy, it's a necessary material to forge top quality magic equipment. |
   | 1278 | [War Unicorn's Soul](/Items/con_2024/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Unicorn's Awakening |
   | 1279 | [Warfare Supplies](/Items/con_919/){: .btn .btn--era4} | Other | Warfare supplies, used for enhancing War Machines |
   | 1280 | [Warlord of the Sea](/Items/con_1095/){: .btn .btn--era5} | Gift | Use to receive the Warlord of the Sea Avatar Frame. |
   | 1281 | [Warrior avatar frame gift pack](/Items/con_602/){: .btn .btn--era5} | Unknown | Open it to receive a Warrior avatar frame! |
-  | 1282 | [Way of the Vikings: Berserker skin](/Items/con_1988/){: .btn .btn--era5} | Unknown | Grants the Way of the Vikings: Berserker skin. |
+  | 1282 | [Way of the Vikings: Berserker skin](/Items/con_1988/){: .btn .btn--era5} | Unit Skin | Grants the Way of the Vikings: Berserker skin. |
   | 1283 | [Weapons Token Chest](/Items/con_1367/){: .btn .btn--era4} | Gift | Use it to select 1 Universal Weapon Token |
-  | 1284 | [White Christmas Avatar Frame Pack](/Items/con_640/){: .btn .btn--era5} | Unknown | Open it to receive a Ice Christmas Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
+  | 1284 | [White Christmas Avatar Frame Pack](/Items/con_640/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ice Christmas Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
   | 1285 | [White Crystal](/Items/con_707/){: .btn .btn--era1} | Material | A mysterious runestone. Can improve your units' skill insight slightly. Provides 10 skill EXP when used. |
   | 1286 | [White Material Chest](/Items/con_1254/){: .btn .btn--era1} | Gift | Receive a random white equipment-upgrading item. |
-  | 1287 | [Wilderness Night Patrol - Ogre](/Items/con_1987/){: .btn .btn--era5} | Unknown | Grants the Wilderness Night Patrol: Ogre skin. |
-  | 1288 | [Wind-up Behemoth β - Dragon Golem](/Items/con_1994/){: .btn .btn--era5} | Unknown | Obtain Wind-up Behemoth β - Dragon Golem Skin after opening it |
-  | 1289 | [Winged Demon: Devil Skin](/Items/con_1990/){: .btn .btn--era5} | Unknown | Open for the Winged Demon: Devil skin. |
-  | 1290 | [Wings of Triumph: Catherine](/Items/con_1032/){: .btn .btn--era5} | Unknown | Use to get Catherine's Wings of Triumph skin |
-  | 1291 | [Wings of Triumph: Gelu](/Items/con_1040/){: .btn .btn--era5} | Unknown | Use to get Gelu's Wings of Triumph: Gelu |
+  | 1287 | [Wilderness Night Patrol - Ogre](/Items/con_1987/){: .btn .btn--era5} | Unit Skin | Grants the Wilderness Night Patrol: Ogre skin. |
+  | 1288 | [Wind-up Behemoth β - Dragon Golem](/Items/con_1994/){: .btn .btn--era5} | Unit Skin | Obtain Wind-up Behemoth β - Dragon Golem Skin after opening it |
+  | 1289 | [Winged Demon: Devil Skin](/Items/con_1990/){: .btn .btn--era5} | Unit Skin | Open for the Winged Demon: Devil skin. |
+  | 1290 | [Wings of Triumph: Catherine](/Items/con_1032/){: .btn .btn--era5} | Special Skin | Use to get Catherine's Wings of Triumph skin |
+  | 1291 | [Wings of Triumph: Gelu](/Items/con_1040/){: .btn .btn--era5} | Special Skin | Use to get Gelu's Wings of Triumph: Gelu |
   | 1292 | [Wolf Raider's Soul](/Items/con_2036/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wolf Rider's Awakening |
-  | 1293 | [Wood Elf Skin - Jade Elf](/Items/con_1979/){: .btn .btn--era5} | Unknown | Get Wood Elf Skin - Jade Elf after opening it |
+  | 1293 | [Wood Elf Skin - Jade Elf](/Items/con_1979/){: .btn .btn--era5} | Unit Skin | Get Wood Elf Skin - Jade Elf after opening it |
   | 1294 | [Wooden Hammer](/Items/con_538/){: .btn .btn--era4} | Event related | Used to open Easter Eggs. |
   | 1295 | [Wraith's Soul](/Items/con_2029/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wight's Awakening |
   | 1296 | [Wrapped Rice Dumpling](/Items/con_1485/){: .btn .btn--era4} | Gift |  |
-  | 1297 | [Wystan Avatar](/Items/con_582/){: .btn .btn--era5} | Unknown | Use it to receive the Wystan Avatar |
+  | 1297 | [Wystan Avatar](/Items/con_582/){: .btn .btn--era5} | Hero Avatar | Use it to receive the Wystan Avatar |
   | 1298 | [Wyvern Monarch's Soul](/Items/con_2070/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Wyvern's Awakening |
-  | 1299 | [Wyvern's Tail Special Skin](/Items/con_664/){: .btn .btn--era4} | Unknown | Unlock the skin when Wyvern's Tail is awakened. |
+  | 1299 | [Wyvern's Tail Special Skin](/Items/con_664/){: .btn .btn--era4} | Special Skin | Unlock the skin when Wyvern's Tail is awakened. |
   | 1300 | [Wyvern's Tail Token](/Items/con_996/){: .btn .btn--era4} | WEAPON PIECE | A Wyvern's Tail token from an ancient campaign that can be used for awakening Wyvern's exclusive potential, Wyvern's Tail. |
-  | 1301 | [Xeron Spring Festival Celebrations](/Items/con_1063/){: .btn .btn--era5} | Unknown | Use to get a skin: Xeron Spring Festival Celebration |
+  | 1301 | [Xeron Spring Festival Celebrations](/Items/con_1063/){: .btn .btn--era5} | Special Skin | Use to get a skin: Xeron Spring Festival Celebration |
   | 1302 | [Yellow Candy](/Items/con_550/){: .btn .btn--era4} | Event related | A beautifully packaged yellow candy. Can be used in the New Year Double Discounts event. |
-  | 1303 | [Yog avatar](/Items/con_574/){: .btn .btn--era5} | Unknown | Use to receive the Yog avatar |
+  | 1303 | [Yog avatar](/Items/con_574/){: .btn .btn--era5} | Hero Avatar | Use to receive the Yog avatar |
   | 1304 | [Yunnan Cured Ribs Hotpot](/Items/con_1235/){: .btn .btn--era3} | Event related | Pork ribs are preserved in a large amount of salt for more than half a month until they become firm and salty. After that, the ribs are cooked in a chicken broth hotpot to intensify the umami taste of this dish. This particular pot of food still seems rather raw. |
   | 1305 | [Yunnan Sour Pig Trotter Soup](/Items/con_1226/){: .btn .btn--era3} | Event related | Pig trotters rich in collagen with a delicate taste are stewed slowly in a delicious sour-tasting soup with an original sour taste made according to a secret recipe. This is truly a rarely seen delicacy. This particular pot of food still seems rather raw. |
   | 1306 | [Yunnan Wild Mushroom Hotpot](/Items/con_1184/){: .btn .btn--era3} | Event related | The edible wild mushrooms in this dish are sourced from the intricate natural environment of Yunnan. There are nearly 30 different types of edible mushrooms within this little pot of chicken soup, enhancing its rich and luscious taste. However, this particular pot of food still seems rather raw. |
