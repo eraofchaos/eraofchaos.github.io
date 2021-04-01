@@ -2,7 +2,7 @@
 title: "Rusted Pauldrons"
 permalink: /equipment/Rusted Pauldrons/
 excerpt: "Era of Chaos Rusted Pauldrons. Rusted Pauldrons"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Rusted Pauldrons.md"
 toc: false

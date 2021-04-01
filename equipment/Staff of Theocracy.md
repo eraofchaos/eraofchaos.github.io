@@ -2,7 +2,7 @@
 title: "Staff of Theocracy"
 permalink: /equipment/Staff of Theocracy/
 excerpt: "Era of Chaos Staff of Theocracy. Staff of Theocracy"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Staff of Theocracy.md"
 toc: false

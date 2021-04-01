@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Although she lost her \"father\" due to humankind, she still chooses to help the people who live on the sea."
 heroID: 61701
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Cassanbel"
 toc: true

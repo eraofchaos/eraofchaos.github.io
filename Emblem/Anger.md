@@ -2,7 +2,7 @@
 title: "Holy Emblem - Anger"
 permalink: /Emblem/Anger/
 excerpt: "Era of Chaos Anger. Anger. Era of Chaos Holy Emblem Anger. Era of Chaos Chaos Anger"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Anger.md"
 toc: false

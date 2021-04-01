@@ -2,7 +2,7 @@
 title: "Breath of Death"
 permalink: /equipment/Breath of Death/
 excerpt: "Era of Chaos Breath of Death. Breath of Death"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Breath of Death.md"
 toc: false

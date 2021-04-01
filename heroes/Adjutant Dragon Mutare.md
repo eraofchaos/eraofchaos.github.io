@@ -2,7 +2,7 @@
 title: "Adjutant Dragon Mutare"
 permalink: /heroes/Adjutant Dragon Mutare/
 excerpt: "Era of Chaos  Adjutant Dragon Mutare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Adjutant Dragon Mutare.md"
 toc: false

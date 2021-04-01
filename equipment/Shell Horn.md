@@ -2,7 +2,7 @@
 title: "Shell Horn"
 permalink: /equipment/Shell Horn/
 excerpt: "Era of Chaos Shell Horn. Shell Horn"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Shell Horn.md"
 toc: false

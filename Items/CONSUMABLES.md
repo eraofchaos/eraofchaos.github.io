@@ -91,16 +91,16 @@ classes: wide
   | 77 | [Astrology Discount Ticket](/Items/con_700/){: .btn .btn--era5} | Gift | A bronze chest containing many treasures. |
   | 78 | [Asura: Troll Skin](/Items/con_1989/){: .btn .btn--era5} | Unit Skin | Grants the Asura: Troll skin. |
   | 79 | [At War Avatar Frame Pack](/Items/con_1525/){: .btn .btn--era5} | Gift | Open it to receive an At War Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |
-  | 80 | [Attack skill essence](/Items/con_1110/){: .btn .btn--era3} | Unknown | Records the basic secrets of battle. Can be used to improve units' attack. |
+  | 80 | [Attack skill essence](/Items/con_1110/){: .btn .btn--era3} | Skill Essence | Records the basic secrets of battle. Can be used to improve units' attack. |
   | 81 | [Auto Chess Chest](/Items/con_2007/){: .btn .btn--era5} | Gift | Auto Chess Chests are rewards given to those who have made great achievements in Heroes Auto Chess. |
   | 82 | [Auto Chess Coin](/Items/con_935/){: .btn .btn--era5} | Other | Auto Chess Coins can be acquired through the Heroes Auto Chess campaign. |
   | 83 | [Bag of Diamonds](/Items/con_708/){: .btn .btn--era2} | EXP | A package containing 38 diamonds! |
   | 84 | [Bag of Gold](/Items/con_1563/){: .btn .btn--era3} | Gift | A package containing 77,777 gold. |
   | 85 | [Barbarian Component Chest](/Items/con_1342/){: .btn .btn--era5} | Gift | A component chest of the Axe of Ferocity. Open it to receive one of the components of the Axe of Ferocity. |
   | 86 | [Basic Building Materials](/Items/con_803/){: .btn .btn--era3} | Event related | Used for building walls during the Steadwick Defense Battle |
-  | 87 | [Basic Material Chest](/Items/con_756/){: .btn .btn--era3} | Unknown | Yields normal equipment-upgrading items according to the player's level. |
+  | 87 | [Basic Material Chest](/Items/con_756/){: .btn .btn--era3} | Material Chest | Yields normal equipment-upgrading items according to the player's level. |
   | 88 | [Basic Roster Box](/Items/con_774/){: .btn .btn--era2} | Gift | A chest that can be found anywhere in Dragon's Treasures. Open to receive a random Roster rune. |
-  | 89 | [Basic monthly card](/Items/con_884/){: .btn .btn--era4} | Unknown | A mysterious item which produces wealth continuously. Only the luckiest will possess it. |
+  | 89 | [Basic monthly card](/Items/con_884/){: .btn .btn--era4} | VIP related | A mysterious item which produces wealth continuously. Only the luckiest will possess it. |
   | 90 | [Basilisk's Tail Token](/Items/con_994/){: .btn .btn--era4} | WEAPON PIECE | A Basilisk's Tail token from an ancient campaign that can be used for awakening Basilisk's exclusive potential, Basilisk's Tail. |
   | 91 | [Battle Commander: Mephala](/Items/con_1041/){: .btn .btn--era5} | Special Skin | Use to get Mephala's Battle Commander skin |
   | 92 | [Battle Lord avatar frame](/Items/con_559/) | Gift | Only a real hero can earn this high honor! Unlock the avatar frame: Battle Lord |
@@ -157,7 +157,7 @@ classes: wide
   | 143 | [Castle Roster runes](/Items/con_752/){: .btn .btn--era3} | Event related | Important item to increase your Castle units' rankings. |
   | 144 | [Castle Unit Chest](/Items/con_1269/){: .btn .btn--era4} | Gift | Receive a random Castle Faction Unit token. |
   | 145 | [Castle avatar frame gift pack](/Items/con_612/){: .btn .btn--era5} | Avatar frame | Open it to receive a Castle avatar frame! |
-  | 146 | [Catherine Avatar](/Items/con_561/){: .btn .btn--era5} | Unknown | Use to receive the Catherine avatar |
+  | 146 | [Catherine Avatar](/Items/con_561/){: .btn .btn--era5} | Hero Avatar | Use to receive the Catherine avatar |
   | 147 | [Celebration Artifact Special Offer](/Items/con_1441/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: Phantom, the Undead King, Curse, Savage Component Chest *2 or Artifact Essence *300 |
   | 148 | [Celebration Diamond Lucky Bag](/Items/con_1438/){: .btn .btn--era4} | Gift | Use it to get a certain amount of Diamonds |
   | 149 | [Celebration Hero Special Offer](/Items/con_1442/){: .btn .btn--era4} | Gift | Use it to select 1 of the following: 1-star Solmyr, Adelaide, Luna, Jeddite *1 and Universal Token *15 |
@@ -201,7 +201,7 @@ classes: wide
   | 187 | [Commander Roster Rune](/Items/con_781/){: .btn .btn--era4} | Event related | Important item for upgrading your commander roster. |
   | 188 | [Commemorative Statue](/Items/con_947/){: .btn .btn--era4} | Other | Used to redeem Easter gifts. |
   | 189 | [Commemorative coin](/Items/con_877/){: .btn .btn--era5} | Other | Proof of participation in the Battle of the Gods. |
-  | 190 | [Competitor avatar frame gift pack](/Items/con_603/){: .btn .btn--era5} | Unknown | Open it to receive a Competitor avatar frame! |
+  | 190 | [Competitor avatar frame gift pack](/Items/con_603/){: .btn .btn--era5} | Avatar frame | Open it to receive a Competitor avatar frame! |
   | 191 | [Conflux Crystal](/Items/con_799/){: .btn .btn--era4} | Event related | A crystal stone forged by the powers of true elementals. Can be exchanged for Conflux Faction items in corresponding events. |
   | 192 | [Conflux Faction Selection Chest](/Items/con_1651/){: .btn .btn--era4} | Gift | Use to select 1 Sprite, Storm Elemental, Ice Elemental, Fire Elemental, or Stone Elemental token. |
   | 193 | [Conflux Roster runes](/Items/con_791/){: .btn .btn--era3} | Event related | Important item to increase your Conflux rankings. |
@@ -252,7 +252,7 @@ classes: wide
   | 238 | [Death Vanguard Pack](/Items/con_1425/){: .btn .btn--era5} | Gift | Exclusive resource for the pioneering Black Knight. Use it to select 1 of the following: Black Knight Token *1 or Dread Knight *1 |
   | 239 | [Death vanguard package](/Items/con_1397/){: .btn .btn--era4} | Gift | Exclusive resource for the pioneering troops of the Black Knight. Use it to receive Black Knight tokens. |
   | 240 | [Deep-Sea Bedrock Pack](/Items/con_1506/){: .btn .btn--era5} | Gift | A treasure chest sealed with deep sea power, only the lords having Dragon Turtle can open it. |
-  | 241 | [Defense skill essence](/Items/con_1112/){: .btn .btn--era3} | Unknown | Records the basic secrets of battle. Can be used to improve units' defense. |
+  | 241 | [Defense skill essence](/Items/con_1112/){: .btn .btn--era3} | Skill Essence | Records the basic secrets of battle. Can be used to improve units' defense. |
   | 242 | [Defensive Roster runes](/Items/con_739/){: .btn .btn--era3} | Event related | Important item to increase your Defensive units' rankings. |
   | 243 | [Defensive Talent Potion](/Items/con_787/){: .btn .btn--era4} | Event related | This potion improves your Defensive units' attributes and upgrades their skills. |
   | 244 | [Demon Crest Gift Box](/Items/con_763/){: .btn .btn--era5} | Gift | Grants the legendary assault-type machine component, Demon Crest. |
@@ -262,7 +262,7 @@ classes: wide
   | 248 | [Devil Scythe Token](/Items/con_984/){: .btn .btn--era5} | WEAPON PIECE | A Devil Scythe token from an ancient campaign that can be used for awakening Devil's general exclusive potential - Devil Scythe |
   | 249 | [Devil in a Bottle: Solmyr](/Items/con_1065/){: .btn .btn--era5} | Special Skin | Use to get Solmyr's Devil in a Bottle skin |
   | 250 | [Devotee - Judicator Avatar](/Items/con_584/){: .btn .btn--era5} | Hero Avatar | Use to receive Devotee Judicator Avatar |
-  | 251 | [Diamond](/Items/con_885/){: .btn .btn--era4} | Unknown | Diamonds represent wealth. |
+  | 251 | [Diamond](/Items/con_885/){: .btn .btn--era4} | VIP related | Diamonds represent wealth. |
   | 252 | [Diamond ](/Items/con_898/){: .btn .btn--era9} | VIP related | Diamonds represent wealth. |
   | 253 | [Diamond Pack](/Items/con_1951/){: .btn .btn--era4} | Gift | Randomly grants a certain number of Diamonds. |
   | 254 | [Diamond Reward Package](/Items/con_557/){: .btn .btn--era5} | Event related | A reward package filled with diamonds. Open it to try your luck! (This item will be removed when the event ends.) |
@@ -304,7 +304,7 @@ classes: wide
   | 290 | [Dungeon Week Special Offer Pack B](/Items/con_1685/){: .btn .btn--era4} | Gift | Grants 10 Dungeon Faction Chests, 60 diamonds, and 50,000 gold. |
   | 291 | [Dungeon Week Special Offer Pack C](/Items/con_1686/){: .btn .btn--era4} | Gift | Grants 20 Dungeon Faction Chests, 300 diamonds, 1 gold key, and 2 large energy potions. |
   | 292 | [Dungeon Week Special Offer Pack D](/Items/con_1687/){: .btn .btn--era4} | Gift | Grants 20 Dungeon Faction Selection Chests, 5 gold keys, 300,000 gold, and 5 large energy potions. |
-  | 293 | [Durandel Special Skin](/Items/con_641/){: .btn .btn--era5} | Unknown | Unlock the skin when Durandel is awakened. |
+  | 293 | [Durandel Special Skin](/Items/con_641/){: .btn .btn--era5} | Special Skin | Unlock the skin when Durandel is awakened. |
   | 294 | [Durandel Token](/Items/con_973/){: .btn .btn--era5} | WEAPON PIECE | A Durandel token from an ancient campaign that can be used for awakening Angel's exclusive potential, Durandel. |
   | 295 | [Dusty Treasure Map](/Items/con_1156/){: .btn .btn--era5} | GUILD_MAP_TREASURE | A thousand-year-old delicate map. Legend says that it conceals an amazing secret. Used for discovering treasure on the Guild Map. |
   | 296 | [Easter Celebrations Chest](/Items/con_1659/){: .btn .btn--era5} | Gift | Easter-exclusive pack. Not only can you get the corresponding amount of diamonds and VIP EXP, you can also get a lot of gold keys and event items! |
@@ -335,7 +335,7 @@ classes: wide
   | 321 | [Endless Inferno Avatar Frame (7 days)](/Items/con_1009/){: .btn .btn--era5} | Experience Card | Grants access to the Endless Inferno Avatar Frame for 7 days. |
   | 322 | [Energy](/Items/con_900/){: .btn .btn--era4} | VIP related | Energy will be consumed when you play in story mode or Underground mode. |
   | 323 | [Energy Card](/Items/con_1907/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 60 Energy, 60 Movement, and 30 diamonds. |
-  | 324 | [Energy Core](/Items/con_931/){: .btn .btn--era5} | Unknown | Used for activating Battle Formation nodes |
+  | 324 | [Energy Core](/Items/con_931/){: .btn .btn--era5} | Battle Formation | Used for activating Battle Formation nodes |
   | 325 | [Energy Core Special Skin](/Items/con_667/){: .btn .btn--era4} | Special Skin | Unlock the skin when Energy Core is awakened |
   | 326 | [Energy Core Token](/Items/con_999/){: .btn .btn--era4} | WEAPON PIECE | A Energy Core token from an ancient campaign that can be used for awakening Stone Elemental's general exclusive potential - Energy Core |
   | 327 | [Energy Elemental's Soul](/Items/con_2076/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Fire Elemental's Awakening |
@@ -368,7 +368,7 @@ classes: wide
   | 354 | [Fate Dominator (14 Days)](/Items/con_1021/){: .btn .btn--era5} | Experience Card | Obtained by becoming the champion in the cross-server Clash of Gods |
   | 355 | [Father and Son Roland](/Items/con_1036/){: .btn .btn--era5} | Special Skin | Use to get a skin: Father and Son Roland |
   | 356 | [Favor of the Gods (14 Days)](/Items/con_1020/){: .btn .btn--era5} | Experience Card | Obtained by getting 2nd place in the cross-server Clash of Gods |
-  | 357 | [Fearless Special Skin](/Items/con_642/){: .btn .btn--era5} | Unknown | Unlock the skin when Fearless is awakened. |
+  | 357 | [Fearless Special Skin](/Items/con_642/){: .btn .btn--era5} | Special Skin | Unlock the skin when Fearless is awakened. |
   | 358 | [Fearless Token](/Items/con_974/){: .btn .btn--era5} | WEAPON PIECE | A Fearless token from an ancient campaign that can be used for awakening Paladin's exclusive potential, Fearless. |
   | 359 | [Fearless vanguard package](/Items/con_1412/){: .btn .btn--era4} | Gift | There is a chance you will obtain Black Knight tokens or Cavalier tokens after use. |
   | 360 | [Fervor](/Items/con_954/){: .btn .btn--era5} | Other | An item used to challenge bosses in the Cove Attack event. |
@@ -775,7 +775,7 @@ classes: wide
   | 761 | [Orange Material Chest](/Items/con_1263/){: .btn .btn--era5} | Gift | Receive a random orange equipment-upgrading item. |
   | 762 | [Orange Spell Token Selection Chest](/Items/con_1914/){: .btn .btn--era5} | Gift | Use to select one of the following: 1 Inferno Flame token, 1 Frost Ring token, 1 Blizzard token, 1 Prayer token, 1 Storm token, 1 Rush Tactic token, 1 Mystic Domain token, 1 Petrification token, 1 Death Ripple token, 1 Mana Suppression token, or 1 Replenished Magic token. |
   | 763 | [Orc Commander Soul](/Items/con_2037/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Orc's Awakening. |
-  | 764 | [Order-Cast Stone](/Items/con_1123/){: .btn .btn--era5} | Unknown | Order-Cast Stone, a necessary item used for casting Order Holy Emblems |
+  | 764 | [Order-Cast Stone](/Items/con_1123/){: .btn .btn--era5} | Holy Emblems Cast Stone | Order-Cast Stone, a necessary item used for casting Order Holy Emblems |
   | 765 | [Ore-refining Permit](/Items/con_699/){: .btn .btn--era5} | Gift |  |
   | 766 | [Origin of Chaos Chest](/Items/con_1482/){: .btn .btn--era5} | Gift | A treasure chest sealed with chaos original, only the lords having Devil can open it. |
   | 767 | [Pandora's Box Key](/Items/con_957/){: .btn .btn--era4} | Other | A mysterious key. Use it to open Pandora's Box. |
@@ -828,7 +828,7 @@ classes: wide
   | 814 | [Purse of Diamonds](/Items/con_709/){: .btn .btn--era3} | EXP | A package containing 68 diamonds! |
   | 815 | [Purse of Gold](/Items/con_713/){: .btn .btn--era3} | EXP | A package containing 30,000 gold. |
   | 816 | [Qiandongnan Herbal Cattle Hotpot](/Items/con_1244/){: .btn .btn--era3} | Event related | This ingredients of this dish have a faint gymnosiphon scent before they are cooked. The locals call this a hundred-herb soup, and it tastes better with every bite after it is cooked with various Chinese medicinal spices and beef offal. This particular pot of food still seems rather raw. |
-  | 817 | [Quick attack skill essence](/Items/con_1113/){: .btn .btn--era3} | Unknown | Records the basic secrets of battle. Can be used to improve units' quick attacks. |
+  | 817 | [Quick attack skill essence](/Items/con_1113/){: .btn .btn--era3} | Skill Essence | Records the basic secrets of battle. Can be used to improve units' quick attacks. |
   | 818 | [Quill](/Items/con_548/){: .btn .btn--era4} | Event related | A quill dipped in magical ink. Can be used in Bingo. |
   | 819 | [R Unit Roster Rune](/Items/con_778/){: .btn .btn--era4} | Event related | Important item for upgrading your R unit roster. |
   | 820 | [R Unit Soul](/Items/con_533/){: .btn .btn--era3} | Event related | Collect 10 of these to get a random 1-star R aptitude unit. |
@@ -864,7 +864,7 @@ classes: wide
   | 850 | [Ranger of the Forest: Mephala](/Items/con_1042/){: .btn .btn--era5} | Special Skin | Use to get Mephala's Ranger of the Forest skin |
   | 851 | [Rare Building Materials](/Items/con_805/){: .btn .btn--era5} | Event related | Used for building walls during the Steadwick Defense Battle |
   | 852 | [Rare Dragon Chest](/Items/con_2009/){: .btn .btn--era4} | Gift | Rare Chest obtained from Dragon Invasion |
-  | 853 | [Rare Material Chest](/Items/con_757/){: .btn .btn--era4} | Unknown | Yields rare equipment-upgrading items according to the player's level. |
+  | 853 | [Rare Material Chest](/Items/con_757/){: .btn .btn--era4} | Material Chest | Yields rare equipment-upgrading items according to the player's level. |
   | 854 | [Rare Nian Monster Chest](/Items/con_2011/){: .btn .btn--era4} | Gift | Rare Chest obtained by challenging the Nian Monster during the New Year. |
   | 855 | [Rashka avatar](/Items/con_572/){: .btn .btn--era5} | Hero Avatar | Use to receive the Rashka avatar |
   | 856 | [Realm Package](/Items/con_1154/){: .btn .btn--era4} | Gift | A pack obtained from a realm. You have a chance to obtain Guild Coins, Skill Runes, and Rosters Box after opening it |
@@ -986,7 +986,7 @@ classes: wide
   | 972 | [Silver Pegasus' Soul](/Items/con_2022/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Silver Pegasus' Awakening |
   | 973 | [Sir Pumpkin Limited-Time Special Offer](/Items/con_1831/){: .btn .btn--era4} | Gift | Grants 1,580 diamonds, 1 Sir Pumpkin: Black Knight skin, and 5 Black Knight Tokens. |
   | 974 | [Sir Pumpkin: Black Knight Skin](/Items/con_1982/){: .btn .btn--era5} | Unit Skin | Grants the Sir Pumpkin: Black Knight skin. |
-  | 975 | [Skeleton Essence Chest](/Items/con_1327/){: .btn .btn--era4} | Unknown | Has a 50% possibility of yielding a Vidomina token! |
+  | 975 | [Skeleton Essence Chest](/Items/con_1327/){: .btn .btn--era4} | Unit Essence | Has a 50% possibility of yielding a Vidomina token! |
   | 976 | [Skeleton Rank-Up Pack 1](/Items/con_1559/){: .btn .btn--era4} | Gift | Get Skeleton Warrior token x100, unit EXP x10,000, Necropolis faction chest x10, purple crystal runestone x10, gold x100,000. |
   | 977 | [Skeleton Rank-Up Pack 2](/Items/con_1560/){: .btn .btn--era4} | Gift | Get Skeleton Warrior token x150, unit EXP x10,000, Necropolis faction chest x20, purple crystal runestone x10, gold x100,000. |
   | 978 | [Skeleton Warrior's Soul](/Items/con_2027/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Skeleton Warrior's Awakening |
@@ -1018,7 +1018,7 @@ classes: wide
   | 1004 | [Special rune package](/Items/con_1411/){: .btn .btn--era4} | Gift | You will receive 5 purple crystal runestones, 5 blue crystal runestones, and 5 green crystal runestones |
   | 1005 | [Special upgrade offer package](/Items/con_1388/){: .btn .btn--era4} | Gift | Contains 888 Heaven-Cast Stones |
   | 1006 | [Spectral Flame special offer package](/Items/con_1404/){: .btn .btn--era4} | Gift | Use it to receive 3-star Fire Elemental x 1, Heart of Fire Elemental frame x 1 and Fire Elemental tokens x 20. |
-  | 1007 | [Speed token](/Items/con_906/){: .btn .btn--era4} | Unknown | Use it to speed up your current Shipyard Quest by 30 minutes. |
+  | 1007 | [Speed token](/Items/con_906/){: .btn .btn--era4} | Shipyard related | Use it to speed up your current Shipyard Quest by 30 minutes. |
   | 1008 | [Spell Card](/Items/con_1909/){: .btn .btn--era5} | Gift | Grants the following items every day for the next 7 days after purchasing: 3 Orange Spell Token Selection Chests and 45 diamonds. |
   | 1009 | [Spell Master avatar frame gift pack](/Items/con_611/){: .btn .btn--era5} | Avatar frame | Open it to receive a Spellmaster avatar frame! |
   | 1010 | [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} | Event related | A mysterious scroll containing pure magical power. Needed for your heroes to learn high-level skills. |
@@ -1053,7 +1053,7 @@ classes: wide
   | 1039 | [Supply Artifact Selection Chest](/Items/con_1084/){: .btn .btn--era5} | Gift | A valuable reward from the army supply obtained during the Roland's Capture event. Select one of the following: Armour of the Damned Component Selection Chest, Axe of Ferocity Component Selection Chest, Sharpshooter Bow Component Selection Chest, Undead King Cloak Component Selection Chest. |
   | 1040 | [Supreme Paladin's Soul](/Items/con_2019/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Paladin's Awakening |
   | 1041 | [Surging Aura - Mantis Avatar](/Items/con_593/){: .btn .btn--era5} | Hero Avatar |  |
-  | 1042 | [Survival skill essence](/Items/con_1111/){: .btn .btn--era3} | Unknown | Records the basic secrets of battle. Can be used to improve units' survival. |
+  | 1042 | [Survival skill essence](/Items/con_1111/){: .btn .btn--era3} | Skill Essence | Records the basic secrets of battle. Can be used to improve units' survival. |
   | 1043 | [Sword Token](/Items/con_912/){: .btn .btn--era4} | WEAPON PIECE | An exclusive token from an ancient campaign that can be used for awakening the Offensive unit's general exclusive potential - Sword |
   | 1044 | [Sword of Frost Kilgor](/Items/con_1055/){: .btn .btn--era5} | Special Skin | Grants the Sword of Frost Kilgor skin. |
   | 1045 | [Sword of Frost Kilgor Limited-Time Special Offer](/Items/con_1959/){: .btn .btn--era5} | Gift | Grants 980 diamonds, 1 Sword of Frost Kilgor skin, 5 Universal (Hero) Tokens, and 10 Ancient Temple Scrolls. |
@@ -1113,7 +1113,7 @@ classes: wide
   | 1099 | [Tool_21024](/Items/con_625/){: .btn .btn--era5} | Avatar frame |  |
   | 1100 | [Tool_21027](/Items/con_628/){: .btn .btn--era5} | Avatar frame |  |
   | 1101 | [Tool_21035](/Items/con_632/){: .btn .btn--era5} | Avatar frame |  |
-  | 1102 | [Tool_210909](/Items/con_643/){: .btn .btn--era6} | Unknown |  |
+  | 1102 | [Tool_210909](/Items/con_643/){: .btn .btn--era6} | Special Skin |  |
   | 1103 | [Tool_250809](/Items/con_653/){: .btn .btn--era4} | Special Skin |  |
   | 1104 | [Tool_2990309](/Items/con_670/){: .btn .btn--era4} | Special Skin |  |
   | 1105 | [Tool_2990709](/Items/con_674/){: .btn .btn--era6} | Special Skin |  |
@@ -1194,7 +1194,7 @@ classes: wide
   | 1180 | [Tool_907418](/Items/con_1796/){: .btn .btn--era4} | Gift |  |
   | 1181 | [Tool_907419](/Items/con_1797/){: .btn .btn--era4} | Gift |  |
   | 1182 | [Tool_907545](/Items/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 1183 | [Tool_9210101](/Items/con_1971/){: .btn .btn--era5} | Unknown |  |
+  | 1183 | [Tool_9210101](/Items/con_1971/){: .btn .btn--era5} | Unit Skin |  |
   | 1184 | [Tool_9210903](/Items/con_1977/){: .btn .btn--era5} | Unit Skin |  |
   | 1185 | [Tool_9220902](/Items/con_1981/){: .btn .btn--era5} | Unit Skin |  |
   | 1186 | [Tool_9230903](/Items/con_1986/){: .btn .btn--era5} | Unit Skin |  |
@@ -1252,7 +1252,7 @@ classes: wide
   | 1238 | [Universal Half Price Pack](/Items/con_1753/){: .btn .btn--era4} | Gift | Use it to receive 12,960 diamonds, 80 Universal Tokens  |
   | 1239 | [Universal Hero Token Special Offer](/Items/con_1823/){: .btn .btn--era4} | Gift | Grants 10 Universal Hero Tokens and 1,280 diamonds. |
   | 1240 | [Universal Talent Supply Pack](/Items/con_1418/){: .btn .btn--era4} | Gift | Use it to select 1 from Offensive, Defensive, Charging, Ranged, Caster Talent Potion *100 |
-  | 1241 | [Universal Token](/Items/con_1458/){: .btn .btn--era4} | Unknown | *Have a 33% chance to get a Universal Token! |
+  | 1241 | [Universal Token](/Items/con_1458/){: .btn .btn--era4} | Unit Essence | *Have a 33% chance to get a Universal Token! |
   | 1242 | [Unknown Gift](/Items/con_529/){: .btn .btn--era4} | Event related | Although these gifts aren't signed, they're the best proof that you're liked by people. |
   | 1243 | [Upgrade Essence](/Items/con_696/){: .btn .btn--era3} | Event related | Pure magical essence. Use it to upgrade your units. |
   | 1244 | [Upgrade Package (Level 15)](/Items/con_1325/){: .btn .btn--era4} | Gift | Contains all the blue +1 quality items needed for upgrading Firebird troops! |
@@ -1276,7 +1276,7 @@ classes: wide
   | 1262 | [V8 Premium Package](/Items/con_1304/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 8 and above |
   | 1263 | [V9 Premium Package](/Items/con_1305/){: .btn .btn--era4} | Gift | A premium pack for those of VIP level 9 and above |
   | 1264 | [VIP EXP](/Items/con_888/){: .btn .btn--era5} | VIP related | VIP EXP represents dignity. |
-  | 1265 | [VIP monthly card](/Items/con_883/){: .btn .btn--era5} | Unknown | A mysterious item which produces wealth continuously. Only the luckiest will possess it. |
+  | 1265 | [VIP monthly card](/Items/con_883/){: .btn .btn--era5} | VIP related | A mysterious item which produces wealth continuously. Only the luckiest will possess it. |
   | 1266 | [Valentine's Day Chest A](/Items/con_1595/){: .btn .btn--era4} | Gift | Grants 3,280 diamonds, 25 gold keys, 1 SR+ unit token chest and Starlit Rose*70 |
   | 1267 | [Valentine's Day Chest B](/Items/con_1600/){: .btn .btn--era4} | Gift | Grants 6,480 diamonds, 30 gold keys, 2 SR+ unit token chests, and Starlit Rose*70 |
   | 1268 | [Valentine's Day Gift Box](/Items/con_1593/){: .btn .btn--era4} | Gift | Grants 680 diamonds, 5 gold keys, 1 SR unit token chest and Starlit Rose*10 |
@@ -1292,7 +1292,7 @@ classes: wide
   | 1278 | [War Unicorn's Soul](/Items/con_2024/){: .btn .btn--era5} | Event related | Ancient Immortal Hero Soul. Can be used for Unicorn's Awakening |
   | 1279 | [Warfare Supplies](/Items/con_919/){: .btn .btn--era4} | Other | Warfare supplies, used for enhancing War Machines |
   | 1280 | [Warlord of the Sea](/Items/con_1095/){: .btn .btn--era5} | Gift | Use to receive the Warlord of the Sea Avatar Frame. |
-  | 1281 | [Warrior avatar frame gift pack](/Items/con_602/){: .btn .btn--era5} | Unknown | Open it to receive a Warrior avatar frame! |
+  | 1281 | [Warrior avatar frame gift pack](/Items/con_602/){: .btn .btn--era5} | Avatar frame | Open it to receive a Warrior avatar frame! |
   | 1282 | [Way of the Vikings: Berserker skin](/Items/con_1988/){: .btn .btn--era5} | Unit Skin | Grants the Way of the Vikings: Berserker skin. |
   | 1283 | [Weapons Token Chest](/Items/con_1367/){: .btn .btn--era4} | Gift | Use it to select 1 Universal Weapon Token |
   | 1284 | [White Christmas Avatar Frame Pack](/Items/con_640/){: .btn .btn--era5} | Avatar frame | Open it to receive a Ice Christmas Avatar Frame. You will get 30 Diamonds instead if the Avatar Frame has already been unlocked |

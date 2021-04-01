@@ -2,7 +2,7 @@
 title: "Gorgon Shoulder-guards"
 permalink: /equipment/Gorgon Shoulder-guards/
 excerpt: "Era of Chaos Gorgon Shoulder-guards. Gorgon Shoulder-guards"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Gorgon Shoulder-guards.md"
 toc: false

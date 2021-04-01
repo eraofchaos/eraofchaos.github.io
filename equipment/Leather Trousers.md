@@ -2,7 +2,7 @@
 title: "Leather Trousers"
 permalink: /equipment/Leather Trousers/
 excerpt: "Era of Chaos Leather Trousers. Leather Trousers"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: en
 ref: "Leather Trousers.md"
 toc: false
