@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-13 Lava-Scorched Earth"
 permalink: /Main Story/Chapter 30_13/
 excerpt: "Chapter 30 - 13. Era of Chaos  Main Story - Chapter 30_13. 30-13 Lava-Scorched Earth"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-10
 locale: en
 ref: "Chapter 30_13.md"
 toc: false

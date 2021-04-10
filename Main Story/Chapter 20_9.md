@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-9 Magic Exchange"
 permalink: /Main Story/Chapter 20_9/
 excerpt: "Chapter 20 - 9. Era of Chaos  Main Story - Chapter 20_9. 20-9 Magic Exchange"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-10
 locale: en
 ref: "Chapter 20_9.md"
 toc: false

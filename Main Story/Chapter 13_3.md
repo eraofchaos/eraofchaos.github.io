@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-3 Assistance"
 permalink: /Main Story/Chapter 13_3/
 excerpt: "Chapter 13 - 3. Era of Chaos  Main Story - Chapter 13_3. 13-3 Assistance"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-10
 locale: en
 ref: "Chapter 13_3.md"
 toc: false

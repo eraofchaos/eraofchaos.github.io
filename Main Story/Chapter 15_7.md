@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-7 Altar of Doom"
 permalink: /Main Story/Chapter 15_7/
 excerpt: "Chapter 15 - 7. Era of Chaos  Main Story - Chapter 15_7. 15-7 Altar of Doom"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-10
 locale: en
 ref: "Chapter 15_7.md"
 toc: false

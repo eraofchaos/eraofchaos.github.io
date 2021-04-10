@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-6 Rebuilding the Border"
 permalink: /Main Story/Chapter 12_6/
 excerpt: "Chapter 12 - 6. Era of Chaos  Main Story - Chapter 12_6. 12-6 Rebuilding the Border"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-10
 locale: en
 ref: "Chapter 12_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-7 Pursuit"
 permalink: /Main Story/Chapter 13_7/
 excerpt: "Chapter 13 - 7. Era of Chaos  Main Story - Chapter 13_7. 13-7 Pursuit"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-10
 locale: en
 ref: "Chapter 13_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-13 Trap to Catch the Beast"
 permalink: /Main Story/Chapter 16_13/
 excerpt: "Chapter 16 - 13. Era of Chaos  Main Story - Chapter 16_13. 16-13 Trap to Catch the Beast"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-10
 locale: en
 ref: "Chapter 16_13.md"
 toc: false

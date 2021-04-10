@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 - 8-10 The Town in the Lake"
 permalink: /Main Story/Chapter 8_10/
 excerpt: "Chapter 8 - 10. Era of Chaos  Main Story - Chapter 8_10. 8-10 The Town in the Lake"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-10
 locale: en
 ref: "Chapter 8_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-7 Sulfur Mines"
 permalink: /Main Story/Chapter 30_7/
 excerpt: "Chapter 30 - 7. Era of Chaos  Main Story - Chapter 30_7. 30-7 Sulfur Mines"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-10
 locale: en
 ref: "Chapter 30_7.md"
 toc: false
