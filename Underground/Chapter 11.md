@@ -1,0 +1,18 @@
+---
+title: "Underground - Chapter 11 Harvest Season"
+permalink: /Underground/Chapter 11/
+excerpt: "Chapter 11 Harvest Season. Era of Chaos  Underground - Chapter 11. Harvest Season"
+last_modified_at: 2021-04-10
+locale: en
+ref: "Chapter 11.md"
+toc: false
+classes: wide
+---
+
+  | Name |  First Complete Reward | Drop Reward |
+  |:------------|:------------|:------------| 
+  | [11-1 Safe Passage](/Underground/Chapter 11_1/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Wight](/Items/unt_210/){: .btn .btn--era4}, [Book of Essences](/Items/mat_46/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+  | [11-2 Key Players](/Underground/Chapter 11_2/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | , [Book of Essences](/Items/mat_46/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+  | [11-3 Run for Cover](/Underground/Chapter 11_3/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Gremlin](/Items/unt_235/){: .btn .btn--era3}, [Book of Essences](/Items/mat_46/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+  | [11-4 Allies in Battle](/Underground/Chapter 11_4/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | , [Book of Essences](/Items/mat_46/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+  | [11-5 Fighting the Undead](/Underground/Chapter 11_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Wood Elf](/Items/unt_201/){: .btn .btn--era4}, [Book of Essences](/Items/mat_46/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
