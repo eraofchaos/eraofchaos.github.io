@@ -127,6 +127,7 @@ You will find here:
 * <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
 
 * <i class="fas fa-poo-storm"/>  [Main Story](/Main Story/)
+* <i class="fas fa-door-open"/> [Underground](/Underground/)
 
 * <i class="fas fa-question-circle"/>  [Sphinx: Answer questions for approval and rewards!](/sphinx/)
 
