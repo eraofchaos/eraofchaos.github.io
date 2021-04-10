@@ -10,7 +10,7 @@ classes: wide
 ---
 
   | Nr | Name |  Min Level | Description |
-  |:---|:---------:|:-----------:|:------------| 
+  |:---|:---------|:-----------:|:------------| 
   | **1** | [Underground Chapter 1 - Homecoming](/Underground/Chapter 1/) | **10** | King Gryphonheart's death has thrown Erathia into turmoil. The forces of evil seem unstoppable. The whole country has fallen into chaos. | 
   | **2** | [Underground Chapter 2 - Guardian Angel](/Underground/Chapter 2/) | **10** | From Queen Catherine: Erathia is under attack. Your mission is to establish a military base, and discover how strong the enemy's forces are. War has broken out, and we must answer the call! | 
   | **3** | [Underground Chapter 3 - Griffin Cliffs](/Underground/Chapter 3/) | **10** | Rumors of Angels in Fair Feather have drawn our attention. Angels would make powerful allies indeed. We must reach Fair Feather before the enemy does. | 
