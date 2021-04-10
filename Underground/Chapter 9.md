@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
- # Chapters
+  # Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [9-5 For Victory!](/Underground/Chapter 9_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Demon](/Items/unt_229/){: .btn .btn--era4}, [Book of Essences](/Items/mat_39/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Arms](/Items/mat_32/){: .btn .btn--era3} |
 
 
- # 15 Stars Rewards:
+  # 15 Stars Rewards:
 
  Reward 1:  **400x** <i class="fas fa-gem"/>
 

@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
- # Chapters
+  # Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [2-5 Finding Allies](/Underground/Chapter 2_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Swordsman](/Items/unt_193/){: .btn .btn--era4}, [Book of Arms](/Items/mat_18/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Common Crystal](/Items/mat_11/){: .btn .btn--era2} |
 
 
- # 15 Stars Rewards:
+  # 15 Stars Rewards:
 
  Reward 1:  **200x** <i class="fas fa-gem"/>
 

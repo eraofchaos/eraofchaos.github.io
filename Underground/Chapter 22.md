@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
- # Chapters
+  # Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [22-5 Essence of Life](/Underground/Chapter 22_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Dendroid Guard](/Items/unt_203/){: .btn .btn--era4}, [Certificate of Legend](/Items/mat_88/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Certificate of Legend](/Items/mat_81/){: .btn .btn--era5} |
 
 
- # 15 Stars Rewards:
+  # 15 Stars Rewards:
 
  Reward 1:  **500x** <i class="fas fa-gem"/>
 

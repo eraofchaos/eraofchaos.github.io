@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
- # Chapters
+  # Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [4-5 The Hand of God](/Underground/Chapter 4_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Swordsman](/Items/unt_193/){: .btn .btn--era4}, [Book of Arms](/Items/mat_25/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Arms](/Items/mat_18/){: .btn .btn--era3} |
 
 
- # 15 Stars Rewards:
+  # 15 Stars Rewards:
 
  Reward 1:  **250x** <i class="fas fa-gem"/>
 

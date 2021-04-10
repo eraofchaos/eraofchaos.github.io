@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
- # Chapters
+  # Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [10-5 Rebirth of the King](/Underground/Chapter 10_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Pit Fiend](/Items/unt_230/){: .btn .btn--era4}, [Book of Essences](/Items/mat_46/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_39/){: .btn .btn--era4} |
 
 
- # 15 Stars Rewards:
+  # 15 Stars Rewards:
 
  Reward 1:  **400x** <i class="fas fa-gem"/>
 
