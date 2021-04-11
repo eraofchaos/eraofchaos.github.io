@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
+  | [Pikeman](/units/Pikeman/) (Score: 8979, Level:26)  | [Cavalier](/units/Cavalier/) (Score: 8979, Level:26)  | [Cavalier](/units/Cavalier/) (Score: 8979, Level:26)  | [Cavalier](/units/Cavalier/) (Score: 8979, Level:26)  |
   | - | - | - | - |
   | - | - | - | - |
-  | ? | ? | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 8979, Level:26)  | [Unicorn](/units/Unicorn/) (Score: 12944, Level:26)  | - | - |
 
 

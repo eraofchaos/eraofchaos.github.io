@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
+  | [Unicorn](/units/Unicorn/) (Score: 13702, Level:30)  | - | [Pegasus](/units/Pegasus/) (Score: 9877, Level:30)  | [Pegasus](/units/Pegasus/) (Score: 9877, Level:30)  |
+  | [Swordsman](/units/Swordsman/) (Score: 9877, Level:30)  | - | [Pegasus](/units/Pegasus/) (Score: 9877, Level:30)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 9877, Level:30)  | - | [Monk](/units/Monk/) (Score: 9877, Level:30)  | - |
+  | [Cavalier](/units/Cavalier/) (Score: 9877, Level:30)  | - | - | - |
 
 

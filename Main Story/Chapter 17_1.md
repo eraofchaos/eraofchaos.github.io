@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 83128, Level:64)  | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 83128, Level:64)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 83128, Level:64)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 83128, Level:64)  | - |
+  | [Skeleton](/units/Skeleton/) (Score: 83128, Level:64)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 83128, Level:64)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 83128, Level:64)  | - | - | - |
 
 

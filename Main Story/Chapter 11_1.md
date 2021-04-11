@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Goblin](/units/Goblin/) (Score: 30668, Level:42)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 36768, Level:42)  | [Orc](/units/Orc/) (Score: 30668, Level:42)  | [Orc](/units/Orc/) (Score: 30668, Level:42)  | - |
+  | [Ogre](/units/Ogre/) (Score: 30668, Level:42)  | [Orc](/units/Orc/) (Score: 30668, Level:42)  | - | - |
+  | [Goblin](/units/Goblin/) (Score: 30668, Level:42)  | - | - | - |
 
 

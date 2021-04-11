@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | - | - | ? | - |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
+  | [Sprite](/units/Sprite/) (Score: 106740, Level:73)  | [Arch Mage](/units/Arch Mage/) (Score: 106740, Level:73)  | [Ice Elemental](/units/Ice Elemental/) (Score: 106740, Level:73)  | [Ice Elemental](/units/Ice Elemental/) (Score: 106740, Level:73)  |
+  | - | - | [Ice Elemental](/units/Ice Elemental/) (Score: 106740, Level:73)  | - |
+  | [Giant](/units/Giant/) (Score: 106740, Level:73)  | - | [Ice Elemental](/units/Ice Elemental/) (Score: 106740, Level:73)  | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 106740, Level:73)  | - | - | - |
 
 

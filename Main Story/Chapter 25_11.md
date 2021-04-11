@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | - |
+  | [Beholder](/units/Beholder/) (Score: 370361, Level:99)  | - | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 370361, Level:99)  | [Troglodyte](/units/Troglodyte/) (Score: 370361, Level:99)  | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 370361, Level:99)  | [Vampire](/units/Vampire/) (Score: 370361, Level:99)  | - | - |
+  | [Beholder](/units/Beholder/) (Score: 370361, Level:99)  | [Lich](/units/Lich/) (Score: 370361, Level:99)  | - | - |
 
 

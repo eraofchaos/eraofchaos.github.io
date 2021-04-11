@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Goblin](/units/Goblin/) (Score: 7759, Level:24)  | - | - | - |
+  | [Centaur](/units/Centaur/) (Score: 12029, Level:24)  | [Pegasus](/units/Pegasus/) (Score: 7637, Level:24)  | [Pegasus](/units/Pegasus/) (Score: 7637, Level:24)  | - |
+  | [Ogre](/units/Ogre/) (Score: 7759, Level:24)  | - | - | - |
+  | [Dire Wolf](/units/Dire Wolf/) (Score: 7759, Level:24)  | - | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | - | - |
-  | - | ? | ? | ? |
-  | - | ? | - | - |
-  | - | ? | ? | ? |
+  | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 31811, Level:42)  | - | - |
+  | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 31811, Level:42)  | [Wood Elf](/units/Wood Elf/) (Score: 32116, Level:42)  | - |
+  | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 31811, Level:42)  | - | - |
+  | - | [Pikeman](/units/Pikeman/) (Score: 31964, Level:42)  | [Griffin](/units/Griffin/) (Score: 32040, Level:42)  | [Pegasus](/units/Pegasus/) (Score: 38521, Level:42)  |
 
 

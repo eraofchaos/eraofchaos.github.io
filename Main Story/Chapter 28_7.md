@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 574788, Level:142)  | - | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 574788, Level:142)  | [Bone Dragon](/units/Bone Dragon/) (Score: 574788, Level:142)  | [Pit Fiend](/units/Pit Fiend/) (Score: 574788, Level:142)  | - |
+  | [Minotaur](/units/Minotaur/) (Score: 574788, Level:142)  | [Bone Dragon](/units/Bone Dragon/) (Score: 574788, Level:142)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 574788, Level:142)  | - | - | - |
 
 

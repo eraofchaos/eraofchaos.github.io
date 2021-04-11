@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
+  | [Goblin](/units/Goblin/) (Score: 222131, Level:83)  | [Goblin](/units/Goblin/) (Score: 222131, Level:83)  | [Roc](/units/Roc/) (Score: 222131, Level:83)  | [Roc](/units/Roc/) (Score: 222131, Level:83)  |
   | - | - | - | - |
   | - | - | - | - |
-  | ? | ? | ? | ? |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 222131, Level:83)  | [Unicorn](/units/Unicorn/) (Score: 222131, Level:83)  | [Pegasus](/units/Pegasus/) (Score: 222131, Level:83)  | [Pegasus](/units/Pegasus/) (Score: 222131, Level:83)  |
 
 

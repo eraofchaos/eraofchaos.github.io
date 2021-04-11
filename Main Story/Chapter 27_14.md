@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 479933, Level:108)  | - | [Arch Mage](/units/Arch Mage/) (Score: 479933, Level:108)  | [Arch Mage](/units/Arch Mage/) (Score: 479933, Level:108)  |
+  | [Swordsman](/units/Swordsman/) (Score: 479933, Level:108)  | - | - | [Monk](/units/Monk/) (Score: 479933, Level:108)  |
+  | [Giant](/units/Giant/) (Score: 479933, Level:108)  | - | - | - |
+  | [Naga](/units/Naga/) (Score: 479933, Level:108)  | [Naga](/units/Naga/) (Score: 479933, Level:108)  | - | - |
 
 

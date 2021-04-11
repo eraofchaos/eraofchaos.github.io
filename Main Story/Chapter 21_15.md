@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 141230, Level:82)  | [Behemoth](/units/Behemoth/) (Score: 141230, Level:82)  |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 141230, Level:82)  | [Cyclops](/units/Cyclops/) (Score: 141230, Level:82)  |
+  | - | - | [Ogre](/units/Ogre/) (Score: 141230, Level:82)  | - |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 141230, Level:82)  | [Roc](/units/Roc/) (Score: 141230, Level:82)  |
 
 

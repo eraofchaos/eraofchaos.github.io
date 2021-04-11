@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 428769, Level:103)  | [Iron Golem](/units/Iron Golem/) (Score: 428769, Level:103)  |
+  | - | - | [Troglodyte](/units/Troglodyte/) (Score: 428769, Level:103)  | [Pegasus](/units/Pegasus/) (Score: 428769, Level:103)  |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 428769, Level:103)  | [Pegasus](/units/Pegasus/) (Score: 428769, Level:103)  |
+  | - | - | [Black Dragon](/units/Black Dragon/) (Score: 428769, Level:103)  | - |
 
 

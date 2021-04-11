@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | - | - | - | ? |
+  | [Naga](/units/Naga/) (Score: 321409, Level:94)  | [Ogre](/units/Ogre/) (Score: 321409, Level:94)  | [Orc](/units/Orc/) (Score: 321409, Level:94)  | [Orc](/units/Orc/) (Score: 321409, Level:94)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 321409, Level:94)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 321409, Level:94)  | - | [Arch Mage](/units/Arch Mage/) (Score: 321409, Level:94)  | [Giant](/units/Giant/) (Score: 321409, Level:94)  |
+  | - | - | - | - |
 
 

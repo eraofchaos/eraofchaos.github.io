@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | ? | ? | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 88389, Level:65)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 88389, Level:65)  | - | - | - |
+  | [Demon](/units/Demon/) (Score: 88389, Level:65)  | [Black Knight](/units/Black Knight/) (Score: 88389, Level:65)  | [Wight](/units/Wight/) (Score: 88389, Level:65)  | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 88389, Level:65)  | [Efreeti](/units/Efreeti/) (Score: 88389, Level:65)  | - | - |
 
 

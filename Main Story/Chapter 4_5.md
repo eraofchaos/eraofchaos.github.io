@@ -37,8 +37,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | - | ? |
+  | - | - | [Pit Fiend](/units/Pit Fiend/) (Score: 4526, Level:13)  | [Gog](/units/Gog/) (Score: 2757, Level:13)  |
+  | - | - | [Dire Wolf](/units/Dire Wolf/) (Score: 3672, Level:13)  | [Gog](/units/Gog/) (Score: 2757, Level:13)  |
+  | - | - | - | [Gog](/units/Gog/) (Score: 2757, Level:13)  |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 3611, Level:16)  | - | - | - |
+  | [Griffin](/units/Griffin/) (Score: 3611, Level:16)  | [Monk](/units/Monk/) (Score: 5624, Level:16)  | - | - |
+  | [Griffin](/units/Griffin/) (Score: 3611, Level:16)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 3611, Level:16)  | - | - | - |
 
 

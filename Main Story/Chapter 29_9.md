@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 712190, Level:176)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 712190, Level:176)  | - | - |
+  | [Sharpshooter](/units/Sharpshooter/) (Score: 712190, Level:176)  | [Sharpshooter](/units/Sharpshooter/) (Score: 712190, Level:176)  | - | - |
+  | [Sharpshooter](/units/Sharpshooter/) (Score: 712190, Level:176)  | [Sharpshooter](/units/Sharpshooter/) (Score: 712190, Level:176)  | - | - |
+  | [Wood Elf](/units/Wood Elf/) (Score: 712190, Level:176)  | - | - | - |
 
 

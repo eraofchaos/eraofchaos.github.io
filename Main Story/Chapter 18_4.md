@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 96624, Level:71)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 96624, Level:71)  | - | [Green Dragon](/units/Green Dragon/) (Score: 96624, Level:71)  | [Pegasus](/units/Pegasus/) (Score: 96624, Level:71)  |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 96624, Level:71)  | - | [Pegasus](/units/Pegasus/) (Score: 96624, Level:71)  | - |
+  | [Unicorn](/units/Unicorn/) (Score: 96624, Level:71)  | - | - | - |
 
 

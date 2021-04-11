@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | - |
+  | [Roc](/units/Roc/) (Score: 47443, Level:50)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 47443, Level:50)  | [Black Knight](/units/Black Knight/) (Score: 47443, Level:50)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 47443, Level:50)  | [Vampire](/units/Vampire/) (Score: 47443, Level:50)  | - | - |
+  | [Roc](/units/Roc/) (Score: 47443, Level:50)  | [Lich](/units/Lich/) (Score: 47443, Level:50)  | - | - |
 
 

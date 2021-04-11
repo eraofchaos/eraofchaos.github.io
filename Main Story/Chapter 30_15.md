@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 904950, Level:228)  | [Bone Dragon](/units/Bone Dragon/) (Score: 904950, Level:228)  |
+  | - | - | [Devil](/units/Devil/) (Score: 904950, Level:228)  | - |
+  | - | - | [Devil](/units/Devil/) (Score: 904950, Level:228)  | [Devil](/units/Devil/) (Score: 904950, Level:228)  |
+  | - | - | [Black Dragon](/units/Black Dragon/) (Score: 904950, Level:228)  | [Devil](/units/Devil/) (Score: 904950, Level:228)  |
 
 

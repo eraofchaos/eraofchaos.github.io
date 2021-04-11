@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Wight](/units/Wight/) (Score: 897020, Level:226)  | - | [Arch Mage](/units/Arch Mage/) (Score: 897020, Level:226)  | [Arch Mage](/units/Arch Mage/) (Score: 897020, Level:226)  |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 897020, Level:226)  | - | - | [Arch Mage](/units/Arch Mage/) (Score: 897020, Level:226)  |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 897020, Level:226)  | - | - | - |
+  | [Wight](/units/Wight/) (Score: 897020, Level:226)  | [Gog](/units/Gog/) (Score: 897020, Level:226)  | - | - |
 
 

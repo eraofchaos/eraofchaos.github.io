@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Goblin](/units/Goblin/) (Score: 7027, Level:23)  | [Wood Elf](/units/Wood Elf/) (Score: 7027, Level:23)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 10077, Level:23)  | [Wood Elf](/units/Wood Elf/) (Score: 7027, Level:23)  | - | - |
+  | [Goblin](/units/Goblin/) (Score: 7027, Level:23)  | - | - | - |
+  | [Dire Wolf](/units/Dire Wolf/) (Score: 7027, Level:23)  | - | - | - |
 
 

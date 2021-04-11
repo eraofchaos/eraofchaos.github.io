@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | - | ? | ? | - |
-  | - | ? | ? | - |
-  | - | ? | ? | - |
+  | - | [Stone Elemental](/units/Stone Elemental/) (Score: 115686, Level:74)  | [Ice Elemental](/units/Ice Elemental/) (Score: 115686, Level:74)  | [Ice Elemental](/units/Ice Elemental/) (Score: 115686, Level:74)  |
+  | - | [Naga](/units/Naga/) (Score: 115686, Level:74)  | [Ice Elemental](/units/Ice Elemental/) (Score: 115686, Level:74)  | - |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 115686, Level:74)  | [Ice Elemental](/units/Ice Elemental/) (Score: 115686, Level:74)  | - |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 115686, Level:74)  | - | - |
 
 

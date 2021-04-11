@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 37911, Level:47)  | [Swordsman](/units/Swordsman/) (Score: 37911, Level:47)  |
+  | - | - | [Angel](/units/Angel/) (Score: 44698, Level:47)  | [Green Dragon](/units/Green Dragon/) (Score: 37911, Level:47)  |
+  | - | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 37911, Level:47)  | [Pegasus](/units/Pegasus/) (Score: 38140, Level:47)  |
+  | - | - | [Centaur](/units/Centaur/) (Score: 37911, Level:47)  | - |
 
 

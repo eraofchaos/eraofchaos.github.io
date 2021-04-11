@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | ? | - | - |
+  | [Devil](/units/Devil/) (Score: 103486, Level:71)  | [Imp](/units/Imp/) (Score: 103486, Level:71)  | - | - |
+  | [Demon](/units/Demon/) (Score: 103486, Level:71)  | - | - | [Efreeti](/units/Efreeti/) (Score: 103486, Level:71)  |
+  | [Demon](/units/Demon/) (Score: 103486, Level:71)  | - | - | - |
+  | [Devil](/units/Devil/) (Score: 103486, Level:71)  | [Pit Fiend](/units/Pit Fiend/) (Score: 103486, Level:71)  | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | ? | - | - |
-  | ? | - | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 61244, Level:54)  | - | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 61244, Level:54)  | - | - | [Vampire](/units/Vampire/) (Score: 61244, Level:54)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 61244, Level:54)  | [Gremlin](/units/Gremlin/) (Score: 61244, Level:54)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 61244, Level:54)  | - | - | - |
 
 

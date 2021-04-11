@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 17363, Level:39)  | [Marksman](/units/Marksman/) (Score: 17729, Level:39)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 21755, Level:39)  | [Pegasus](/units/Pegasus/) (Score: 17363, Level:39)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 17363, Level:39)  | [Pegasus](/units/Pegasus/) (Score: 17363, Level:39)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 17363, Level:39)  | - | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 409020, Level:100)  | [Medusa](/units/Medusa/) (Score: 409020, Level:100)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 409020, Level:100)  | [Beholder](/units/Beholder/) (Score: 409020, Level:100)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 409020, Level:100)  | [Gremlin](/units/Gremlin/) (Score: 409020, Level:100)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 409020, Level:100)  | - | - | - |
 
 

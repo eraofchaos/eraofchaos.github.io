@@ -35,7 +35,7 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | ? | ? | ? |
+  | [Swordsman](/units/Swordsman/) (Score: 1354, Level:5)  | [Pikeman](/units/Pikeman/) (Score: 1354, Level:5)  | [Marksman](/units/Marksman/) (Score: 1232, Level:5)  | [Marksman](/units/Marksman/) (Score: 1232, Level:5)  |
   | - | - | - | - |
   | - | - | - | - |
 

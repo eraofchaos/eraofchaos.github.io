@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Centaur](/units/Centaur/) (Score: 74664, Level:61)  | [Centaur](/units/Centaur/) (Score: 74664, Level:61)  |
+  | - | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 74664, Level:61)  | [Lich](/units/Lich/) (Score: 74664, Level:61)  |
+  | - | - | [Skeleton](/units/Skeleton/) (Score: 74664, Level:61)  | [Wight](/units/Wight/) (Score: 74664, Level:61)  |
+  | - | - | [Vampire](/units/Vampire/) (Score: 74664, Level:61)  | [Vampire](/units/Vampire/) (Score: 74664, Level:61)  |
 
 

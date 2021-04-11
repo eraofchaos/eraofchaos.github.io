@@ -34,9 +34,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Dire Wolf](/units/Dire Wolf/) (Score: 2757, Level:11)  | - | - | - |
+  | [Dire Wolf](/units/Dire Wolf/) (Score: 2757, Level:11)  | - | - | - |
   | - | - | - | - |
-  | ? | ? | ? | - |
+  | [Pikeman](/units/Pikeman/) (Score: 2757, Level:11)  | [Marksman](/units/Marksman/) (Score: 2757, Level:11)  | [Marksman](/units/Marksman/) (Score: 2757, Level:11)  | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Goblin](/units/Goblin/) (Score: 216565, Level:83)  | [Cyclops](/units/Cyclops/) (Score: 216565, Level:83)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 216565, Level:83)  | [Pegasus](/units/Pegasus/) (Score: 216565, Level:83)  | - | - |
+  | [Goblin](/units/Goblin/) (Score: 216565, Level:83)  | [Cyclops](/units/Cyclops/) (Score: 216565, Level:83)  | - | - |
+  | [Goblin](/units/Goblin/) (Score: 216565, Level:83)  | - | - | - |
 
 

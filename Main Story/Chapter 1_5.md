@@ -35,8 +35,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | - | - | ? | ? |
-  | - | - | - | ? |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 1354, Level:4)  | [Monk](/units/Monk/) (Score: 988, Level:4)  |
+  | - | - | - | [Marksman](/units/Marksman/) (Score: 988, Level:4)  |
   | - | - | - | - |
 
 

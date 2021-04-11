@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | - |
+  | [Centaur](/units/Centaur/) (Score: 39055, Level:47)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 38903, Level:47)  | [Angel](/units/Angel/) (Score: 45384, Level:47)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 38903, Level:47)  | [Angel](/units/Angel/) (Score: 38979, Level:47)  | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 39055, Level:47)  | [Pegasus](/units/Pegasus/) (Score: 39208, Level:47)  | - | - |
 
 

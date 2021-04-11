@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 17593, Level:36)  | - | - | - |
+  | [Centaur](/units/Centaur/) (Score: 13232, Level:36)  | - | - | [Pegasus](/units/Pegasus/) (Score: 13232, Level:36)  |
+  | [Dwarf](/units/Dwarf/) (Score: 13232, Level:36)  | - | - | [Pegasus](/units/Pegasus/) (Score: 13232, Level:36)  |
+  | [Dwarf](/units/Dwarf/) (Score: 13232, Level:36)  | - | - | - |
 
 

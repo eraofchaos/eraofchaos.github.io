@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 418399, Level:101)  | [Medusa](/units/Medusa/) (Score: 418399, Level:101)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 418399, Level:101)  | [Pegasus](/units/Pegasus/) (Score: 418399, Level:101)  | - | - |
+  | [Black Dragon](/units/Black Dragon/) (Score: 418399, Level:101)  | [Pegasus](/units/Pegasus/) (Score: 418399, Level:101)  | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 418399, Level:101)  | - | - | - |
 
 

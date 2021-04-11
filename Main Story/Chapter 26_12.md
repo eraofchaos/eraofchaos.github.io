@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | ? |
+  | [Naga](/units/Naga/) (Score: 434183, Level:103)  | - | - | - |
+  | [Naga](/units/Naga/) (Score: 434183, Level:103)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 434183, Level:103)  | [Beholder](/units/Beholder/) (Score: 434183, Level:103)  | - | - |
+  | [Harpy](/units/Harpy/) (Score: 434183, Level:103)  | [Pegasus](/units/Pegasus/) (Score: 434183, Level:103)  | [Wood Elf](/units/Wood Elf/) (Score: 434183, Level:103)  | - |
 
 

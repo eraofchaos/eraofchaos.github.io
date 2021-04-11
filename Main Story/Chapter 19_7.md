@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 105935, Level:73)  | [Arch Mage](/units/Arch Mage/) (Score: 105935, Level:73)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 105935, Level:73)  | [Genie](/units/Genie/) (Score: 105935, Level:73)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 105935, Level:73)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 105935, Level:73)  | [Ice Elemental](/units/Ice Elemental/) (Score: 105935, Level:73)  | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | ? | ? | - |
+  | [Ogre](/units/Ogre/) (Score: 857370, Level:216)  | [Efreeti](/units/Efreeti/) (Score: 857370, Level:216)  | [Gog](/units/Gog/) (Score: 857370, Level:216)  | [Gog](/units/Gog/) (Score: 857370, Level:216)  |
+  | [Ogre](/units/Ogre/) (Score: 857370, Level:216)  | [Efreeti](/units/Efreeti/) (Score: 857370, Level:216)  | - | - |
   | - | - | - | - |
-  | ? | ? | - | - |
+  | [Ogre](/units/Ogre/) (Score: 857370, Level:216)  | [Ogre](/units/Ogre/) (Score: 857370, Level:216)  | - | - |
 
 

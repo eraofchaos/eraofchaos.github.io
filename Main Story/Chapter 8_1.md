@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 10011, Level:30)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 13769, Level:30)  | [Wood Elf](/units/Wood Elf/) (Score: 10011, Level:30)  | [Wood Elf](/units/Wood Elf/) (Score: 10011, Level:30)  | - |
+  | [Dwarf](/units/Dwarf/) (Score: 10011, Level:30)  | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 10011, Level:30)  | [Cavalier](/units/Cavalier/) (Score: 10011, Level:30)  | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | ? | ? | - |
-  | ? | ? | - | - |
+  | [Centaur](/units/Centaur/) (Score: 17258, Level:32)  | [Marksman](/units/Marksman/) (Score: 12225, Level:32)  | [Marksman](/units/Marksman/) (Score: 12225, Level:32)  | [Marksman](/units/Marksman/) (Score: 12225, Level:32)  |
+  | [Swordsman](/units/Swordsman/) (Score: 12225, Level:32)  | [Wood Elf](/units/Wood Elf/) (Score: 12427, Level:32)  | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 12225, Level:32)  | [Cavalier](/units/Cavalier/) (Score: 12225, Level:32)  | - | - |
   | - | - | - | - |
 
 

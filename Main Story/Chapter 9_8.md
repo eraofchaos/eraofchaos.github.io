@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | - | - | ? | - |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
+  | [Unicorn](/units/Unicorn/) (Score: 17729, Level:39)  | [Pegasus](/units/Pegasus/) (Score: 17729, Level:39)  | [Water Elemental](/units/Water Elemental/) (Score: 17363, Level:39)  | [Water Elemental](/units/Water Elemental/) (Score: 17363, Level:39)  |
+  | - | - | [Water Elemental](/units/Water Elemental/) (Score: 17363, Level:39)  | - |
+  | [Green Dragon](/units/Green Dragon/) (Score: 23585, Level:39)  | - | [Water Elemental](/units/Water Elemental/) (Score: 17363, Level:39)  | - |
+  | [Centaur](/units/Centaur/) (Score: 17729, Level:39)  | - | - | - |
 
 

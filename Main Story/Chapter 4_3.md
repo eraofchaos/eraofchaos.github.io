@@ -37,8 +37,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | - | - | - |
-  | - | ? | ? | ? |
-  | ? | - | - | - |
+  | [Imp](/units/Imp/) (Score: 2879, Level:13)  | - | - | - |
+  | - | [Pit Fiend](/units/Pit Fiend/) (Score: 4770, Level:13)  | [Gog](/units/Gog/) (Score: 3245, Level:13)  | [Gog](/units/Gog/) (Score: 3245, Level:13)  |
+  | [Imp](/units/Imp/) (Score: 2879, Level:13)  | - | - | - |
 
 

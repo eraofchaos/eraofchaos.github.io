@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | - | ? | - |
+  | [Pikeman](/units/Pikeman/) (Score: 37911, Level:46)  | - | [Marksman](/units/Marksman/) (Score: 38064, Level:46)  | [Marksman](/units/Marksman/) (Score: 38064, Level:46)  |
+  | [Swordsman](/units/Swordsman/) (Score: 37911, Level:46)  | [Monk](/units/Monk/) (Score: 37988, Level:46)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 37911, Level:46)  | [Pegasus](/units/Pegasus/) (Score: 44393, Level:46)  | - | - |
+  | [Goblin](/units/Goblin/) (Score: 37911, Level:46)  | - | - | - |
 
 

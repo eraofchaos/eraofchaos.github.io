@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | ? |
+  | [Behemoth](/units/Behemoth/) (Score: 244320, Level:85)  | - | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 244320, Level:85)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 244320, Level:85)  | [Roc](/units/Roc/) (Score: 244320, Level:85)  | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 244320, Level:85)  | [Green Dragon](/units/Green Dragon/) (Score: 244320, Level:85)  | [Orc](/units/Orc/) (Score: 244320, Level:85)  | - |
 
 

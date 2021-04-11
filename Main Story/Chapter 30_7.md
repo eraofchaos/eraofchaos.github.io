@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Demon](/units/Demon/) (Score: 841510, Level:212)  | - | - | - |
+  | [Demon](/units/Demon/) (Score: 841510, Level:212)  | [Efreeti](/units/Efreeti/) (Score: 841510, Level:212)  | [Gog](/units/Gog/) (Score: 841510, Level:212)  | - |
+  | [Demon](/units/Demon/) (Score: 841510, Level:212)  | [Gog](/units/Gog/) (Score: 841510, Level:212)  | - | - |
+  | [Demon](/units/Demon/) (Score: 841510, Level:212)  | - | - | - |
 
 

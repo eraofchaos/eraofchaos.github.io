@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Imp](/units/Imp/) (Score: 3306, Level:13)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 4526, Level:13)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 4526, Level:13)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 4526, Level:13)  |
+  | [Imp](/units/Imp/) (Score: 3306, Level:13)  | - | - | - |
+  | [Imp](/units/Imp/) (Score: 3306, Level:13)  | - | - | - |
   | - | - | - | - |
 
 

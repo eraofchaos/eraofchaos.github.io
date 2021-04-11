@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Pegasus](/units/Pegasus/) (Score: 9589, Level:26)  | [Pegasus](/units/Pegasus/) (Score: 9589, Level:26)  | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 13127, Level:26)  | [Swordsman](/units/Swordsman/) (Score: 9589, Level:26)  | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 9589, Level:26)  | - | - | - |
+  | [Pegasus](/units/Pegasus/) (Score: 9589, Level:26)  | - | - | - |
 
 

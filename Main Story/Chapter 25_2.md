@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 344436, Level:96)  | [Vampire](/units/Vampire/) (Score: 344436, Level:96)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 344436, Level:96)  | [Beholder](/units/Beholder/) (Score: 344436, Level:96)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 344436, Level:96)  | [Beholder](/units/Beholder/) (Score: 344436, Level:96)  | - | - |
+  | [Lich](/units/Lich/) (Score: 344436, Level:96)  | - | - | - |
 
 

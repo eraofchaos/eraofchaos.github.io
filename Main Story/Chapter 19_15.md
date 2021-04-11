@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Fire Elemental](/units/Fire Elemental/) (Score: 116373, Level:74)  | [Fire Elemental](/units/Fire Elemental/) (Score: 116373, Level:74)  |
+  | - | - | [Naga](/units/Naga/) (Score: 116373, Level:74)  | [Giant](/units/Giant/) (Score: 116373, Level:74)  |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 116373, Level:74)  | - |
+  | - | - | [Sprite](/units/Sprite/) (Score: 116373, Level:74)  | [Sprite](/units/Sprite/) (Score: 116373, Level:74)  |
 
 

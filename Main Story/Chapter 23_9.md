@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | ? | ? | - |
+  | [Ogre](/units/Ogre/) (Score: 280463, Level:88)  | [Bone Dragon](/units/Bone Dragon/) (Score: 280463, Level:88)  | [Orc](/units/Orc/) (Score: 280463, Level:88)  | [Orc](/units/Orc/) (Score: 280463, Level:88)  |
+  | [Ogre](/units/Ogre/) (Score: 280463, Level:88)  | [Roc](/units/Roc/) (Score: 280463, Level:88)  | - | - |
   | - | - | - | - |
-  | ? | ? | - | - |
+  | [Ogre](/units/Ogre/) (Score: 280463, Level:88)  | [Skeleton](/units/Skeleton/) (Score: 280463, Level:88)  | - | - |
 
 

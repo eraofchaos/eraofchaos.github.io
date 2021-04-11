@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | ? |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 445086, Level:104)  | [Gremlin](/units/Gremlin/) (Score: 445086, Level:104)  | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 445086, Level:104)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 445086, Level:104)  | - | - | - |
+  | [Sprite](/units/Sprite/) (Score: 445086, Level:104)  | [Gremlin](/units/Gremlin/) (Score: 445086, Level:104)  | [Monk](/units/Monk/) (Score: 445086, Level:104)  | - |
 
 

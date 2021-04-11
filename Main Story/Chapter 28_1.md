@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
+  | [Walking Dead](/units/Walking Dead/) (Score: 526293, Level:130)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 526293, Level:130)  | - | - | [Beholder](/units/Beholder/) (Score: 526293, Level:130)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 526293, Level:130)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 526293, Level:130)  | - | - | [Medusa](/units/Medusa/) (Score: 526293, Level:130)  |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 22814, Level:41)  | [Wolf Rider](/units/Wolf Rider/) (Score: 22814, Level:41)  | [Dire Wolf](/units/Dire Wolf/) (Score: 22661, Level:41)  | [Dire Wolf](/units/Dire Wolf/) (Score: 22661, Level:41)  |
+  | [Goblin](/units/Goblin/) (Score: 22814, Level:41)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 28761, Level:41)  | [Water Elemental](/units/Water Elemental/) (Score: 22814, Level:41)  | - | - |
+  | [Goblin](/units/Goblin/) (Score: 22814, Level:41)  | - | - | - |
 
 

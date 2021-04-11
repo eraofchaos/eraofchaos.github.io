@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 482983, Level:108)  | [Iron Golem](/units/Iron Golem/) (Score: 482983, Level:108)  |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 482983, Level:108)  | - |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 482983, Level:108)  | [Giant](/units/Giant/) (Score: 482983, Level:108)  |
+  | - | - | [Stone Elemental](/units/Stone Elemental/) (Score: 482983, Level:108)  | [Angel](/units/Angel/) (Score: 482983, Level:108)  |
 
 

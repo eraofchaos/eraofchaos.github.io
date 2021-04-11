@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 37454, Level:48)  | [Swordsman](/units/Swordsman/) (Score: 37454, Level:48)  |
+  | - | - | [Angel](/units/Angel/) (Score: 44698, Level:48)  | - |
+  | - | - | [Green Dragon](/units/Green Dragon/) (Score: 37454, Level:48)  | [Pegasus](/units/Pegasus/) (Score: 37454, Level:48)  |
+  | - | - | [Cavalier](/units/Cavalier/) (Score: 37454, Level:48)  | [Unicorn](/units/Unicorn/) (Score: 37454, Level:48)  |
 
 

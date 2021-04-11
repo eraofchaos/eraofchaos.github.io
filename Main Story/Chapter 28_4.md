@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
+  | [Manticore](/units/Manticore/) (Score: 550540, Level:136)  | - | - | - |
+  | [Manticore](/units/Manticore/) (Score: 550540, Level:136)  | - | [Beholder](/units/Beholder/) (Score: 550540, Level:136)  | [Medusa](/units/Medusa/) (Score: 550540, Level:136)  |
+  | [Manticore](/units/Manticore/) (Score: 550540, Level:136)  | - | [Medusa](/units/Medusa/) (Score: 550540, Level:136)  | - |
+  | [Manticore](/units/Manticore/) (Score: 550540, Level:136)  | - | - | - |
 
 

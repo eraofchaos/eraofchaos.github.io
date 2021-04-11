@@ -38,7 +38,7 @@ classes: wide
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
   | - | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | ? |
+  | [Dwarf](/units/Dwarf/) (Score: 4404, Level:18)  | - | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 4404, Level:18)  | [Pegasus](/units/Pegasus/) (Score: 4404, Level:18)  | [Pegasus](/units/Pegasus/) (Score: 4404, Level:18)  | [Wood Elf](/units/Wood Elf/) (Score: 4465, Level:18)  |
 
 

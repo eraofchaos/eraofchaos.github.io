@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | - | ? | ? | - |
-  | - | ? | ? | - |
-  | - | ? | ? | - |
+  | - | [Black Knight](/units/Black Knight/) (Score: 752603, Level:186)  | [Wight](/units/Wight/) (Score: 752603, Level:186)  | [Wight](/units/Wight/) (Score: 752603, Level:186)  |
+  | - | [Vampire](/units/Vampire/) (Score: 752603, Level:186)  | [Lich](/units/Lich/) (Score: 752603, Level:186)  | - |
+  | - | [Vampire](/units/Vampire/) (Score: 752603, Level:186)  | [Wight](/units/Wight/) (Score: 752603, Level:186)  | - |
+  | - | [Black Knight](/units/Black Knight/) (Score: 752603, Level:186)  | - | - |
 
 

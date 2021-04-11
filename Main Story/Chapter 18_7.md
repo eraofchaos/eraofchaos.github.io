@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Imp](/units/Imp/) (Score: 98911, Level:71)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 98911, Level:71)  | [Bone Dragon](/units/Bone Dragon/) (Score: 98911, Level:71)  | [Pit Fiend](/units/Pit Fiend/) (Score: 98911, Level:71)  | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 98911, Level:71)  | [Gog](/units/Gog/) (Score: 98911, Level:71)  | - | - |
+  | [Imp](/units/Imp/) (Score: 98911, Level:71)  | - | - | - |
 
 

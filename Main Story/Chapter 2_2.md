@@ -35,8 +35,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 1781, Level:5)  | [Marksman](/units/Marksman/) (Score: 2269, Level:5)  | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 1781, Level:5)  | [Wolf Rider](/units/Wolf Rider/) (Score: 1781, Level:5)  | - | - |
   | - | - | - | - |
 
 

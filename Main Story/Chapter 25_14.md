@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 377758, Level:99)  | - | [Black Knight](/units/Black Knight/) (Score: 377758, Level:99)  | [Black Knight](/units/Black Knight/) (Score: 377758, Level:99)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 377758, Level:99)  | - | - | [Beholder](/units/Beholder/) (Score: 377758, Level:99)  |
+  | [Skeleton](/units/Skeleton/) (Score: 377758, Level:99)  | - | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 377758, Level:99)  | [Troglodyte](/units/Troglodyte/) (Score: 377758, Level:99)  | - | - |
 
 

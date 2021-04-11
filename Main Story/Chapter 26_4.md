@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
+  | [Harpy](/units/Harpy/) (Score: 411841, Level:101)  | [Harpy](/units/Harpy/) (Score: 411841, Level:101)  | [Medusa](/units/Medusa/) (Score: 411841, Level:101)  | [Medusa](/units/Medusa/) (Score: 411841, Level:101)  |
   | - | - | - | - |
   | - | - | - | - |
-  | ? | ? | ? | ? |
+  | [Troglodyte](/units/Troglodyte/) (Score: 411841, Level:101)  | [Vampire](/units/Vampire/) (Score: 411841, Level:101)  | [Beholder](/units/Beholder/) (Score: 411841, Level:101)  | [Beholder](/units/Beholder/) (Score: 411841, Level:101)  |
 
 

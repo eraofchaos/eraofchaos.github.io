@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Centaur](/units/Centaur/) (Score: 34099, Level:44)  | [Centaur](/units/Centaur/) (Score: 34099, Level:44)  |
+  | - | - | [Forest Guardian](/units/Forest Guardian/) (Score: 40961, Level:44)  | [Monk](/units/Monk/) (Score: 34099, Level:44)  |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 33718, Level:44)  | - |
+  | - | - | [Unicorn](/units/Unicorn/) (Score: 34099, Level:44)  | [Green Dragon](/units/Green Dragon/) (Score: 34099, Level:44)  |
 
 

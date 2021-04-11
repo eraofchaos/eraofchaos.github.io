@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Troglodyte](/units/Troglodyte/) (Score: 631365, Level:156)  | - | [Beholder](/units/Beholder/) (Score: 631365, Level:156)  | [Beholder](/units/Beholder/) (Score: 631365, Level:156)  |
+  | [Skeleton](/units/Skeleton/) (Score: 631365, Level:156)  | - | - | [Black Knight](/units/Black Knight/) (Score: 631365, Level:156)  |
+  | [Skeleton](/units/Skeleton/) (Score: 631365, Level:156)  | - | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 631365, Level:156)  | [Black Knight](/units/Black Knight/) (Score: 631365, Level:156)  | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 133605, Level:81)  | [Wolf Rider](/units/Wolf Rider/) (Score: 133605, Level:81)  | - | - |
+  | [Goblin](/units/Goblin/) (Score: 133605, Level:81)  | [Orc](/units/Orc/) (Score: 133605, Level:81)  | - | - |
+  | [Goblin](/units/Goblin/) (Score: 133605, Level:81)  | - | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 133605, Level:81)  | [Wolf Rider](/units/Wolf Rider/) (Score: 133605, Level:81)  | - | - |
 
 

@@ -35,8 +35,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | - | ? |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 1781, Level:12)  | [Marksman](/units/Marksman/) (Score: 1781, Level:12)  |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 1781, Level:12)  | [Green Dragon](/units/Green Dragon/) (Score: 3184, Level:12)  |
+  | - | - | - | [Marksman](/units/Marksman/) (Score: 1781, Level:12)  |
 
 

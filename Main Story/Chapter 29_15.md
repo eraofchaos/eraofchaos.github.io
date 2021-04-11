@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 768768, Level:190)  | [Black Knight](/units/Black Knight/) (Score: 768768, Level:190)  |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 768768, Level:190)  | [Lich](/units/Lich/) (Score: 768768, Level:190)  |
+  | - | - | [Imp](/units/Imp/) (Score: 768768, Level:190)  | - |
+  | - | - | [Imp](/units/Imp/) (Score: 768768, Level:190)  | [Efreeti](/units/Efreeti/) (Score: 768768, Level:190)  |
 
 

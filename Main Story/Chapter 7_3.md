@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
+  | [Goblin](/units/Goblin/) (Score: 7149, Level:24)  | [Orc](/units/Orc/) (Score: 7149, Level:24)  | [Orc](/units/Orc/) (Score: 7149, Level:24)  | [Orc](/units/Orc/) (Score: 7149, Level:24)  |
+  | [Dire Wolf](/units/Dire Wolf/) (Score: 7149, Level:24)  | - | - | - |
   | - | - | - | - |
-  | ? | ? | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 10809, Level:24)  | [Unicorn](/units/Unicorn/) (Score: 7149, Level:24)  | - | - |
 
 

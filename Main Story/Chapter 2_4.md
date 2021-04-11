@@ -34,9 +34,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | - |
-  | ? | - | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 1659, Level:7)  | - | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 1659, Level:7)  | - | [Wood Elf](/units/Wood Elf/) (Score: 2574, Level:7)  | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 1659, Level:7)  | - | - | - |
   | - | - | - | - |
 
 

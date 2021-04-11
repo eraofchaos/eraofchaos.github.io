@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Dire Wolf](/units/Dire Wolf/) (Score: 6539, Level:23)  | [Orc](/units/Orc/) (Score: 6539, Level:23)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 6539, Level:23)  | [Orc](/units/Orc/) (Score: 9589, Level:23)  | - | - |
+  | [Dire Wolf](/units/Dire Wolf/) (Score: 6539, Level:23)  | [Orc](/units/Orc/) (Score: 6539, Level:23)  | - | - |
   | - | - | - | - |
 
 

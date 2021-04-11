@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 655613, Level:162)  | [Lich](/units/Lich/) (Score: 655613, Level:162)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 655613, Level:162)  | [Lich](/units/Lich/) (Score: 655613, Level:162)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 655613, Level:162)  | [Lich](/units/Lich/) (Score: 655613, Level:162)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 655613, Level:162)  | - | - | - |
 
 

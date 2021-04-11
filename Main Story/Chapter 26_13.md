@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | - |
+  | [Naga](/units/Naga/) (Score: 437156, Level:103)  | [Naga](/units/Naga/) (Score: 437156, Level:103)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 437156, Level:103)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 437156, Level:103)  | - | - | - |
+  | [Harpy](/units/Harpy/) (Score: 437156, Level:103)  | [Harpy](/units/Harpy/) (Score: 437156, Level:103)  | [Pegasus](/units/Pegasus/) (Score: 437156, Level:103)  | - |
 
 

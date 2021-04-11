@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | ? | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 12628, Level:34)  | [Wood Elf](/units/Wood Elf/) (Score: 12427, Level:34)  | [Pegasus](/units/Pegasus/) (Score: 17258, Level:34)  | [Pegasus](/units/Pegasus/) (Score: 17258, Level:34)  |
+  | [Griffin](/units/Griffin/) (Score: 12427, Level:34)  | - | - | - |
+  | [Centaur](/units/Centaur/) (Score: 12427, Level:34)  | - | - | - |
+  | [Centaur](/units/Centaur/) (Score: 12427, Level:34)  | - | - | - |
 
 

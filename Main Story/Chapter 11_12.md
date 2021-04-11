@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | - | ? | ? | ? |
-  | - | ? | - | - |
-  | - | ? | - | - |
+  | - | [Swordsman](/units/Swordsman/) (Score: 33641, Level:43)  | [Monk](/units/Monk/) (Score: 33870, Level:44)  | [Monk](/units/Monk/) (Score: 33870, Level:44)  |
+  | - | [Swordsman](/units/Swordsman/) (Score: 33641, Level:43)  | [Monk](/units/Monk/) (Score: 40275, Level:44)  | [Green Dragon](/units/Green Dragon/) (Score: 33794, Level:44)  |
+  | - | [Pikeman](/units/Pikeman/) (Score: 33641, Level:44)  | - | - |
+  | - | [Griffin](/units/Griffin/) (Score: 33641, Level:44)  | - | - |
 
 

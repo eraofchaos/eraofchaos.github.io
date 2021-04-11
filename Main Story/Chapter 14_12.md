@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 58118, Level:53)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 58118, Level:53)  | - | - | [Lich](/units/Lich/) (Score: 58118, Level:53)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 58118, Level:53)  | - | - | [Lich](/units/Lich/) (Score: 58118, Level:53)  |
+  | [Skeleton](/units/Skeleton/) (Score: 58118, Level:53)  | - | - | - |
 
 

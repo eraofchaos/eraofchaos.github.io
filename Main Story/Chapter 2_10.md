@@ -35,8 +35,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | - | - | - | ? |
-  | - | - | ? | ? |
-  | - | - | - | ? |
+  | - | - | - | [Gog](/units/Gog/) (Score: 1659, Level:9)  |
+  | - | - | [Pit Fiend](/units/Pit Fiend/) (Score: 2574, Level:9)  | [Monk](/units/Monk/) (Score: 1659, Level:9)  |
+  | - | - | - | [Gog](/units/Gog/) (Score: 1659, Level:9)  |
 
 

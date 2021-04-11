@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 71690, Level:60)  | [Pegasus](/units/Pegasus/) (Score: 71690, Level:60)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 71690, Level:60)  | [Wood Elf](/units/Wood Elf/) (Score: 71690, Level:60)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 71690, Level:60)  | [Pegasus](/units/Pegasus/) (Score: 71690, Level:60)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 71690, Level:60)  | - | - | - |
 
 

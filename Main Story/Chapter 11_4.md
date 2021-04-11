@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | ? |
-  | ? | ? | - | - |
-  | ? | - | - | - |
+  | [Goblin](/units/Goblin/) (Score: 31049, Level:42)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 31049, Level:42)  | [Wolf Rider](/units/Wolf Rider/) (Score: 37911, Level:42)  | [Cyclops](/units/Cyclops/) (Score: 31811, Level:42)  | [Orc](/units/Orc/) (Score: 32193, Level:42)  |
+  | [Ogre](/units/Ogre/) (Score: 31049, Level:42)  | - | - | - |
+  | [Goblin](/units/Goblin/) (Score: 31049, Level:42)  | - | - | - |
 
 

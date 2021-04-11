@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Medusa](/units/Medusa/) (Score: 720273, Level:178)  | [Medusa](/units/Medusa/) (Score: 720273, Level:178)  |
+  | - | - | [Troglodyte](/units/Troglodyte/) (Score: 720273, Level:178)  | [Devil](/units/Devil/) (Score: 720273, Level:178)  |
+  | - | - | [Manticore](/units/Manticore/) (Score: 720273, Level:178)  | [Devil](/units/Devil/) (Score: 720273, Level:178)  |
+  | - | - | [Troglodyte](/units/Troglodyte/) (Score: 720273, Level:178)  | - |
 
 

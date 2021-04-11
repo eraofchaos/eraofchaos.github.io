@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Demon](/units/Demon/) (Score: 92888, Level:67)  | [Lich](/units/Lich/) (Score: 92888, Level:67)  | - | - |
+  | [Demon](/units/Demon/) (Score: 92888, Level:67)  | [Wight](/units/Wight/) (Score: 92888, Level:67)  | - | - |
+  | [Demon](/units/Demon/) (Score: 92888, Level:67)  | [Gog](/units/Gog/) (Score: 92888, Level:67)  | - | - |
+  | [Demon](/units/Demon/) (Score: 92888, Level:67)  | - | - | - |
 
 

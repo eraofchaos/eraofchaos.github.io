@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Fire Elemental](/units/Fire Elemental/) (Score: 825650, Level:208)  | [Fire Elemental](/units/Fire Elemental/) (Score: 825650, Level:208)  |
+  | - | - | [Fire Elemental](/units/Fire Elemental/) (Score: 825650, Level:208)  | [Efreeti](/units/Efreeti/) (Score: 825650, Level:208)  |
+  | - | - | [Gog](/units/Gog/) (Score: 825650, Level:208)  | [Fire Elemental](/units/Fire Elemental/) (Score: 825650, Level:208)  |
+  | - | - | [Gog](/units/Gog/) (Score: 825650, Level:208)  | [Fire Elemental](/units/Fire Elemental/) (Score: 825650, Level:208)  |
 
 

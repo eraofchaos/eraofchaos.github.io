@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 310124, Level:92)  | [Iron Golem](/units/Iron Golem/) (Score: 310124, Level:92)  |
+  | - | - | [Cavalier](/units/Cavalier/) (Score: 310124, Level:92)  | - |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 310124, Level:92)  | [Roc](/units/Roc/) (Score: 310124, Level:92)  |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 310124, Level:92)  | [Orc](/units/Orc/) (Score: 310124, Level:92)  |
 
 

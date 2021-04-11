@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Ogre](/units/Ogre/) (Score: 269483, Level:87)  | [Ogre](/units/Ogre/) (Score: 269483, Level:87)  |
+  | - | - | [Ogre](/units/Ogre/) (Score: 269483, Level:87)  | [Wight](/units/Wight/) (Score: 269483, Level:87)  |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 269483, Level:87)  | [Stormbringer](/units/Stormbringer/) (Score: 269483, Level:87)  |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 269483, Level:87)  | [Black Knight](/units/Black Knight/) (Score: 269483, Level:87)  |
 
 

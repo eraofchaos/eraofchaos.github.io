@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 3977, Level:15)  | - | - | - |
+  | [Imp](/units/Imp/) (Score: 3977, Level:15)  | [Wight](/units/Wight/) (Score: 3977, Level:15)  | [Wight](/units/Wight/) (Score: 3977, Level:15)  | - |
   | - | - | - | - |
-  | ? | - | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 3977, Level:15)  | - | - | - |
 
 

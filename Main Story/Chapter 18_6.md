@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | - | ? | ? | - |
+  | - | [Demon](/units/Demon/) (Score: 98225, Level:71)  | [Hell Hound](/units/Hell Hound/) (Score: 98225, Level:71)  | [Hell Hound](/units/Hell Hound/) (Score: 98225, Level:71)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 98225, Level:71)  | - | - | [Lich](/units/Lich/) (Score: 98225, Level:71)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 98225, Level:71)  | - | - | - |
+  | - | [Black Knight](/units/Black Knight/) (Score: 98225, Level:71)  | [Vampire](/units/Vampire/) (Score: 98225, Level:71)  | - |
 
 

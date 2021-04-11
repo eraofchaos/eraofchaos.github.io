@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | - |
+  | [Naga](/units/Naga/) (Score: 59185, Level:53)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 59185, Level:53)  | - | - | [Skeleton Archer](/units/Skeleton Archer/) (Score: 59185, Level:53)  |
+  | [Ogre](/units/Ogre/) (Score: 59185, Level:53)  | - | - | [Gremlin](/units/Gremlin/) (Score: 59185, Level:53)  |
+  | [Skeleton](/units/Skeleton/) (Score: 59185, Level:53)  | - | - | - |
 
 

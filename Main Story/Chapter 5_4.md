@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | - | - | - |
+  | [Griffin](/units/Griffin/) (Score: 3245, Level:16)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 5563, Level:16)  | - | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 3245, Level:16)  | [Marksman](/units/Marksman/) (Score: 3245, Level:16)  | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 3245, Level:16)  | - | - | - |
 
 

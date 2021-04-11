@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 120185, Level:76)  | [Swordsman](/units/Swordsman/) (Score: 120185, Level:76)  |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 120185, Level:76)  | [Monk](/units/Monk/) (Score: 120185, Level:76)  |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 120185, Level:76)  | [Monk](/units/Monk/) (Score: 120185, Level:76)  |
+  | - | - | [Psychic Elemental](/units/Psychic Elemental/) (Score: 120185, Level:76)  | [Psychic Elemental](/units/Psychic Elemental/) (Score: 120185, Level:76)  |
 
 

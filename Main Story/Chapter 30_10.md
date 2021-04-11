@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Pit Fiend](/units/Pit Fiend/) (Score: 865300, Level:218)  | [Pit Fiend](/units/Pit Fiend/) (Score: 865300, Level:218)  |
+  | - | - | [Gog](/units/Gog/) (Score: 865300, Level:218)  | [Efreeti](/units/Efreeti/) (Score: 865300, Level:218)  |
+  | - | - | [Gog](/units/Gog/) (Score: 865300, Level:218)  | [Efreeti](/units/Efreeti/) (Score: 865300, Level:218)  |
+  | - | - | [Pit Fiend](/units/Pit Fiend/) (Score: 865300, Level:218)  | - |
 
 

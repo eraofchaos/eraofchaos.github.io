@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 350308, Level:97)  | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 350308, Level:97)  | - | [Beholder](/units/Beholder/) (Score: 350308, Level:97)  | [Medusa](/units/Medusa/) (Score: 350308, Level:97)  |
+  | [Skeleton](/units/Skeleton/) (Score: 350308, Level:97)  | - | [Medusa](/units/Medusa/) (Score: 350308, Level:97)  | - |
+  | [Black Knight](/units/Black Knight/) (Score: 350308, Level:97)  | - | - | - |
 
 

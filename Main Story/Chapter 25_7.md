@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 358390, Level:97)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 358390, Level:97)  | [Bone Dragon](/units/Bone Dragon/) (Score: 358390, Level:97)  | [Pit Fiend](/units/Pit Fiend/) (Score: 358390, Level:97)  | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 358390, Level:97)  | [Medusa](/units/Medusa/) (Score: 358390, Level:97)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 358390, Level:97)  | - | - | - |
 
 

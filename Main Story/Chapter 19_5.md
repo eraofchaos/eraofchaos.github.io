@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Stone Elemental](/units/Stone Elemental/) (Score: 104471, Level:72)  | [Stone Elemental](/units/Stone Elemental/) (Score: 104471, Level:72)  |
+  | - | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 104471, Level:72)  | [Arch Mage](/units/Arch Mage/) (Score: 104471, Level:72)  |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 104471, Level:72)  | [Storm Elemental](/units/Storm Elemental/) (Score: 104471, Level:72)  |
+  | - | - | [Naga](/units/Naga/) (Score: 104471, Level:72)  | [Naga](/units/Naga/) (Score: 104471, Level:72)  |
 
 

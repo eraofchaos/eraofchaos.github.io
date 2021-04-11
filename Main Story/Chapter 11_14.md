@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 34861, Level:44)  | [Pegasus](/units/Pegasus/) (Score: 32803, Level:44)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 34861, Level:44)  | [Wood Elf](/units/Wood Elf/) (Score: 40961, Level:44)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 34861, Level:44)  | [Wood Elf](/units/Wood Elf/) (Score: 34099, Level:44)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 34861, Level:44)  | - | - | - |
 
 

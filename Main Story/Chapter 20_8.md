@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | - | ? | - |
+  | [Psychic Elemental](/units/Psychic Elemental/) (Score: 122701, Level:77)  | - | [Marksman](/units/Marksman/) (Score: 122701, Level:77)  | [Marksman](/units/Marksman/) (Score: 122701, Level:77)  |
+  | [Swordsman](/units/Swordsman/) (Score: 122701, Level:77)  | [Monk](/units/Monk/) (Score: 122701, Level:77)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 122701, Level:77)  | [Arch Mage](/units/Arch Mage/) (Score: 122701, Level:77)  | - | - |
+  | [Gremlin](/units/Gremlin/) (Score: 122701, Level:77)  | - | - | - |
 
 

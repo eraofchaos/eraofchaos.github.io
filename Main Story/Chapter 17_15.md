@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Skeleton](/units/Skeleton/) (Score: 93650, Level:67)  | [Skeleton](/units/Skeleton/) (Score: 93650, Level:67)  |
+  | - | - | [Demon](/units/Demon/) (Score: 93650, Level:67)  | [Pit Fiend](/units/Pit Fiend/) (Score: 93650, Level:67)  |
+  | - | - | [Demon](/units/Demon/) (Score: 93650, Level:67)  | - |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 93650, Level:67)  | [Bone Dragon](/units/Bone Dragon/) (Score: 93650, Level:67)  |
 
 

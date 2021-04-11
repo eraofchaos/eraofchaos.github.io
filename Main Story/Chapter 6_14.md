@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Demon](/units/Demon/) (Score: 7027, Level:22)  | - | - | - |
+  | [Demon](/units/Demon/) (Score: 7027, Level:22)  | [Efreeti](/units/Efreeti/) (Score: 7027, Level:22)  | - | - |
+  | [Imp](/units/Imp/) (Score: 5624, Level:22)  | - | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 7027, Level:22)  | [Gog](/units/Gog/) (Score: 7027, Level:22)  | - | - |
 
 

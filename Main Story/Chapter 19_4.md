@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
+  | [Cavalier](/units/Cavalier/) (Score: 103739, Level:72)  | [Cavalier](/units/Cavalier/) (Score: 103739, Level:72)  | [Gremlin](/units/Gremlin/) (Score: 103739, Level:72)  | [Gremlin](/units/Gremlin/) (Score: 103739, Level:72)  |
   | - | - | - | - |
   | - | - | - | - |
-  | ? | ? | ? | ? |
+  | [Naga](/units/Naga/) (Score: 103739, Level:72)  | [Iron Golem](/units/Iron Golem/) (Score: 103739, Level:72)  | [Pegasus](/units/Pegasus/) (Score: 103739, Level:72)  | [Pegasus](/units/Pegasus/) (Score: 103739, Level:72)  |
 
 

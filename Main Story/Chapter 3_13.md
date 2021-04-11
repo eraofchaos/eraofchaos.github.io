@@ -34,8 +34,8 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 6844, Level:12)  | - | [Wood Elf](/units/Wood Elf/) (Score: 2574, Level:12)  | [Wood Elf](/units/Wood Elf/) (Score: 2574, Level:12)  |
+  | [Dwarf](/units/Dwarf/) (Score: 2574, Level:12)  | - | - | - |
   | - | - | - | - |
   | - | - | - | - |
 

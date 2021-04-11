@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
+  | [Skeleton](/units/Skeleton/) (Score: 372496, Level:99)  | - | [Troglodyte](/units/Troglodyte/) (Score: 372496, Level:99)  | [Troglodyte](/units/Troglodyte/) (Score: 372496, Level:99)  |
+  | [Troglodyte](/units/Troglodyte/) (Score: 372496, Level:99)  | - | [Medusa](/units/Medusa/) (Score: 372496, Level:99)  | - |
+  | [Minotaur](/units/Minotaur/) (Score: 372496, Level:99)  | - | [Lich](/units/Lich/) (Score: 372496, Level:99)  | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 372496, Level:99)  | - | - | - |
 
 

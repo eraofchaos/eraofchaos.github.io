@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 60024, Level:53)  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 60024, Level:53)  |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 60024, Level:53)  | - |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 60024, Level:53)  | [Gremlin](/units/Gremlin/) (Score: 60024, Level:53)  |
+  | - | - | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 60024, Level:53)  | [Naga](/units/Naga/) (Score: 60024, Level:53)  |
 
 

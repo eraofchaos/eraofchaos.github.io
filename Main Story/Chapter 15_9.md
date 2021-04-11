@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | - | - | - | ? |
+  | [Naga](/units/Naga/) (Score: 66200, Level:55)  | [Skeleton](/units/Skeleton/) (Score: 66200, Level:55)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 66200, Level:55)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 66200, Level:55)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 66200, Level:55)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 66200, Level:55)  | - | [Arch Mage](/units/Arch Mage/) (Score: 66200, Level:55)  | [Lich](/units/Lich/) (Score: 66200, Level:55)  |
+  | - | - | - | - |
 
 

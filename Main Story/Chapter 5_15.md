@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | - | ? |
-  | - | - | ? | - |
-  | - | - | - | ? |
+  | - | - | [Unicorn](/units/Unicorn/) (Score: 4099, Level:19)  | [Unicorn](/units/Unicorn/) (Score: 4099, Level:19)  |
+  | - | - | - | [Pegasus](/units/Pegasus/) (Score: 4099, Level:19)  |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 6417, Level:19)  | - |
+  | - | - | - | [Pegasus](/units/Pegasus/) (Score: 4099, Level:19)  |
 
 

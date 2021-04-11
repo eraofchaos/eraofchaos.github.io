@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | - |
+  | [Cavalier](/units/Cavalier/) (Score: 11890, Level:32)  | [Marksman](/units/Marksman/) (Score: 11890, Level:32)  | [Marksman](/units/Marksman/) (Score: 11890, Level:32)  | [Marksman](/units/Marksman/) (Score: 11890, Level:32)  |
+  | [Cavalier](/units/Cavalier/) (Score: 11890, Level:32)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 11890, Level:32)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 11890, Level:32)  | [Pegasus](/units/Pegasus/) (Score: 15916, Level:32)  | - | - |
 
 

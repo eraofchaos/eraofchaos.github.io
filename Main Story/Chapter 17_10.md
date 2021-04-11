@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 89838, Level:66)  | [Black Knight](/units/Black Knight/) (Score: 89838, Level:66)  |
+  | - | - | [Demon](/units/Demon/) (Score: 89838, Level:66)  | [Bone Dragon](/units/Bone Dragon/) (Score: 89838, Level:66)  |
+  | - | - | [Walking Dead](/units/Walking Dead/) (Score: 89838, Level:66)  | [Pit Fiend](/units/Pit Fiend/) (Score: 89838, Level:66)  |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 89838, Level:66)  | - |
 
 

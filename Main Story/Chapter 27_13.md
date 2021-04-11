@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | ? | - | - |
+  | [Sprite](/units/Sprite/) (Score: 477340, Level:108)  | [Psychic Elemental](/units/Psychic Elemental/) (Score: 477340, Level:108)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 477340, Level:108)  | - | - | [Genie](/units/Genie/) (Score: 477340, Level:108)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 477340, Level:108)  | - | - | - |
+  | [Sprite](/units/Sprite/) (Score: 477340, Level:108)  | [Psychic Elemental](/units/Psychic Elemental/) (Score: 477340, Level:108)  | - | - |
 
 

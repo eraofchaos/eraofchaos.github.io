@@ -32,9 +32,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | ? | ? | - | - |
-  | - | - | ? | - |
+  | - | - | [Marksman](/units/Marksman/) (Score: 1354, Level:10)  | [Marksman](/units/Marksman/) (Score: 1354, Level:10)  |
+  | [Pikeman](/units/Pikeman/) (Score: 1354, Level:10)  | [Swordsman](/units/Swordsman/) (Score: 1354, Level:10)  | - | - |
+  | - | - | [Wood Elf](/units/Wood Elf/) (Score: 1354, Level:10)  | - |
   | - | - | - | - |
 
 

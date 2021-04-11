@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | - |
+  | [Naga](/units/Naga/) (Score: 335515, Level:95)  | - | - | - |
+  | [Naga](/units/Naga/) (Score: 335515, Level:95)  | - | - | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 335515, Level:95)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 335515, Level:95)  | - | - | [Arch Mage](/units/Arch Mage/) (Score: 335515, Level:95)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 335515, Level:95)  | - | - | - |
 
 

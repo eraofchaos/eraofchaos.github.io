@@ -34,9 +34,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
+  | [Skeleton](/units/Skeleton/) (Score: 2269, Level:10)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 2269, Level:10)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 2269, Level:10)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 2269, Level:10)  | - |
   | - | - | - | - |
-  | ? | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 2269, Level:10)  | - | - | - |
 
 

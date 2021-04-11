@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Dire Wolf](/units/Dire Wolf/) (Score: 3672, Level:13)  | [Dire Wolf](/units/Dire Wolf/) (Score: 3672, Level:13)  | - | - |
+  | [Nomad](/units/Nomad/) (Score: 3672, Level:13)  | - | - | - |
+  | [Nomad](/units/Nomad/) (Score: 3672, Level:13)  | - | - | - |
+  | [Dire Wolf](/units/Dire Wolf/) (Score: 3672, Level:13)  | - | - | - |
 
 

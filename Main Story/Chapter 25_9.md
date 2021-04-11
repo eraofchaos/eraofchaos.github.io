@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | ? | ? | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 364795, Level:98)  | [Bone Dragon](/units/Bone Dragon/) (Score: 364795, Level:98)  | [Beholder](/units/Beholder/) (Score: 364795, Level:98)  | [Beholder](/units/Beholder/) (Score: 364795, Level:98)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 364795, Level:98)  | [Vampire](/units/Vampire/) (Score: 364795, Level:98)  | - | - |
   | - | - | - | - |
-  | ? | ? | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 364795, Level:98)  | [Skeleton](/units/Skeleton/) (Score: 364795, Level:98)  | - | - |
 
 

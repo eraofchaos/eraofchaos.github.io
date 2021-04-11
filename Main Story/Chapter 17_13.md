@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | - | ? | ? | - |
-  | - | ? | - | - |
-  | - | ? | ? | ? |
+  | - | [Demon](/units/Demon/) (Score: 92125, Level:67)  | - | - |
+  | - | [Demon](/units/Demon/) (Score: 92125, Level:67)  | [Lich](/units/Lich/) (Score: 92125, Level:67)  | - |
+  | - | [Demon](/units/Demon/) (Score: 92125, Level:67)  | - | - |
+  | - | [Black Knight](/units/Black Knight/) (Score: 92125, Level:67)  | [Pit Fiend](/units/Pit Fiend/) (Score: 92125, Level:67)  | [Pit Fiend](/units/Pit Fiend/) (Score: 92125, Level:67)  |
 
 

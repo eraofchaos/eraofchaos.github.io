@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | - |
+  | [Efreeti](/units/Efreeti/) (Score: 101961, Level:71)  | - | - | - |
+  | [Demon](/units/Demon/) (Score: 101961, Level:71)  | [Pit Fiend](/units/Pit Fiend/) (Score: 101961, Level:71)  | - | - |
+  | [Demon](/units/Demon/) (Score: 101961, Level:71)  | [Hell Hound](/units/Hell Hound/) (Score: 101961, Level:71)  | - | - |
+  | [Efreeti](/units/Efreeti/) (Score: 101961, Level:71)  | [Lich](/units/Lich/) (Score: 101961, Level:71)  | - | - |
 
 

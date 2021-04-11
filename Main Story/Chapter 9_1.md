@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Treant](/units/Treant/) (Score: 15899, Level:38)  | [Marksman](/units/Marksman/) (Score: 16118, Level:38)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 16118, Level:38)  | [Wood Elf](/units/Wood Elf/) (Score: 21169, Level:38)  | - | - |
+  | [Treant](/units/Treant/) (Score: 15899, Level:38)  | [Marksman](/units/Marksman/) (Score: 16118, Level:38)  | - | - |
+  | [Treant](/units/Treant/) (Score: 15899, Level:38)  | - | - | - |
 
 

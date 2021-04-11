@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Ogre](/units/Ogre/) (Score: 44850, Level:48)  | [Ogre](/units/Ogre/) (Score: 44850, Level:48)  |
+  | - | - | [Ogre](/units/Ogre/) (Score: 44850, Level:48)  | [Wight](/units/Wight/) (Score: 44850, Level:48)  |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 44850, Level:48)  | [Cyclops](/units/Cyclops/) (Score: 44850, Level:48)  |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 44850, Level:48)  | [Black Knight](/units/Black Knight/) (Score: 44850, Level:48)  |
 
 

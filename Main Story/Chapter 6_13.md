@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 6966, Level:22)  | [Gog](/units/Gog/) (Score: 6539, Level:22)  | - | - |
+  | [Demon](/units/Demon/) (Score: 6539, Level:22)  | [Pit Fiend](/units/Pit Fiend/) (Score: 7759, Level:22)  | - | - |
+  | [Demon](/units/Demon/) (Score: 6539, Level:22)  | - | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 6966, Level:22)  | - | - | - |
 
 

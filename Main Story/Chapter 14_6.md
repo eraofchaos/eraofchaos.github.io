@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | ? | - |
+  | [Black Knight](/units/Black Knight/) (Score: 54305, Level:52)  | [Lich](/units/Lich/) (Score: 54305, Level:52)  | [Wight](/units/Wight/) (Score: 54305, Level:52)  | [Wight](/units/Wight/) (Score: 54305, Level:52)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 54305, Level:52)  | - | - | - |
   | - | - | - | - |
-  | - | ? | ? | - |
+  | - | [Skeleton](/units/Skeleton/) (Score: 54305, Level:52)  | [Skeleton](/units/Skeleton/) (Score: 54305, Level:52)  | - |
 
 

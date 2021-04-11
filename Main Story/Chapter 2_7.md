@@ -34,9 +34,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | ? | - | ? | - |
-  | - | - | ? | - |
+  | - | - | [Hell Hound](/units/Hell Hound/) (Score: 1842, Level:8)  | [Hell Hound](/units/Hell Hound/) (Score: 1842, Level:8)  |
+  | [Demon](/units/Demon/) (Score: 2757, Level:8)  | - | [Dire Wolf](/units/Dire Wolf/) (Score: 1842, Level:8)  | - |
+  | - | - | [Dire Wolf](/units/Dire Wolf/) (Score: 1842, Level:8)  | - |
   | - | - | - | - |
 
 

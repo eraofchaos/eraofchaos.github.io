@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Unicorn](/units/Unicorn/) (Score: 11085, Level:30)  | [Marksman](/units/Marksman/) (Score: 11085, Level:30)  | [Marksman](/units/Marksman/) (Score: 11085, Level:30)  | [Marksman](/units/Marksman/) (Score: 11085, Level:30)  |
+  | [Swordsman](/units/Swordsman/) (Score: 15245, Level:30)  | - | - | - |
+  | [Centaur](/units/Centaur/) (Score: 11085, Level:30)  | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 11085, Level:30)  | [Cavalier](/units/Cavalier/) (Score: 11085, Level:30)  | - | - |
 
 

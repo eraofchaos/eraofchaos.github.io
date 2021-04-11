@@ -37,8 +37,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | ? | ? | ? |
-  | ? | ? | ? | ? |
+  | [Swordsman](/units/Swordsman/) (Score: 450119, Level:105)  | [Cavalier](/units/Cavalier/) (Score: 450119, Level:105)  | [Psychic Elemental](/units/Psychic Elemental/) (Score: 450119, Level:105)  | [Genie](/units/Genie/) (Score: 450119, Level:105)  |
+  | [Swordsman](/units/Swordsman/) (Score: 450119, Level:105)  | [Cavalier](/units/Cavalier/) (Score: 450119, Level:105)  | [Sprite](/units/Sprite/) (Score: 450119, Level:105)  | - |
   | - | - | - | - |
 
 

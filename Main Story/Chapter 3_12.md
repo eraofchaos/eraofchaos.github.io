@@ -34,9 +34,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | - | - |
-  | - | ? | ? | ? |
-  | - | ? | - | - |
+  | - | [Dwarf](/units/Dwarf/) (Score: 1964, Level:12)  | - | - |
+  | - | [Dwarf](/units/Dwarf/) (Score: 1964, Level:12)  | [Pegasus](/units/Pegasus/) (Score: 5319, Level:12)  | [Dwarf](/units/Dwarf/) (Score: 1964, Level:12)  |
+  | - | [Dwarf](/units/Dwarf/) (Score: 1964, Level:12)  | - | - |
   | - | - | - | - |
 
 

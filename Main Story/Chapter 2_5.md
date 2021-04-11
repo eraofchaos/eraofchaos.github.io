@@ -35,8 +35,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | - | - | ? | - |
-  | - | - | - | ? |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 2879, Level:7)  | - |
+  | - | - | - | [Wight](/units/Wight/) (Score: 1659, Level:7)  |
   | - | - | - | - |
 
 

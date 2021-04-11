@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Ogre](/units/Ogre/) (Score: 238983, Level:84)  | [Ogre](/units/Ogre/) (Score: 238983, Level:84)  |
+  | - | - | [Unicorn](/units/Unicorn/) (Score: 238983, Level:84)  | [Green Dragon](/units/Green Dragon/) (Score: 238983, Level:84)  |
+  | - | - | [Centaur](/units/Centaur/) (Score: 238983, Level:84)  | [Orc](/units/Orc/) (Score: 238983, Level:84)  |
+  | - | - | [Goblin](/units/Goblin/) (Score: 238983, Level:84)  | - |
 
 

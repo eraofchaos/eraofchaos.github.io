@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 4587, Level:20)  | - | - | - |
+  | [Vampire](/units/Vampire/) (Score: 7271, Level:20)  | - | - | - |
+  | [Vampire](/units/Vampire/) (Score: 7271, Level:20)  | - | - | - |
+  | [Vampire](/units/Vampire/) (Score: 7271, Level:20)  | [Wight](/units/Wight/) (Score: 4587, Level:20)  | - | - |
 
 

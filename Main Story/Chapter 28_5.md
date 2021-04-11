@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Minotaur](/units/Minotaur/) (Score: 558623, Level:138)  | [Minotaur](/units/Minotaur/) (Score: 558623, Level:138)  |
+  | - | - | [Minotaur](/units/Minotaur/) (Score: 558623, Level:138)  | [Black Dragon](/units/Black Dragon/) (Score: 558623, Level:138)  |
+  | - | - | [Harpy](/units/Harpy/) (Score: 558623, Level:138)  | [Beholder](/units/Beholder/) (Score: 558623, Level:138)  |
+  | - | - | [Manticore](/units/Manticore/) (Score: 558623, Level:138)  | [Beholder](/units/Beholder/) (Score: 558623, Level:138)  |
 
 

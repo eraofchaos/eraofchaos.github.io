@@ -37,8 +37,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | ? | ? | ? |
+  | [Cavalier](/units/Cavalier/) (Score: 307608, Level:92)  | - | - | [Pikeman](/units/Pikeman/) (Score: 307608, Level:92)  |
+  | [Ogre](/units/Ogre/) (Score: 307608, Level:92)  | - | - | - |
+  | [Naga](/units/Naga/) (Score: 307608, Level:92)  | [Cavalier](/units/Cavalier/) (Score: 307608, Level:92)  | [Orc](/units/Orc/) (Score: 307608, Level:92)  | [Orc](/units/Orc/) (Score: 307608, Level:92)  |
 
 

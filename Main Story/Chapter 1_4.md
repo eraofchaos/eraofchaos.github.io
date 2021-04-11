@@ -34,9 +34,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | ? | - | - |
-  | - | - | ? | - |
+  | - | - | [Monk](/units/Monk/) (Score: 1232, Level:3)  | [Monk](/units/Monk/) (Score: 1232, Level:3)  |
+  | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 1964, Level:4)  | - | - |
+  | - | - | [Monk](/units/Monk/) (Score: 1232, Level:3)  | - |
   | - | - | - | - |
 
 

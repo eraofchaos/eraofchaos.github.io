@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | - | - | ? | - |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
+  | [Harpy](/units/Harpy/) (Score: 423431, Level:102)  | [Pegasus](/units/Pegasus/) (Score: 423431, Level:102)  | [Beholder](/units/Beholder/) (Score: 423431, Level:102)  | [Beholder](/units/Beholder/) (Score: 423431, Level:102)  |
+  | - | - | [Beholder](/units/Beholder/) (Score: 423431, Level:102)  | - |
+  | [Medusa](/units/Medusa/) (Score: 423431, Level:102)  | - | [Beholder](/units/Beholder/) (Score: 423431, Level:102)  | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 423431, Level:102)  | - | - | - |
 
 

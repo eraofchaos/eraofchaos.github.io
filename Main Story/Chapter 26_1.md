@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 382943, Level:100)  | [Arch Mage](/units/Arch Mage/) (Score: 382943, Level:100)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 382943, Level:100)  | [Beholder](/units/Beholder/) (Score: 382943, Level:100)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 382943, Level:100)  | [Arch Mage](/units/Arch Mage/) (Score: 382943, Level:100)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 382943, Level:100)  | - | - | - |
 
 

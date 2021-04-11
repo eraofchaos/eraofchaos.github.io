@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Centaur](/units/Centaur/) (Score: 95175, Level:71)  | [Unicorn](/units/Unicorn/) (Score: 95175, Level:71)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 95175, Level:71)  | [Wood Elf](/units/Wood Elf/) (Score: 95175, Level:71)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 95175, Level:71)  | [Wood Elf](/units/Wood Elf/) (Score: 95175, Level:71)  | - | - |
+  | [Pegasus](/units/Pegasus/) (Score: 95175, Level:71)  | - | - | - |
 
 

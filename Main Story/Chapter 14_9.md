@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | ? | - | - |
-  | ? | - | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 56211, Level:52)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 56211, Level:52)  | - | - | [Vampire](/units/Vampire/) (Score: 56211, Level:52)  |
+  | [Black Knight](/units/Black Knight/) (Score: 56211, Level:52)  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 56211, Level:52)  | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 56211, Level:52)  | - | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Dwarf](/units/Dwarf/) (Score: 12896, Level:34)  | [Dwarf](/units/Dwarf/) (Score: 12896, Level:34)  |
+  | - | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 16922, Level:34)  | [Pegasus](/units/Pegasus/) (Score: 12896, Level:34)  |
+  | - | - | [Centaur](/units/Centaur/) (Score: 12896, Level:34)  | [Wood Elf](/units/Wood Elf/) (Score: 12896, Level:34)  |
+  | - | - | [Unicorn](/units/Unicorn/) (Score: 12896, Level:34)  | - |
 
 

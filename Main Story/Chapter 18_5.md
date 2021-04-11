@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 97463, Level:71)  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 97463, Level:71)  |
+  | - | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 97463, Level:71)  | [Gog](/units/Gog/) (Score: 97463, Level:71)  |
+  | - | - | [Pit Fiend](/units/Pit Fiend/) (Score: 97463, Level:71)  | [Green Dragon](/units/Green Dragon/) (Score: 97463, Level:71)  |
+  | - | - | [Pit Fiend](/units/Pit Fiend/) (Score: 97463, Level:71)  | [Pit Fiend](/units/Pit Fiend/) (Score: 97463, Level:71)  |
 
 

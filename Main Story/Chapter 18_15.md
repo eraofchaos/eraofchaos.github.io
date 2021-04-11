@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Demon](/units/Demon/) (Score: 104935, Level:71)  | [Demon](/units/Demon/) (Score: 104935, Level:71)  |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 104935, Level:71)  | - |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 104935, Level:71)  | [Devil](/units/Devil/) (Score: 104935, Level:71)  |
+  | - | - | [Demon](/units/Demon/) (Score: 104935, Level:71)  | [Green Dragon](/units/Green Dragon/) (Score: 104935, Level:71)  |
 
 

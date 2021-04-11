@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | ? | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 121863, Level:76)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 121863, Level:76)  | [Genie](/units/Genie/) (Score: 121863, Level:76)  | [Ice Elemental](/units/Ice Elemental/) (Score: 121863, Level:76)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 121863, Level:76)  | [Angel](/units/Angel/) (Score: 121863, Level:76)  | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 121863, Level:76)  | - | - | - |
 
 

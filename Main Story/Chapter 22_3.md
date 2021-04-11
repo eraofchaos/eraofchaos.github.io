@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 219539, Level:83)  | [Wood Elf](/units/Wood Elf/) (Score: 219539, Level:83)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 219539, Level:83)  | [Pegasus](/units/Pegasus/) (Score: 219539, Level:83)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 219539, Level:83)  | [Orc](/units/Orc/) (Score: 219539, Level:83)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 219539, Level:83)  | - | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | - | - |
-  | - | ? | - | - |
-  | - | ? | ? | - |
-  | - | ? | - | - |
+  | - | [Dwarf](/units/Dwarf/) (Score: 4038, Level:18)  | - | - |
+  | - | [Dwarf](/units/Dwarf/) (Score: 4038, Level:18)  | - | - |
+  | - | [Dwarf](/units/Dwarf/) (Score: 4038, Level:18)  | [Cyclops](/units/Cyclops/) (Score: 6539, Level:18)  | - |
+  | - | [Dwarf](/units/Dwarf/) (Score: 4038, Level:18)  | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 283208, Level:88)  | [Black Knight](/units/Black Knight/) (Score: 283208, Level:88)  |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 283208, Level:88)  | [Lich](/units/Lich/) (Score: 283208, Level:88)  |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 283208, Level:88)  | [Lich](/units/Lich/) (Score: 283208, Level:88)  |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 283208, Level:88)  | - |
 
 

@@ -34,9 +34,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | - |
-  | ? | - | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 1659, Level:6)  | - | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 1659, Level:6)  | - | [Cyclops](/units/Cyclops/) (Score: 2879, Level:6)  | - |
+  | [Pikeman](/units/Pikeman/) (Score: 1659, Level:6)  | - | - | - |
   | - | - | - | - |
 
 

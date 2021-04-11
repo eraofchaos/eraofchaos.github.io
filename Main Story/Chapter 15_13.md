@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | ? | - | - |
-  | ? | - | - | - |
+  | [Naga](/units/Naga/) (Score: 69479, Level:56)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 69479, Level:56)  | - | - | [Genie](/units/Genie/) (Score: 69479, Level:56)  |
+  | [Skeleton](/units/Skeleton/) (Score: 69479, Level:56)  | [Lich](/units/Lich/) (Score: 69479, Level:56)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 69479, Level:56)  | - | - | - |
 
 

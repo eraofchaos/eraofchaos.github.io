@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | - | - | - | ? |
-  | - | ? | ? | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 67725, Level:56)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 67725, Level:56)  | - | - | [Skeleton Archer](/units/Skeleton Archer/) (Score: 67725, Level:56)  |
+  | - | - | - | [Gremlin](/units/Gremlin/) (Score: 67725, Level:56)  |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 67725, Level:56)  | [Skeleton](/units/Skeleton/) (Score: 67725, Level:56)  | - |
 
 

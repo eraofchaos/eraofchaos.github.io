@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 6539, Level:21)  | [Gog](/units/Gog/) (Score: 6539, Level:21)  | [Gog](/units/Gog/) (Score: 6539, Level:21)  | [Gog](/units/Gog/) (Score: 6539, Level:21)  |
+  | [Imp](/units/Imp/) (Score: 5502, Level:21)  | - | - | - |
+  | [Imp](/units/Imp/) (Score: 5502, Level:21)  | - | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 6539, Level:21)  | - | - | - |
 
 

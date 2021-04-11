@@ -37,8 +37,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | ? | ? | ? |
-  | ? | ? | ? | ? |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 809790, Level:204)  | [Pegasus](/units/Pegasus/) (Score: 809790, Level:204)  | [Pegasus](/units/Pegasus/) (Score: 809790, Level:204)  | [Pegasus](/units/Pegasus/) (Score: 809790, Level:204)  |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 809790, Level:204)  | [Pegasus](/units/Pegasus/) (Score: 809790, Level:204)  | [Pegasus](/units/Pegasus/) (Score: 809790, Level:204)  | - |
   | - | - | - | - |
 
 

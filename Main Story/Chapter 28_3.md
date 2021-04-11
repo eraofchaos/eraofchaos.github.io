@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | - | - |
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
+  | - | [Manticore](/units/Manticore/) (Score: 542458, Level:134)  | - | - |
+  | [Troglodyte](/units/Troglodyte/) (Score: 542458, Level:134)  | - | [Medusa](/units/Medusa/) (Score: 542458, Level:134)  | [Medusa](/units/Medusa/) (Score: 542458, Level:134)  |
+  | [Troglodyte](/units/Troglodyte/) (Score: 542458, Level:134)  | - | [Medusa](/units/Medusa/) (Score: 542458, Level:134)  | - |
+  | [Manticore](/units/Manticore/) (Score: 542458, Level:134)  | - | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Wolf Rider](/units/Wolf Rider/) (Score: 23424, Level:42)  | [Wolf Rider](/units/Wolf Rider/) (Score: 23424, Level:42)  |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 28761, Level:42)  | [Cyclops](/units/Cyclops/) (Score: 23805, Level:42)  |
+  | - | - | [Ogre](/units/Ogre/) (Score: 23424, Level:42)  | [Roc](/units/Roc/) (Score: 23424, Level:42)  |
+  | - | - | [Wolf Rider](/units/Wolf Rider/) (Score: 23424, Level:42)  | - |
 
 

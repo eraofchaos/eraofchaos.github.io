@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Vampire](/units/Vampire/) (Score: 21899, Level:41)  | [Vampire](/units/Vampire/) (Score: 21899, Level:41)  |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 27389, Level:41)  | [Roc](/units/Roc/) (Score: 21899, Level:41)  |
+  | - | - | [Ogre](/units/Ogre/) (Score: 21899, Level:41)  | - |
+  | - | - | [Wolf Rider](/units/Wolf Rider/) (Score: 21899, Level:41)  | [Wolf Rider](/units/Wolf Rider/) (Score: 21899, Level:41)  |
 
 

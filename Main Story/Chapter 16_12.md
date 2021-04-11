@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | ? |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 80078, Level:62)  | - | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 80078, Level:62)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 80078, Level:62)  | [Wight](/units/Wight/) (Score: 80078, Level:62)  | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 80078, Level:62)  | [Lich](/units/Lich/) (Score: 80078, Level:62)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 80078, Level:62)  | - |
 
 

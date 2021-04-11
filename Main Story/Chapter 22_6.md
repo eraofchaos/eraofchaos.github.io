@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Ogre](/units/Ogre/) (Score: 228003, Level:84)  | [Roc](/units/Roc/) (Score: 228003, Level:84)  | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 228003, Level:84)  | [Pegasus](/units/Pegasus/) (Score: 228003, Level:84)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 228003, Level:84)  | [Pegasus](/units/Pegasus/) (Score: 228003, Level:84)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 228003, Level:84)  | - | - | - |
 
 

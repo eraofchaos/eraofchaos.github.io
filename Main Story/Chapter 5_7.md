@@ -38,7 +38,7 @@ classes: wide
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
   | - | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | ? |
+  | [Swordsman](/units/Swordsman/) (Score: 4404, Level:17)  | - | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 4404, Level:17)  | [Marksman](/units/Marksman/) (Score: 4404, Level:17)  | [Marksman](/units/Marksman/) (Score: 4404, Level:17)  | [Monk](/units/Monk/) (Score: 4404, Level:17)  |
 
 

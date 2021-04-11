@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | - |
+  | [Pit Fiend](/units/Pit Fiend/) (Score: 744520, Level:184)  | [Efreeti](/units/Efreeti/) (Score: 744520, Level:184)  | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 744520, Level:184)  | - | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 744520, Level:184)  | - | - | - |
+  | [Imp](/units/Imp/) (Score: 744520, Level:184)  | [Imp](/units/Imp/) (Score: 744520, Level:184)  | [Efreeti](/units/Efreeti/) (Score: 744520, Level:184)  | - |
 
 

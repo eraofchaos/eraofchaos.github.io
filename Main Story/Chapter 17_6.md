@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | - | ? | ? | ? |
-  | - | - | ? | ? |
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 86940, Level:65)  | [Gog](/units/Gog/) (Score: 86940, Level:65)  | [Gog](/units/Gog/) (Score: 86940, Level:65)  |
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 86940, Level:65)  | [Lich](/units/Lich/) (Score: 86940, Level:65)  | [Gog](/units/Gog/) (Score: 86940, Level:65)  |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 86940, Level:65)  | [Black Knight](/units/Black Knight/) (Score: 86940, Level:65)  |
   | - | - | - | - |
 
 

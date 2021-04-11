@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | ? | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 49425, Level:50)  | [Ogre](/units/Ogre/) (Score: 49425, Level:50)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 49425, Level:50)  | - | - | [Roc](/units/Roc/) (Score: 49425, Level:50)  |
+  | [Ogre](/units/Ogre/) (Score: 49425, Level:50)  | - | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 49425, Level:50)  | [Black Knight](/units/Black Knight/) (Score: 49425, Level:50)  | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Troglodyte](/units/Troglodyte/) (Score: 367616, Level:98)  | [Troglodyte](/units/Troglodyte/) (Score: 367616, Level:98)  |
+  | - | - | [Skeleton](/units/Skeleton/) (Score: 367616, Level:98)  | [Beholder](/units/Beholder/) (Score: 367616, Level:98)  |
+  | - | - | [Skeleton](/units/Skeleton/) (Score: 367616, Level:98)  | [Beholder](/units/Beholder/) (Score: 367616, Level:98)  |
+  | - | - | [Troglodyte](/units/Troglodyte/) (Score: 367616, Level:98)  | - |
 
 

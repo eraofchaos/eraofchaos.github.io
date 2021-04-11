@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Ogre](/units/Ogre/) (Score: 297161, Level:90)  | [Ogre](/units/Ogre/) (Score: 297161, Level:90)  |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 297161, Level:90)  | - |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 297161, Level:90)  | [Lich](/units/Lich/) (Score: 297161, Level:90)  |
+  | - | - | [Ogre](/units/Ogre/) (Score: 297161, Level:90)  | [Stormbringer](/units/Stormbringer/) (Score: 297161, Level:90)  |
 
 

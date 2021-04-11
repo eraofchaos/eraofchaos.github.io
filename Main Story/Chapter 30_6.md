@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | - | ? | ? | - |
+  | - | [Black Knight](/units/Black Knight/) (Score: 833580, Level:210)  | [Efreeti](/units/Efreeti/) (Score: 833580, Level:210)  | [Efreeti](/units/Efreeti/) (Score: 833580, Level:210)  |
+  | [Skeleton](/units/Skeleton/) (Score: 833580, Level:210)  | - | - | [Waspwort](/units/Waspwort/) (Score: 833580, Level:210)  |
+  | [Skeleton](/units/Skeleton/) (Score: 833580, Level:210)  | - | - | - |
+  | - | [Black Knight](/units/Black Knight/) (Score: 833580, Level:210)  | [Efreeti](/units/Efreeti/) (Score: 833580, Level:210)  | - |
 
 

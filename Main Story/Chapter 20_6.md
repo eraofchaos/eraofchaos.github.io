@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | - | ? | ? | - |
+  | - | [Cavalier](/units/Cavalier/) (Score: 121024, Level:76)  | [Sprite](/units/Sprite/) (Score: 121024, Level:76)  | [Sprite](/units/Sprite/) (Score: 121024, Level:76)  |
+  | [Swordsman](/units/Swordsman/) (Score: 121024, Level:76)  | - | - | [Monk](/units/Monk/) (Score: 121024, Level:76)  |
+  | [Swordsman](/units/Swordsman/) (Score: 121024, Level:76)  | - | - | - |
+  | - | [Cavalier](/units/Cavalier/) (Score: 121024, Level:76)  | [Griffin](/units/Griffin/) (Score: 121024, Level:76)  | - |
 
 

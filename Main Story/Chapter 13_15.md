@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 50493, Level:50)  | [Bone Dragon](/units/Bone Dragon/) (Score: 50493, Level:50)  |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 50493, Level:50)  | - |
+  | - | - | [Behemoth](/units/Behemoth/) (Score: 50493, Level:50)  | [Lich](/units/Lich/) (Score: 50493, Level:50)  |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 50493, Level:50)  | [Roc](/units/Roc/) (Score: 50493, Level:50)  |
 
 

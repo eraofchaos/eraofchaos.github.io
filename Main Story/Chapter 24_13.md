@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | ? | - | - |
-  | ? | - | - | - |
+  | [Naga](/units/Naga/) (Score: 332770, Level:95)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 332770, Level:95)  | - | - | [Genie](/units/Genie/) (Score: 332770, Level:95)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 332770, Level:95)  | [Giant](/units/Giant/) (Score: 332770, Level:95)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 332770, Level:95)  | - | - | - |
 
 

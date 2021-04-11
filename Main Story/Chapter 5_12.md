@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
+  | [Dwarf](/units/Dwarf/) (Score: 4587, Level:18)  | - | [Wood Elf](/units/Wood Elf/) (Score: 4587, Level:18)  | [Wood Elf](/units/Wood Elf/) (Score: 4587, Level:18)  |
   | - | - | - | - |
-  | - | - | ? | - |
-  | ? | - | ? | - |
+  | - | - | [Dwarf](/units/Dwarf/) (Score: 4587, Level:18)  | - |
+  | [Dwarf](/units/Dwarf/) (Score: 4587, Level:18)  | - | [Wood Elf](/units/Wood Elf/) (Score: 4587, Level:18)  | - |
 
 

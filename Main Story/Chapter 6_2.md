@@ -38,7 +38,7 @@ classes: wide
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
   | - | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | ? |
+  | [Demon](/units/Demon/) (Score: 4831, Level:19)  | - | - | - |
+  | [Demon](/units/Demon/) (Score: 4831, Level:19)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 4831, Level:19)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 4831, Level:19)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 4831, Level:19)  |
 
 

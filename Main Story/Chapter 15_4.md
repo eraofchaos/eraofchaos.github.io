@@ -37,8 +37,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | ? | ? | ? |
+  | [Black Knight](/units/Black Knight/) (Score: 62540, Level:54)  | - | - | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 62540, Level:54)  |
+  | [Ogre](/units/Ogre/) (Score: 62540, Level:54)  | - | - | - |
+  | [Naga](/units/Naga/) (Score: 62540, Level:54)  | [Black Knight](/units/Black Knight/) (Score: 62540, Level:54)  | [Orc](/units/Orc/) (Score: 62540, Level:54)  | [Orc](/units/Orc/) (Score: 62540, Level:54)  |
 
 

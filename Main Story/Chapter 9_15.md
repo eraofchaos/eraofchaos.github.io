@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Black Knight](/units/Black Knight/) (Score: 20755, Level:40)  | [Black Knight](/units/Black Knight/) (Score: 20755, Level:40)  |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 26093, Level:40)  | [Lich](/units/Lich/) (Score: 20755, Level:40)  |
+  | - | - | [Walking Dead](/units/Walking Dead/) (Score: 20755, Level:40)  | - |
+  | - | - | [Vampire](/units/Vampire/) (Score: 20755, Level:40)  | [Vampire](/units/Vampire/) (Score: 20755, Level:40)  |
 
 

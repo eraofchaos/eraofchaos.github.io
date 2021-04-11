@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
+  | [Harpy](/units/Harpy/) (Score: 590953, Level:146)  | [Harpy](/units/Harpy/) (Score: 590953, Level:146)  | [Harpy](/units/Harpy/) (Score: 590953, Level:146)  | [Harpy](/units/Harpy/) (Score: 590953, Level:146)  |
   | - | - | - | - |
   | - | - | - | - |
-  | ? | ? | ? | ? |
+  | - | [Manticore](/units/Manticore/) (Score: 590953, Level:146)  | [Manticore](/units/Manticore/) (Score: 590953, Level:146)  | [Manticore](/units/Manticore/) (Score: 590953, Level:146)  |
 
 

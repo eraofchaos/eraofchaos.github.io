@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Skeleton](/units/Skeleton/) (Score: 353053, Level:97)  | [Skeleton](/units/Skeleton/) (Score: 353053, Level:97)  |
+  | - | - | [Skeleton](/units/Skeleton/) (Score: 353053, Level:97)  | [Wight](/units/Wight/) (Score: 353053, Level:97)  |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 353053, Level:97)  | [Lich](/units/Lich/) (Score: 353053, Level:97)  |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 353053, Level:97)  | [Bone Dragon](/units/Bone Dragon/) (Score: 353053, Level:97)  |
 
 

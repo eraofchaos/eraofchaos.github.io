@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 19611, Level:40)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 19611, Level:40)  | [Wight](/units/Wight/) (Score: 19611, Level:40)  | - | - |
+  | [Vampire](/units/Vampire/) (Score: 25025, Level:40)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 19611, Level:40)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 19611, Level:40)  | - |
+  | [Skeleton](/units/Skeleton/) (Score: 19611, Level:40)  | - | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | - | - | - | ? |
-  | - | ? | ? | - |
+  | [Black Knight](/units/Black Knight/) (Score: 54839, Level:52)  | - | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 54839, Level:52)  | - | - | [Vampire](/units/Vampire/) (Score: 54839, Level:52)  |
+  | - | - | - | [Vampire](/units/Vampire/) (Score: 54839, Level:52)  |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 54839, Level:52)  | [Skeleton](/units/Skeleton/) (Score: 54839, Level:52)  | - |
 
 

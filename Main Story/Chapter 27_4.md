@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 453169, Level:105)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 453169, Level:105)  | - | [Genie](/units/Genie/) (Score: 453169, Level:105)  | [Sprite](/units/Sprite/) (Score: 453169, Level:105)  |
+  | [Swordsman](/units/Swordsman/) (Score: 453169, Level:105)  | - | [Marksman](/units/Marksman/) (Score: 453169, Level:105)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 453169, Level:105)  | - | - | - |
 
 

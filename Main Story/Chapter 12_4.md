@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 36005, Level:45)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 36005, Level:45)  | - | [Roc](/units/Roc/) (Score: 42486, Level:45)  | [Wolf Rider](/units/Wolf Rider/) (Score: 36386, Level:45)  |
+  | [Ogre](/units/Ogre/) (Score: 36005, Level:45)  | - | [Orc](/units/Orc/) (Score: 36386, Level:45)  | - |
+  | [Ogre](/units/Ogre/) (Score: 36005, Level:45)  | - | - | - |
 
 

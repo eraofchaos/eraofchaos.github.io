@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 126056, Level:78)  | - | [Monk](/units/Monk/) (Score: 126056, Level:78)  | [Monk](/units/Monk/) (Score: 126056, Level:78)  |
+  | [Swordsman](/units/Swordsman/) (Score: 126056, Level:78)  | - | [Genie](/units/Genie/) (Score: 126056, Level:78)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 126056, Level:78)  | - | [Arch Mage](/units/Arch Mage/) (Score: 126056, Level:78)  | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 126056, Level:78)  | - | - | - |
 
 

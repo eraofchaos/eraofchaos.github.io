@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | ? | - | - |
+  | [Troglodyte](/units/Troglodyte/) (Score: 374936, Level:99)  | [Minotaur](/units/Minotaur/) (Score: 374936, Level:99)  | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 374936, Level:99)  | - | - | [Beholder](/units/Beholder/) (Score: 374936, Level:99)  |
+  | [Minotaur](/units/Minotaur/) (Score: 374936, Level:99)  | - | - | - |
+  | [Troglodyte](/units/Troglodyte/) (Score: 374936, Level:99)  | [Pit Fiend](/units/Pit Fiend/) (Score: 374936, Level:99)  | - | - |
 
 

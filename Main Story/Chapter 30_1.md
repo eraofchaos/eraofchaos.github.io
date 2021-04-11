@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | ? |
+  | [Hell Hound](/units/Hell Hound/) (Score: 793930, Level:200)  | [Pit Fiend](/units/Pit Fiend/) (Score: 793930, Level:200)  | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 793930, Level:200)  | - | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 793930, Level:200)  | - | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 793930, Level:200)  | [Pit Fiend](/units/Pit Fiend/) (Score: 793930, Level:200)  | [Pit Fiend](/units/Pit Fiend/) (Score: 793930, Level:200)  | - |
 
 

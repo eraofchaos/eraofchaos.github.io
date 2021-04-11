@@ -37,8 +37,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | ? | ? | ? |
-  | ? | ? | ? | ? |
+  | [Skeleton](/units/Skeleton/) (Score: 347029, Level:96)  | [Vampire](/units/Vampire/) (Score: 347029, Level:96)  | [Vampire](/units/Vampire/) (Score: 347029, Level:96)  | [Medusa](/units/Medusa/) (Score: 347029, Level:96)  |
+  | [Skeleton](/units/Skeleton/) (Score: 347029, Level:96)  | [Vampire](/units/Vampire/) (Score: 347029, Level:96)  | [Lich](/units/Lich/) (Score: 347029, Level:96)  | - |
   | - | - | - | - |
 
 

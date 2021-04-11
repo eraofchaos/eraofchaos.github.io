@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | - |
+  | [Nomad](/units/Nomad/) (Score: 3672, Level:14)  | [Griffin](/units/Griffin/) (Score: 3977, Level:14)  | - | - |
+  | [Nomad](/units/Nomad/) (Score: 3672, Level:14)  | - | - | - |
   | - | - | - | - |
-  | ? | ? | - | - |
+  | [Nomad](/units/Nomad/) (Score: 3672, Level:14)  | [Griffin](/units/Griffin/) (Score: 3977, Level:14)  | - | - |
 
 

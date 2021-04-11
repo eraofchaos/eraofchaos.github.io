@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 112713, Level:73)  | [Iron Golem](/units/Iron Golem/) (Score: 112713, Level:73)  |
+  | - | - | [Naga](/units/Naga/) (Score: 112713, Level:73)  | [Arch Mage](/units/Arch Mage/) (Score: 112713, Level:73)  |
+  | - | - | [Stone Elemental](/units/Stone Elemental/) (Score: 112713, Level:73)  | [Genie](/units/Genie/) (Score: 112713, Level:73)  |
+  | - | - | [Iron Golem](/units/Iron Golem/) (Score: 112713, Level:73)  | - |
 
 

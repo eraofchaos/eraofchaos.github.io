@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 102275, Level:72)  | [Genie](/units/Genie/) (Score: 102275, Level:72)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 102275, Level:72)  | [Arch Mage](/units/Arch Mage/) (Score: 102275, Level:72)  | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 102275, Level:72)  | [Genie](/units/Genie/) (Score: 102275, Level:72)  | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 102275, Level:72)  | - | - | - |
 
 

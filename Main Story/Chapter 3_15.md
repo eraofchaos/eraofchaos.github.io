@@ -35,8 +35,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | - | - | ? | ? |
-  | - | - | - | ? |
-  | - | - | - | ? |
+  | - | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 3428, Level:13)  | [Sharpshooter](/units/Sharpshooter/) (Score: 2086, Level:13)  |
+  | - | - | - | [Sharpshooter](/units/Sharpshooter/) (Score: 2086, Level:13)  |
+  | - | - | - | [Sharpshooter](/units/Sharpshooter/) (Score: 2086, Level:13)  |
 
 

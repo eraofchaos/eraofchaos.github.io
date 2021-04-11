@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | - | ? | ? | - |
-  | - | ? | ? | - |
-  | - | ? | ? | - |
+  | - | [Skeleton](/units/Skeleton/) (Score: 81526, Level:63)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 81526, Level:63)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 81526, Level:63)  |
+  | - | [Bone Dragon](/units/Bone Dragon/) (Score: 81526, Level:63)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 81526, Level:63)  | - |
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 81526, Level:63)  | [Skeleton Archer](/units/Skeleton Archer/) (Score: 81526, Level:63)  | - |
+  | - | [Skeleton](/units/Skeleton/) (Score: 81526, Level:63)  | - | - |
 
 

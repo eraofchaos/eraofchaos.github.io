@@ -37,8 +37,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | ? | ? | ? |
-  | ? | ? | - | - |
+  | [Imp](/units/Imp/) (Score: 5441, Level:21)  | [Demon](/units/Demon/) (Score: 5441, Level:21)  | [Gog](/units/Gog/) (Score: 7088, Level:21)  | [Gog](/units/Gog/) (Score: 7088, Level:21)  |
+  | [Imp](/units/Imp/) (Score: 5441, Level:21)  | [Demon](/units/Demon/) (Score: 5441, Level:21)  | - | - |
   | - | - | - | - |
 
 

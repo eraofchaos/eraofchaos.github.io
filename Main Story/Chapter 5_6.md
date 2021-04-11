@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 3428, Level:17)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 3428, Level:17)  | [Marksman](/units/Marksman/) (Score: 3489, Level:17)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 3428, Level:17)  | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 5685, Level:17)  | - | - | - |
 
 

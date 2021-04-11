@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Goblin](/units/Goblin/) (Score: 32955, Level:42)  | [Goblin](/units/Goblin/) (Score: 32955, Level:42)  |
+  | - | - | [Centaur](/units/Centaur/) (Score: 32955, Level:42)  | [Roc](/units/Roc/) (Score: 38293, Level:42)  |
+  | - | - | [Centaur](/units/Centaur/) (Score: 32955, Level:42)  | [Pegasus](/units/Pegasus/) (Score: 32040, Level:42)  |
+  | - | - | [Unicorn](/units/Unicorn/) (Score: 32040, Level:42)  | - |
 
 

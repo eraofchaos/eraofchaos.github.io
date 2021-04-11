@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 50035, Level:50)  | - | [Lich](/units/Lich/) (Score: 50035, Level:50)  | [Lich](/units/Lich/) (Score: 50035, Level:50)  |
+  | [Skeleton](/units/Skeleton/) (Score: 50035, Level:50)  | - | - | [Wight](/units/Wight/) (Score: 50035, Level:50)  |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 50035, Level:50)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 50035, Level:50)  | [Roc](/units/Roc/) (Score: 50035, Level:50)  | - | - |
 
 

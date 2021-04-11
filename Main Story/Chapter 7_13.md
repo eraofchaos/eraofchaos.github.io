@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | ? | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 10504, Level:28)  | [Marksman](/units/Marksman/) (Score: 10504, Level:28)  | [Marksman](/units/Marksman/) (Score: 10504, Level:28)  | [Marksman](/units/Marksman/) (Score: 10504, Level:28)  |
+  | [Swordsman](/units/Swordsman/) (Score: 10504, Level:28)  | [Pikeman](/units/Pikeman/) (Score: 10504, Level:28)  | - | - |
   | - | - | - | - |
-  | ? | ? | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 10504, Level:28)  | [Cavalier](/units/Cavalier/) (Score: 10504, Level:28)  | - | - |
 
 

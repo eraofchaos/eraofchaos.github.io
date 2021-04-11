@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | ? | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 889090, Level:224)  | [Fire Elemental](/units/Fire Elemental/) (Score: 889090, Level:224)  | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 889090, Level:224)  | - | - | [Gog](/units/Gog/) (Score: 889090, Level:224)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 889090, Level:224)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 889090, Level:224)  | [Fire Elemental](/units/Fire Elemental/) (Score: 889090, Level:224)  | - | - |
 
 

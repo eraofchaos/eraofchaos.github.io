@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 12561, Level:34)  | [Monk](/units/Monk/) (Score: 12561, Level:34)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 16587, Level:34)  | [Monk](/units/Monk/) (Score: 12561, Level:34)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 12561, Level:34)  | [Wood Elf](/units/Wood Elf/) (Score: 12561, Level:34)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 12561, Level:34)  | - | - | - |
 
 

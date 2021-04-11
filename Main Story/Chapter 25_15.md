@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Black Dragon](/units/Black Dragon/) (Score: 380503, Level:100)  | [Black Dragon](/units/Black Dragon/) (Score: 380503, Level:100)  |
+  | - | - | [Skeleton](/units/Skeleton/) (Score: 380503, Level:100)  | - |
+  | - | - | [Skeleton](/units/Skeleton/) (Score: 380503, Level:100)  | [Troglodyte](/units/Troglodyte/) (Score: 380503, Level:100)  |
+  | - | - | [Black Dragon](/units/Black Dragon/) (Score: 380503, Level:100)  | [Lich](/units/Lich/) (Score: 380503, Level:100)  |
 
 

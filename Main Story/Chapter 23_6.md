@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | - | ? | ? | - |
+  | - | [Ogre](/units/Ogre/) (Score: 272151, Level:87)  | [Wolf Rider](/units/Wolf Rider/) (Score: 272151, Level:87)  | [Wolf Rider](/units/Wolf Rider/) (Score: 272151, Level:87)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 272151, Level:87)  | - | - | [Wight](/units/Wight/) (Score: 272151, Level:87)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 272151, Level:87)  | - | - | - |
+  | - | [Black Knight](/units/Black Knight/) (Score: 272151, Level:87)  | [Roc](/units/Roc/) (Score: 272151, Level:87)  | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
+  | [Skeleton](/units/Skeleton/) (Score: 48663, Level:50)  | - | [Cyclops](/units/Cyclops/) (Score: 48663, Level:50)  | [Cyclops](/units/Cyclops/) (Score: 48663, Level:50)  |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 48663, Level:50)  | - | [Roc](/units/Roc/) (Score: 48663, Level:50)  | - |
+  | [Behemoth](/units/Behemoth/) (Score: 48663, Level:50)  | - | [Lich](/units/Lich/) (Score: 48663, Level:50)  | - |
+  | [Ogre](/units/Ogre/) (Score: 48663, Level:50)  | - | - | - |
 
 

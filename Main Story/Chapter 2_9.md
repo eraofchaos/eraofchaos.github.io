@@ -34,8 +34,8 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | - |
+  | [Treant](/units/Treant/) (Score: 1781, Level:7)  | - | - | - |
+  | [Treant](/units/Treant/) (Score: 1781, Level:7)  | - | [Firebird](/units/Firebird/) (Score: 4099, Level:9)  | - |
   | - | - | - | - |
   | - | - | - | - |
 

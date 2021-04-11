@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | ? | ? | - |
+  | [Swordsman](/units/Swordsman/) (Score: 466818, Level:106)  | [Ice Elemental](/units/Ice Elemental/) (Score: 466818, Level:106)  | [Monk](/units/Monk/) (Score: 466818, Level:106)  | [Monk](/units/Monk/) (Score: 466818, Level:106)  |
+  | [Swordsman](/units/Swordsman/) (Score: 466818, Level:106)  | [Genie](/units/Genie/) (Score: 466818, Level:106)  | - | - |
   | - | - | - | - |
-  | ? | ? | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 466818, Level:106)  | [Sprite](/units/Sprite/) (Score: 466818, Level:106)  | - | - |
 
 

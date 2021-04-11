@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 330101, Level:95)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 330101, Level:95)  | - | - | [Pikeman](/units/Pikeman/) (Score: 330101, Level:95)  |
+  | [Naga](/units/Naga/) (Score: 330101, Level:95)  | - | - | [Orc](/units/Orc/) (Score: 330101, Level:95)  |
+  | [Naga](/units/Naga/) (Score: 330101, Level:95)  | - | - | - |
 
 

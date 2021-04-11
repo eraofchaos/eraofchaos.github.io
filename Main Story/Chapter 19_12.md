@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | ? |
+  | [Iron Golem](/units/Iron Golem/) (Score: 114161, Level:74)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 114161, Level:74)  | - | - | - |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 114161, Level:74)  | [Genie](/units/Genie/) (Score: 114161, Level:74)  | - | - |
+  | [Sprite](/units/Sprite/) (Score: 114161, Level:74)  | [Arch Mage](/units/Arch Mage/) (Score: 114161, Level:74)  | [Gremlin](/units/Gremlin/) (Score: 114161, Level:74)  | - |
 
 

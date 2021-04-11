@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | - | ? | - |
+  | [Troglodyte](/units/Troglodyte/) (Score: 582870, Level:144)  | - | [Beholder](/units/Beholder/) (Score: 582870, Level:144)  | [Beholder](/units/Beholder/) (Score: 582870, Level:144)  |
+  | [Dwarf](/units/Dwarf/) (Score: 582870, Level:144)  | [Harpy](/units/Harpy/) (Score: 582870, Level:144)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 582870, Level:144)  | [Beholder](/units/Beholder/) (Score: 582870, Level:144)  | - | - |
+  | [Troglodyte](/units/Troglodyte/) (Score: 582870, Level:144)  | - | - | - |
 
 

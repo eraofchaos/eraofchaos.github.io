@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | - |
-  | - | - | ? | - |
-  | - | - | ? | - |
+  | [Skeleton](/units/Skeleton/) (Score: 4709, Level:20)  | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 4709, Level:20)  | - | [Lich](/units/Lich/) (Score: 5197, Level:20)  | - |
+  | - | - | [Bone Dragon](/units/Bone Dragon/) (Score: 7271, Level:20)  | - |
+  | - | - | [Lich](/units/Lich/) (Score: 5197, Level:20)  | - |
 
 

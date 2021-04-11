@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 288850, Level:88)  | - | [Orc](/units/Orc/) (Score: 288850, Level:88)  | [Orc](/units/Orc/) (Score: 288850, Level:88)  |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 288850, Level:88)  | - | [Roc](/units/Roc/) (Score: 288850, Level:88)  | - |
+  | [Behemoth](/units/Behemoth/) (Score: 288850, Level:88)  | - | [Lich](/units/Lich/) (Score: 288850, Level:88)  | - |
+  | [Ogre](/units/Ogre/) (Score: 288850, Level:88)  | - | - | - |
 
 

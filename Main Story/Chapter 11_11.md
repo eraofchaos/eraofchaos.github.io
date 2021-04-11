@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | - |
-  | ? | - | ? | - |
-  | ? | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 33413, Level:43)  | - | [Wood Elf](/units/Wood Elf/) (Score: 33565, Level:43)  | [Wood Elf](/units/Wood Elf/) (Score: 33565, Level:43)  |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 33336, Level:43)  | - | [Monk](/units/Monk/) (Score: 33489, Level:43)  | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 33336, Level:43)  | - | [Pegasus](/units/Pegasus/) (Score: 39818, Level:43)  | - |
+  | [Cavalier](/units/Cavalier/) (Score: 33413, Level:43)  | - | - | - |
 
 

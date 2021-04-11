@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | ? | - |
+  | [Vampire](/units/Vampire/) (Score: 21899, Level:41)  | [Lich](/units/Lich/) (Score: 21899, Level:41)  | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 21899, Level:41)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 21899, Level:41)  | - | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 27084, Level:41)  | [Lich](/units/Lich/) (Score: 21899, Level:41)  | [Wight](/units/Wight/) (Score: 21899, Level:41)  | - |
 
 

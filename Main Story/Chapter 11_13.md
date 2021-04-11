@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | - | ? | ? | - |
-  | - | ? | - | - |
-  | - | ? | ? | ? |
+  | - | [Swordsman](/units/Swordsman/) (Score: 33946, Level:44)  | - | - |
+  | - | [Swordsman](/units/Swordsman/) (Score: 33946, Level:44)  | [Pegasus](/units/Pegasus/) (Score: 40961, Level:44)  | - |
+  | - | [Swordsman](/units/Swordsman/) (Score: 33946, Level:44)  | - | - |
+  | - | [Unicorn](/units/Unicorn/) (Score: 34099, Level:44)  | [Monk](/units/Monk/) (Score: 34480, Level:44)  | [Monk](/units/Monk/) (Score: 34480, Level:44)  |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Treant](/units/Treant/) (Score: 16631, Level:38)  | [Marksman](/units/Marksman/) (Score: 16631, Level:38)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 16631, Level:38)  | [Pegasus](/units/Pegasus/) (Score: 22121, Level:38)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 16631, Level:38)  | [Monk](/units/Monk/) (Score: 16631, Level:38)  | - | - |
+  | [Treant](/units/Treant/) (Score: 16631, Level:38)  | - | - | - |
 
 

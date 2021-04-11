@@ -37,8 +37,8 @@ classes: wide
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
   | - | - | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | ? | ? | ? |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 57279, Level:53)  | - | - | [Vampire](/units/Vampire/) (Score: 57279, Level:53)  |
+  | [Black Knight](/units/Black Knight/) (Score: 57279, Level:53)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 57279, Level:53)  | [Skeleton](/units/Skeleton/) (Score: 57279, Level:53)  | [Arch Mage](/units/Arch Mage/) (Score: 57279, Level:53)  | [Gremlin](/units/Gremlin/) (Score: 57279, Level:53)  |
 
 

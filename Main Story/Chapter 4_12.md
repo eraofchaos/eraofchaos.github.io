@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Griffin](/units/Griffin/) (Score: 3245, Level:14)  | - | - | - |
+  | [Griffin](/units/Griffin/) (Score: 3245, Level:14)  | [Roc](/units/Roc/) (Score: 5136, Level:14)  | - | - |
+  | [Griffin](/units/Griffin/) (Score: 3245, Level:14)  | - | - | - |
+  | [Griffin](/units/Griffin/) (Score: 3245, Level:14)  | - | - | - |
 
 

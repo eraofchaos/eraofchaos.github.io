@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | ? |
+  | [Harpy](/units/Harpy/) (Score: 736438, Level:182)  | - | - | - |
+  | [Harpy](/units/Harpy/) (Score: 736438, Level:182)  | - | - | - |
+  | [Harpy](/units/Harpy/) (Score: 736438, Level:182)  | [Harpy](/units/Harpy/) (Score: 736438, Level:182)  | - | - |
+  | [Harpy](/units/Harpy/) (Score: 736438, Level:182)  | [Harpy](/units/Harpy/) (Score: 736438, Level:182)  | [Green Dragon](/units/Green Dragon/) (Score: 736438, Level:182)  | - |
 
 

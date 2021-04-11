@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | - |
+  | [Demon](/units/Demon/) (Score: 873230, Level:220)  | - | - | - |
+  | [Efreeti](/units/Efreeti/) (Score: 873230, Level:220)  | [Efreeti](/units/Efreeti/) (Score: 873230, Level:220)  | - | - |
+  | [Efreeti](/units/Efreeti/) (Score: 873230, Level:220)  | [Medusa](/units/Medusa/) (Score: 873230, Level:220)  | - | - |
+  | [Demon](/units/Demon/) (Score: 873230, Level:220)  | [Medusa](/units/Medusa/) (Score: 873230, Level:220)  | - | - |
 
 

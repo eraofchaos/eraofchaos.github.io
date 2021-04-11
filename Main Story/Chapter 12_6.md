@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | - | ? | ? | - |
+  | - | [Cavalier](/units/Cavalier/) (Score: 37073, Level:46)  | [Griffin](/units/Griffin/) (Score: 43401, Level:46)  | [Griffin](/units/Griffin/) (Score: 43401, Level:46)  |
+  | [Swordsman](/units/Swordsman/) (Score: 37073, Level:46)  | - | - | [Monk](/units/Monk/) (Score: 37073, Level:46)  |
+  | [Swordsman](/units/Swordsman/) (Score: 37073, Level:46)  | - | - | - |
+  | - | [Cavalier](/units/Cavalier/) (Score: 37073, Level:46)  | [Griffin](/units/Griffin/) (Score: 37073, Level:46)  | - |
 
 

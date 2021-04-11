@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | ? | - | - |
-  | ? | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 302194, Level:91)  | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 302194, Level:91)  | - | - | [Pikeman](/units/Pikeman/) (Score: 302194, Level:91)  |
+  | [Ogre](/units/Ogre/) (Score: 302194, Level:91)  | [Gremlin](/units/Gremlin/) (Score: 302194, Level:91)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 302194, Level:91)  | - | - | - |
 
 

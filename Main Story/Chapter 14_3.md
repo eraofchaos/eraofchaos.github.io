@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | - | ? | - | ? |
+  | [Ogre](/units/Ogre/) (Score: 52323, Level:51)  | [Roc](/units/Roc/) (Score: 52323, Level:51)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 52323, Level:51)  | - | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 52323, Level:51)  | - | - | [Gremlin](/units/Gremlin/) (Score: 52323, Level:51)  |
+  | - | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 52323, Level:51)  | - | [Orc](/units/Orc/) (Score: 52323, Level:51)  |
 
 

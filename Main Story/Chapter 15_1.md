@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | - | ? |
-  | ? | - | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 60710, Level:54)  | - | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 60710, Level:54)  | - | - | [Lich](/units/Lich/) (Score: 60710, Level:54)  |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 60710, Level:54)  | - | - | [Lich](/units/Lich/) (Score: 60710, Level:54)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 60710, Level:54)  | - | - | - |
 
 

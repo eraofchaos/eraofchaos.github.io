@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Imp](/units/Imp/) (Score: 679860, Level:168)  | [Imp](/units/Imp/) (Score: 679860, Level:168)  |
+  | - | - | [Pit Fiend](/units/Pit Fiend/) (Score: 679860, Level:168)  | [Gog](/units/Gog/) (Score: 679860, Level:168)  |
+  | - | - | [Imp](/units/Imp/) (Score: 679860, Level:168)  | [Wood Elf](/units/Wood Elf/) (Score: 679860, Level:168)  |
+  | - | - | [Pit Fiend](/units/Pit Fiend/) (Score: 679860, Level:168)  | [Gog](/units/Gog/) (Score: 679860, Level:168)  |
 
 

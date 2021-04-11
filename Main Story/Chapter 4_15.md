@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | - |
-  | - | - | ? | ? |
+  | - | - | [Demon](/units/Demon/) (Score: 21789, Level:15)  | [Demon](/units/Demon/) (Score: 21789, Level:15)  |
+  | - | - | [Devil](/units/Devil/) (Score: 24839, Level:40)  | - |
+  | - | - | [Pit Fiend](/units/Pit Fiend/) (Score: 21789, Level:15)  | [Gog](/units/Gog/) (Score: 21789, Level:15)  |
   | - | - | - | - |
 
 

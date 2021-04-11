@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | ? | - |
-  | ? | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 447679, Level:104)  | [Sprite](/units/Sprite/) (Score: 447679, Level:104)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 447679, Level:104)  | [Arch Mage](/units/Arch Mage/) (Score: 447679, Level:104)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 447679, Level:104)  | [Arch Mage](/units/Arch Mage/) (Score: 447679, Level:104)  | - | - |
+  | [Fire Elemental](/units/Fire Elemental/) (Score: 447679, Level:104)  | - | - | - |
 
 

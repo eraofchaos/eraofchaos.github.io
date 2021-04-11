@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
+  | [Cavalier](/units/Cavalier/) (Score: 3855, Level:16)  | [Marksman](/units/Marksman/) (Score: 3794, Level:16)  | [Marksman](/units/Marksman/) (Score: 3794, Level:16)  | [Marksman](/units/Marksman/) (Score: 3794, Level:16)  |
   | - | - | - | - |
   | - | - | - | - |
-  | ? | ? | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 3794, Level:16)  | [Marksman](/units/Marksman/) (Score: 3794, Level:16)  | - | - |
 
 

@@ -34,8 +34,8 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 2269, Level:12)  | [Angel](/units/Angel/) (Score: 5319, Level:12)  | [Monk](/units/Monk/) (Score: 2269, Level:12)  | [Monk](/units/Monk/) (Score: 2269, Level:12)  |
+  | [Pikeman](/units/Pikeman/) (Score: 2269, Level:12)  | - | - | - |
   | - | - | - | - |
   | - | - | - | - |
 

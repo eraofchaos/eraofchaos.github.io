@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | - |
+  | - | - | [Pikeman](/units/Pikeman/) (Score: 9589, Level:28)  | [Pikeman](/units/Pikeman/) (Score: 9589, Level:28)  |
+  | - | - | [Angel](/units/Angel/) (Score: 13554, Level:28)  | [Monk](/units/Monk/) (Score: 8979, Level:28)  |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 9589, Level:28)  | [Monk](/units/Monk/) (Score: 8979, Level:28)  |
+  | - | - | [Cavalier](/units/Cavalier/) (Score: 9589, Level:28)  | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | - | - |
-  | - | ? | ? | ? |
-  | - | ? | - | - |
-  | - | ? | ? | ? |
+  | - | [Demon](/units/Demon/) (Score: 87703, Level:65)  | - | - |
+  | - | [Demon](/units/Demon/) (Score: 87703, Level:65)  | [Gog](/units/Gog/) (Score: 87703, Level:65)  | - |
+  | - | [Demon](/units/Demon/) (Score: 87703, Level:65)  | - | - |
+  | - | [Imp](/units/Imp/) (Score: 87703, Level:65)  | [Black Knight](/units/Black Knight/) (Score: 87703, Level:65)  | [Lich](/units/Lich/) (Score: 87703, Level:65)  |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | - | - |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
-  | ? | ? | ? | - |
+  | [Demon](/units/Demon/) (Score: 89151, Level:66)  | - | - | - |
+  | [Demon](/units/Demon/) (Score: 89151, Level:66)  | - | [Bone Dragon](/units/Bone Dragon/) (Score: 89151, Level:66)  | - |
+  | [Black Knight](/units/Black Knight/) (Score: 89151, Level:66)  | - | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 89151, Level:66)  | [Black Knight](/units/Black Knight/) (Score: 89151, Level:66)  | [Lich](/units/Lich/) (Score: 89151, Level:66)  | - |
 
 

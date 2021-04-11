@@ -36,8 +36,8 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | ? | - | - |
+  | [Demon](/units/Demon/) (Score: 3672, Level:15)  | [Pit Fiend](/units/Pit Fiend/) (Score: 3672, Level:15)  | [Efreeti](/units/Efreeti/) (Score: 5685, Level:15)  | [Efreeti](/units/Efreeti/) (Score: 5685, Level:15)  |
+  | [Imp](/units/Imp/) (Score: 3672, Level:15)  | [Efreeti](/units/Efreeti/) (Score: 5685, Level:15)  | - | - |
   | - | - | - | - |
   | - | - | - | - |
 

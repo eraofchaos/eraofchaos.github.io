@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | - |
-  | - | - | ? | ? |
+  | - | - | [Pikeman](/units/Pikeman/) (Score: 7759, Level:24)  | [Pikeman](/units/Pikeman/) (Score: 7759, Level:24)  |
+  | - | - | [Swordsman](/units/Swordsman/) (Score: 12029, Level:24)  | [Cyclops](/units/Cyclops/) (Score: 7759, Level:24)  |
+  | - | - | [Ogre](/units/Ogre/) (Score: 7759, Level:24)  | - |
+  | - | - | [Cavalier](/units/Cavalier/) (Score: 7759, Level:24)  | [Cavalier](/units/Cavalier/) (Score: 7759, Level:24)  |
 
 

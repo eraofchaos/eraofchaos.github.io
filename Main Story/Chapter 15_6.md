@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
-  | ? | - | ? | - |
-  | ? | - | - | - |
-  | ? | - | - | - |
+  | [Naga](/units/Naga/) (Score: 64141, Level:55)  | [Vampire](/units/Vampire/) (Score: 64141, Level:55)  | [Gremlin](/units/Gremlin/) (Score: 64141, Level:55)  | [Gremlin](/units/Gremlin/) (Score: 64141, Level:55)  |
+  | [Naga](/units/Naga/) (Score: 64141, Level:55)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 64141, Level:55)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 64141, Level:55)  | - | - | - |
 
 

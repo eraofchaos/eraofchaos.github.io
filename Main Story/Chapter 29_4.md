@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | ? | ? | - | - |
+  | [Vampire](/units/Vampire/) (Score: 671778, Level:166)  | [Vampire](/units/Vampire/) (Score: 671778, Level:166)  | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 671778, Level:166)  | - | - | [Beholder](/units/Beholder/) (Score: 671778, Level:166)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 671778, Level:166)  | - | - | - |
+  | [Vampire](/units/Vampire/) (Score: 671778, Level:166)  | [Vampire](/units/Vampire/) (Score: 671778, Level:166)  | - | - |
 
 

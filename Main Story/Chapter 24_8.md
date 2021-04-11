@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | - | - | ? |
-  | ? | - | - | ? |
-  | - | - | - | ? |
+  | [Ogre](/units/Ogre/) (Score: 318664, Level:93)  | [Naga](/units/Naga/) (Score: 318664, Level:93)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 318664, Level:93)  | - | - | [Gremlin](/units/Gremlin/) (Score: 318664, Level:93)  |
+  | [Naga](/units/Naga/) (Score: 318664, Level:93)  | - | - | [Gremlin](/units/Gremlin/) (Score: 318664, Level:93)  |
+  | - | - | - | - |
 
 

@@ -34,9 +34,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | - | - |
-  | ? | - | - | - |
-  | - | ? | - | - |
+  | - | [Dire Wolf](/units/Dire Wolf/) (Score: 1964, Level:7)  | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 2879, Level:7)  | - | - | - |
+  | - | [Dire Wolf](/units/Dire Wolf/) (Score: 1964, Level:7)  | - | - |
   | - | - | - | - |
 
 

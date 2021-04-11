@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | - | ? | - |
+  | [Vampire](/units/Vampire/) (Score: 361974, Level:98)  | - | [Beholder](/units/Beholder/) (Score: 361974, Level:98)  | [Beholder](/units/Beholder/) (Score: 361974, Level:98)  |
+  | [Demon](/units/Demon/) (Score: 361974, Level:98)  | [Harpy](/units/Harpy/) (Score: 361974, Level:98)  | - | - |
+  | [Demon](/units/Demon/) (Score: 361974, Level:98)  | [Beholder](/units/Beholder/) (Score: 361974, Level:98)  | - | - |
+  | [Vampire](/units/Vampire/) (Score: 361974, Level:98)  | - | - | - |
 
 

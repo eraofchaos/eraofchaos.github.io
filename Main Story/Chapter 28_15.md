@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
-  | - | - | ? | ? |
+  | - | - | [Black Dragon](/units/Black Dragon/) (Score: 639448, Level:158)  | [Black Dragon](/units/Black Dragon/) (Score: 639448, Level:158)  |
+  | - | - | [Black Dragon](/units/Black Dragon/) (Score: 639448, Level:158)  | - |
+  | - | - | [Black Dragon](/units/Black Dragon/) (Score: 639448, Level:158)  | [Red Dragon](/units/Red Dragon/) (Score: 639448, Level:158)  |
+  | - | - | [Black Dragon](/units/Black Dragon/) (Score: 639448, Level:158)  | [Bone Dragon](/units/Bone Dragon/) (Score: 639448, Level:158)  |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | ? | ? |
+  | [Walking Dead](/units/Walking Dead/) (Score: 4221, Level:14)  | [Wight](/units/Wight/) (Score: 4221, Level:14)  | [Wight](/units/Wight/) (Score: 4221, Level:14)  | [Wight](/units/Wight/) (Score: 4221, Level:14)  |
   | - | - | - | - |
-  | ? | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 4221, Level:14)  | - | - | - |
   | - | - | - | - |
 
 

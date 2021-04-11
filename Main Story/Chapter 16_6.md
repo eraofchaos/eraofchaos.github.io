@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 75503, Level:61)  | [Wight](/units/Wight/) (Score: 75503, Level:61)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 75503, Level:61)  | [Pegasus](/units/Pegasus/) (Score: 75503, Level:61)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 75503, Level:61)  | [Pegasus](/units/Pegasus/) (Score: 75503, Level:61)  | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 75503, Level:61)  | - | - | - |
 
 

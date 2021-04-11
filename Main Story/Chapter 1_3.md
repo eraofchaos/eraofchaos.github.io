@@ -34,9 +34,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | - | ? | ? |
-  | - | ? | - | - |
-  | - | - | ? | - |
+  | - | - | [Monk](/units/Monk/) (Score: 1293, Level:3)  | [Monk](/units/Monk/) (Score: 1293, Level:3)  |
+  | - | [Dwarf](/units/Dwarf/) (Score: 1232, Level:3)  | - | - |
+  | - | - | [Monk](/units/Monk/) (Score: 1293, Level:3)  | - |
   | - | - | - | - |
 
 

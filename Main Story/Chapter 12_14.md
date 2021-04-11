@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | - | ? | ? |
-  | ? | - | ? | ? |
-  | ? | - | - | - |
-  | ? | ? | - | - |
+  | [Centaur](/units/Centaur/) (Score: 39970, Level:48)  | - | [Pegasus](/units/Pegasus/) (Score: 40199, Level:48)  | [Pegasus](/units/Pegasus/) (Score: 40199, Level:48)  |
+  | [Dwarf](/units/Dwarf/) (Score: 39894, Level:48)  | - | - | [Monk](/units/Monk/) (Score: 40123, Level:48)  |
+  | [Green Dragon](/units/Green Dragon/) (Score: 46375, Level:48)  | - | - | - |
+  | [Unicorn](/units/Unicorn/) (Score: 39970, Level:48)  | [Unicorn](/units/Unicorn/) (Score: 39970, Level:48)  | - | - |
 
 

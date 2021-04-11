@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 107399, Level:73)  | [Giant](/units/Giant/) (Score: 107399, Level:73)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 107399, Level:73)  | [Ice Elemental](/units/Ice Elemental/) (Score: 107399, Level:73)  | - | - |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 107399, Level:73)  | [Genie](/units/Genie/) (Score: 107399, Level:73)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 107399, Level:73)  | - | - | - |
 
 

@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ? | ? | ? |
-  | - | ? | ? | - |
-  | - | ? | ? | - |
-  | - | ? | ? | - |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 439978, Level:104)  | [Wood Elf](/units/Wood Elf/) (Score: 439978, Level:104)  | [Wood Elf](/units/Wood Elf/) (Score: 439978, Level:104)  |
+  | - | [Naga](/units/Naga/) (Score: 439978, Level:104)  | [Wood Elf](/units/Wood Elf/) (Score: 439978, Level:104)  | - |
+  | - | [Black Dragon](/units/Black Dragon/) (Score: 439978, Level:104)  | [Wood Elf](/units/Wood Elf/) (Score: 439978, Level:104)  | - |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 439978, Level:104)  | - | - |
 
 

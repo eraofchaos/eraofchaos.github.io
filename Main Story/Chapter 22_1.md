@@ -36,9 +36,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
-  | ? | ? | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 213896, Level:83)  | [Roc](/units/Roc/) (Score: 213896, Level:83)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 213896, Level:83)  | [Pegasus](/units/Pegasus/) (Score: 213896, Level:83)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 213896, Level:83)  | [Roc](/units/Roc/) (Score: 213896, Level:83)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 213896, Level:83)  | - | - | - |
 
 
