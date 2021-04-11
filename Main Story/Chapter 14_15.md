@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The beasts are going wild! Who can control them? Where has the damn beastmaster gone?
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

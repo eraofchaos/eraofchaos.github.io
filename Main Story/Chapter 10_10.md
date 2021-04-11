@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Krewlod doesn't belong to Crag Hack -- for now -- but to Duke Kendal. Kendal's forces are not strong. He needs an ally.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

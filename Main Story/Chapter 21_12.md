@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Orcs are not the cruel and harsh race that they are reputed to be. But many years of being downtrodden and abused by their rich neighbours while they starve and struggle to survive has left them with an innate loathing of the people of rich lands.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

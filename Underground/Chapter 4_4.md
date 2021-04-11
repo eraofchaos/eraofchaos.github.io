@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Challenge my authority, and I will show you the true meaning of power!
 
- **Related to:** [Chapter 4](/Underground/Chapter 4/)
+ **Related to:** [Underground Chapter 4](/Underground/Chapter 4/)
 
 ## Drop Reward
 

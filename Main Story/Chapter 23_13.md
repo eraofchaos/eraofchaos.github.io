@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Most dragons guard precious treasures but Rust Dragons guard piles of scrap metal. This may be the reason why warriors rarely hunt them.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

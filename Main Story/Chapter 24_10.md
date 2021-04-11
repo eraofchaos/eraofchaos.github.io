@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** There is a widespread legend in this area about a dragonslayer. If the dragonslayer manages to slay the dragon, they will fall for the treasures and eventually become a dragon themselves.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Bracada operates under a dual rule; it is controlled by both the Wizard Council and the Wizard King. The Wizard King, however, always has the ruling vote.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

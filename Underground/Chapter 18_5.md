@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Fire is the mightiest power in the world, the mightiest!
 
- **Related to:** [Chapter 18](/Underground/Chapter 18/)
+ **Related to:** [Underground Chapter 18](/Underground/Chapter 18/)
 
 ## Drop Reward
 

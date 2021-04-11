@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Snake-haired she-demons that love to build dwellings near water. Rumor has it that their ancestors offended an ancient deity, which resulted in them being turned into their current appearance.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

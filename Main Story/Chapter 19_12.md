@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Antagarich has the most advanced artifact-creation technology. Artifacts here are not mere containers for magic. They can be traded for precious products.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

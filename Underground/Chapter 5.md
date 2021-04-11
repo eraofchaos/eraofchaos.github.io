@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  # Chapters
+## Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [5-5 Final Victory](/Underground/Chapter 5_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Wood Elf](/Items/unt_201/){: .btn .btn--era4}, [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Arms](/Items/mat_18/){: .btn .btn--era3} |
 
 
-  # 15 Stars Rewards:
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/15</span>
 
  Reward 1:  **300x** <i class="fas fa-gem"/>
 

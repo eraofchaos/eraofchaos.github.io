@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** See that mouse on the hillside? Watch me shoot its brains out.
 
- **Related to:** [Chapter 11](/Underground/Chapter 11/)
+ **Related to:** [Underground Chapter 11](/Underground/Chapter 11/)
 
 ## Drop Reward
 

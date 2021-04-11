@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The world is full of secrets, waiting for us to discover them. 
 
- **Related to:** [Chapter 14](/Underground/Chapter 14/)
+ **Related to:** [Underground Chapter 14](/Underground/Chapter 14/)
 
 ## Drop Reward
 

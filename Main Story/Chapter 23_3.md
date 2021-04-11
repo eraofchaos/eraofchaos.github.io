@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Rust Dragons are different from other dragons. What they love more than anything is destruction. They breathe acid onto treasures and beautiful objects, turning them to dust.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You saw the most beautiful minstrel you've ever laid eyes on in a tavern. As you sat down she was singing a haunting song about the love between a witch and a bounty hunter.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

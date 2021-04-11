@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Damn these marshes! There's mud all over my beautiful armour!
 
- **Related to:** [Chapter 1](/Underground/Chapter 1/)
+ **Related to:** [Underground Chapter 1](/Underground/Chapter 1/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Most non-human races in Krewlod possess green skin. Many think that this coloring is due to a peculiar type of spore.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

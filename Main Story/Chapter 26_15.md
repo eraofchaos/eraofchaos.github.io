@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** According to Bracada's materials, Nighon was herded into the underground. Their ancestors were wanted by the barbarian empire of Jarg. All they can do is hide in the underground caves.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You may be wondering why you can see through me. It is because I am weak as yet. My elders tell me that, as I grow stronger, my form will become more substantial.
 
- **Related to:** [Chapter 11](/Underground/Chapter 11/)
+ **Related to:** [Underground Chapter 11](/Underground/Chapter 11/)
 
 ## Drop Reward
 

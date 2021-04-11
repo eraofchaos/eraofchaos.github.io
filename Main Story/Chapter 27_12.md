@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I heard that an ancient dragon perches nearby. It is the progenitor of dragons. Maybe I can get some help if I find it.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

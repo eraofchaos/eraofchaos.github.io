@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have rushed into the shrine, hoping that if we fight, even if we die, we can stop this.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

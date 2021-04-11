@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The forest is my birthplace and I will protect my homeland.
 
- **Related to:** [Chapter 23](/Underground/Chapter 23/)
+ **Related to:** [Underground Chapter 23](/Underground/Chapter 23/)
 
 ## Drop Reward
 

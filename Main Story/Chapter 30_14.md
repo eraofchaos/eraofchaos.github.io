@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Found in the Underworld, the Efreeti usually act as military advisors for Inferno armies and help them to strategize in battles.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

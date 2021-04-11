@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Do you want to make a wish? Naive creature! Let me claim your soul!
 
- **Related to:** [Chapter 14](/Underground/Chapter 14/)
+ **Related to:** [Underground Chapter 14](/Underground/Chapter 14/)
 
 ## Drop Reward
 

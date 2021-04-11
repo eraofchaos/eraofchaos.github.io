@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Don't fear it, embrace death peacefully.
 
- **Related to:** [Chapter 26](/Underground/Chapter 26/)
+ **Related to:** [Underground Chapter 26](/Underground/Chapter 26/)
 
 ## Drop Reward
 

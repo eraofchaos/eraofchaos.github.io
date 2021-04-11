@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The holy sanctuary has, forever and always, provided protection for heroes, keeping them safe from their enemies' pursuit.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

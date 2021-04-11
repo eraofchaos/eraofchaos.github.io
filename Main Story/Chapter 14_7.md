@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Every time we think we're free, we are attacked again, or we fall into some kind of trap. The men are exhausted. I can only hope that we're past the worst of it.
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

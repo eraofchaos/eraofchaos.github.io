@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** During the march, you never forget teachings of your mother: \"Move forward without hesitation, and you will not get lost.\"
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You awoke this morning from a dream of your house razed to the ground, everyone you know and love brutally slaughtered. You pulled on your armour, determined to destroy your enemies before they could destroy you.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Death is not the end. Paradise in the afterlife awaits. Fight! Warriors!
 
- **Related to:** [Chapter 16](/Underground/Chapter 16/)
+ **Related to:** [Underground Chapter 16](/Underground/Chapter 16/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** They say Howard's ancestors drank the blood of the dragon father. For this, his family have kept their flag flying for decades.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Life is endless.
 
- **Related to:** [Chapter 22](/Underground/Chapter 22/)
+ **Related to:** [Underground Chapter 22](/Underground/Chapter 22/)
 
 ## Drop Reward
 

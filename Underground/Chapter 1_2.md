@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Look at these pitiful humans. We will bring them as gifts to our Overlord.
 
- **Related to:** [Chapter 1](/Underground/Chapter 1/)
+ **Related to:** [Underground Chapter 1](/Underground/Chapter 1/)
 
 ## Drop Reward
 

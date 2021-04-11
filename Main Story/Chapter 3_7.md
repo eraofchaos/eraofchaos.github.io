@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** During Kreegan the tyrant's bloody reign, winged creatures were rumoured to have destroyed a great number of demons in battle.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

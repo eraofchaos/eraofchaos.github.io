@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Where there is shadow, there is light. Where there is life, there is death.
 
- **Related to:** [Chapter 25](/Underground/Chapter 25/)
+ **Related to:** [Underground Chapter 25](/Underground/Chapter 25/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Like the Empire of Bracaduun before it, Bracada is a sovereign country but one with an active government. Its king does not involve himself in daily matters.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

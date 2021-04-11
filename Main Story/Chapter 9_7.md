@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The swamps around here are littered with corpses and ghosts. Get rid of the elves quickly. Our friends from the Stronghold might need our help.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

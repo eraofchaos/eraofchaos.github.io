@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** An open-air crystal mine. The magic intrinsic to this land is familiar to Dracon. It seems her mother once lived here.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

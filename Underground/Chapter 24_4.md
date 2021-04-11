@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The big fish eat up the small ones. That's natural selection.
 
- **Related to:** [Chapter 24](/Underground/Chapter 24/)
+ **Related to:** [Underground Chapter 24](/Underground/Chapter 24/)
 
 ## Drop Reward
 

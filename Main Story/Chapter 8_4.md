@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** These silly human soldiers, so weak, so helpless… they see their impending death but do nothing to prevent it.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

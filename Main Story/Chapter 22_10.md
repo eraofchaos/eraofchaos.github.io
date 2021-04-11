@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You find a cluster of glittering crystal shards on the ground at a crossway. They may be for luring passengers into a trap or they may mean a Crystal Dragon is near.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

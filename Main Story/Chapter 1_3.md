@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The legendary fountain of youth that can renew the life of whoever drinks from it. The fountain was destroyed by a group of religious zealots.
 
- **Related to:** [Chapter 1](/Main Story/Chapter 1/)
+ **Related to:** [Main Story Chapter 1](/Main Story/Chapter 1/)
 
 ## Drop Reward
 

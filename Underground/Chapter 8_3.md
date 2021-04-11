@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Do you think we can take them? Them, over there. The merchants. There are only a few of them, and they're so rich...
 
- **Related to:** [Chapter 8](/Underground/Chapter 8/)
+ **Related to:** [Underground Chapter 8](/Underground/Chapter 8/)
 
 ## Drop Reward
 

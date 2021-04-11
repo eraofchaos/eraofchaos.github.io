@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  # Chapters
+## Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [1-5 A Close Call](/Underground/Chapter 1_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Cavalier ](/Items/unt_195/){: .btn .btn--era4}, [Common Gems](/Items/mat_10/){: .btn .btn--era2}, [Inferior Crystal](/Items/mat_5/){: .btn .btn--era1} |
 
 
-  # 15 Stars Rewards:
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/15</span>
 
  Reward 1:  **200x** <i class="fas fa-gem"/>
 

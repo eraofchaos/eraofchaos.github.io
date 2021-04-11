@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Crossing the territory of the ghosts has cost us dearly. We must rest and recuperate before we travel onwards. We have to find out what happened at Krewlod.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

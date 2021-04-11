@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The glory and honor of the Empire is ours to guard with our lives.
 
- **Related to:** [Chapter 3](/Underground/Chapter 3/)
+ **Related to:** [Underground Chapter 3](/Underground/Chapter 3/)
 
 ## Drop Reward
 

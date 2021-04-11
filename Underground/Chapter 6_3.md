@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** My heart yearns for it, and yet... I sense danger. What should I do?
 
- **Related to:** [Chapter 6](/Underground/Chapter 6/)
+ **Related to:** [Underground Chapter 6](/Underground/Chapter 6/)
 
 ## Drop Reward
 

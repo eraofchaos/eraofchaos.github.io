@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Queen Catherine may not know the rumors that surround King Gryphonheart's death. Many do not believe it was a natural death.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Pierpont is a shadow of what it once was. It fell to the demons after one of the elves, formerly a hero, betrayed his people and disclosed the hidden city to demonic forces. He still fights alongside the demons of Eeofol.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

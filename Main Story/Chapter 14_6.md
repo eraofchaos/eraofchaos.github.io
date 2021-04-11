@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We are under siege from a beast that defies description. I've never seen anything like it before. Our situation is dire.
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

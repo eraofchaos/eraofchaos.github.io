@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Some say that Faerie Dragons are so hard to find because they can become invisible. Some say they're only 3 feet tall. One thing is clear. They are capable of casting powerful spells.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

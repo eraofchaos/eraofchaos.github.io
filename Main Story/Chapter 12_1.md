@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Crag Hack is surrounded and defeated. Now we should identify our enemy in the south.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

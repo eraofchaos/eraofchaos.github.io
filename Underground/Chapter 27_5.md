@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The wildest storm also has a calm heart.
 
- **Related to:** [Chapter 27](/Underground/Chapter 27/)
+ **Related to:** [Underground Chapter 27](/Underground/Chapter 27/)
 
 ## Drop Reward
 

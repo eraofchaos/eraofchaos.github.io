@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You've rescued a trapped Centaur from certain death. As a thank you, he rewards you with a small leather pouch. When you open it, you find a ring.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

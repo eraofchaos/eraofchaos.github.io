@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Incredible! A dragon lives in this deathly swamp! Although this dragon seems strange...
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

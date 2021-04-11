@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You have arrived at a mercenary camp. They are training, and invite you and your army to join them.
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

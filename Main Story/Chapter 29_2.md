@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** When a necromancer becomes a Lich, they will often construct their own tomb to guard the receptacle that houses their soul.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

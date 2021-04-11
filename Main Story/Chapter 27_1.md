@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Thanks to the underground magic radiation, Nighon produces unique and powerful treasures. However, most are used in eternal struggles.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

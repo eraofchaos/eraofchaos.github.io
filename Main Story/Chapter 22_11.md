@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Red Dragons and Black Dragons are the allies of the Nighon Kingdom. Their lairs are deep underground in an attempt to shield them from the harsh environment. Their constant battle against the elements may be what leads to their sympathy to the Nighon Kingdom, who face the same environmental hardships.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

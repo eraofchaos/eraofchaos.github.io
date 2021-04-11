@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have been waiting here for a long, long time. One day we will be needed once more.
 
- **Related to:** [Chapter 4](/Underground/Chapter 4/)
+ **Related to:** [Underground Chapter 4](/Underground/Chapter 4/)
 
 ## Drop Reward
 

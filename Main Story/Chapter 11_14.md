@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have to direct Crag Hack's attention to his enemy in the north, but we can't let him leave his troops behind.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

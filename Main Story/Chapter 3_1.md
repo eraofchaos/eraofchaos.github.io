@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Many years ago, an epic battle was fought here. A great hero fell on the battlefield that day, and here lies his sepulchre.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

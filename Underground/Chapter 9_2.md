@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Please do not interrupt me! I am considering the meaning of life. What is it? ...No, I've lost it.
 
- **Related to:** [Chapter 9](/Underground/Chapter 9/)
+ **Related to:** [Underground Chapter 9](/Underground/Chapter 9/)
 
 ## Drop Reward
 

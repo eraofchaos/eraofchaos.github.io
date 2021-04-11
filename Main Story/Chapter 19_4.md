@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The betrayal of Yog lead people to question the whole concept of the Bracada. It lead to the biggest political crisis since the banishment of the necromancers.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Necromancy came about accidentally as a result of magical experimentation. It is now widespread, allowing unscrupulous wizards to have dominion over the bodies of those who have passed away.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

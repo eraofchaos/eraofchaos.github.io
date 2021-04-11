@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A violent storm whipped up out of nowhere as your troop were patrolling in the hills. You sheltered within a cave and were surprised to see a point of light shining from within its depths. You followed the light for what felt like miles and found a mysterious cape.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

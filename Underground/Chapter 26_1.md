@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The sky should be our home. But why...
 
- **Related to:** [Chapter 26](/Underground/Chapter 26/)
+ **Related to:** [Underground Chapter 26](/Underground/Chapter 26/)
 
 ## Drop Reward
 

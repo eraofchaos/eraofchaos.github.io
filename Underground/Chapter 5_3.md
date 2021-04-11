@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Stop chasing! Gog will kill you with fire. Go away!
 
- **Related to:** [Chapter 5](/Underground/Chapter 5/)
+ **Related to:** [Underground Chapter 5](/Underground/Chapter 5/)
 
 ## Drop Reward
 

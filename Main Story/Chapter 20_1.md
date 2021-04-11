@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In the Battle of Steelhorn, Gavin Magnus was slain by a Behemoth of Tarnum. True to his reputation, however, he didn't stay dead for long.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

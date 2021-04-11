@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** To defend against the imminent demonic invasion, the people of Avlee trained a small army of Rangers. Capable of living in the forest for long stretches of time completely undetected, they were easily able to sneak past their enemies' front line and attack them from behind.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

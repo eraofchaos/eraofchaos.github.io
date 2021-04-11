@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This tower was originally built to defend humans against elven forces, but as the two species grew closer, it became more of a middle ground: a place for elven and human communications.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

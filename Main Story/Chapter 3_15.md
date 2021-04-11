@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Many people are so afraid of Dendroid Guards, in all their towering bulk, that they forget the rain of arrows that issues forth from behind them.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

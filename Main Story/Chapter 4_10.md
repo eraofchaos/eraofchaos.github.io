@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This place is where the Griffins of Erathia breed. It is now under the control of Nighon and Eeofol.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

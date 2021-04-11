@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The dwarves are renowned craftsmen. The mages of the Mage Tower often came here to order Iron Golem puppets. Some Iron Golems still remain, watching over their territory.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

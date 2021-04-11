@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Late at night you hear a noise; you awake instantly. You're surrounded by an unholy mass of Walking Deads and ghosts. How did they arrive so swiftly? Is there sorcery afoot?
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

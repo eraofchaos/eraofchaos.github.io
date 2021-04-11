@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Mutare received a letter from a wise man living nearby. She needs their support if she hopes to sit on the throne of Nighon someday.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

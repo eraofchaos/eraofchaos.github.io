@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have received a missive from our friend. A suggestion of surrender. That we unite with Crag Hack to conquer this swamp.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

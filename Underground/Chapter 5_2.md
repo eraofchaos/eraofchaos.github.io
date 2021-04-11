@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** War is but an inconvenience. Peace will come once more, and everyone will be able to live happily ever after.
 
- **Related to:** [Chapter 5](/Underground/Chapter 5/)
+ **Related to:** [Underground Chapter 5](/Underground/Chapter 5/)
 
 ## Drop Reward
 

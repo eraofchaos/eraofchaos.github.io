@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The soldiers' deaths at the Stronghold should serve as a warning for us. We could have saved them, but we didn't. We were neglecting our duties and we didn't even know it.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

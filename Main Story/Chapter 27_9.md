@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Mines of noble metals are scattered over Nighon. That's why Nighon's lords are rich even though they live in such harsh conditions.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

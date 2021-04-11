@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Few foods are edible and safe underground, so those subterranean dwellers are dependent on fungus as their staple food and for brewing.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

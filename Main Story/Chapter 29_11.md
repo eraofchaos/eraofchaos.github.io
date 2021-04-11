@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A famed warrior was buried here. Your men reluctantly entered the tomb. Not only did they fail to return with anything, their morale was also lowered.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

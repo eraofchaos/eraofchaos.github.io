@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** My body shall be the shield of my people.
 
- **Related to:** [Chapter 20](/Underground/Chapter 20/)
+ **Related to:** [Underground Chapter 20](/Underground/Chapter 20/)
 
 ## Drop Reward
 

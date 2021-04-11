@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The alliance of the Elves and the Dwarves in Avlee granted the world most of the powerful artifacts in existence.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

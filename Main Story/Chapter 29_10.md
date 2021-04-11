@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This Rampart city named Luck seems to have been lucky enough to escape the shadows of war intact.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

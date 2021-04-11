@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A huge statue of earth guardian is erected in Nighon cities. Legends say that the earth guardian will be the leader of Nighon and show them the way to defeat the dragons in the war.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

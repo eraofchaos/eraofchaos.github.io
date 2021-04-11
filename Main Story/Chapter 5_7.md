@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The demons' internal power struggles have given the elves, humans and other races a chance to resist. If the demons were united, none could stand against them.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

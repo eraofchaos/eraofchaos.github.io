@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** As you approach, the learning stone's glossy surface starts to move and change, answering a question that has troubled you for many years. After this, the stone grows still again, but you have learned a great deal.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

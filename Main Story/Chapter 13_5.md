@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** As soon as we defeat one group of enemies, another comes. This time we have nowhere to turn. We have to attack them head-on.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A secret order named Saines claimed that magic is not the only way to explain and master the universe. They have discovered the laws of nature.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

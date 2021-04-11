@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Kleesive is an infernal city filled with sulfur and death. Kleesive also acts as the command center during Inferno invasions.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

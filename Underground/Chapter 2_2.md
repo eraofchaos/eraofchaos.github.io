@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Admire my beautiful feathers and watch my lightning turn our enemies to dust.
 
- **Related to:** [Chapter 2](/Underground/Chapter 2/)
+ **Related to:** [Underground Chapter 2](/Underground/Chapter 2/)
 
 ## Drop Reward
 

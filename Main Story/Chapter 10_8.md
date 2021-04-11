@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** One of the factions is led by Crag Hack. A strong and terrible man, he has seized the most land -- and has the greatest ambition.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

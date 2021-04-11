@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Yog was once deeply in love with a girl named Vidomina. Rumour has it that she later became a necromancer after discovering the key to forbidden magic.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** As long as the magic of the necromancers can still summon the undead to their troops, they have as many soldiers as they want. If we leave them alone they will become stronger and stronger.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

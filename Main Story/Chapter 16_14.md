@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A noble and brave ranger was ambushed by a necromancer. Just when he thought he'd breathed his last, you managed to sneak up and attack the necromancer, stunning him and rescuing the ranger. Grateful for your help, he joined your army. 
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

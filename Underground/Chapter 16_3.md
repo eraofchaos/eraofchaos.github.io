@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Letting arrows fly is the only purpose left in my life.
 
- **Related to:** [Chapter 16](/Underground/Chapter 16/)
+ **Related to:** [Underground Chapter 16](/Underground/Chapter 16/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We were attacked by fierce monsters, but our lord led us to victory! We have protected the base and now we prepare for counterattack.
 
- **Related to:** [Chapter 1](/Underground/Chapter 1/)
+ **Related to:** [Underground Chapter 1](/Underground/Chapter 1/)
 
 ## Drop Reward
 

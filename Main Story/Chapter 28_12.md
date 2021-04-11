@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** An abandoned church. After a necromancer occupied the area and cast their foul magic, it became a temple for enlisting Skeletons.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

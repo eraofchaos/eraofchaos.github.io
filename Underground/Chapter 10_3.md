@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** How did I end up like this? I seem to be... unconscious. I feel... strange.
 
- **Related to:** [Chapter 10](/Underground/Chapter 10/)
+ **Related to:** [Underground Chapter 10](/Underground/Chapter 10/)
 
 ## Drop Reward
 

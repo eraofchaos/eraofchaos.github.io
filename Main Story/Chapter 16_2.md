@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A bounty hunter is pleading for your help. His daughter ran away from home after a silly fight about a card game and he can't find her anywhere.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

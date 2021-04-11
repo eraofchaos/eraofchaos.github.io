@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Most dragons have the ability to control the weather, temporarily changing the climate. This lets them launch swift, unexpected attacks on their enemies.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

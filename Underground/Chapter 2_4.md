@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I have lived for ten thousand years... perhaps longer. I am the oldest of the dendroids.
 
- **Related to:** [Chapter 2](/Underground/Chapter 2/)
+ **Related to:** [Underground Chapter 2](/Underground/Chapter 2/)
 
 ## Drop Reward
 

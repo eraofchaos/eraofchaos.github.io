@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A strong sulfuric stench emanates from the scorched earth close to the lava. The burning sulfur emits a greenish flame and has a piercing odor.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Demons possess a portal to the Erathian continent. In the past they have used this portal to send invading troops. They came close to destroying the continent.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

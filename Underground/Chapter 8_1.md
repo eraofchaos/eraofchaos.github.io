@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You should run as far away as you can! I'll kill anyone in my path when I'm mad! I've slaughtered so many friends and allies...
 
- **Related to:** [Chapter 8](/Underground/Chapter 8/)
+ **Related to:** [Underground Chapter 8](/Underground/Chapter 8/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I left my people because I couldn't get what I wanted.
 
- **Related to:** [Chapter 22](/Underground/Chapter 22/)
+ **Related to:** [Underground Chapter 22](/Underground/Chapter 22/)
 
 ## Drop Reward
 

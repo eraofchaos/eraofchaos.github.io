@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The Gold Dragon Queen is a powerful ally of Avlee. She ensures that demons and other evil forces are unable to pass through her forest.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Lesser demons have no rights. The only reason they exist is to serve the higher demons, and they are sent into battle after battle to die.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

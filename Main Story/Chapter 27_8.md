@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The underground dwellers prefer studying earth magic due to the environment they live in. Don't expect too much when you visit their cities.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

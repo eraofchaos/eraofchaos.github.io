@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I will devote myself to protecting the power of nature!
 
- **Related to:** [Chapter 15](/Underground/Chapter 15/)
+ **Related to:** [Underground Chapter 15](/Underground/Chapter 15/)
 
 ## Drop Reward
 

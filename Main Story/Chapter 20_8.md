@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In Antagarich, every city has its own magic guild. Different guilds have different research directions based on their culture and custom.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

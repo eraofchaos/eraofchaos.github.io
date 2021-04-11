@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Talent determines where you start, but persistence has no end. 
 
- **Related to:** [Chapter 21](/Underground/Chapter 21/)
+ **Related to:** [Underground Chapter 21](/Underground/Chapter 21/)
 
 ## Drop Reward
 

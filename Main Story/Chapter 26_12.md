@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Harpies nest in huge caves underground which are roomy enough for them to extend their wings.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

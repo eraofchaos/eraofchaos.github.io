@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This place has been occupied by enemy forces for some time. Liberating it will be the first step in the restoration of Erathia.
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

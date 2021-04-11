@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A hut in which hunters dwell. Ordinarily, there would be wild animals wandering nearby. Only during the Season of Harvest do people come to live here.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

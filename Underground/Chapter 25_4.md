@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You got a death wish? Hehe. I haven't said yes.
 
- **Related to:** [Chapter 25](/Underground/Chapter 25/)
+ **Related to:** [Underground Chapter 25](/Underground/Chapter 25/)
 
 ## Drop Reward
 

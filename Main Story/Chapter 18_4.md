@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A group of merchants travelling up from the south told you some terrible tales of what they'd seen on the road. A human king was the prisoner of demons; they kept him in a cage, jeering and laughing at him.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

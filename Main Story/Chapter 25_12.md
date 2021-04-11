@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Nighon is very concerned about children's education. For cultivating military talents, a Combat Academy is built in their city, along with a Magic Guild.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

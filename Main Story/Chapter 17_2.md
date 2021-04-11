@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** With your help, a troop of knights managed to escape from a pursuing dragon. As thanks, they told you the latest news of Eeofol on the battlefield of Erathia.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This will be the last battle. The city houses the elves' strongest soldiers. Have we made enough preparations for a long siege?
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

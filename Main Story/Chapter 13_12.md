@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Two armies battle on the plain. Blood and viscera mingle with fallen swords and useless armour. The only sounds are cries, screams and the ringing of sword on sword. We charge.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

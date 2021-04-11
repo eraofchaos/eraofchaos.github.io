@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** An elven cartographer wanted to sell you the Griffin Cliff map, but it was stolen during the night. 
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

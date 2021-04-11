@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This crystal mine has been damaged, both by demons and by its proximity to the volcano. This seems an opportune moment to seize control of it.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

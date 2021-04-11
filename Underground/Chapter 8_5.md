@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The totem represents our faith. When I fall, others shall rise. You may kill me, but you cannot kill our faith.
 
- **Related to:** [Chapter 8](/Underground/Chapter 8/)
+ **Related to:** [Underground Chapter 8](/Underground/Chapter 8/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Accept it. Embrace it. Fall into a perpetual slumber in the ice!
 
- **Related to:** [Chapter 20](/Underground/Chapter 20/)
+ **Related to:** [Underground Chapter 20](/Underground/Chapter 20/)
 
 ## Drop Reward
 

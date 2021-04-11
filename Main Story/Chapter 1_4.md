@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The Tree of Knowledge does not want to teach you its secrets of many years. It seems that you are not the first visitor.
 
- **Related to:** [Chapter 1](/Main Story/Chapter 1/)
+ **Related to:** [Main Story Chapter 1](/Main Story/Chapter 1/)
 
 ## Drop Reward
 

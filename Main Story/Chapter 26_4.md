@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The head streams of most of subterranean rivers are located on the surface. They are winding and connecting to one another. Nighon developed trading along rivers to meet each others' needs.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

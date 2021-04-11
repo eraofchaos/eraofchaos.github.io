@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Faerie Dragons prefer tricking their enemies into surrendering rather than fighting face to face.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

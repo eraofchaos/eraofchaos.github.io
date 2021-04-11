@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Giant mountains lie between Krewlod and Bracada. It's said that they were magical barriers formed during the Empire of Bracaduun.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

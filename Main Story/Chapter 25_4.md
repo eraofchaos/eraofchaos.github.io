@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Mutare's family can control the power of dragons. Someone said that the dragon blood flows in their veins and some believed that they made a sort of covenant with dragons.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

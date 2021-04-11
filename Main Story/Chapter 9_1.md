@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** News of the elves' collapse has not yet reached this place. We should infiltrate their stronghold before they have a chance to arm themselves.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

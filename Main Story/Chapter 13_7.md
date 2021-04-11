@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have escaped, but a group of sentries saw us flee. We must dispatch them quickly or all of our work will be for nothing.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

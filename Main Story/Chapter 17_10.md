@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You slew a wolf that had been stalking a small boy as he played in the forest. The boy's father gave you a Badge of Courage in thanks.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

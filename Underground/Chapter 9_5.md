@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Pay no heed to that other prophet's balderdash. He is mad. Erathia will not fall.
 
- **Related to:** [Chapter 9](/Underground/Chapter 9/)
+ **Related to:** [Underground Chapter 9](/Underground/Chapter 9/)
 
 ## Drop Reward
 

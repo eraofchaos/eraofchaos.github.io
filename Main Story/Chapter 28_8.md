@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A towering pile of rocks. In an attempt to avoid the war, the dwarf craftsmen collapsed the cave, guarding themselves from impending battle.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

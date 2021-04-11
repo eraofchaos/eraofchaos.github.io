@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The history of Krewlod was told by minstrels through stories and poems. Their music acts as the common memory of all the tribes of Krewlod.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

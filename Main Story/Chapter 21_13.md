@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Tatalia, like Krewlod, was ruled by a ruthless leader who cared little for his people. However, the two countries never united, preferring to squabble over resources and small patches of land.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

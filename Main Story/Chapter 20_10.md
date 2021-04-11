@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A concealed castle where you can rest and resupply while hiding your army from enemies. The castle, while well-hidden, is quite poorly defended.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

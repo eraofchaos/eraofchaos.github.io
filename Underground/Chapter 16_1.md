@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The power of an individual is small, but the power of all is unstoppable!
 
- **Related to:** [Chapter 16](/Underground/Chapter 16/)
+ **Related to:** [Underground Chapter 16](/Underground/Chapter 16/)
 
 ## Drop Reward
 

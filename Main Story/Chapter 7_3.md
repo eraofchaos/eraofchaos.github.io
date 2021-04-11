@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Compared to other humans, members of these tribes are physically stronger. However, their craftsmanship, technology, and culture are far behind that of their contemporaries. Their style of fashion shows as much.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

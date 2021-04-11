@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The guard will not let you pass without the assent of the local leader.
 
- **Related to:** [Chapter 1](/Main Story/Chapter 1/)
+ **Related to:** [Main Story Chapter 1](/Main Story/Chapter 1/)
 
 ## Drop Reward
 

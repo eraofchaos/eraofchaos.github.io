@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Our enemy has been routed and they are retreating. A few still resist. I respect their courage, but they must die.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

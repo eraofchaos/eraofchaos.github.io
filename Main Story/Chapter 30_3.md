@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Everyone knows that the winged Pegasus is a symbol of holiness, but here, you don't see the female Elven knight standing heroically on the battlefield.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Fighting these creatures is becoming harder and harder. It seems as though they don't want us to go any further in this direction. Fight harder, men! Your work is almost done!
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

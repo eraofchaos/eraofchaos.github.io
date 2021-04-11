@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You came to a library seeking new knowledge, but it was completely empty, devoid of both people and books.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

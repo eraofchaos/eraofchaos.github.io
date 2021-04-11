@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Becoming a Lich isn't only about immortality. Over such a long life, we gather infinite wisdom! Doesn't that seem worth it? All you have to sacrifice is your flesh...
 
- **Related to:** [Chapter 4](/Underground/Chapter 4/)
+ **Related to:** [Underground Chapter 4](/Underground/Chapter 4/)
 
 ## Drop Reward
 

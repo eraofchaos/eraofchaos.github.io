@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I must take care. The enemy has caught wind of my attack and fled! This makes my mission a little harder.
 
- **Related to:** [Chapter 12](/Underground/Chapter 12/)
+ **Related to:** [Underground Chapter 12](/Underground/Chapter 12/)
 
 ## Drop Reward
 

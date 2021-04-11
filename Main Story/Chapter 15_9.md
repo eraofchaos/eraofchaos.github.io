@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Damn, why would the insurgents come here? How did they follow us? They seem disheveled, disorganised. Have they tasted defeat? In the cold light of day they no longer seem frightening. Just a sad group of scruffy men.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

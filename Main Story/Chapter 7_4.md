@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** They wear little, and what they do wear is largely made of scraps and patches.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

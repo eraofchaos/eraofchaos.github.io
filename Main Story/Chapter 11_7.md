@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Apparently our friend is still infamous in some parts. He has joined Crag Hack's army. The meaning of this is clear.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

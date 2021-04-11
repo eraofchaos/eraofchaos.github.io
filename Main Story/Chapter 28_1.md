@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The dungeon overlords have constructed a massive underground network, which gives the enemy the capability to retreat and replenish supplies. It will be quite difficult to expel them.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The enemy did not follow us into the swamp. It's quiet. Too quiet. I can feel something lurking, watching us.
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

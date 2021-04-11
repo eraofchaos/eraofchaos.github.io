@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** There are Angels in this city, but they have been captured by demon forces.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

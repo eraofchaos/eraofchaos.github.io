@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A strange and sinister mage appeared in your camp. He claims he can travel between planes and see into the deepest depths of the mind.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

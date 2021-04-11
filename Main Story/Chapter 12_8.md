@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** If we're going to learn more, we need an officer... someone who knows the Erathian strategy. 
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

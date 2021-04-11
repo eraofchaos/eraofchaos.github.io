@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** To stop Tarnum from achieving his cause, all tribes loyal to the wizards sent their assassins to stop him. But what failed in the light cannot succeed in the dark and Tarnum carried on.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

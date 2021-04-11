@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A famous sulfur mining city in the north signed a long-term trade agreement with Bracada. Now, the city is home to both Rust Dragons and barbarians.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

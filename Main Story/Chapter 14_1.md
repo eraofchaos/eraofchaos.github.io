@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We are about to infiltrate the enemy. A difficult mission. We will need either to avoid their patrols or to eliminate them with haste.
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

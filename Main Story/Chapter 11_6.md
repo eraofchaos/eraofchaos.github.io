@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have found a few Orcs who are willing to sell information. They walk murky paths all year round, and hold nothing but contempt for the law. Their knowledge, however, is second to none.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

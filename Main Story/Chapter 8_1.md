@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** These soldiers know they cannot resist their enemy. Why do they still stand to the end? It's hard to understand them.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

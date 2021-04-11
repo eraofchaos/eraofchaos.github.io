@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** How beautiful this power is! This is magic. This is incredible magic!
 
- **Related to:** [Chapter 17](/Underground/Chapter 17/)
+ **Related to:** [Underground Chapter 17](/Underground/Chapter 17/)
 
 ## Drop Reward
 

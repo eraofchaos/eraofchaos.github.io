@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Our enemy's left flank has broken! Charge them and eradicate every single one.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

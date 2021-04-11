@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The force of right is my sustenance, my addiction, and my reason for being.
 
- **Related to:** [Chapter 7](/Underground/Chapter 7/)
+ **Related to:** [Underground Chapter 7](/Underground/Chapter 7/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The private library of the Immortal King is a great castle with walls upon walls of precious books. Anyone bearing the mark of Magnus can enter. If not, they must defeat the library's guards.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Our plan went far more smoothly than we dared hope. The enemy in the north was much stronger than anticipated. Both parties shall suffer grave losses. This is our chance.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

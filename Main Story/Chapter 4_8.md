@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The Griffin is the pennant of the Gryphonheart Family. Earning support from the Griffins would mean a great deal to Queen Catherine's cause.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

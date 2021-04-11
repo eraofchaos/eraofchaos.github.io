@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** None shall pass! You don't want my teeth in your neck, stranger.
 
- **Related to:** [Chapter 3](/Underground/Chapter 3/)
+ **Related to:** [Underground Chapter 3](/Underground/Chapter 3/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** It is surprising to find yet another city. Its defenses do not seem as strong as the last, but it is more populous. Let's sneak in and see what we can do.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

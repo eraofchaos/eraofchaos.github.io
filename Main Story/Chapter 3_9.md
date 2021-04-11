@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The Angels of Fair Feather guard this land. You have to prove to them that you are no ally of the demonic forces.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

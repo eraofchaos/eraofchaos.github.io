@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Poor souls. They know very little. They are merely following orders: keep everyone away from the north.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

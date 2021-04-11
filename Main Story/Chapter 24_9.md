@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Some dragons join a dragonslaying team long enough to understand their plan, then use words and spells to trick them into deadly traps.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

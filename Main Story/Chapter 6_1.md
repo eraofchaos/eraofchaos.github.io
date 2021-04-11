@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This small island in the middle of the sea has long been abandoned by demons, who did not fare well in the gloom and the damp. It has since become a haven for ghosts.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

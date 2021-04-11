@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  # Chapters
+## Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [11-5 Fighting the Undead](/Underground/Chapter 11_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Wood Elf](/Items/unt_201/){: .btn .btn--era4}, [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_39/){: .btn .btn--era4} |
 
 
-  # 15 Stars Rewards:
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/15</span>
 
  Reward 1:  **450x** <i class="fas fa-gem"/>
 

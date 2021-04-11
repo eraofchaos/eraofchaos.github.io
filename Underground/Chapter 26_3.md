@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I...I miss my father...
 
- **Related to:** [Chapter 26](/Underground/Chapter 26/)
+ **Related to:** [Underground Chapter 26](/Underground/Chapter 26/)
 
 ## Drop Reward
 

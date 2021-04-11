@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Take my bat!
 
- **Related to:** [Chapter 15](/Underground/Chapter 15/)
+ **Related to:** [Underground Chapter 15](/Underground/Chapter 15/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Resistance is futile. Flames will purify your soul!
 
- **Related to:** [Chapter 25](/Underground/Chapter 25/)
+ **Related to:** [Underground Chapter 25](/Underground/Chapter 25/)
 
 ## Drop Reward
 

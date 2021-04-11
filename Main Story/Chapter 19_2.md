@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The Empire of Bracaduun colonized Krewlod and Tatalia, appointing representatives to execute a harsh and punitive rule upon the natives.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

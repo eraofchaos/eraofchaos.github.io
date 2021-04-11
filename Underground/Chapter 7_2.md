@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Orcs will have freedom. We will be our own masters.
 
- **Related to:** [Chapter 7](/Underground/Chapter 7/)
+ **Related to:** [Underground Chapter 7](/Underground/Chapter 7/)
 
 ## Drop Reward
 

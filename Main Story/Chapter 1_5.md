@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The defending troops do not welcome your arrival. Their leader refuses to pledge loyalty to anyone.
 
- **Related to:** [Chapter 1](/Main Story/Chapter 1/)
+ **Related to:** [Main Story Chapter 1](/Main Story/Chapter 1/)
 
 ## Drop Reward
 

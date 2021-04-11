@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Graar! My wings fill the sky and eclipse the sun. Kneel before me and pray, puny mortals.
 
- **Related to:** [Chapter 13](/Underground/Chapter 13/)
+ **Related to:** [Underground Chapter 13](/Underground/Chapter 13/)
 
 ## Drop Reward
 

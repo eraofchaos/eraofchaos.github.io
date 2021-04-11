@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You found yourself trapped in a crypt, surrounded by hoards of the living dead. You fought them off but they just kept coming. Just as you were overrun, a haunting melody drifted into the crypt, scattering the creatures. You owe your life to the old shapeshifter who played that song.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

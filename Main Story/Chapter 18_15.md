@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Pierpont has remained hidden for many years, but its position was shared with demonic forces by fleeing refugees.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Although the Manticores are of the Underground, they grow terrifying large wings. It is this special anatomy that makes them able to use rapid dive attacks.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

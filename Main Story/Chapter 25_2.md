@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Unlike the upper world, the underground world has a unique ecological environment. Both worlds exist like two parallel lines. Only human beings and some intelligent creatures can be the visitors in these two worlds.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

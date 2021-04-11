@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The rigid class system has caused rifts among the demons. The higher demons are locked in prolonged power struggles, and the entire race is all the weaker for it.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

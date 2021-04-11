@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Elves delight in nature, making their homes in lush forests and by beautiful lakes. They are not without their faults though; many find them vain.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

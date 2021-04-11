@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You don't wanna meet me in the labyrinth.
 
- **Related to:** [Chapter 24](/Underground/Chapter 24/)
+ **Related to:** [Underground Chapter 24](/Underground/Chapter 24/)
 
 ## Drop Reward
 

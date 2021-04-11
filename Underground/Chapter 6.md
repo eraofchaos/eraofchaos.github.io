@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  # Chapters
+## Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [6-5 Mission Accomplished](/Underground/Chapter 6_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Unicorn](/Items/unt_204/){: .btn .btn--era4}, [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3} |
 
 
-  # 15 Stars Rewards:
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/15</span>
 
  Reward 1:  **300x** <i class="fas fa-gem"/>
 

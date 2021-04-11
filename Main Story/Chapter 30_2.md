@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A group of demons is plundering the lucky Elves' homeland. This once cozy hut has been reduced to ruins.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

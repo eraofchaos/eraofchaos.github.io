@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** As foreigners, we will encounter problems if we try to interfere with Krewlod's internal conflicts. We have to show Kendal what we are capable of before he will trust us.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Unlike the delicate elves, dragons have not only powerful magic, but also incomparable strength in their scales. Ordinary blades cannot harm them.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

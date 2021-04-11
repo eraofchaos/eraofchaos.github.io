@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Never have a knight's vows been so frustrating. They are so inflexible.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

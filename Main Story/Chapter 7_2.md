@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The tribes living in the mountains have little communication with other humans. It's quite obvious that they are hostile towards visitors.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

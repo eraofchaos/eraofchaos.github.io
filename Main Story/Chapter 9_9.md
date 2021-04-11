@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** No wonder! This dragon has been possessed by ghosts! The strange behavior of the other Green Dragon was probably the ghosts' doing, too.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

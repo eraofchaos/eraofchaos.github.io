@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** No one knows when ghosts started to gather here. Few know of their existence, let alone their origins.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

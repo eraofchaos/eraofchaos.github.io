@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Rust dragons are always looking for new mines. When they find one, they slaughter the miners and turn it into a lair.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

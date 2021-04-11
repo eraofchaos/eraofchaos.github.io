@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Even allied with Kendal, we don't have much of a chance of besting Crag Hack. He has dug in well here.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** During the reign of the last Wizard-King Kurl, the Empire of Bracaduun conquered more land than ever before. In a fit of arrogance, he commissioned a great monument to commemorate his greatness.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

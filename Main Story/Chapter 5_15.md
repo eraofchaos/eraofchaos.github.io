@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This is the last citadel of the elves, but the Gold Dragon Queen isn't here. Perhaps she no longer comes to the aid of men and elves.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

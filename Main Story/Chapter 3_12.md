@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** At the top of the redwood observatory, you can see the lands spread out below you, and the silver-winged pegasus approaching.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

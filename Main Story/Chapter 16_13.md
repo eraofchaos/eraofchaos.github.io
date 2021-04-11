@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You were walking in the forest when you heard a heart-rending cry. Nearby, you found a unicorn with its leg caught in a cruel iron trap. You managed to unspring the trap, freeing it. The unicorn nodded and galloped away.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

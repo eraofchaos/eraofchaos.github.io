@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The homes of the Faerie Dragons are concealed within the enchanted forest. Only those with a strong will are able to see them.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

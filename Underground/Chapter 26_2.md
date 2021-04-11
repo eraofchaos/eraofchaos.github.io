@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** That skin is cumbersome, let me help you get rid of some flesh.
 
- **Related to:** [Chapter 26](/Underground/Chapter 26/)
+ **Related to:** [Underground Chapter 26](/Underground/Chapter 26/)
 
 ## Drop Reward
 

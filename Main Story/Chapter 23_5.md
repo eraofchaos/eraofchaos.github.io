@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Most people assume that dragon breath is always hot. However, this isn't the case. Their breath is dictated by their diet and living environment.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

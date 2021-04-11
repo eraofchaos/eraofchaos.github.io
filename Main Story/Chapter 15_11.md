@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have persuaded some of the natives to help us stop the demons. I hope there is still time. The ritual seems to have started.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

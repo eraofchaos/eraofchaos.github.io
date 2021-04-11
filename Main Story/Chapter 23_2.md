@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Dragons, like magpies, love shiny things. Their lairs are often full of glinting treasures.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

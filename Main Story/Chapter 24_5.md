@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** No one knows where Faerie Dragons are from. Some sailors say that they found traces of Faerie Dragons on a small island in the sea south-east of Vori.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

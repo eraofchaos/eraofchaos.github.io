@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have eliminated the enemy's patrols, and we have infiltrated their troops. The danger is great, but we have important work to do.
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

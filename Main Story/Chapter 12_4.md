@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Their intentions are clear: they don't want us to travel north. There must be something happening.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

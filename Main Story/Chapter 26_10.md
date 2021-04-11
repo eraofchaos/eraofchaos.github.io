@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The Beholder sets up a pillar engraved with its symbol to mark its territories. Of course, these are all setup by his minions though.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

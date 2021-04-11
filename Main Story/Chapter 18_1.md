@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Before the invasion of the Demonic Lord, this place was guarded by some of the most elite soldiers in Avlee. Now their bodies lie still and cold underground.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

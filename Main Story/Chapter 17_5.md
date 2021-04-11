@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Your troop was ambushed by a clattering gang of skeletons. You scattered them with ease. As you watched the last of them flee into the distance, you noticed a confidential letter bearing Sandro's insignia lying on the ground.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Scouts have found traces of undead in the vicinity. We must be careful, these humans may have turned undead long time ago.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

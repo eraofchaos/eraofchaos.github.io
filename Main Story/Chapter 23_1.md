@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Some dragons occupy castles, ruling over nearby countrymen with fear. Many force them to offer a virgin in sacrifice.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** To survive in the darkness, Troglodytes waived their vision. Instead, their hearing and smell developed tremendously.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

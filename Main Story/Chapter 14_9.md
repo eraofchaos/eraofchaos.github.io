@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Our elders always said that disasters don't come in ones, but in threes. What I once dismissed as superstition, I am now beginning to believe. We must let go of our disagreements.
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

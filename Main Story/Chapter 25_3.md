@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** There is no seasonal change in most of the underground world. Some areas close to the surface have a different climate under the impact of the upper world.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

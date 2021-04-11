@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Take care when you're working with the Rogue Guild. You need to give them what they want to even stand a chance of asking for their help.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

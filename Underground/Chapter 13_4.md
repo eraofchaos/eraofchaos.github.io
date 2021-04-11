@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** My arrows never miss. You will always have to watch your back, no matter how far you run from me.
 
- **Related to:** [Chapter 13](/Underground/Chapter 13/)
+ **Related to:** [Underground Chapter 13](/Underground/Chapter 13/)
 
 ## Drop Reward
 

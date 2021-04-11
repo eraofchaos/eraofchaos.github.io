@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In some worlds, memory spells are extremely costly. The magic guild will ensure that the spell is wiped from your memory once cast.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

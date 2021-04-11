@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The battle has been brutal and bloody and we are surrounded. We need a small company to break out under the cover of night, and then seek help.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

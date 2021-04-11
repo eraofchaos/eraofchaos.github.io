@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Crag Hack may have learned of our coming. He has dispatched a troop to set up a camp less than 10 kilometers from us.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

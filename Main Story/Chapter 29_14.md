@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** What was originally a church has already been concealed in the aura of the evil forest, and the bodies that were once buried here have crawled out from their graves.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

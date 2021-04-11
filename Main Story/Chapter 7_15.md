@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Moreover, they are helped by Angels and Griffins. Whatever invaders come, humans remain fearless.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

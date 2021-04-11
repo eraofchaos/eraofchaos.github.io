@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** How dare you approach me again, foolish mortals! Your audacity needs to be punished!
 
- **Related to:** [Chapter 5](/Underground/Chapter 5/)
+ **Related to:** [Underground Chapter 5](/Underground/Chapter 5/)
 
 ## Drop Reward
 

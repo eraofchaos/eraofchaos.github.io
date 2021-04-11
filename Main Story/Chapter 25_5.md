@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In the dark underground, the people of Nighon identify the seasons and years by observing the rise and fall of subterranean rivers, since stars are beyond their sight.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

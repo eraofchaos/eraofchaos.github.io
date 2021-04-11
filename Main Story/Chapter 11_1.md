@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Our methods may have been somewhat extreme, but we got what we required. Boragus has... succumbed to us. Now we may plan our next move.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

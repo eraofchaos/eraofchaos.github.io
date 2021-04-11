@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You encountered a group of Black Knights in pursuit of a terrified group of dwarves. You fought off the knights and rescued the grateful dwarves.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

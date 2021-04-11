@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have chased the enemy to the edge of the cliff. They understand that there is no way out. They must fight for their lives or fall to their deaths.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

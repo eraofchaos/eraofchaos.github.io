@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Finally we've found help, but are we in time? We hope we can save our comrades.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

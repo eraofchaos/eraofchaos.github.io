@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have to focus and prepare for our future battles wholeheartedly. The smell of death is gruesome. There must have been scores of ghosts to cause carnage like this.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

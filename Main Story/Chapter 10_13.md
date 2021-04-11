@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** He seems wary, but may accept our offer of alliance. Now all we have to see is if Kendal's advisor can persuade him to accept our offer.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Avlee was once protected by magic that allowed all of their arrows to find their marks. But the Overlords of Nighon managed to destroy the spell and invaded the great forest.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

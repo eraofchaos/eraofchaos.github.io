@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** They enjoy beauty in the world, and especially beauty within themselves. They are one of the few species to groom themselves meticulously before joining battle.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

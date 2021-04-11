@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** No one can choose their family, demons are no exception. No one can fight fate.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

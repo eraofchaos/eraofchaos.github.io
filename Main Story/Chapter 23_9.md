@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A Rust Dragon's bite is always lethal. The wound will develop the look of rusty metal, followed by yellowing of the blood and, inevitably, death.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

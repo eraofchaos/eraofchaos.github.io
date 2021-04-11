@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Harpies are great voice imitators that can make any sound they hear. Passers-by are always captivated by their songs and fall into their traps.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

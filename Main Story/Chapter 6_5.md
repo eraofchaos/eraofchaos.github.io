@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Despite the horrors of the Liches' magic, they are not enough to swing the war. It is the power of the Black Knights that people fear the most.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

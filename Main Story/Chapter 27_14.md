@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** People say the Dragon's Blood Vial is the hereditary treasure of dragons. It must be protected by the strongest dragon. It's not easy to obtain.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

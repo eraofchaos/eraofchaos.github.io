@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  # Chapters
+## Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [14-5 Underground End](/Underground/Chapter 14_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Pegasus](/Items/unt_202/){: .btn .btn--era4}, [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4} |
 
 
-  # 15 Stars Rewards:
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/15</span>
 
  Reward 1:  **500x** <i class="fas fa-gem"/>
 

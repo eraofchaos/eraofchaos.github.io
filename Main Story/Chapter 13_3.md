@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The situation here is much worse than I could have imagined. I have to do something.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

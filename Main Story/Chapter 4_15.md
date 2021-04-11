@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Queen Catherine believes the Griffins are critical to the success of her war of restoration. The aid of the Griffins is the sign of the Gryphonheart Kingdom's revival.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We are deep in the forest now. Elves can expertly conceal themselves in the trees. Here, their archery prowess comes into its own, and only a fool confronts an elven force in a forest.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

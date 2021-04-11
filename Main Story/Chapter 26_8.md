@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** General Lommel reports that he repelled many hostile invasions. However, these enemies did not come for the territories but for the Dragon's Blood Vial.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

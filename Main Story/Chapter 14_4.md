@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Their main force has found us. They are pursuing us mercilessly! We need to find a point of attack!
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In the eyes of God, we are all small and insignificant. 
 
- **Related to:** [Chapter 20](/Underground/Chapter 20/)
+ **Related to:** [Underground Chapter 20](/Underground/Chapter 20/)
 
 ## Drop Reward
 

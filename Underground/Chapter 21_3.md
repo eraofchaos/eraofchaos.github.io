@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I haven't gone home for a long while. I might never go back home.
 
- **Related to:** [Chapter 21](/Underground/Chapter 21/)
+ **Related to:** [Underground Chapter 21](/Underground/Chapter 21/)
 
 ## Drop Reward
 

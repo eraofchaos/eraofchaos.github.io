@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Life is vulnerable against thunder.
 
- **Related to:** [Chapter 24](/Underground/Chapter 24/)
+ **Related to:** [Underground Chapter 24](/Underground/Chapter 24/)
 
 ## Drop Reward
 

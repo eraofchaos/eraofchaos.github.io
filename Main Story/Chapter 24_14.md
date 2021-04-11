@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Faerie Dragons are a little different from other dragons. They possess giant, ornate butterfly wings along with a glittering purple hide with yellow and green scales.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

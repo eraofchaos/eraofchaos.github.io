@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** No one knows if magic lead to alchemy or the other way around, but it's clear that the two are heavily interlinked. Alchemy is undoubtedly the best way to produce magic materials.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

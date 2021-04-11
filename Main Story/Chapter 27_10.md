@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Scouts found a jail that holds people who are disgruntled with Howard. You will gain political support by saving them.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

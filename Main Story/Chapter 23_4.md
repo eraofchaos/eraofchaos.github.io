@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You find a dying man by the side of the road. He was bitten by a Rust Dragon and doesn't have long left. He was a beloved member of his town; they swore they'd make the dragon pay.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

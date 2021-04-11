@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In the distance you see a singular sight; a Sprite trying to carry a shield that's bigger than she is.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

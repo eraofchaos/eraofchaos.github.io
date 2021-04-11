@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Knight: I've heard that the main city was taken recently. I don't know by whom. I can only hope that it wasn't the Orcs.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

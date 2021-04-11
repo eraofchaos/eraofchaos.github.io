@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Orcs not stupid. Orcs smart. Have skills to survive in wild.
 
- **Related to:** [Chapter 6](/Underground/Chapter 6/)
+ **Related to:** [Underground Chapter 6](/Underground/Chapter 6/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In the last days of Kurl's reign, Tarnum the barbarian arose from the wastes of Krewlod. At the head of a loyal army, he lead a lethal attack on their wizard rulers and the once-formidable Empire of Bracaduun fell.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

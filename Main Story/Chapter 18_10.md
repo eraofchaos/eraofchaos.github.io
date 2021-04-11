@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** There was once a brutal civil war in Avlee, fought for the favor of the dragons.. Surrounded by bloodshed and treachery, the elves realised what they had become; they vowed never to kill one other again.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

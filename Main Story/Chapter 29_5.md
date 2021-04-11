@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This pitiable border town was once a Wood Elf village, but now, a demon army has garrisoned themselves there.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

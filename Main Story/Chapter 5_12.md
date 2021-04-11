@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** For the demons, the worst part of the dragon occupation is the presence of the mightiest Higher Dragon, the Gold Dragon Queen. She resides here, hidden, but ever watchful.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

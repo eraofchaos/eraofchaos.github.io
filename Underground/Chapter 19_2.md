@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Soul is the essence of life.
 
- **Related to:** [Chapter 19](/Underground/Chapter 19/)
+ **Related to:** [Underground Chapter 19](/Underground/Chapter 19/)
 
 ## Drop Reward
 

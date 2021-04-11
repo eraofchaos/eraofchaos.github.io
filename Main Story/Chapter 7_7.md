@@ -15,7 +15,7 @@ classes: wide
 
  **Description:**  After this obstacle, we shall be in human territory. There, humans prosper, and the highest human powers congregate.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

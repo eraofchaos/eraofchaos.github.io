@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A sacred place for elves and, unbeknownst to many, also the residence of the unicorns. Even though unicorns may not be as strong as dragons, many believe they bring luck to their protectors.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Charge them! Kill the Orcs. Kill them all!
 
- **Related to:** [Chapter 5](/Underground/Chapter 5/)
+ **Related to:** [Underground Chapter 5](/Underground/Chapter 5/)
 
 ## Drop Reward
 

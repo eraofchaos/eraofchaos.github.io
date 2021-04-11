@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We cannot last much longer like this. May the gods protect us!
 
- **Related to:** [Chapter 13](/Underground/Chapter 13/)
+ **Related to:** [Underground Chapter 13](/Underground/Chapter 13/)
 
 ## Drop Reward
 

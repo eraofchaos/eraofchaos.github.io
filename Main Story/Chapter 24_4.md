@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You dreamed of wearing a crown and fighting a dragon. You realized that perhaps your dream was an omen. You decide to seek out a Faerie Dragon.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Luckily, the Gold Dragon Queen has not shown herself yet. Her absence gives the demons greater courage. Standing alone, the elves are not enough to scare them.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  # Chapters
+## Chapters
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
@@ -20,7 +20,7 @@ classes: wide
   | [18-5 Pursuit of Flame](/Underground/Chapter 18_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Efreeti](/Items/unt_231/){: .btn .btn--era4}, [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5} |
 
 
-  # 15 Stars Rewards:
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/15</span>
 
  Reward 1:  **500x** <i class="fas fa-gem"/>
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Jarg was the first and the last king of his kingdom. After his death, his heir was immediately murdered by magical forces.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

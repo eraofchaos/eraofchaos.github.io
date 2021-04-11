@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The Elves once lived in a stunning underground palace but the overlords of Nighon claimed the whole of the subterranean and destroyed it, forcing the Elves to live in the forest of their birth.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

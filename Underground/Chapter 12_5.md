@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Are you surprised that I'm a Wight? I've walked this earth for so long that I am all but wise.
 
- **Related to:** [Chapter 12](/Underground/Chapter 12/)
+ **Related to:** [Underground Chapter 12](/Underground/Chapter 12/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** According to what little we could discover from the few remaining locals, Krewlod is in the midst of a heated territorial struggle. Everywhere we go, there are traces of war.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

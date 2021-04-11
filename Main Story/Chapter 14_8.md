@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** There are voices of dissent among the troops. Some cowards plotted to escape, but their plan was quickly discovered. I have to teach them a lesson.
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

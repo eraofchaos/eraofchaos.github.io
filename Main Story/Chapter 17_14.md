@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** It seems there are survivors hiding behind the doors of this ghost town. If they joined you, surely you'd win.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

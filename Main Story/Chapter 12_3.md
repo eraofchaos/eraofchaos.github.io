@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Something is fishy in the way people act around here, as if they don't want us to proceed. What secrets lie in the north?
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A Rust Dragon is a fierce beast in battle. They rarely use magic, preferring a battle of sheer power.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

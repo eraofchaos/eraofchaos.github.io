@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** It is based not far from the elves. The knights of Steadwick often befriend elves; sometimes they even couple with female elves. Offspring from such unions are rare, but often possess strange talents.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

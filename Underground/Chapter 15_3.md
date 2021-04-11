@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Magic created me, but I hate magic. It should not exist. 
 
- **Related to:** [Chapter 15](/Underground/Chapter 15/)
+ **Related to:** [Underground Chapter 15](/Underground/Chapter 15/)
 
 ## Drop Reward
 

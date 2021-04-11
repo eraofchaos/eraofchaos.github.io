@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Following the order of the lord never steers you wrong.
 
- **Related to:** [Chapter 22](/Underground/Chapter 22/)
+ **Related to:** [Underground Chapter 22](/Underground/Chapter 22/)
 
 ## Drop Reward
 

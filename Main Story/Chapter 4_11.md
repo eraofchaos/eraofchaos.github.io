@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Every year, many Griffins from all over Antagarich fly to Griffin Cliff to breed.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

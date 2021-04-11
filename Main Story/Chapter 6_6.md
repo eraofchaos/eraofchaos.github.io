@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** From here, we travel to the Land of Lava. The ghosts here have gradually dissipated, but there are demons around every corner.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

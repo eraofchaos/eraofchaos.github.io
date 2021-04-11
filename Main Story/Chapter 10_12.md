@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** It is said that Kendal has an advisor he trusts implicitly. If we speak to this advisor, we may be able to use his help to ally ourselves with Kendal's forces.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

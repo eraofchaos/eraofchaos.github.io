@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Constant fighting has exhausted our soldiers. These ghosts may be weak, but there are so many of them. Perhaps... perhaps we just can't win.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

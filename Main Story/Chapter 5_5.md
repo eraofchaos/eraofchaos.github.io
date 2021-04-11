@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Despite the lesser demons' miserable existence, they have never mustered the will to resist. They have accepted their fate, and mindlessly await their inevitable death.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

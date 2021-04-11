@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You stopped by a dwarven tavern for a quick rest. After a few hearty ales, you realise you've come out with the wrong bag. Somewhere there is a furious Deyja wizard with a bag of dirty laundry. You, on the other hand, now have a bag of Deyja gold.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

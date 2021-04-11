@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Too late. The summoning is complete. We are running out of time. The insurgents also seem frightened. We have to kill them before the demons emerge!
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A group of Centaurs challenged you to battle in a tavern by the road. Not wanting to destroy the building, you took the battle outside.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I'm one of the mighty Dragons, but why am I immortal?
 
- **Related to:** [Chapter 18](/Underground/Chapter 18/)
+ **Related to:** [Underground Chapter 18](/Underground/Chapter 18/)
 
 ## Drop Reward
 

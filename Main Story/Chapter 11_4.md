@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Kendal has never heard of our friend. Strange. He used to be famous in these parts.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** But as soon as Crag Hack unites the swamp, he will set his sights on Erathia. We can't let that happen.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

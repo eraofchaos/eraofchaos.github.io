@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The beasts have started to retreat. We should put them out of their misery. I must know who is behind this!
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

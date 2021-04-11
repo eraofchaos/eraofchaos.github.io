@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The wizards of Bracada mostly travel by Airship. These ships are sophisticated contraptions, making use of an air elemental for power.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Rebels? They are an insult to the name! We fight for the people, and they're nothing but a bunch of bandits!
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

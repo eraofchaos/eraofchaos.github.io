@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Nobody can stop me. All the treasures here are mine. Mine!
 
- **Related to:** [Chapter 2](/Underground/Chapter 2/)
+ **Related to:** [Underground Chapter 2](/Underground/Chapter 2/)
 
 ## Drop Reward
 

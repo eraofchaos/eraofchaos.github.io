@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I roam the manor's grounds! Do not think about entering my territory. You won't see me, but you'll feel my touch for a moment before your death.
 
- **Related to:** [Chapter 10](/Underground/Chapter 10/)
+ **Related to:** [Underground Chapter 10](/Underground/Chapter 10/)
 
 ## Drop Reward
 

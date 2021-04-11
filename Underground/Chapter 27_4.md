@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Madness is real. Reason is just an illusion.
 
- **Related to:** [Chapter 27](/Underground/Chapter 27/)
+ **Related to:** [Underground Chapter 27](/Underground/Chapter 27/)
 
 ## Drop Reward
 

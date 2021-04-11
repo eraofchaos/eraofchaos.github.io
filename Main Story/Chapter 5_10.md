@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Dragons have always had a good relationship with the elves. Some lesser dragons spend years living alongside them, the most well-known of which are the Green Dragons.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

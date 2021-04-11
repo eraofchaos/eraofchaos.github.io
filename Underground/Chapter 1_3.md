@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** My father says that Griffins are meant to fly free in the sky. But what is a sky?
 
- **Related to:** [Chapter 1](/Underground/Chapter 1/)
+ **Related to:** [Underground Chapter 1](/Underground/Chapter 1/)
 
 ## Drop Reward
 

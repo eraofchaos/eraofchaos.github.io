@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The adventurer tells you: \"The wraiths and souls of Erathia are far more dangerous than the ghosts of Enroth.\"
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

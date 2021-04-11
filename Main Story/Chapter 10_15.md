@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Betrayed! It was not a meeting but an ambush! There shall be no peaceful alliance!
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Minotaurs are weird creatures. They build mazes underground and attract ignorant adventurers to \"visit\" them.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

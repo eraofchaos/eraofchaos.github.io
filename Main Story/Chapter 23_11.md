@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A local smith made a Giant dragonslayer bow, hoping to protect his home. But the moment the arrow hit the Rust Dragon, the head turned to rusty shards.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

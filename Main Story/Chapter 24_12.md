@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You come across an empty castle. Your scout reported that this was once the lair of a Faerie Dragon. Now that the dragon is gone there's no one left to claim the castle.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

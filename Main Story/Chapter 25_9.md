@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A huge underground cave reaches to the outside. It rains there sometimes. These areas are used for producing fungi which are fought over by various forces. 
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

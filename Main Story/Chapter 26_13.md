@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The research of scholars indicate that there are no male harpies. They capture sentient male creatures to mate with them.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A Green Dragon nest sits atop a towering cliff. It has long since been abandoned, with only a pile of bones left behind.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

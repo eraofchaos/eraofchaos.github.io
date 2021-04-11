@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** With just a few gems, one can gain a wealth of wisdom at the Tree of Knowledge. The Demons are no exception.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

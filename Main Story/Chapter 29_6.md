@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The elves are naturally talented archers. The Homestead is their favorite dwelling, and the elves within it harbor nothing but hostility toward unexpected visitors.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

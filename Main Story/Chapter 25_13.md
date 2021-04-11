@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** There is a legend going around Nighon. It says dragons rule the chaotic world, but someday, Nighon will leave the underground and beat them.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

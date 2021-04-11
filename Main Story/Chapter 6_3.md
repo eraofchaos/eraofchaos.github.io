@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Even though these ghosts may seem quiet and reclusive, they are not to be taken lightly. Any who venture onto the island will be killed, and will become ghosts themselves.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

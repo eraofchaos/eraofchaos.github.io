@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Mortal! Devote your pious faith to God. You shall be rewarded.
 
- **Related to:** [Chapter 22](/Underground/Chapter 22/)
+ **Related to:** [Underground Chapter 22](/Underground/Chapter 22/)
 
 ## Drop Reward
 

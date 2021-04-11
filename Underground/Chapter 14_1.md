@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Never underestimate a Dwarf. You'll regret it.
 
- **Related to:** [Chapter 14](/Underground/Chapter 14/)
+ **Related to:** [Underground Chapter 14](/Underground/Chapter 14/)
 
 ## Drop Reward
 

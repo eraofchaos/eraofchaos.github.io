@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A mage found you and asked for your protection. He claimed he and his friend were ambushed by a Crystal Dragon and only he made it out alive.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

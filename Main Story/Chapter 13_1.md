@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I can hear a voice... a heavenly voice. Someone whispers to me, telling me to travel east. That what I seek is in the east. I am not sure I trust the voice yet, but I feel I must follow its instructions.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

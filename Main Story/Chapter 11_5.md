@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** After some discussion, we have decided that our best course of action is to seek out our friend. I am uneasy, as though there is some indecipherable conspiracy at work. I can't rest until I understand.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

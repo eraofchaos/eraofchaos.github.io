@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Ghosts and demons are both evil in the eyes of humans. They stand in the way of mankind's progress, stifling it with wars and butchery.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

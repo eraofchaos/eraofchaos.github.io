@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The troops are overcome with thirst upon seeing the spring, but now the hellhounds patrolling the area must be dealt with.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

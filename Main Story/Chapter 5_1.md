@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The news has spread that a higher demon was killed by a mortal. Most demons are confident in their own power, but some are starting to be more wary.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

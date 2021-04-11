@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I soar over the ocean like lightning slashing across the sky. I am one with the lightning.
 
- **Related to:** [Chapter 11](/Underground/Chapter 11/)
+ **Related to:** [Underground Chapter 11](/Underground/Chapter 11/)
 
 ## Drop Reward
 

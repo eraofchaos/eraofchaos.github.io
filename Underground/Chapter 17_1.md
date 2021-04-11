@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Your hard work will be rewarded.
 
- **Related to:** [Chapter 17](/Underground/Chapter 17/)
+ **Related to:** [Underground Chapter 17](/Underground/Chapter 17/)
 
 ## Drop Reward
 

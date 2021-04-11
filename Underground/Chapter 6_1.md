@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Too difficult. Orc trusts only his weapon. Want a taste?
 
- **Related to:** [Chapter 6](/Underground/Chapter 6/)
+ **Related to:** [Underground Chapter 6](/Underground/Chapter 6/)
 
 ## Drop Reward
 

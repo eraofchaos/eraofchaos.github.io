@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The exchange of magical knowledge is common in this country of enchantments. In every city there are wizards practicing new, unheard-of forms of magic.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

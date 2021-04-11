@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The guard of the windmill says: \"My lord, the mill has been overrun by monsters. If you don't drive them away, there will be no supplies for you in the coming weeks.\"
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

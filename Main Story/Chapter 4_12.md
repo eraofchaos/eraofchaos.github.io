@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** About 1000 years ago, King Rion Gryphonheart's army began training Griffins for war.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

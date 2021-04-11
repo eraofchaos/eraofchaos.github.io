@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I like the woods best early in the morning. The clear creek and the cool mist, all to myself. So often people fail to appreciate the beauty of nature.
 
- **Related to:** [Chapter 3](/Underground/Chapter 3/)
+ **Related to:** [Underground Chapter 3](/Underground/Chapter 3/)
 
 ## Drop Reward
 

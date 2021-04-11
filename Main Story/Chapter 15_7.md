@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The natives were displeased with us because of our treatment of the relics. The relics seem sacred to them. This must be a shrine for summoning demons.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

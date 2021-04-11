@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Wind be with me! Speed my arrows into the hearts of my foes!
 
- **Related to:** [Chapter 8](/Underground/Chapter 8/)
+ **Related to:** [Underground Chapter 8](/Underground/Chapter 8/)
 
 ## Drop Reward
 

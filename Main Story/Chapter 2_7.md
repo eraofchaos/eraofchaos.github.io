@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The stable owner promises to provide mounts for your army, under the condition that you root out the thief who has made off with so many of his horses.
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

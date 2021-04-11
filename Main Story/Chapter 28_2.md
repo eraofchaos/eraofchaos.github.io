@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** When it comes to battles in the forest, any faction should fear the mighty Rampart units, for the way they swiftly move through the woods leaves even demons overcome with dread.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

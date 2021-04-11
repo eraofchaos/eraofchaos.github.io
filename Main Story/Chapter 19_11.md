@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Magical talent is no different from any other talent; it requires practice. Not all possess innate magical abilities, though. It comes from a difference in brain structure.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

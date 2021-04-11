@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Beware the Black Knights. Their destructive power is immense, and they cloak themselves in an aura that strikes fear into the heart. We will be annihilated if we approach them.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

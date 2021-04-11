@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The furnace is my home.
 
- **Related to:** [Chapter 27](/Underground/Chapter 27/)
+ **Related to:** [Underground Chapter 27](/Underground/Chapter 27/)
 
 ## Drop Reward
 

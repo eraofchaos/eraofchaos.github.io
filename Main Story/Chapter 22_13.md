@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You fool! You've fallen right into the mage's trap. He must have been employed by Dracon's mother to lure dragonslayers in.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

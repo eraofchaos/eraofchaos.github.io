@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have found a group of bandits who disguise themselves as demons. Or perhaps they are demons. We have come upon them in the wreckage of a village, surrounded by bodies and carnage.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Howard is the eldest lord of Nighon. His influence was strong in all of Nighon. However, time and tide wait for no man. Now, he is just an old dog.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

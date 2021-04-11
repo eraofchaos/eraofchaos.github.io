@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Scholars from Nighon thought they might be older than any races living in the upper world. Except dragons, all creatures are inhabitants in the underground.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

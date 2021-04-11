@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Colored dragons are the most amicable of the dragons, sometimes fighting alongside other creatures in battle. The most famous of them is the Gold Dragon Queen.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You encountered an extremely polite Walking Dead in a crypt. He offered you his finest hospitality but the food was a little too human for your taste so you made your excuses and left.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

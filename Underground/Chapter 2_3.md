@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You may be ignorant mortals, but your blood is sweet to taste.
 
- **Related to:** [Chapter 2](/Underground/Chapter 2/)
+ **Related to:** [Underground Chapter 2](/Underground/Chapter 2/)
 
 ## Drop Reward
 

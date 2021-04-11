@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The witch in the hut welcomes you warmly, and wants you to drive away an Imp that is disturbing her rest.
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

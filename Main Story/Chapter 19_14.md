@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Gavin Magnus has been ruling the Empire of Bracada for over 600 years. To all around he is known as the Immortal King.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

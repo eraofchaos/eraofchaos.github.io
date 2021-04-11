@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I took a Charm of Mana with me. It seems useless, but a wise man told me it would come in handy one day. I'll believe him this one time.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have seen strange relics scattered around this place. There is something demonic about them. We don't want anything more to do with demons.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** When the Erathian royal army gradually drove the remaining enemies out of the eastern part of the continent, the news of their victory was also sent by the elves of Avlee.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

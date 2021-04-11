@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The original meaning of \"Manticore\" is \"man-eater.\" This horrifying monster is a hybrid of a bat, a lion, and a scorpion.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

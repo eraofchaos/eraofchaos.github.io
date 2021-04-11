@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The power of spirit is beyond human imagination. It's amazing.
 
- **Related to:** [Chapter 21](/Underground/Chapter 21/)
+ **Related to:** [Underground Chapter 21](/Underground/Chapter 21/)
 
 ## Drop Reward
 

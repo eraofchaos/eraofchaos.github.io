@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Erathia will fall. Its buildings will crumble to dust and its people will burn to ash. We will leave nothing but ruins.
 
- **Related to:** [Chapter 9](/Underground/Chapter 9/)
+ **Related to:** [Underground Chapter 9](/Underground/Chapter 9/)
 
 ## Drop Reward
 

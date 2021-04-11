@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Young and beautiful man, are you willing to devote your body to me?
 
- **Related to:** [Chapter 15](/Underground/Chapter 15/)
+ **Related to:** [Underground Chapter 15](/Underground/Chapter 15/)
 
 ## Drop Reward
 

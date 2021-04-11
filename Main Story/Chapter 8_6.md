@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** It is an asylum for humans, caring for those who are suffering. Even those of other species, sometimes.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

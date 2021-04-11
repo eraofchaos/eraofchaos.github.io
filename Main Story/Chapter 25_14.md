@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In ancient languages, \"dragon\" represents a stern and alert women. And the presence of Mutare is the best possible explanation of the word.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

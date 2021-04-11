@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The chaos of war turns civilised people into animals and uncivilised people into monsters. The place is overrun with thieves and robbers, but they overestimate their own strength. I will show them the error of their ways.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Avlee was established by a settlement of elves from Vori. Now it's expanded into an elven country, formed by many forest tribes.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

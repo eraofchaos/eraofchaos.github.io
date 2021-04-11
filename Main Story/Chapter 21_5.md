@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A descendent of Jarg rejected his heritage, even going so far as to pursue a life of magic.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

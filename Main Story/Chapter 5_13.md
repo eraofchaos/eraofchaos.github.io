@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In the past, the Gold Dragon Queen killed many thousands of demons. Her terrifying dragon breath was like the shadow of death, and the horrors of her fire have been burned deep into demon memory.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

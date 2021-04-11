@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You stole my precious!
 
- **Related to:** [Chapter 27](/Underground/Chapter 27/)
+ **Related to:** [Underground Chapter 27](/Underground/Chapter 27/)
 
 ## Drop Reward
 

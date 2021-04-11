@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Like mortals, dragons possess their own language. Spells cast by dragon whispers are far more powerful than those cast with common tongues. The lucky few who can speak in dragon whispers are called dragonspeakers.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

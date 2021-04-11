@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Can you see the light burning in the blue flame?
 
- **Related to:** [Chapter 21](/Underground/Chapter 21/)
+ **Related to:** [Underground Chapter 21](/Underground/Chapter 21/)
 
 ## Drop Reward
 

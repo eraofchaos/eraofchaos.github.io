@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A great warrior named Jarg rallied his tribe and overthrew the harsh ruler of Bracaduun. Legend has it that he conquered all of the lands between the oceans.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Fungi are the underground creatures' main food. These creatures plant the fungi as needed to take in enough nutrition to survive.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

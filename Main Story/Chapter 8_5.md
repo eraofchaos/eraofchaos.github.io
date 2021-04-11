@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This is Steadwick, a place of human prosperity. And soon all of it will be gone.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

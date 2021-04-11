@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The summoning appears to have failed. We still have a chance! I'm too old for this. Once we have killed this demon, I'm going to go home, get married, and start a farm.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** There is rumour of a wizard living in the east of Spadewall. In a tavern, a local warrior confided in you that the wizard knows crucial details about the enemy army's actions in the south of Tularean.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

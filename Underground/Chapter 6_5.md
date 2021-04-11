@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Lightning shoots across the sky! Volcanoes erupt from verdant grassland! Hold your loved ones close, for Armageddon is coming!
 
- **Related to:** [Chapter 6](/Underground/Chapter 6/)
+ **Related to:** [Underground Chapter 6](/Underground/Chapter 6/)
 
 ## Drop Reward
 

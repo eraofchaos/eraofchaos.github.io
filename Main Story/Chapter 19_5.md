@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** After Tarnum's death, Gavin Magnus led a group of wizards to establish a new home on the plains of the southern continent. He christened their new land Bracada.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

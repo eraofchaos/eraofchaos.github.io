@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Fly! Fly! May the Flail-Hammer fly high and smash my enemies!
 
- **Related to:** [Chapter 14](/Underground/Chapter 14/)
+ **Related to:** [Underground Chapter 14](/Underground/Chapter 14/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** As you walk over a hill, you come across a Sprite. She pleads with you to turn around, saying that this is the only way to keep yourself alive. However, your desire to slay a dragon is unbreakable.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

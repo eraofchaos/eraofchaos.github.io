@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** If we keep on like this, we are sure to die. We must regroup and consider our strategy. Brute force is not the solution to everything.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

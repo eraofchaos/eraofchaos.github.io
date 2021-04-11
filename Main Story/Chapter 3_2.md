@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This ruined temple was cursed many years ago. It is rumored that necromancers use it to hold their dark rituals.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

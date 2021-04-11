@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** They never seem to take the better option; they will defend a losing base rather than flee and return with reinforcements.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

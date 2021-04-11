@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have heard that once we pass this place we will reach the city of Llane. It is heavily guarded, day and night.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

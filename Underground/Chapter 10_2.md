@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I may be dying, but I have no fear. Death is merely rebirth. Death is a new beginning.
 
- **Related to:** [Chapter 10](/Underground/Chapter 10/)
+ **Related to:** [Underground Chapter 10](/Underground/Chapter 10/)
 
 ## Drop Reward
 

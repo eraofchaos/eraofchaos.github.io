@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Faerie Dragons tend to resemble faeries. Some say they have the closest relationship with mortals of any dragon.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

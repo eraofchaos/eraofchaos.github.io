@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Here stands a group of statues, each one a giant, grotesque humanoid creature. According to the local witch, they were carved out of respect for primal gods and no one dared to destroy them.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

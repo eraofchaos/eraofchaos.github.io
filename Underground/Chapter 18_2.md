@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Pitiful people always find some idiotic excuse for their weakness.
 
- **Related to:** [Chapter 18](/Underground/Chapter 18/)
+ **Related to:** [Underground Chapter 18](/Underground/Chapter 18/)
 
 ## Drop Reward
 

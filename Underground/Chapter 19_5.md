@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** All things in the world can be exchanged for something of equal value.
 
- **Related to:** [Chapter 19](/Underground/Chapter 19/)
+ **Related to:** [Underground Chapter 19](/Underground/Chapter 19/)
 
 ## Drop Reward
 

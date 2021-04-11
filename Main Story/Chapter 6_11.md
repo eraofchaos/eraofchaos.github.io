@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Men, although coming from lowly beginnings, have outdeveloped and outgrown many other species. For demons the disparity is unacceptable; they find humans far too close to being their equals.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

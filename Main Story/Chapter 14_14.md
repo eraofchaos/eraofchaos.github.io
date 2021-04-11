@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Beastmasters! We should have guessed! The madness of these beasts is typical of their cruelty. They will pay!
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

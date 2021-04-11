@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The capital of Krewlod is under the direct reign of the Duke. All barbarians who enter the city consider themselves lucky.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

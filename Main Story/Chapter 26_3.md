@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Countless small and large waters exist underground. To subterranean dwellers, they are one of the sources of clean water and dark fish.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

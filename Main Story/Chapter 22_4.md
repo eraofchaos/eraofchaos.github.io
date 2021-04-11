@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Some areas of Erathia worship dragons. Believers think that there are six noble dragons of the world, each ruling a territory and guarding unimaginable treasures.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

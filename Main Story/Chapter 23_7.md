@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A Sorcerer invented a lance capable of piercing dragon skin. But no dragon is willing to carry a weapon that is lethal to them.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

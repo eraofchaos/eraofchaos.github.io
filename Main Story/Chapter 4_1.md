@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The Keeper of the Blue Keymaster's Tent seems glad to see you.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The destination of the portal is a little farther than anticipated. It is quite a distance from Steadwick. We have several strongholds to pass.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

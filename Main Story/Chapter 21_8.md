@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The ancient beasts of Krewlod are quite incredible. They have gone extinct in other places but they still remain here, alive and well.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

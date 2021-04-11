@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Legend says people who drink it will receive the power of a dragon. Some even believe that people will become invincible if they smear the dragon blood on their body.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

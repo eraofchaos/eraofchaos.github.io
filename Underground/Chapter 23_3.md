@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Did you know? Thunder is the greatest power, it destroys everything.
 
- **Related to:** [Chapter 23](/Underground/Chapter 23/)
+ **Related to:** [Underground Chapter 23](/Underground/Chapter 23/)
 
 ## Drop Reward
 

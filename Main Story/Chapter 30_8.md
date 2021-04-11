@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** One of the ways that the Conflux Plane is linked with the world is via the mutual attraction of the same types of elements. Therefore, Fire Altars can usually only be found near flames.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

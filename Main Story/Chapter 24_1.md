@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Faerie Dragons live everywhere. They especially favour the houses of mortals. Their lair might be anything from a farmer's cottage to a lord's stone castle.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** They may have weak bodies and no special prowess, but their creativity is what we fear. It has bestowed them with incredible weapons.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You pass by a mass grave in which the corpses have been affected by a wicked spell. If the living walk by, the skeletons will climb out from their resting place.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

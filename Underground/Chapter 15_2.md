@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Life and death are in some kind of balance. Balance is the foundation of the world.
 
- **Related to:** [Chapter 15](/Underground/Chapter 15/)
+ **Related to:** [Underground Chapter 15](/Underground/Chapter 15/)
 
 ## Drop Reward
 

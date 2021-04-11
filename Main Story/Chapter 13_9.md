@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A pack of wolves. I fear they see us as prey.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

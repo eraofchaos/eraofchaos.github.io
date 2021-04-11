@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** For the glory of the elves, my flying knife shall slash the transgressors!
 
- **Related to:** [Chapter 14](/Underground/Chapter 14/)
+ **Related to:** [Underground Chapter 14](/Underground/Chapter 14/)
 
 ## Drop Reward
 

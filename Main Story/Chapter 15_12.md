@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Dark clouds are congregating, and a volcano is forming below the shrine. Smoke and lava billow from the ground and the skies are thick with dust. Something terrible is coming.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

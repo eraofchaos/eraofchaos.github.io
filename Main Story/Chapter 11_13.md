@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Because he has devoted all of his attention to us, he has left his home town undefended. It has now caught the eye of another invading force. Most fortuitous.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

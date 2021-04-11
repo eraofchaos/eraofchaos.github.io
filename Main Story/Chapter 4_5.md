@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A city destroyed by war. You can still feel the evil within it.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

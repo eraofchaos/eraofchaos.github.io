@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I've forgotten what death is.
 
- **Related to:** [Chapter 23](/Underground/Chapter 23/)
+ **Related to:** [Underground Chapter 23](/Underground/Chapter 23/)
 
 ## Drop Reward
 

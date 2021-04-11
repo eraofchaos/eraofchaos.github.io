@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** It appears that a group has found a portal in the north and are trying to repair it.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

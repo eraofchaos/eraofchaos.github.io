@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You enter the sanctuary. You thought you might find peace here, but your enemies allow you no rest.
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

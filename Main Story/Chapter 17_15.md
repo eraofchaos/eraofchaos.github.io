@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Many refugees escaped to the settlement of Pierpont in the south of Avlee. Most of them found homes and started to rebuild their lives, but there are whispers of spies amongst them.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

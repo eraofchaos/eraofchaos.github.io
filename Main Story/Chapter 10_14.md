@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Kendal has summoned us to his territory to meet. He wishes to speak face to face before he decides whether to ally himself with us. Only a fool makes pacts with someone he's never seen, after all.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

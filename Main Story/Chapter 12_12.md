@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** They seem obsessed with keeping the portal hidden. Something strange is going on. It's just a portal. Why all the fuss?
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

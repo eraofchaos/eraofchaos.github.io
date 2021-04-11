@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** My thunder and lightning shall obliterate the offenders.
 
- **Related to:** [Chapter 20](/Underground/Chapter 20/)
+ **Related to:** [Underground Chapter 20](/Underground/Chapter 20/)
 
 ## Drop Reward
 

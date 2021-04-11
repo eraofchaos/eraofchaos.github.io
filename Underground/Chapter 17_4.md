@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Reveal your wish! I will grant it.
 
- **Related to:** [Chapter 17](/Underground/Chapter 17/)
+ **Related to:** [Underground Chapter 17](/Underground/Chapter 17/)
 
 ## Drop Reward
 

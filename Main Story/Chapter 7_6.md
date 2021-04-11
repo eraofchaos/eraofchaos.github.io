@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** It is said that on the deserted plains of Krewlod, a kind of flying beast exists. These beasts are able to manipulate the forces of thunder and lightning.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This place is thick with ghosts and the air reeks of death and decay. What happened here?
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

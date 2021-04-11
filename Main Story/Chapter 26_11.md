@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Resource distribution of Antagarich areas are at the Beholder's fingertips. Sometimes, the Beholder will be forced to serve some powerful lords.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

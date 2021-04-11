@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Why, did you think that we skeletons had no feelings? I am not some common skeleton. Music lives within me, and when I play, others listen!
 
- **Related to:** [Chapter 4](/Underground/Chapter 4/)
+ **Related to:** [Underground Chapter 4](/Underground/Chapter 4/)
 
 ## Drop Reward
 

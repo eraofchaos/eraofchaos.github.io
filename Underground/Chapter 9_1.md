@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Uh oh. I think I might be in real trouble this time! But I'll fight my way out! No demon ever shies from trouble.
 
- **Related to:** [Chapter 9](/Underground/Chapter 9/)
+ **Related to:** [Underground Chapter 9](/Underground/Chapter 9/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Demons are the backbone of Inferno forces. Due to their thick skins and the sharp horns that grow on their heads, they are most suitable for charging through enemy lines.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

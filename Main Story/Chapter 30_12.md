@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Gogs are innate masters of flames. They use captives as targets to practice fireball throwing.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

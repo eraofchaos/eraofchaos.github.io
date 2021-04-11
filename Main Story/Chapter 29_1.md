@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A secluded, haunted house with the red glow of lamps spilling from the windows. This is the mansion of the nearby, infamous blood-sucking lord.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

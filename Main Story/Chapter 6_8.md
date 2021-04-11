@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Fate can be a funny thing. Some waste their lives seeking Bone Dragons but never find them. Others hope never to cross a Bone Dragon, evil in the eyes of the livings. They stand in the way of mankind's path, but can do nothing to avoid it.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

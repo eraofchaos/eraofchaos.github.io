@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** My liege! Not far from here, the soldiers of Stronghold are fighting a fierce battle with the ghosts! Luck does not appear to be on their side. We should ride to their rescue, and soon!
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

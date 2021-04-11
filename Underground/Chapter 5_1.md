@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Centaurs never grieve. Those who pass away are born anew in the woods.
 
- **Related to:** [Chapter 5](/Underground/Chapter 5/)
+ **Related to:** [Underground Chapter 5](/Underground/Chapter 5/)
 
 ## Drop Reward
 

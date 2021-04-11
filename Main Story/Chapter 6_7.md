@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Of course, dissipation doesn't necessarily mean eradication. The ghosts that remain are some of the strongest; any of them can cause great sorrow to any poor soul that crosses their paths.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

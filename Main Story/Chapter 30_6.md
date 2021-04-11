@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A lengthy drought has caused the flora near the volcano to wither. This stone tablet covered in withered plants looks especially strange.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

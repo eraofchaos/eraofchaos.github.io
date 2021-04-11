@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We cannot allow Crag Hack to expand his territory any further. If he takes Krewlod, he will surely set his sights on the rest of Erathia.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

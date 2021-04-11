@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Rust Dragon reek of sulfur. Some say this is because they live on a diet of sulfur while others suggest that the smell is because they are a demonic species. Nobody can agree.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

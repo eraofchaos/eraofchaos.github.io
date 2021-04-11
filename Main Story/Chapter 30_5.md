@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** An Elven ghost town with no one watching over it. There is a large tavern in the city with a sign hanging on the door that says, \"Fireside Rest.\"
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

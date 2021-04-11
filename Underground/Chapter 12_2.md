@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I rose from the flame and burn brightly in the face of my enemies!
 
- **Related to:** [Chapter 12](/Underground/Chapter 12/)
+ **Related to:** [Underground Chapter 12](/Underground/Chapter 12/)
 
 ## Drop Reward
 

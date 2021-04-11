@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** As soon as you set foot on the bridge you knew you were in for a fight. A gang of Orcs crawled up from the depths beneath, leering ominously at you. With a single strike you killed their leader. In moments the gang was scattered and you were on your way.
 
- **Related to:** [Chapter 18](/Main Story/Chapter 18/)
+ **Related to:** [Main Story Chapter 18](/Main Story/Chapter 18/)
 
 ## Drop Reward
 

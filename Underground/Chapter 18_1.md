@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Food! food! I need food!
 
- **Related to:** [Chapter 18](/Underground/Chapter 18/)
+ **Related to:** [Underground Chapter 18](/Underground/Chapter 18/)
 
 ## Drop Reward
 

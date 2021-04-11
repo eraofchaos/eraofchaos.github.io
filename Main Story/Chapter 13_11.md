@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Black smoke stains the sky in the distance, and the sky above us blood red. Something terrible is happening. Hurry!
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

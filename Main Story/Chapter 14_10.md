@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** These bizarre attacks make me wonder if something is controlling these beasts. We need to find the truth!
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Mercury is one of the essential ingredients for alchemy. As a result, many alchemists own their own Mercury Refinery, including the evil wizards that research alchemy.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

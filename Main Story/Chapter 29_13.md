@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You came to a mercenary training camp, but the drillmaster has gone missing. Naturally, this means you can't learn any new fighting skills.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

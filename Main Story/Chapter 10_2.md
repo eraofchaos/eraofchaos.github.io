@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Time goes by and we hear nothing from our allies at Stronghold. May the gods have mercy on them.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

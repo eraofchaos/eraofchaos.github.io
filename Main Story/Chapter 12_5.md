@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The resistance grows stronger and stronger. We have to decide whether to keep going or turn around.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

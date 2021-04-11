@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We've got nothing about Howard so far. It doesn't make sense. I wonder if he was killed by a lord.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

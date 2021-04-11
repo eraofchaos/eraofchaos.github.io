@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In the beautiful forest, beside clean water and green mountains. That's where I belong.
 
- **Related to:** [Chapter 17](/Underground/Chapter 17/)
+ **Related to:** [Underground Chapter 17](/Underground/Chapter 17/)
 
 ## Drop Reward
 

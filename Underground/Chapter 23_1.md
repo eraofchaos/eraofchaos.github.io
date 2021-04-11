@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** My arrows are always prepared to penetrate invaders.
 
- **Related to:** [Chapter 23](/Underground/Chapter 23/)
+ **Related to:** [Underground Chapter 23](/Underground/Chapter 23/)
 
 ## Drop Reward
 

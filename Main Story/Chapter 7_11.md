@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Apparently we were too optimistic. It is much harder to communicate with words than with war. And the people here love to make war.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

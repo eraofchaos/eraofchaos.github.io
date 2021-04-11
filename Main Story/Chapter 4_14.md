@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Many years ago, Griffins were an essential part in the building of Erathia. Now, they are the key to the restoration of this land.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

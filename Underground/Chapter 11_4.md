@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Cower before me! I shall dominate your mind and fill your head with countless fears.
 
- **Related to:** [Chapter 11](/Underground/Chapter 11/)
+ **Related to:** [Underground Chapter 11](/Underground/Chapter 11/)
 
 ## Drop Reward
 

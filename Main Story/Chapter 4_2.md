@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** It seems another adventurer has fulfilled the seer's request. The hut stands empty.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

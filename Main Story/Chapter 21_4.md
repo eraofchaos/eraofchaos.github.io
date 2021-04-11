@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Fearing that the barbarians would be heartened by the memory of Jarg's actions and turn against the ruling of Bracaduun, the mages ordered the immediate capture and execution of all of the minstrels of Krewlod.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

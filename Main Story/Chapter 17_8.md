@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** While on the lookout for ore, you heard cries for help. Following the voices you found a group of dwarves trapped in a low tunnel. After you rescued them from their underground prison, they told you the correct entrance to the Nighon underground tunnel.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

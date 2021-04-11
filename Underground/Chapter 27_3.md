@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Myrrh, golds and mastic, these are the gifts for the Messiah of Light.
 
- **Related to:** [Chapter 27](/Underground/Chapter 27/)
+ **Related to:** [Underground Chapter 27](/Underground/Chapter 27/)
 
 ## Drop Reward
 

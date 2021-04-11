@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Those in power have noticed our presence. The patrols sent to seek us out are growing greater in number. We have to be careful.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

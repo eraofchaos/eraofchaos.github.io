@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Human behavior is simply incomprehensible to other species. This is especially true of human fanatics. They don't seem to see death for what it is: the end.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

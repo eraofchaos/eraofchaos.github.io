@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The light nourishes creatures walking on the surface. The darkness does not abandon its people. It grants them plenty of magic energy.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

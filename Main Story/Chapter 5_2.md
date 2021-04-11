@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A demon is not like a human. In their world, there is no morality, no rule of law. The only creed they live by is survival of the fittest.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

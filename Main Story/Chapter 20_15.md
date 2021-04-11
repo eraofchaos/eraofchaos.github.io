@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The borders of Bracada are heavily garrisoned, protecting against attacks from Krewlod. They have made preparations to prevent the escape of Yog.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

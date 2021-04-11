@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Conjurers in Nighon have close ties to creatures from other worlds. They have built a summoning gate to communicate with these creatures.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

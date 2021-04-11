@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Can you feel the magic in the air? And we aren't even that close. The city will be difficult to conquer. We must prepare wisely.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

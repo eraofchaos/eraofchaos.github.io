@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In this terrain it will be impossible to get the upper hand; the elves are in their element. We need to lure them elsewhere.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

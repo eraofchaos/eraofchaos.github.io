@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Unfortunately for the demons, there are not only elves, but also dragons living here. They are among the most powerful creatures on the continent.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

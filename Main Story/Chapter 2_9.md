@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** An old seer claims his friend has lost a certain artifact and wishes for it to be recovered. Having learned your lesson with Sandro the Necromancer, you are skeptical about the truth of his story.
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

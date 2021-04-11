@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Even though this is only a small strip of land at the edge of the continent, the demons are unable to secure it. The strength of the elves is not to be dismissed.
 
- **Related to:** [Chapter 5](/Main Story/Chapter 5/)
+ **Related to:** [Main Story Chapter 5](/Main Story/Chapter 5/)
 
 ## Drop Reward
 

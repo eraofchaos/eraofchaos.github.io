@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You destroyed an Altar of Blood. This is often a place where cultists come to cast evil spells.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I may be small, but the peasants tremble to hear my name. Scared? You should be!
 
- **Related to:** [Chapter 10](/Underground/Chapter 10/)
+ **Related to:** [Underground Chapter 10](/Underground/Chapter 10/)
 
 ## Drop Reward
 

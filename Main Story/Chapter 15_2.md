@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We defeated the invading demons, yet peace did not last. Civil war encroaches once again! Will humans never remember the horrors that war causes?
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

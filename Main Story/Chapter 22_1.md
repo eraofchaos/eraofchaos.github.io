@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Crystal Dragons are a magical creation. They were created by Dracon's mother, combining the toughness of crystal with the cunningness of the dragon.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

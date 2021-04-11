@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I don't understand. Life is so beautiful. Why does the elder ask me to treat it so lightly?
 
- **Related to:** [Chapter 22](/Underground/Chapter 22/)
+ **Related to:** [Underground Chapter 22](/Underground/Chapter 22/)
 
 ## Drop Reward
 

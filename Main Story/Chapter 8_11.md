@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The pegasi are a key force among the elves. Pegasi are endowed with unique skills and abilities, making them much-prized allies. However, their numbers are few.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

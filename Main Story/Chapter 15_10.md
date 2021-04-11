@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** These people have gone mad! They are trying to summon demons in order to drive us out! I can't let them.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Even though humans are weak by nature, no species should underestimate their capacities.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A wizard found himself possessed by an enchanted crown, driving him to madness and brutality. You drew your bow, shooting the crown off of his head without harming a hair. Free from the crown, he rejected Deyja and returned to his old, kind ways.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

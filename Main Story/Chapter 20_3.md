@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Giving life to inanimate objects is a pet project of many wizards. Some claim that most of the non-human beings in the world exist as the result of wizard experimentation.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

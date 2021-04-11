@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The outpost near the border with Bracada has fallen swiftly to the invading army.
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You rally the troops and make an inspiring speech. Your soldiers feel more  confident that they will emerge alive from this snow-strewn field.
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

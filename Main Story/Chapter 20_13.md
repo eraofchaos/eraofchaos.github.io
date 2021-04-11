@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A mage named Albert the Blue has theorised that matter can be broken down further than the four elements. These tiny particles form the basic structure of the elements.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

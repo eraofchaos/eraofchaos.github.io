@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This human castle on the outskirts of the forest has been occupied by the dungeon overlords and now serves as their front-line command center.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

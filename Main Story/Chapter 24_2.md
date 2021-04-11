@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** After a wonderful meal, you get chatting to the folks in the tavern. According to them, having a Faerie Dragon allows you to shapeshift at will.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

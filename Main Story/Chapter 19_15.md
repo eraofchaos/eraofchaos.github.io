@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The cluster of magnificent buildings sitting on the peak of the perilous icy mountains makes up the capital of the magical empire of Bracada. This is a holy land of magic and knowledge and the home of the wizards.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

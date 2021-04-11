@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I may be old, but I've only grown stronger. Never underestimate the power of time to harden the skin and sharpen the intent.
 
- **Related to:** [Chapter 3](/Underground/Chapter 3/)
+ **Related to:** [Underground Chapter 3](/Underground/Chapter 3/)
 
 ## Drop Reward
 

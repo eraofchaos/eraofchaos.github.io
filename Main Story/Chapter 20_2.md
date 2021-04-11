@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** 'On Magical Addiction' is the latest academic essay from the Academy of Bracada. It includes a case study of a Caster who lost his mind because of his ever-growing yearning for magic.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

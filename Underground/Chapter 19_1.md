@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In our world, from birth to death, there is only iron and blood. 
 
- **Related to:** [Chapter 19](/Underground/Chapter 19/)
+ **Related to:** [Underground Chapter 19](/Underground/Chapter 19/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I hope to have my own store someday. It will always be lit with the glow of warm candlelight.
 
- **Related to:** [Chapter 7](/Underground/Chapter 7/)
+ **Related to:** [Underground Chapter 7](/Underground/Chapter 7/)
 
 ## Drop Reward
 

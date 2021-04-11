@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Some wizards sign pacts with ancient souls. They are willing to offer help to a wizard in need. Strangely, those wizards who haven't signed pacts are unable to see them.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

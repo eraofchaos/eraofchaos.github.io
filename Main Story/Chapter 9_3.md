@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We underestimated their abilities. Despite our efforts to conceal ourselves, we were discovered. And now we must fight for our lives!
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

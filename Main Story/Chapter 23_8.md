@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A team of scouts have been trapped in a collapsed mine! If you find them, they will definitely tell you all about the geography of this area.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 

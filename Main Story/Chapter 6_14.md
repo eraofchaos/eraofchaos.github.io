@@ -15,7 +15,7 @@ classes: wide
 
  **Description:**  \"Humans! My death is nothing in comparison to your impending destruction! Your greed destroys the land on which you live and the air you breathe! The soil will rise up and swallow you and the air will burn bitterly in your lungs.\" The Inferno lord's final words echo above the Land of Lava like a curse.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

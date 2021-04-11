@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The guard here is responsible for defending the territory against attackers from Eeofol. You need to prove him that you have enough strength to be worthy of allying with the Griffins.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

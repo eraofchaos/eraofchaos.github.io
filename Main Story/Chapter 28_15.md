@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The gray tones are like a dragon already in its old age, powerful but also facing decline.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

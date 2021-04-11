@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Surprisingly, it's a troop of humans. Why did they travel to the north of Erathia?
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** \"These greedy humans will soon face the destruction of their civilization, just like the other countless races that have preceded them!\"
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

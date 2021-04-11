@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I am the Crownless King, master of all I survey! I am the Conqueror of the Universe, and I am God!
 
- **Related to:** [Chapter 6](/Underground/Chapter 6/)
+ **Related to:** [Underground Chapter 6](/Underground/Chapter 6/)
 
 ## Drop Reward
 

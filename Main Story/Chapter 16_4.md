@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You saw a Cyclops swimming in a lake, his clothes discarded on the shore. Hoping for treasure or strange artifacts you made off with his jacket but all you won was a wine-stained leather coat.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

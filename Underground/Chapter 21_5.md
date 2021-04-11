@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** There's no point in resisting. Accept your doom!
 
- **Related to:** [Chapter 21](/Underground/Chapter 21/)
+ **Related to:** [Underground Chapter 21](/Underground/Chapter 21/)
 
 ## Drop Reward
 

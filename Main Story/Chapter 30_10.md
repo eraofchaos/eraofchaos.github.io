@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Hordes of demons passed through Cerberus Gate and gathered at this fortress. A fierce battle is inevitable.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

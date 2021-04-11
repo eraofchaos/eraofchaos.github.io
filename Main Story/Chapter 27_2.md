@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The overlapping tides of magic are spread all over the world. The underground is no different. Vortices form where the tides overlap.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

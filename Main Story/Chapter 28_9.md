@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Flaming arrows are miraculously effective on Manticores, particularly when it comes to their straw-filled nests.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

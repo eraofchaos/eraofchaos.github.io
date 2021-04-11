@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We must be getting closer to our goal. There are more and more beasts in our path. They seem to be guarding something.
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

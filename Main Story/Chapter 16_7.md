@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** There was once a mage, a member of the Mage Council, who was a great friend to Avlee. Driven by greed and the promise of gold, he betrayed his allies and joined Deyja.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

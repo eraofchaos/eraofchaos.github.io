@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We need help. We can't defeat them alone. They are so much stronger than we anticipated.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Water from the magic well can usually restore your mana, but here it has been taken by magical creatures.
 
- **Related to:** [Chapter 2](/Main Story/Chapter 2/)
+ **Related to:** [Main Story Chapter 2](/Main Story/Chapter 2/)
 
 ## Drop Reward
 

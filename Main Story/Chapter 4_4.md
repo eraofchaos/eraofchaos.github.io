@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The volcano produces a great deal of mercury and sulfur. It seems the alchemists have been the main beneficiaries of the demonic invasion.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

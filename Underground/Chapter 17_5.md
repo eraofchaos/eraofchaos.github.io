@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Perhaps I've lost an elf's innocence, but I don't regret it. 
 
- **Related to:** [Chapter 17](/Underground/Chapter 17/)
+ **Related to:** [Underground Chapter 17](/Underground/Chapter 17/)
 
 ## Drop Reward
 

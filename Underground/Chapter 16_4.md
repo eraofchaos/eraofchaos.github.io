@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The moment I lead the charge, I forsake my life. 
 
- **Related to:** [Chapter 16](/Underground/Chapter 16/)
+ **Related to:** [Underground Chapter 16](/Underground/Chapter 16/)
 
 ## Drop Reward
 

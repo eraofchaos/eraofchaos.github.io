@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Our enemies are greater than ever in strength. We must keep fighting until our allies arrive. We must!
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

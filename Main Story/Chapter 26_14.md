@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Scholars in Bracada supposed that: Inbreeding of similar species never happens. But it is not a broad phenomenon in Antagarich.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

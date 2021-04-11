@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** They don't possess much territory in the area. Once we cross the mountains, we will arrive at a human city. A prosperous, civilized place.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

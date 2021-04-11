@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have escaped! Our paths have taken us to a strange, desolate land. There are natives here but they are few.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

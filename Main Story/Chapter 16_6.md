@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You came upon a bagful of gold; upon its label was stitched the name 'Midas'. It's been said that he turned his daughter into gold.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

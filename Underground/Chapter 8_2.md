@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I never miss! Except when the wind gets in the way. Or my hair gets in my eyes... Or I get distracted. But apart from that, I never miss!
 
- **Related to:** [Chapter 8](/Underground/Chapter 8/)
+ **Related to:** [Underground Chapter 8](/Underground/Chapter 8/)
 
 ## Drop Reward
 

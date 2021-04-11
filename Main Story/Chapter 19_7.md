@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Many ancient monoliths can be found in Antagarich. Knowing where they are and how to use them is crucial to each commander.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

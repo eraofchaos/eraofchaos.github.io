@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I may be weak and small, but I shall never cower in fear!
 
- **Related to:** [Chapter 20](/Underground/Chapter 20/)
+ **Related to:** [Underground Chapter 20](/Underground/Chapter 20/)
 
 ## Drop Reward
 

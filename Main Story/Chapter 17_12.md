@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** If the necromancers of the world united, nobody alive would be able to stand in their way. Luckily they are a selfish and quarrelsome people and teamwork is the last thing on their minds.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

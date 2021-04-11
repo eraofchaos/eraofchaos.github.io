@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The Monk in the garden invites you to join his meditation. As your mind clears, your understanding increases.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

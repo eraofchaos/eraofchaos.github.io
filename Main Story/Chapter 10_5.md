@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We will have to distract them with a small group of soldiers, then draw them in and speedily dispatch them. If the battle drags on, we will all die.
 
- **Related to:** [Chapter 10](/Main Story/Chapter 10/)
+ **Related to:** [Main Story Chapter 10](/Main Story/Chapter 10/)
 
 ## Drop Reward
 

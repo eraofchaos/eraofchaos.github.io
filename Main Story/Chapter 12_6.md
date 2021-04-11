@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We can ask the soldiers about this place's secrets but we will have to do something to make them talk.
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

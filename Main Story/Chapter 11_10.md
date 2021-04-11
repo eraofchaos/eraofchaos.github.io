@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Battle is coming. We can't allow Kendal to leave us now. Luckily, we have a Mage in our army. They know the secrets to controlling people's minds.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

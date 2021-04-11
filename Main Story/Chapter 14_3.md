@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We have conquered one of the enemy's ramparts but their defenses are proving difficult to break. We have to do this quickly or we're in trouble.
 
- **Related to:** [Chapter 14](/Main Story/Chapter 14/)
+ **Related to:** [Main Story Chapter 14](/Main Story/Chapter 14/)
 
 ## Drop Reward
 

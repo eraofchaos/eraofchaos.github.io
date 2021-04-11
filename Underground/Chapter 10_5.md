@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This day will be filled with disasters. Floods will rise and mountains fall.
 
- **Related to:** [Chapter 10](/Underground/Chapter 10/)
+ **Related to:** [Underground Chapter 10](/Underground/Chapter 10/)
 
 ## Drop Reward
 

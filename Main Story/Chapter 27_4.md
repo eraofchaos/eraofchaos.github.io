@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** People living underground have been evolving over years. But only very few of them have the visual power to distinguish things in the dark.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

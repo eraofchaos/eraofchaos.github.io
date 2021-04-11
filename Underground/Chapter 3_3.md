@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I am reborn. I can feel fire burning in my veins.
 
- **Related to:** [Chapter 3](/Underground/Chapter 3/)
+ **Related to:** [Underground Chapter 3](/Underground/Chapter 3/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Besides Kendal, we should find some of our old friends. With their aid, it will be far easier to defeat Crag Hack.
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

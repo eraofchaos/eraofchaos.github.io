@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Forgive me, my lord! I didn't mean to miss... Oh, watch out for the bee!
 
- **Related to:** [Chapter 2](/Underground/Chapter 2/)
+ **Related to:** [Underground Chapter 2](/Underground/Chapter 2/)
 
 ## Drop Reward
 

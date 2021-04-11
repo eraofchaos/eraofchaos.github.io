@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We demanded that the shrine is destroyed, and the natives refused us. Now we are fighting once again. We cannot leave the shrine intact.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

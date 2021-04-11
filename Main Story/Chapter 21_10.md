@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Barbarians have lived in Krewlod far longer than the Orcs. No one knows when the two groups began to live side-by-side, adopting common customs and culture.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We are not far from Krewlod now. The stench of death is in the air. I fear for our allies.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

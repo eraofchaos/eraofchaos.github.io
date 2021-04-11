@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A huge fissure tears the earth apart. The Blackrock Chasm Castle stands proudly within it, filled with garrisoned troops.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

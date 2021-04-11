@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** An elf tells you the refinery is destroying the balance of nature. You need to convince him that it is harmless.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

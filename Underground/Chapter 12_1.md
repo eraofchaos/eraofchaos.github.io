@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I am a lone rider, standing for the weak against the wicked.
 
- **Related to:** [Chapter 12](/Underground/Chapter 12/)
+ **Related to:** [Underground Chapter 12](/Underground/Chapter 12/)
 
 ## Drop Reward
 

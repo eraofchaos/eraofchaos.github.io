@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Unifying the nation has always been Mutare's dream. Mutare will destroy everything stopping her from the dream, whether it is a human or a dragon.
 
- **Related to:** [Chapter 27](/Main Story/Chapter 27/)
+ **Related to:** [Main Story Chapter 27](/Main Story/Chapter 27/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** It's known all over Antagarich that the best artifacts are those constructed by elves. They brought ancient and otherwise forgotten techniques with them when they travelled from Vori.
 
- **Related to:** [Chapter 17](/Main Story/Chapter 17/)
+ **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 
 ## Drop Reward
 

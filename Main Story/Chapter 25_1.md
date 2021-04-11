@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Nighon is a country consisting of many cities and states that are ruled by families. Territorial disputes never stop among them.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

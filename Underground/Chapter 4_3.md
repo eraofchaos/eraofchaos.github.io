@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Don't you love fire? The way it swallows and consumes everything in its path? Just look at those fleeing crowds.
 
- **Related to:** [Chapter 4](/Underground/Chapter 4/)
+ **Related to:** [Underground Chapter 4](/Underground/Chapter 4/)
 
 ## Drop Reward
 

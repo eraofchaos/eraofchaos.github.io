@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Different dragons have different magical specialities. In many cases, they use their magic to improve their appearance.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

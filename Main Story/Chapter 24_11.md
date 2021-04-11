@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** In most legends, dragons tend to kidnap the princess of a country instead of hoarding treasures. Given that dragons love treasure above all else, I can only assume that the kingdoms they are attacking are rather poor.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

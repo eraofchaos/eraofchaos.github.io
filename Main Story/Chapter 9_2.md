@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The elves have sensed something. We need to be cautious and cross quietly. If we fight them now, we will be severely delayed.
 
- **Related to:** [Chapter 9](/Main Story/Chapter 9/)
+ **Related to:** [Main Story Chapter 9](/Main Story/Chapter 9/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Every 30 years, the youngsters of Krewlod have the chance to fight for the title of Duke. This is an old custom of Krewlod that has lasted for generations.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

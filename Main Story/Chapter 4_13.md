@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Your lieutenant warns you not to stay here. This place has an aura of death, and your troops can feel it.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

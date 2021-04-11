@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** These woods are highly treasured to the local Elves. They would painstakingly gather it from the trees and turn it into glittering treasures. Their glow is especially valuable to anyone lost in the forest; many weary travelers have found their way home by woodlight.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

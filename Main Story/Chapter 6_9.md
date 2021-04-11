@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** For ordinary people, ghosts and demons represent the very concept of evil. Only a few humans have witnessed their presence in person, but those who have, speak of horrors. At least, those who lived to tell the tale.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

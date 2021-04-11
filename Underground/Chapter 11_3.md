@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A meal of delicious fruit and springwater! What a life.
 
- **Related to:** [Chapter 11](/Underground/Chapter 11/)
+ **Related to:** [Underground Chapter 11](/Underground/Chapter 11/)
 
 ## Drop Reward
 

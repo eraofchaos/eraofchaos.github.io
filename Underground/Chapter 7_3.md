@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I have a beautiful wife, a grand house, and as much money as I could ever want. Why should I envy you? You are merely a lonely, old dog.
 
- **Related to:** [Chapter 7](/Underground/Chapter 7/)
+ **Related to:** [Underground Chapter 7](/Underground/Chapter 7/)
 
 ## Drop Reward
 

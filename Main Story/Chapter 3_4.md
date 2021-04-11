@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You approach the crypt of the ancient hero carefully, and find that its inhabitant has awakened from his deep sleep.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Mortals, the power of magic is something you should not touch!
 
- **Related to:** [Chapter 19](/Underground/Chapter 19/)
+ **Related to:** [Underground Chapter 19](/Underground/Chapter 19/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Only one solution remains for the two species: men will kill any demon who ventures into their territory, and demons shall do the same towards men.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

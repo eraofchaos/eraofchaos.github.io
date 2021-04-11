@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The world belongs to creatures flying in the skies.
 
- **Related to:** [Chapter 23](/Underground/Chapter 23/)
+ **Related to:** [Underground Chapter 23](/Underground/Chapter 23/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Every dragon is born a spellcaster, though most of them tend to rely on dragon breath, which is a more powerful and direct attack in battle.
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

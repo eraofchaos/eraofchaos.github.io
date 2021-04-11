@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Every ordinary mage dreams of owning a mage tower. Unfortunately, mage towers are costly both to establish and maintain. Few get a chance to live their dreams.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

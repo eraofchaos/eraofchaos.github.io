@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The one who rests in the coffin lost his spirit long ago. The only things moving here are the undead, who are filled with a terrible anger towards the living.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

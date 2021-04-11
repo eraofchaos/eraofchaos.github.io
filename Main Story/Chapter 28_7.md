@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A high-level altar has been discovered, but it has lost its power. All you can do now is regretfully turn back.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

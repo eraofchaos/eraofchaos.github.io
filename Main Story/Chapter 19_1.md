@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A thousand years ago, an empire established by wizards arose in Antagarich. It governed most of the areas outside what are now Eeofol and Avlee.
 
- **Related to:** [Chapter 19](/Main Story/Chapter 19/)
+ **Related to:** [Main Story Chapter 19](/Main Story/Chapter 19/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Nighon is just a geographical term these days. Nighon's people speak the same language and enjoy the same traditions, but even so it is still not unified under one rule.
 
- **Related to:** [Chapter 26](/Main Story/Chapter 26/)
+ **Related to:** [Main Story Chapter 26](/Main Story/Chapter 26/)
 
 ## Drop Reward
 

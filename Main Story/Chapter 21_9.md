@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Many mages have claimed that Orcs are a result of forbidden magical experimentation. Orcs, on the other hand, claim that their origin is far more exotic; that their ancestors came from outer space.
 
- **Related to:** [Chapter 21](/Main Story/Chapter 21/)
+ **Related to:** [Main Story Chapter 21](/Main Story/Chapter 21/)
 
 ## Drop Reward
 

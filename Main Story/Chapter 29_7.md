@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The invasion of evil destroyed the sacred Unicorn nest. This caused the Unicorns, practically driven mad, to attack passersby on the road in an attempt at vengeance.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

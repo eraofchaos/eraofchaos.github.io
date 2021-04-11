@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Some trees pull their roots up from the earth to walk on the ground, attacking you by swinging their huge branches.
 
- **Related to:** [Chapter 29](/Main Story/Chapter 29/)
+ **Related to:** [Main Story Chapter 29](/Main Story/Chapter 29/)
 
 ## Drop Reward
 

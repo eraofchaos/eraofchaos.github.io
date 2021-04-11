@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Lying awake at night, you suddenly remember something your mother used to say. \"If you think about your actions, often you can defeat your enemies without a battle.\"
 
- **Related to:** [Chapter 22](/Main Story/Chapter 22/)
+ **Related to:** [Main Story Chapter 22](/Main Story/Chapter 22/)
 
 ## Drop Reward
 

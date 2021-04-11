@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Howard's family once was the most powerful political force in Nighon. The family suffered a disastrous decline because of unsuccesful invasion.
 
- **Related to:** [Chapter 25](/Main Story/Chapter 25/)
+ **Related to:** [Main Story Chapter 25](/Main Story/Chapter 25/)
 
 ## Drop Reward
 

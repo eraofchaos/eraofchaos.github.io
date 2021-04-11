@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Above these ghosts, the most well known are the Liches. Their creeping magic tortures the souls of their enemies, inflicting unspeakable pain that makes death seem like mercy.
 
- **Related to:** [Chapter 6](/Main Story/Chapter 6/)
+ **Related to:** [Main Story Chapter 6](/Main Story/Chapter 6/)
 
 ## Drop Reward
 

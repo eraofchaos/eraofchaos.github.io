@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You awake from a strange and terrifying dream. You were a dying Faerie Dragon and the dragonslayer who attacked you seemed to have your own face.
 
- **Related to:** [Chapter 24](/Main Story/Chapter 24/)
+ **Related to:** [Main Story Chapter 24](/Main Story/Chapter 24/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You wingless crawlers can never understand how it feels to soar in the sky.
 
- **Related to:** [Chapter 16](/Underground/Chapter 16/)
+ **Related to:** [Underground Chapter 16](/Underground/Chapter 16/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** You may think I'm dead and in my grave, but I'm ready and waiting to plunge my blade into your chest.
 
- **Related to:** [Chapter 13](/Underground/Chapter 13/)
+ **Related to:** [Underground Chapter 13](/Underground/Chapter 13/)
 
 ## Drop Reward
 

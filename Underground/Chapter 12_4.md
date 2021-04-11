@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I have lived upon this snowy mountain since ancient times. I've seen empires and kingdoms rise and fall.
 
- **Related to:** [Chapter 12](/Underground/Chapter 12/)
+ **Related to:** [Underground Chapter 12](/Underground/Chapter 12/)
 
 ## Drop Reward
 

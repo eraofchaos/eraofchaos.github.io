@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The elves are prepared for a fight and we cannot expect to proceed unimpeded from here. We need to be ready for battle.
 
- **Related to:** [Chapter 8](/Main Story/Chapter 8/)
+ **Related to:** [Main Story Chapter 8](/Main Story/Chapter 8/)
 
 ## Drop Reward
 

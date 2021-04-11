@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A human Mage, vain and fearing old age, once sought out a sinister stone mask that he'd read of in forbidden texts. Far from the eternal youth he wanted, the moment it touched his skin he became a wrinkled and hideous vampire.
 
- **Related to:** [Chapter 16](/Main Story/Chapter 16/)
+ **Related to:** [Main Story Chapter 16](/Main Story/Chapter 16/)
 
 ## Drop Reward
 

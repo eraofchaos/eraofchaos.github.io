@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Kendal is afraid now. He even suggested retreat. 
 
- **Related to:** [Chapter 11](/Main Story/Chapter 11/)
+ **Related to:** [Main Story Chapter 11](/Main Story/Chapter 11/)
 
 ## Drop Reward
 

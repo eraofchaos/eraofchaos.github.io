@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The dark before dawn is so silent that it's suffocating. We travel as quietly as we can, cautious in case there are wild beasts looking for food in the shadows.
 
- **Related to:** [Chapter 13](/Main Story/Chapter 13/)
+ **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 
 ## Drop Reward
 

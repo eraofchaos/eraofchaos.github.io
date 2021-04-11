@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** One day I will return to avenge my loss, humans.
 
- **Related to:** [Chapter 15](/Main Story/Chapter 15/)
+ **Related to:** [Main Story Chapter 15](/Main Story/Chapter 15/)
 
 ## Drop Reward
 

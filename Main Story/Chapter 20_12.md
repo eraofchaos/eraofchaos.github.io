@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** According to The Guide to Magic Factions, magic is split into four factions, based upon their intrinsic nature: water, air, fire and earth.
 
- **Related to:** [Chapter 20](/Main Story/Chapter 20/)
+ **Related to:** [Main Story Chapter 20](/Main Story/Chapter 20/)
 
 ## Drop Reward
 

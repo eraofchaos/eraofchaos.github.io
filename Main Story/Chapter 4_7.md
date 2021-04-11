@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Many generations ago, Griffins were the main forces that helped to establish Erathia. Now, they are the key to the kingdom's restoration.
 
- **Related to:** [Chapter 4](/Main Story/Chapter 4/)
+ **Related to:** [Main Story Chapter 4](/Main Story/Chapter 4/)
 
 ## Drop Reward
 

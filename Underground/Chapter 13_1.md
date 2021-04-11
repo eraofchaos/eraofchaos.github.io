@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I will watch you from the moment you step into the Inferno, to the moment you are swallowed whole.
 
- **Related to:** [Chapter 13](/Underground/Chapter 13/)
+ **Related to:** [Underground Chapter 13](/Underground/Chapter 13/)
 
 ## Drop Reward
 

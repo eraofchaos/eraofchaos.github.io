@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Gold ore is an important wartime resource, but this gold mine seems to have been deserted. Now, only some scattered tools remain.
 
- **Related to:** [Chapter 28](/Main Story/Chapter 28/)
+ **Related to:** [Main Story Chapter 28](/Main Story/Chapter 28/)
 
 ## Drop Reward
 

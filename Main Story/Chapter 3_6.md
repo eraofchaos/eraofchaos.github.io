@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A group of bandits are dividing their loot. Your arrival causes them to panic.
 
- **Related to:** [Chapter 3](/Main Story/Chapter 3/)
+ **Related to:** [Main Story Chapter 3](/Main Story/Chapter 3/)
 
 ## Drop Reward
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** I am as insignificant as a mere grain of sand on a beach. Truly, completely insignificant.
 
- **Related to:** [Chapter 9](/Underground/Chapter 9/)
+ **Related to:** [Underground Chapter 9](/Underground/Chapter 9/)
 
 ## Drop Reward
 

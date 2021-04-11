@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Let us find out what sort of person governs this place. Maybe he will sit down and talk with us.
 
- **Related to:** [Chapter 7](/Main Story/Chapter 7/)
+ **Related to:** [Main Story Chapter 7](/Main Story/Chapter 7/)
 
 ## Drop Reward
 

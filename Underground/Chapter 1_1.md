@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** We, the vanguards, are first to enter the underground. The darkness in here gives me the creeps. 
 
- **Related to:** [Chapter 1](/Underground/Chapter 1/)
+ **Related to:** [Underground Chapter 1](/Underground/Chapter 1/)
 
 ## Drop Reward
 

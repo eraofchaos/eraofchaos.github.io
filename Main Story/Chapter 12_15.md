@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Hurry! We must conquer the city as fast as possible. I can feel a deadly wind approaching. We cannot fight it!
 
- **Related to:** [Chapter 12](/Main Story/Chapter 12/)
+ **Related to:** [Main Story Chapter 12](/Main Story/Chapter 12/)
 
 ## Drop Reward
 

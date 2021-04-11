@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Avert your gaze, lowborn. Go back to the ditch that birthed you.
 
- **Related to:** [Chapter 7](/Underground/Chapter 7/)
+ **Related to:** [Underground Chapter 7](/Underground/Chapter 7/)
 
 ## Drop Reward
 

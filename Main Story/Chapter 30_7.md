@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Sulfur is rather abundant near the magma, but this place is currently guarded by the Inferno's forces.
 
- **Related to:** [Chapter 30](/Main Story/Chapter 30/)
+ **Related to:** [Main Story Chapter 30](/Main Story/Chapter 30/)
 
 ## Drop Reward
 

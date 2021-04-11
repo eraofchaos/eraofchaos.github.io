@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The water elementals do not want to return the captured town. You have no choice.
 
- **Related to:** [Chapter 1](/Main Story/Chapter 1/)
+ **Related to:** [Main Story Chapter 1](/Main Story/Chapter 1/)
 
 ## Drop Reward
 

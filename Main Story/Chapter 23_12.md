@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Legend has it that bathing in the blood of a dragon can make a warrior impenetrable. The unfortunate warrior who tried to bathe in Rust Dragon blood would die a quick and agonising death, however, his flesh melting from his bones.
 
- **Related to:** [Chapter 23](/Main Story/Chapter 23/)
+ **Related to:** [Main Story Chapter 23](/Main Story/Chapter 23/)
 
 ## Drop Reward
 
