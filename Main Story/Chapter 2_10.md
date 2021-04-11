@@ -27,7 +27,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Roland](/heroes/Roland/)
 
  **Team:**
 

@@ -27,7 +27,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Adelaide](/heroes/Adelaide/)
 
  **Team:**
 

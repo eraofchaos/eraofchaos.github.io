@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Zydar](/heroes/Zydar/)
 
  **Team:**
 

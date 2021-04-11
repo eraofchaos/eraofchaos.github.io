@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Dracon](/heroes/Dracon/)
 
  **Team:**
 

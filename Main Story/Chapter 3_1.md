@@ -27,7 +27,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** -
+ **Hero:** h_Adelaide
 
  **Team:**
 

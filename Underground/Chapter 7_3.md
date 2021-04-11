@@ -31,7 +31,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Gelu](/heroes/Gelu/)
 
  **Team:**
 

@@ -31,7 +31,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Mephala](/heroes/Mephala/)
 
  **Team:**
 
