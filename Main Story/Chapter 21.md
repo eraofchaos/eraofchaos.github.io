@@ -28,6 +28,12 @@ classes: wide
   | [21-15 Uraque](/Main Story/Chapter 21_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Eternal Crystal +1](/Items/mat_73/){: .btn .btn--era5}, [Mythical Gems](/Items/mat_65/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 21
+
+ **Reward:** [Yog](/heroes/Yog/)
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

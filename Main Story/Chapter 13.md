@@ -28,6 +28,12 @@ classes: wide
   | [13-15 Victory or Death](/Main Story/Chapter 13_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Rare Crystal +1](/Items/mat_45/){: .btn .btn--era4}, [Exceptional Gems](/Items/mat_37/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 13
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

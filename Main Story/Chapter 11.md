@@ -28,6 +28,12 @@ classes: wide
   | [11-15 Fish in Troubled Waters](/Main Story/Chapter 11_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Exceptional Crystal](/Items/mat_38/){: .btn .btn--era4}, [Valuable Gems +2](/Items/mat_30/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 11
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

@@ -28,6 +28,12 @@ classes: wide
   | [6-15 Killing Night](/Main Story/Chapter 6_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Superior Ore +1](/Items/mat_19/){: .btn .btn--era3}, [Good Wood](/Items/mat_13/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 6
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

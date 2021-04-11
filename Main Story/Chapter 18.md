@@ -28,6 +28,12 @@ classes: wide
   | [18-15 Pierpont](/Main Story/Chapter 18_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Mythical Ore](/Items/mat_61/){: .btn .btn--era5}, [Legendary Wood +3](/Items/mat_55/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 18
+
+ **Reward:** [Mephala](/heroes/Mephala/)
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

@@ -28,6 +28,12 @@ classes: wide
   | [10-15 Invitation to Your Funeral](/Main Story/Chapter 10_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Exceptional Ore](/Items/mat_33/){: .btn .btn--era4}, [Valuable Wood +2](/Items/mat_27/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 10
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

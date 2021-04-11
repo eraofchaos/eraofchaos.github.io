@@ -28,6 +28,12 @@ classes: wide
   | [17-15 Invasion of Evil](/Main Story/Chapter 17_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Legendary Crystal +3](/Items/mat_59/){: .btn .btn--era4}, [Epic Gems +2](/Items/mat_51/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 17
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

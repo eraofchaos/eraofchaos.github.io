@@ -28,6 +28,12 @@ classes: wide
   | [9-15 An Angel Descends](/Main Story/Chapter 9_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Valuable Crystal +2](/Items/mat_31/){: .btn .btn--era3}, [Superior Gems +1](/Items/mat_23/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 9
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

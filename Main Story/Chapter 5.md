@@ -28,6 +28,12 @@ classes: wide
   | [5-15 War Breaks Out](/Main Story/Chapter 5_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Crystal](/Items/mat_17/){: .btn .btn--era3}, [Common Gems](/Items/mat_10/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 5
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

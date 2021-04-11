@@ -28,6 +28,12 @@ classes: wide
   | [7-15 A Hero's End](/Main Story/Chapter 7_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Superior Crystal +1](/Items/mat_24/){: .btn .btn--era3}, [Good Gems](/Items/mat_16/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 7
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

@@ -28,6 +28,12 @@ classes: wide
   | [24-15 Magic Realm](/Main Story/Chapter 24_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Soul Crystal +3](/Items/mat_87/){: .btn .btn--era5}, [Secret Gems +2](/Items/mat_79/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 24
+
+ **Reward:** [Dracon](/heroes/Dracon/)
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

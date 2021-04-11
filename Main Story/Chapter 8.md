@@ -28,6 +28,12 @@ classes: wide
   | [8-15 The Brave Advance](/Main Story/Chapter 8_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Valuable Ore +2](/Items/mat_26/){: .btn .btn--era3}, [Superior Wood +1](/Items/mat_20/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 8
+
+ **Reward:** [Rashka](/heroes/Rashka/)
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

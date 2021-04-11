@@ -28,6 +28,12 @@ classes: wide
   | [29-15 Blackrock Chasm](/Main Story/Chapter 29_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Radiant Crystal +5](/Items/mat_101/){: .btn .btn--era5}, [Star Gems +4](/Items/mat_93/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 29
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **100x** <i class="fas fa-gem"/>

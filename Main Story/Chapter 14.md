@@ -28,6 +28,12 @@ classes: wide
   | [14-15 The Crazed Beast](/Main Story/Chapter 14_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Epic Ore +2](/Items/mat_47/){: .btn .btn--era4}, [Rare Wood +1](/Items/mat_41/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 14
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

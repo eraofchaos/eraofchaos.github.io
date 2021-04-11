@@ -28,6 +28,12 @@ classes: wide
   | [16-15 Dwarf Guard](/Main Story/Chapter 16_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Legendary Ore +3](/Items/mat_54/){: .btn .btn--era4}, [Epic Wood +2](/Items/mat_48/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 16
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

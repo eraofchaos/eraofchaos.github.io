@@ -28,6 +28,12 @@ classes: wide
   | [15-15 The Last Battle](/Main Story/Chapter 15_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Epic Crystal +2](/Items/mat_52/){: .btn .btn--era4}, [Rare Gems +1](/Items/mat_44/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 15
+
+ **Reward:** [Solmyr](/heroes/Solmyr/)
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

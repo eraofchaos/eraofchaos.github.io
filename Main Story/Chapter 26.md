@@ -28,6 +28,12 @@ classes: wide
   | [26-15 Nighon Stories](/Main Story/Chapter 26_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Star Crystal +4](/Items/mat_94/){: .btn .btn--era5}, [Soul Gems +3](/Items/mat_86/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 26
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **100x** <i class="fas fa-gem"/>

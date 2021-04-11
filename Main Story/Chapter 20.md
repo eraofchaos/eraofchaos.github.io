@@ -28,6 +28,12 @@ classes: wide
   | [20-15 Groya](/Main Story/Chapter 20_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Eternal Ore +1](/Items/mat_68/){: .btn .btn--era5}, [Mythical Wood](/Items/mat_62/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 20
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

@@ -28,6 +28,12 @@ classes: wide
   | [19-15 Celeste](/Main Story/Chapter 19_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Mythical Crystal](/Items/mat_66/){: .btn .btn--era5}, [Legendary Gems +3](/Items/mat_58/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 19
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

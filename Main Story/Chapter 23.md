@@ -28,6 +28,12 @@ classes: wide
   | [23-15 City of Sulfur and Flame](/Main Story/Chapter 23_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Secret Crystal +2](/Items/mat_80/){: .btn .btn--era5}, [Eternal Gems +1](/Items/mat_72/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 23
+
+ **Reward:**  **100x** <i class="fas fa-gem"/>
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

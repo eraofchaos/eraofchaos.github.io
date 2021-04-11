@@ -28,6 +28,12 @@ classes: wide
   | [12-15 Every Minute Counts](/Main Story/Chapter 12_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Rare Ore +1](/Items/mat_40/){: .btn .btn--era4}, [Exceptional Wood](/Items/mat_34/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 12
+
+ **Reward:** [Crag Hack](/heroes/Crag Hack/)
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **50x** <i class="fas fa-gem"/>

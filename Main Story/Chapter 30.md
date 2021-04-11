@@ -28,6 +28,12 @@ classes: wide
   | [30-15 Kleesive](/Main Story/Chapter 30_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Radiant Crystal +5](/Items/mat_101/){: .btn .btn--era5}, [Star Gems +4](/Items/mat_93/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 
+## Complete Chapter 30
+
+ **Reward:** [Kendal](/heroes/Kendal/)
+
+
+
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
 
  Reward 1:  **100x** <i class="fas fa-gem"/>
