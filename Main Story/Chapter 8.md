@@ -26,3 +26,39 @@ classes: wide
   | [8-13 Badly Shaken](/Main Story/Chapter 8_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Valuable Mercury +2](/Items/mat_28/){: .btn .btn--era3}, [Superior Sulfur +1](/Items/mat_22/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [8-14 Forest Corrosion](/Main Story/Chapter 8_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Valuable Sulfur +2](/Items/mat_29/){: .btn .btn--era3}, [Superior Ore +1](/Items/mat_19/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [8-15 The Brave Advance](/Main Story/Chapter 8_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Valuable Ore +2](/Items/mat_26/){: .btn .btn--era3}, [Superior Wood +1](/Items/mat_20/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **20000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **10 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **30000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **3000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1:  **450x** <i class="fas fa-gem"/>
+
+ Reward 2: **15 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **50000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **5000x** Unit EXP
+

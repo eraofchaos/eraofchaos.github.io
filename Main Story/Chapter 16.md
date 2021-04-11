@@ -26,3 +26,39 @@ classes: wide
   | [16-13 Trap to Catch the Beast](/Main Story/Chapter 16_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Legendary Mercury +3](/Items/mat_56/){: .btn .btn--era4}, [Epic Sulfur +2](/Items/mat_50/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [16-14 Ranger's Gratitude](/Main Story/Chapter 16_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Legendary Sulfur +3](/Items/mat_57/){: .btn .btn--era4}, [Epic Ore +2](/Items/mat_47/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [16-15 Dwarf Guard](/Main Story/Chapter 16_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Legendary Ore +3](/Items/mat_54/){: .btn .btn--era4}, [Epic Wood +2](/Items/mat_48/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **15 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **50000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **5000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **20 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **80000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **8000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1:  **500x** <i class="fas fa-gem"/>
+
+ Reward 2: **25 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **100000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **10000x** Unit EXP
+

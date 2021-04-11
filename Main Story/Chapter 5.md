@@ -26,3 +26,39 @@ classes: wide
   | [5-13 Enthusiastic Revenge](/Main Story/Chapter 5_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Sulfur](/Items/mat_15/){: .btn .btn--era3}, [Common Ore](/Items/mat_6/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [5-14 Dragon Armour](/Main Story/Chapter 5_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Gems](/Items/mat_16/){: .btn .btn--era3}, [Common Crystal](/Items/mat_11/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [5-15 War Breaks Out](/Main Story/Chapter 5_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Crystal](/Items/mat_17/){: .btn .btn--era3}, [Common Gems](/Items/mat_10/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_402
+
+ Reward 2: **10 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **20000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** Unit EXP
+

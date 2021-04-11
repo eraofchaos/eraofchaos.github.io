@@ -26,3 +26,39 @@ classes: wide
   | [24-13 The Elf's Discouragement](/Main Story/Chapter 24_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Soul Sulfur +3](/Items/mat_85/){: .btn .btn--era5}, [Secret Ore +2](/Items/mat_75/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [24-14 Wings of the Butterfly](/Main Story/Chapter 24_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Soul Gems +3](/Items/mat_86/){: .btn .btn--era5}, [Secret Crystal +2](/Items/mat_80/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [24-15 Magic Realm](/Main Story/Chapter 24_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Soul Crystal +3](/Items/mat_87/){: .btn .btn--era5}, [Secret Gems +2](/Items/mat_79/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **15 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **50000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **5000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **20 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **80000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **8000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_702
+
+ Reward 2: **25 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **100000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **10000x** Unit EXP
+

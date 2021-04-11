@@ -26,3 +26,39 @@ classes: wide
   | [9-13 The Army of the Kingdom](/Main Story/Chapter 9_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Valuable Sulfur +2](/Items/mat_29/){: .btn .btn--era3}, [Superior Ore +1](/Items/mat_19/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [9-14 Empire's Glory](/Main Story/Chapter 9_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Valuable Gems +2](/Items/mat_30/){: .btn .btn--era3}, [Superior Crystal +1](/Items/mat_24/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [9-15 An Angel Descends](/Main Story/Chapter 9_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Valuable Crystal +2](/Items/mat_31/){: .btn .btn--era3}, [Superior Gems +1](/Items/mat_23/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **20000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **10 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **30000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **3000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_504
+
+ Reward 2: **15 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **50000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **5000x** Unit EXP
+

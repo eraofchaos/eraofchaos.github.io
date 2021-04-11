@@ -26,3 +26,39 @@ classes: wide
   | [13-13 The Chase](/Main Story/Chapter 13_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Rare Sulfur +1](/Items/mat_43/){: .btn .btn--era4}, [Exceptional Ore](/Items/mat_33/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [13-14 A Long Struggle](/Main Story/Chapter 13_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Rare Gems +1](/Items/mat_44/){: .btn .btn--era4}, [Exceptional Crystal](/Items/mat_38/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [13-15 Victory or Death](/Main Story/Chapter 13_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Rare Crystal +1](/Items/mat_45/){: .btn .btn--era4}, [Exceptional Gems](/Items/mat_37/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **10 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **50000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **5000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **15 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **80000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **8000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_602
+
+ Reward 2: **20 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **100000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **10000x** Unit EXP
+

@@ -26,3 +26,39 @@ classes: wide
   | [26-13 Banshee's Reproduction](/Main Story/Chapter 26_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Star Sulfur +4](/Items/mat_92/){: .btn .btn--era5}, [Soul Ore +3](/Items/mat_82/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [26-14 Reproductive Isolation](/Main Story/Chapter 26_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Star Gems +4](/Items/mat_93/){: .btn .btn--era5}, [Soul Crystal +3](/Items/mat_87/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [26-15 Nighon Stories](/Main Story/Chapter 26_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Star Crystal +4](/Items/mat_94/){: .btn .btn--era5}, [Soul Gems +3](/Items/mat_86/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **100x** <i class="fas fa-gem"/>
+
+ Reward 2: **30 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **200000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **50000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **100x** <i class="fas fa-gem"/>
+
+ Reward 2: **40 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **300000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **80000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: **50 x** [Stone Gargoyle](/Items/unt_236/){: .btn .btn--era4}
+
+ Reward 2: **50 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **500000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **100000x** Unit EXP
+

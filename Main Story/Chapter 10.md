@@ -26,3 +26,39 @@ classes: wide
   | [10-13 Crisis Brewing](/Main Story/Chapter 10_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Exceptional Mercury](/Items/mat_35/){: .btn .btn--era4}, [Valuable Sulfur +2](/Items/mat_29/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [10-14 Death Ripple](/Main Story/Chapter 10_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Exceptional Sulfur](/Items/mat_36/){: .btn .btn--era4}, [Valuable Ore +2](/Items/mat_26/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [10-15 Invitation to Your Funeral](/Main Story/Chapter 10_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Exceptional Ore](/Items/mat_33/){: .btn .btn--era4}, [Valuable Wood +2](/Items/mat_27/){: .btn .btn--era3}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **10 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **30000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **3000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **15 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **50000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **5000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1:  **500x** <i class="fas fa-gem"/>
+
+ Reward 2: **20 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **80000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **8000x** Unit EXP
+

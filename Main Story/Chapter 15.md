@@ -26,3 +26,39 @@ classes: wide
   | [15-13 Battle Altar](/Main Story/Chapter 15_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Epic Sulfur +2](/Items/mat_50/){: .btn .btn--era4}, [Rare Ore +1](/Items/mat_40/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [15-14 The Demon Emerges](/Main Story/Chapter 15_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Epic Gems +2](/Items/mat_51/){: .btn .btn--era4}, [Rare Crystal +1](/Items/mat_45/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [15-15 The Last Battle](/Main Story/Chapter 15_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Epic Crystal +2](/Items/mat_52/){: .btn .btn--era4}, [Rare Gems +1](/Items/mat_44/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **15 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **50000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **5000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **20 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **80000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **8000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_603
+
+ Reward 2: **25 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **100000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **10000x** Unit EXP
+

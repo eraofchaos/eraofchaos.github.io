@@ -21,3 +21,27 @@ classes: wide
   | [2-8 Friendly Exchange](/Main Story/Chapter 2_8/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Common Mercury](/Items/mat_8/){: .btn .btn--era2}, [Inferior Sulfur](/Items/mat_3/){: .btn .btn--era1} |
   | [2-9 The Grail Prophet](/Main Story/Chapter 2_9/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Common Sulfur](/Items/mat_9/){: .btn .btn--era2}, [Inferior Ore](/Items/mat_1/){: .btn .btn--era1} |
   | [2-10 City of Trailia](/Main Story/Chapter 2_10/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Common Ore](/Items/mat_6/){: .btn .btn--era2}, [Inferior Wood](/Items/mat_1/){: .btn .btn--era1} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/30</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **5000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/30</span>
+
+ Reward 1:  **300x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** Unit EXP
+

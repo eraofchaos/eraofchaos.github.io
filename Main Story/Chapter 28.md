@@ -26,3 +26,39 @@ classes: wide
   | [28-13 Workshop](/Main Story/Chapter 28_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Radiant Sulfur +5](/Items/mat_99/){: .btn .btn--era5}, [Star Ore +4](/Items/mat_89/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [28-14 Holy Sanctuary](/Main Story/Chapter 28_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Radiant Gems +5](/Items/mat_100/){: .btn .btn--era5}, [Star Crystal +4](/Items/mat_94/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [28-15 Sunset City](/Main Story/Chapter 28_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Radiant Crystal +5](/Items/mat_101/){: .btn .btn--era5}, [Star Gems +4](/Items/mat_93/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **100x** <i class="fas fa-gem"/>
+
+ Reward 2: **30 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **200000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **50000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **100x** <i class="fas fa-gem"/>
+
+ Reward 2: **40 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **300000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **90000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1:  **500x** <i class="fas fa-gem"/>
+
+ Reward 2: **25 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **100000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **10000x** Unit EXP
+

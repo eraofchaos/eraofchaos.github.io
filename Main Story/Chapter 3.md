@@ -26,3 +26,39 @@ classes: wide
   | [3-13 Stables and Forests](/Main Story/Chapter 3_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Common Sulfur](/Items/mat_9/){: .btn .btn--era2}, [Inferior Ore](/Items/mat_1/){: .btn .btn--era1} |
   | [3-14 The Alchemist's Lab](/Main Story/Chapter 3_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Common Gems](/Items/mat_10/){: .btn .btn--era2}, [Inferior Crystal](/Items/mat_5/){: .btn .btn--era1} |
   | [3-15 City of Sin](/Main Story/Chapter 3_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Common Crystal](/Items/mat_11/){: .btn .btn--era2}, [Inferior Gems](/Items/mat_4/){: .btn .btn--era1} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **2 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **5000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_201
+
+ Reward 2: **5 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** Unit EXP
+

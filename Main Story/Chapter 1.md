@@ -16,3 +16,15 @@ classes: wide
   | [1-3 Fountain of Youth](/Main Story/Chapter 1_3/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Inferior Mercury](/Items/mat_2/){: .btn .btn--era1}, [Inferior Wood](/Items/mat_1/){: .btn .btn--era1} |
   | [1-4 Tree of Knowledge](/Main Story/Chapter 1_4/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Inferior Gems](/Items/mat_4/){: .btn .btn--era1}, [Inferior Crystal](/Items/mat_5/){: .btn .btn--era1} |
   | [1-5 Disaster Strikes](/Main Story/Chapter 1_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Inferior Sulfur](/Items/mat_3/){: .btn .btn--era1}, [Inferior Wood](/Items/mat_1/){: .btn .btn--era1} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/15</span>
+
+ Reward 1: **10 x** [Pikeman](/Items/unt_190/){: .btn .btn--era3}
+
+ Reward 2:  **150x** <i class="fas fa-gem"/>
+
+ Reward 3:  **5000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Unit EXP
+

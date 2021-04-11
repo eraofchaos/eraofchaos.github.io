@@ -26,3 +26,39 @@ classes: wide
   | [29-13 Mercenary Training Camp](/Main Story/Chapter 29_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Radiant Sulfur +5](/Items/mat_99/){: .btn .btn--era5}, [Star Ore +4](/Items/mat_89/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [29-14 High-ranking Temple](/Main Story/Chapter 29_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Radiant Gems +5](/Items/mat_100/){: .btn .btn--era5}, [Star Crystal +4](/Items/mat_94/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [29-15 Blackrock Chasm](/Main Story/Chapter 29_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Radiant Crystal +5](/Items/mat_101/){: .btn .btn--era5}, [Star Gems +4](/Items/mat_93/){: .btn .btn--era5}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **100x** <i class="fas fa-gem"/>
+
+ Reward 2: **30 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **200000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **60000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **100x** <i class="fas fa-gem"/>
+
+ Reward 2: **40 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **300000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **100000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: **50 x** [Regnan Pirates](/Items/unt_273/){: .btn .btn--era4}
+
+ Reward 2: **25 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **100000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **11000x** Unit EXP
+

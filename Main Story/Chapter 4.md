@@ -26,3 +26,39 @@ classes: wide
   | [4-13 Mercenary Guild](/Main Story/Chapter 4_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Mercury](/Items/mat_14/){: .btn .btn--era3}, [Common Sulfur](/Items/mat_9/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [4-14 Sanctuary](/Main Story/Chapter 4_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Sulfur](/Items/mat_15/){: .btn .btn--era3}, [Common Ore](/Items/mat_6/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [4-15 Nest of Wind](/Main Story/Chapter 4_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Ore](/Items/mat_12/){: .btn .btn--era3}, [Common Wood](/Items/mat_7/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **2 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** Unit EXP
+
+
+
+## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1:  **350x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **20000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** Unit EXP
+
