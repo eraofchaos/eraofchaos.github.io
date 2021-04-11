@@ -2,7 +2,7 @@
 title: "Artifacts - Wizard's Well - Magic Charm"
 permalink: /artifacts/Magic Charm/
 excerpt: "Era of Chaos  Wizard's Well - Magic Charm. A charm with magic power. One of the components of the Wizard's Well."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: en
 ref: "Magic Charm.md"
 toc: false

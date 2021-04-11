@@ -2,7 +2,7 @@
 title: "Underground - Chapter 13 - 13-4 Power of the Undead"
 permalink: /Underground/Chapter 13_4/
 excerpt: "Chapter 13 - 4. Era of Chaos  Underground - Chapter 13_4. 13-4 Power of the Undead"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 13_4.md"
 toc: false
@@ -21,9 +21,9 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Book of Essences](/Items/mat_53/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}
 
  **Drop 3:** **100% 2x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Book of Essences](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences](/Items/mat_46/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 

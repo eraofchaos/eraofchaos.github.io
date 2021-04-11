@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-8 The Magic Belt"
 permalink: /Main Story/Chapter 18_8/
 excerpt: "Chapter 18 - 8. Era of Chaos  Main Story - Chapter 18_8. 18-8 The Magic Belt"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 18_8.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Mythical Wood](/Items/mat_62/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Legendary Mercury](/Items/mat_56/){: .btn .btn--era4}, **40% 1x** [Legendary Mercury](/Items/mat_56/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Legendary Mercury +3](/Items/mat_56/){: .btn .btn--era4}, **40% 1x** [Legendary Mercury +3](/Items/mat_56/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

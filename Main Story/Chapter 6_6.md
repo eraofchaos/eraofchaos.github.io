@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-6 Annihilation"
 permalink: /Main Story/Chapter 6_6/
 excerpt: "Chapter 6 - 6. Era of Chaos  Main Story - Chapter 6_6. 6-6 Annihilation"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 6_6.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Superior Mercury](/Items/mat_21/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Superior Mercury +1](/Items/mat_21/){: .btn .btn--era3}
 
  **Drop 2:** **60% 0x** [Good Sulfur](/Items/mat_15/){: .btn .btn--era3}, **40% 1x** [Good Sulfur](/Items/mat_15/){: .btn .btn--era3}
 

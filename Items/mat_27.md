@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Valuable Wood"
+title: "Item - Materials - Valuable Wood +2"
 permalink: /Items/mat_27/
-excerpt: "Era of Chaos  Valuable Wood"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Valuable Wood +2"
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_27.md"
 toc: false

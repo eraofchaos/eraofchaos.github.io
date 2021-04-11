@@ -2,7 +2,7 @@
 title: "Underground - Chapter 15 - 15-2 Underground Lava"
 permalink: /Underground/Chapter 15_2/
 excerpt: "Chapter 15 - 2. Era of Chaos  Underground - Chapter 15_2. 15-2 Underground Lava"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 15_2.md"
 toc: false
@@ -21,9 +21,9 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Book of Essences](/Items/mat_60/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}
 
  **Drop 3:** **100% 2x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Book of Essences](/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Book of Essences](/Items/mat_53/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}
 

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 10 - 10-1 Waiting in the Dark"
 permalink: /Underground/Chapter 10_1/
 excerpt: "Chapter 10 - 1. Era of Chaos  Underground - Chapter 10_1. 10-1 Waiting in the Dark"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 10_1.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Drop 1:** **33% 0x** [Imp](/Items/unt_226/){: .btn .btn--era3}, **67% 1x** [Imp](/Items/unt_226/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Book of Essences](/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
  **Drop 3:** **100% 2x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

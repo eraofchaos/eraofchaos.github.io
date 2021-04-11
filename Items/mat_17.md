@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Crystal"
 permalink: /Items/mat_17/
 excerpt: "Era of Chaos  Good Crystal"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_17.md"
 toc: false

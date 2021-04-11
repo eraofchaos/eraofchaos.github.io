@@ -2,7 +2,7 @@
 title: "Item - Materials - Common Ore"
 permalink: /Items/mat_6/
 excerpt: "Era of Chaos  Common Ore"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Alchemy Workshop"
 permalink: /Alchemy Workshop/
 excerpt: "Alchemy Workshop.The Alchemy Workshop is a truly wonderful place. It not only gathers the wisdom of different races, but also invents amazing things one after another."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: en
 ref: "index.md"
 toc: false
@@ -16,36 +16,36 @@ classes: wide
   |  Nr  |    Material    |   Refining points    |   Material description   |
   |:-----|:---------------|:--------------------:|:------------------------:|
   | 1  | [Blue Crystal](/Items/con_716/) | **375**  | A mysterious runestone. Can improve your units' skill insight. Provides 150 skill EXP when used. |
-  | 2  | [Book of Arms](/Items/mat_18/) | **150**  | Rare materials to upgrade equipment from blue to blue +1. |
-  | 3  | [Book of Arms](/Items/mat_25/) | **300**  | Rare materials to upgrade equipment from blue +1 to blue +2. |
-  | 4  | [Book of Arms](/Items/mat_32/) | **300**  | Normal materials to upgrade equipment from blue +2 to purple. |
-  | 5  | [Book of Essences](/Items/mat_39/) | **300**  | Rare materials to upgrade equipment from purple to purple +1. |
-  | 6  | [Book of Essences](/Items/mat_46/) | **450**  | Rare materials to upgrade equipment from purple +1 to purple +2. |
-  | 7  | [Book of Essences](/Items/mat_53/) | **450**  | Rare materials to upgrade equipment from purple +2 to purple +3. |
-  | 8  | [Book of Essences](/Items/mat_60/) | **600**  | Rare materials to upgrade equipment from purple +3 to orange. |
-  | 9  | [Certificate of Legend](/Items/mat_67/) | **600**  | Rare materials to upgrade equipment from orange to orange +1. |
-  | 10  | [Certificate of Legend](/Items/mat_74/) | **600**  | Rare materials to upgrade equipment from orange +1 to orange +2. |
-  | 11  | [Certificate of Legend](/Items/mat_81/) | **750**  | Rare materials to upgrade equipment from orange +2 to orange +3. |
-  | 12  | [Certificate of Legend](/Items/mat_88/) | **750**  | Rare materials to upgrade equipment from orange +3 to orange +4. |
-  | 13  | [Certificate of Legend](/Items/mat_95/) | **900**  | Rare materials to upgrade equipment from orange +4 to orange +5. |
+  | 2  | [Book of Arms +1](/Items/mat_25/) | **300**  | Rare materials to upgrade equipment from blue +1 to blue +2. |
+  | 3  | [Book of Arms +2](/Items/mat_32/) | **300**  | Normal materials to upgrade equipment from blue +2 to purple. |
+  | 4  | [Book of Arms](/Items/mat_18/) | **150**  | Rare materials to upgrade equipment from blue to blue +1. |
+  | 5  | [Book of Essences +1](/Items/mat_46/) | **450**  | Rare materials to upgrade equipment from purple +1 to purple +2. |
+  | 6  | [Book of Essences +2](/Items/mat_53/) | **450**  | Rare materials to upgrade equipment from purple +2 to purple +3. |
+  | 7  | [Book of Essences +3](/Items/mat_60/) | **600**  | Rare materials to upgrade equipment from purple +3 to orange. |
+  | 8  | [Book of Essences](/Items/mat_39/) | **300**  | Rare materials to upgrade equipment from purple to purple +1. |
+  | 9  | [Certificate of Legend +1](/Items/mat_74/) | **600**  | Rare materials to upgrade equipment from orange +1 to orange +2. |
+  | 10  | [Certificate of Legend +2](/Items/mat_81/) | **750**  | Rare materials to upgrade equipment from orange +2 to orange +3. |
+  | 11  | [Certificate of Legend +3](/Items/mat_88/) | **750**  | Rare materials to upgrade equipment from orange +3 to orange +4. |
+  | 12  | [Certificate of Legend +4](/Items/mat_95/) | **900**  | Rare materials to upgrade equipment from orange +4 to orange +5. |
+  | 13  | [Certificate of Legend](/Items/mat_67/) | **600**  | Rare materials to upgrade equipment from orange to orange +1. |
   | 14  | [Common Crystal](/Items/mat_11/) | **25**  | Common materials to upgrade equipment from green to blue. |
   | 15  | [Common Gems](/Items/mat_10/) | **25**  | Common materials to upgrade equipment from green to blue. |
   | 16  | [Common Mercury](/Items/mat_8/) | **25**  | Common materials to upgrade equipment from green to blue. |
   | 17  | [Common Ore](/Items/mat_6/) | **25**  | Common materials to upgrade equipment from green to blue. |
   | 18  | [Common Sulfur](/Items/mat_9/) | **25**  | Common materials to upgrade equipment from green to blue. |
   | 19  | [Common Wood](/Items/mat_7/) | **25**  | Common materials to upgrade equipment from green to blue. |
-  | 20  | [Epic Crystal](/Items/mat_52/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 21  | [Epic Gems](/Items/mat_51/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 22  | [Epic Mercury](/Items/mat_49/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 23  | [Epic Ore](/Items/mat_47/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 24  | [Epic Sulfur](/Items/mat_50/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 25  | [Epic Wood](/Items/mat_48/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
-  | 26  | [Eternal Crystal](/Items/mat_73/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 27  | [Eternal Gems](/Items/mat_72/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 28  | [Eternal Mercury](/Items/mat_70/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 29  | [Eternal Ore](/Items/mat_68/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 30  | [Eternal Sulfur](/Items/mat_71/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
-  | 31  | [Eternal Wood](/Items/mat_69/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 20  | [Epic Crystal +2](/Items/mat_52/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 21  | [Epic Gems +2](/Items/mat_51/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 22  | [Epic Mercury +2](/Items/mat_49/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 23  | [Epic Ore +2](/Items/mat_47/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 24  | [Epic Sulfur +2](/Items/mat_50/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 25  | [Epic Wood +2](/Items/mat_48/) | **150**  | Common materials to upgrade equipment from purple +2 to purple +3. |
+  | 26  | [Eternal Crystal +1](/Items/mat_73/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 27  | [Eternal Gems +1](/Items/mat_72/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 28  | [Eternal Mercury +1](/Items/mat_70/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 29  | [Eternal Ore +1](/Items/mat_68/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 30  | [Eternal Sulfur +1](/Items/mat_71/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
+  | 31  | [Eternal Wood +1](/Items/mat_69/) | **200**  | Common materials to upgrade equipment from orange +1 to orange +2. |
   | 32  | [Exceptional Crystal](/Items/mat_38/) | **100**  | Common materials to upgrade equipment from purple to purple +1. |
   | 33  | [Exceptional Gems](/Items/mat_37/) | **100**  | Common materials to upgrade equipment from purple to purple +1. |
   | 34  | [Exceptional Mercury](/Items/mat_35/) | **100**  | Common materials to upgrade equipment from purple to purple +1. |
@@ -65,13 +65,13 @@ classes: wide
   | 48  | [Inferior Ore](/Items/mat_1/) | **25**  | Common materials to upgrade equipment from white to green. |
   | 49  | [Inferior Sulfur](/Items/mat_3/) | **25**  | Common materials to upgrade equipment from white to green. |
   | 50  | [Inferior Wood](/Items/mat_1/) | **25**  | Common materials to upgrade equipment from white to green. |
-  | 51  | [Legendary Certificate](/Items/mat_102/) | **950**  | Rare materials used to upgrade equipment from orange +5 to Red. |
-  | 52  | [Legendary Crystal](/Items/mat_59/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
-  | 53  | [Legendary Gems](/Items/mat_58/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
-  | 54  | [Legendary Mercury](/Items/mat_56/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
-  | 55  | [Legendary Ore](/Items/mat_54/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
-  | 56  | [Legendary Sulfur](/Items/mat_57/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
-  | 57  | [Legendary Wood](/Items/mat_55/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
+  | 51  | [Legendary Certificate +5](/Items/mat_102/) | **950**  | Rare materials used to upgrade equipment from orange +5 to Red. |
+  | 52  | [Legendary Crystal +3](/Items/mat_59/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
+  | 53  | [Legendary Gems +3](/Items/mat_58/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
+  | 54  | [Legendary Mercury +3](/Items/mat_56/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
+  | 55  | [Legendary Ore +3](/Items/mat_54/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
+  | 56  | [Legendary Sulfur +3](/Items/mat_57/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
+  | 57  | [Legendary Wood +3](/Items/mat_55/) | **200**  | Common materials to upgrade equipment from purple +3 to orange. |
   | 58  | [Mythical Crystal](/Items/mat_66/) | **200**  | Common materials to upgrade equipment from orange to orange +1. |
   | 59  | [Mythical Gems](/Items/mat_65/) | **200**  | Common materials to upgrade equipment from orange to orange +1. |
   | 60  | [Mythical Mercury](/Items/mat_63/) | **200**  | Common materials to upgrade equipment from orange to orange +1. |
@@ -80,48 +80,48 @@ classes: wide
   | 63  | [Mythical Wood](/Items/mat_62/) | **200**  | Common materials to upgrade equipment from orange to orange +1. |
   | 64  | [Orange Crystal](/Items/con_730/) | **2500**  | A mysterious runestone. Greatly improves your units' skill insight. Provides 1000 skill EXP when used. |
   | 65  | [Purple Crystal](/Items/con_720/) | **1125**  | A mysterious runestone. Sharply improves your units' skill insight. Provides 450 skill EXP when used. |
-  | 66  | [Radiant Crystal](/Items/mat_101/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
-  | 67  | [Radiant Gems](/Items/mat_100/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
-  | 68  | [Radiant Mercury](/Items/mat_98/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
-  | 69  | [Radiant Ore](/Items/mat_96/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
-  | 70  | [Radiant Sulfur](/Items/mat_99/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
-  | 71  | [Radiant Wood](/Items/mat_97/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
-  | 72  | [Rare Crystal](/Items/mat_45/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 73  | [Rare Gems](/Items/mat_44/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 74  | [Rare Mercury](/Items/mat_42/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 75  | [Rare Ore](/Items/mat_40/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 76  | [Rare Sulfur](/Items/mat_43/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 77  | [Rare Wood](/Items/mat_41/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
-  | 78  | [Secret Crystal](/Items/mat_80/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 79  | [Secret Gems](/Items/mat_79/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 80  | [Secret Mercury](/Items/mat_77/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 81  | [Secret Ore](/Items/mat_75/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 82  | [Secret Sulfur](/Items/mat_78/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 83  | [Secret Wood](/Items/mat_76/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
-  | 84  | [Soul Crystal](/Items/mat_87/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 85  | [Soul Gems](/Items/mat_86/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 86  | [Soul Mercury](/Items/mat_84/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 87  | [Soul Ore](/Items/mat_82/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 88  | [Soul Sulfur](/Items/mat_85/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 89  | [Soul Wood](/Items/mat_83/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
-  | 90  | [Star Crystal](/Items/mat_94/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 91  | [Star Gems](/Items/mat_93/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 92  | [Star Mercury](/Items/mat_91/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 93  | [Star Ore](/Items/mat_89/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 94  | [Star Sulfur](/Items/mat_92/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 95  | [Star Wood](/Items/mat_90/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
-  | 96  | [Superior Crystal](/Items/mat_24/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 97  | [Superior Gems](/Items/mat_23/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 98  | [Superior Mercury](/Items/mat_21/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 99  | [Superior Ore](/Items/mat_19/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 100  | [Superior Sulfur](/Items/mat_22/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 101  | [Superior Wood](/Items/mat_20/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
-  | 102  | [Valuable Crystal](/Items/mat_31/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
-  | 103  | [Valuable Gems](/Items/mat_30/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
-  | 104  | [Valuable Mercury](/Items/mat_28/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
-  | 105  | [Valuable Ore](/Items/mat_26/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
-  | 106  | [Valuable Sulfur](/Items/mat_29/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
-  | 107  | [Valuable Wood](/Items/mat_27/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
+  | 66  | [Radiant Crystal +5](/Items/mat_101/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
+  | 67  | [Radiant Gems +5](/Items/mat_100/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
+  | 68  | [Radiant Mercury +5](/Items/mat_98/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
+  | 69  | [Radiant Ore +5](/Items/mat_96/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
+  | 70  | [Radiant Sulfur +5](/Items/mat_99/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
+  | 71  | [Radiant Wood +5](/Items/mat_97/) | **320**  | Common materials to upgrade equipment from orange +5 to Red. |
+  | 72  | [Rare Crystal +1](/Items/mat_45/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 73  | [Rare Gems +1](/Items/mat_44/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 74  | [Rare Mercury +1](/Items/mat_42/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 75  | [Rare Ore +1](/Items/mat_40/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 76  | [Rare Sulfur +1](/Items/mat_43/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 77  | [Rare Wood +1](/Items/mat_41/) | **150**  | Common materials to upgrade equipment from purple +1 to purple +2. |
+  | 78  | [Secret Crystal +2](/Items/mat_80/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 79  | [Secret Gems +2](/Items/mat_79/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 80  | [Secret Mercury +2](/Items/mat_77/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 81  | [Secret Ore +2](/Items/mat_75/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 82  | [Secret Sulfur +2](/Items/mat_78/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 83  | [Secret Wood +2](/Items/mat_76/) | **250**  | Common materials to upgrade equipment from orange +2 to orange +3. |
+  | 84  | [Soul Crystal +3](/Items/mat_87/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 85  | [Soul Gems +3](/Items/mat_86/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 86  | [Soul Mercury +3](/Items/mat_84/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 87  | [Soul Ore +3](/Items/mat_82/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 88  | [Soul Sulfur +3](/Items/mat_85/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 89  | [Soul Wood +3](/Items/mat_83/) | **250**  | Common materials to upgrade equipment from orange +3 to orange +4. |
+  | 90  | [Star Crystal +4](/Items/mat_94/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 91  | [Star Gems +4](/Items/mat_93/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 92  | [Star Mercury +4](/Items/mat_91/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 93  | [Star Ore +4](/Items/mat_89/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 94  | [Star Sulfur +4](/Items/mat_92/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 95  | [Star Wood +4](/Items/mat_90/) | **300**  | Common materials to upgrade equipment from orange +4 to orange +5. |
+  | 96  | [Superior Crystal +1](/Items/mat_24/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 97  | [Superior Gems +1](/Items/mat_23/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 98  | [Superior Mercury +1](/Items/mat_21/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 99  | [Superior Ore +1](/Items/mat_19/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 100  | [Superior Sulfur +1](/Items/mat_22/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 101  | [Superior Wood +1](/Items/mat_20/) | **100**  | Common materials to upgrade equipment from blue +1 to blue +2. |
+  | 102  | [Valuable Crystal +2](/Items/mat_31/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
+  | 103  | [Valuable Gems +2](/Items/mat_30/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
+  | 104  | [Valuable Mercury +2](/Items/mat_28/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
+  | 105  | [Valuable Ore +2](/Items/mat_26/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
+  | 106  | [Valuable Sulfur +2](/Items/mat_29/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
+  | 107  | [Valuable Wood +2](/Items/mat_27/) | **100**  | Common materials to upgrade equipment from blue +2 to purple. |
   | 108  | [White Crystal](/Items/con_707/) | **25**  | A mysterious runestone. Can improve your units' skill insight slightly. Provides 10 skill EXP when used. |
 
 

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 19 - 19-9 Alchemy"
 permalink: /Main Story/Chapter 19_9/
 excerpt: "Chapter 19 - 9. Era of Chaos  Main Story - Chapter 19_9. 19-9 Alchemy"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 19_9.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Mythical Mercury](/Items/mat_63/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Legendary Sulfur](/Items/mat_57/){: .btn .btn--era4}, **40% 1x** [Legendary Sulfur](/Items/mat_57/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Legendary Sulfur +3](/Items/mat_57/){: .btn .btn--era4}, **40% 1x** [Legendary Sulfur +3](/Items/mat_57/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

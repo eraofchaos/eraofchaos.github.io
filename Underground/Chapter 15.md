@@ -2,7 +2,7 @@
 title: "Underground - Chapter 15 United Front"
 permalink: /Underground/Chapter 15/
 excerpt: "Chapter 15 United Front. Era of Chaos  Underground - Chapter 15. United Front"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 15.md"
 toc: false
@@ -13,11 +13,11 @@ classes: wide
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
-  | [15-1 Demon's Sculpture](/Underground/Chapter 15_1/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Goblin](/Items/unt_217/){: .btn .btn--era3}, [Book of Essences](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_53/){: .btn .btn--era4} |
-  | [15-2 Underground Lava](/Underground/Chapter 15_2/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Book of Essences](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_53/){: .btn .btn--era4} |
-  | [15-3 Angel's Sculpture](/Underground/Chapter 15_3/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Stone Gargoyle](/Items/unt_236/){: .btn .btn--era4}, [Book of Essences](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_53/){: .btn .btn--era4} |
-  | [15-4 Inferno Corridor](/Underground/Chapter 15_4/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Book of Essences](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_53/){: .btn .btn--era4} |
-  | [15-5 Gate of Hell](/Underground/Chapter 15_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Dendroid Guard](/Items/unt_203/){: .btn .btn--era4}, [Book of Essences](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_53/){: .btn .btn--era4} |
+  | [15-1 Demon's Sculpture](/Underground/Chapter 15_1/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Goblin](/Items/unt_217/){: .btn .btn--era3}, [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4} |
+  | [15-2 Underground Lava](/Underground/Chapter 15_2/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4} |
+  | [15-3 Angel's Sculpture](/Underground/Chapter 15_3/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Stone Gargoyle](/Items/unt_236/){: .btn .btn--era4}, [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4} |
+  | [15-4 Inferno Corridor](/Underground/Chapter 15_4/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4} |
+  | [15-5 Gate of Hell](/Underground/Chapter 15_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Dendroid Guard](/Items/unt_203/){: .btn .btn--era4}, [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4} |
 
 
   # 15 Stars Rewards:

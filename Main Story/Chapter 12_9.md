@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-9 Peace Negotiations"
 permalink: /Main Story/Chapter 12_9/
 excerpt: "Chapter 12 - 9. Era of Chaos  Main Story - Chapter 12_9. 12-9 Peace Negotiations"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 12_9.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Rare Mercury](/Items/mat_42/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Rare Mercury +1](/Items/mat_42/){: .btn .btn--era4}
 
  **Drop 2:** **60% 0x** [Exceptional Sulfur](/Items/mat_36/){: .btn .btn--era4}, **40% 1x** [Exceptional Sulfur](/Items/mat_36/){: .btn .btn--era4}
 

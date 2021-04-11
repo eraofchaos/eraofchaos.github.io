@@ -2,7 +2,7 @@
 title: "Underground - Chapter 4 - 4-4 Complete Devastation"
 permalink: /Underground/Chapter 4_4/
 excerpt: "Chapter 4 - 4. Era of Chaos  Underground - Chapter 4_4. 4-4 Complete Devastation"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 4_4.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Book of Arms](/Items/mat_25/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}
 
  **Drop 3:** **100% 2x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

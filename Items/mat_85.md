@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Soul Sulfur"
+title: "Item - Materials - Soul Sulfur +3"
 permalink: /Items/mat_85/
-excerpt: "Era of Chaos  Soul Sulfur"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Soul Sulfur +3"
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_85.md"
 toc: false

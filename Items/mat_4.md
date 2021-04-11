@@ -2,7 +2,7 @@
 title: "Item - Materials - Inferior Gems"
 permalink: /Items/mat_4/
 excerpt: "Era of Chaos  Inferior Gems"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_4.md"
 toc: false

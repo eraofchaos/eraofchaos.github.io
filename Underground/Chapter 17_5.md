@@ -2,7 +2,7 @@
 title: "Underground - Chapter 17 - 17-5 Blood and Guard"
 permalink: /Underground/Chapter 17_5/
 excerpt: "Chapter 17 - 5. Era of Chaos  Underground - Chapter 17_5. 17-5 Blood and Guard"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 17_5.md"
 toc: false
@@ -27,5 +27,5 @@ classes: wide
 
  **Drop 3:** **100% 2x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Book of Essences](/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Book of Essences](/Items/mat_60/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}
 

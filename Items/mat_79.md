@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Secret Gems"
+title: "Item - Materials - Secret Gems +2"
 permalink: /Items/mat_79/
-excerpt: "Era of Chaos  Secret Gems"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Secret Gems +2"
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_79.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-14 An Ancient Custom"
 permalink: /Main Story/Chapter 21_14/
 excerpt: "Chapter 21 - 14. Era of Chaos  Main Story - Chapter 21_14. 21-14 An Ancient Custom"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 21_14.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Eternal Gems](/Items/mat_72/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Eternal Gems +1](/Items/mat_72/){: .btn .btn--era5}
 
  **Drop 2:** **60% 0x** [Mythical Crystal](/Items/mat_66/){: .btn .btn--era5}, **40% 1x** [Mythical Crystal](/Items/mat_66/){: .btn .btn--era5}
 

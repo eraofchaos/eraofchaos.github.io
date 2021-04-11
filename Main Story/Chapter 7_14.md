@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-14 Heartbroken"
 permalink: /Main Story/Chapter 7_14/
 excerpt: "Chapter 7 - 14. Era of Chaos  Main Story - Chapter 7_14. 7-14 Heartbroken"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 7_14.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Superior Gems](/Items/mat_23/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Superior Gems +1](/Items/mat_23/){: .btn .btn--era3}
 
  **Drop 2:** **60% 0x** [Good Crystal](/Items/mat_17/){: .btn .btn--era3}, **40% 1x** [Good Crystal](/Items/mat_17/){: .btn .btn--era3}
 

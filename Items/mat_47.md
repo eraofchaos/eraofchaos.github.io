@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Epic Ore"
+title: "Item - Materials - Epic Ore +2"
 permalink: /Items/mat_47/
-excerpt: "Era of Chaos  Epic Ore"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Epic Ore +2"
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_47.md"
 toc: false

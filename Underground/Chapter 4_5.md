@@ -2,7 +2,7 @@
 title: "Underground - Chapter 4 - 4-5 The Hand of God"
 permalink: /Underground/Chapter 4_5/
 excerpt: "Chapter 4 - 5. Era of Chaos  Underground - Chapter 4_5. 4-5 The Hand of God"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 4_5.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Drop 1:** **67% 0x** [Swordsman](/Items/unt_193/){: .btn .btn--era4}, **33% 1x** [Swordsman](/Items/unt_193/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Book of Arms](/Items/mat_25/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}
 
  **Drop 3:** **100% 2x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

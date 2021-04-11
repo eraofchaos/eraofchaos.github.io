@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-7 The Sacred Forest"
 permalink: /Main Story/Chapter 29_7/
 excerpt: "Chapter 29 - 7. Era of Chaos  Main Story - Chapter 29_7. 29-7 The Sacred Forest"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 29_7.md"
 toc: false
@@ -21,9 +21,9 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Radiant Ore](/Items/mat_96/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Radiant Ore +5](/Items/mat_96/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Star Wood](/Items/mat_90/){: .btn .btn--era5}, **40% 1x** [Star Wood](/Items/mat_90/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Star Wood +4](/Items/mat_90/){: .btn .btn--era5}, **40% 1x** [Star Wood +4](/Items/mat_90/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

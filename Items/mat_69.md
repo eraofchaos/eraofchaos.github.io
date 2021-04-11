@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Eternal Wood"
+title: "Item - Materials - Eternal Wood +1"
 permalink: /Items/mat_69/
-excerpt: "Era of Chaos  Eternal Wood"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Eternal Wood +1"
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_69.md"
 toc: false

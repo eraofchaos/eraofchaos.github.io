@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-10 Limp Resistance"
 permalink: /Main Story/Chapter 9_10/
 excerpt: "Chapter 9 - 10. Era of Chaos  Main Story - Chapter 9_10. 9-10 Limp Resistance"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 9_10.md"
 toc: false
@@ -21,9 +21,9 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Valuable Sulfur](/Items/mat_29/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Valuable Sulfur +2](/Items/mat_29/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Superior Ore](/Items/mat_19/){: .btn .btn--era3}, **40% 1x** [Superior Ore](/Items/mat_19/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Superior Ore +1](/Items/mat_19/){: .btn .btn--era3}, **40% 1x** [Superior Ore +1](/Items/mat_19/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

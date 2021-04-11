@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-13 Hometown Nightmare"
 permalink: /Main Story/Chapter 17_13/
 excerpt: "Chapter 17 - 13. Era of Chaos  Main Story - Chapter 17_13. 17-13 Hometown Nightmare"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 17_13.md"
 toc: false
@@ -21,9 +21,9 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Legendary Sulfur](/Items/mat_57/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Legendary Sulfur +3](/Items/mat_57/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Epic Ore](/Items/mat_47/){: .btn .btn--era4}, **40% 1x** [Epic Ore](/Items/mat_47/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Epic Ore +2](/Items/mat_47/){: .btn .btn--era4}, **40% 1x** [Epic Ore +2](/Items/mat_47/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

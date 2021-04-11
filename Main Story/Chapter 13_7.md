@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-7 Pursuit"
 permalink: /Main Story/Chapter 13_7/
 excerpt: "Chapter 13 - 7. Era of Chaos  Main Story - Chapter 13_7. 13-7 Pursuit"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 13_7.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Rare Ore](/Items/mat_40/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Rare Ore +1](/Items/mat_40/){: .btn .btn--era4}
 
  **Drop 2:** **60% 0x** [Exceptional Wood](/Items/mat_34/){: .btn .btn--era4}, **40% 1x** [Exceptional Wood](/Items/mat_34/){: .btn .btn--era4}
 

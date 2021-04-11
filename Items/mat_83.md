@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Soul Wood"
+title: "Item - Materials - Soul Wood +3"
 permalink: /Items/mat_83/
-excerpt: "Era of Chaos  Soul Wood"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Soul Wood +3"
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_83.md"
 toc: false

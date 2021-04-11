@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Market"
 permalink: /DineWithHeroesMarket.html
 excerpt: "Dine with Heroes - Market. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: en
 ref: "DineWithHeroesMarket.html"
 toc: false

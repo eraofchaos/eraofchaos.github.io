@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-4 Vanguard of the Occupation"
 permalink: /Main Story/Chapter 11_4/
 excerpt: "Chapter 11 - 4. Era of Chaos  Main Story - Chapter 11_4. 11-4 Vanguard of the Occupation"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 11_4.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Exceptional Sulfur](/Items/mat_36/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Valuable Ore](/Items/mat_26/){: .btn .btn--era3}, **40% 1x** [Valuable Ore](/Items/mat_26/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Valuable Ore +2](/Items/mat_26/){: .btn .btn--era3}, **40% 1x** [Valuable Ore +2](/Items/mat_26/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

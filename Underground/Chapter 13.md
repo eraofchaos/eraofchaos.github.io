@@ -2,7 +2,7 @@
 title: "Underground - Chapter 13 From Day to Night"
 permalink: /Underground/Chapter 13/
 excerpt: "Chapter 13 From Day to Night. Era of Chaos  Underground - Chapter 13. From Day to Night"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 13.md"
 toc: false
@@ -13,11 +13,11 @@ classes: wide
 
   | Name |  First Complete Reward | Drop Reward |
   |:------------|:------------|:------------| 
-  | [13-1 The Tide of War](/Underground/Chapter 13_1/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Demon](/Items/unt_229/){: .btn .btn--era4}, [Book of Essences](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_46/){: .btn .btn--era4} |
-  | [13-2 An Evil Power](/Underground/Chapter 13_2/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Book of Essences](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_46/){: .btn .btn--era4} |
-  | [13-3 The Bloody Field](/Underground/Chapter 13_3/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Iron Golem](/Items/unt_237/){: .btn .btn--era4}, [Book of Essences](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_46/){: .btn .btn--era4} |
-  | [13-4 Power of the Undead](/Underground/Chapter 13_4/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Book of Essences](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_46/){: .btn .btn--era4} |
-  | [13-5 The Seventh Day](/Underground/Chapter 13_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Ogre](/Items/unt_220/){: .btn .btn--era4}, [Book of Essences](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences](/Items/mat_46/){: .btn .btn--era4} |
+  | [13-1 The Tide of War](/Underground/Chapter 13_1/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Demon](/Items/unt_229/){: .btn .btn--era4}, [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4} |
+  | [13-2 An Evil Power](/Underground/Chapter 13_2/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4} |
+  | [13-3 The Bloody Field](/Underground/Chapter 13_3/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Iron Golem](/Items/unt_237/){: .btn .btn--era4}, [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4} |
+  | [13-4 Power of the Undead](/Underground/Chapter 13_4/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4} |
+  | [13-5 The Seventh Day](/Underground/Chapter 13_5/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Ogre](/Items/unt_220/){: .btn .btn--era4}, [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}, [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4} |
 
 
   # 15 Stars Rewards:

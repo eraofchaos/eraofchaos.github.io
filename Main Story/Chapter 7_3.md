@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-3 Border Conflict"
 permalink: /Main Story/Chapter 7_3/
 excerpt: "Chapter 7 - 3. Era of Chaos  Main Story - Chapter 7_3. 7-3 Border Conflict"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 7_3.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Superior Mercury](/Items/mat_21/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Superior Mercury +1](/Items/mat_21/){: .btn .btn--era3}
 
  **Drop 2:** **60% 0x** [Good Sulfur](/Items/mat_15/){: .btn .btn--era3}, **40% 1x** [Good Sulfur](/Items/mat_15/){: .btn .btn--era3}
 

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-5 Wall of Wisdom"
 permalink: /Main Story/Chapter 20_5/
 excerpt: "Chapter 20 - 5. Era of Chaos  Main Story - Chapter 20_5. 20-5 Wall of Wisdom"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 20_5.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Eternal Wood](/Items/mat_69/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Eternal Wood +1](/Items/mat_69/){: .btn .btn--era5}
 
  **Drop 2:** **60% 0x** [Mythical Mercury](/Items/mat_63/){: .btn .btn--era5}, **40% 1x** [Mythical Mercury](/Items/mat_63/){: .btn .btn--era5}
 

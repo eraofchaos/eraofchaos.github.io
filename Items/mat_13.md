@@ -2,7 +2,7 @@
 title: "Item - Materials - Good Wood"
 permalink: /Items/mat_13/
 excerpt: "Era of Chaos  Good Wood"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_13.md"
 toc: false

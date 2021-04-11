@@ -2,7 +2,7 @@
 title: "Underground - Chapter 11 - 11-5 Fighting the Undead"
 permalink: /Underground/Chapter 11_5/
 excerpt: "Chapter 11 - 5. Era of Chaos  Underground - Chapter 11_5. 11-5 Fighting the Undead"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 11_5.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Drop 1:** **33% 0x** [Wood Elf](/Items/unt_201/){: .btn .btn--era4}, **67% 1x** [Wood Elf](/Items/unt_201/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Book of Essences](/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
  **Drop 3:** **100% 2x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

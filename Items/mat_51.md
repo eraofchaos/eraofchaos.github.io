@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Epic Gems"
+title: "Item - Materials - Epic Gems +2"
 permalink: /Items/mat_51/
-excerpt: "Era of Chaos  Epic Gems"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Epic Gems +2"
+last_modified_at: 2021-04-11
 locale: en
 ref: "mat_51.md"
 toc: false

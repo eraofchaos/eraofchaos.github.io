@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 22 - 22-9 Gold Dragon Queen"
 permalink: /Main Story/Chapter 22_9/
 excerpt: "Chapter 22 - 9. Era of Chaos  Main Story - Chapter 22_9. 22-9 Gold Dragon Queen"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 22_9.md"
 toc: false
@@ -21,9 +21,9 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Secret Mercury](/Items/mat_77/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Secret Mercury +2](/Items/mat_77/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Eternal Sulfur](/Items/mat_71/){: .btn .btn--era5}, **40% 1x** [Eternal Sulfur](/Items/mat_71/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Eternal Sulfur +1](/Items/mat_71/){: .btn .btn--era5}, **40% 1x** [Eternal Sulfur +1](/Items/mat_71/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

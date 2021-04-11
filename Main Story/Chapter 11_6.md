@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-6 Underground Compromise"
 permalink: /Main Story/Chapter 11_6/
 excerpt: "Chapter 11 - 6. Era of Chaos  Main Story - Chapter 11_6. 11-6 Underground Compromise"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 11_6.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Exceptional Crystal](/Items/mat_38/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Valuable Gems](/Items/mat_30/){: .btn .btn--era3}, **40% 1x** [Valuable Gems](/Items/mat_30/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Valuable Gems +2](/Items/mat_30/){: .btn .btn--era3}, **40% 1x** [Valuable Gems +2](/Items/mat_30/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

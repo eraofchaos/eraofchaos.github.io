@@ -2,7 +2,7 @@
 title: "Underground - Chapter 18 - 18-1 Muddleheaded"
 permalink: /Underground/Chapter 18_1/
 excerpt: "Chapter 18 - 1. Era of Chaos  Underground - Chapter 18_1. 18-1 Muddleheaded"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 18_1.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
  **Drop 1:** **33% 0x** [Walking Dead](/Items/unt_209/){: .btn .btn--era3}, **67% 1x** [Walking Dead](/Items/unt_209/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Certificate of Legend](/Items/mat_74/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}
 
  **Drop 3:** **100% 2x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

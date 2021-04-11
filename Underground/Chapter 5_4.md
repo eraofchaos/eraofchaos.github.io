@@ -2,7 +2,7 @@
 title: "Underground - Chapter 5 - 5-4 The War of Restoration"
 permalink: /Underground/Chapter 5_4/
 excerpt: "Chapter 5 - 4. Era of Chaos  Underground - Chapter 5_4. 5-4 The War of Restoration"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 5_4.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Book of Arms](/Items/mat_25/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}
 
  **Drop 3:** **100% 2x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 

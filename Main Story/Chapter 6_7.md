@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-7 The Swamp of Blood"
 permalink: /Main Story/Chapter 6_7/
 excerpt: "Chapter 6 - 7. Era of Chaos  Main Story - Chapter 6_7. 6-7 The Swamp of Blood"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 6_7.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Superior Ore](/Items/mat_19/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Superior Ore +1](/Items/mat_19/){: .btn .btn--era3}
 
  **Drop 2:** **60% 0x** [Good Wood](/Items/mat_13/){: .btn .btn--era3}, **40% 1x** [Good Wood](/Items/mat_13/){: .btn .btn--era3}
 

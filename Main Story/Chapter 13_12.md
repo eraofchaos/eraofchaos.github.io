@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-12 Battle on the Plain"
 permalink: /Main Story/Chapter 13_12/
 excerpt: "Chapter 13 - 12. Era of Chaos  Main Story - Chapter 13_12. 13-12 Battle on the Plain"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 13_12.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Rare Crystal](/Items/mat_45/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Rare Crystal +1](/Items/mat_45/){: .btn .btn--era4}
 
  **Drop 2:** **60% 0x** [Exceptional Gems](/Items/mat_37/){: .btn .btn--era4}, **40% 1x** [Exceptional Gems](/Items/mat_37/){: .btn .btn--era4}
 

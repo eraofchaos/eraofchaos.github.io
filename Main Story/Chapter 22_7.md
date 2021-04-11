@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 22 - 22-7 The Dragon Whisper"
 permalink: /Main Story/Chapter 22_7/
 excerpt: "Chapter 22 - 7. Era of Chaos  Main Story - Chapter 22_7. 22-7 The Dragon Whisper"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-04-11
 locale: en
 ref: "Chapter 22_7.md"
 toc: false
@@ -21,9 +21,9 @@ classes: wide
 
  **First Complete Reward:** [Silver Key](/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Secret Ore](/Items/mat_75/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Secret Ore +2](/Items/mat_75/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Eternal Wood](/Items/mat_69/){: .btn .btn--era5}, **40% 1x** [Eternal Wood](/Items/mat_69/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Eternal Wood +1](/Items/mat_69/){: .btn .btn--era5}, **40% 1x** [Eternal Wood +1](/Items/mat_69/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 
