@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 3:** **100% 1x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | ? | ? | ? |
+  | - | ? | ? | - |
+  | - | ? | ? | - |
+  | - | ? | ? | - |
+
+

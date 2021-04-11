@@ -25,3 +25,18 @@ classes: wide
 
  **Drop 2:** **20% 0x** [Inferior Mercury](/Items/mat_2/){: .btn .btn--era1}, **60% 1x** [Inferior Mercury](/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Inferior Mercury](/Items/mat_2/){: .btn .btn--era1}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | ? | - | ? | - |
+  | ? | - | - | - |
+  | ? | - | ? | - |
+
+

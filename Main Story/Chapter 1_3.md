@@ -25,3 +25,18 @@ classes: wide
 
  **Drop 2:** **80% 1x** [Inferior Wood](/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Inferior Wood](/Items/mat_1/){: .btn .btn--era1}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | ? | ? |
+  | - | ? | - | - |
+  | - | - | ? | - |
+  | - | - | - | - |
+
+
