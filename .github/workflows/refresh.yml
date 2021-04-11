@@ -1,0 +1,23 @@
+# This is a basic workflow to help you get started with Actions
+
+name: refresh
+
+on:
+  schedule:
+    - cron:  '0 3 * * *' # Runs every day at 3am
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger GitHub Pages rebuild
+        run: |
+          curl --fail --request POST \
+            --url https://api.github.com/repos/${{ github.repository }}/pages/builds \
+            --header "Authorization: Bearer $USER_TOKEN"
+        env:
+          # You must create a personal token with repo access as GitHub does
+          # not yet support server-to-server page builds.
+          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+  
