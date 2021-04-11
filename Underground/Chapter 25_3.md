@@ -31,7 +31,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Kilgor](/heroes/Kilgor/)
+ **Hero:** [Kilgor](/heroes/Kilgor/) (Level:96)
 
  **Team:**
 

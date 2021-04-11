@@ -31,7 +31,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Roland](/heroes/Roland/)
+ **Hero:** [Roland](/heroes/Roland/) (Score: 1000, Level:88)
 
  **Team:**
 

@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Gelu](/heroes/Gelu/)
+ **Hero:** [Gelu](/heroes/Gelu/) (Score: 1000, Level:1)
 
  **Team:**
 

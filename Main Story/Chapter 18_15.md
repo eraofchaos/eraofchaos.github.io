@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Rashka](/heroes/Rashka/)
+ **Hero:** [Rashka](/heroes/Rashka/) (Score: 1000, Level:1)
 
  **Team:**
 

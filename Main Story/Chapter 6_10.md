@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Zydar](/heroes/Zydar/)
+ **Hero:** [Zydar](/heroes/Zydar/) (Score: 1000, Level:1)
 
  **Team:**
 

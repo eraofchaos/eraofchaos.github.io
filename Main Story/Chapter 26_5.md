@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Dracon](/heroes/Dracon/)
+ **Hero:** [Dracon](/heroes/Dracon/) (Score: 120000, Level:100)
 
  **Team:**
 

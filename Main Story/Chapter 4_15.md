@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Xeron](/heroes/Xeron/)
+ **Hero:** [Xeron](/heroes/Xeron/) (Score: 1000, Level:19)
 
  **Team:**
 

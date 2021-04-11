@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Crag Hack](/heroes/Crag Hack/)
+ **Hero:** [Crag Hack](/heroes/Crag Hack/) (Score: 1000, Level:16)
 
  **Team:**
 

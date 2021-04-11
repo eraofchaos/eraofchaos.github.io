@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Solmyr](/heroes/Solmyr/)
+ **Hero:** [Solmyr](/heroes/Solmyr/) (Score: 1000, Level:1)
 
  **Team:**
 

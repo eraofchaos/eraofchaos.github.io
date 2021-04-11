@@ -31,7 +31,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Yog](/heroes/Yog/)
+ **Hero:** [Yog](/heroes/Yog/) (Score: 1000, Level:1)
 
  **Team:**
 

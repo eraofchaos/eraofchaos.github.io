@@ -27,7 +27,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Adelaide](/heroes/Adelaide/)
+ **Hero:** [Adelaide](/heroes/Adelaide/) (Score: 1000, Level:7)
 
  **Team:**
 

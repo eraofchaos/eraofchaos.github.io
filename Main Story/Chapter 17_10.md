@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Sandro](/heroes/Sandro/)
+ **Hero:** [Sandro](/heroes/Sandro/) (Score: 1000, Level:1)
 
  **Team:**
 

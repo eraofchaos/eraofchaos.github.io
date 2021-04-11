@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Ryland](/heroes/Ryland/)
+ **Hero:** [Ryland](/heroes/Ryland/) (Score: 1000, Level:1)
 
  **Team:**
 

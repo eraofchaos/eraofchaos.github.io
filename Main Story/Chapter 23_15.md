@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Shiva](/heroes/Shiva/)
+ **Hero:** [Shiva](/heroes/Shiva/) (Score: 80000, Level:88)
 
  **Team:**
 

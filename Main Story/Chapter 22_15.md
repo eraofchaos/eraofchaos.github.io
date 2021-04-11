@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Luna](/heroes/Luna/)
+ **Hero:** [Luna](/heroes/Luna/) (Score: 80000, Level:84)
 
  **Team:**
 

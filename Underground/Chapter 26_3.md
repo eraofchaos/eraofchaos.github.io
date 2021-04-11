@@ -31,7 +31,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Kendal](/heroes/Kendal/)
+ **Hero:** [Kendal](/heroes/Kendal/) (Level:100)
 
  **Team:**
 

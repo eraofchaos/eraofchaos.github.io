@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Mullich](/heroes/Mullich/)
+ **Hero:** [Mullich](/heroes/Mullich/) (Score: 1000, Level:1)
 
  **Team:**
 

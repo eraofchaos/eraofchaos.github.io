@@ -31,7 +31,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Vidomina](/heroes/Vidomina/)
+ **Hero:** [Vidomina](/heroes/Vidomina/) (Score: 1000, Level:1)
 
  **Team:**
 

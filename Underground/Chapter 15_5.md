@@ -31,7 +31,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Mephala](/heroes/Mephala/)
+ **Hero:** [Mephala](/heroes/Mephala/) (Score: 1000, Level:1)
 
  **Team:**
 

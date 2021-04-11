@@ -31,7 +31,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Lord Haart](/heroes/Lord Haart/)
+ **Hero:** [Lord Haart](/heroes/Lord Haart/) (Score: 1000, Level:1)
 
  **Team:**
 

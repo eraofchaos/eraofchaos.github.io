@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Jeddite](/heroes/Jeddite/)
+ **Hero:** [Jeddite](/heroes/Jeddite/) (Score: 140000, Level:104)
 
  **Team:**
 

@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** [Catherine](/heroes/Catherine/)
+ **Hero:** [Catherine](/heroes/Catherine/) (Score: 1000, Level:1)
 
  **Team:**
 
