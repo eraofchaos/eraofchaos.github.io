@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Swordsman](/units/Swordsman/) (Score: 233387, Level:80)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 233387, Level:80)  | [Swordsman](/units/Swordsman/) (Score: 233387, Level:80)  | [Genie](/units/Genie/) (Score: 233387, Level:80)  | - |
+  | [Pikeman](/units/Pikeman/) (Score: 233387, Level:80)  | [Pikeman](/units/Pikeman/) (Score: 233387, Level:80)  | [Cavalier](/units/Cavalier/) (Score: 233387, Level:80)  | - |
+  | - | - | - | - |
+
+

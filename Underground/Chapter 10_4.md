@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Demon](/units/Demon/) (Score: 35710, Level:47)  | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 35710, Level:47)  | - | [Pit Fiend](/units/Pit Fiend/) (Score: 35710, Level:47)  | - |
+  | [Devil](/units/Devil/) (Score: 35710, Level:47)  | - | [Lich](/units/Lich/) (Score: 35710, Level:47)  | - |
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 35710, Level:47)  | [Wight](/units/Wight/) (Score: 40340, Level:47)  | - |
+
+

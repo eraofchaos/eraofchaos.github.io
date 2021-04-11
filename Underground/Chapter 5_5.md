@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Unicorn](/units/Unicorn/) (Score: 8132, Level:30)  | [Black Knight](/units/Black Knight/) (Score: 10078, Level:30)  | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 8132, Level:30)  | [Green Dragon](/units/Green Dragon/) (Score: 12024, Level:30)  | [Wood Elf](/units/Wood Elf/) (Score: 8132, Level:30)  | - |
+  | [Unicorn](/units/Unicorn/) (Score: 8132, Level:30)  | [Black Knight](/units/Black Knight/) (Score: 10078, Level:30)  | - | - |
+  | - | - | - | - |
+
+

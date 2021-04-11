@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Swordsman](/units/Swordsman/) (Score: 220303, Level:78)  | [Sprite](/units/Sprite/) (Score: 220303, Level:78)  | [Sprite](/units/Sprite/) (Score: 220303, Level:78)  |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 220303, Level:78)  | - | [Storm Elemental](/units/Storm Elemental/) (Score: 220303, Level:78)  | - |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 220303, Level:78)  | - | - | - |
+  | - | [Fire Elemental](/units/Fire Elemental/) (Score: 220303, Level:78)  | [Naga](/units/Naga/) (Score: 220303, Level:78)  | - |
+
+

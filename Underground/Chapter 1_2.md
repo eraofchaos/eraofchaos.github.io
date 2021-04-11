@@ -25,3 +25,18 @@ classes: wide
 
  **Drop 3:** **100% 1x** [Inferior Sulfur](/Items/mat_3/){: .btn .btn--era1}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Pikeman](/units/Pikeman/) (Score: 2147, Level:12)  | [Monk](/units/Monk/) (Score: 2879, Level:12)  | [Monk](/units/Monk/) (Score: 2879, Level:12)  | [Monk](/units/Monk/) (Score: 2879, Level:12)  |
+  | [Pikeman](/units/Pikeman/) (Score: 2147, Level:12)  | - | - | - |
+  | - | - | - | - |
+  | - | - | - | - |
+
+

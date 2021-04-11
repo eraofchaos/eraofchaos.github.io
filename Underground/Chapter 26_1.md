@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +3](/Items/mat_88/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +3](/Items/mat_88/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Swordsman](/units/Swordsman/) (Score: 378457, Level:100)  | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 378457, Level:100)  | - | [Harpy](/units/Harpy/) (Score: 378457, Level:100)  | - |
+  | [Pikeman](/units/Pikeman/) (Score: 378457, Level:100)  | - | [Harpy](/units/Harpy/) (Score: 378457, Level:100)  | - |
+  | - | [Swordsman](/units/Swordsman/) (Score: 378457, Level:100)  | [Pegasus](/units/Pegasus/) (Score: 378457, Level:100)  | - |
+
+

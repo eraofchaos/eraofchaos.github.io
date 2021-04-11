@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skeleton](/units/Skeleton/) (Score: 338197, Level:97)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 338197, Level:97)  | [Giant](/units/Giant/) (Score: 338197, Level:97)  | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 338197, Level:97)  | - | - | [Medusa](/units/Medusa/) (Score: 338197, Level:97)  |
+  | [Black Knight](/units/Black Knight/) (Score: 338197, Level:97)  | [Cavalier](/units/Cavalier/) (Score: 338197, Level:97)  | - | - |
+
+

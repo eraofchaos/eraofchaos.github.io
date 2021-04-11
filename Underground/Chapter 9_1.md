@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Imp](/units/Imp/) (Score: 30141, Level:43)  | - | - |
+  | [Demon](/units/Demon/) (Score: 25578, Level:43)  | - | [Efreeti](/units/Efreeti/) (Score: 25578, Level:43)  | - |
+  | [Demon](/units/Demon/) (Score: 25578, Level:43)  | - | [Gog](/units/Gog/) (Score: 25578, Level:43)  | - |
+  | - | [Imp](/units/Imp/) (Score: 25578, Level:43)  | [Gog](/units/Gog/) (Score: 25578, Level:43)  | - |
+
+

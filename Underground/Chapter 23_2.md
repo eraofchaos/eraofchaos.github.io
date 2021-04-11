@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Minotaur](/units/Minotaur/) (Score: 294582, Level:89)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 294582, Level:89)  | - | [Angel](/units/Angel/) (Score: 294582, Level:89)  | - |
+  | [Minotaur](/units/Minotaur/) (Score: 294582, Level:89)  | - | [Devil](/units/Devil/) (Score: 294582, Level:89)  | - |
+  | - | [Ogre](/units/Ogre/) (Score: 294582, Level:89)  | [Wood Elf](/units/Wood Elf/) (Score: 294582, Level:89)  | - |
+
+

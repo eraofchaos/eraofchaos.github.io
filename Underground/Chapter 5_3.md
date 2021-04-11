@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 8132, Level:28)  | [Wood Elf](/units/Wood Elf/) (Score: 8334, Level:28)  | [Gog](/units/Gog/) (Score: 12091, Level:28)  | [Gog](/units/Gog/) (Score: 12091, Level:28)  |
+  | [Black Knight](/units/Black Knight/) (Score: 7998, Level:28)  | [Pit Fiend](/units/Pit Fiend/) (Score: 8535, Level:28)  | - | - |
+  | - | - | - | - |
+  | [Unicorn](/units/Unicorn/) (Score: 7998, Level:28)  | [Pegasus](/units/Pegasus/) (Score: 8132, Level:28)  | - | - |
+
+

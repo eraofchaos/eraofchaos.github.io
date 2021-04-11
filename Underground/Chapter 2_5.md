@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Common Crystal](/Items/mat_11/){: .btn .btn--era2}, **70% 1x** [Common Crystal](/Items/mat_11/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | - | - | - | - |
+  | - | - | [Cyclops](/units/Cyclops/) (Score: 2513, Level:17)  | [Roc](/units/Roc/) (Score: 2513, Level:17)  |
+  | [Swordsman](/units/Swordsman/) (Score: 2513, Level:17)  | - | [Forest Guardian](/units/Forest Guardian/) (Score: 4221, Level:17)  | [Orc](/units/Orc/) (Score: 2513, Level:17)  |
+
+

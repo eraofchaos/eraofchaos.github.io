@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 3:** **100% 1x** [Inferior Crystal](/Items/mat_5/){: .btn .btn--era1}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 2574, Level:12)  | [Marksman](/units/Marksman/) (Score: 1781, Level:12)  | [Marksman](/units/Marksman/) (Score: 1781, Level:12)  | - |
+  | - | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 1781, Level:12)  | - | - | - |
+
+

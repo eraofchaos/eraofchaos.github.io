@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **100% 1x** [Common Crystal](/Items/mat_11/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Goblin](/units/Goblin/) (Score: 2513, Level:15)  | [Marksman](/units/Marksman/) (Score: 3672, Level:15)  | [Orc](/units/Orc/) (Score: 2513, Level:15)  | [Orc](/units/Orc/) (Score: 2513, Level:15)  |
+  | [Goblin](/units/Goblin/) (Score: 2513, Level:15)  | - | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 2513, Level:15)  | - | - | - |
+  | - | - | - | - |
+
+

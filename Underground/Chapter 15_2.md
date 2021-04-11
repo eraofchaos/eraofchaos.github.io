@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Swordsman](/units/Swordsman/) (Score: 85901, Level:59)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 85901, Level:59)  | - | [Unicorn](/units/Unicorn/) (Score: 90464, Level:59)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 85901, Level:59)  | - | [Unicorn](/units/Unicorn/) (Score: 85901, Level:59)  | - |
+  | - | [Centaur](/units/Centaur/) (Score: 85901, Level:59)  | [Pegasus](/units/Pegasus/) (Score: 85901, Level:59)  | - |
+
+

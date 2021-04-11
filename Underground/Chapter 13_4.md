@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skeleton](/units/Skeleton/) (Score: 64161, Level:55)  | [Naga](/units/Naga/) (Score: 64161, Level:55)  | [Naga](/units/Naga/) (Score: 64161, Level:55)  | [Naga](/units/Naga/) (Score: 64161, Level:55)  |
+  | [Behemoth](/units/Behemoth/) (Score: 64161, Level:55)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 64161, Level:55)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 64161, Level:55)  | - | [Sharpshooter](/units/Sharpshooter/) (Score: 69864, Level:55)  | - |
+
+

@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Minotaur](/units/Minotaur/) (Score: 291630, Level:88)  | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 291630, Level:88)  | - | [Wood Elf](/units/Wood Elf/) (Score: 291630, Level:88)  | - |
+  | [Minotaur](/units/Minotaur/) (Score: 291630, Level:88)  | - | [Wood Elf](/units/Wood Elf/) (Score: 291630, Level:88)  | - |
+  | - | [Minotaur](/units/Minotaur/) (Score: 291630, Level:88)  | [Wood Elf](/units/Wood Elf/) (Score: 291630, Level:88)  | - |
+
+

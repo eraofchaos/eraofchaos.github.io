@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Common Mercury](/Items/mat_8/){: .btn .btn--era2}, **70% 1x** [Common Mercury](/Items/mat_8/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Unicorn](/units/Unicorn/) (Score: 4648, Level:18)  | - | [Wight](/units/Wight/) (Score: 3306, Level:18)  | [Pegasus](/units/Pegasus/) (Score: 3306, Level:18)  |
+  | - | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 3306, Level:18)  | - | [Lich](/units/Lich/) (Score: 3306, Level:18)  | [Wood Elf](/units/Wood Elf/) (Score: 3306, Level:18)  |
+
+

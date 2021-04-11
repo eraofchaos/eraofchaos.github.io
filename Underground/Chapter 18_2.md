@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 120122, Level:69)  | - | - |
+  | [Demon](/units/Demon/) (Score: 120122, Level:69)  | - | [Pit Fiend](/units/Pit Fiend/) (Score: 120122, Level:69)  | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 120122, Level:69)  | - | [Devil](/units/Devil/) (Score: 126832, Level:69)  | - |
+  | - | [Ogre](/units/Ogre/) (Score: 120122, Level:69)  | [Lich](/units/Lich/) (Score: 120122, Level:69)  | - |
+
+

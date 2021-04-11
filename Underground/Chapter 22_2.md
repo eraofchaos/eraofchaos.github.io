@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 271164, Level:85)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 271164, Level:85)  | - | [Naga](/units/Naga/) (Score: 271164, Level:85)  | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 271164, Level:85)  | - | [Psychic Elemental](/units/Psychic Elemental/) (Score: 271164, Level:85)  | - |
+  | - | [Centaur](/units/Centaur/) (Score: 271164, Level:85)  | [Genie](/units/Genie/) (Score: 271164, Level:85)  | - |
+
+

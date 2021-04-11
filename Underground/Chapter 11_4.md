@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Naga](/units/Naga/) (Score: 42286, Level:50)  | [Wight](/units/Wight/) (Score: 46581, Level:50)  | [Wight](/units/Wight/) (Score: 46581, Level:50)  |
+  | [Behemoth](/units/Behemoth/) (Score: 42286, Level:50)  | - | [Lich](/units/Lich/) (Score: 42286, Level:50)  | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 42286, Level:50)  | - | - | - |
+  | - | [Naga](/units/Naga/) (Score: 42286, Level:50)  | [Genie](/units/Genie/) (Score: 42286, Level:50)  | - |
+
+

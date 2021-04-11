@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Minotaur](/units/Minotaur/) (Score: 345645, Level:98)  | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 345645, Level:98)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 345645, Level:98)  | - | [Pegasus](/units/Pegasus/) (Score: 345645, Level:98)  | [Pegasus](/units/Pegasus/) (Score: 345645, Level:98)  |
+  | [Troglodyte](/units/Troglodyte/) (Score: 345645, Level:98)  | [Pegasus](/units/Pegasus/) (Score: 345645, Level:98)  | - | - |
+
+

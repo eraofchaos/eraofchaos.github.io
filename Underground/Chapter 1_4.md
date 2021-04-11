@@ -25,3 +25,18 @@ classes: wide
 
  **Drop 3:** **100% 1x** [Inferior Mercury](/Items/mat_2/){: .btn .btn--era1}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 3184, Level:13)  | - | - | [Marksman](/units/Marksman/) (Score: 2147, Level:13)  |
+  | [Swordsman](/units/Swordsman/) (Score: 2147, Level:13)  | - | - | [Marksman](/units/Marksman/) (Score: 2147, Level:13)  |
+  | - | - | - | - |
+
+

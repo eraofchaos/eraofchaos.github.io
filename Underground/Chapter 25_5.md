@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 370942, Level:100)  | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 370942, Level:100)  | - | [Giant](/units/Giant/) (Score: 370942, Level:100)  | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 370942, Level:100)  | - | [Efreeti](/units/Efreeti/) (Score: 370942, Level:100)  | - |
+  | - | [Minotaur](/units/Minotaur/) (Score: 370942, Level:100)  | [Pegasus](/units/Pegasus/) (Score: 370942, Level:100)  | - |
+
+

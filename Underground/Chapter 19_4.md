@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Behemoth](/units/Behemoth/) (Score: 136428, Level:75)  | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 136428, Level:75)  | - | [Giant](/units/Giant/) (Score: 143138, Level:75)  | - |
+  | [Devil](/units/Devil/) (Score: 136428, Level:75)  | - | [Lich](/units/Lich/) (Score: 136428, Level:75)  | - |
+  | - | [Forest Guardian](/units/Forest Guardian/) (Score: 136428, Level:75)  | [Genie](/units/Genie/) (Score: 136428, Level:75)  | - |
+
+

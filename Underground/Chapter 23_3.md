@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Behemoth](/units/Behemoth/) (Score: 297937, Level:90)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 297937, Level:90)  | - | [Troglodyte](/units/Troglodyte/) (Score: 297937, Level:90)  | - |
+  | [Minotaur](/units/Minotaur/) (Score: 297937, Level:90)  | - | - | - |
+  | [Vampire](/units/Vampire/) (Score: 297937, Level:90)  | [Green Dragon](/units/Green Dragon/) (Score: 297937, Level:90)  | [Storm Elemental](/units/Storm Elemental/) (Score: 297937, Level:90)  | - |
+
+

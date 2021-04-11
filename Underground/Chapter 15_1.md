@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Dwarf](/units/Dwarf/) (Score: 83284, Level:58)  | - | - |
+  | [Goblin](/units/Goblin/) (Score: 83284, Level:58)  | - | [Unicorn](/units/Unicorn/) (Score: 83284, Level:58)  | - |
+  | [Goblin](/units/Goblin/) (Score: 89323, Level:58)  | - | [Unicorn](/units/Unicorn/) (Score: 83284, Level:58)  | - |
+  | - | [Dwarf](/units/Dwarf/) (Score: 83284, Level:58)  | [Pegasus](/units/Pegasus/) (Score: 83284, Level:58)  | - |
+
+

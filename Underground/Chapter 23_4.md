@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Behemoth](/units/Behemoth/) (Score: 301695, Level:91)  | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 301695, Level:91)  | - | [Pit Fiend](/units/Pit Fiend/) (Score: 301695, Level:91)  | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 301695, Level:91)  | - | [Beholder](/units/Beholder/) (Score: 301695, Level:91)  | - |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 301695, Level:91)  | [Firebird](/units/Firebird/) (Score: 301695, Level:91)  | - |
+
+

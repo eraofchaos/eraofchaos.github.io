@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 128107, Level:72)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 134817, Level:72)  | - | [Lich](/units/Lich/) (Score: 128107, Level:72)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 128107, Level:72)  | - | [Genie](/units/Genie/) (Score: 128107, Level:72)  | - |
+  | - | [Bone Dragon](/units/Bone Dragon/) (Score: 128107, Level:72)  | [Naga](/units/Naga/) (Score: 128107, Level:72)  | - |
+
+

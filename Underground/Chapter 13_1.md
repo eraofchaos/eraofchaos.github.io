@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Iron Golem](/units/Iron Golem/) (Score: 55773, Level:53)  | - | [Genie](/units/Genie/) (Score: 55773, Level:53)  | [Genie](/units/Genie/) (Score: 55773, Level:53)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 55773, Level:53)  | - | [Gog](/units/Gog/) (Score: 55773, Level:53)  | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 55773, Level:53)  | - | [Gog](/units/Gog/) (Score: 55773, Level:53)  | - |
+  | [Demon](/units/Demon/) (Score: 61410, Level:53)  | - | - | - |
+
+

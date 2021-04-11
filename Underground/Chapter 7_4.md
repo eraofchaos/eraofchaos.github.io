@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Centaur](/units/Centaur/) (Score: 16721, Level:39)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 16386, Level:39)  | - | [Green Dragon](/units/Green Dragon/) (Score: 20479, Level:39)  | [Wood Elf](/units/Wood Elf/) (Score: 17057, Level:39)  |
+  | [Ogre](/units/Ogre/) (Score: 16855, Level:39)  | - | - | - |
+  | [Unicorn](/units/Unicorn/) (Score: 16855, Level:39)  | [Wolf Rider](/units/Wolf Rider/) (Score: 16990, Level:39)  | - | - |
+
+

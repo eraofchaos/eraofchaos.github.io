@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Common Crystal](/Items/mat_11/){: .btn .btn--era2}, **70% 1x** [Common Crystal](/Items/mat_11/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 6051, Level:20)  | - | [Wight](/units/Wight/) (Score: 3977, Level:20)  | [Wight](/units/Wight/) (Score: 3977, Level:20)  |
+  | - | - | - | - |
+  | - | - | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 4526, Level:20)  | - | [Pegasus](/units/Pegasus/) (Score: 3977, Level:20)  | [Lich](/units/Lich/) (Score: 3977, Level:20)  |
+
+

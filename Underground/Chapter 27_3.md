@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Forest Guardian](/units/Forest Guardian/) (Score: 432070, Level:106)  | - | [Sharpshooter](/units/Sharpshooter/) (Score: 432070, Level:106)  | [Sharpshooter](/units/Sharpshooter/) (Score: 432070, Level:106)  |
+  | [Cavalier](/units/Cavalier/) (Score: 432070, Level:106)  | [Griffin](/units/Griffin/) (Score: 432070, Level:106)  | [Vampire](/units/Vampire/) (Score: 432070, Level:106)  | [Genie](/units/Genie/) (Score: 432070, Level:106)  |
+  | [Forest Guardian](/units/Forest Guardian/) (Score: 432070, Level:106)  | - | - | - |
+  | - | - | - | - |
+
+

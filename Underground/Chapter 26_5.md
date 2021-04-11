@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +3](/Items/mat_88/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +3](/Items/mat_88/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 409525, Level:104)  | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 409525, Level:104)  | - | [Angel](/units/Angel/) (Score: 409525, Level:104)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 409525, Level:104)  | - | [Pegasus](/units/Pegasus/) (Score: 409525, Level:104)  | - |
+  | - | [Minotaur](/units/Minotaur/) (Score: 409525, Level:104)  | [Genie](/units/Genie/) (Score: 409525, Level:104)  | - |
+
+

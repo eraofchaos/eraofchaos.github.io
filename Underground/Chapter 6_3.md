@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Griffin](/units/Griffin/) (Score: 15580, Level:33)  | [Griffin](/units/Griffin/) (Score: 11957, Level:33)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 11219, Level:33)  | [Cyclops](/units/Cyclops/) (Score: 12091, Level:33)  | [Roc](/units/Roc/) (Score: 12091, Level:33)  | - |
+  | [Ogre](/units/Ogre/) (Score: 11219, Level:33)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 11219, Level:33)  | - | - | - |
+
+

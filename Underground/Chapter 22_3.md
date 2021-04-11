@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Demon](/units/Demon/) (Score: 275190, Level:86)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 275190, Level:86)  | - | [Naga](/units/Naga/) (Score: 275190, Level:86)  | - |
+  | [Behemoth](/units/Behemoth/) (Score: 275190, Level:86)  | - | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 275190, Level:86)  | [Arch Mage](/units/Arch Mage/) (Score: 275190, Level:86)  | [Lich](/units/Lich/) (Score: 275190, Level:86)  | - |
+
+

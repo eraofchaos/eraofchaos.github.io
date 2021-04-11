@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Common Wood](/Items/mat_7/){: .btn .btn--era2}, **70% 1x** [Common Wood](/Items/mat_7/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Ogre](/units/Ogre/) (Score: 2818, Level:16)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 3977, Level:16)  | - | [Orc](/units/Orc/) (Score: 2818, Level:16)  | [Orc](/units/Orc/) (Score: 2818, Level:16)  |
+  | [Centaur](/units/Centaur/) (Score: 2818, Level:16)  | - | - | - |
+  | - | - | - | - |
+
+

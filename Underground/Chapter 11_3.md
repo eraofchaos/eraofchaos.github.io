@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Goblin](/units/Goblin/) (Score: 40877, Level:49)  | - | [Gremlin](/units/Gremlin/) (Score: 40877, Level:49)  | [Gremlin](/units/Gremlin/) (Score: 40877, Level:49)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 40877, Level:49)  | - | [Gremlin](/units/Gremlin/) (Score: 40877, Level:49)  | - |
+  | [Ogre](/units/Ogre/) (Score: 40877, Level:49)  | - | - | - |
+  | [Unicorn](/units/Unicorn/) (Score: 45172, Level:49)  | [Wolf Rider](/units/Wolf Rider/) (Score: 40877, Level:49)  | - | - |
+
+

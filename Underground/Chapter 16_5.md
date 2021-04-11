@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Swordsman](/units/Swordsman/) (Score: 106031, Level:45)  | - | - |
+  | [Angel](/units/Angel/) (Score: 106031, Level:45)  | - | [Angel](/units/Angel/) (Score: 106031, Level:45)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 106031, Level:45)  | - | [Monk](/units/Monk/) (Score: 115559, Level:45)  | - |
+  | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 106031, Level:45)  | [Arch Mage](/units/Arch Mage/) (Score: 106031, Level:45)  | - |
+
+

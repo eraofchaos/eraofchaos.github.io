@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Behemoth](/units/Behemoth/) (Score: 254725, Level:84)  | - | - | - |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 254725, Level:84)  | [Angel](/units/Angel/) (Score: 254725, Level:84)  | [Stormbringer](/units/Stormbringer/) (Score: 254725, Level:84)  | - |
+  | [Ogre](/units/Ogre/) (Score: 254725, Level:84)  | [Pit Fiend](/units/Pit Fiend/) (Score: 254725, Level:84)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 254725, Level:84)  | - | - | - |
+
+

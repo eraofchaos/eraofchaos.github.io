@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Common Gems](/Items/mat_10/){: .btn .btn--era2}, **70% 1x** [Common Gems](/Items/mat_10/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Vampire](/units/Vampire/) (Score: 3794, Level:16)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 2635, Level:16)  | - | [Orc](/units/Orc/) (Score: 2635, Level:16)  | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 2635, Level:16)  | - | - | - |
+  | - | [Roc](/units/Roc/) (Score: 2635, Level:16)  | - | - |
+
+

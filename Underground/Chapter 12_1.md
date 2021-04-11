@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Black Knight](/units/Black Knight/) (Score: 45172, Level:51)  | [Black Knight](/units/Black Knight/) (Score: 45172, Level:51)  | [Wight](/units/Wight/) (Score: 45172, Level:51)  | [Wight](/units/Wight/) (Score: 45172, Level:51)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 45172, Level:51)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 45172, Level:51)  | - | - | - |
+  | [Wolf Rider](/units/Wolf Rider/) (Score: 49399, Level:51)  | [Wolf Rider](/units/Wolf Rider/) (Score: 45172, Level:51)  | - | - |
+
+

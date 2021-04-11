@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Dendroid Guard](/units/Dendroid Guard/) (Score: 211982, Level:76)  | - | - |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 211982, Level:76)  | - | [Pegasus](/units/Pegasus/) (Score: 211982, Level:76)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 211982, Level:76)  | - | [Genie](/units/Genie/) (Score: 211982, Level:76)  | - |
+  | - | [Sprite](/units/Sprite/) (Score: 211982, Level:76)  | [Cavalier](/units/Cavalier/) (Score: 211982, Level:76)  | - |
+
+

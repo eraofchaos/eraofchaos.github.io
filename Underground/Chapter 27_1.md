@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | - | [Harpy](/units/Harpy/) (Score: 417040, Level:104)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 417040, Level:104)  | [Fire Elemental](/units/Fire Elemental/) (Score: 417040, Level:104)  | - | [Efreeti](/units/Efreeti/) (Score: 417040, Level:104)  |
+  | [Ogre](/units/Ogre/) (Score: 417040, Level:104)  | [Troglodyte](/units/Troglodyte/) (Score: 417040, Level:104)  | - | [Efreeti](/units/Efreeti/) (Score: 417040, Level:104)  |
+
+

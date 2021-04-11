@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Centaur](/units/Centaur/) (Score: 78051, Level:57)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 78051, Level:57)  | - | [Green Dragon](/units/Green Dragon/) (Score: 78051, Level:57)  | [Wood Elf](/units/Wood Elf/) (Score: 78051, Level:57)  |
+  | [Ogre](/units/Ogre/) (Score: 78051, Level:57)  | - | - | - |
+  | [Unicorn](/units/Unicorn/) (Score: 78051, Level:57)  | [Naga](/units/Naga/) (Score: 78051, Level:57)  | - | - |
+
+

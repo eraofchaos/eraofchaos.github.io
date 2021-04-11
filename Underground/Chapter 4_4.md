@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Imp](/units/Imp/) (Score: 5197, Level:24)  | - | - | - |
+  | [Demon](/units/Demon/) (Score: 5197, Level:24)  | - | - | - |
+  | [Imp](/units/Imp/) (Score: 5197, Level:24)  | [Efreeti](/units/Efreeti/) (Score: 5197, Level:24)  | - | - |
+  | [Hell Hound](/units/Hell Hound/) (Score: 5197, Level:24)  | [Pit Fiend](/units/Pit Fiend/) (Score: 7576, Level:24)  | [Gog](/units/Gog/) (Score: 5197, Level:24)  | - |
+
+

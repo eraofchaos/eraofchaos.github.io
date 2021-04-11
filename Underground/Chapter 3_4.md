@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Common Sulfur](/Items/mat_9/){: .btn .btn--era2}, **70% 1x** [Common Sulfur](/Items/mat_9/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Unicorn](/units/Unicorn/) (Score: 3672, Level:19)  | [Wight](/units/Wight/) (Score: 3672, Level:19)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 5624, Level:19)  | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 3672, Level:19)  | - | - | - |
+  | [Black Knight](/units/Black Knight/) (Score: 3672, Level:19)  | [Wight](/units/Wight/) (Score: 3672, Level:19)  | - | - |
+
+

@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skeleton](/units/Skeleton/) (Score: 353832, Level:99)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 353832, Level:99)  | - | [Beholder](/units/Beholder/) (Score: 353832, Level:99)  | [Wood Elf](/units/Wood Elf/) (Score: 353832, Level:99)  |
+  | [Behemoth](/units/Behemoth/) (Score: 353832, Level:99)  | - | - | - |
+  | [Vampire](/units/Vampire/) (Score: 353832, Level:99)  | [Naga](/units/Naga/) (Score: 353832, Level:99)  | - | - |
+
+

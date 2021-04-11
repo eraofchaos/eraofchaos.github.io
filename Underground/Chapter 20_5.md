@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Stone Elemental](/units/Stone Elemental/) (Score: 224463, Level:79)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 224463, Level:79)  | - | [Angel](/units/Angel/) (Score: 224463, Level:79)  | - |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 224463, Level:79)  | - | [Giant](/units/Giant/) (Score: 224463, Level:79)  | - |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 224463, Level:79)  | [Storm Elemental](/units/Storm Elemental/) (Score: 224463, Level:79)  | - |
+
+

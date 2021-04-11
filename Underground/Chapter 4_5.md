@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Cavalier](/units/Cavalier/) (Score: 5014, Level:25)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 7454, Level:25)  | [Lich](/units/Lich/) (Score: 5014, Level:25)  | [Gog](/units/Gog/) (Score: 5014, Level:25)  | - |
+  | [Demon](/units/Demon/) (Score: 5014, Level:25)  | [Pit Fiend](/units/Pit Fiend/) (Score: 5014, Level:25)  | - | - |
+  | [Cavalier](/units/Cavalier/) (Score: 5014, Level:25)  | - | - | - |
+
+

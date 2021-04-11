@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Common Gems](/Items/mat_10/){: .btn .btn--era2}, **70% 1x** [Common Gems](/Items/mat_10/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skeleton](/units/Skeleton/) (Score: 3367, Level:19)  | - | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 3367, Level:19)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 3367, Level:19)  | - | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 3367, Level:19)  | [Vampire](/units/Vampire/) (Score: 5197, Level:19)  | [Black Knight](/units/Black Knight/) (Score: 3367, Level:19)  | - |
+
+

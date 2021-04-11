@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 27927, Level:44)  | - | - |
+  | [Demon](/units/Demon/) (Score: 27927, Level:44)  | - | [Pit Fiend](/units/Pit Fiend/) (Score: 32490, Level:44)  | - |
+  | [Skeleton](/units/Skeleton/) (Score: 27927, Level:44)  | - | - | - |
+  | [Vampire](/units/Vampire/) (Score: 27927, Level:44)  | [Gog](/units/Gog/) (Score: 27927, Level:44)  | [Sharpshooter](/units/Sharpshooter/) (Score: 27927, Level:44)  | - |
+
+

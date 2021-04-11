@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skeleton](/units/Skeleton/) (Score: 319543, Level:95)  | [Troglodyte](/units/Troglodyte/) (Score: 319543, Level:95)  | [Troglodyte](/units/Troglodyte/) (Score: 319543, Level:95)  | [Troglodyte](/units/Troglodyte/) (Score: 319543, Level:95)  |
+  | [Behemoth](/units/Behemoth/) (Score: 319543, Level:95)  | - | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 319543, Level:95)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 319543, Level:95)  | - | [Wood Elf](/units/Wood Elf/) (Score: 319543, Level:95)  | - |
+
+

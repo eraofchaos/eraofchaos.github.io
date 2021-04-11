@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Centaur](/units/Centaur/) (Score: 108648, Level:65)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 108648, Level:65)  | - | [Gremlin](/units/Gremlin/) (Score: 108648, Level:65)  | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 108648, Level:65)  | - | [Arch Mage](/units/Arch Mage/) (Score: 115358, Level:65)  | - |
+  | - | [Unicorn](/units/Unicorn/) (Score: 108648, Level:65)  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 108648, Level:65)  | - |
+
+

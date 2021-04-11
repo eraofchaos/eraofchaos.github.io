@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +1](/Items/mat_74/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Iron Golem](/units/Iron Golem/) (Score: 243452, Level:82)  | [Griffin](/units/Griffin/) (Score: 243452, Level:82)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 243452, Level:82)  | [Lich](/units/Lich/) (Score: 243452, Level:82)  | - | - |
+  | [Stone Elemental](/units/Stone Elemental/) (Score: 243452, Level:82)  | [Genie](/units/Genie/) (Score: 243452, Level:82)  | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 243452, Level:82)  | - | - | - |
+
+

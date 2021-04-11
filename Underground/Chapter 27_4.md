@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | - | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 439585, Level:107)  | [Unicorn](/units/Unicorn/) (Score: 439585, Level:107)  | [Beholder](/units/Beholder/) (Score: 439585, Level:107)  | [Wood Elf](/units/Wood Elf/) (Score: 439585, Level:107)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 439585, Level:107)  | [Psychic Elemental](/units/Psychic Elemental/) (Score: 439585, Level:107)  | [Lich](/units/Lich/) (Score: 439585, Level:107)  | - |
+
+

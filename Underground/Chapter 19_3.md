@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Swordsman](/units/Swordsman/) (Score: 133676, Level:74)  | [Bone Dragon](/units/Bone Dragon/) (Score: 133676, Level:74)  | [Bone Dragon](/units/Bone Dragon/) (Score: 133676, Level:74)  |
+  | [Ogre](/units/Ogre/) (Score: 133676, Level:74)  | - | [Genie](/units/Genie/) (Score: 133676, Level:74)  | - |
+  | [Behemoth](/units/Behemoth/) (Score: 133676, Level:74)  | - | - | - |
+  | - | [Naga](/units/Naga/) (Score: 133676, Level:74)  | [Devil](/units/Devil/) (Score: 133676, Level:74)  | - |
+
+

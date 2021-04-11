@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Ogre](/units/Ogre/) (Score: 21284, Level:42)  | - | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 21284, Level:42)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 21284, Level:42)  | - | [Sharpshooter](/units/Sharpshooter/) (Score: 25444, Level:42)  | [Sharpshooter](/units/Sharpshooter/) (Score: 25444, Level:42)  |
+  | [Unicorn](/units/Unicorn/) (Score: 21284, Level:42)  | [Wolf Rider](/units/Wolf Rider/) (Score: 21284, Level:42)  | - | - |
+
+

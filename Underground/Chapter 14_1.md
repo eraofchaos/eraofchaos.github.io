@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Unicorn](/units/Unicorn/) (Score: 69797, Level:56)  | [Wood Elf](/units/Wood Elf/) (Score: 69797, Level:56)  | [Wood Elf](/units/Wood Elf/) (Score: 69797, Level:56)  |
+  | [Dwarf](/units/Dwarf/) (Score: 74696, Level:56)  | - | - | - |
+  | [Centaur](/units/Centaur/) (Score: 69797, Level:56)  | - | - | [Marksman](/units/Marksman/) (Score: 69797, Level:56)  |
+  | - | [Cavalier](/units/Cavalier/) (Score: 69797, Level:56)  | - | - |
+
+

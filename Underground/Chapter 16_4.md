@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Swordsman](/units/Swordsman/) (Score: 103481, Level:45)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 103481, Level:45)  | - | [Angel](/units/Angel/) (Score: 103481, Level:45)  | - |
+  | [Cavalier](/units/Cavalier/) (Score: 112204, Level:45)  | - | [Genie](/units/Genie/) (Score: 103481, Level:45)  | - |
+  | - | [Centaur](/units/Centaur/) (Score: 103481, Level:45)  | [Monk](/units/Monk/) (Score: 103481, Level:45)  | - |
+
+

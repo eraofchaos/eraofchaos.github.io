@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Black Knight](/units/Black Knight/) (Score: 311760, Level:93)  | [Lich](/units/Lich/) (Score: 311760, Level:93)  | [Lich](/units/Lich/) (Score: 311760, Level:93)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 311760, Level:93)  | [Fire Elemental](/units/Fire Elemental/) (Score: 311760, Level:93)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 311760, Level:93)  | - | - | - |
+  | - | [Naga](/units/Naga/) (Score: 311760, Level:93)  | [Beholder](/units/Beholder/) (Score: 311760, Level:93)  | - |
+
+

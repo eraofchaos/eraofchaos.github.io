@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Walking Dead](/units/Walking Dead/) (Score: 448107, Level:108)  | - | [Orc](/units/Orc/) (Score: 448107, Level:108)  | [Orc](/units/Orc/) (Score: 448107, Level:108)  |
+  | [Behemoth](/units/Behemoth/) (Score: 448107, Level:108)  | - | - | [Marksman](/units/Marksman/) (Score: 448107, Level:108)  |
+  | - | [Cavalier](/units/Cavalier/) (Score: 448107, Level:108)  | - | - |
+  | - | - | [Wolf Rider](/units/Wolf Rider/) (Score: 448107, Level:108)  | - |
+
+

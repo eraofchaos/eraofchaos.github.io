@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Unicorn](/units/Unicorn/) (Score: 6186, Level:26)  | [Gog](/units/Gog/) (Score: 6186, Level:26)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 9273, Level:26)  | - | [Wood Elf](/units/Wood Elf/) (Score: 6186, Level:26)  | - |
+  | [Imp](/units/Imp/) (Score: 6186, Level:26)  | - | [Wood Elf](/units/Wood Elf/) (Score: 6186, Level:26)  | - |
+  | [Unicorn](/units/Unicorn/) (Score: 6186, Level:26)  | - | - | - |
+
+

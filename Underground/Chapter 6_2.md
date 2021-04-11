@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Cavalier](/units/Cavalier/) (Score: 10883, Level:32)  | [Wolf Rider](/units/Wolf Rider/) (Score: 11219, Level:32)  | [Wolf Rider](/units/Wolf Rider/) (Score: 11219, Level:32)  |
+  | [Ogre](/units/Ogre/) (Score: 10548, Level:32)  | [Orc](/units/Orc/) (Score: 11219, Level:32)  | [Monk](/units/Monk/) (Score: 11219, Level:32)  | - |
+  | [Ogre](/units/Ogre/) (Score: 10548, Level:32)  | [Cyclops](/units/Cyclops/) (Score: 14909, Level:32)  | - | - |
+  | - | - | - | - |
+
+

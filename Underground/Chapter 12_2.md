@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skeleton](/units/Skeleton/) (Score: 47319, Level:51)  | - | [Gog](/units/Gog/) (Score: 47319, Level:51)  | [Gog](/units/Gog/) (Score: 47319, Level:51)  |
+  | [Demon](/units/Demon/) (Score: 47319, Level:51)  | - | [Efreeti](/units/Efreeti/) (Score: 52284, Level:51)  | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 47319, Level:51)  | - | [Firebird](/units/Firebird/) (Score: 47319, Level:51)  | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 47319, Level:51)  | - | - | - |
+
+

@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Dwarf](/units/Dwarf/) (Score: 19137, Level:42)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 19137, Level:42)  | - | [Wood Elf](/units/Wood Elf/) (Score: 19137, Level:42)  | [Marksman](/units/Marksman/) (Score: 19137, Level:42)  |
+  | [Ogre](/units/Ogre/) (Score: 19137, Level:42)  | - | - | - |
+  | - | [Wolf Rider](/units/Wolf Rider/) (Score: 23297, Level:42)  | [Wolf Rider](/units/Wolf Rider/) (Score: 19137, Level:42)  | - |
+
+

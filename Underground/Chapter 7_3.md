@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Centaur](/units/Centaur/) (Score: 15446, Level:38)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 15312, Level:38)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 15312, Level:38)  | - | [Sharpshooter](/units/Sharpshooter/) (Score: 15782, Level:38)  | [Pegasus](/units/Pegasus/) (Score: 15580, Level:38)  |
+  | [Goblin](/units/Goblin/) (Score: 19942, Level:38)  | [Cyclops](/units/Cyclops/) (Score: 15782, Level:38)  | - | - |
+
+

@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Ogre](/units/Ogre/) (Score: 71877, Level:55)  | - | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 66979, Level:55)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 66979, Level:55)  | [Angel](/units/Angel/) (Score: 66979, Level:55)  | - | [Arch Mage](/units/Arch Mage/) (Score: 66979, Level:55)  |
+  | [Forest Guardian](/units/Forest Guardian/) (Score: 66979, Level:55)  | - | [Arch Mage](/units/Arch Mage/) (Score: 66979, Level:55)  | - |
+
+

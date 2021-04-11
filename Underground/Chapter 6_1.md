@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Goblin](/units/Goblin/) (Score: 10280, Level:31)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 10078, Level:31)  | [Griffin](/units/Griffin/) (Score: 10481, Level:31)  | [Orc](/units/Orc/) (Score: 14909, Level:31)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 10212, Level:31)  | [Pegasus](/units/Pegasus/) (Score: 10682, Level:31)  | - | - |
+  | [Pikeman](/units/Pikeman/) (Score: 10414, Level:31)  | - | - | - |
+
+

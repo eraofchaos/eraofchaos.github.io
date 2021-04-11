@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Dwarf](/units/Dwarf/) (Score: 112741, Level:64)  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 106031, Level:64)  | [Wood Elf](/units/Wood Elf/) (Score: 106031, Level:64)  | [Pegasus](/units/Pegasus/) (Score: 106031, Level:64)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 106031, Level:64)  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 106031, Level:64)  | [Arch Mage](/units/Arch Mage/) (Score: 106031, Level:64)  | - |
+  | - | - | - | - |
+
+

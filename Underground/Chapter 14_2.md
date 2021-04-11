@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Dwarf](/units/Dwarf/) (Score: 72481, Level:56)  | - | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 72481, Level:56)  | [Arch Mage](/units/Arch Mage/) (Score: 72481, Level:56)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 72481, Level:56)  | - | - | [Pegasus](/units/Pegasus/) (Score: 72481, Level:56)  |
+  | [Unicorn](/units/Unicorn/) (Score: 72481, Level:56)  | [Unicorn](/units/Unicorn/) (Score: 72481, Level:56)  | - | - |
+
+

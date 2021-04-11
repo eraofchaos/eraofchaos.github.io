@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Ogre](/units/Ogre/) (Score: 130925, Level:73)  | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 130925, Level:73)  | - | [Devil](/units/Devil/) (Score: 130925, Level:73)  | - |
+  | [Behemoth](/units/Behemoth/) (Score: 130925, Level:73)  | - | [Sharpshooter](/units/Sharpshooter/) (Score: 130925, Level:73)  | - |
+  | - | [Forest Guardian](/units/Forest Guardian/) (Score: 130925, Level:73)  | [Lich](/units/Lich/) (Score: 137635, Level:73)  | - |
+
+

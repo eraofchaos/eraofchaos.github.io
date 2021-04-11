@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Pikeman](/units/Pikeman/) (Score: 102139, Level:43)  | - | - |
+  | [Swordsman](/units/Swordsman/) (Score: 96302, Level:43)  | - | [Monk](/units/Monk/) (Score: 96302, Level:43)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 96302, Level:43)  | - | [Firebird](/units/Firebird/) (Score: 96302, Level:43)  | - |
+  | - | [Pikeman](/units/Pikeman/) (Score: 96302, Level:43)  | [Firebird](/units/Firebird/) (Score: 96302, Level:43)  | - |
+
+

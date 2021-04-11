@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Common Ore](/Items/mat_6/){: .btn .btn--era2}, **70% 1x** [Common Ore](/Items/mat_6/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | - | - | - | - |
+  | [Goblin](/units/Goblin/) (Score: 2269, Level:15)  | - | - | - |
+  | [Goblin](/units/Goblin/) (Score: 2269, Level:15)  | [Roc](/units/Roc/) (Score: 3489, Level:15)  | [Orc](/units/Orc/) (Score: 2269, Level:15)  | [Orc](/units/Orc/) (Score: 2269, Level:15)  |
+
+

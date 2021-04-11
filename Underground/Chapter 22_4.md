@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Stone Elemental](/units/Stone Elemental/) (Score: 279216, Level:87)  | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 279216, Level:87)  | - | [Bone Dragon](/units/Bone Dragon/) (Score: 279216, Level:87)  | - |
+  | [Angel](/units/Angel/) (Score: 279216, Level:87)  | - | [Genie](/units/Genie/) (Score: 279216, Level:87)  | - |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 279216, Level:87)  | [Roc](/units/Roc/) (Score: 279216, Level:87)  | - |
+
+

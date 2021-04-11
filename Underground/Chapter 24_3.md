@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skeleton](/units/Skeleton/) (Score: 316256, Level:94)  | [Bone Dragon](/units/Bone Dragon/) (Score: 316256, Level:94)  | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 316256, Level:94)  | [Beholder](/units/Beholder/) (Score: 316256, Level:94)  | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 316256, Level:94)  | [Genie](/units/Genie/) (Score: 316256, Level:94)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 316256, Level:94)  | - | - | - |
+
+

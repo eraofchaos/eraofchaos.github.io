@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 305520, Level:92)  | - | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 305520, Level:92)  | - | [Harpy](/units/Harpy/) (Score: 305520, Level:92)  | - |
+  | [Behemoth](/units/Behemoth/) (Score: 305520, Level:92)  | - | [Green Dragon](/units/Green Dragon/) (Score: 305520, Level:92)  | - |
+  | - | [Minotaur](/units/Minotaur/) (Score: 305520, Level:92)  | [Beholder](/units/Beholder/) (Score: 305520, Level:92)  | - |
+
+

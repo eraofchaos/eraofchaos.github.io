@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Naga](/units/Naga/) (Score: 51479, Level:52)  | [Naga](/units/Naga/) (Score: 51479, Level:52)  | [Naga](/units/Naga/) (Score: 51479, Level:52)  |
+  | [Behemoth](/units/Behemoth/) (Score: 56377, Level:52)  | - | [Firebird](/units/Firebird/) (Score: 51479, Level:52)  | - |
+  | [Ogre](/units/Ogre/) (Score: 51479, Level:52)  | - | - | - |
+  | - | [Naga](/units/Naga/) (Score: 51479, Level:52)  | [Naga](/units/Naga/) (Score: 51479, Level:52)  | - |
+
+

@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +3](/Items/mat_88/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +3](/Items/mat_88/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Minotaur](/units/Minotaur/) (Score: 401003, Level:103)  | - | - |
+  | [Behemoth](/units/Behemoth/) (Score: 401003, Level:103)  | - | [Naga](/units/Naga/) (Score: 401003, Level:103)  | - |
+  | [Naga](/units/Naga/) (Score: 401003, Level:103)  | - | [Genie](/units/Genie/) (Score: 401003, Level:103)  | - |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 401003, Level:103)  | [Wood Elf](/units/Wood Elf/) (Score: 401003, Level:103)  | - |
+
+

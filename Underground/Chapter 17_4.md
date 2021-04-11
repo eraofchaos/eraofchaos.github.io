@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Book of Essences +3](/Items/mat_60/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Iron Golem](/units/Iron Golem/) (Score: 114217, Level:67)  | - | - | - |
+  | [Forest Guardian](/units/Forest Guardian/) (Score: 114217, Level:67)  | - | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 114217, Level:67)  | - | [Genie](/units/Genie/) (Score: 120927, Level:67)  | [Green Dragon](/units/Green Dragon/) (Score: 114217, Level:67)  |
+  | [Unicorn](/units/Unicorn/) (Score: 114217, Level:67)  | [Naga](/units/Naga/) (Score: 114217, Level:67)  | - | - |
+
+

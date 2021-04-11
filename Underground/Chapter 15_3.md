@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Book of Essences +2](/Items/mat_53/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Centaur](/units/Centaur/) (Score: 88585, Level:59)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 88585, Level:59)  | - | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 88585, Level:59)  | - |
+  | [Swordsman](/units/Swordsman/) (Score: 88585, Level:59)  | - | - | - |
+  | [Stone Gargoyle](/units/Stone Gargoyle/) (Score: 95228, Level:59)  | [Arch Mage](/units/Arch Mage/) (Score: 88585, Level:59)  | [Sharpshooter](/units/Sharpshooter/) (Score: 88585, Level:59)  | - |
+
+

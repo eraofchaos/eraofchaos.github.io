@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Behemoth](/units/Behemoth/) (Score: 125289, Level:71)  | - | - |
+  | [Ogre](/units/Ogre/) (Score: 125289, Level:71)  | - | [Pit Fiend](/units/Pit Fiend/) (Score: 125289, Level:71)  | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 131999, Level:71)  | - | [Efreeti](/units/Efreeti/) (Score: 125289, Level:71)  | - |
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 125289, Level:71)  | [Cyclops](/units/Cyclops/) (Score: 125289, Level:71)  | - |
+
+

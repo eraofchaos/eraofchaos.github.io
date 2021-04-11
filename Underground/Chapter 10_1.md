@@ -38,9 +38,9 @@ classes: wide
 
   | 1st row | 2nd row | 3rd row | 4th row |
   |:----:|:----:|:----|:----:|
-  | - | ?? | - | - |
-  | ?? | - | ?? | - |
-  | ?? | - | ?? | - |
-  | - | ?? | ?? | - |
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 32288, Level:46)  | - | - |
+  | [Imp](/units/Imp/) (Score: 36784, Level:46)  | - | [Lich](/units/Lich/) (Score: 32288, Level:46)  | - |
+  | [Demon](/units/Demon/) (Score: 32288, Level:46)  | - | [Pit Fiend](/units/Pit Fiend/) (Score: 32288, Level:46)  | - |
+  | - | [Hell Hound](/units/Hell Hound/) (Score: 32288, Level:46)  | [Vampire](/units/Vampire/) (Score: 32288, Level:46)  | - |
 
 

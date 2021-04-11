@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +4](/Items/mat_95/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Dwarf](/units/Dwarf/) (Score: 424555, Level:105)  | [Pikeman](/units/Pikeman/) (Score: 424555, Level:105)  | - | - |
+  | - | [Forest Guardian](/units/Forest Guardian/) (Score: 424555, Level:105)  | - | [Wood Elf](/units/Wood Elf/) (Score: 424555, Level:105)  |
+  | - | [Forest Guardian](/units/Forest Guardian/) (Score: 424555, Level:105)  | - | - |
+  | [Minotaur](/units/Minotaur/) (Score: 424555, Level:105)  | [Naga](/units/Naga/) (Score: 424555, Level:105)  | - | - |
+
+

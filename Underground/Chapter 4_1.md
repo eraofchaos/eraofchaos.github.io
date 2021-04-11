@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Imp](/units/Imp/) (Score: 3977, Level:21)  | [Gog](/units/Gog/) (Score: 3977, Level:21)  | [Wight](/units/Wight/) (Score: 3977, Level:21)  | [Wight](/units/Wight/) (Score: 3977, Level:21)  |
+  | [Skeleton](/units/Skeleton/) (Score: 5624, Level:21)  | - | - | - |
+  | - | - | - | - |
+  | [Demon](/units/Demon/) (Score: 3977, Level:21)  | [Vampire](/units/Vampire/) (Score: 3977, Level:21)  | - | - |
+
+

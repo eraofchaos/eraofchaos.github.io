@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +3](/Items/mat_88/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +3](/Items/mat_88/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Minotaur](/units/Minotaur/) (Score: 386040, Level:101)  | - | - |
+  | [Skeleton](/units/Skeleton/) (Score: 386040, Level:101)  | - | [Bone Dragon](/units/Bone Dragon/) (Score: 386040, Level:101)  | - |
+  | [Minotaur](/units/Minotaur/) (Score: 386040, Level:101)  | - | [Black Knight](/units/Black Knight/) (Score: 386040, Level:101)  | - |
+  | - | [Iron Golem](/units/Iron Golem/) (Score: 386040, Level:101)  | [Pegasus](/units/Pegasus/) (Score: 386040, Level:101)  | - |
+
+

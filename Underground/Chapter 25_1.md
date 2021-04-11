@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend +2](/Items/mat_81/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Vampire](/units/Vampire/) (Score: 330816, Level:96)  | [Wood Elf](/units/Wood Elf/) (Score: 330816, Level:96)  | [Wood Elf](/units/Wood Elf/) (Score: 330816, Level:96)  |
+  | [Skeleton](/units/Skeleton/) (Score: 330816, Level:96)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 330816, Level:96)  | - | - | [Arch Mage](/units/Arch Mage/) (Score: 330816, Level:96)  |
+  | - | [Cavalier](/units/Cavalier/) (Score: 330816, Level:96)  | - | - |
+
+

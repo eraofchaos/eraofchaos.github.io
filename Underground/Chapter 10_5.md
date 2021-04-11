@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Goblin](/units/Goblin/) (Score: 36851, Level:48)  | [Bone Dragon](/units/Bone Dragon/) (Score: 36851, Level:48)  | [Bone Dragon](/units/Bone Dragon/) (Score: 36851, Level:48)  |
+  | [Behemoth](/units/Behemoth/) (Score: 36851, Level:48)  | [Angel](/units/Angel/) (Score: 36851, Level:48)  | - | - |
+  | [Dendroid Guard](/units/Dendroid Guard/) (Score: 36851, Level:48)  | [Pit Fiend](/units/Pit Fiend/) (Score: 41414, Level:48)  | - | - |
+  | - | [Goblin](/units/Goblin/) (Score: 36851, Level:48)  | - | - |
+
+

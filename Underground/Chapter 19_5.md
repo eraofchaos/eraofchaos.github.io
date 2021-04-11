@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificate of Legend](/Items/mat_67/){: .btn .btn--era5}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Behemoth](/units/Behemoth/) (Score: 139044, Level:76)  | [Bone Dragon](/units/Bone Dragon/) (Score: 139044, Level:76)  | [Arch Mage](/units/Arch Mage/) (Score: 145754, Level:76)  | [Arch Mage](/units/Arch Mage/) (Score: 145754, Level:76)  |
+  | [Swordsman](/units/Swordsman/) (Score: 139044, Level:76)  | [Angel](/units/Angel/) (Score: 139044, Level:76)  | [Genie](/units/Genie/) (Score: 139044, Level:76)  | - |
+  | - | - | - | - |
+  | - | - | - | - |
+
+

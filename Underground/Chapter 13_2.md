@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Black Knight](/units/Black Knight/) (Score: 58524, Level:54)  | [Lich](/units/Lich/) (Score: 58524, Level:54)  | [Lich](/units/Lich/) (Score: 58524, Level:54)  |
+  | [Iron Golem](/units/Iron Golem/) (Score: 58524, Level:54)  | [Bone Dragon](/units/Bone Dragon/) (Score: 64161, Level:54)  | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 58524, Level:54)  | - | - | - |
+  | - | [Naga](/units/Naga/) (Score: 58524, Level:54)  | [Arch Mage](/units/Arch Mage/) (Score: 58524, Level:54)  | - |
+
+

@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Book of Essences +1](/Items/mat_46/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Skeleton](/units/Skeleton/) (Score: 53693, Level:53)  | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 53693, Level:53)  | - | [Wight](/units/Wight/) (Score: 58524, Level:53)  | [Arch Mage](/units/Arch Mage/) (Score: 53693, Level:53)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 53693, Level:53)  | - | - | [Arch Mage](/units/Arch Mage/) (Score: 53693, Level:53)  |
+  | [Naga](/units/Naga/) (Score: 53693, Level:53)  | - | - | - |
+
+

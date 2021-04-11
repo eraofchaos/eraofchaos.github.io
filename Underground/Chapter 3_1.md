@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Common Crystal](/Items/mat_11/){: .btn .btn--era2}, **70% 1x** [Common Crystal](/Items/mat_11/){: .btn .btn--era2}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Hell Hound](/units/Hell Hound/) (Score: 4221, Level:18)  | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 2818, Level:18)  | - | [Lich](/units/Lich/) (Score: 2818, Level:18)  | - |
+  | [Imp](/units/Imp/) (Score: 2818, Level:18)  | - | [Lich](/units/Lich/) (Score: 2818, Level:18)  | - |
+  | - | [Skeleton](/units/Skeleton/) (Score: 2818, Level:18)  | - | - |
+
+

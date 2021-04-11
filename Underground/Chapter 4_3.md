@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **30% 0x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Book of Arms](/Items/mat_18/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Demon](/units/Demon/) (Score: 5197, Level:23)  | [Lich](/units/Lich/) (Score: 5197, Level:23)  | [Wight](/units/Wight/) (Score: 5197, Level:23)  | [Wight](/units/Wight/) (Score: 5197, Level:23)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 5197, Level:23)  | - | - | - |
+  | - | - | - | - |
+  | [Walking Dead](/units/Walking Dead/) (Score: 5197, Level:23)  | [Gog](/units/Gog/) (Score: 7576, Level:23)  | [Gog](/units/Gog/) (Score: 5197, Level:23)  | - |
+
+

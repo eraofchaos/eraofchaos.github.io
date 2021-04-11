@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Book of Arms +1](/Items/mat_25/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Dwarf](/units/Dwarf/) (Score: 14641, Level:37)  | - | - | - |
+  | [Ogre](/units/Ogre/) (Score: 18868, Level:37)  | [Roc](/units/Roc/) (Score: 14977, Level:37)  | - | - |
+  | [Centaur](/units/Centaur/) (Score: 14641, Level:37)  | - | - | [Pegasus](/units/Pegasus/) (Score: 14909, Level:37)  |
+  | [Unicorn](/units/Unicorn/) (Score: 14842, Level:37)  | [Wolf Rider](/units/Wolf Rider/) (Score: 14775, Level:37)  | - | - |
+
+

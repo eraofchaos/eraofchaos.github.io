@@ -27,3 +27,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Skeleton](/units/Skeleton/) (Score: 29000, Level:45)  | - | - |
+  | [Demon](/units/Demon/) (Score: 29000, Level:45)  | - | [Pit Fiend](/units/Pit Fiend/) (Score: 29000, Level:45)  | - |
+  | [Bone Dragon](/units/Bone Dragon/) (Score: 33563, Level:45)  | - | [Efreeti](/units/Efreeti/) (Score: 29000, Level:45)  | - |
+  | - | [Walking Dead](/units/Walking Dead/) (Score: 29000, Level:45)  | [Gog](/units/Gog/) (Score: 29000, Level:45)  | - |
+
+

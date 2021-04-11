@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Book of Essences](/Items/mat_39/){: .btn .btn--era4}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Goblin](/units/Goblin/) (Score: 38193, Level:48)  | - | - | - |
+  | [Iron Golem](/units/Iron Golem/) (Score: 38193, Level:48)  | - | [Lich](/units/Lich/) (Score: 38193, Level:48)  | [Gremlin](/units/Gremlin/) (Score: 38193, Level:48)  |
+  | [Walking Dead](/units/Walking Dead/) (Score: 38193, Level:48)  | - | [Wight](/units/Wight/) (Score: 42286, Level:48)  | - |
+  | [Goblin](/units/Goblin/) (Score: 38193, Level:48)  | - | - | - |
+
+

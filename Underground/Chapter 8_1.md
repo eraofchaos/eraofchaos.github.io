@@ -29,3 +29,18 @@ classes: wide
 
  **Drop 4:** **50% 0x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Book of Arms +2](/Items/mat_32/){: .btn .btn--era3}
 
+
+## Fight against Team
+ **Hero:** UNKNOWN
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | [Centaur](/units/Centaur/) (Score: 18130, Level:41)  | [Goblin](/units/Goblin/) (Score: 22223, Level:41)  | [Wood Elf](/units/Wood Elf/) (Score: 18130, Level:41)  | [Pegasus](/units/Pegasus/) (Score: 18130, Level:41)  |
+  | [Ogre](/units/Ogre/) (Score: 18130, Level:41)  | [Goblin](/units/Goblin/) (Score: 18130, Level:41)  | [Orc](/units/Orc/) (Score: 18130, Level:41)  | - |
+  | - | - | - | - |
+
+
