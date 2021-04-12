@@ -2,9 +2,11 @@
 
 name: refresh
 
-on:
-  schedule:
-    - cron:  '0 3 * * *' # Runs every day at 3am
+#on:
+#  schedule:
+#    - cron:  '*/23 1,2,3 * * *' # Runs every 23 minutes from 1:23am up to 3am
+#     - cron:  '0 3 * * *' # Runs every day at 3am
+#     - cron:  '23 */7 * * *' # Runs every 7 hours XX:23 time
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
