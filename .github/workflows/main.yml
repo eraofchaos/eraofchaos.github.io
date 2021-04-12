@@ -22,9 +22,10 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-      - name: Build and deploy
+
+      - name: Build and Deploy
         uses: helaili/jekyll-action@v2.0.4
         with:
+          target_branch: gh-pages
           token: ${{ secrets.GITHUB_TOKEN }}
-# env:
-#   JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+
