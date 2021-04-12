@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 14 - 14-2 Killing the Scout"
 permalink: /Main Story/Chapter 14_2/
 excerpt: "Chapter 14 - 2. Era of Chaos  Main Story - Chapter 14_2. 14-2 Killing the Scout"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 14_2.md"
 toc: false

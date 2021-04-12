@@ -2,7 +2,7 @@
 title: "Underground - Chapter 13 - 13-3 The Bloody Field"
 permalink: /Underground/Chapter 13_3/
 excerpt: "Chapter 13 - 3. Era of Chaos  Underground - Chapter 13_3. 13-3 The Bloody Field"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 13_3.md"
 toc: false

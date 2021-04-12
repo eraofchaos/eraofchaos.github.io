@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-2 Strange Sorcery"
 permalink: /Main Story/Chapter 18_2/
 excerpt: "Chapter 18 - 2. Era of Chaos  Main Story - Chapter 18_2. 18-2 Strange Sorcery"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 18_2.md"
 toc: false

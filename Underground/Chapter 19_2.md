@@ -2,7 +2,7 @@
 title: "Underground - Chapter 19 - 19-2 Soul Worship"
 permalink: /Underground/Chapter 19_2/
 excerpt: "Chapter 19 - 2. Era of Chaos  Underground - Chapter 19_2. 19-2 Soul Worship"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 19_2.md"
 toc: false

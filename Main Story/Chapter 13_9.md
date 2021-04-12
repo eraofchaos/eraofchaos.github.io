@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-9 Wolf Pack Crisis"
 permalink: /Main Story/Chapter 13_9/
 excerpt: "Chapter 13 - 9. Era of Chaos  Main Story - Chapter 13_9. 13-9 Wolf Pack Crisis"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 13_9.md"
 toc: false

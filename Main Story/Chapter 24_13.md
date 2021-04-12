@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-13 The Elf's Discouragement"
 permalink: /Main Story/Chapter 24_13/
 excerpt: "Chapter 24 - 13. Era of Chaos  Main Story - Chapter 24_13. 24-13 The Elf's Discouragement"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 24_13.md"
 toc: false

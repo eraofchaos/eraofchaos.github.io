@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-7 Rise Up"
 permalink: /Main Story/Chapter 7_7/
 excerpt: "Chapter 7 - 7. Era of Chaos  Main Story - Chapter 7_7. 7-7 Rise Up"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 7_7.md"
 toc: false

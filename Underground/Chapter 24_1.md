@@ -2,7 +2,7 @@
 title: "Underground - Chapter 24 - 24-1 Frozen Land"
 permalink: /Underground/Chapter 24_1/
 excerpt: "Chapter 24 - 1. Era of Chaos  Underground - Chapter 24_1. 24-1 Frozen Land"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 24_1.md"
 toc: false

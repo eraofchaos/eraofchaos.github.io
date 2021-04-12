@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-12 Fireball Range"
 permalink: /Main Story/Chapter 30_12/
 excerpt: "Chapter 30 - 12. Era of Chaos  Main Story - Chapter 30_12. 30-12 Fireball Range"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 30_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-13 Quantum Magic"
 permalink: /Main Story/Chapter 20_13/
 excerpt: "Chapter 20 - 13. Era of Chaos  Main Story - Chapter 20_13. 20-13 Quantum Magic"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 20_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-6 Altar of the Demon"
 permalink: /Main Story/Chapter 15_6/
 excerpt: "Chapter 15 - 6. Era of Chaos  Main Story - Chapter 15_6. 15-6 Altar of the Demon"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 15_6.md"
 toc: false

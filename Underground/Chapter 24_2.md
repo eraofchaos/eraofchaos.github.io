@@ -2,7 +2,7 @@
 title: "Underground - Chapter 24 - 24-2 Flaming Inferno"
 permalink: /Underground/Chapter 24_2/
 excerpt: "Chapter 24 - 2. Era of Chaos  Underground - Chapter 24_2. 24-2 Flaming Inferno"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 24_2.md"
 toc: false

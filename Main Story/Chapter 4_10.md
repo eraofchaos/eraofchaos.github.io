@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 4 - 4-10 Griffin Cliff"
 permalink: /Main Story/Chapter 4_10/
 excerpt: "Chapter 4 - 10. Era of Chaos  Main Story - Chapter 4_10. 4-10 Griffin Cliff"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 4_10.md"
 toc: false

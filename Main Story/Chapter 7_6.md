@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-6 Broken Home"
 permalink: /Main Story/Chapter 7_6/
 excerpt: "Chapter 7 - 6. Era of Chaos  Main Story - Chapter 7_6. 7-6 Broken Home"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 7_6.md"
 toc: false

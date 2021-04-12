@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-15 Nighon Stories"
 permalink: /Main Story/Chapter 26_15/
 excerpt: "Chapter 26 - 15. Era of Chaos  Main Story - Chapter 26_15. 26-15 Nighon Stories"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 26_15.md"
 toc: false

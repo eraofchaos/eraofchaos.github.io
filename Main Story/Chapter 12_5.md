@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-5 The Army Marches"
 permalink: /Main Story/Chapter 12_5/
 excerpt: "Chapter 12 - 5. Era of Chaos  Main Story - Chapter 12_5. 12-5 The Army Marches"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 12_5.md"
 toc: false

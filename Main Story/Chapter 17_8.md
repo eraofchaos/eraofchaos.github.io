@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-8 Dwarf Mine"
 permalink: /Main Story/Chapter 17_8/
 excerpt: "Chapter 17 - 8. Era of Chaos  Main Story - Chapter 17_8. 17-8 Dwarf Mine"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: en
 ref: "Chapter 17_8.md"
 toc: false
