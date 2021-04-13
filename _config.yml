@@ -23,7 +23,6 @@ url:                "https://eraofchaos.github.io"
 logo: "/images/HMM_EraOfChaos_Wiki_Logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
-repository: "eraofchaosbot/eraofchaos.github.io"
 
 minimal_mistakes_skin: default
 search: true
@@ -33,6 +32,7 @@ google:
   instant_search       : true  
 
 # eraofchaos/eraofchaos.github.io
+repository: "eraofchaosbot/eraofchaos.github.io"
 comments:
   provider  : staticman_v2
   staticman:
