@@ -23,7 +23,6 @@ url:                "https://eraofchaos.github.io"
 logo: "/images/HMM_EraOfChaos_Wiki_Logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
-repository: "eraofchaos/eraofchaos.github.io"
 
 minimal_mistakes_skin: default
 search: true
@@ -33,11 +32,21 @@ google:
   instant_search       : true  
 
 # eraofchaos/eraofchaos.github.io
+repository: "eraofchaosbot/eraofchaos.github.io"
 comments:
   provider  : staticman_v2
   staticman:
-    branch    : "master"
-    endpoint  : https://eraofchaos.herokuapp.com/v3/entry/github/
+    branch    : "main"
+    endpoint  : https://eraofchaosbot.herokuapp.com/v2/entry/
+
+
+#       endpoint  : https://eraofchaosbot.herokuapp.com/v3/entry/github/
+#   https://eraofchaosbot.herokuapp.com/v2/connect/eraofchaosbot/eraofchaos.github.io
+#     endpoint  : https://api.staticman.net/v2/entry/
+#    endpoint  : https://eraofchaos.herokuapp.com/v2/entry/
+#   endpoint  : https://api.staticman.net/v3/entry/github/
+#   endpoint  : https://eraofchaos.herokuapp.com/v3/entry/github/  check issue with require oauthToken or token, see https://yasoob.me/posts/running_staticman_on_static_hugo_blog_with_nested_comments/
+
 
 # Build settings
 markdown: kramdown
