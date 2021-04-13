@@ -23,6 +23,7 @@ url:                "https://eraofchaos.github.io"
 logo: "/images/HMM_EraOfChaos_Wiki_Logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
+repository: "eraofchaos/eraofchaos.github.io"
 
 minimal_mistakes_skin: default
 search: true
@@ -30,6 +31,13 @@ search_provider: google
 google:
   search_engine_id     :  "7ff39373b784e9f4b"
   instant_search       : true  
+
+# eraofchaos/eraofchaos.github.io
+comments:
+  provider  : staticman_v2
+  staticman:
+    branch    : "master"
+    endpoint  : https://eraofchaos.staticman.net/v3/entry/github/
 
 # Build settings
 markdown: kramdown
@@ -136,6 +144,8 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      comments: true
+      share: true
       sidebar:
         nav: "docs"
   # artifacts
