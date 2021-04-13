@@ -37,9 +37,10 @@ comments:
   provider  : staticman_v2
   staticman:
     branch    : "master"
-    endpoint  : https://eraofchaos.herokuapp.com/v2/entry/
- #   endpoint  : https://api.staticman.net/v3/entry/github/
- #   endpoint  : https://eraofchaos.herokuapp.com/v3/entry/github/  check issue with require oauthToken or token, see https://yasoob.me/posts/running_staticman_on_static_hugo_blog_with_nested_comments/
+#    endpoint  : https://eraofchaos.herokuapp.com/v2/entry/
+     endpoint  : https://api.staticman.net/v2/entry/
+#   endpoint  : https://api.staticman.net/v3/entry/github/
+#   endpoint  : https://eraofchaos.herokuapp.com/v3/entry/github/  check issue with require oauthToken or token, see https://yasoob.me/posts/running_staticman_on_static_hugo_blog_with_nested_comments/
 
 
 # Build settings
