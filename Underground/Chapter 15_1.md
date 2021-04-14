@@ -2,7 +2,7 @@
 title: "Underground - Chapter 15 - 15-1 Demon's Sculpture"
 permalink: /Underground/Chapter 15_1/
 excerpt: "Chapter 15 - 1. Era of Chaos  Underground - Chapter 15_1. 15-1 Demon's Sculpture"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 15_1.md"
 toc: false

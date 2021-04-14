@@ -1,8 +1,8 @@
 ---
-title: "Exclusive - Knight Pike"
+title: "Exclusive - Knight Pike (Wolf Rider)"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Wolf Rider Exclusive."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Wolf Rider Knight Pike.md"
 toc: false

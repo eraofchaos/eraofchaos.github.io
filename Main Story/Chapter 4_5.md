@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 4 - 4-5 Plan Exposed"
 permalink: /Main Story/Chapter 4_5/
 excerpt: "Chapter 4 - 5. Era of Chaos  Main Story - Chapter 4_5. 4-5 Plan Exposed"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 4_5.md"
 toc: false

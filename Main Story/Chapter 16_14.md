@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-14 Ranger's Gratitude"
 permalink: /Main Story/Chapter 16_14/
 excerpt: "Chapter 16 - 14. Era of Chaos  Main Story - Chapter 16_14. 16-14 Ranger's Gratitude"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 16_14.md"
 toc: false

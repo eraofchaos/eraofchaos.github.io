@@ -2,7 +2,7 @@
 title: "Underground - Chapter 26 - 26-5 Fate's End"
 permalink: /Underground/Chapter 26_5/
 excerpt: "Chapter 26 - 5. Era of Chaos  Underground - Chapter 26_5. 26-5 Fate's End"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 26_5.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Exclusive - Break Waves"
+title: "Exclusive - Break Waves (Shark Trainer)"
 permalink: /Exclusive/Shark Trainer Break Waves/
 excerpt: "Era of Chaos Break Waves. Break Waves. Era of Chaos Exclusive Break Waves. Shark Trainer Exclusive."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Shark Trainer Break Waves.md"
 toc: false

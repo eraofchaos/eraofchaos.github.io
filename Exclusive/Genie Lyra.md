@@ -1,8 +1,8 @@
 ---
-title: "Exclusive - Lyra"
+title: "Exclusive - Lyra (Genie)"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lyra. Lyra. Era of Chaos Exclusive Lyra. Genie Exclusive."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Genie Lyra.md"
 toc: false

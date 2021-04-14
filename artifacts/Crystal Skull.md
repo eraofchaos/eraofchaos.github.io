@@ -2,7 +2,7 @@
 title: "Artifacts - Apple of Eden - Crystal Skull"
 permalink: /artifacts/Crystal Skull/
 excerpt: "Era of Chaos  Apple of Eden - Crystal Skull. A skull made out of crystal by an unknown civilization. Has the power to see through the hearts of men."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: en
 ref: "Crystal Skull.md"
 toc: false

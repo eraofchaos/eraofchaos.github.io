@@ -1,8 +1,8 @@
 ---
-title: "Exclusive - Fire Energy"
+title: "Exclusive - Fire Energy (Fire Elemental)"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Fire Energy. Fire Energy. Era of Chaos Exclusive Fire Energy. Fire Elemental Exclusive."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Fire Elemental Fire Energy.md"
 toc: false
@@ -31,11 +31,11 @@ classes: wide
   |:-------------|:---------------:|:---------------:|
   |  Awaken  | **100x** [Fire Energy Token](/Items/con_998/) | <Fire Trio> Fire Elemental manipulates balls of fire to deal AoE damage on target units at 3 phases every 20s. The attack ranges change from small, to smaller, and then wide in that order, and deal 90%, 120%, and 150% of ATK respectively. The burning effect on the target lasts for 5s |
   | **1x** <i class="fas fa-star"/> | **50x** [Fire Energy Token](/Items/con_998/) | Fire Elemental's penetration is increased by 150 |
-  | **2x** <i class="fas fa-star"/> | **90x** [Fire Energy Token](/Items/con_998/) | Increases Fire Elemental's ATK by 20% and unit's damage by 10% |
-  | **3x** <i class="fas fa-star"/> | **130x** [Fire Energy Token](/Items/con_998/) | At the beginning of battle, the Fire Elemental gets a shield equal to 100% of its Max HP. Its fire causes damage equal to 10% of its ATK to surrounding hostile units within a small range every second. This effect cannot be dispelled |
-  | **4x** <i class="fas fa-star"/> | **170x** [Fire Energy Token](/Items/con_998/) | Increases Fire Elemental's Crit DMG by 20% and ATK speed 10% |
+  | **2x** <i class="fas fa-star"/> | **90x** [Fire Energy Token](/Items/con_998/) | Increases Fire Elemental's ATK by 20% and unit's damage by 12% |
+  | **3x** <i class="fas fa-star"/> | **130x** [Fire Energy Token](/Items/con_998/) | At the beginning of battle, the Fire Elemental gets a shield equal to 100% of its Max HP. This shield also increases Fire Elemental's Unit DMG Reduction by 30% and deals damage equal to 10% of its ATK to surrounding enemy units within a small range every second. This effect cannot be dispelled |
+  | **4x** <i class="fas fa-star"/> | **170x** [Fire Energy Token](/Items/con_998/) | Increases Fire Elemental's Crit DMG by 20% and DEF 15% |
   | **5x** <i class="fas fa-star"/> | **210x** [Fire Energy Token](/Items/con_998/) | The Fire Elemental is immune to damage caused by fire spells |
-  | **6x** <i class="fas fa-star"/> | **250x** [Fire Energy Token](/Items/con_998/) | <Elemental Resonance> When a Fire Elemental is on the battlefield, it increases ATK speed of all Conflux Faction units by 10%. Whenever the Trio is cast, it increases ATK speed for all Conflux Faction units by 10%. The effect lasts throughout the entire battle and cannot be stacked |
+  | **6x** <i class="fas fa-star"/> | **250x** [Fire Energy Token](/Items/con_998/) | <Elemental Resonance> When a Fire Elemental is on the battlefield, it increases Attack Speed of all Conflux units by 30% and grants them a 10% Life Drain buff. Whenever the Trio is cast, it additionally increases Unit DMG and Unit DMG Reduction for all Conflux units by 10% each. The effect lasts for the whole battle. Stacks up to 5 times. |
 
 
 ## Level Up

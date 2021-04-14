@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 - 8-7 All-Out War"
 permalink: /Main Story/Chapter 8_7/
 excerpt: "Chapter 8 - 7. Era of Chaos  Main Story - Chapter 8_7. 8-7 All-Out War"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 8_7.md"
 toc: false

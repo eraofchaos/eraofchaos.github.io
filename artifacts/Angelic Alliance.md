@@ -2,7 +2,7 @@
 title: "Artifacts - Angelic Alliance"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Era of Chaos  Angelic Alliance. Angelic Alliance A holy relic forged from precious items by Angelic power. Able to increase the power of your allies."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: en
 ref: "Angelic Alliance.md"
 toc: false

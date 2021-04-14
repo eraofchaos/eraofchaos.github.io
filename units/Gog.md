@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Gog"
 toc: true
@@ -164,6 +164,7 @@ toc: true
 * **R**  (R)
 
 ### Hero Bonus
+* [Dracon](/heroes/Dracon/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent

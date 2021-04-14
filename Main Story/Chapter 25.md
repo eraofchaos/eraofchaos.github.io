@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 Survival of the Fittest"
 permalink: /Main Story/Chapter 25/
 excerpt: "Chapter 25. Era of Chaos  Main Story - Chapter 25. Survival of the Fittest"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 25.md"
 toc: false

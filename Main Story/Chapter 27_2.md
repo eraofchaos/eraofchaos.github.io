@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-2 Magic Vortex"
 permalink: /Main Story/Chapter 27_2/
 excerpt: "Chapter 27 - 2. Era of Chaos  Main Story - Chapter 27_2. 27-2 Magic Vortex"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 27_2.md"
 toc: false

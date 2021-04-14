@@ -1,8 +1,8 @@
 ---
-title: "Exclusive - Iris Shield"
+title: "Exclusive - Iris Shield (Dendroid Guard)"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Dendroid Guard Exclusive."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Dendroid Guard Iris Shield.md"
 toc: false

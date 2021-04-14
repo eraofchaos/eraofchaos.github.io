@@ -3,7 +3,7 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Imp"
 toc: true
@@ -166,6 +166,7 @@ toc: true
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/heroes/Nymus/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

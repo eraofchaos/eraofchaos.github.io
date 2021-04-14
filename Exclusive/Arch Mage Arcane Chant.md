@@ -1,8 +1,8 @@
 ---
-title: "Exclusive - Arcane Chant"
+title: "Exclusive - Arcane Chant (Arch Mage)"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Arch Mage Exclusive."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Arch Mage Arcane Chant.md"
 toc: false

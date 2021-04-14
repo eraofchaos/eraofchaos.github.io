@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-4 The Man-eater"
 permalink: /Main Story/Chapter 28_4/
 excerpt: "Chapter 28 - 4. Era of Chaos  Main Story - Chapter 28_4. 28-4 The Man-eater"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 28_4.md"
 toc: false

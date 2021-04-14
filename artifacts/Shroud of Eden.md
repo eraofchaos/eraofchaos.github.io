@@ -2,7 +2,7 @@
 title: "Artifacts - Apple of Eden - Shroud of Eden"
 permalink: /artifacts/Shroud of Eden/
 excerpt: "Era of Chaos  Apple of Eden - Shroud of Eden. The legendary holy Shroud of Eden. There is no way to verify it's authenticity."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: en
 ref: "Shroud of Eden.md"
 toc: false

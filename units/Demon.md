@@ -3,7 +3,7 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Demon"
 toc: true
@@ -164,6 +164,7 @@ toc: true
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/heroes/Nymus/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 

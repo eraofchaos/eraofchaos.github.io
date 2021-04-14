@@ -2,7 +2,7 @@
 title: "Underground - Chapter 20 - 20-2 Guard of the Elementals"
 permalink: /Underground/Chapter 20_2/
 excerpt: "Chapter 20 - 2. Era of Chaos  Underground - Chapter 20_2. 20-2 Guard of the Elementals"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 20_2.md"
 toc: false

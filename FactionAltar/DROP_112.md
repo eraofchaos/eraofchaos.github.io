@@ -2,7 +2,7 @@
 title: "Faction Altar for Cove"
 permalink: /FactionAltar/DROP_112/
 excerpt: "Era of Chaos  Faction Altar for Cove. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: en
 ref: "DROP_112.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Exclusive - Iris Shield"
+title: "Exclusive - Iris Shield (Swordsman)"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Swordsman Exclusive."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Swordsman Iris Shield.md"
 toc: false

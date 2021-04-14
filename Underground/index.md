@@ -2,7 +2,7 @@
 title: "Underground"
 permalink: /Underground/
 excerpt: "Underground. Era of Chaos  Underground."
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "index.md"
 toc: false
@@ -38,3 +38,6 @@ classes: wide
   | **25** | [Underground Chapter 25 - Land of Sleep](/Underground/Chapter 25/) | **96** | The path to Welnin is rife with obstacles. If we're going to realize our dream of winning independence, we first must avoid Erathia and reach Welnin to establish a base camp | 
   | **26** | [Underground Chapter 26 - Sound of Fate](/Underground/Chapter 26/) | **100** | The artifact has arrived at Welnin, but armies from Erathia and Avlee have arrived too. War could break out at any moment. | 
   | **27** | [Underground Chapter 27 - The Pilgrim's Way](/Underground/Chapter 27/) | **104** | - | 
+  | **28** | [Underground Chapter 28 - Tunnels and Troglodytes](/Underground/Chapter 28/) | **106** | - | 
+  | **29** | [Underground Chapter 29 - Deal with the Demon](/Underground/Chapter 29/) | **108** | - | 
+  | **30** | [Underground Chapter 30 - The King's Salvation](/Underground/Chapter 30/) | **110** | - | 

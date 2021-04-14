@@ -2,7 +2,7 @@
 title: "Adjutant Erdamon"
 permalink: /heroes/Adjutant Erdamon/
 excerpt: "Era of Chaos  Adjutant Erdamon"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Erdamon.md"
 toc: false

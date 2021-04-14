@@ -1,8 +1,8 @@
 ---
-title: "Exclusive - Arcane Chant"
+title: "Exclusive - Arcane Chant (Wight)"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Wight Exclusive."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Wight Arcane Chant.md"
 toc: false

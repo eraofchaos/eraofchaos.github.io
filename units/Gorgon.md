@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Gorgon"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">The Gorgon's unit's damage reduction is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and is increased by 5% further for every debuff the target has, up to 5 stacks.</span><span style="color: black">
 
 ### Regular Skill 3 : Wild Curse
- **Description:** <span style="color: #645252;font-size:20px">Decreases Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">% of hostile units around Gorgon.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Decreases Crit Hit by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">% of targets within certain range of Gorgon.</span><span style="color: black">
 
 ### Faction Special Skill I : Plague Strike
  **Description:** <span style="color: #645252;font-size:20px">Fortress units are good at spreading the plague, and increase unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> when fighting against units suffering from the &lt;plague&gt;</span><span style="color: black">
@@ -207,7 +207,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Abyss' Glance
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Mighty Gorgon&gt;</span><span style="color: #645252;font-size:18px">Will be triggered once every 18 seconds. It has a 100% chance of petrifying the target for 3s and applies 1 random debuff on hostile units within a certain range. Meanwhile, it increases penetration by 200 for all friendly units over the next 10s</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Mighty Gorgon&gt;</span><span style="color: #645252;font-size:18px">Will be triggered once every 18 seconds. It has a 100% chance to petrify the target for 3s and applies 1 random debuff on hostile units within a certain range. Meanwhile, it increases penetration by 200 for all friendly units over the next 10s</span>
 
 ### 2nd Skill (or 1st): Deathly Gaze
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Mighty Gorgon&gt;</span><span style="color: #645252;font-size:18px">Will be triggered once every 18s. It has a 100% chance to petrify the target unit for 3s and apply 2 random debuffs to hostile units within a certain range.This effect lasts for 10s </span>

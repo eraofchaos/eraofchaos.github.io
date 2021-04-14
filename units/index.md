@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "index.md"
 toc: false
@@ -62,7 +62,7 @@ classes: wide
   | 40 | [Imp](/units/Imp/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familiar  |
   | 41 | [Iron Golem](/units/Iron Golem/) | Defense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gold Golem  |
   | 42 | [Judicator](/units/Judicator/) | Caster | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
-  | 43 | [Leprechaun](/units/Leprechaun/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
+  | 43 | [Leprechaun](/units/Leprechaun/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
   | 44 | [Lich](/units/Lich/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Power Lich  |
   | 45 | [Lizardman](/units/Lizardman/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
   | 46 | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |

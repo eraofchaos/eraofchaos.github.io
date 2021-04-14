@@ -3,7 +3,7 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Venom Spawn"
 toc: true
@@ -256,7 +256,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Fearless Execution
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Sanctuary Retinue is promoted to Sanctuary Supervisor. For each Sanctuary Supervisor on the battlefield, the Sanctuary Supervisor increases the DEF of Supreme Paladin by 15%. Sanctuary will restore 10% HP during the first 3 summons</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Sanctuary Retinue is promoted to Sanctuary Supervisor. For each Sanctuary Supervisor on the battlefield, the Sanctuary Supervisor increases the DEF of Supreme Paladin by 15%. Supreme Paladin will restore 10% HP during the first 3 summons</span>
 
 ### 2nd Skill (or 1st): Sanctuary's Glory
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Sanctuary Retinue gets promoted to Sanctuary Supervisor. For the first 3 summons, friendly units' damage and damage reduction will be increased by 10% for 30s. Supreme Paladin summons a Sanctuary Supervisor when entering the battlefield for the first time</span>

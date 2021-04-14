@@ -1,8 +1,8 @@
 ---
-title: "Exclusive - Knight Pike"
+title: "Exclusive - Knight Pike (Cavalier)"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Cavalier Exclusive."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Cavalier Knight Pike.md"
 toc: false

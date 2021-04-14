@@ -2,11 +2,37 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 17  Cove Week
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **26 Apr** | **3x [Sea Elemental](/Items/unt_275/)**  | A squad of Sea Elemental joined your army and you become stronger! |
+  | **27 Apr** | **3x [Regnan Pirates](/Items/unt_273/)**  | A squad of Regnan Pirates joined your army and you become stronger! |
+  | **28 Apr** | **100x <i class="fas fa-gem"/>**  | The creatures of the pirate harbor present you a small cluster of Diamonds! |
+  | **29 Apr** | **3x [Cove Faction Chest](/Items/con_1278/)**  | Your harbor corps has presented you with a number of valuable treasure chests! |
+  | **30 Apr** | **3x [Cove Roster runes](/Items/con_868/)**  | Your harbor corps has presented you with a number of valuable treasure runes! |
+  | **1 May** | **1x [Dragon Turtle](/Items/unt_278/)**  | A squad of Dragon Turtle joined your army and you become stronger! |
+  | **2 May** | **1x [Universal Hero Tokens](/Items/her_358/)**  | The creatures of the Pirate Cove present you with a Universal (Hero) Token! |
+
+
+#### 2021 Week 16  Stronghold Week
+
+  |  Date  |      Reward    |    Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **19 Apr** | **5x [Goblin](/Items/unt_217/)**  | A squad of Goblin joined your army and you become stronger! |
+  | **20 Apr** | **5x [Wolf Rider](/Items/unt_218/)**  | A squad of Wolf Rider joined your army and you become stronger! |
+  | **21 Apr** | **100x <i class="fas fa-gem"/>**  | The Orcs under your command plundered a heap of diamonds for you! |
+  | **22 Apr** | **5x [Orc](/Items/unt_219/)**  | A squad of Orc joined your army and you become stronger! |
+  | **23 Apr** | **3x [Ogre](/Items/unt_220/)**  | A squad of Ogre joined your army and you become stronger! |
+  | **24 Apr** | **3x [Cyclops](/Items/unt_222/)**  | A squad of Cyclops joined your army and you become stronger! |
+  | **25 Apr** | **5x [Crag Hack](/Items/her_375/)**  | Your continuous expedition has attracted hero Crag Hack to join your army! |
+
 
 #### 2021 Week 15  Conflux Week
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "index.md"
 toc: false
@@ -37,17 +37,18 @@ classes: wide
   | 25 | [Monere](/heroes/Monere/) | Conflux | Planeswalker | **SR** |  Psychic Elemental | R |
   | 26 | [Mullich](/heroes/Mullich/) | Castle | Knight | **R** |  Charge Assault | R+ |
   | 27 | [Mutare](/heroes/Mutare/) | Dungeon | Overlord | **R** |  Dungeon Torrent | R |
-  | 28 | [Peter Lee](/heroes/Peter Lee/) | Cove | Pirate | **SR+** |  Set Sail | R+ |
-  | 29 | [Rashka](/heroes/Rashka/) | Inferno | Demoniac | **SR** |  Fire Lord | R |
-  | 30 | [Roland](/heroes/Roland/) | Castle | Knight | **SSR** |  Heightened Morale | SR+ |
-  | 31 | [Ryland](/heroes/Ryland/) | Rampart | Ranger | **SR** |  Dendroid Guard | R |
-  | 32 | [Sandro](/heroes/Sandro/) | Necropolis | Necromancer | **SSR** |  Darkness Falls | SSR |
-  | 33 | [Sephinroth](/heroes/Sephinroth/) | Dungeon | Warlock | **R** |  Crystal Stare | R |
-  | 34 | [Shiva](/heroes/Shiva/) | Stronghold | Barbarian | **R** |  Stormbringer | R |
-  | 35 | [Solmyr](/heroes/Solmyr/) | Tower | Wizard | **SR+** |  Chain Lightning | SR |
-  | 36 | [Tazar](/heroes/Tazar/) | Fortress | Beast Master | **SSR** |  Bloody Rage | SR |
-  | 37 | [Vidomina](/heroes/Vidomina/) | Necropolis | Necromancer | **SR+** |  Necromancer | R |
-  | 38 | [Wystan](/heroes/Wystan/) | Fortress | Beast Master | **R** |  Marsh Hunter | R |
-  | 39 | [Xeron](/heroes/Xeron/) | Inferno | Demoniac | **SSR** |  Arch Devil | SSR |
-  | 40 | [Yog](/heroes/Yog/) | Stronghold | Barbarian | **SR** |  Raging Cyclops | SR |
-  | 41 | [Zydar](/heroes/Zydar/) | Inferno | Heretic | **R** |  Summon Inferno | R |
+  | 28 | [Nymus](/heroes/Nymus/) | Inferno | Demoniac | **SR** |  Infernal Phantom | R |
+  | 29 | [Peter Lee](/heroes/Peter Lee/) | Cove | Pirate | **SR+** |  Set Sail | R+ |
+  | 30 | [Rashka](/heroes/Rashka/) | Inferno | Demoniac | **SR** |  Fire Lord | R |
+  | 31 | [Roland](/heroes/Roland/) | Castle | Knight | **SSR** |  Heightened Morale | SR+ |
+  | 32 | [Ryland](/heroes/Ryland/) | Rampart | Ranger | **SR** |  Dendroid Guard | R |
+  | 33 | [Sandro](/heroes/Sandro/) | Necropolis | Necromancer | **SSR** |  Darkness Falls | SSR |
+  | 34 | [Sephinroth](/heroes/Sephinroth/) | Dungeon | Warlock | **R** |  Crystal Stare | R |
+  | 35 | [Shiva](/heroes/Shiva/) | Stronghold | Barbarian | **R** |  Stormbringer | R |
+  | 36 | [Solmyr](/heroes/Solmyr/) | Tower | Wizard | **SR+** |  Chain Lightning | SR |
+  | 37 | [Tazar](/heroes/Tazar/) | Fortress | Beast Master | **SSR** |  Bloody Rage | SR |
+  | 38 | [Vidomina](/heroes/Vidomina/) | Necropolis | Necromancer | **SR+** |  Necromancer | R |
+  | 39 | [Wystan](/heroes/Wystan/) | Fortress | Beast Master | **R** |  Marsh Hunter | R |
+  | 40 | [Xeron](/heroes/Xeron/) | Inferno | Demoniac | **SSR** |  Arch Devil | SSR |
+  | 41 | [Yog](/heroes/Yog/) | Stronghold | Barbarian | **SR** |  Raging Cyclops | SR |
+  | 42 | [Zydar](/heroes/Zydar/) | Inferno | Heretic | **R** |  Summon Inferno | R |

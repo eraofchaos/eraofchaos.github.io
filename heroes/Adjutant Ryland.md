@@ -2,7 +2,7 @@
 title: "Adjutant Ryland"
 permalink: /heroes/Adjutant Ryland/
 excerpt: "Era of Chaos  Adjutant Ryland"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Ryland.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | Adjutant Level | Extra effect | Adjutant Power  |
   |:---|:-------|:------------|
   | **10** | Increases friendly hero's DEF by 20 (all heroes). | **+1500** |
-  | **20** | <Enhanced Rampart> Increases Shield Value by an additional 100 points. | - |
+  | **20** | <Enhanced Rampart> Increases Block Value by an additional 100 points. | - |
   | **30** | Increases friendly hero's ATK by 40 (all heroes). | **+1500** |
   | **40** | <Enhanced Rampart> Increases Healing received by an additional 10%. Effect doubles for Dendroid Guard. | - |
 

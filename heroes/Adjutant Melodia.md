@@ -2,7 +2,7 @@
 title: "Adjutant Melodia"
 permalink: /heroes/Adjutant Melodia/
 excerpt: "Era of Chaos  Adjutant Melodia"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Melodia.md"
 toc: false

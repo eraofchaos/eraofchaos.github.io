@@ -2,7 +2,7 @@
 title: "Artifacts - Mirror of Revenge"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Mirror of Revenge. Mirror of Revenge A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: en
 ref: "Mirror of Revenge.md"
 toc: false
@@ -52,5 +52,5 @@ classes: wide
   | **8** | Increases Unit DMG Reduction of all friendly units by 1.5%. | 
   | **11** | Increases Life Drain of all friendly units by 1%. | 
   | **14** | Increases Unit DMG Reduction of all friendly units by 2.5%. | 
-  | **17** | Increases Shield Value of all friendly units by 50. | 
+  | **17** | Increases Block Value of all friendly units by 50. | 
   | **20** | Increases DEF Pierce of all friendly units by 100. | 

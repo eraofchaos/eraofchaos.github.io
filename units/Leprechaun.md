@@ -3,7 +3,7 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Units. Units. Era of Chaos With the help of Magic Charms that provide a mysterious shield, Leprechauns who respond to the summons use the Monolith of the World Tree to travel to the cruel and murderous battlefield, where they become the strongest shield of the Nature!"
 unitID: 909
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Leprechaun"
 toc: true
@@ -194,7 +194,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Master Leprechaun 
 
@@ -212,10 +212,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Heavy Punch
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the target's Unit DMG Reduction by 3%. If the target is inflicted with Burn, their DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the Unit DMG Reduction of the target by 3%. If the target is inflicted with Burn, its DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
 
 ### 2nd Skill (or 1st): Direct Blow
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the target's Unit DMG Reduction by 3%. If the target is inflicted with Freeze, their DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Direct Punch&gt;</span><span style="color: #645252;font-size:18px"> Decreases the Unit DMG Reduction of target by 3%. If the target is inflicted with Freeze, its DEF will also be decreased by 2%. Debuff lasts 7s and can stack up to 8 times.</span>
 
 ### 3rd Skill (or 4th): Lucky Number
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Fortune&gt;</span><span style="color: #645252;font-size:18px"> Leprechaun's own skill effect stacks are increased by 5-12 stacks.</span>

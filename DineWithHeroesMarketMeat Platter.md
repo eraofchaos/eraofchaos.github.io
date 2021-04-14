@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Market - Meat Platter"
 permalink: /DineWithHeroesMarket Meat Platter.html
 excerpt: "Dine with Heroes - Market - Meat Platter. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: en
 ref: "DineWithHeroesMarketMeat Platter.html"
 toc: true

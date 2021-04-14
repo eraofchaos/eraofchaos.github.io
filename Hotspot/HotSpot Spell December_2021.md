@@ -2,7 +2,7 @@
 title: "Hotspot Spells for December 2021"
 permalink: /Hotspot/HotSpot Spell December_2021/
 excerpt: "Spells Hotspot for December 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: en
 ref: "HotSpot Spell December_2021.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   |  Date  |  Orange Spell  |  Violet Spells  | Blue Spells | Green Spells |
   |:-------|:---------------|:---------------:|:-----------:|:------------:|
-  | 29 Nov - 6 Dec | [Prayer](/Items/her_432/) | [Water Mastery](/Items/her_481/), [Lightning Bolt](/Items/her_443/) | [Fire Elemental](/Items/her_411/), [Air Elemental](/Items/her_448/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
+  | 29 Nov - 6 Dec | [Chain Lightning](/Items/her_442/) | [Ice Shield](/Items/her_417/), [Fireball](/Items/her_404/) | [Forest Resonance](/Items/her_465/), [Air Elemental](/Items/her_448/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
   | 6 - 13 Dec | [Petrification](/Items/her_471/) | [Slayer](/Items/her_402/), [Air Shield](/Items/her_435/) | [Wind Wall](/Items/her_436/), [Earth Elemental](/Items/her_461/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
   | 13 - 20 Dec | [Rush Tactic](/Items/her_450/) | [Fast Attack](/Items/her_437/), [Necromancy](/Items/her_460/) | [Animate Dead](/Items/her_466/), [Air Elemental](/Items/her_448/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
   | 20 - 27 Dec | [Mana Suppression](/Items/her_480/) | [Slayer](/Items/her_402/), [Air Shield](/Items/her_435/) | [Wind Wall](/Items/her_436/), [Sorrow](/Items/her_458/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |

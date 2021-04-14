@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Star 3"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Ice Demon](/units/Ice Demon/) | Ranged | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 10 | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Shark Rider  |
   | 11 | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Death Howler  |
-  | 12 | [Leprechaun](/units/Leprechaun/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
+  | 12 | [Leprechaun](/units/Leprechaun/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
   | 13 | [Troll](/units/Troll/) | Ranged | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
   | 14 | [Regnan Archer](/units/Regnan Archer/) | Ranged | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 15 | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arch Devil  |

@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Hell Hound"
 toc: true
@@ -182,36 +182,36 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Description:** null
+ **Awaking Description:** The Underworld separates the living and the dead. The living is barred from entering and deceased souls are trapped here for eternity.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. 
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. 
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. 
 
- 4. null
+ 4. 
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): null
+ **Description:** 
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): null
+ **Description:** 
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): null
+ **Description:** 
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): null
+ **Description:** 
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): null
+ **Description:** 
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): null
+ **Description:** 
 
 ## Technical info
  **runart:** 1

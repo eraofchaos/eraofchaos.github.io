@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Unit Class Defense"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | [Ogre](/units/Ogre/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre Mage  |
   | 4 | [Demon](/units/Demon/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Inferno Guard  |
   | 5 | [Behemoth](/units/Behemoth/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ancient Behemoth  |
-  | 6 | [Leprechaun](/units/Leprechaun/) | Defense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
+  | 6 | [Leprechaun](/units/Leprechaun/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
   | 7 | [Iron Golem](/units/Iron Golem/) | Defense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gold Golem  |
   | 8 | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 9 | [Nightmare](/units/Nightmare/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nightmare King  |

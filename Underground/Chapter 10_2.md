@@ -2,7 +2,7 @@
 title: "Underground - Chapter 10 - 10-2 Quest for the Tomb"
 permalink: /Underground/Chapter 10_2/
 excerpt: "Chapter 10 - 2. Era of Chaos  Underground - Chapter 10_2. 10-2 Quest for the Tomb"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 10_2.md"
 toc: false

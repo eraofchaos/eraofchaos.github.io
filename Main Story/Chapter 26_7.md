@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-7 Wiseman's Gratuity"
 permalink: /Main Story/Chapter 26_7/
 excerpt: "Chapter 26 - 7. Era of Chaos  Main Story - Chapter 26_7. 26-7 Wiseman's Gratuity"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 26_7.md"
 toc: false

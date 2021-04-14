@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-1 Remnants of the Elves"
 permalink: /Main Story/Chapter 9_1/
 excerpt: "Chapter 9 - 1. Era of Chaos  Main Story - Chapter 9_1. 9-1 Remnants of the Elves"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 9_1.md"
 toc: false

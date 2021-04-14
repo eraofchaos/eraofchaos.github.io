@@ -2,7 +2,7 @@
 title: "Adjutant Gem"
 permalink: /heroes/Adjutant Gem/
 excerpt: "Era of Chaos  Adjutant Gem"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Gem.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Adjutant Skill:**  Nature's Asylum 
 
- **Description:** When friendly Rampart units receive a <span style="color: #48b946;font-size:20px">shield</span><span style="color: black">, increases Shield Value by <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+ **Description:** When friendly Rampart units receive a <span style="color: #48b946;font-size:20px">shield</span><span style="color: black">, increases Block Value by <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
 
 ## Extra bonus
 

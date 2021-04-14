@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-3 Pegasus Spring"
 permalink: /Main Story/Chapter 30_3/
 excerpt: "Chapter 30 - 3. Era of Chaos  Main Story - Chapter 30_3. 30-3 Pegasus Spring"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: en
 ref: "Chapter 30_3.md"
 toc: false

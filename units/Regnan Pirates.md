@@ -3,7 +3,7 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Regnan Pirates"
 toc: true

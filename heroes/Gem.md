@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there."
 heroID: 60304
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: en
 ref: "Gem"
 toc: true
@@ -54,7 +54,7 @@ toc: true
 
  **Adjutant Skill:**  Nature's Asylum 
 
- **Description:** When friendly Rampart units receive a <span style="color: #48b946;font-size:20px">shield</span><span style="color: black">, increases Shield Value by <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+ **Description:** When friendly Rampart units receive a <span style="color: #48b946;font-size:20px">shield</span><span style="color: black">, increases Block Value by <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
 
 ## Combination Info
 
