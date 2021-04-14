@@ -11,6 +11,34 @@ sidebar:
 ---
 
 
+{% capture notice-update20210414 %}
+* New Hero [Nymus](https://eraofchaos.github.io/heroes/Nymus/) and [Adjutant Nymus](https://eraofchaos.github.io/heroes/Adjutant Nymus/)
+
+* Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April)
+
+* New Chapters for <i class="fas fa-poo-storm"/> [Main Story](/Main Story/) and <i class="fas fa-door-open"/> [Underground](/Underground/):
+  * [Main Story - Chapter 28 Tunnels and Troglodytes](https://eraofchaos.github.io/Main Story/Chapter 28/)
+  * [Main Story - Chapter 29 Deal with the Demon](https://eraofchaos.github.io/Main Story/Chapter 29/)
+  * [Main Story - Chapter 30 The King’s Salvation](https://eraofchaos.github.io/Main Story/Chapter 30/)
+  * [Underground - Chapter 27 The Pilgrim’s Way](https://eraofchaos.github.io/Underground/Chapter 27/)
+  * [Underground - Chapter 28 Tunnels and Troglodytes](https://eraofchaos.github.io/Underground/Chapter 28/)
+  * [Underground - Chapter 29 Deal with the Demon](https://eraofchaos.github.io/Underground/Chapter 29/)
+  * [Underground - Chapter 30 The King’s Salvation](https://eraofchaos.github.io/Underground/Chapter 30/)
+
+* New items:
+  * [Gold Key Pack A](https://eraofchaos.github.io/Items/con_2132/)
+  * [Hero Nymus](https://eraofchaos.github.io/Items/her_2131/)
+
+* Wiki updated to latest game state. You can post your comments for Section **Heroes** (in test phase). You can Share pages in Social networks.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">14 April 2021 Update: Client version 149 (3390/3391)</h4>
+  {{ notice-update20210414 | markdownify }}
+</div>
+
+
 {% capture notice-update20210411 %}
 * New info for <i class="fas fa-door-open"/> [Underground](/Underground/)
   * <i class="fas fa-door-open"/> [Untergrund](/de/Underground/)
@@ -27,32 +55,7 @@ sidebar:
 </div>
 
 
-{% capture notice-update20210331 %}
-* New Items in the update:
-  * [Regnan Seer Avatar](/Items/con_2117/)
-  * [Carrot Hot Cross Bun](/Items/con_2119/)
-  * [Easter Decoration Material](/Items/con_2118/)
-  * [Dark Retinue: Titan Skin](/Items/con_2131/)
-  * [Holiday Orange Holy Emblem Special Offer](/Items/con_2126/)
-  * [Random Purple Artifact Component Chest](/Items/con_2127/)
-  * [Commander Avatar Selection Pack](/Items/con_2128/)
-  * [April 1st Gift](/Items/con_2129/)
-  * [April 1st Gift](/Items/con_2130/)
-  * [6,600 Carrot Hot Cross Buns](/Items/con_2123/)
-  * [13,200 Carrot Hot Cross Buns](/Items/con_2124/)
-  * [Holiday Mithril Special Offer](/Items/con_2125/)
-  * [400 Carrot Hot Cross Buns](/Items/con_2120/)
-  * [1,200 Carrot Hot Cross Buns](/Items/con_2121/)
-  * [3,000 Carrot Hot Cross Buns](/Items/con_2122/)
 
-* Wiki updated to latest game state.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">31 March 2021 Update: Client version 146 (3333/3332)</h4>
-  {{ notice-update20210331 | markdownify }}
-</div>
 
 
 
@@ -73,7 +76,7 @@ You will find here:
 * <i class="fas fa-atom"/>  [Holy Emblem](/Emblem/)
 * <i class="fas fa-hand-sparkles"/>  [Artifacts](/artifacts/)
 
-* <i class="fas fa-poo-storm"/>  [Main Story](/Main Story/)
+* <i class="fas fa-poo-storm"/> [Main Story](/Main Story/)
 * <i class="fas fa-door-open"/> [Underground](/Underground/)
 
 * <i class="fas fa-question-circle"/>  [Sphinx: Answer questions for approval and rewards!](/sphinx/)

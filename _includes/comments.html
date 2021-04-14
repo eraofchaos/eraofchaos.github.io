@@ -13,12 +13,18 @@
     {% when "staticman_v2" %}
       <section id="static-comments">
         {% if site.repository and site.comments.staticman.branch %}
+          <!-- SL: {{ page.slug | default:"" }}  QR: {{ page.QR | default:"" }} -->
+          {% if page.slug %}
+            {% assign commentQR = page.slug %}
+          {% else %}
+            {% assign commentQR = page.QR %}
+          {% endif %}
+          <!-- commentQR: {{ commentQR | default:"" }} -->
           <!-- Start static comments -->
           <div class="js-comments">
-            <!-- {{ page.slug | default:"" }} -->
-            {% if site.data.comments[page.slug] %}
+            {% if site.data.comments[commentQR] %}
               <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
-              {% assign comments = site.data.comments[page.slug] | sort %}
+              {% assign comments = site.data.comments[commentQR] | sort %}
 
               {% for comment in comments %}
                 {% assign email = comment[1].email %}
@@ -62,7 +68,7 @@
               </div>
               {% endif %}
               <div class="form-group hidden" style="display: none;">
-                <input type="hidden" name="options[slug]" value="{{ page.slug }}">
+                <input type="hidden" name="options[slug]" value="{{ commentQR }}">
                 <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
                 <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
                 {% if site.reCaptcha.siteKey %}<input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">{% endif %}

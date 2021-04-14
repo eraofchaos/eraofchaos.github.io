@@ -165,6 +165,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # Hotspot
@@ -175,6 +176,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # combination info
@@ -185,6 +187,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # FactionAltar
@@ -195,6 +198,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # Schedule
@@ -205,6 +209,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # Backup
@@ -215,6 +220,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # Equipment
@@ -225,6 +231,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # Alchemy Workshop
@@ -236,6 +243,7 @@ defaults:
       author_profile: false
       read_time: false
       toc: false
+      share: true
       classes: wide
       sidebar:
         nav: "docs"
@@ -249,6 +257,7 @@ defaults:
       read_time: false
       toc: false
       classes: wide
+      share: true
       sidebar:
         nav: "docs"
   # Healing Sea
@@ -260,6 +269,7 @@ defaults:
       author_profile: false
       read_time: false
       toc: true
+      share: true
       sidebar:
         nav: "docs"
   # Weekly Sign Rewards
@@ -271,6 +281,7 @@ defaults:
       author_profile: false
       read_time: false
       toc: true
+      share: true
       sidebar:
         nav: "docs"
   # sphinx
@@ -283,6 +294,7 @@ defaults:
       read_time: false
       toc: false
       classes: wide
+      share: true
       sidebar:
         nav: "docs"
   # sphinx
@@ -295,6 +307,7 @@ defaults:
       read_time: false
       toc: false
       classes: wide
+      share: true
       sidebar:
         nav: "docs"
   # units
@@ -305,6 +318,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # units
@@ -315,6 +329,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # units
@@ -325,6 +340,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # Holy Emblem
@@ -335,6 +351,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # Exclusive
@@ -345,6 +362,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # Main Story
@@ -355,6 +373,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # Underground
@@ -365,6 +384,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      share: true
       sidebar:
         nav: "docs"
   # _docs

@@ -22,6 +22,10 @@ docs:
       url: /artifacts/
     - title: "Holy Emblem"
       url: /Emblem/
+    - title: "Main Story(1-30)"
+      url: /Main Story/
+    - title: "Underground(1-30)"
+      url: /Underground/
     - title: "Alchemy Workshop"
       url: /Alchemy Workshop/
     - title: "Battle Formation"
