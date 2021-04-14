@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Sephinroth"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Sephinroth.md"
+QR: adhero_61402
 toc: false
 classes: wide
 ---

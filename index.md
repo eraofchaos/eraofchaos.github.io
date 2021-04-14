@@ -29,7 +29,11 @@ sidebar:
   * [Gold Key Pack A](https://eraofchaos.github.io/Items/con_2132/)
   * [Hero Nymus](https://eraofchaos.github.io/Items/her_2131/)
 
-* Wiki updated to latest game state. You can post your comments for Section **Heroes** (in test phase). You can Share pages in Social networks.
+* Changed drop in [HotSpot for Spells](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
+
+* Wiki updated to latest game state. 
+* You can post your comments for Section **Heroes** (in test phase). 
+* You can Share pages in Social networks.
 
 {% endcapture %}
 

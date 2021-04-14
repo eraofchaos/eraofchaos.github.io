@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Roland"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Roland.md"
+QR: adhero_60103
 toc: false
 classes: wide
 ---

@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Fiur"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Fiur.md"
+QR: adhero_60704
 toc: false
 classes: wide
 ---

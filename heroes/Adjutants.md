@@ -6,6 +6,7 @@ last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutants.md"
 toc: false
+QR: adheroes
 classes: wide
 ---
  Level-up hero to 4-star to unlock.

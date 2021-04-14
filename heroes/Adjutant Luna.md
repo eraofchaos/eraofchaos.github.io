@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Luna"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Luna.md"
+QR: adhero_60701
 toc: false
 classes: wide
 ---

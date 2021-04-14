@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Wystan"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Wystan.md"
+QR: adhero_61504
 toc: false
 classes: wide
 ---

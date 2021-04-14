@@ -3,6 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. As one of the first heroes to join Elemental, Ciele is an ever-victorious general on the battlefield. She discovered the connection among Magic Elementals through her magical arrows"
 heroID: 60705
+QR: hero_60705
 last_modified_at: 2021-04-14
 locale: en
 ref: "Ciele"

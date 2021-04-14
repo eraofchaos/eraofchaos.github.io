@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Solmyr"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Solmyr.md"
+QR: adhero_61201
 toc: false
 classes: wide
 ---

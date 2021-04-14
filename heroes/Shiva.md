@@ -3,6 +3,7 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead."
 heroID: 60603
+QR: hero_60603
 last_modified_at: 2021-04-14
 locale: en
 ref: "Shiva"

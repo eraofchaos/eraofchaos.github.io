@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Yog"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Yog.md"
+QR: adhero_60604
 toc: false
 classes: wide
 ---

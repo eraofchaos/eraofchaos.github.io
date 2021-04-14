@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Sandro"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Sandro.md"
+QR: adhero_60501
 toc: false
 classes: wide
 ---

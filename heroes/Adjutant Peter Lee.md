@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Peter Lee"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Peter Lee.md"
+QR: adhero_61801
 toc: false
 classes: wide
 ---

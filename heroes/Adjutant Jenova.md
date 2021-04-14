@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Jenova"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Jenova.md"
+QR: adhero_60202
 toc: false
 classes: wide
 ---

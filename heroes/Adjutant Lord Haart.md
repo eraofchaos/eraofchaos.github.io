@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Lord Haart"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Lord Haart.md"
+QR: adhero_60401
 toc: false
 classes: wide
 ---

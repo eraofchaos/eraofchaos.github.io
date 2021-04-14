@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Astral"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Astral.md"
+QR: adhero_61203
 toc: false
 classes: wide
 ---

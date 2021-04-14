@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Cassanbel"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Cassanbel.md"
+QR: adhero_61701
 toc: false
 classes: wide
 ---

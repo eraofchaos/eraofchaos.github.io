@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Xeron"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Xeron.md"
+QR: adhero_60801
 toc: false
 classes: wide
 ---

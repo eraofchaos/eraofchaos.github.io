@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Tazar"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Tazar.md"
+QR: adhero_61501
 toc: false
 classes: wide
 ---

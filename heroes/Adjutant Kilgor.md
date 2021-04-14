@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Kilgor"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Kilgor.md"
+QR: adhero_60601
 toc: false
 classes: wide
 ---

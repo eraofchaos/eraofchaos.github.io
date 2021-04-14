@@ -3,6 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. As a recently risen Nighon lord, Mutare was born with the ability to command dragons, which makes her nigh invincible in wars."
 heroID: 61301
+QR: hero_61301
 last_modified_at: 2021-04-14
 locale: en
 ref: "Mutare"

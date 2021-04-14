@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Adjutant Mullich"
 last_modified_at: 2021-04-14
 locale: en
 ref: "Adjutant Mullich.md"
+QR: adhero_60101
 toc: false
 classes: wide
 ---
