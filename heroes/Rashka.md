@@ -9,7 +9,7 @@ locale: en
 ref: "Rashka"
 toc: true
 ---
-  ![Rashka](/images/r/h_Rashka.jpg)
+  ![Rashka](/images/h/h_Rashka.jpg)
 
  **Description:** Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far.
 ## Details

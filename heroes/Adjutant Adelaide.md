@@ -9,7 +9,7 @@ QR: adhero_60001
 toc: false
 classes: wide
 ---
-  ![Adelaide](/images/r/h_Adelaide.jpg)
+  ![Adelaide](/images/h/h_Adelaide.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

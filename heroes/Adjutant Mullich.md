@@ -9,7 +9,7 @@ QR: adhero_60101
 toc: false
 classes: wide
 ---
-  ![Mullich](/images/r/h_Mullich.jpg)
+  ![Mullich](/images/h/h_Mullich.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

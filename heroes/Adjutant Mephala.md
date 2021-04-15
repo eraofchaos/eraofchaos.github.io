@@ -9,7 +9,7 @@ QR: adhero_60302
 toc: false
 classes: wide
 ---
-  ![Mephala](/images/r/h_Mephala.jpg)
+  ![Mephala](/images/h/h_Mephala.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

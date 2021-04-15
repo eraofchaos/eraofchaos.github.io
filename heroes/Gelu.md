@@ -9,7 +9,7 @@ locale: en
 ref: "Gelu"
 toc: true
 ---
-  ![Gelu](/images/r/h_Gelu.jpg)
+  ![Gelu](/images/h/h_Gelu.jpg)
 
  **Description:** Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal.
 ## Details

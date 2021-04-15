@@ -9,7 +9,7 @@ QR: adhero_61401
 toc: false
 classes: wide
 ---
-  ![Jeddite](/images/r/h_Jeddite.jpg)
+  ![Jeddite](/images/h/h_Jeddite.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

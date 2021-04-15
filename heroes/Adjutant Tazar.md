@@ -9,7 +9,7 @@ QR: adhero_61501
 toc: false
 classes: wide
 ---
-  ![Tazar](/images/r/h_Tazar.jpg)
+  ![Tazar](/images/h/h_Tazar.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

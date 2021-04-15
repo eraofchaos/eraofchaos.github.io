@@ -9,7 +9,7 @@ QR: adhero_60401
 toc: false
 classes: wide
 ---
-  ![Lord Haart](/images/r/h_LordHaart.jpg)
+  ![Lord Haart](/images/h/h_LordHaart.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

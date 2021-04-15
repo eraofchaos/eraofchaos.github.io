@@ -9,7 +9,7 @@ QR: adhero_60702
 toc: false
 classes: wide
 ---
-  ![Monere](/images/r/h_Monere.jpg)
+  ![Monere](/images/h/h_Monere.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

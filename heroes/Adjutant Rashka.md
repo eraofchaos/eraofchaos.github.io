@@ -9,7 +9,7 @@ QR: adhero_60802
 toc: false
 classes: wide
 ---
-  ![Rashka](/images/r/h_Rashka.jpg)
+  ![Rashka](/images/h/h_Rashka.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

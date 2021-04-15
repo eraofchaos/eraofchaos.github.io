@@ -9,7 +9,7 @@ locale: en
 ref: "Tazar"
 toc: true
 ---
-  ![Tazar](/images/r/h_Tazar.jpg)
+  ![Tazar](/images/h/h_Tazar.jpg)
 
  **Description:** During the six-month border war with Krewlod, Tazar led a small force in a Tatalia outpost and held back the Krewlod army, which was five times larger as his, for eight days until reinforcements arrived.
 ## Details

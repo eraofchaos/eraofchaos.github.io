@@ -9,7 +9,7 @@ QR: adhero_60304
 toc: false
 classes: wide
 ---
-  ![Gem](/images/r/h_Gem.jpg)
+  ![Gem](/images/h/h_Gem.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

@@ -9,7 +9,7 @@ QR: adhero_60803
 toc: false
 classes: wide
 ---
-  ![Nymus](/images/r/h_Nymus.jpg)
+  ![Nymus](/images/h/h_Nymus.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

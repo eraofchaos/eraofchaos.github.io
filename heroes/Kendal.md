@@ -9,7 +9,7 @@ locale: en
 ref: "Kendal"
 toc: true
 ---
-  ![Kendal](/images/r/h_Kendel.jpg)
+  ![Kendal](/images/h/h_Kendel.jpg)
 
  **Description:** A general loyal to the royal family of Erathia. Since the death of King Gryphonheart, Morgan Kendal has taken charge of the country until the rightful heir returns.
 ## Details

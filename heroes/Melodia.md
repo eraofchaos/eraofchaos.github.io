@@ -9,7 +9,7 @@ locale: en
 ref: "Melodia"
 toc: true
 ---
-  ![Melodia](/images/r/h_Melodia.jpg)
+  ![Melodia](/images/h/h_Melodia.jpg)
 
  **Description:** Melodia is a lucky druid. She can achieve miraculous victories even when the odds are stacked against her. Any troop is glad to have her as their leader.
 ## Details

@@ -9,7 +9,7 @@ locale: en
 ref: "Shiva"
 toc: true
 ---
-  ![Shiva](/images/r/h_Shiwa.jpg)
+  ![Shiva](/images/h/h_Shiwa.jpg)
 
  **Description:** Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead.
 ## Details

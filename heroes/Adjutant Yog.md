@@ -9,7 +9,7 @@ QR: adhero_60604
 toc: false
 classes: wide
 ---
-  ![Yog](/images/r/h_Yog.jpg)
+  ![Yog](/images/h/h_Yog.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

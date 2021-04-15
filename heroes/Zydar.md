@@ -9,7 +9,7 @@ locale: en
 ref: "Zydar"
 toc: true
 ---
-  ![Zydar](/images/r/h_Zydar.jpg)
+  ![Zydar](/images/h/h_Zydar.jpg)
 
  **Description:** Zydar focused much of his life on improving his spells, becoming a great spellcaster before he became a leader on the battlefield. He is more reliable than any of his demon kin. 
 ## Details

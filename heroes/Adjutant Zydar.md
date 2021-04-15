@@ -9,7 +9,7 @@ QR: adhero_60901
 toc: false
 classes: wide
 ---
-  ![Zydar](/images/r/h_Zydar.jpg)
+  ![Zydar](/images/h/h_Zydar.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

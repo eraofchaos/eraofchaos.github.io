@@ -9,7 +9,7 @@ locale: en
 ref: "Luna"
 toc: true
 ---
-  ![Luna](/images/r/h_Luna.jpg)
+  ![Luna](/images/h/h_Luna.jpg)
 
  **Description:** Luna was living in Enroth when she heard that an Elemental had appeared in Erathia. Believing she could learn far greater magic there, she made her way across the sea to discover its secrets.
 ## Details

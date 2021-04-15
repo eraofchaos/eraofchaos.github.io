@@ -9,7 +9,7 @@ locale: en
 ref: "Kassandra"
 toc: true
 ---
-  ![Kassandra](/images/r/h_kashandela.jpg)
+  ![Kassandra](/images/h/h_kashandela.jpg)
 
  **Description:** Kassandra's outstanding combat skills are due to the Spartan education she received as a child. After the Spartan left her for dead at Mount Taygetos, she became a mercenary.
 ## Details

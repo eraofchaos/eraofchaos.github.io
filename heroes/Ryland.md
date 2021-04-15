@@ -9,7 +9,7 @@ locale: en
 ref: "Ryland"
 toc: true
 ---
-  ![Ryland](/images/r/h_Ryland.jpg)
+  ![Ryland](/images/h/h_Ryland.jpg)
 
  **Description:** Ryland is the first – and so far, the only – human to be fully accepted by the Circle of Elf Elders. Some even joke that he is really an elf, reincarnated in a human body. 
 ## Details

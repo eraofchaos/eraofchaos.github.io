@@ -9,7 +9,7 @@ QR: adhero_60102
 toc: false
 classes: wide
 ---
-  ![Catherine](/images/r/h_Catherine.jpg)
+  ![Catherine](/images/h/h_Catherine.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

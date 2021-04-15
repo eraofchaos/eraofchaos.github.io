@@ -9,7 +9,7 @@ locale: en
 ref: "Nymus"
 toc: true
 ---
-  ![Nymus](/images/r/h_Nymus.jpg)
+  ![Nymus](/images/h/h_Nymus.jpg)
 
  **Description:** Nymus is a phantom with a wealth of combat experience. Because of this, the Arch Devil has appointed her drillmaster of the Pit Fiends. When she returns to the battlefield, she will strike fear into the hearts of her enemies.
 ## Details

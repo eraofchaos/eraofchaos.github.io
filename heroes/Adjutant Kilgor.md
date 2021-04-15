@@ -9,7 +9,7 @@ QR: adhero_60601
 toc: false
 classes: wide
 ---
-  ![Kilgor](/images/r/h_Kilgor.jpg)
+  ![Kilgor](/images/h/h_Kilgor.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

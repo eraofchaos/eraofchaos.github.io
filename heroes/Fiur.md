@@ -9,7 +9,7 @@ locale: en
 ref: "Fiur"
 toc: true
 ---
-  ![Fiur](/images/r/h_Fiur.jpg)
+  ![Fiur](/images/h/h_Fiur.jpg)
 
  **Description:** Although he's still young and untested for an Elemental, Fiur has unmatched prowess. It's believed that he will eventually become one of the most powerful heroes in Elemental
 ## Details

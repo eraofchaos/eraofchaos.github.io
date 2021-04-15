@@ -9,7 +9,7 @@ locale: en
 ref: "Monere"
 toc: true
 ---
-  ![Monere](/images/r/h_Monere.jpg)
+  ![Monere](/images/h/h_Monere.jpg)
 
  **Description:** Monere was born with the ability to control Psychic and Magic Elementals. He is a vital general of Elemental.
 ## Details

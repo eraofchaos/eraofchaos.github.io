@@ -9,7 +9,7 @@ locale: en
 ref: "Wystan"
 toc: true
 ---
-  ![Wystan](/images/r/h_Wystan.jpg)
+  ![Wystan](/images/h/h_Wystan.jpg)
 
  **Description:** Wystan is the eldest son-in-law of King Tralossk and the second successor to the throne. He's been waiting for the day when he ascends to the throne.
 ## Details

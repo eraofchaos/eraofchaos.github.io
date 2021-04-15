@@ -9,7 +9,7 @@ QR: adhero_60602
 toc: false
 classes: wide
 ---
-  ![Crag Hack](/images/r/h_CragHack.jpg)
+  ![Crag Hack](/images/h/h_CragHack.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

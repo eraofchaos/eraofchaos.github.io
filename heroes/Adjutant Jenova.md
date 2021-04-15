@@ -9,7 +9,7 @@ QR: adhero_60202
 toc: false
 classes: wide
 ---
-  ![Jenova](/images/r/h_Ylthin.jpg)
+  ![Jenova](/images/h/h_Ylthin.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

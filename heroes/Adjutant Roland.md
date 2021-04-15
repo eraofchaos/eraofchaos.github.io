@@ -9,7 +9,7 @@ QR: adhero_60103
 toc: false
 classes: wide
 ---
-  ![Roland](/images/r/h_Roland.jpg)
+  ![Roland](/images/h/h_Roland.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

@@ -9,7 +9,7 @@ QR: adhero_61701
 toc: false
 classes: wide
 ---
-  ![Cassanbel](/images/r/h_Cassanbel.jpg)
+  ![Cassanbel](/images/h/h_Cassanbel.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

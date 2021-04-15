@@ -9,7 +9,7 @@ QR: adhero_61202
 toc: false
 classes: wide
 ---
-  ![Dracon](/images/r/h_Dracon.jpg)
+  ![Dracon](/images/h/h_Dracon.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

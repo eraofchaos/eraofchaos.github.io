@@ -9,7 +9,7 @@ locale: en
 ref: "Peter Lee"
 toc: true
 ---
-  ![Peter Lee](/images/r/h_PeterLee.jpg)
+  ![Peter Lee](/images/h/h_PeterLee.jpg)
 
  **Description:** Peter Lee is a legendary pirate, but he seems to prefer treasure and adventure to burning and pillaging. Rumor has it that him and his fleet have been to the end of the world.
 ## Details

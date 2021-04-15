@@ -9,7 +9,7 @@ locale: en
 ref: "Erdamon"
 toc: true
 ---
-  ![Erdamon](/images/r/h_Erdamon.jpg)
+  ![Erdamon](/images/h/h_Erdamon.jpg)
 
  **Description:** Erdamon, the ancient King of Lava, has been sleeping for centuries in the mountains at the border of Eeofol. Now he wakes up and joins the Elemental. Erdamon is very willing to help the world get rid of the Kreegan through war.
 ## Details

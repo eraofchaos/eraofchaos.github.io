@@ -9,7 +9,7 @@ locale: en
 ref: "Cassanbel"
 toc: true
 ---
-  ![Cassanbel](/images/r/h_Cassanbel.jpg)
+  ![Cassanbel](/images/h/h_Cassanbel.jpg)
 
  **Description:** Although she lost her \"father\" due to humankind, she still chooses to help the people who live on the sea.
 ## Details

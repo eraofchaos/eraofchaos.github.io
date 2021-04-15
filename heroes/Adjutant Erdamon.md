@@ -9,7 +9,7 @@ QR: adhero_60703
 toc: false
 classes: wide
 ---
-  ![Erdamon](/images/r/h_Erdamon.jpg)
+  ![Erdamon](/images/h/h_Erdamon.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

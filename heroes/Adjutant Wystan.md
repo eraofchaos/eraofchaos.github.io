@@ -9,7 +9,7 @@ QR: adhero_61504
 toc: false
 classes: wide
 ---
-  ![Wystan](/images/r/h_Wystan.jpg)
+  ![Wystan](/images/h/h_Wystan.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

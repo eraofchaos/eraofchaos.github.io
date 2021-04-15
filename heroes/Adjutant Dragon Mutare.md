@@ -9,7 +9,7 @@ QR: adhero_61302
 toc: false
 classes: wide
 ---
-  ![Dragon Mutare](/images/r/h_MutareDrake.jpg)
+  ![Dragon Mutare](/images/h/h_MutareDrake.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

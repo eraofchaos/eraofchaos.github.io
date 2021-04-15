@@ -9,7 +9,7 @@ locale: en
 ref: "Yog"
 toc: true
 ---
-  ![Yog](/images/r/h_Yog.jpg)
+  ![Yog](/images/h/h_Yog.jpg)
 
  **Description:** Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army.
 ## Details

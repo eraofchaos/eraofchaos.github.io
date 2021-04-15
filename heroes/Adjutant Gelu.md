@@ -9,7 +9,7 @@ QR: adhero_60301
 toc: false
 classes: wide
 ---
-  ![Gelu](/images/r/h_Gelu.jpg)
+  ![Gelu](/images/h/h_Gelu.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

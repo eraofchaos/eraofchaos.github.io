@@ -9,7 +9,7 @@ QR: adhero_61801
 toc: false
 classes: wide
 ---
-  ![Peter Lee](/images/r/h_PeterLee.jpg)
+  ![Peter Lee](/images/h/h_PeterLee.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

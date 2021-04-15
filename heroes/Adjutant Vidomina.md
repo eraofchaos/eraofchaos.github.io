@@ -9,7 +9,7 @@ QR: adhero_60502
 toc: false
 classes: wide
 ---
-  ![Vidomina](/images/r/h_Vidomina.jpg)
+  ![Vidomina](/images/h/h_Vidomina.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

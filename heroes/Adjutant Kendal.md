@@ -9,7 +9,7 @@ QR: adhero_60104
 toc: false
 classes: wide
 ---
-  ![Kendal](/images/r/h_Kendel.jpg)
+  ![Kendal](/images/h/h_Kendel.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

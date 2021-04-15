@@ -9,7 +9,7 @@ QR: adhero_60701
 toc: false
 classes: wide
 ---
-  ![Luna](/images/r/h_Luna.jpg)
+  ![Luna](/images/h/h_Luna.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

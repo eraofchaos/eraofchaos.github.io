@@ -9,7 +9,7 @@ QR: adhero_62001
 toc: false
 classes: wide
 ---
-  ![Kassandra](/images/r/h_kashandela.jpg)
+  ![Kassandra](/images/h/h_kashandela.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

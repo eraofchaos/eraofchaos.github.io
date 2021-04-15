@@ -9,7 +9,7 @@ QR: adhero_61502
 toc: false
 classes: wide
 ---
-  ![Korbac](/images/r/h_Korbac.jpg)
+  ![Korbac](/images/h/h_Korbac.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

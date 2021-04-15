@@ -9,7 +9,7 @@ QR: adhero_60801
 toc: false
 classes: wide
 ---
-  ![Xeron](/images/r/h_Xeron.jpg)
+  ![Xeron](/images/h/h_Xeron.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

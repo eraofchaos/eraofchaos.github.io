@@ -9,7 +9,7 @@ QR: adhero_60704
 toc: false
 classes: wide
 ---
-  ![Fiur](/images/r/h_Fiur.jpg)
+  ![Fiur](/images/h/h_Fiur.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

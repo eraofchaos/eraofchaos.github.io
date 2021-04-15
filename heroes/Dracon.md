@@ -9,7 +9,7 @@ locale: en
 ref: "Dracon"
 toc: true
 ---
-  ![Dracon](/images/r/h_Dracon.jpg)
+  ![Dracon](/images/h/h_Dracon.jpg)
 
  **Description:** Dracon is considered a magical prodigy by many of his elders. His goal in life is to become history's greatest dragonslayer.
 ## Details

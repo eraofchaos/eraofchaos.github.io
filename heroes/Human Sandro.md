@@ -9,7 +9,7 @@ locale: en
 ref: "Human Sandro"
 toc: true
 ---
-  ![Human Sandro](/images/r/h_HumanSandro.jpg)
+  ![Human Sandro](/images/h/h_HumanSandro.jpg)
 
  **Description:** Human Sandro, the apprentice of Mage Eric in Bracada, is a young mage who crossed the sea from Enroth. He has been hiding his ambitions and intentions from his teacher and others that know him.
 ## Details

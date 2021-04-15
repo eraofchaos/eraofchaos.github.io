@@ -9,7 +9,7 @@ locale: en
 ref: "Roland"
 toc: true
 ---
-  ![Roland](/images/r/h_Roland.jpg)
+  ![Roland](/images/h/h_Roland.jpg)
 
  **Description:** King Roland was rescued from the Kreegans by a group of warriors. In thanks, he joined the Erathian army as a general. There he met Catherine, and they fought together to resist foreign forces. 
 ## Details

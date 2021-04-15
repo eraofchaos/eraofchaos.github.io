@@ -9,7 +9,7 @@ locale: en
 ref: "Mutare"
 toc: true
 ---
-  ![Mutare](/images/r/h_Mutare.jpg)
+  ![Mutare](/images/h/h_Mutare.jpg)
 
  **Description:** As a recently risen Nighon lord, Mutare was born with the ability to command dragons, which makes her nigh invincible in wars.
 ## Details

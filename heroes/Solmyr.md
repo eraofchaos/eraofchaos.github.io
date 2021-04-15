@@ -9,7 +9,7 @@ locale: en
 ref: "Solmyr"
 toc: true
 ---
-  ![Solmyr](/images/r/h_Solmyr.jpg)
+  ![Solmyr](/images/h/h_Solmyr.jpg)
 
  **Description:** Solmyr was trapped in a genie bottle for more than a thousand years. He's eternally grateful to the person who freed him -- Gavin Magnus, the immortal ruler of the Bracada Highlands -- and has pledged everlasting allegiance to him.
 ## Details

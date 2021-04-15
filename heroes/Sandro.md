@@ -9,7 +9,7 @@ locale: en
 ref: "Sandro"
 toc: true
 ---
-  ![Sandro](/images/r/h_Sandro.jpg)
+  ![Sandro](/images/h/h_Sandro.jpg)
 
  **Description:** Sandro is a Necromancer who has seen all of Enroth and Erathia. Now he apparently supports Finneas Vilmar, leader of the Necromancers of Deyja.
 ## Details

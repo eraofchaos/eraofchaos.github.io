@@ -9,7 +9,7 @@ locale: en
 ref: "Gem"
 toc: true
 ---
-  ![Gem](/images/r/h_Gem.jpg)
+  ![Gem](/images/h/h_Gem.jpg)
 
  **Description:** Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there.
 ## Details

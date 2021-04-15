@@ -9,7 +9,7 @@ locale: en
 ref: "Catherine"
 toc: true
 ---
-  ![Catherine](/images/r/h_Catherine.jpg)
+  ![Catherine](/images/h/h_Catherine.jpg)
 
  **Description:** As the queen of Erathia, Catherine has been forced to wage war to preserve the kingdom her father created. She will battle until the final showdown of Armageddon's Blade. 
 ## Details

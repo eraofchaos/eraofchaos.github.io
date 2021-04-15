@@ -9,7 +9,7 @@ locale: en
 ref: "Mullich"
 toc: true
 ---
-  ![Mullich](/images/r/h_Mullich.jpg)
+  ![Mullich](/images/h/h_Mullich.jpg)
 
  **Description:** Sir Mullich's troops are known for their speed. Mullich's self-control and discipline are well-known. He uses special training to make his troops faster.
 ## Details

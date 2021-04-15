@@ -9,7 +9,7 @@ locale: en
 ref: "Xeron"
 toc: true
 ---
-  ![Xeron](/images/r/h_Xeron.jpg)
+  ![Xeron](/images/h/h_Xeron.jpg)
 
  **Description:** When Lucifer Kreegan killed Xenofex and seized power, Xeron was the first to pledge allegiance to the usurper. This act won him the favour of the new king.
 ## Details

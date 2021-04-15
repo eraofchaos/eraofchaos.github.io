@@ -9,7 +9,7 @@ locale: en
 ref: "Dragon Mutare"
 toc: true
 ---
-  ![Dragon Mutare](/images/r/h_MutareDrake.jpg)
+  ![Dragon Mutare](/images/h/h_MutareDrake.jpg)
 
  **Description:** After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father.
 ## Details

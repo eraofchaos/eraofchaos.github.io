@@ -9,7 +9,7 @@ QR: adhero_61402
 toc: false
 classes: wide
 ---
-  ![Sephinroth](/images/r/h_Sephinroth.jpg)
+  ![Sephinroth](/images/h/h_Sephinroth.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

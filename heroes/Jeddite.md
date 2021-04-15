@@ -9,7 +9,7 @@ locale: en
 ref: "Jeddite"
 toc: true
 ---
-  ![Jeddite](/images/r/h_Jeddite.jpg)
+  ![Jeddite](/images/h/h_Jeddite.jpg)
 
  **Description:** Jeddite is a mysterious man who keeps in close touch with the high-rank officials of different countries. But no one knows about his past, and he never mentions it.
 ## Details

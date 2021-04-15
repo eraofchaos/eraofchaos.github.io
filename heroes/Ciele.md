@@ -9,7 +9,7 @@ locale: en
 ref: "Ciele"
 toc: true
 ---
-  ![Ciele](/images/r/h_Ciele.jpg)
+  ![Ciele](/images/h/h_Ciele.jpg)
 
  **Description:** As one of the first heroes to join Elemental, Ciele is an ever-victorious general on the battlefield. She discovered the connection among Magic Elementals through her magical arrows
 ## Details

@@ -9,7 +9,7 @@ QR: adhero_61201
 toc: false
 classes: wide
 ---
-  ![Solmyr](/images/r/h_Solmyr.jpg)
+  ![Solmyr](/images/h/h_Solmyr.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

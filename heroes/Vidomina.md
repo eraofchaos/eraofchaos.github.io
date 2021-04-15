@@ -9,7 +9,7 @@ locale: en
 ref: "Vidomina"
 toc: true
 ---
-  ![Vidomina](/images/r/h_Vidomina.jpg)
+  ![Vidomina](/images/h/h_Vidomina.jpg)
 
  **Description:** Vidomina showed great promise when she was young, but she was expelled from Bracada when it was discovered that she was using her magic to turn the living into the undead. Her expulsion set her permanently on the path to evil. 
 ## Details

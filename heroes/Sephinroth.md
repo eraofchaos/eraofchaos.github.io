@@ -9,7 +9,7 @@ locale: en
 ref: "Sephinroth"
 toc: true
 ---
-  ![Sephinroth](/images/r/h_Sephinroth.jpg)
+  ![Sephinroth](/images/h/h_Sephinroth.jpg)
 
  **Description:** Sephinroth, the only known sorceress of Antagarich, said to be the illegitimate daughter of King Gryphonheart.
 ## Details

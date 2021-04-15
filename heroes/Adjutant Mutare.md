@@ -9,7 +9,7 @@ QR: adhero_61301
 toc: false
 classes: wide
 ---
-  ![Mutare](/images/r/h_Mutare.jpg)
+  ![Mutare](/images/h/h_Mutare.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

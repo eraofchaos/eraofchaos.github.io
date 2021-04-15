@@ -9,7 +9,7 @@ QR: adhero_61901
 toc: false
 classes: wide
 ---
-  ![Ezio](/images/r/h_Ezio.jpg)
+  ![Ezio](/images/h/h_Ezio.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

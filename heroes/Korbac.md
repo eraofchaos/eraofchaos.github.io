@@ -9,7 +9,7 @@ locale: en
 ref: "Korbac"
 toc: true
 ---
-  ![Korbac](/images/r/h_Korbac.jpg)
+  ![Korbac](/images/h/h_Korbac.jpg)
 
  **Description:** Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia.
 ## Details

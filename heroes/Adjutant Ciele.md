@@ -9,7 +9,7 @@ QR: adhero_60705
 toc: false
 classes: wide
 ---
-  ![Ciele](/images/r/h_Ciele.jpg)
+  ![Ciele](/images/h/h_Ciele.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

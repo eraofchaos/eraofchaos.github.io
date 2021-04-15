@@ -9,7 +9,7 @@ QR: adhero_61203
 toc: false
 classes: wide
 ---
-  ![Astral](/images/r/h_Astral.jpg)
+  ![Astral](/images/h/h_Astral.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

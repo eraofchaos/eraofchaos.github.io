@@ -9,7 +9,7 @@ QR: adhero_60501
 toc: false
 classes: wide
 ---
-  ![Sandro](/images/r/h_Sandro.jpg)
+  ![Sandro](/images/h/h_Sandro.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

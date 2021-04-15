@@ -9,7 +9,7 @@ QR: adhero_60303
 toc: false
 classes: wide
 ---
-  ![Ryland](/images/r/h_Ryland.jpg)
+  ![Ryland](/images/h/h_Ryland.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

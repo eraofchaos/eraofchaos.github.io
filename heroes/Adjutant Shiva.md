@@ -9,7 +9,7 @@ QR: adhero_60603
 toc: false
 classes: wide
 ---
-  ![Shiva](/images/r/h_Shiwa.jpg)
+  ![Shiva](/images/h/h_Shiwa.jpg)
 
  [List of ALL Adjutants](/heroes/Adjutants/) 
 

@@ -9,7 +9,7 @@ locale: en
 ref: "Crag Hack"
 toc: true
 ---
-  ![Crag Hack](/images/r/h_CragHack.jpg)
+  ![Crag Hack](/images/h/h_CragHack.jpg)
 
  **Description:** Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use.
 ## Details
