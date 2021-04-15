@@ -4,11 +4,13 @@ permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr was trapped in a genie bottle for more than a thousand years. He's eternally grateful to the person who freed him -- Gavin Magnus, the immortal ruler of the Bracada Highlands -- and has pledged everlasting allegiance to him."
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Solmyr"
 toc: true
 ---
+  ![Solmyr](/images/r/h_Solmyr.jpg)
+
  **Description:** Solmyr was trapped in a genie bottle for more than a thousand years. He's eternally grateful to the person who freed him -- Gavin Magnus, the immortal ruler of the Bracada Highlands -- and has pledged everlasting allegiance to him.
 ## Details
  **Profession:** Wizard

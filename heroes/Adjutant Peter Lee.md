@@ -2,13 +2,15 @@
 title: "Adjutant Peter Lee"
 permalink: /heroes/Adjutant Peter Lee/
 excerpt: "Era of Chaos  Adjutant Peter Lee"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Adjutant Peter Lee.md"
 QR: adhero_61801
 toc: false
 classes: wide
 ---
+  ![Peter Lee](/images/r/h_PeterLee.jpg)
+
  [List of ALL Adjutants](/heroes/Adjutants/) 
 
 ## Details

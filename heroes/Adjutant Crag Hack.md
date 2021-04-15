@@ -2,13 +2,15 @@
 title: "Adjutant Crag Hack"
 permalink: /heroes/Adjutant Crag Hack/
 excerpt: "Era of Chaos  Adjutant Crag Hack"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Adjutant Crag Hack.md"
 QR: adhero_60602
 toc: false
 classes: wide
 ---
+  ![Crag Hack](/images/r/h_CragHack.jpg)
+
  [List of ALL Adjutants](/heroes/Adjutants/) 
 
 ## Details

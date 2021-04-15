@@ -2,13 +2,15 @@
 title: "Adjutant Nymus"
 permalink: /heroes/Adjutant Nymus/
 excerpt: "Era of Chaos  Adjutant Nymus"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Adjutant Nymus.md"
 QR: adhero_60803
 toc: false
 classes: wide
 ---
+  ![Nymus](/images/r/h_Nymus.jpg)
+
  [List of ALL Adjutants](/heroes/Adjutants/) 
 
 ## Details

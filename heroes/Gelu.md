@@ -4,11 +4,13 @@ permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
 heroID: 60301
 QR: hero_60301
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Gelu"
 toc: true
 ---
+  ![Gelu](/images/r/h_Gelu.jpg)
+
  **Description:** Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal.
 ## Details
  **Profession:** Ranger

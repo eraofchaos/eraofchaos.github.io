@@ -4,11 +4,13 @@ permalink: /heroes/Korbac/
 excerpt: "Era of Chaos Korbac. Korbac. Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia."
 heroID: 61502
 QR: hero_61502
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Korbac"
 toc: true
 ---
+  ![Korbac](/images/r/h_Korbac.jpg)
+
  **Description:** Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia.
 ## Details
  **Profession:** Beast Master

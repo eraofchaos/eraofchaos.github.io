@@ -2,13 +2,15 @@
 title: "Adjutant Mutare"
 permalink: /heroes/Adjutant Mutare/
 excerpt: "Era of Chaos  Adjutant Mutare"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Adjutant Mutare.md"
 QR: adhero_61301
 toc: false
 classes: wide
 ---
+  ![Mutare](/images/r/h_Mutare.jpg)
+
  [List of ALL Adjutants](/heroes/Adjutants/) 
 
 ## Details

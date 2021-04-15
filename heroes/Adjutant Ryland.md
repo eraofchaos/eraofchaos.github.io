@@ -2,13 +2,15 @@
 title: "Adjutant Ryland"
 permalink: /heroes/Adjutant Ryland/
 excerpt: "Era of Chaos  Adjutant Ryland"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Adjutant Ryland.md"
 QR: adhero_60303
 toc: false
 classes: wide
 ---
+  ![Ryland](/images/r/h_Ryland.jpg)
+
  [List of ALL Adjutants](/heroes/Adjutants/) 
 
 ## Details
