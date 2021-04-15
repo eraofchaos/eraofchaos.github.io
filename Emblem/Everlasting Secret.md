@@ -2,12 +2,14 @@
 title: "Holy Emblem - Everlasting Secret"
 permalink: /Emblem/Everlasting Secret/
 excerpt: "Era of Chaos Everlasting Secret. Everlasting Secret. Era of Chaos Holy Emblem Everlasting Secret. Era of Chaos Order Everlasting Secret"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Everlasting Secret.md"
 toc: false
 classes: wide
 ---
+
+  ![Everlasting Secret](/images/r/rune_icon_104.png)
 
  **Name:** Everlasting Secret
 

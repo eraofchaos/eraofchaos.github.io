@@ -2,12 +2,14 @@
 title: "Holy Emblem - Gear of Time"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Gear of Time. Gear of Time. Era of Chaos Holy Emblem Gear of Time. Era of Chaos Goodness Gear of Time"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Gear of Time.md"
 toc: false
 classes: wide
 ---
+
+  ![Gear of Time](/images/r/rune_icon_205.png)
 
  **Name:** Gear of Time
 

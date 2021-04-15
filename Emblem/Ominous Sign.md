@@ -2,12 +2,14 @@
 title: "Holy Emblem - Ominous Sign"
 permalink: /Emblem/Ominous Sign/
 excerpt: "Era of Chaos Ominous Sign. Ominous Sign. Era of Chaos Holy Emblem Ominous Sign. Era of Chaos Evil Ominous Sign"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Ominous Sign.md"
 toc: false
 classes: wide
 ---
+
+  ![Ominous Sign](/images/r/rune_icon_504.png)
 
  **Name:** Ominous Sign
 

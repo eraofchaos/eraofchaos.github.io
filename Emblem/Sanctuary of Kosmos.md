@@ -2,12 +2,14 @@
 title: "Holy Emblem - Sanctuary of Kosmos"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "Era of Chaos Sanctuary of Kosmos. Sanctuary of Kosmos. Era of Chaos Holy Emblem Sanctuary of Kosmos. Era of Chaos Order Sanctuary of Kosmos"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Sanctuary of Kosmos.md"
 toc: false
 classes: wide
 ---
+
+  ![Sanctuary of Kosmos](/images/r/rune_icon_307.png)
 
  **Name:** Sanctuary of Kosmos
 

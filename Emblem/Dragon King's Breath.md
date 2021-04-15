@@ -2,12 +2,14 @@
 title: "Holy Emblem - Dragon King's Breath"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Era of Chaos Dragon King's Breath. Dragon King's Breath. Era of Chaos Holy Emblem Dragon King's Breath. Era of Chaos Evil Dragon King's Breath"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Dragon King's Breath.md"
 toc: false
 classes: wide
 ---
+
+  ![Dragon King's Breath](/images/r/rune_icon_505.png)
 
  **Name:** Dragon King's Breath
 

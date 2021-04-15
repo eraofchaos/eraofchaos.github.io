@@ -2,12 +2,14 @@
 title: "Holy Emblem - Wall of Knowledge"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Era of Chaos Wall of Knowledge. Wall of Knowledge. Era of Chaos Holy Emblem Wall of Knowledge. Era of Chaos Goodness Wall of Knowledge"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Wall of Knowledge.md"
 toc: false
 classes: wide
 ---
+
+  ![Wall of Knowledge](/images/r/rune_icon_202.png)
 
  **Name:** Wall of Knowledge
 

@@ -2,12 +2,14 @@
 title: "Holy Emblem - Green Prophet"
 permalink: /Emblem/Green Prophet/
 excerpt: "Era of Chaos Green Prophet. Green Prophet. Era of Chaos Holy Emblem Green Prophet. Era of Chaos Goodness Green Prophet"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Green Prophet.md"
 toc: false
 classes: wide
 ---
+
+  ![Green Prophet](/images/r/rune_icon_204.png)
 
  **Name:** Green Prophet
 

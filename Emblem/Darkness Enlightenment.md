@@ -2,12 +2,14 @@
 title: "Holy Emblem - Darkness Enlightenment"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Era of Chaos Darkness Enlightenment. Darkness Enlightenment. Era of Chaos Holy Emblem Darkness Enlightenment. Era of Chaos Evil Darkness Enlightenment"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Darkness Enlightenment.md"
 toc: false
 classes: wide
 ---
+
+  ![Darkness Enlightenment](/images/r/rune_icon_506.png)
 
  **Name:** Darkness Enlightenment
 

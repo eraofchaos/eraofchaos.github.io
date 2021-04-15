@@ -2,12 +2,14 @@
 title: "Holy Emblem - The Judgment of Fathers"
 permalink: /Emblem/The Judgment of Fathers/
 excerpt: "Era of Chaos The Judgment of Fathers. The Judgment of Fathers. Era of Chaos Holy Emblem The Judgment of Fathers. Era of Chaos Neutral The Judgment of Fathers"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "The Judgment of Fathers.md"
 toc: false
 classes: wide
 ---
+
+  ![The Judgment of Fathers](/images/r/rune_icon_301.png)
 
  **Name:** The Judgment of Fathers
 
