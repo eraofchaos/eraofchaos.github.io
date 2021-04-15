@@ -388,6 +388,17 @@ defaults:
       share: true
       sidebar:
         nav: "docs"
+  # VIP
+  - scope:
+      path: "VIP"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: true
+      sidebar:
+        nav: "docs"
   # _docs
   - scope:
       path: ""

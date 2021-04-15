@@ -30,17 +30,53 @@ classes: wide
 
 ## Details
 
+ **Reward:** null
+
  **EXP:** ?
 
- **Buy Arena:** - 
+ **cost:** - 
+
+ **crusadeAdd:** - 
+
+ **crusadeBoxTimes:** - 
+
+ **crusadeTimes:** - 
+
+ **currencyAdd:** - 
+
+ **heroDuel:** - 
+
+ **leaguephy:** - 
+
+ **lptsignin:** - 
+
+ **lptsignin2:** - 
+
+ **mfDouble:** - 
+
+ **mysteryShopNum:** - 
+
+ **Barracks +:** - 
+
+ **originalCost:** - 
+
+ **sectionReset:** - 
+
+ **sweepTimes:** - 
+
+#### BUY
+
+ **EXP:** ?
+
+ **Purchase Extra Access to the Arena:** - 
 
  **Buy Arrow:** - 
 
- **Buy Cloud:** - 
+ **Purchase Access to the Duel of Champions:** - 
 
  **Buy CrossPk:** - 
 
- **Buy Gold:** - 
+ **Purchase Gold:** - 
 
  **Buy Gold Bonus:** - 
 
@@ -50,13 +86,41 @@ classes: wide
 
  **Buy Occupation:** - 
 
- **Buy Energy:** - 
+ **Purchase Energy:** - 
 
  **Buy TechNum:** - 
 
- **Buy EXP:** - 
+ **Purchase Unit’s EXP:** - 
 
  **Buy Artifact:** - 
 
  **Buy ArtifactNum:** - 
+
+#### REFRESH SHOP
+
+ **Refresh Cross Fight:** - 
+
+ **Refresh Elemental:** - 
+
+ **Refresh SkillBook:** - 
+
+ **Refresh SkillBook:** - 
+
+ **Refresh Artifacts:** - 
+
+ **Refresh refreshCityBattle:** - 
+
+ **Refresh refreshCpShop:** - 
+
+ **Refresh refreshHerofragShop:** - 
+
+ **Refresh refreshHonorArena:** - 
+
+ **Refresh refreshLock:** - 
+
+ **Refresh refreshRuneShop:** - 
+
+ **Refresh refreshShopHa:** - 
+
+ **Refresh refreshShopRaceTrail:** - 
 

@@ -32,17 +32,53 @@ classes: wide
 
 ## Details
 
+ **Reward:** **1x** [V13 Premium Package](/Items/con_1309/)
+
  **EXP:** 80000
 
- **Buy Arena:** 22 
+ **cost:** 0 
+
+ **crusadeAdd:** 20 
+
+ **crusadeBoxTimes:** 11 
+
+ **crusadeTimes:** 1 
+
+ **currencyAdd:** 20 
+
+ **heroDuel:** 3 
+
+ **leaguephy:** 3 
+
+ **lptsignin:** 75 
+
+ **lptsignin2:** 30 
+
+ **mfDouble:** 4 
+
+ **mysteryShopNum:** 8 
+
+ **Barracks +:** 3 
+
+ **originalCost:** 90000 
+
+ **sectionReset:** 6 
+
+ **sweepTimes:** 1 
+
+#### BUY
+
+ **EXP:** 80000
+
+ **Purchase Extra Access to the Arena:** 22 
 
  **Buy Arrow:** 3 
 
- **Buy Cloud:** 1 
+ **Purchase Access to the Duel of Champions:** 1 
 
  **Buy CrossPk:** 15 
 
- **Buy Gold:** 27 
+ **Purchase Gold:** 27 
 
  **Buy Gold Bonus:** 0 
 
@@ -52,13 +88,41 @@ classes: wide
 
  **Buy Occupation:** 20 
 
- **Buy Energy:** 14 
+ **Purchase Energy:** 14 
 
  **Buy TechNum:** 4 
 
- **Buy EXP:** 14 
+ **Purchase Unit’s EXP:** 14 
 
  **Buy Artifact:** 60 
 
  **Buy ArtifactNum:** 20 
+
+#### REFRESH SHOP
+
+ **Refresh Cross Fight:** 9999 
+
+ **Refresh Elemental:** 9999 
+
+ **Refresh SkillBook:** 50 
+
+ **Refresh SkillBook:** 50 
+
+ **Refresh Artifacts:** 4 
+
+ **Refresh refreshCityBattle:** 3 
+
+ **Refresh refreshCpShop:** 10 
+
+ **Refresh refreshHerofragShop:** 200 
+
+ **Refresh refreshHonorArena:** 12 
+
+ **Refresh refreshLock:** 3 
+
+ **Refresh refreshRuneShop:** 200 
+
+ **Refresh refreshShopHa:** 15 
+
+ **Refresh refreshShopRaceTrail:** 200 
 
