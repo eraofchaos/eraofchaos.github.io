@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "Tarnum's Culpability.md"
 toc: false
+QR: rune_305
 classes: wide
 ---
 

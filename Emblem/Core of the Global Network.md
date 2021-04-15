@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "Core of the Global Network.md"
 toc: false
+QR: rune_304
 classes: wide
 ---
 

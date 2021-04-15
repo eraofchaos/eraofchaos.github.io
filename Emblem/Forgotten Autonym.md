@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "Forgotten Autonym.md"
 toc: false
+QR: rune_501
 classes: wide
 ---
 

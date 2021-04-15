@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "Gear of Time.md"
 toc: false
+QR: rune_205
 classes: wide
 ---
 

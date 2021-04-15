@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "Ironfist's Legacy.md"
 toc: false
+QR: rune_103
 classes: wide
 ---
 

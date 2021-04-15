@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "Darkness Enlightenment.md"
 toc: false
+QR: rune_506
 classes: wide
 ---
 

@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "index.md"
 toc: false
+QR: runes
 classes: wide
 ---
 

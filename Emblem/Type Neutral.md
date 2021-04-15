@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "typeNeutral.md"
 toc: false
+QR: runeTypeNeutral
 classes: wide
 ---
 

@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "Ominous Sign.md"
 toc: false
+QR: rune_504
 classes: wide
 ---
 

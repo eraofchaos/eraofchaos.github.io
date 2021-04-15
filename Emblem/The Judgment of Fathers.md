@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "The Judgment of Fathers.md"
 toc: false
+QR: rune_301
 classes: wide
 ---
 

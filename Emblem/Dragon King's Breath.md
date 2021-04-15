@@ -6,6 +6,7 @@ last_modified_at: 2021-04-15
 locale: en
 ref: "Dragon King's Breath.md"
 toc: false
+QR: rune_505
 classes: wide
 ---
 
