@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-8 Underground Magic"
 permalink: /Main Story/Chapter 27_8/
 excerpt: "Chapter 27 - 8. Era of Chaos  Main Story - Chapter 27_8. 27-8 Underground Magic"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 27_8.md"
 toc: false

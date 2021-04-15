@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-4 For Justice"
 permalink: /Main Story/Chapter 13_4/
 excerpt: "Chapter 13 - 4. Era of Chaos  Main Story - Chapter 13_4. 13-4 For Justice"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 13_4.md"
 toc: false

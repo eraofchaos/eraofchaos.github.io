@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 22 - 22-13 Mage's Guide"
 permalink: /Main Story/Chapter 22_13/
 excerpt: "Chapter 22 - 13. Era of Chaos  Main Story - Chapter 22_13. 22-13 Mage's Guide"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 22_13.md"
 toc: false

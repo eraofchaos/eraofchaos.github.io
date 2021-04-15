@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-12 Bathed in Dragons' Blood"
 permalink: /Main Story/Chapter 23_12/
 excerpt: "Chapter 23 - 12. Era of Chaos  Main Story - Chapter 23_12. 23-12 Bathed in Dragons' Blood"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 23_12.md"
 toc: false

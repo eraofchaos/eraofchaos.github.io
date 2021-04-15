@@ -2,7 +2,7 @@
 title: "Underground - Chapter 25 - 25-2 Iron Puppet"
 permalink: /Underground/Chapter 25_2/
 excerpt: "Chapter 25 - 2. Era of Chaos  Underground - Chapter 25_2. 25-2 Iron Puppet"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 25_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-14 Traces of the Undead"
 permalink: /Main Story/Chapter 12_14/
 excerpt: "Chapter 12 - 14. Era of Chaos  Main Story - Chapter 12_14. 12-14 Traces of the Undead"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 12_14.md"
 toc: false

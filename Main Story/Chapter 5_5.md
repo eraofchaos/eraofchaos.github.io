@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-5 Unscrupulous Betrayal"
 permalink: /Main Story/Chapter 5_5/
 excerpt: "Chapter 5 - 5. Era of Chaos  Main Story - Chapter 5_5. 5-5 Unscrupulous Betrayal"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 5_5.md"
 toc: false

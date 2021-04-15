@@ -2,7 +2,7 @@
 title: "Underground - Chapter 17 Liberation of the Empire"
 permalink: /Underground/Chapter 17/
 excerpt: "Chapter 17 Liberation of the Empire. Era of Chaos  Underground - Chapter 17. Liberation of the Empire"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 17.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-6 Elf Homestead"
 permalink: /Main Story/Chapter 29_6/
 excerpt: "Chapter 29 - 6. Era of Chaos  Main Story - Chapter 29_6. 29-6 Elf Homestead"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 29_6.md"
 toc: false

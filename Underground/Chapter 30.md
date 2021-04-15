@@ -2,7 +2,7 @@
 title: "Underground - Chapter 30 The King's Salvation"
 permalink: /Underground/Chapter 30/
 excerpt: "Chapter 30 The King's Salvation. Era of Chaos  Underground - Chapter 30. The King's Salvation"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 30.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 2 - 2-7 The Horse Thief"
 permalink: /Main Story/Chapter 2_7/
 excerpt: "Chapter 2 - 7. Era of Chaos  Main Story - Chapter 2_7. 2-7 The Horse Thief"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 2_7.md"
 toc: false

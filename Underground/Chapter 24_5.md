@@ -2,7 +2,7 @@
 title: "Underground - Chapter 24 - 24-5 No Way Back"
 permalink: /Underground/Chapter 24_5/
 excerpt: "Chapter 24 - 5. Era of Chaos  Underground - Chapter 24_5. 24-5 No Way Back"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 24_5.md"
 toc: false

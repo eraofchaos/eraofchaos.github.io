@@ -12,7 +12,7 @@ sidebar:
 
 
 {% capture notice-update20210414 %}
-* New Hero [Nymus](https://eraofchaos.github.io/heroes/Nymus/) and [Adjutant Nymus](https://eraofchaos.github.io/heroes/Adjutant Nymus/)
+* New Hero ![Nymus](/images/h/h_Nymus.jpg) [Nymus](https://eraofchaos.github.io/heroes/Nymus/) and [Adjutant Nymus](https://eraofchaos.github.io/heroes/Adjutant Nymus/)
 
 * Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April)
 
@@ -34,6 +34,7 @@ sidebar:
 * Wiki updated to latest game state. 
 * You can post your comments for Section **Heroes** (in test phase). 
 * You can Share pages in Social networks.
+* Added images for [Heroes](/heroes/) and [Holy Emblem](/Emblem/)
 
 {% endcapture %}
 

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 4 - 4-15 Nest of Wind"
 permalink: /Main Story/Chapter 4_15/
 excerpt: "Chapter 4 - 15. Era of Chaos  Main Story - Chapter 4_15. 4-15 Nest of Wind"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 4_15.md"
 toc: false

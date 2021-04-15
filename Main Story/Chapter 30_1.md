@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-1 Magic Spring"
 permalink: /Main Story/Chapter 30_1/
 excerpt: "Chapter 30 - 1. Era of Chaos  Main Story - Chapter 30_1. 30-1 Magic Spring"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-15
 locale: en
 ref: "Chapter 30_1.md"
 toc: false
