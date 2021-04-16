@@ -46,10 +46,10 @@
   (era9, $era9-color),
   (facebook, $facebook-color),
   (twitter, $twitter-color),
-  (linkedin, $linkedin-color);
-  (reddit, #ff4500);
-  (pinterest, #e60023);
-  (tumblr, #35465c);
+  (linkedin, $linkedin-color),
+  (reddit, $reddit-color),
+  (pinterest, $pinterest-color),
+  (tumblr, $tumblr-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
