@@ -32,9 +32,10 @@ sidebar:
 * Changed drop in [HotSpot for Spells](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
 
 * Wiki updated to latest game state. 
-* You can post your comments for Section **Heroes** (in test phase). 
+* You can post your comments on Wiki (in Heroes/Emblems/Posts/...). 
 * You can Share pages in Social networks.
 * Added images for [Heroes](/heroes/) and [Holy Emblem](/Emblem/)
+* Added <i class="fas fa-crown"/> [VIP System](/VIP/)
 
 {% endcapture %}
 
@@ -83,6 +84,7 @@ You will find here:
 
 * <i class="fas fa-poo-storm"/> [Main Story](/Main Story/)
 * <i class="fas fa-door-open"/> [Underground](/Underground/)
+* <i class="fas fa-crown"/> [VIP System](/VIP/)
 
 * <i class="fas fa-question-circle"/>  [Sphinx: Answer questions for approval and rewards!](/sphinx/)
 
