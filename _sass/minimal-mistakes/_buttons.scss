@@ -47,6 +47,9 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (linkedin, $linkedin-color);
+  (reddit, #ff4500);
+  (pinterest, #e60023);
+  (tumblr, #35465c);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
