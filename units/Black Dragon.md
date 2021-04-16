@@ -3,11 +3,13 @@ title: "Black Dragon"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all."
 unitID: 707
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Black Dragon"
 toc: true
 ---
+  ![Black Dragon](/images/u/ti_heilong.jpg)
+
 ## General information
  **Description:** A murderous tyrant dominates the top of the food-chain underground. The mortal spell cannot hurt him at all.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Black Dragon King](/images/u/tia_heilong.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

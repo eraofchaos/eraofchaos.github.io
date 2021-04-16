@@ -3,11 +3,13 @@ title: "Wyvern"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it."
 unitID: 806
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Wyvern"
 toc: true
 ---
+  ![Wyvern](/images/u/ti_feilong.jpg)
+
 ## General information
  **Description:** A distorted toxic thing erodes the swamp. Legend says the virulent miasma pervading the swamp was vomitted up by it.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Wyvern Monarch](/images/u/tia_feilong.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

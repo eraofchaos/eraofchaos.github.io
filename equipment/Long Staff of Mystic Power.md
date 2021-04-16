@@ -2,7 +2,7 @@
 title: "Long Staff of Mystic Power"
 permalink: /equipment/Long Staff of Mystic Power/
 excerpt: "Era of Chaos Long Staff of Mystic Power. Long Staff of Mystic Power"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Long Staff of Mystic Power.md"
 toc: false

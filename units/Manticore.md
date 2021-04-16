@@ -3,11 +3,13 @@ title: "Manticore"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail."
 unitID: 706
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Manticore"
 toc: true
 ---
+  ![Manticore](/images/u/ti_shixie.jpg)
+
 ## General information
  **Description:** A monstrous creature with a lion-shaped body, bat-like wings and a scorpion-like tail. Its prey has no chance of seeing another sunset once it's stung by its tail.
 
@@ -168,6 +170,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Scorpicore](/images/u/tia_shixie.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

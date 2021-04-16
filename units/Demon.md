@@ -3,11 +3,13 @@ title: "Demon"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh."
 unitID: 504
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Demon"
 toc: true
 ---
+  ![Demon](/images/u/ti_changjiaoemo.jpg)
+
 ## General information
  **Description:** Horned demons are known for the sharp horns on their forehead. These horns are their most powerful weapon, which easily penetrates their enemy's armor to gore their flesh.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Inferno Guard](/images/u/tia_changjiaoemo.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

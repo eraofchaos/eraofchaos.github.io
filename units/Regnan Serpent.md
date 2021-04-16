@@ -3,11 +3,13 @@ title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Regnan Serpent"
 toc: true
 ---
+  ![Regnan Serpent](/images/u/ti_yurenyongshi.jpg)
+
 ## General information
  **Description:** The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king.
 
@@ -189,6 +191,9 @@ toc: true
 
 
 ## Awaking
+
+  ![](/images/u/tia_yurenyongshi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

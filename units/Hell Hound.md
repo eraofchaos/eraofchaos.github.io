@@ -3,11 +3,13 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Hell Hound"
 toc: true
 ---
+  ![Hell Hound](/images/u/ti_santouquan.jpg)
+
 ## General information
  **Description:** Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake.
 
@@ -177,6 +179,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

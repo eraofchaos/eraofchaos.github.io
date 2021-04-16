@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 4 - 4-1 The Blue Tent"
 permalink: /Main Story/Chapter 4_1/
 excerpt: "Chapter 4 - 1. Era of Chaos  Main Story - Chapter 4_1. 4-1 The Blue Tent"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 4_1.md"
 toc: false

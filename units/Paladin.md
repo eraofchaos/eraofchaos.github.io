@@ -3,11 +3,13 @@ title: "Paladin"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities."
 unitID: 108
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Paladin"
 toc: true
 ---
+  ![Paladin](/images/u/ti_shengqishi.jpg)
+
 ## General information
  **Description:** Paladin is the main backer of Castle Faction. He is good at motivating units to release their potential abilities.
 
@@ -172,6 +174,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Supreme Paladin](/images/u/tia_shengqishi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

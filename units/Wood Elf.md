@@ -3,11 +3,13 @@ title: "Wood Elf"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Wood Elf"
 toc: true
 ---
+  ![Wood Elf](/images/u/ti_mujingling.jpg)
+
 ## General information
  **Description:** The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Grand Elf](/images/u/tia_mujingling.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

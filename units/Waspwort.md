@@ -3,11 +3,13 @@ title: "Waspwort"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare."
 unitID: 808
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Waspwort"
 toc: true
 ---
+  ![Waspwort](/images/u/ti_dufengcao.jpg)
+
 ## General information
  **Description:** A strange plant that grows in toxic swamps. The harsh buzzing sound it makes is every creature's nightmare.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_dufengcao.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

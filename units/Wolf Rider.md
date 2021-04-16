@@ -3,11 +3,13 @@ title: "Wolf Rider"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more."
 unitID: 402
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Wolf Rider"
 toc: true
 ---
+  ![Wolf Rider](/images/u/ti_langqibing.jpg)
+
 ## General information
  **Description:** Wolf Raiders work as a team with their steeds, tamed giant wolves. The sharp fangs and claws of the wolves terrify their enemies even more.
 
@@ -183,6 +185,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Wolf Raider](/images/u/tia_langqibing.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

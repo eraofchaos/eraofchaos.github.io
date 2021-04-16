@@ -3,11 +3,13 @@ title: "Giant"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world."
 unitID: 607
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Giant"
 toc: true
 ---
+  ![Giant](/images/u/ti_taitan.jpg)
+
 ## General information
  **Description:** These gold-armored, lightning-flinging giants live up in the clouds. Legend says that these immortal creatures were created by the ancient beings who once ruled this world.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Titan](/images/u/tia_taitan.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

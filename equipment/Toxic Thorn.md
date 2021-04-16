@@ -2,7 +2,7 @@
 title: "Toxic Thorn"
 permalink: /equipment/Toxic Thorn/
 excerpt: "Era of Chaos Toxic Thorn. Toxic Thorn"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Toxic Thorn.md"
 toc: false

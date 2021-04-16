@@ -3,13 +3,15 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark."
 unitID: 9909
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Shark Trainer"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Shark Trainer](/images/u/ti_xunshashi.jpg)
 
 ## General information
  **Description:** The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark.
@@ -216,6 +218,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Shark Rider](/images/u/tia_xunshashi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

@@ -3,11 +3,13 @@ title: "Devil"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row"
 unitID: 507
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Devil"
 toc: true
 ---
+  ![Devil](/images/u/ti_daemo.jpg)
+
 ## General information
  **Description:** The Devil is the leader of the Inferno. He can battle at any pace, and even teleport and attack enemies in the back row
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Arch Devil](/images/u/tia_daemo.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

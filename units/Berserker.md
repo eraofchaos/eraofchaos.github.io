@@ -3,11 +3,13 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes."
 unitID: 408
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Berserker"
 toc: true
 ---
+  ![Berserker](/images/u/ti_kuangzhanshi.jpg)
+
 ## General information
  **Description:** Berserkers are the best orcs at fighting. They are tall, strong and easily angered. In all battles, they will rush violently into their enemies, and chop them apart with their axes.
 
@@ -185,6 +187,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Death Howler](/images/u/tia_kuangzhanshi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Gelu"
 permalink: /DineWithHeroesRestaurant Gelu.html
 excerpt: "Dine with Heroes - Restaurant - Gelu. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "DineWithHeroesRestaurantGelu.html"
 toc: true
@@ -105,7 +105,7 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward:**  **1000x** Dragonsteel
+ **Reward:**  **1000x** [Dragonsteel](/Items/con_880/)
 
  **Like Talk:** This dish is simply delectable due to the included sour and sweet pickled vegetables and refreshing offal!
 

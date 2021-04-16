@@ -3,11 +3,13 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Fire Elemental"
 toc: true
 ---
+  ![Fire Elemental](/images/u/ti_liehuoyuansu.jpg)
+
 ## General information
  **Description:** An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Energy Elemental](/images/u/tia_liehuoyuansu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

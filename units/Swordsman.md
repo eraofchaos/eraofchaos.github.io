@@ -3,11 +3,13 @@ title: "Swordsman"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques."
 unitID: 104
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Swordsman"
 toc: true
 ---
+  ![Swordsman](/images/u/ti_shizijun.jpg)
+
 ## General information
  **Description:** The Crusaders welcome only the most brave, heroic and experienced soldiers. They are known throughout the land for their combat techniques.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Crusader](/images/u/tia_shizijun.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

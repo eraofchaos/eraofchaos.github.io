@@ -3,11 +3,13 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Bone Dragon"
 toc: true
 ---
+  ![Bone Dragon](/images/u/ti_gulong.jpg)
+
 ## General information
  **Description:** Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. 
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Ghost Dragon](/images/u/tia_gulong.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

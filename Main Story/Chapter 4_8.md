@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 4 - 4-8 Ironbeak Tower"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "Chapter 4 - 8. Era of Chaos  Main Story - Chapter 4_8. 4-8 Ironbeak Tower"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 4_8.md"
 toc: false

@@ -3,13 +3,15 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality."
 unitID: 209
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Mantis"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Mantis](/images/u/ti_tanglang.jpg)
 
 ## General information
  **Description:** Its razor-sharp, huge blades demonstrate its pride as a legendary creature. The elves of Vori granted the Mantis with strong and tenacious vitality.
@@ -185,6 +187,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_dujiaoshou.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

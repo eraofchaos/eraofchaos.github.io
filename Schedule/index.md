@@ -2,7 +2,7 @@
 title: "Schedule"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Schedule. Schedule for all near events and shop sales."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "index.md"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 5   | 14 Apr | 18 Apr | Limited Time Recruitment | Get the most popular SSR units through the Limited Time Recruitment event. | [Leprechaun](/Items/unt_270/),  | 
   | 6   | 14 Apr | 18 Apr | Limited Time Soul Stone | Get the most popular SSR Unit Soul Stones through the Limited Time Soul Stone Recruitment event. | [Master Leprechaun Soul Stone](/Items/unt_349/),  | 
   | 7   | 14 Apr | 18 Apr | Login Reward | You can win exciting rewards by logging in every day during the event! | [Leprechaun](/Items/unt_270/), [Conflux Roster runes](/Items/con_791/), [Huge EXP potion](/Items/con_703/),  | 
-  | 8   | 14 Apr | 18 Apr | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | [Ice Demon](/Items/unt_269/), AVATARFRAME1091,  | 
+  | 8   | 14 Apr | 18 Apr | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | [Ice Demon](/Items/unt_269/),  AVATAR_FRAME_1091,  | 
   | 9   | 14 Apr | 18 Apr | Single Purchase | Select a reward after meeting the purchase requirements. | [Void Mithril](/Items/con_817/), [Holy Emblem Redemption Ticket](/Items/con_513/), [Elite Hero Pack](/Items/con_1883/), [Premium Artifact Component Chest](/Items/con_1874/),  | 
   | 10   | 15 Apr | 19 Apr | Master of Exploration | Explore the Guild map for exciting rewards! | [Arcane Chant Token](/Items/con_915/), [Rare Material Chest](/Items/con_757/), [Basic Material Chest](/Items/con_756/),  | 
   | 11   | 16 Apr | 18 Apr | Seafaring celebration | Shortens Voyage mission time by 25% |  | 
@@ -36,7 +36,7 @@ classes: wide
   | 21   | 21 Apr | 25 Apr | Life Celebration | Daily Underground challenges +1 |  | 
   | 22   | 21 Apr | 25 Apr | Lucky Snatch | Popular Holy Emblems are here. Come test your luck! |  | 
   | 23   | 21 Apr | 25 Apr | Single Purchase | Select a reward after meeting the purchase requirements. | [Void Mithril](/Items/con_817/), [Holy Emblem Redemption Ticket](/Items/con_513/), [Elite Hero Pack](/Items/con_1883/), [Premium Artifact Component Chest](/Items/con_1874/),  | 
-  | 24   | 22 Apr | 26 Apr | Guild Party | Win exciting rewards by participating in Guild activities during the event! | Guild coin, Dragonsteel, [Medium Energy-Binding Vial](/Items/con_725/),  | 
+  | 24   | 22 Apr | 26 Apr | Guild Party | Win exciting rewards by participating in Guild activities during the event! | [Guild coin](/Items/con_896/), [Dragonsteel](/Items/con_880/), [Medium Energy-Binding Vial](/Items/con_725/),  | 
   | 25   | 23 Apr | 25 Apr | Elemental Celebration | Conflux Plane available challenges +1 |  | 
   | 26   | 25 Apr | 28 Apr | Compass Redemption | Limited-time redemption of Cove-exclusive items. Don't miss these great rewards! | [Spellbinder's Hat Component Chest](/Items/con_1359/), [Astro Silver](/Items/con_969/), [SSR Unit Soul](/Items/con_535/),  | 
   | 27   | 25 Apr | 28 Apr | Gold exchange | Get double the gold when buying from the trading post. |  | 
@@ -48,7 +48,7 @@ classes: wide
   | 33   | 28 Apr | 2 May | Exclusive Redemption | You can consume Void Mithril to exchange for exclusive unit weapon during the event! | [Nether Sabre Token](/Items/con_979/), [Naga Sword Token](/Items/con_987/), [Scorpion Tail Token](/Items/con_992/),  | 
   | 34   | 28 Apr | 2 May | Limited-Time Covenant | Super popular Commander units are available for a limited time and they await your summon! | [Regnan Seer](/Items/unt_279/),  | 
   | 35   | 28 Apr | 2 May | Login Reward | You can win exciting rewards by logging in every day during the event! | [Cove Faction Chest](/Items/con_1278/), [Cove Roster runes](/Items/con_868/), [Huge EXP potion](/Items/con_703/),  | 
-  | 36   | 28 Apr | 2 May | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | [Regnan Seer](/Items/unt_279/), AVATARFRAME1082,  | 
+  | 36   | 28 Apr | 2 May | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | [Regnan Seer](/Items/unt_279/),  AVATAR_FRAME_1082,  | 
   | 37   | 28 Apr | 2 May | Single Purchase | Select a reward after meeting the purchase requirements. | [Void Mithril](/Items/con_817/), [Holy Emblem Redemption Ticket](/Items/con_513/), [Elite Hero Pack](/Items/con_1883/), [Premium Artifact Component Chest](/Items/con_1874/),  | 
   | 38   | 28 Apr | 30 Apr | Gold Rush | Double the gold gained from Dwarven Treasury. |  | 
   | 39   | 29 Apr | 3 May | Master of Exploration | Explore the Guild map for exciting rewards! | [Long Bow Token](/Items/con_914/), [Rare Material Chest](/Items/con_757/), [Basic Material Chest](/Items/con_756/),  | 

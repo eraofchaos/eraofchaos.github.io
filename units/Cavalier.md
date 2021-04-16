@@ -3,11 +3,13 @@ title: "Cavalier"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Cavalier"
 toc: true
 ---
+  ![Cavalier](/images/u/ti_qishi.jpg)
+
 ## General information
  **Description:** Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Champion Knights](/images/u/tia_qishi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

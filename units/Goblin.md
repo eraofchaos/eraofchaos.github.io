@@ -3,11 +3,13 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies."
 unitID: 401
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Goblin"
 toc: true
 ---
+  ![Goblin](/images/u/ti_shourenzhanshi.jpg)
+
 ## General information
  **Description:** Goblins wear light armor and wield heavy weapons. These brutal and relentless warriors rapidly crush the defenses of their enemies.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Hobgoblin](/images/u/tia_shourenzhanshi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

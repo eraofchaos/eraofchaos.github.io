@@ -3,11 +3,13 @@ title: "Iron Golem"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic."
 unitID: 603
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Iron Golem"
 toc: true
 ---
+  ![Iron Golem](/images/u/ti_tieren.jpg)
+
 ## General information
  **Description:** Iron Golems are built by mages. They are birthed from a combination of precise craftsmanship and complex magic, giving them an extraordinary resistance to magic.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Gold Golem](/images/u/tia_tieren.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

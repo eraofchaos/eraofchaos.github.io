@@ -3,11 +3,13 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Ogre"
 toc: true
 ---
+  ![Ogre](/images/u/ti_shirenmo.jpg)
+
 ## General information
  **Description:** Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles.
 
@@ -181,6 +183,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Ogre Mage](/images/u/tia_shirenmo.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

@@ -3,11 +3,13 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Ice Elemental"
 toc: true
 ---
+  ![Ice Elemental](/images/u/ti_bingyuansu2.jpg)
+
 ## General information
  **Description:** A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Silent Snow Spirit](/images/u/tia_bingyuansu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Xeron"
 permalink: /DineWithHeroesRestaurant Xeron.html
 excerpt: "Dine with Heroes - Restaurant - Xeron. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "DineWithHeroesRestaurantXeron.html"
 toc: true
@@ -71,7 +71,7 @@ sidebar:
 
  **Level EXP: 1000**
 
- **Reward:**  **20x** siegePropExp
+ **Reward:**  **20x** [Precision Part](/Items/con_920/)
 
  **Like Talk:** The chicken in this dish is tender and spicy while the taro has a sticky texture. While the dish is rather spicy, it does not leave you feeling parched after eating it. Instead, it has a sweet aftertaste. What an amazing delicacy!
 

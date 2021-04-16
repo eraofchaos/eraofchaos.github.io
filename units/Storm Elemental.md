@@ -3,11 +3,13 @@ title: "Storm Elemental"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack."
 unitID: 902
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Storm Elemental"
 toc: true
 ---
+  ![Storm Elemental](/images/u/ti_leiyuansu2.jpg)
+
 ## General information
  **Description:** An energy entity born from the conflict and battle of Air Elementals. Any enemy who dares to face it will be left scarred by its electrical attack.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Lightning Storm](/images/u/tia_leiyuansu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

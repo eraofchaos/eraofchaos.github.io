@@ -2,7 +2,7 @@
 title: "Crystal Crown of Magic"
 permalink: /equipment/Crystal Crown of Magic/
 excerpt: "Era of Chaos Crystal Crown of Magic. Crystal Crown of Magic"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Crystal Crown of Magic.md"
 toc: false

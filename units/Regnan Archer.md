@@ -3,11 +3,13 @@ title: "Regnan Archer"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Regnan Archer"
 toc: true
 ---
+  ![Regnan Archer](/images/u/ti_ruigenanushou.jpg)
+
 ## General information
  **Description:** She is destined for wealth. Everything is her target, wherever her arrow aims.
 
@@ -181,6 +183,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_baozang.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

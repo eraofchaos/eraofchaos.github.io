@@ -3,11 +3,13 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Monk"
 toc: true
 ---
+  ![Monk](/images/u/ti_senglv.jpg)
+
 ## General information
  **Description:** Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield.
 
@@ -167,6 +169,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Zealot](/images/u/tia_senglv.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

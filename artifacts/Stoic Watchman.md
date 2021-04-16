@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye - Stoic Watchman"
 permalink: /artifacts/Stoic Watchman/
 excerpt: "Era of Chaos  Live Hawkeye - Stoic Watchman. A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Stoic Watchman.md"
 toc: false

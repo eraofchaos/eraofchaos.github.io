@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-14 An Ancient Custom"
 permalink: /Main Story/Chapter 21_14/
 excerpt: "Chapter 21 - 14. Era of Chaos  Main Story - Chapter 21_14. 21-14 An Ancient Custom"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 21_14.md"
 toc: false

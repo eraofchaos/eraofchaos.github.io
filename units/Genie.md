@@ -3,11 +3,13 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Genie"
 toc: true
 ---
+  ![Genie](/images/u/ti_shenguai.jpg)
+
 ## General information
  **Description:** Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison.
 
@@ -180,6 +182,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Master Genie](/images/u/tia_shendeng.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

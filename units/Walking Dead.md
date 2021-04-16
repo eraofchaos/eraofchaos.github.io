@@ -3,11 +3,13 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Walking Dead"
 toc: true
 ---
+  ![Walking Dead](/images/u/ti_jiangshi.jpg)
+
 ## General information
  **Description:** Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Zombie](/images/u/tia_jiangshi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

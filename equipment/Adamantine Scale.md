@@ -2,7 +2,7 @@
 title: "Adamantine Scale"
 permalink: /equipment/Adamantine Scale/
 excerpt: "Era of Chaos Adamantine Scale. Adamantine Scale"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Adamantine Scale.md"
 toc: false

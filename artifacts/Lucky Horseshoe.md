@@ -2,7 +2,7 @@
 title: "Artifacts - Lucky Horseshoe"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "Era of Chaos  Lucky Horseshoe. Lucky Horseshoe A holy relic filled with force. Able to increase attack for an army."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Lucky Horseshoe.md"
 toc: false

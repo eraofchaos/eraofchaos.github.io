@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 14 Safe Passage"
 permalink: /Main Story/Chapter 14/
 excerpt: "Chapter 14. Era of Chaos  Main Story - Chapter 14. Safe Passage"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 14.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** Unit EXP
+ Reward 4:  **5000x** [Unit EXP](/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** Unit EXP
+ Reward 4:  **8000x** [Unit EXP](/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** Unit EXP
+ Reward 4:  **10000x** [Unit EXP](/Items/con_902/)
 

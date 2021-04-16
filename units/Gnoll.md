@@ -3,11 +3,13 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Gnoll"
 toc: true
 ---
+  ![Gnoll](/images/u/ti_langren.jpg)
+
 ## General information
  **Description:** A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Gnoll Warrior](/images/u/tia_langren.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

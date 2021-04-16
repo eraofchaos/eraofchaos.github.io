@@ -3,11 +3,13 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gogs may seem to be mild but they can be very aggressive in battle."
 unitID: 502
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Gog"
 toc: true
 ---
+  ![Gog](/images/u/ti_touhuoguai.jpg)
+
 ## General information
  **Description:** Gogs may seem to be mild but they can be very aggressive in battle.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Magog](/images/u/tia_touhuoguai.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

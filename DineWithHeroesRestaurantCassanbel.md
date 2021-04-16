@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Cassanbel"
 permalink: /DineWithHeroesRestaurant Cassanbel.html
 excerpt: "Dine with Heroes - Restaurant - Cassanbel. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "DineWithHeroesRestaurantCassanbel.html"
 toc: true
@@ -105,7 +105,7 @@ sidebar:
 
  **Level EXP: 2100**
 
- **Reward:**  **200x** Artifact essence
+ **Reward:**  **200x** [Artifact essence](/Items/con_905/)
 
  **Like Talk:** This dish is simply delectable due to the included sour and sweet pickled vegetables and refreshing offal!
 
@@ -139,7 +139,7 @@ sidebar:
 
  **Level EXP: 4100**
 
- **Reward:**  **1000x** Dragon Blood Crystal
+ **Reward:**  **1000x** [Dragon Blood Crystal](/Items/con_879/)
 
  **Like Talk:** Amazing! The freshness of oceanic delicacies has been concentrated in this single pot of soup, enhancing the rich flavor of the soup base.
 

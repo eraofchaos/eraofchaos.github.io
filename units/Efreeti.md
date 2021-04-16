@@ -3,11 +3,13 @@ title: "Efreeti"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Efreets are born in the fires of the inferno. They can cast fire magic into the air."
 unitID: 506
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Efreeti"
 toc: true
 ---
+  ![Efreeti](/images/u/ti_liehuojingling.jpg)
+
 ## General information
  **Description:** Efreets are born in the fires of the inferno. They can cast fire magic into the air.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Efreet Sultan](/images/u/tia_liehuojingling.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

@@ -3,11 +3,13 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Vampire"
 toc: true
 ---
+  ![Vampire](/images/u/ti_xixuegui.jpg)
+
 ## General information
  **Description:** Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Vampire Lord](/images/u/tia_xixuegui.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

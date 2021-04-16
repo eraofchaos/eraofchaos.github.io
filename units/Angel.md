@@ -3,11 +3,13 @@ title: "Angel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life."
 unitID: 107
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Angel"
 toc: true
 ---
+  ![Angel](/images/u/ti_datianshi.jpg)
+
 ## General information
  **Description:** Archangels are a symbol of strength and light, beloved throughout the kingdom. They are fierce in battle, able to strike their enemies dead and bring their allies back to life.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Archangel](/images/u/tia_datianshi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

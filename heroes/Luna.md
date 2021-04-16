@@ -4,7 +4,7 @@ permalink: /heroes/Luna/
 excerpt: "Era of Chaos Luna. Luna. Luna was living in Enroth when she heard that an Elemental had appeared in Erathia. Believing she could learn far greater magic there, she made her way across the sea to discover its secrets."
 heroID: 60701
 QR: hero_60701
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Luna"
 toc: true

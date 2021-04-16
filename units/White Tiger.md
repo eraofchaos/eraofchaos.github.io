@@ -3,13 +3,15 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Units. Units. Era of Chaos White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "White Tiger"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![White Tiger](/images/u/ti_baihu.jpg)
 
 ## General information
  **Description:** White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around.
@@ -187,6 +189,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

@@ -3,11 +3,13 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Harpy"
 toc: true
 ---
+  ![Harpy](/images/u/ti_yingshenren.jpg)
+
 ## General information
  **Description:** The monster is part human and part bird. No one can bear their cloud-piercing screaming.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Harpy Hag](/images/u/tia_yingshenren.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

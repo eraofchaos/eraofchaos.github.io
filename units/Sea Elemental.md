@@ -3,11 +3,13 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Sea Elemental"
 toc: true
 ---
+  ![Sea Elemental](/images/u/ti_haiyuansu.jpg)
+
 ## General information
  **Description:** Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Tidal Elemental](/images/u/tia_shenv.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

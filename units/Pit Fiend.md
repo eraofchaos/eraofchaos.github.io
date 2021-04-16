@@ -3,11 +3,13 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Pit Fiend"
 toc: true
 ---
+  ![Pit Fiend](/images/u/ti_diyulingzhu.jpg)
+
 ## General information
  **Description:** Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Pit Lord](/images/u/tia_diyulingzhu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

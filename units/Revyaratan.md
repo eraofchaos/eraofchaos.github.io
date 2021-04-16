@@ -3,11 +3,13 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Revyaratan"
 toc: true
 ---
+  ![Revyaratan](/images/u/ti_haiguai.jpg)
+
 ## General information
  **Description:** A monster swims in the deep sea. Its huge mouth seems to devour everything.
 
@@ -184,6 +186,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Ancient Sea Monster](/images/u/tia_haiguai.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

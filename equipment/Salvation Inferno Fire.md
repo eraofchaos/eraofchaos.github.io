@@ -2,7 +2,7 @@
 title: "Salvation Inferno Fire"
 permalink: /equipment/Salvation Inferno Fire/
 excerpt: "Era of Chaos Salvation Inferno Fire. Salvation Inferno Fire"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Salvation Inferno Fire.md"
 toc: false

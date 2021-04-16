@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Tazar"
 permalink: /DineWithHeroesRestaurant Tazar.html
 excerpt: "Dine with Heroes - Restaurant - Tazar. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "DineWithHeroesRestaurantTazar.html"
 toc: true
@@ -88,7 +88,7 @@ sidebar:
 
  **Level EXP: 1500**
 
- **Reward:**  **800x** Dragonsteel
+ **Reward:**  **800x** [Dragonsteel](/Items/con_880/)
 
  **Like Talk:** The taste of food cooked in a specially made pot is in a class of its own.
 

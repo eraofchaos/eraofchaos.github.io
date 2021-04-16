@@ -3,11 +3,13 @@ title: "Mummy"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Mummy"
 toc: true
 ---
+  ![Mummy](/images/u/ti_munaiyi.jpg)
+
 ## General information
  **Description:** The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Mummy King](/images/u/tia_munaiyi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

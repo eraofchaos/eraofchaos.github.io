@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 4 - 4-14 Sanctuary"
 permalink: /Main Story/Chapter 4_14/
 excerpt: "Chapter 4 - 14. Era of Chaos  Main Story - Chapter 4_14. 4-14 Sanctuary"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 4_14.md"
 toc: false

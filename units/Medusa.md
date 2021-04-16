@@ -3,11 +3,13 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone."
 unitID: 704
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Medusa"
 toc: true
 ---
+  ![Medusa](/images/u/ti_meidusha.jpg)
+
 ## General information
  **Description:** Beautiful ladies with a snake-shaped body and hair. Their cold eyes turn every living being they lock eyes with into stone.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Medusa Queen](/images/u/tia_meidusha.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

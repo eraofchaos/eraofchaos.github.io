@@ -2,7 +2,7 @@
 title: "Adjutant Wystan"
 permalink: /heroes/Adjutant Wystan/
 excerpt: "Era of Chaos  Adjutant Wystan"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Adjutant Wystan.md"
 QR: adhero_61504

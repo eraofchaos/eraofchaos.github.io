@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Market - Vegetable Platter"
 permalink: /DineWithHeroesMarket Vegetable Platter.html
 excerpt: "Dine with Heroes - Market - Vegetable Platter. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "DineWithHeroesMarketVegetable Platter.html"
 toc: true

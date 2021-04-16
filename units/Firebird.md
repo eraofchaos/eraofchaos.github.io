@@ -3,11 +3,13 @@ title: "Firebird"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air."
 unitID: 907
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Firebird"
 toc: true
 ---
+  ![Firebird](/images/u/ti_fenghuang.jpg)
+
 ## General information
  **Description:** The firebird is the most powerful creature in Elemental. It resides in the fire which grants it eternal life. The roaring flame around it burns evil from the very air.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Phoenix](/images/u/tia_fenghuang.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

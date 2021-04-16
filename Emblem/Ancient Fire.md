@@ -2,7 +2,7 @@
 title: "Holy Emblem - Ancient Fire"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Era of Chaos Ancient Fire. Ancient Fire. Era of Chaos Holy Emblem Ancient Fire. Era of Chaos Order Ancient Fire"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Ancient Fire.md"
 toc: false

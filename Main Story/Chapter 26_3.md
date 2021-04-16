@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-3 Lake of Darkness"
 permalink: /Main Story/Chapter 26_3/
 excerpt: "Chapter 26 - 3. Era of Chaos  Main Story - Chapter 26_3. 26-3 Lake of Darkness"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 26_3.md"
 toc: false

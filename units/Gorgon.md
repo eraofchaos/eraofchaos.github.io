@@ -3,11 +3,13 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Gorgon"
 toc: true
 ---
+  ![Gorgon](/images/u/ti_manniu.jpg)
+
 ## General information
  **Description:** Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target.
 
@@ -188,6 +190,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Mighty Gorgon](/images/u/tia_manniu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

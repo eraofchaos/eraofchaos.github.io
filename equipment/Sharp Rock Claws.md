@@ -2,7 +2,7 @@
 title: "Sharp Rock Claws"
 permalink: /equipment/Sharp Rock Claws/
 excerpt: "Era of Chaos Sharp Rock Claws. Sharp Rock Claws"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Sharp Rock Claws.md"
 toc: false

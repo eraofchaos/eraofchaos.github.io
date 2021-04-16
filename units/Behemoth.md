@@ -3,11 +3,13 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks."
 unitID: 407
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Behemoth"
 toc: true
 ---
+  ![Behemoth](/images/u/ti_bimeng.jpg)
+
 ## General information
  **Description:** Behemoths are one of the few primal creatures. Their origins date back to the time before dragons. Their huge bodies ignore their enemy's attacks.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Ancient Behemoth](/images/u/tia_bimeng.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

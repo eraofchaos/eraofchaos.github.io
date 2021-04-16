@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 4 Griffin Cliffs"
 permalink: /Main Story/Chapter 4/
 excerpt: "Chapter 4. Era of Chaos  Main Story - Chapter 4. Griffin Cliffs"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 4.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** Unit EXP
+ Reward 4:  **1000x** [Unit EXP](/Items/con_902/)
 
 
 
@@ -48,7 +48,7 @@ classes: wide
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** Unit EXP
+ Reward 4:  **1500x** [Unit EXP](/Items/con_902/)
 
 
 
@@ -60,5 +60,5 @@ classes: wide
 
  Reward 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** Unit EXP
+ Reward 4:  **2000x** [Unit EXP](/Items/con_902/)
 

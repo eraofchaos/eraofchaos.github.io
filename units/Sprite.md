@@ -3,11 +3,13 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Sprite"
 toc: true
 ---
+  ![Sprite](/images/u/ti_mofaxianling.jpg)
+
 ## General information
  **Description:** A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. 
 
@@ -172,6 +174,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-4 Standing Ground"
 permalink: /Main Story/Chapter 5_4/
 excerpt: "Chapter 5 - 4. Era of Chaos  Main Story - Chapter 5_4. 5-4 Standing Ground"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 5_4.md"
 toc: false

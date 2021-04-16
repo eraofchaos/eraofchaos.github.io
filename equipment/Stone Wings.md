@@ -2,7 +2,7 @@
 title: "Stone Wings"
 permalink: /equipment/Stone Wings/
 excerpt: "Era of Chaos Stone Wings. Stone Wings"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Stone Wings.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Dwarf"
 toc: true
 ---
+  ![Dwarf](/images/u/ti_airen.jpg)
+
 ## General information
  **Description:** Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them.
 
@@ -183,6 +185,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

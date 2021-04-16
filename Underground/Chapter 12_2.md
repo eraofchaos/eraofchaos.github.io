@@ -2,7 +2,7 @@
 title: "Underground - Chapter 12 - 12-2 King of the Undead"
 permalink: /Underground/Chapter 12_2/
 excerpt: "Chapter 12 - 2. Era of Chaos  Underground - Chapter 12_2. 12-2 King of the Undead"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 12_2.md"
 toc: false

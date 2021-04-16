@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike (Vampire)"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Vampire Exclusive."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Vampire Knight Pike.md"
 toc: false

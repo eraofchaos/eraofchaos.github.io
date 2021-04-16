@@ -3,13 +3,15 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Units. Units. Era of Chaos He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Dark Champion"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Dark Champion](/images/u/ti_sishen.jpg)
 
 ## General information
  **Description:** He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls.
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_gulong.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

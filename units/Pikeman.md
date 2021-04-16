@@ -3,11 +3,13 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Pikeman"
 toc: true
 ---
+  ![Pikeman](/images/u/ti_jibing.jpg)
+
 ## General information
  **Description:** Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Halberdier](/images/u/tia_jibing.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

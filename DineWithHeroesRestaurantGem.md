@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Restaurant - Gem"
 permalink: /DineWithHeroesRestaurant Gem.html
 excerpt: "Dine with Heroes - Restaurant - Gem. Serving: Once the hotpot is finished cooking, you can serve it to the heroes in the restaurant. Each hero has a favored food, a neutral food, and a disliked food. Serving the food will increase your Friendliness with that hero. Upgrade Friendliness to claim generous rewards!"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "DineWithHeroesRestaurantGem.html"
 toc: true
@@ -37,7 +37,7 @@ sidebar:
 
  **Level EXP: 300**
 
- **Reward:**  **40x** Knowledge Token
+ **Reward:**  **40x** [Knowledge Token](/Items/con_911/)
 
  **Like Talk:** This dish's sauce has an incredible aroma, making it simply irresistible! Let's dig in!
 
@@ -88,7 +88,7 @@ sidebar:
 
  **Level EXP: 1500**
 
- **Reward:**  **800x** Dragonsteel
+ **Reward:**  **800x** [Dragonsteel](/Items/con_880/)
 
  **Like Talk:** The taste of food cooked in a specially made pot is in a class of its own.
 
@@ -139,7 +139,7 @@ sidebar:
 
  **Level EXP: 4100**
 
- **Reward:**  **1000x** Dragon Blood Crystal
+ **Reward:**  **1000x** [Dragon Blood Crystal](/Items/con_879/)
 
  **Like Talk:** This is odd, I'm getting this warm fuzzy feeling while having dinner with you. How strange.
 

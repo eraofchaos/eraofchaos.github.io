@@ -3,11 +3,13 @@ title: "Druid"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature."
 unitID: 208
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Druid"
 toc: true
 ---
+  ![Druid](/images/u/ti_deluyi.jpg)
+
 ## General information
  **Description:** They are elves that inherited the will of nature and are able to protect anyone who fights for the forest with the power of nature.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Archdruid](/images/u/tia_deluyi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

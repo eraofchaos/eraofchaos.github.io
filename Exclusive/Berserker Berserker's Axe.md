@@ -2,7 +2,7 @@
 title: "Exclusive - Berserker's Axe (Berserker)"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Berserker's Axe. Berserker's Axe. Era of Chaos Exclusive Berserker's Axe. Berserker Exclusive."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Berserker Berserker's Axe.md"
 toc: false

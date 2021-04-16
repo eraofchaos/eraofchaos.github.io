@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 The King's Salvation"
 permalink: /Main Story/Chapter 30/
 excerpt: "Chapter 30. Era of Chaos  Main Story - Chapter 30. The King's Salvation"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 30.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **70000x** Unit EXP
+ Reward 4:  **70000x** [Unit EXP](/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** Unit EXP
+ Reward 4:  **100000x** [Unit EXP](/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **12000x** Unit EXP
+ Reward 4:  **12000x** [Unit EXP](/Items/con_902/)
 

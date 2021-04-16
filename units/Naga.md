@@ -3,11 +3,13 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Naga"
 toc: true
 ---
+  ![Naga](/images/u/ti_shenv.jpg)
+
 ## General information
  **Description:** These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Naga Queen](/images/u/ti_najia.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

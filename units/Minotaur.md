@@ -3,11 +3,13 @@ title: "Minotaur"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Minotaur"
 toc: true
 ---
+  ![Minotaur](/images/u/ti_niutouguai.jpg)
+
 ## General information
  **Description:** A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Minotaur King](/images/u/tia_niutouguai.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

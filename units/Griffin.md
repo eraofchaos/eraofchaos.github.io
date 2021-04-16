@@ -3,11 +3,13 @@ title: "Griffin"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath."
 unitID: 103
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Griffin"
 toc: true
 ---
+  ![Griffin](/images/u/ti_shijiu.jpg)
+
 ## General information
  **Description:** Griffins, the symbol of Erathia, dominate the skies of the kingdom. These fierce beasts are loyal and brave and will fight till their last breath.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Royal Griffin](/images/u/tia_shijiu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

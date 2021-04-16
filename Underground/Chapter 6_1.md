@@ -2,7 +2,7 @@
 title: "Underground - Chapter 6 - 6-1 An Infestation of Demons"
 permalink: /Underground/Chapter 6_1/
 excerpt: "Chapter 6 - 1. Era of Chaos  Underground - Chapter 6_1. 6-1 An Infestation of Demons"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 6_1.md"
 toc: false

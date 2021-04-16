@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 Land of Chaos"
 permalink: /Main Story/Chapter 9/
 excerpt: "Chapter 9. Era of Chaos  Main Story - Chapter 9. Land of Chaos"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 9.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** Unit EXP
+ Reward 4:  **2000x** [Unit EXP](/Items/con_902/)
 
 
 
@@ -54,17 +54,17 @@ classes: wide
 
  Reward 3:  **30000x** <i class="fas fa-coins"/>
 
- Reward 4:  **3000x** Unit EXP
+ Reward 4:  **3000x** [Unit EXP](/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_504
+ Reward 1:  **1x** [Demon](/units/Demon/)
 
  Reward 2: **15 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** Unit EXP
+ Reward 4:  **5000x** [Unit EXP](/Items/con_902/)
 

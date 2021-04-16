@@ -2,7 +2,7 @@
 title: "Core of Water Elemental"
 permalink: /equipment/Core of Water Elemental/
 excerpt: "Era of Chaos Core of Water Elemental. Core of Water Elemental"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Core of Water Elemental.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Dragon Turtle's Tail"
 permalink: /equipment/Dragon Turtle's Tail/
 excerpt: "Era of Chaos Dragon Turtle's Tail. Dragon Turtle's Tail"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Dragon Turtle's Tail.md"
 toc: false

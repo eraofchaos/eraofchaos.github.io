@@ -2,7 +2,7 @@
 title: "Misty Mane"
 permalink: /equipment/Misty Mane/
 excerpt: "Era of Chaos Misty Mane. Misty Mane"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Misty Mane.md"
 toc: false

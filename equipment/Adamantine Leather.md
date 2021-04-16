@@ -2,7 +2,7 @@
 title: "Adamantine Leather"
 permalink: /equipment/Adamantine Leather/
 excerpt: "Era of Chaos Adamantine Leather. Adamantine Leather"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Adamantine Leather.md"
 toc: false

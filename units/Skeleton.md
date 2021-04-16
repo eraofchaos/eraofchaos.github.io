@@ -3,11 +3,13 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Skeleton"
 toc: true
 ---
+  ![Skeleton](/images/u/ti_kulouzhanshi.jpg)
+
 ## General information
  **Description:** These fragile bones may seem useless but they quickly lower the morale of their enemies.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Skeleton Warrior](/images/u/tia_kulouzhanshi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

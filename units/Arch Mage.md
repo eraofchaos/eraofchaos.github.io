@@ -3,11 +3,13 @@ title: "Arch Mage"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage."
 unitID: 604
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Arch Mage"
 toc: true
 ---
+  ![Arch Mage](/images/u/ti_dafashi.jpg)
+
 ## General information
  **Description:** Mage is a title only given to the most powerful spellcasters. Their presence in battle gives their side great magical advantage.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Arch Mage](/images/u/tia_dafashi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

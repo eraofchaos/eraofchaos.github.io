@@ -3,11 +3,13 @@ title: "Lizardman"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at."
 unitID: 802
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Lizardman"
 toc: true
 ---
+  ![Lizardman](/images/u/ti_xiyiren.jpg)
+
 ## General information
  **Description:** The deadly hunters lurking in the dark. Their envenomed arrows are strong enough to take down any prey they aim at.
 
@@ -177,6 +179,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

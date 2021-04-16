@@ -3,11 +3,13 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Unicorn"
 toc: true
 ---
+  ![Unicorn](/images/u/ti_dujiaoshou.jpg)
+
 ## General information
  **Description:** The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![War Unicorn](/images/u/tia_dujiaoshou.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

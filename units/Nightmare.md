@@ -3,11 +3,13 @@ title: "Nightmare"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss."
 unitID: 508
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Nightmare"
 toc: true
 ---
+  ![Nightmare](/images/u/ti_mengyanshou.jpg)
+
 ## General information
  **Description:** Nightmare will show you the power of inferno. Such nightmares will never be gone. He will weaken enemies until they are laid to rest in the abyss.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Nightmare King](/images/u/tia_mengyanshou.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

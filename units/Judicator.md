@@ -3,11 +3,13 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Judicator"
 toc: true
 ---
+  ![Judicator](/images/u/ti_shenpanguan.jpg)
+
 ## General information
  **Description:** Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_shengqishi.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

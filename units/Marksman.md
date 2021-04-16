@@ -3,11 +3,13 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Marksman"
 toc: true
 ---
+  ![Marksman](/images/u/ti_nushou.jpg)
+
 ## General information
  **Description:** Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Master Archer](/images/u/tia_nushou.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

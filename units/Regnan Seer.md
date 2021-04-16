@@ -3,13 +3,15 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Units. Units. Era of Chaos As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Regnan Seer"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Regnan Seer](/images/u/ti_haihou.jpg)
 
 ## General information
  **Description:** As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout.
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Tidal Elemental](/images/u/tia_shenv.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

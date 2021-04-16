@@ -2,7 +2,7 @@
 title: "Killer Bee"
 permalink: /equipment/Killer Bee/
 excerpt: "Era of Chaos Killer Bee. Killer Bee"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Killer Bee.md"
 toc: false

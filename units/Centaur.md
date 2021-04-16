@@ -3,11 +3,13 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Centaur"
 toc: true
 ---
+  ![Centaur](/images/u/ti_banrenma.jpg)
+
 ## General information
  **Description:** Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Centaur Captain](/images/u/tia_banrenma.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

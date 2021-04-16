@@ -2,7 +2,7 @@
 title: "Artifacts - Mirror of Revenge - Forgotten Hourglass"
 permalink: /artifacts/Forgotten Hourglass/
 excerpt: "Era of Chaos  Mirror of Revenge - Forgotten Hourglass. When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Forgotten Hourglass.md"
 toc: false

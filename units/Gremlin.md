@@ -3,11 +3,13 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Gremlin"
 toc: true
 ---
+  ![Gremlin](/images/u/ti_xiaoyaojing.jpg)
+
 ## General information
  **Description:** Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls.
 
@@ -177,6 +179,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

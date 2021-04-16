@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-9 Hunting the Manticores"
 permalink: /Main Story/Chapter 28_9/
 excerpt: "Chapter 28 - 9. Era of Chaos  Main Story - Chapter 28_9. 28-9 Hunting the Manticores"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 28_9.md"
 toc: false

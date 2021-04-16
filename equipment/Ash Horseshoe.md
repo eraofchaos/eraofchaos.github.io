@@ -2,7 +2,7 @@
 title: "Ash Horseshoe"
 permalink: /equipment/Ash Horseshoe/
 excerpt: "Era of Chaos Ash Horseshoe. Ash Horseshoe"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Ash Horseshoe.md"
 toc: false

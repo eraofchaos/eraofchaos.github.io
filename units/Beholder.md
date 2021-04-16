@@ -3,11 +3,13 @@ title: "Beholder"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Beholder"
 toc: true
 ---
+  ![Beholder](/images/u/ti_xieyan.jpg)
+
 ## General information
  **Description:** These multi-eyed monsters are clever. For them, all the creatures are servants.
 
@@ -169,6 +171,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Evil Eye](/images/u/tia_xieyan.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

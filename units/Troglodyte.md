@@ -3,11 +3,13 @@ title: "Troglodyte"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Units. Units. Era of Chaos A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding."
 unitID: 701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Troglodyte"
 toc: true
 ---
+  ![Troglodyte](/images/u/ti_dongxueren.jpg)
+
 ## General information
  **Description:** A creature that lives in the underground. Although its vision is poor, it can still find its prey with its sharp sense of smell wherever it's hiding.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Dark Troglodyte](/images/u/tia_dongxueren.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

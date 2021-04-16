@@ -3,11 +3,13 @@ title: "Psychic Elemental"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Units. Units. Era of Chaos An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium."
 unitID: 906
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Psychic Elemental"
 toc: true
 ---
+  ![Psychic Elemental](/images/u/ti_jingshenyuansu.jpg)
+
 ## General information
  **Description:** An energy entity created from ideas of the material world. It can attack its enemies' minds. Those who don't have mental toughness will be driven to disorder and delirium.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Magic Elemental](/images/u/tia_jingshenyuansu.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

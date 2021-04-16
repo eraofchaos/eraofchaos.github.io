@@ -3,11 +3,13 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Units. Units. Era of Chaos We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Assassin"
 toc: true
 ---
+  ![Assassin](/images/u/ti_cishazhe.jpg)
+
 ## General information
  **Description:** We work in the dark to serve the light. Nothing is true, everything is permitted.
 
@@ -169,6 +171,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

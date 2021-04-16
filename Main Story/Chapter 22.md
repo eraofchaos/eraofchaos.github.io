@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 22 Crystal Dragon"
 permalink: /Main Story/Chapter 22/
 excerpt: "Chapter 22. Era of Chaos  Main Story - Chapter 22. Crystal Dragon"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "Chapter 22.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** Unit EXP
+ Reward 4:  **5000x** [Unit EXP](/Items/con_902/)
 
 
 
@@ -54,17 +54,17 @@ classes: wide
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** Unit EXP
+ Reward 4:  **8000x** [Unit EXP](/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">To collect your reward:</span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_903
+ Reward 1:  **1x** [Ice Elemental](/units/Ice Elemental/)
 
  Reward 2: **25 x** [Spell Scrolls](/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** Unit EXP
+ Reward 4:  **10000x** [Unit EXP](/Items/con_902/)
 

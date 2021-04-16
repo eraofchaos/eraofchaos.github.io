@@ -3,11 +3,13 @@ title: "Imp"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles."
 unitID: 501
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Imp"
 toc: true
 ---
+  ![Imp](/images/u/ti_xiaoemo.jpg)
+
 ## General information
  **Description:** Imps may only be a low-level demon but they are cunning and violent with fearsome madness in battles.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Familiar](/images/u/tia_xiaoemo.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

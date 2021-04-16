@@ -3,11 +3,13 @@ title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Spartan Warriors"
 toc: true
 ---
+  ![Spartan Warriors](/images/u/ti_sibada.jpg)
+
 ## General information
  **Description:** Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!
 
@@ -167,6 +169,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Details
  **Is it possible right now?** NO
 

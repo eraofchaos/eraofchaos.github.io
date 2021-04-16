@@ -3,11 +3,13 @@ title: "Regnan Pirates"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Units. Units. Era of Chaos They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition."
 unitID: 9901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Regnan Pirates"
 toc: true
 ---
+  ![Regnan Pirates](/images/u/ti_haidao.jpg)
+
 ## General information
  **Description:** They're brutal and crafty. Those ships became wrecks on the deep seabed after encountering their ships on the expedition.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![King of Pirates](/images/u/tia_haidao.jpg)
+
 ### Awaking Details
  **Is it possible right now?** NO
 

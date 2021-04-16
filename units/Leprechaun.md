@@ -3,11 +3,13 @@ title: "Leprechaun"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Units. Units. Era of Chaos With the help of Magic Charms that provide a mysterious shield, Leprechauns who respond to the summons use the Monolith of the World Tree to travel to the cruel and murderous battlefield, where they become the strongest shield of the Nature!"
 unitID: 909
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Leprechaun"
 toc: true
 ---
+  ![Leprechaun](/images/u/ti_conglinyaojing.jpg)
+
 ## General information
  **Description:** With the help of Magic Charms that provide a mysterious shield, Leprechauns who respond to the summons use the Monolith of the World Tree to travel to the cruel and murderous battlefield, where they become the strongest shield of the Nature!
 
@@ -193,6 +195,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Master Leprechaun ](/images/u/tia_conglinyaojing.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

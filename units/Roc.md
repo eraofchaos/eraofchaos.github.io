@@ -3,11 +3,13 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods."
 unitID: 405
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Roc"
 toc: true
 ---
+  ![Roc](/images/u/ti_leiniao.jpg)
+
 ## General information
  **Description:** Roc often appears in stormy nights. They fly alongside the thunderbolts and lightning. Many consider them messengers of the gods.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Thunderbird](/images/u/tia_leiniao.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

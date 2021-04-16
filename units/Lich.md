@@ -3,11 +3,13 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction."
 unitID: 305
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Lich"
 toc: true
 ---
+  ![Lich](/images/u/ti_wuyao.jpg)
+
 ## General information
  **Description:** Liches bodies are withered, twisted and decayed. They loathe all living beings and want nothing more than disease and destruction.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Power Lich](/images/u/tia_wuyao.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

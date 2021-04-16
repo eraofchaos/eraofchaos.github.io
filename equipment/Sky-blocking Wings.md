@@ -2,7 +2,7 @@
 title: "Sky-blocking Wings"
 permalink: /equipment/Sky-blocking Wings/
 excerpt: "Era of Chaos Sky-blocking Wings. Sky-blocking Wings"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Sky-blocking Wings.md"
 toc: false

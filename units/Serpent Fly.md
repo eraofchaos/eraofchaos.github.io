@@ -3,11 +3,13 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Serpent Fly"
 toc: true
 ---
+  ![Serpent Fly](/images/u/ti_longying.jpg)
+
 ## General information
  **Description:** Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring.
 
@@ -192,6 +194,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Dragon Fly](/images/u/tia_longying.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 

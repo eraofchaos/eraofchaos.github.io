@@ -3,11 +3,13 @@ title: "Green Dragon"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible."
 unitID: 207
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: en
 ref: "Green Dragon"
 toc: true
 ---
+  ![Green Dragon](/images/u/ti_lvlong.jpg)
+
 ## General information
  **Description:** Green dragons are the guardians of the forest. Their acid breath and towering bodies make them nearly invincible.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Gold Dragon](/images/u/tia_lvlong.jpg)
+
 ### Awaking Details
  **Is it possible right now?** YES
 
