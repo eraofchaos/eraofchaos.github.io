@@ -2,7 +2,7 @@
 title: "VIP - VIP 7"
 permalink: /VIP/VIP 7/
 excerpt: "Era of Chaos  VIP System. VIP 7"
-last_modified_at: 2021-04-15
+last_modified_at: 2021-04-16
 locale: en
 ref: "VIP 7.md"
 toc: false
@@ -36,13 +36,9 @@ classes: wide
 
  **EXP:** 5000
 
- **cost:** 0 
+ **Arena ranking/Campaigns provides an additional:** 0% arena coins/Allows you to open chest 
 
- **crusadeAdd:** 0 
-
- **crusadeBoxTimes:** 8 
-
- **crusadeTimes:** 1 
+ **Allows you to open chest:** 8 times per day
 
  **currencyAdd:** 0 
 
@@ -54,17 +50,17 @@ classes: wide
 
  **lptsignin2:** 26 
 
- **mfDouble:** 3 
+ **Allows you to claim on Shipyard missions:** 3 times 
 
- **mysteryShopNum:** 8 
+ **Artifact Merchant:** Unlock 8 Artifact slot
 
- **Barracks +:** 2 
+ **Speed up each Barracks :** 2 time(s) per day 
 
  **originalCost:** 12999 
 
- **sectionReset:** 2 
+ **Daily reset Underground:** 2 times
 
- **sweepTimes:** 1 
+ **Allows ten consecutive Level Sweeps** 1 
 
 #### BUY
 
@@ -72,7 +68,7 @@ classes: wide
 
  **Purchase Extra Access to the Arena:** 10 
 
- **Buy Arrow:** 1 
+ **Buy Arrow (Archery Master in the Guild):** 1 times
 
  **Purchase Access to the Duel of Champions:** 1 
 
@@ -106,23 +102,21 @@ classes: wide
 
  **Refresh SkillBook:** 50 
 
- **Refresh SkillBook:** 50 
-
  **Refresh Artifacts:** 3 
 
- **Refresh refreshCityBattle:** 3 
+ **Refresh CityBattle:** 3 
 
- **Refresh refreshCpShop:** 7 
+ **Refresh CpShop:** 7 
 
- **Refresh refreshHerofragShop:** 200 
+ **Refresh HerofragShop:** 200 
 
- **Refresh refreshHonorArena:** 10 
+ **Refresh hHonorArena:** 10 
 
- **Refresh refreshLock:** 2 
+ **Mastery refresh can lock onto 2  of your hero’s attributes.**
 
- **Refresh refreshRuneShop:** 200 
+ **Refresh Emblem Shop:** 200 
 
- **Refresh refreshShopHa:** 12 
+ **Refresh ShopHa:** 12 
 
- **Refresh refreshShopRaceTrail:** 200 
+ **Refresh ShopRaceTrail:** 200 
 
