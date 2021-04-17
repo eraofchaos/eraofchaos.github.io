@@ -2,7 +2,7 @@
 title: "Schedule"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Schedule. Schedule for all near events and shop sales."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-17
 locale: en
 ref: "index.md"
 toc: false
@@ -15,12 +15,12 @@ classes: wide
   |:---|:-------|:----|:----------------|:--------------------------:|:-------:|
   | 1   | 12 Apr | 15 Apr | Campaign celebration | Open elven treasure chests during campaigns receives 20% off |  | 
   | 2   | 14 Apr | 16 Apr | Trial of Courage | Double EXP in the Crypt. |  | 
-  | 3   | 14 Apr | 18 Apr | Emblem Exchange | Exchange Tickets for rare Holy Emblems during this event! | [Path of an Assassin](/Emblem/Path of an Assassin/), [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/), [Tarnum's Culpability](/Emblem/Tarnum's Culpability/), [Darkness Enlightenment](/Emblem/Darkness Enlightenment/), [Anger](/Emblem/Anger/),  | 
+  | 3   | 14 Apr | 18 Apr | Emblem Exchange | Exchange Tickets for rare Holy Emblems during this event! |  **1x** [Path of an Assassin](/Emblem/Path of an Assassin/),  **1x** [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/),  [Tarnum's Culpability](/Emblem/Tarnum's Culpability/),  [Darkness Enlightenment](/Emblem/Darkness Enlightenment/),  [Anger](/Emblem/Anger/),  | 
   | 4   | 14 Apr | 18 Apr | Exclusive Redemption | You can consume Void Mithril to exchange for exclusive unit weapon during the event! | [Nether Sabre Token](/Items/con_979/), [Naga Sword Token](/Items/con_987/), [Scorpion Tail Token](/Items/con_992/),  | 
   | 5   | 14 Apr | 18 Apr | Limited Time Recruitment | Get the most popular SSR units through the Limited Time Recruitment event. | [Leprechaun](/Items/unt_270/),  | 
   | 6   | 14 Apr | 18 Apr | Limited Time Soul Stone | Get the most popular SSR Unit Soul Stones through the Limited Time Soul Stone Recruitment event. | [Master Leprechaun Soul Stone](/Items/unt_349/),  | 
   | 7   | 14 Apr | 18 Apr | Login Reward | You can win exciting rewards by logging in every day during the event! | [Leprechaun](/Items/unt_270/), [Conflux Roster runes](/Items/con_791/), [Huge EXP potion](/Items/con_703/),  | 
-  | 8   | 14 Apr | 18 Apr | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | [Ice Demon](/Items/unt_269/),  AVATAR_FRAME_1091,  | 
+  | 8   | 14 Apr | 18 Apr | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | [Ice Demon](/Items/unt_269/),  [Deep Ice Crystal](/Avatars/Deep Ice Crystal/),  | 
   | 9   | 14 Apr | 18 Apr | Single Purchase | Select a reward after meeting the purchase requirements. | [Void Mithril](/Items/con_817/), [Holy Emblem Redemption Ticket](/Items/con_513/), [Elite Hero Pack](/Items/con_1883/), [Premium Artifact Component Chest](/Items/con_1874/),  | 
   | 10   | 15 Apr | 19 Apr | Master of Exploration | Explore the Guild map for exciting rewards! | [Arcane Chant Token](/Items/con_915/), [Rare Material Chest](/Items/con_757/), [Basic Material Chest](/Items/con_756/),  | 
   | 11   | 16 Apr | 18 Apr | Seafaring celebration | Shortens Voyage mission time by 25% |  | 
@@ -31,7 +31,7 @@ classes: wide
   | 16   | 19 Apr | 22 Apr | Novice Duel | The new Duel of Champions begins! Push yourself beyond your limits and win incredible rewards! | [Gold Key](/Items/con_783/), [Ancient Temple Scroll](/Items/con_697/), [Iris Shield Token](/Items/con_913/),  | 
   | 17   | 21 Apr | 23 Apr | Dragon Utopia x2 | Double the skill runestones from Dragon Utopia. |  | 
   | 18   | 21 Apr | 25 Apr | Elite Challenge | Challenge yourself in Elite Levels during the event to win exciting prizes. | [Knight Pike Token](/Items/con_916/), [Purple Crystal](/Items/con_720/), [Huge EXP potion](/Items/con_703/),  | 
-  | 19   | 21 Apr | 25 Apr | Emblem Exchange | Exchange Tickets for rare Holy Emblems during this event! | [Path of an Assassin](/Emblem/Path of an Assassin/), [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/), [Tarnum's Culpability](/Emblem/Tarnum's Culpability/), [Darkness Enlightenment](/Emblem/Darkness Enlightenment/), [Anger](/Emblem/Anger/),  | 
+  | 19   | 21 Apr | 25 Apr | Emblem Exchange | Exchange Tickets for rare Holy Emblems during this event! |  **1x** [Path of an Assassin](/Emblem/Path of an Assassin/),  **1x** [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/),  [Tarnum's Culpability](/Emblem/Tarnum's Culpability/),  [Darkness Enlightenment](/Emblem/Darkness Enlightenment/),  [Anger](/Emblem/Anger/),  | 
   | 20   | 21 Apr | 25 Apr | Exclusive Redemption | You can consume Void Mithril to exchange for exclusive unit weapon during the event! | [Nether Sabre Token](/Items/con_979/), [Naga Sword Token](/Items/con_987/), [Scorpion Tail Token](/Items/con_992/),  | 
   | 21   | 21 Apr | 25 Apr | Life Celebration | Daily Underground challenges +1 |  | 
   | 22   | 21 Apr | 25 Apr | Lucky Snatch | Popular Holy Emblems are here. Come test your luck! |  | 
@@ -44,11 +44,11 @@ classes: wide
   | 29   | 26 Apr | 28 Apr | Recruitment Fest | The primary production of an SR aptitude unit +3 |  | 
   | 30   | 26 Apr | 28 Apr | Training celebration | Barracks R aptitude unit initial production +5 |  | 
   | 31   | 26 Apr | 29 Apr | Campaign celebration | Open elven treasure chests during campaigns receives 20% off |  | 
-  | 32   | 28 Apr | 2 May | Emblem Exchange | Exchange Tickets for rare Holy Emblems during this event! | [Path of an Assassin](/Emblem/Path of an Assassin/), [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/), [Tarnum's Culpability](/Emblem/Tarnum's Culpability/), [Darkness Enlightenment](/Emblem/Darkness Enlightenment/), [Anger](/Emblem/Anger/),  | 
+  | 32   | 28 Apr | 2 May | Emblem Exchange | Exchange Tickets for rare Holy Emblems during this event! |  **1x** [Path of an Assassin](/Emblem/Path of an Assassin/),  **1x** [Sanctuary of Kosmos](/Emblem/Sanctuary of Kosmos/),  [Tarnum's Culpability](/Emblem/Tarnum's Culpability/),  [Darkness Enlightenment](/Emblem/Darkness Enlightenment/),  [Anger](/Emblem/Anger/),  | 
   | 33   | 28 Apr | 2 May | Exclusive Redemption | You can consume Void Mithril to exchange for exclusive unit weapon during the event! | [Nether Sabre Token](/Items/con_979/), [Naga Sword Token](/Items/con_987/), [Scorpion Tail Token](/Items/con_992/),  | 
   | 34   | 28 Apr | 2 May | Limited-Time Covenant | Super popular Commander units are available for a limited time and they await your summon! | [Regnan Seer](/Items/unt_279/),  | 
   | 35   | 28 Apr | 2 May | Login Reward | You can win exciting rewards by logging in every day during the event! | [Cove Faction Chest](/Items/con_1278/), [Cove Roster runes](/Items/con_868/), [Huge EXP potion](/Items/con_703/),  | 
-  | 36   | 28 Apr | 2 May | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | [Regnan Seer](/Items/unt_279/),  AVATAR_FRAME_1082,  | 
+  | 36   | 28 Apr | 2 May | Recruitment Reward | You can win extra rewards by collecting and recruiting designated units during the event! | [Regnan Seer](/Items/unt_279/),  [Power of Poseidon](/Avatars/Power of Poseidon/),  | 
   | 37   | 28 Apr | 2 May | Single Purchase | Select a reward after meeting the purchase requirements. | [Void Mithril](/Items/con_817/), [Holy Emblem Redemption Ticket](/Items/con_513/), [Elite Hero Pack](/Items/con_1883/), [Premium Artifact Component Chest](/Items/con_1874/),  | 
   | 38   | 28 Apr | 30 Apr | Gold Rush | Double the gold gained from Dwarven Treasury. |  | 
   | 39   | 29 Apr | 3 May | Master of Exploration | Explore the Guild map for exciting rewards! | [Long Bow Token](/Items/con_914/), [Rare Material Chest](/Items/con_757/), [Basic Material Chest](/Items/con_756/),  | 
