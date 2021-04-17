@@ -1,0 +1,20 @@
+---
+title: "Avatar - Warm Christmas"
+permalink: /Avatars/Warm Christmas/
+excerpt: "Era of Chaos  Warm Christmas"
+last_modified_at: 2021-04-17
+locale: en
+ref: "Warm Christmas.md"
+toc: false
+classes: wide
+---
+ ![Warm Christmas](/images/a/avatarFrame_47.png)
+
+## Details
+
+ **Tips:** Obtained from Christmas Pack 
+
+ **Extra Tips:** Warm X'mas Avatar Frame 
+
+ **Is available:**  + 
+

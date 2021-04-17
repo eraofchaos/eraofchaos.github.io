@@ -1,0 +1,20 @@
+---
+title: "Avatar - Vines of Fortune"
+permalink: /Avatars/Vines of Fortune/
+excerpt: "Era of Chaos  Vines of Fortune"
+last_modified_at: 2021-04-17
+locale: en
+ref: "Vines of Fortune.md"
+toc: false
+classes: wide
+---
+ ![Vines of Fortune](/images/a/avatarFrame_92.png)
+
+## Details
+
+ **Tips:** Obtained through event participation 
+
+ **Extra Tips:** Vines of Fortune Avatar Frame 
+
+ **Is available:**  + 
+

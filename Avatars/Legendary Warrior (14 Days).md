@@ -1,0 +1,20 @@
+---
+title: "Avatar - Legendary Warrior (14 Days)"
+permalink: /Avatars/Legendary Warrior (14 Days)/
+excerpt: "Era of Chaos  Legendary Warrior (14 Days)"
+last_modified_at: 2021-04-17
+locale: en
+ref: "Legendary Warrior (14 Days).md"
+toc: false
+classes: wide
+---
+ ![Legendary Warrior (14 Days)](/images/a/avatarFrame_61.png)
+
+## Details
+
+ **Tips:** Obtained by getting 3rd place in the cross-server Clash of Gods 
+
+ **Extra Tips:** Legendary Warrior Avatar Frame 
+
+ **Is available:**  + 
+

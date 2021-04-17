@@ -1,0 +1,20 @@
+---
+title: "Avatar - Castle"
+permalink: /Avatars/Castle/
+excerpt: "Era of Chaos  Castle"
+last_modified_at: 2021-04-17
+locale: en
+ref: "Castle.md"
+toc: false
+classes: wide
+---
+ ![Castle](/images/a/avatarFrame_11.png)
+
+## Details
+
+ **Tips:** Town Reward 
+
+ **Extra Tips:** Castle avatar frame 
+
+ **Is available:**  - 
+

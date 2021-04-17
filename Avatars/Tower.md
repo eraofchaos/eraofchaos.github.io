@@ -1,0 +1,20 @@
+---
+title: "Avatar - Tower"
+permalink: /Avatars/Tower/
+excerpt: "Era of Chaos  Tower"
+last_modified_at: 2021-04-17
+locale: en
+ref: "Tower.md"
+toc: false
+classes: wide
+---
+ ![Tower](/images/a/avatarFrame_5.png)
+
+## Details
+
+ **Tips:** Faction Reward 
+
+ **Extra Tips:** Tower avatar frame 
+
+ **Is available:**  - 
+

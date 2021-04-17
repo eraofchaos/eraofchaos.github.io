@@ -1,0 +1,20 @@
+---
+title: "Avatar - Fortress"
+permalink: /Avatars/Fortress/
+excerpt: "Era of Chaos  Fortress"
+last_modified_at: 2021-04-17
+locale: en
+ref: "Fortress.md"
+toc: false
+classes: wide
+---
+ ![Fortress](/images/a/avatarFrame_46.png)
+
+## Details
+
+ **Tips:** Faction Reward 
+
+ **Extra Tips:** Beast Trainer Faction Avatar Frame 
+
+ **Is available:**  - 
+

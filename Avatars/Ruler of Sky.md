@@ -1,0 +1,20 @@
+---
+title: "Avatar - Ruler of Sky"
+permalink: /Avatars/Ruler of Sky/
+excerpt: "Era of Chaos  Ruler of Sky"
+last_modified_at: 2021-04-17
+locale: en
+ref: "Ruler of Sky.md"
+toc: false
+classes: wide
+---
+ ![Ruler of Sky](/images/a/avatarFrame_41.png)
+
+## Details
+
+ **Tips:** Air Conflux Plane 25F Clearance Reward 
+
+ **Extra Tips:** Ruler of Sky Avatar Frame 
+
+ **Is available:**  + 
+

@@ -1,0 +1,20 @@
+---
+title: "Avatar - Lord of War"
+permalink: /Avatars/Lord of War/
+excerpt: "Era of Chaos  Lord of War"
+last_modified_at: 2021-04-17
+locale: en
+ref: "Lord of War.md"
+toc: false
+classes: wide
+---
+ ![Lord of War](/images/a/avatarFrame_9.png)
+
+## Details
+
+ **Tips:** Available in the Duel of Heroes shop 
+
+ **Extra Tips:** Battle Lord avatar frame 
+
+ **Is available:**  + 
+

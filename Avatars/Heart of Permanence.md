@@ -1,0 +1,20 @@
+---
+title: "Avatar - Heart of Permanence"
+permalink: /Avatars/Heart of Permanence/
+excerpt: "Era of Chaos  Heart of Permanence"
+last_modified_at: 2021-04-17
+locale: en
+ref: "Heart of Permanence.md"
+toc: false
+classes: wide
+---
+ ![Heart of Permanence](/images/a/avatarFrame_54.png)
+
+## Details
+
+ **Tips:** Obtained through event participation 
+
+ **Extra Tips:** Heart of Permanence Avatar Frame 
+
+ **Is available:**  - 
+
