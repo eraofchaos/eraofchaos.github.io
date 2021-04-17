@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Semi-annual Celebration Exclusive Avatar Frame 
 
- **Extra Tips:** Semi-annual Celebration Exclusive Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Acquired in the Cove Attack event. 
+ **Description:** Fame on the High Seas Avatar Frame 
 
- **Extra Tips:** Fame on the High Seas Avatar Frame 
+ **Tips:** Acquired in the Cove Attack event. 
 
  **Is available:**  + 
 

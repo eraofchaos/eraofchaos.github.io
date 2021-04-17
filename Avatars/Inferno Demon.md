@@ -10,9 +10,9 @@ classes: wide
 ---
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Inferno Demon Avatar Frame 
 
- **Extra Tips:** Inferno Demon Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

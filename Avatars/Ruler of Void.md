@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Chaos Conflux Plane 25F Clearance Reward 
+ **Description:** Ruler of Void Avatar Frame 
 
- **Extra Tips:** Ruler of Void Avatar Frame 
+ **Tips:** Chaos Conflux Plane 25F Clearance Reward 
 
  **Is available:**  + 
 

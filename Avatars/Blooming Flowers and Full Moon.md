@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Blooming Flowers and Full Moon Avatar Frame 
 
- **Extra Tips:** Blooming Flowers and Full Moon Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Town Reward 
+ **Description:** Castle avatar frame 
 
- **Extra Tips:** Castle avatar frame 
+ **Tips:** Town Reward 
 
  **Is available:**  - 
 

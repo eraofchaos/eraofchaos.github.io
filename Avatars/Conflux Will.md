@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation. 
+ **Description:** Conflux Will Avatar Frame 
 
- **Extra Tips:** Conflux Will Avatar Frame 
+ **Tips:** Obtained through event participation. 
 
  **Is available:**  + 
 

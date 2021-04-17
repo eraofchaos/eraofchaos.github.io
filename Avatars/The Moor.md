@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Calamity of the Moor Avatar Frame 
 
- **Extra Tips:** Calamity of the Moor Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

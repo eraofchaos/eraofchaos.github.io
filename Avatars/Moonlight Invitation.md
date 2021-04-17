@@ -10,9 +10,9 @@ classes: wide
 ---
 ## Details
 
- **Tips:** Obtained through event participation. 
+ **Description:** Moonlight Invitation Avatar Frame 
 
- **Extra Tips:** Moonlight Invitation Avatar Frame 
+ **Tips:** Obtained through event participation. 
 
  **Is available:**  + 
 

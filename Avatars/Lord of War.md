@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Available in the Duel of Heroes shop 
+ **Description:** Battle Lord avatar frame 
 
- **Extra Tips:** Battle Lord avatar frame 
+ **Tips:** Available in the Duel of Heroes shop 
 
  **Is available:**  + 
 

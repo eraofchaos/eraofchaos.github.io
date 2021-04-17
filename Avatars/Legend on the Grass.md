@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Legend on the Grass Avatar Frame 
 
- **Extra Tips:** Legend on the Grass Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Thunder Rage Avatar Frame 
 
- **Extra Tips:** Thunder Rage Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

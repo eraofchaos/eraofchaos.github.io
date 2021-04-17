@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Soul of Earth Avatar Frame 
 
- **Extra Tips:** Soul of Earth Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

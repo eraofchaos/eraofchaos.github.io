@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Available after achieving Legend grade in the Duel of Champions 
+ **Description:** High-Level Competitor avatar frame 
 
- **Extra Tips:** High-Level Competitor avatar frame 
+ **Tips:** Available after achieving Legend grade in the Duel of Champions 
 
  **Is available:**  + 
 

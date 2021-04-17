@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Community Coordinator Reward 
+ **Description:**  
 
- **Extra Tips:**  
+ **Tips:** Community Coordinator Reward 
 
  **Is available:**  + 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Earth Conflux Plane 25F Clearance Reward 
+ **Description:** Ruler of Earth Avatar Frame 
 
- **Extra Tips:** Ruler of Earth Avatar Frame 
+ **Tips:** Earth Conflux Plane 25F Clearance Reward 
 
  **Is available:**  + 
 

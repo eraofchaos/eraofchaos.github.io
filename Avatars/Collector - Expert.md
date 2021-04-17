@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Collector - Expert 
+ **Description:** Holy Emblem Trial Exclusive Avatar Frame 
 
- **Extra Tips:** Holy Emblem Trial Exclusive Avatar Frame 
+ **Tips:** Collector - Expert 
 
  **Is available:**  + 
 

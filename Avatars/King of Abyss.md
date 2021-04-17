@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** King of Abyss Avatar Frame 
 
- **Extra Tips:** King of Abyss Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

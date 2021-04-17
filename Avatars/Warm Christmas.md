@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained from Christmas Pack 
+ **Description:** Warm X'mas Avatar Frame 
 
- **Extra Tips:** Warm X'mas Avatar Frame 
+ **Tips:** Obtained from Christmas Pack 
 
  **Is available:**  + 
 

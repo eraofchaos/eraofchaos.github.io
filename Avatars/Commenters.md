@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Made available by participating in comments 
+ **Description:**  
 
- **Extra Tips:**  
+ **Tips:** Made available by participating in comments 
 
  **Is available:**  + 
 

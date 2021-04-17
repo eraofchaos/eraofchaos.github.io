@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Mighty Gorgon Avatar Frame 
 
- **Extra Tips:** Mighty Gorgon Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

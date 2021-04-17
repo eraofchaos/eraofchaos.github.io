@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Available after achieving King grade in the Duel of Champions 
+ **Description:** Competitor avatar frame 
 
- **Extra Tips:** Competitor avatar frame 
+ **Tips:** Available after achieving King grade in the Duel of Champions 
 
  **Is available:**  + 
 

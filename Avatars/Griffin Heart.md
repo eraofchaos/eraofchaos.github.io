@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Elite player can acquire it by booking 
+ **Description:** Griffin Heart avatar frame 
 
- **Extra Tips:** Griffin Heart avatar frame 
+ **Tips:** Elite player can acquire it by booking 
 
  **Is available:**  + 
 

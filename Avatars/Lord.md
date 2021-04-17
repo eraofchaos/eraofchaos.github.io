@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Primary Avatar Frame 
+ **Description:** Lord avatar frame 
 
- **Extra Tips:** Lord avatar frame 
+ **Tips:** Primary Avatar Frame 
 
  **Is available:**  + 
 

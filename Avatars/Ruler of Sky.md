@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Air Conflux Plane 25F Clearance Reward 
+ **Description:** Ruler of Sky Avatar Frame 
 
- **Extra Tips:** Ruler of Sky Avatar Frame 
+ **Tips:** Air Conflux Plane 25F Clearance Reward 
 
  **Is available:**  + 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Faction Reward 
+ **Description:** Inferno avatar frame 
 
- **Extra Tips:** Inferno avatar frame 
+ **Tips:** Faction Reward 
 
  **Is available:**  - 
 

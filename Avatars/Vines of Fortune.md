@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Vines of Fortune Avatar Frame 
 
- **Extra Tips:** Vines of Fortune Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

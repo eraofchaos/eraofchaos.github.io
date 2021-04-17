@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Faction Reward 
+ **Description:** Tower avatar frame 
 
- **Extra Tips:** Tower avatar frame 
+ **Tips:** Faction Reward 
 
  **Is available:**  - 
 

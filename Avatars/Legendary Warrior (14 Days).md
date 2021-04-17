@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained by getting 3rd place in the cross-server Clash of Gods 
+ **Description:** Legendary Warrior Avatar Frame 
 
- **Extra Tips:** Legendary Warrior Avatar Frame 
+ **Tips:** Obtained by getting 3rd place in the cross-server Clash of Gods 
 
  **Is available:**  + 
 

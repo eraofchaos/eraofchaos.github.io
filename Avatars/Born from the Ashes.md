@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through the Glory Arena 
+ **Description:** Born from the Ashes Avatar Frame 
 
- **Extra Tips:** Born from the Ashes Avatar Frame 
+ **Tips:** Obtained through the Glory Arena 
 
  **Is available:**  + 
 

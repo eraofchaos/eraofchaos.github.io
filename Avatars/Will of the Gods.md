@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Will of the Gods Avatar Frame 
 
- **Extra Tips:** Will of the Gods Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

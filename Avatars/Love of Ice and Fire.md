@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Love of Ice and Fire avatar frame 
 
- **Extra Tips:** Love of Ice and Fire avatar frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

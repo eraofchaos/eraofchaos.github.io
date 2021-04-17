@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Acquired in the Cove Attack event. 
+ **Description:** Global Expedition Avatar Frame 
 
- **Extra Tips:** Global Expedition Avatar Frame 
+ **Tips:** Acquired in the Cove Attack event. 
 
  **Is available:**  + 
 

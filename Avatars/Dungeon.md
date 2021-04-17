@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Faction Reward 
+ **Description:** Dungeon Faction Avatar Frame 
 
- **Extra Tips:** Dungeon Faction Avatar Frame 
+ **Tips:** Faction Reward 
 
  **Is available:**  - 
 

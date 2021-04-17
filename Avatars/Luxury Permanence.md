@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained from VIP 15 Pack 
+ **Description:** Luxury Permanence Avatar Frame 
 
- **Extra Tips:** Luxury Permanence Avatar Frame 
+ **Tips:** Obtained from VIP 15 Pack 
 
  **Is available:**  + 
 

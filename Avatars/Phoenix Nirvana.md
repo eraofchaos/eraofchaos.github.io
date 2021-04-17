@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** May be available in a firebird gift pack 
+ **Description:** Phoenix God avatar frame 
 
- **Extra Tips:** Phoenix God avatar frame 
+ **Tips:** May be available in a firebird gift pack 
 
  **Is available:**  + 
 

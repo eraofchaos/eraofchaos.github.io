@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Trial of Angels 19F Clearance Reward 
+ **Description:** Heaven Messenger Avatar Frame 
 
- **Extra Tips:** Heaven Messenger Avatar Frame 
+ **Tips:** Trial of Angels 19F Clearance Reward 
 
  **Is available:**  + 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained by getting 2nd place in the cross-server Clash of Gods 
+ **Description:** Favor of the Gods Avatar Frame 
 
- **Extra Tips:** Favor of the Gods Avatar Frame 
+ **Tips:** Obtained by getting 2nd place in the cross-server Clash of Gods 
 
  **Is available:**  + 
 

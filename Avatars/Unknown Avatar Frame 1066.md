@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:**  
 
- **Extra Tips:**  
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

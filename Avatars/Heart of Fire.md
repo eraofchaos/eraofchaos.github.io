@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained in the Fire discount gift pack 
+ **Description:** Heart of Fire avatar frame 
 
- **Extra Tips:** Heart of Fire avatar frame 
+ **Tips:** Obtained in the Fire discount gift pack 
 
  **Is available:**  + 
 

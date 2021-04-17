@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Faction Reward 
+ **Description:** Conflux faction Avatar Frame 
 
- **Extra Tips:** Conflux faction Avatar Frame 
+ **Tips:** Faction Reward 
 
  **Is available:**  - 
 

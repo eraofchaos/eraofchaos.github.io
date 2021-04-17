@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** The Anniversary Celebration Avatar Frame 
 
- **Extra Tips:** The Anniversary Celebration Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

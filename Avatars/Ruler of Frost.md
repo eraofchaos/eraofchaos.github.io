@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Water Conflux Plane 25F Clearance Reward 
+ **Description:** Ruler of Frost Avatar Frame 
 
- **Extra Tips:** Ruler of Frost Avatar Frame 
+ **Tips:** Water Conflux Plane 25F Clearance Reward 
 
  **Is available:**  + 
 

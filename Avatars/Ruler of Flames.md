@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Fire Conflux Plane 25F Clearance Reward 
+ **Description:** Ruler of Flames Avatar Frame 
 
- **Extra Tips:** Ruler of Flames Avatar Frame 
+ **Tips:** Fire Conflux Plane 25F Clearance Reward 
 
  **Is available:**  + 
 

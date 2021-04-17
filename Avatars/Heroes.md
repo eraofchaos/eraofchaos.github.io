@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Hero King Avatar Frame 
 
- **Extra Tips:** Hero King Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Town Reward 
+ **Description:** Necropolis avatar frame 
 
- **Extra Tips:** Necropolis avatar frame 
+ **Tips:** Town Reward 
 
  **Is available:**  - 
 

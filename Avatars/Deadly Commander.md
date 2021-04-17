@@ -10,9 +10,9 @@ classes: wide
 ---
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Deadly Commander avatar frame 
 
- **Extra Tips:** Deadly Commander avatar frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

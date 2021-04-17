@@ -10,9 +10,9 @@ classes: wide
 ---
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** All Goes as You Wish Avatar Frame 
 
- **Extra Tips:** All Goes as You Wish Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

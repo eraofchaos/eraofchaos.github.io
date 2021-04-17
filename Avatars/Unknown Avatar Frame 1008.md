@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:**  
+ **Description:**  
 
- **Extra Tips:**  
+ **Tips:**  
 
  **Is available:**  - 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Greedy Heart Avatar Frame 
 
- **Extra Tips:** Greedy Heart Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

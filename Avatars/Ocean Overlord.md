@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Acquired in the Cove Attack event. 
+ **Description:** Ocean Overlord Avatar Frame 
 
- **Extra Tips:** Ocean Overlord Avatar Frame 
+ **Tips:** Acquired in the Cove Attack event. 
 
  **Is available:**  + 
 

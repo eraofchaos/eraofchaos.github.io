@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Lord of Heaven avatar frame 
 
- **Extra Tips:** Lord of Heaven avatar frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

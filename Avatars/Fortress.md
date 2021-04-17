@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Faction Reward 
+ **Description:** Beast Trainer Faction Avatar Frame 
 
- **Extra Tips:** Beast Trainer Faction Avatar Frame 
+ **Tips:** Faction Reward 
 
  **Is available:**  - 
 

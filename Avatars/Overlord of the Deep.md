@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Overlord of the Deep Avatar Frame 
 
- **Extra Tips:** Overlord of the Deep Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

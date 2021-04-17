@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained by challenging the cross-server Guild War on the experience server 
+ **Description:** At War Avatar Frame 
 
- **Extra Tips:** At War Avatar Frame 
+ **Tips:** Obtained by challenging the cross-server Guild War on the experience server 
 
  **Is available:**  - 
 

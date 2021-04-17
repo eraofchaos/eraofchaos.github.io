@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Darkness Dominance Avatar Frame 
 
- **Extra Tips:** Darkness Dominance Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

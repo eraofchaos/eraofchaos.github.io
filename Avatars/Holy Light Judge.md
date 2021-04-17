@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Holy Light Judge Avatar Frame 
 
- **Extra Tips:** Holy Light Judge Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

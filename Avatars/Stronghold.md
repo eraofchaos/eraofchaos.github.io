@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Faction Reward 
+ **Description:** Stronghold avatar frame 
 
- **Extra Tips:** Stronghold avatar frame 
+ **Tips:** Faction Reward 
 
  **Is available:**  - 
 

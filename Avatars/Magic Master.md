@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained from the Spell Training Event 
+ **Description:** Magic Master Avatar Frame 
 
- **Extra Tips:** Magic Master Avatar Frame 
+ **Tips:** Obtained from the Spell Training Event 
 
  **Is available:**  + 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through the Glory Arena 
+ **Description:** Monolith Omen Avatar Frame 
 
- **Extra Tips:** Monolith Omen Avatar Frame 
+ **Tips:** Obtained through the Glory Arena 
 
  **Is available:**  - 
 

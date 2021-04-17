@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Deep Ice Crystal Avatar Frame 
 
- **Extra Tips:** Deep Ice Crystal Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Available in Duel of Heroes 
+ **Description:** Master Magician avatar frame 
 
- **Extra Tips:** Master Magician avatar frame 
+ **Tips:** Available in Duel of Heroes 
 
  **Is available:**  + 
 

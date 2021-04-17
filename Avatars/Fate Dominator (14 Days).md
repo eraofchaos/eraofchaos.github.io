@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained by becoming the champion in the cross-server Clash of Gods 
+ **Description:** Fate Dominator Avatar Frame 
 
- **Extra Tips:** Fate Dominator Avatar Frame 
+ **Tips:** Obtained by becoming the champion in the cross-server Clash of Gods 
 
  **Is available:**  - 
 

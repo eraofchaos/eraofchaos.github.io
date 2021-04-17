@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Collector - Advanced 
+ **Description:** Collector - Advanced 
 
- **Extra Tips:** Collector - Advanced 
+ **Tips:** Collector - Advanced 
 
  **Is available:**  + 
 

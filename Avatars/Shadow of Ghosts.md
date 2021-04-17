@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through the Glory Arena 
+ **Description:** Shadow of Ghosts Avatar Frame 
 
- **Extra Tips:** Shadow of Ghosts Avatar Frame 
+ **Tips:** Obtained through the Glory Arena 
 
  **Is available:**  - 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Acquired in the Cove Attack event. 
+ **Description:** Lord of the Sea Avatar Frame 
 
- **Extra Tips:** Lord of the Sea Avatar Frame 
+ **Tips:** Acquired in the Cove Attack event. 
 
  **Is available:**  + 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Shadow of Beast Avatar Frame 
 
- **Extra Tips:** Shadow of Beast Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation. 
+ **Description:** Patroller of the Sea Avatar Frame 
 
- **Extra Tips:** Patroller of the Sea Avatar Frame 
+ **Tips:** Obtained through event participation. 
 
  **Is available:**  + 
 

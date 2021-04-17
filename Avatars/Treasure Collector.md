@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Available in the second week of the carnival 
+ **Description:** Treasure Collector avatar frame 
 
- **Extra Tips:** Treasure Collector avatar frame 
+ **Tips:** Available in the second week of the carnival 
 
  **Is available:**  + 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through the Glory Arena 
+ **Description:** Everlasting Flame Avatar Frame 
 
- **Extra Tips:** Everlasting Flame Avatar Frame 
+ **Tips:** Obtained through the Glory Arena 
 
  **Is available:**  - 
 

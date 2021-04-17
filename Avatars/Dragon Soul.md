@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Dragon Soul Avatar Frame 
 
- **Extra Tips:** Dragon Soul Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

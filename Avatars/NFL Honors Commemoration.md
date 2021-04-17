@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** NFL Honors Commemoration Avatar Frame 
 
- **Extra Tips:** NFL Honors Commemoration Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

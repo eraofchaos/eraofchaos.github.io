@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Heart of Permanence Avatar Frame 
 
- **Extra Tips:** Heart of Permanence Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

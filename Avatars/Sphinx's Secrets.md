@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through participation in Riddle of the Sphinx. 
+ **Description:** Riddle of the Sphinx Avatar Frame 
 
- **Extra Tips:** Riddle of the Sphinx Avatar Frame 
+ **Tips:** Obtained through participation in Riddle of the Sphinx. 
 
  **Is available:**  + 
 

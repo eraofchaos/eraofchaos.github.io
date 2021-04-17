@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation. 
+ **Description:** Wild Overlord Avatar Frame 
 
- **Extra Tips:** Wild Overlord Avatar Frame 
+ **Tips:** Obtained through event participation. 
 
  **Is available:**  + 
 

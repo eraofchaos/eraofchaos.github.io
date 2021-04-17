@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Town Reward 
+ **Description:** Rampart avatar frame 
 
- **Extra Tips:** Rampart avatar frame 
+ **Tips:** Town Reward 
 
  **Is available:**  - 
 

@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Starry Lovers' Bridge avatar frame 
 
- **Extra Tips:** Starry Lovers' Bridge avatar frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

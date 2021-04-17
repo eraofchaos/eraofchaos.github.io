@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained in the Celebrity Challenge event at the training grounds. 
+ **Description:** Tactical Commander avatar frame 
 
- **Extra Tips:** Tactical Commander avatar frame 
+ **Tips:** Obtained in the Celebrity Challenge event at the training grounds. 
 
  **Is available:**  + 
 

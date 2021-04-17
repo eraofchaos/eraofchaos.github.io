@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Power of Poseidon Avatar Frame 
 
- **Extra Tips:** Power of Poseidon Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

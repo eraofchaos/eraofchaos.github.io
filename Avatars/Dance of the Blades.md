@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Dance of the Blades avatar frame 
 
- **Extra Tips:** Dance of the Blades avatar frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 

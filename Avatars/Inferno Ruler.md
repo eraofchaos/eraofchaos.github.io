@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained by becoming the champion in Endless Inferno after the everyday calculation 
+ **Description:** Inferno Ruler Avatar Frame 
 
- **Extra Tips:** Inferno Ruler Avatar Frame 
+ **Tips:** Obtained by becoming the champion in Endless Inferno after the everyday calculation 
 
  **Is available:**  + 
 

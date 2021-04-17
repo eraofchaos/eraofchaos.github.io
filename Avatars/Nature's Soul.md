@@ -10,9 +10,9 @@ classes: wide
 ---
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Nature's Soul Avatar Frame 
 
- **Extra Tips:** Nature's Soul Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  - 
 

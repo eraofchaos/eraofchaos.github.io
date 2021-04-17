@@ -12,9 +12,9 @@ classes: wide
 
 ## Details
 
- **Tips:** Obtained through event participation 
+ **Description:** Righteous Justice Avatar Frame 
 
- **Extra Tips:** Righteous Justice Avatar Frame 
+ **Tips:** Obtained through event participation 
 
  **Is available:**  + 
 
