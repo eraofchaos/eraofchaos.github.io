@@ -2,7 +2,7 @@
 title: "Faction Altar for Stronghold"
 permalink: /FactionAltar/DROP_103/
 excerpt: "Era of Chaos  Faction Altar for Stronghold. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "DROP_103.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Stronghold Limited Edition Pack](/Items/con_2103/)
+  **Drop by Luck (10x spin): 30x** [Stronghold Limited Edition Pack](/Items/con_2140/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Stronghold Limited Edition Pack](/Items/con_2103/) |
-  | 2 | **12%** | **2x** | [Stronghold Limited Edition Pack](/Items/con_2103/) |
-  | 3 | **12%** | **3x** | [Stronghold Limited Edition Pack](/Items/con_2103/) |
+  | 1 | **25%** | **1x** | [Stronghold Limited Edition Pack](/Items/con_2140/) |
+  | 2 | **12%** | **2x** | [Stronghold Limited Edition Pack](/Items/con_2140/) |
+  | 3 | **12%** | **3x** | [Stronghold Limited Edition Pack](/Items/con_2140/) |
   | 4 | **12%** | **5x** |  **22%** [Ogre](/Items/unt_220/),  **22%** [Orc](/Items/unt_219/),  **6%** [Roc](/Items/unt_221/),  **22%** [Cyclops](/Items/unt_222/),  **6%** [Ogre Mage Soul Stone](/Items/unt_308/),  **6%** [Thunderbird Soul Stone](/Items/unt_309/),  **13%** [Cyclops King Soul Stone](/Items/unt_310/),  |
   | 5 | **12%** | **3x** |  **22%** [Ogre](/Items/unt_220/),  **22%** [Orc](/Items/unt_219/),  **6%** [Roc](/Items/unt_221/),  **22%** [Cyclops](/Items/unt_222/),  **6%** [Ogre Mage Soul Stone](/Items/unt_308/),  **6%** [Thunderbird Soul Stone](/Items/unt_309/),  **13%** [Cyclops King Soul Stone](/Items/unt_310/),  |
   | 6 | **12%** | **5x** |  **25%** [Goblin](/Items/unt_217/),  **25%** [Wolf Rider](/Items/unt_218/),  **25%** [Hobgoblin Soul Stone](/Items/unt_305/),  **25%** [Wolf Raider Soul Stone](/Items/unt_306/),  |
@@ -37,7 +37,7 @@ classes: wide
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Stronghold Limited Edition Pack](/Items/con_2103/) |
+  | 1 | **55%** | **1x** | [Stronghold Limited Edition Pack](/Items/con_2140/) |
   | 2 | **11%** | **5x** |  **22%** [Ogre](/Items/unt_220/),  **22%** [Orc](/Items/unt_219/),  **6%** [Roc](/Items/unt_221/),  **22%** [Cyclops](/Items/unt_222/),  **6%** [Ogre Mage Soul Stone](/Items/unt_308/),  **6%** [Thunderbird Soul Stone](/Items/unt_309/),  **13%** [Cyclops King Soul Stone](/Items/unt_310/),  |
   | 3 | **11%** | **3x** |  **22%** [Ogre](/Items/unt_220/),  **22%** [Orc](/Items/unt_219/),  **6%** [Roc](/Items/unt_221/),  **22%** [Cyclops](/Items/unt_222/),  **6%** [Ogre Mage Soul Stone](/Items/unt_308/),  **6%** [Thunderbird Soul Stone](/Items/unt_309/),  **13%** [Cyclops King Soul Stone](/Items/unt_310/),  |
   | 4 | **11%** | **5x** |  **25%** [Goblin](/Items/unt_217/),  **25%** [Wolf Rider](/Items/unt_218/),  **25%** [Hobgoblin Soul Stone](/Items/unt_305/),  **25%** [Wolf Raider Soul Stone](/Items/unt_306/),  |
@@ -45,11 +45,11 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Stronghold Limited Edition Pack](/Items/con_2103/)
+  **Drop by 10x spin: X** [Stronghold Limited Edition Pack](/Items/con_2140/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Hobgoblin Soul Stone](/Items/unt_305/), [Wolf Raider Soul Stone](/Items/unt_306/), [Orc Commander Soul Stone](/Items/unt_307/), [Ogre Mage Soul Stone](/Items/unt_308/), [Thunderbird Soul Stone](/Items/unt_309/), [Cyclops King Soul Stone](/Items/unt_310/), [Ancient Behemoth Soul Stone](/Items/unt_311/) | [Goblin](/Items/unt_217/), [Wolf Rider](/Items/unt_218/), [Orc](/Items/unt_219/), [Ogre](/Items/unt_220/), [Roc](/Items/unt_221/), [Cyclops](/Items/unt_222/), [Behemoth](/Items/unt_223/), [Berserker](/Items/unt_224/) |
+  | [Hobgoblin Soul Stone](/Items/unt_305/), [Wolf Raider Soul Stone](/Items/unt_306/), [Orc Commander Soul Stone](/Items/unt_307/), [Ogre Mage Soul Stone](/Items/unt_308/), [Thunderbird Soul Stone](/Items/unt_309/), [Cyclops King Soul Stone](/Items/unt_310/), [Ancient Behemoth Soul Stone](/Items/unt_311/), [Death Howler Soul Stone](/Items/unt_312/) | [Goblin](/Items/unt_217/), [Wolf Rider](/Items/unt_218/), [Orc](/Items/unt_219/), [Ogre](/Items/unt_220/), [Roc](/Items/unt_221/), [Cyclops](/Items/unt_222/), [Behemoth](/Items/unt_223/), [Berserker](/Items/unt_224/) |
 
 
 

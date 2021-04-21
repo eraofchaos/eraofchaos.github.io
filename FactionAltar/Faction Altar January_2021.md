@@ -2,7 +2,7 @@
 title: "Era of Chaos  Faction Altar for January 2021"
 permalink: /FactionAltar/Faction Altar January_2021/
 excerpt: "Era of Chaos  Faction Altar for January 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Faction Altar January_2021.md"
 toc: false
@@ -23,10 +23,10 @@ classes: wide
 
   |    Date    |  Race  |  Details  |   Drop Souls   | Drop Units |
   |:-----------|:-------|:---------:|:--------------:|:----------:|
-  | 4 - 11 Jan | **Castle** | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [Halberdier Soul Stone](/Items/unt_282/), [Master Archer Soul Stone](/Items/unt_283/), [Crusader Soul Stone](/Items/unt_285/), [Zealot Soul Stone](/Items/unt_286/), [Champions Knight's Soul Stone](/Items/unt_287/), [Archangel Soul Stone](/Items/unt_288/) | [Pikeman](/Items/unt_190/), [Marksman](/Items/unt_191/), [Griffin](/Items/unt_192/), [Swordsman](/Items/unt_193/), [Monk](/Items/unt_194/), [Cavalier ](/Items/unt_195/), [Angel](/Items/unt_196/), [Paladin](/Items/unt_197/) | 
-  | 11 - 18 Jan | **Inferno** | [Faction Altar Drop Details](/FactionAltar/DROP_105/) | [Familiar Soul Stone](/Items/unt_313/), [Magog Soul Stone](/Items/unt_314/), [Pit Lord Soul Stone](/Items/unt_316/), [Efreet Sultan Soul Stone](/Items/unt_317/), [Arch Devil Soul Stone](/Items/unt_318/) | [Imp](/Items/unt_226/), [Gog](/Items/unt_227/), [Hell Hound](/Items/unt_228/), [Demon](/Items/unt_229/), [Pit Fiend](/Items/unt_230/), [Efreeti](/Items/unt_231/), [Devil](/Items/unt_232/) | 
-  | 18 - 25 Jan | **Fortress** | [Faction Altar Drop Details](/FactionAltar/DROP_108/) | [Chaos Hydra Soul Stone](/Items/unt_341/) | [Gnoll](/Items/unt_253/), [Lizardman](/Items/unt_254/), [Serpent Fly](/Items/unt_255/), [Gorgon](/Items/unt_257/), [Hydra](/Items/unt_259/) | 
-  | 25 Jan - 1 Feb | **Necropolis** | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [Skeleton Warrior Soul Stone](/Items/unt_297/), [Zombie Soul Stone](/Items/unt_298/), [Vampire Lord Soul Stone](/Items/unt_300/), [Ghost Dragon Soul Stone](/Items/unt_303/) | [Skeleton](/Items/unt_208/), [Walking Dead](/Items/unt_209/), [Wight](/Items/unt_210/), [Vampire](/Items/unt_211/), [Bone Dragon](/Items/unt_214/) | 
+  | 4 - 11 Jan | **Castle** | [Faction Altar Drop Details](/FactionAltar/DROP_101/) | [Halberdier Soul Stone](/Items/unt_282/), [Master Archer Soul Stone](/Items/unt_283/), [Saintly Griffin Soul Stone](/Items/unt_284/), [Crusader Soul Stone](/Items/unt_285/), [Zealot Soul Stone](/Items/unt_286/), [Champions Knight's Soul Stone](/Items/unt_287/), [Archangel Soul Stone](/Items/unt_288/), [Supreme Paladin Soul Stone](/Items/unt_289/) | [Pikeman](/Items/unt_190/), [Marksman](/Items/unt_191/), [Griffin](/Items/unt_192/), [Swordsman](/Items/unt_193/), [Monk](/Items/unt_194/), [Cavalier ](/Items/unt_195/), [Angel](/Items/unt_196/), [Paladin](/Items/unt_197/) | 
+  | 11 - 18 Jan | **Inferno** | [Faction Altar Drop Details](/FactionAltar/DROP_105/) | [Familiar Soul Stone](/Items/unt_313/), [Magog Soul Stone](/Items/unt_314/), [Pit Lord Soul Stone](/Items/unt_316/), [Efreet Sultan Soul Stone](/Items/unt_317/), [Arch Devil Soul Stone](/Items/unt_318/), [Inferno Guard Soul Stone](/Items/unt_315/) | [Imp](/Items/unt_226/), [Gog](/Items/unt_227/), [Hell Hound](/Items/unt_228/), [Demon](/Items/unt_229/), [Pit Fiend](/Items/unt_230/), [Efreeti](/Items/unt_231/), [Devil](/Items/unt_232/) | 
+  | 18 - 25 Jan | **Fortress** | [Faction Altar Drop Details](/FactionAltar/DROP_108/) | [Gnoll Warrior Soul Stone](/Items/unt_336/), [Pestilential Serpent Fly Soul Stone](/Items/unt_337/), [Mighty Gorgon Soul Stone](/Items/unt_339/), [Chaos Hydra Soul Stone](/Items/unt_341/) | [Gnoll](/Items/unt_253/), [Lizardman](/Items/unt_254/), [Serpent Fly](/Items/unt_255/), [Gorgon](/Items/unt_257/), [Hydra](/Items/unt_259/) | 
+  | 25 Jan - 1 Feb | **Necropolis** | [Faction Altar Drop Details](/FactionAltar/DROP_104/) | [Skeleton Warrior Soul Stone](/Items/unt_297/), [Zombie Soul Stone](/Items/unt_298/), [Wraith Soul Stone](/Items/unt_299/), [Vampire Lord Soul Stone](/Items/unt_300/), [Ghost Dragon Soul Stone](/Items/unt_303/), [Dread Knight's Soul Stone](/Items/unt_302/) | [Skeleton](/Items/unt_208/), [Walking Dead](/Items/unt_209/), [Wight](/Items/unt_210/), [Vampire](/Items/unt_211/), [Bone Dragon](/Items/unt_214/), [Black Knight](/Items/unt_213/) | 
 
 
 

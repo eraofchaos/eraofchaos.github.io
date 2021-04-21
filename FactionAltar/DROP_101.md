@@ -2,7 +2,7 @@
 title: "Faction Altar for Castle"
 permalink: /FactionAltar/DROP_101/
 excerpt: "Era of Chaos  Faction Altar for Castle. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "DROP_101.md"
 toc: false
@@ -19,17 +19,17 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Castle Limited Edition Pack](/Items/con_2100/)
+  **Drop by Luck (10x spin): 30x** [Castle Limited Edition Pack](/Items/con_2139/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Castle Limited Edition Pack](/Items/con_2100/) |
-  | 2 | **12%** | **2x** | [Castle Limited Edition Pack](/Items/con_2100/) |
-  | 3 | **12%** | **3x** | [Castle Limited Edition Pack](/Items/con_2100/) |
-  | 4 | **12%** | **5x** |  **20%** [Griffin](/Items/unt_192/),  **6%** [Swordsman](/Items/unt_193/),  **20%** [Monk](/Items/unt_194/),  **20%** [Cavalier ](/Items/unt_195/),  **6%** [Crusader Soul Stone](/Items/unt_285/),  **20%** [Champions Knight's Soul Stone](/Items/unt_287/),  **6%** [Zealot Soul Stone](/Items/unt_286/),  |
-  | 5 | **12%** | **3x** |  **20%** [Griffin](/Items/unt_192/),  **6%** [Swordsman](/Items/unt_193/),  **20%** [Monk](/Items/unt_194/),  **20%** [Cavalier ](/Items/unt_195/),  **6%** [Crusader Soul Stone](/Items/unt_285/),  **20%** [Champions Knight's Soul Stone](/Items/unt_287/),  **6%** [Zealot Soul Stone](/Items/unt_286/),  |
+  | 1 | **25%** | **1x** | [Castle Limited Edition Pack](/Items/con_2139/) |
+  | 2 | **12%** | **2x** | [Castle Limited Edition Pack](/Items/con_2139/) |
+  | 3 | **12%** | **3x** | [Castle Limited Edition Pack](/Items/con_2139/) |
+  | 4 | **12%** | **5x** |  **19%** [Griffin](/Items/unt_192/),  **5%** [Swordsman](/Items/unt_193/),  **19%** [Monk](/Items/unt_194/),  **19%** [Cavalier ](/Items/unt_195/),  **5%** [Crusader Soul Stone](/Items/unt_285/),  **19%** [Champions Knight's Soul Stone](/Items/unt_287/),  **5%** [Zealot Soul Stone](/Items/unt_286/),  **5%** [Saintly Griffin Soul Stone](/Items/unt_284/),  |
+  | 5 | **12%** | **3x** |  **19%** [Griffin](/Items/unt_192/),  **5%** [Swordsman](/Items/unt_193/),  **19%** [Monk](/Items/unt_194/),  **19%** [Cavalier ](/Items/unt_195/),  **5%** [Crusader Soul Stone](/Items/unt_285/),  **19%** [Champions Knight's Soul Stone](/Items/unt_287/),  **5%** [Zealot Soul Stone](/Items/unt_286/),  **5%** [Saintly Griffin Soul Stone](/Items/unt_284/),  |
   | 6 | **12%** | **5x** |  **25%** [Pikeman](/Items/unt_190/),  **25%** [Marksman](/Items/unt_191/),  **25%** [Halberdier Soul Stone](/Items/unt_282/),  **25%** [Master Archer Soul Stone](/Items/unt_283/),  |
 
 
@@ -37,19 +37,19 @@ classes: wide
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Castle Limited Edition Pack](/Items/con_2100/) |
-  | 2 | **11%** | **5x** |  **20%** [Griffin](/Items/unt_192/),  **6%** [Swordsman](/Items/unt_193/),  **20%** [Monk](/Items/unt_194/),  **20%** [Cavalier ](/Items/unt_195/),  **6%** [Crusader Soul Stone](/Items/unt_285/),  **20%** [Champions Knight's Soul Stone](/Items/unt_287/),  **6%** [Zealot Soul Stone](/Items/unt_286/),  |
-  | 3 | **11%** | **3x** |  **20%** [Griffin](/Items/unt_192/),  **6%** [Swordsman](/Items/unt_193/),  **20%** [Monk](/Items/unt_194/),  **20%** [Cavalier ](/Items/unt_195/),  **6%** [Crusader Soul Stone](/Items/unt_285/),  **20%** [Champions Knight's Soul Stone](/Items/unt_287/),  **6%** [Zealot Soul Stone](/Items/unt_286/),  |
+  | 1 | **55%** | **1x** | [Castle Limited Edition Pack](/Items/con_2139/) |
+  | 2 | **11%** | **5x** |  **19%** [Griffin](/Items/unt_192/),  **5%** [Swordsman](/Items/unt_193/),  **19%** [Monk](/Items/unt_194/),  **19%** [Cavalier ](/Items/unt_195/),  **5%** [Crusader Soul Stone](/Items/unt_285/),  **19%** [Champions Knight's Soul Stone](/Items/unt_287/),  **5%** [Zealot Soul Stone](/Items/unt_286/),  **5%** [Saintly Griffin Soul Stone](/Items/unt_284/),  |
+  | 3 | **11%** | **3x** |  **19%** [Griffin](/Items/unt_192/),  **5%** [Swordsman](/Items/unt_193/),  **19%** [Monk](/Items/unt_194/),  **19%** [Cavalier ](/Items/unt_195/),  **5%** [Crusader Soul Stone](/Items/unt_285/),  **19%** [Champions Knight's Soul Stone](/Items/unt_287/),  **5%** [Zealot Soul Stone](/Items/unt_286/),  **5%** [Saintly Griffin Soul Stone](/Items/unt_284/),  |
   | 4 | **11%** | **5x** |  **25%** [Pikeman](/Items/unt_190/),  **25%** [Marksman](/Items/unt_191/),  **25%** [Halberdier Soul Stone](/Items/unt_282/),  **25%** [Master Archer Soul Stone](/Items/unt_283/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Castle Limited Edition Pack](/Items/con_2100/)
+  **Drop by 10x spin: X** [Castle Limited Edition Pack](/Items/con_2139/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Halberdier Soul Stone](/Items/unt_282/), [Master Archer Soul Stone](/Items/unt_283/), [Crusader Soul Stone](/Items/unt_285/), [Zealot Soul Stone](/Items/unt_286/), [Champions Knight's Soul Stone](/Items/unt_287/), [Archangel Soul Stone](/Items/unt_288/) | [Pikeman](/Items/unt_190/), [Marksman](/Items/unt_191/), [Griffin](/Items/unt_192/), [Swordsman](/Items/unt_193/), [Monk](/Items/unt_194/), [Cavalier ](/Items/unt_195/), [Angel](/Items/unt_196/), [Paladin](/Items/unt_197/) |
+  | [Halberdier Soul Stone](/Items/unt_282/), [Master Archer Soul Stone](/Items/unt_283/), [Saintly Griffin Soul Stone](/Items/unt_284/), [Crusader Soul Stone](/Items/unt_285/), [Zealot Soul Stone](/Items/unt_286/), [Champions Knight's Soul Stone](/Items/unt_287/), [Archangel Soul Stone](/Items/unt_288/), [Supreme Paladin Soul Stone](/Items/unt_289/) | [Pikeman](/Items/unt_190/), [Marksman](/Items/unt_191/), [Griffin](/Items/unt_192/), [Swordsman](/Items/unt_193/), [Monk](/Items/unt_194/), [Cavalier ](/Items/unt_195/), [Angel](/Items/unt_196/), [Paladin](/Items/unt_197/) |
 
 
 

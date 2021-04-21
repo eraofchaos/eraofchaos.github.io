@@ -2,7 +2,7 @@
 title: "Faction Altar for Necropolis"
 permalink: /FactionAltar/DROP_104/
 excerpt: "Era of Chaos  Faction Altar for Necropolis. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "DROP_104.md"
 toc: false
@@ -19,17 +19,17 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Necropolis Limited Edition Pack](/Items/con_2102/)
+  **Drop by Luck (10x spin): 30x** [Necropolis Limited Edition Pack](/Items/con_2138/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Necropolis Limited Edition Pack](/Items/con_2102/) |
-  | 2 | **12%** | **2x** | [Necropolis Limited Edition Pack](/Items/con_2102/) |
-  | 3 | **12%** | **3x** | [Necropolis Limited Edition Pack](/Items/con_2102/) |
-  | 4 | **12%** | **5x** |  **18%** [Wight](/Items/unt_210/),  **62%** [Vampire](/Items/unt_211/),  **18%** [Vampire Lord Soul Stone](/Items/unt_300/),  |
-  | 5 | **12%** | **3x** |  **18%** [Wight](/Items/unt_210/),  **62%** [Vampire](/Items/unt_211/),  **18%** [Vampire Lord Soul Stone](/Items/unt_300/),  |
+  | 1 | **25%** | **1x** | [Necropolis Limited Edition Pack](/Items/con_2138/) |
+  | 2 | **12%** | **2x** | [Necropolis Limited Edition Pack](/Items/con_2138/) |
+  | 3 | **12%** | **3x** | [Necropolis Limited Edition Pack](/Items/con_2138/) |
+  | 4 | **12%** | **5x** |  **15%** [Wight](/Items/unt_210/),  **52%** [Vampire](/Items/unt_211/),  **15%** [Vampire Lord Soul Stone](/Items/unt_300/),  **15%** [Wraith Soul Stone](/Items/unt_299/),  |
+  | 5 | **12%** | **3x** |  **15%** [Wight](/Items/unt_210/),  **52%** [Vampire](/Items/unt_211/),  **15%** [Vampire Lord Soul Stone](/Items/unt_300/),  **15%** [Wraith Soul Stone](/Items/unt_299/),  |
   | 6 | **12%** | **5x** |  **25%** [Skeleton](/Items/unt_208/),  **25%** [Walking Dead](/Items/unt_209/),  **25%** [Skeleton Warrior Soul Stone](/Items/unt_297/),  **25%** [Zombie Soul Stone](/Items/unt_298/),  |
 
 
@@ -37,19 +37,19 @@ classes: wide
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Necropolis Limited Edition Pack](/Items/con_2102/) |
-  | 2 | **11%** | **5x** |  **18%** [Wight](/Items/unt_210/),  **62%** [Vampire](/Items/unt_211/),  **18%** [Vampire Lord Soul Stone](/Items/unt_300/),  |
-  | 3 | **11%** | **3x** |  **18%** [Wight](/Items/unt_210/),  **62%** [Vampire](/Items/unt_211/),  **18%** [Vampire Lord Soul Stone](/Items/unt_300/),  |
+  | 1 | **55%** | **1x** | [Necropolis Limited Edition Pack](/Items/con_2138/) |
+  | 2 | **11%** | **5x** |  **15%** [Wight](/Items/unt_210/),  **52%** [Vampire](/Items/unt_211/),  **15%** [Vampire Lord Soul Stone](/Items/unt_300/),  **15%** [Wraith Soul Stone](/Items/unt_299/),  |
+  | 3 | **11%** | **3x** |  **15%** [Wight](/Items/unt_210/),  **52%** [Vampire](/Items/unt_211/),  **15%** [Vampire Lord Soul Stone](/Items/unt_300/),  **15%** [Wraith Soul Stone](/Items/unt_299/),  |
   | 4 | **11%** | **5x** |  **25%** [Skeleton](/Items/unt_208/),  **25%** [Walking Dead](/Items/unt_209/),  **25%** [Skeleton Warrior Soul Stone](/Items/unt_297/),  **25%** [Zombie Soul Stone](/Items/unt_298/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Necropolis Limited Edition Pack](/Items/con_2102/)
+  **Drop by 10x spin: X** [Necropolis Limited Edition Pack](/Items/con_2138/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Skeleton Warrior Soul Stone](/Items/unt_297/), [Zombie Soul Stone](/Items/unt_298/), [Vampire Lord Soul Stone](/Items/unt_300/), [Ghost Dragon Soul Stone](/Items/unt_303/) | [Skeleton](/Items/unt_208/), [Walking Dead](/Items/unt_209/), [Wight](/Items/unt_210/), [Vampire](/Items/unt_211/), [Bone Dragon](/Items/unt_214/) |
+  | [Skeleton Warrior Soul Stone](/Items/unt_297/), [Zombie Soul Stone](/Items/unt_298/), [Wraith Soul Stone](/Items/unt_299/), [Vampire Lord Soul Stone](/Items/unt_300/), [Ghost Dragon Soul Stone](/Items/unt_303/), [Dread Knight's Soul Stone](/Items/unt_302/) | [Skeleton](/Items/unt_208/), [Walking Dead](/Items/unt_209/), [Wight](/Items/unt_210/), [Vampire](/Items/unt_211/), [Bone Dragon](/Items/unt_214/), [Black Knight](/Items/unt_213/) |
 
 
 

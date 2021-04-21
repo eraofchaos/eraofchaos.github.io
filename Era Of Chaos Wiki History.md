@@ -13,6 +13,21 @@ sidebar:
 
 ### Era Of Chaos - Wiki update History
 
+{% capture notice-update20210411 %}
+* New info for <i class="fas fa-door-open"/> [Underground](/Underground/)
+  * <i class="fas fa-door-open"/> [Untergrund](/de/Underground/)
+  * <i class="fas fa-door-open"/> [Souterrain](/fr/Underground/)
+  * <i class="fas fa-door-open"/> [Подземелье](/ru/Underground/)
+  * <i class="fas fa-door-open"/> [Sottosuolo](/it/Underground/)
+  * <i class="fas fa-door-open"/> [Subterráneo](/es/Underground/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">11 April 2021 Update:</h4>
+  {{ notice-update20210411 | markdownify }}
+</div>
+
 
 {% capture notice-update20210331 %}
 * New Items in the update:

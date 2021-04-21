@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Ogre"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Name:** [Iris Shield](/Exclusive/Ogre Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 
@@ -121,7 +121,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When an Ogre is on the battlefield, healing of all friendly units increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Faction Special Skill I : Fight Zealot
- **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold unit knows how to engage in fierce long-term battles. Its ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
 
 ### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">

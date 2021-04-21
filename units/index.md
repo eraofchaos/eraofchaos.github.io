@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "index.md"
 toc: false
@@ -76,7 +76,7 @@ classes: wide
   | 54 | ![Mummy](/images/u/ti_munaiyi.jpg) | [Mummy](/units/Mummy/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Mummy King  |
   | 55 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Naga Queen  |
   | 56 | ![Nightmare](/images/u/ti_mengyanshou.jpg) | [Nightmare](/units/Nightmare/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nightmare King  |
-  | 57 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/units/Ogre/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre Mage  |
+  | 57 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/units/Ogre/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre Mage  |
   | 58 | ![Orc](/images/u/ti_shourentoufushou.jpg) | [Orc](/units/Orc/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  Orc Commander  |
   | 59 | ![Paladin](/images/u/ti_shengqishi.jpg) | [Paladin](/units/Paladin/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Supreme Paladin  |
   | 60 | ![Pegasus](/images/u/ti_feima.jpg) | [Pegasus](/units/Pegasus/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Silver Pegasus  |

@@ -3,7 +3,7 @@ title: "Orc"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Units. Units. Era of Chaos No one knows where Orcs hide their axes and they seem to have endless axes to throw."
 unitID: 403
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Orc"
 toc: true
@@ -122,7 +122,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Orc's HP increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. 2% of HP will be restored for every Crit Hit.</span><span style="color: black">
 
 ### Faction Special Skill I : Fight Zealot
- **Description:** <span style="color: #645252;font-size:20px">Stronghold units know how to engage in fierce long-term battles. Their ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Stronghold unit knows how to engage in fierce long-term battles. Its ATK speed will be increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for every 15% of HP lost</span><span style="color: black">
 
 ### Faction Special Skill II : Rise of Vitality
  **Description:** <span style="color: #645252;font-size:20px">Stronghold units understand battlefield healing well, increasing their HP regeneration (restore </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> HP every 3s) and receiving </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> life drain</span><span style="color: black">

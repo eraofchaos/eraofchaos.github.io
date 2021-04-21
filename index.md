@@ -11,6 +11,44 @@ sidebar:
 ---
 
 
+
+
+
+{% capture notice-update20210420 %}
+* New Hero ![Nymus](/images/h/h_Nymus.jpg) [Nymus](https://eraofchaos.github.io/heroes/Nymus/) and [Adjutant Nymus](https://eraofchaos.github.io/heroes/Adjutant Nymus/)
+
+* Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April)
+
+* New Items:
+  * [Dragon Golem Avatar](/Items/con_2136/)
+  * [Necropolis Limited Edition Pack](/Items/con_2138/)
+  * [Stronghold Limited Edition Pack](/Items/con_2140/)
+  * [Castle Limited Edition Pack](/Items/con_2139/)
+  * [Fortress Limited Edition Pack](/Items/con_2142/)
+  * [Elemental Limited Edition Pack](/Items/con_2141/)
+  * [Tool_907602](/Items/con_2137/)
+  * [Tool_10046](/Items/con_2135/)
+
+* New items:
+  * [Gold Key Pack A](https://eraofchaos.github.io/Items/con_2132/)
+  * [Hero Nymus](https://eraofchaos.github.io/Items/her_2131/)
+
+* Changed drop in [HotSpot for Spells](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
+
+* Wiki updated to latest game state. 
+* You can post your comments on Wiki (in Heroes/Emblems/Posts/...). 
+* You can Share pages in Social networks.
+* Added images for [Heroes](/heroes/) and [Holy Emblem](/Emblem/)
+* Added <i class="fas fa-crown"/> [VIP System](/VIP/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">20 April 2021 Update: Client version 151 (3423)</h4>
+  {{ notice-update20210420 | markdownify }}
+</div>
+
+
 {% capture notice-update20210414 %}
 * New Hero ![Nymus](/images/h/h_Nymus.jpg) [Nymus](https://eraofchaos.github.io/heroes/Nymus/) and [Adjutant Nymus](https://eraofchaos.github.io/heroes/Adjutant Nymus/)
 
@@ -43,26 +81,6 @@ sidebar:
   <h4 class="no_toc">14 April 2021 Update: Client version 149 (3390/3391)</h4>
   {{ notice-update20210414 | markdownify }}
 </div>
-
-
-{% capture notice-update20210411 %}
-* New info for <i class="fas fa-door-open"/> [Underground](/Underground/)
-  * <i class="fas fa-door-open"/> [Untergrund](/de/Underground/)
-  * <i class="fas fa-door-open"/> [Souterrain](/fr/Underground/)
-  * <i class="fas fa-door-open"/> [Подземелье](/ru/Underground/)
-  * <i class="fas fa-door-open"/> [Sottosuolo](/it/Underground/)
-  * <i class="fas fa-door-open"/> [Subterráneo](/es/Underground/)
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">11 April 2021 Update:</h4>
-  {{ notice-update20210411 | markdownify }}
-</div>
-
-
-
-
 
 
 

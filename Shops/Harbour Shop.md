@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "index.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 |  **12x** [Fervor](/Items/con_954/)(An item used to challenge bosses in the Cove Attack event.) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** [Wings of Triumph: Catherine](/Items/con_1032/)(Use to get Catherine's Wings of Triumph skin) |  **2500x** [Shekel](/Items/con_950/)  | **1** |
   | 3 |  **10x** [Peter Lee](/Items/her_397/)(Collect 30 tokens to summon PeterLee to join your party. Tokens are also required to increase his rank.) |  **2500x** [Shekel](/Items/con_950/)  | **3** |
-  | 4 |  **10x** [SSR Unit Soul](/Items/con_535/)(Collect 80 of these to get a random SSR aptitude unit (excluding Black Knight, Assassin, and Spartan Warriors).) |  **3800x** [Shekel](/Items/con_950/)  | **4** |
+  | 4 |  **10x** [SSR Unit Soul](/Items/con_535/)(Collect 80 of these to get a random SSR aptitude unit (excluding  Assassin and Spartan Warriors).) |  **3800x** [Shekel](/Items/con_950/)  | **4** |
   | 5 |  **10x** [SR Unit Soul](/Items/con_534/)(Collect 30 to randomly get one of the following 2-star units: Griffin, Swordsman, Monk, Cavalier, Dwarf, Wood Elf, Pegasus, Dendroid Guard, Unicorn, Orc, Ogre, Roc, Cyclops, Wight, Vampire, Hell Hound, Demon, Pit Fiend, Efreeti, Stone Gargoyle, Iron Golem, Mage, Storm Elemental, Ice Elemental,Regnan Pirates, Harpy, Minotaur, or Lizardman.) |  **1000x** [Shekel](/Items/con_950/)  | **3** |
   | 6 |  **1x** [Premium Artifact Component Chest](/Items/con_1740/)(Use to select 1 of the following: 1 Dragon King Component Chest, 1 Frost Component Chest, or 1 Heavenly Component Chest.) |  **13500x** [Shekel](/Items/con_950/)  | **1** |
   | 7 |  **1x** [Premium Artifact Component Pack](/Items/con_1433/)(Use it to select 1 of the following: Hawkeye Component Chest *1 or Titan Component Chest *1) |  **3800x** [Shekel](/Items/con_950/)  | **1** |

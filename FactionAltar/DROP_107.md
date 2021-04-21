@@ -2,7 +2,7 @@
 title: "Faction Altar for Dungeon"
 permalink: /FactionAltar/DROP_107/
 excerpt: "Era of Chaos  Faction Altar for Dungeon. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "DROP_107.md"
 toc: false
@@ -28,8 +28,8 @@ classes: wide
   | 1 | **25%** | **1x** | [Dungeon Limited Edition Pack](/Items/con_2107/) |
   | 2 | **12%** | **2x** | [Dungeon Limited Edition Pack](/Items/con_2107/) |
   | 3 | **12%** | **3x** | [Dungeon Limited Edition Pack](/Items/con_2107/) |
-  | 4 | **12%** | **5x** |  **43%** [Harpy](/Items/unt_245/),  **13%** [Minotaur](/Items/unt_248/),  **43%** [Minotaur King Soul Stone](/Items/unt_332/),  |
-  | 5 | **12%** | **3x** |  **43%** [Harpy](/Items/unt_245/),  **13%** [Minotaur](/Items/unt_248/),  **43%** [Minotaur King Soul Stone](/Items/unt_332/),  |
+  | 4 | **12%** | **5x** |  **30%** [Harpy](/Items/unt_245/),  **9%** [Minotaur](/Items/unt_248/),  **30%** [Minotaur King Soul Stone](/Items/unt_332/),  **30%** [Harpy Hag Soul Stone](/Items/unt_329/),  |
+  | 5 | **12%** | **3x** |  **30%** [Harpy](/Items/unt_245/),  **9%** [Minotaur](/Items/unt_248/),  **30%** [Minotaur King Soul Stone](/Items/unt_332/),  **30%** [Harpy Hag Soul Stone](/Items/unt_329/),  |
   | 6 | **12%** | **5x** |  **50%** [Troglodyte](/Items/unt_244/),  **50%** [Dark Troglodyte Soul Stone](/Items/unt_328/),  |
 
 
@@ -38,8 +38,8 @@ classes: wide
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
   | 1 | **55%** | **1x** | [Dungeon Limited Edition Pack](/Items/con_2107/) |
-  | 2 | **11%** | **5x** |  **43%** [Harpy](/Items/unt_245/),  **13%** [Minotaur](/Items/unt_248/),  **43%** [Minotaur King Soul Stone](/Items/unt_332/),  |
-  | 3 | **11%** | **3x** |  **43%** [Harpy](/Items/unt_245/),  **13%** [Minotaur](/Items/unt_248/),  **43%** [Minotaur King Soul Stone](/Items/unt_332/),  |
+  | 2 | **11%** | **5x** |  **30%** [Harpy](/Items/unt_245/),  **9%** [Minotaur](/Items/unt_248/),  **30%** [Minotaur King Soul Stone](/Items/unt_332/),  **30%** [Harpy Hag Soul Stone](/Items/unt_329/),  |
+  | 3 | **11%** | **3x** |  **30%** [Harpy](/Items/unt_245/),  **9%** [Minotaur](/Items/unt_248/),  **30%** [Minotaur King Soul Stone](/Items/unt_332/),  **30%** [Harpy Hag Soul Stone](/Items/unt_329/),  |
   | 4 | **11%** | **5x** |  **50%** [Troglodyte](/Items/unt_244/),  **50%** [Dark Troglodyte Soul Stone](/Items/unt_328/),  |
 
 
@@ -49,7 +49,7 @@ classes: wide
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Dark Troglodyte Soul Stone](/Items/unt_328/), [Minotaur King Soul Stone](/Items/unt_332/), [Black Dragon King Soul Stone](/Items/unt_334/) | [Troglodyte](/Items/unt_244/), [Harpy](/Items/unt_245/), [Minotaur](/Items/unt_248/), [Black Dragon](/Items/unt_250/), [Red Dragon](/Items/unt_251/) |
+  | [Dark Troglodyte Soul Stone](/Items/unt_328/), [Minotaur King Soul Stone](/Items/unt_332/), [Black Dragon King Soul Stone](/Items/unt_334/), [Harpy Hag Soul Stone](/Items/unt_329/) | [Troglodyte](/Items/unt_244/), [Harpy](/Items/unt_245/), [Minotaur](/Items/unt_248/), [Black Dragon](/Items/unt_250/), [Red Dragon](/Items/unt_251/) |
 
 
 

@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Ogre Exclusive."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Ogre Iris Shield.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Charge
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
@@ -34,8 +34,8 @@ classes: wide
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_913/) | When the Ogre rampages, it increases unit's damage for all friendly units by 10% |
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | When the Ogre is deployed, it increases all friendly Stronghold units' ATK speed by 10%. Increases its own DEF by 10% |
   | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_913/) | Ogre's tenacity increased by 500 |
-  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | When the Ogre is deployed, it decreases DEF of all hostile units by 10% at the cost of 100% Magic resistance |
-  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | For each Defensive unit deployed, increases Ogre DEF by 5%. For each Stronghold unit deployed, increases Ogre HP by 1000 |
+  | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | When the Ogre is deployed, it decreases DEF of all hostile units by 10% at the cost of Ogre's own Magic resistance for 100%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | For each Defensive unit deployed, increases Ogre DEF by 5%. For each Stronghold unit deployed, increases Ogre's HP regeneration by 1000. |
 
 
 ## Level Up
