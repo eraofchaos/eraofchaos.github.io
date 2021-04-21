@@ -15,9 +15,8 @@ sidebar:
 
 
 {% capture notice-update20210420 %}
-* New Hero ![Nymus](/images/h/h_Nymus.jpg) [Nymus](https://eraofchaos.github.io/heroes/Nymus/) and [Adjutant Nymus](https://eraofchaos.github.io/heroes/Adjutant Nymus/)
 
-* Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April)
+* Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April), after it we are expecting - [Dragon Golem](https://eraofchaos.github.io/units/Dragon Golem/)
 
 * New Items:
   * [Dragon Golem Avatar](/Items/con_2136/)
@@ -29,17 +28,7 @@ sidebar:
   * [Tool_907602](/Items/con_2137/)
   * [Tool_10046](/Items/con_2135/)
 
-* New items:
-  * [Gold Key Pack A](https://eraofchaos.github.io/Items/con_2132/)
-  * [Hero Nymus](https://eraofchaos.github.io/Items/her_2131/)
-
-* Changed drop in [HotSpot for Spells](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
-
-* Wiki updated to latest game state. 
-* You can post your comments on Wiki (in Heroes/Emblems/Posts/...). 
-* You can Share pages in Social networks.
-* Added images for [Heroes](/heroes/) and [Holy Emblem](/Emblem/)
-* Added <i class="fas fa-crown"/> [VIP System](/VIP/)
+* Changed drop in [Faction Altar 2021](https://eraofchaos.github.io/FactionAltar/)
 
 {% endcapture %}
 
@@ -117,6 +106,7 @@ You will find here:
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts & Spell 2021](/Hotspot/)
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts 2021](/Hotspot/HotSpot Artifact _2021/)
 * <i class="fas fa-calendar-day"/> [Hotspot Spell 2021](/Hotspot/HotSpot Spell _2021/)
+* <i class="fas fa-calendar-day"/> [Faction Altar 2021](https://eraofchaos.github.io/FactionAltar/)
 
 
 
