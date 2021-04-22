@@ -2,7 +2,7 @@
 title: "Underground - Chapter 30 - 30-4  None Shall Pass"
 permalink: /Underground/Chapter 30_4/
 excerpt: "Chapter 30 - 4. Era of Chaos  Underground - Chapter 30_4. 30-4  None Shall Pass"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 30_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 27 - 27-2 Dwarf Craftsman"
 permalink: /Underground/Chapter 27_2/
 excerpt: "Chapter 27 - 2. Era of Chaos  Underground - Chapter 27_2. 27-2 Dwarf Craftsman"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 27_2.md"
 toc: false

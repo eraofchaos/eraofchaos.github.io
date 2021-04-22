@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-8 The Magic Belt"
 permalink: /Main Story/Chapter 18_8/
 excerpt: "Chapter 18 - 8. Era of Chaos  Main Story - Chapter 18_8. 18-8 The Magic Belt"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 18_8.md"
 toc: false

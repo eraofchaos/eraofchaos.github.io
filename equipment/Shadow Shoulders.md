@@ -2,7 +2,7 @@
 title: "Shadow Shoulders"
 permalink: /equipment/Shadow Shoulders/
 excerpt: "Era of Chaos Shadow Shoulders. Shadow Shoulders"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Shadow Shoulders.md"
 toc: false

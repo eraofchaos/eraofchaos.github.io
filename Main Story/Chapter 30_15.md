@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-15 Kleesive"
 permalink: /Main Story/Chapter 30_15/
 excerpt: "Chapter 30 - 15. Era of Chaos  Main Story - Chapter 30_15. 30-15 Kleesive"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 30_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 16 - 16-2 Sky Memory"
 permalink: /Underground/Chapter 16_2/
 excerpt: "Chapter 16 - 2. Era of Chaos  Underground - Chapter 16_2. 16-2 Sky Memory"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 16_2.md"
 toc: false

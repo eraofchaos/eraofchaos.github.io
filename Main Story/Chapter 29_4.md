@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-4 Altar of Blood"
 permalink: /Main Story/Chapter 29_4/
 excerpt: "Chapter 29 - 4. Era of Chaos  Main Story - Chapter 29_4. 29-4 Altar of Blood"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 29_4.md"
 toc: false

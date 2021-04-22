@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-12 Underground Duel"
 permalink: /Main Story/Chapter 12_12/
 excerpt: "Chapter 12 - 12. Era of Chaos  Main Story - Chapter 12_12. 12-12 Underground Duel"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 12_12.md"
 toc: false

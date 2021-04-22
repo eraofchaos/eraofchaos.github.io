@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-8 Lightning Battle"
 permalink: /Main Story/Chapter 12_8/
 excerpt: "Chapter 12 - 8. Era of Chaos  Main Story - Chapter 12_8. 12-8 Lightning Battle"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 12_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Ruler of Void"
 permalink: /Avatars/Ruler of Void/
 excerpt: "Era of Chaos  Ruler of Void"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-22
 locale: en
 ref: "Ruler of Void.md"
 toc: false

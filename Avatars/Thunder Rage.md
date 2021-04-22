@@ -2,7 +2,7 @@
 title: "Avatar - Thunder Rage"
 permalink: /Avatars/Thunder Rage/
 excerpt: "Era of Chaos  Thunder Rage"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-22
 locale: en
 ref: "Thunder Rage.md"
 toc: false

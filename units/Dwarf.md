@@ -3,7 +3,7 @@ title: "Dwarf"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Dwarf"
 toc: true

@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Units. Units. Era of Chaos Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Marksman"
 toc: true

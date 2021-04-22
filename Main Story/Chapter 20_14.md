@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-14 The Mountains"
 permalink: /Main Story/Chapter 20_14/
 excerpt: "Chapter 20 - 14. Era of Chaos  Main Story - Chapter 20_14. 20-14 The Mountains"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 20_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-11 The Demon is Summoned"
 permalink: /Main Story/Chapter 15_11/
 excerpt: "Chapter 15 - 11. Era of Chaos  Main Story - Chapter 15_11. 15-11 The Demon is Summoned"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 15_11.md"
 toc: false

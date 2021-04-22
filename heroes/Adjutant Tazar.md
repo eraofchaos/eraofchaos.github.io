@@ -2,7 +2,7 @@
 title: "Adjutant Tazar"
 permalink: /heroes/Adjutant Tazar/
 excerpt: "Era of Chaos  Adjutant Tazar"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Adjutant Tazar.md"
 QR: adhero_61501

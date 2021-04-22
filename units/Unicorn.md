@@ -3,7 +3,7 @@ title: "Unicorn"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The existence of the unicorn is much debated, with many regarding it as nothing more than a beautiful myth. But their beauty is matched by their ferociousness in battle, making them legendary combatants."
 unitID: 206
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Unicorn"
 toc: true

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-13 Banshee's Reproduction"
 permalink: /Main Story/Chapter 26_13/
 excerpt: "Chapter 26 - 13. Era of Chaos  Main Story - Chapter 26_13. 26-13 Banshee's Reproduction"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 26_13.md"
 toc: false

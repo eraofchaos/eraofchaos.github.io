@@ -2,7 +2,7 @@
 title: "Barbarian Back Armor"
 permalink: /equipment/Barbarian Back Armor/
 excerpt: "Era of Chaos Barbarian Back Armor. Barbarian Back Armor"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Barbarian Back Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pupil of Death"
 permalink: /equipment/Pupil of Death/
 excerpt: "Era of Chaos Pupil of Death. Pupil of Death"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Pupil of Death.md"
 toc: false

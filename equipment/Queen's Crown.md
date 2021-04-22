@@ -2,7 +2,7 @@
 title: "Queen's Crown"
 permalink: /equipment/Queen's Crown/
 excerpt: "Era of Chaos Queen's Crown. Queen's Crown"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Queen's Crown.md"
 toc: false

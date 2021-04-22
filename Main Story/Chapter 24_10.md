@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-10 The Curse of Dragon Slaughter"
 permalink: /Main Story/Chapter 24_10/
 excerpt: "Chapter 24 - 10. Era of Chaos  Main Story - Chapter 24_10. 24-10 The Curse of Dragon Slaughter"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 24_10.md"
 toc: false

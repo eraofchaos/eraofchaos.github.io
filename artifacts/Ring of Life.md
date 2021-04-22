@@ -2,7 +2,7 @@
 title: "Artifacts - Elixir of Life - Ring of Life"
 permalink: /artifacts/Ring of Life/
 excerpt: "Era of Chaos  Elixir of Life - Ring of Life. A ring that supplies vast health to its wearer. One of the components of the Elixir of Life"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Ring of Life.md"
 toc: false

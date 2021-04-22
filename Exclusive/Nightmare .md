@@ -2,7 +2,7 @@
 title: "Exclusive -  (Nightmare)"
 permalink: /Exclusive/Nightmare /
 excerpt: "Era of Chaos . . Era of Chaos Exclusive . Nightmare Exclusive."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Nightmare .md"
 toc: false

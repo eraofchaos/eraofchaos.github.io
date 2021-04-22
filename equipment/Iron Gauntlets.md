@@ -2,7 +2,7 @@
 title: "Iron Gauntlets"
 permalink: /equipment/Iron Gauntlets/
 excerpt: "Era of Chaos Iron Gauntlets. Iron Gauntlets"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Iron Gauntlets.md"
 toc: false

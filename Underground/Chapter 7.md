@@ -2,7 +2,7 @@
 title: "Underground - Chapter 7 Borderlands"
 permalink: /Underground/Chapter 7/
 excerpt: "Chapter 7 Borderlands. Era of Chaos  Underground - Chapter 7. Borderlands"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 7.md"
 toc: false

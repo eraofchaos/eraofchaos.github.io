@@ -2,7 +2,7 @@
 title: "Underground - Chapter 12 - 12-5 The Final Battle"
 permalink: /Underground/Chapter 12_5/
 excerpt: "Chapter 12 - 5. Era of Chaos  Underground - Chapter 12_5. 12-5 The Final Battle"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 12_5.md"
 toc: false

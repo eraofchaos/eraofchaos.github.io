@@ -2,7 +2,7 @@
 title: "Underground - Chapter 26 - 26-4 Blade Queen"
 permalink: /Underground/Chapter 26_4/
 excerpt: "Chapter 26 - 4. Era of Chaos  Underground - Chapter 26_4. 26-4 Blade Queen"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 26_4.md"
 toc: false

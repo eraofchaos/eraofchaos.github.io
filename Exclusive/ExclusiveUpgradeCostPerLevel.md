@@ -2,7 +2,7 @@
 title: "Exclusive Upgrade Cost Per Level"
 permalink: /Exclusive/ExclusiveUpgradeCostPerLevel/
 excerpt: "Era of Chaos Exclusive Upgrade Cost Per Level. Exclusive Upgrade Cost Per Level"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "ExclusiveUpgradeCostPerLevel.md"
 toc: false
@@ -74,64 +74,4 @@ classes: wide
   | 57 | **12** | 428 | **8x** [Refinement Stone](/Items/con_814/) | **266** |
   | 58 | **12** | 440 | **8x** [Refinement Stone](/Items/con_814/) | **274** |
   | 59 | **12** | 452 | **10x** [Refinement Stone](/Items/con_814/) | **284** |
-  | 60 | **12** | 464 | **10x** [Refinement Stone](/Items/con_814/) | **294** |
-  | 61 | **12** | 476 | **10x** [Refinement Stone](/Items/con_814/) | **304** |
-  | 62 | **12** | 488 | **10x** [Refinement Stone](/Items/con_814/) | **314** |
-  | 63 | **12** | 500 | **10x** [Refinement Stone](/Items/con_814/) | **324** |
-  | 64 | **15** | 515 | **10x** [Refinement Stone](/Items/con_814/) | **334** |
-  | 65 | **15** | 530 | **10x** [Refinement Stone](/Items/con_814/) | **344** |
-  | 66 | **15** | 545 | **10x** [Refinement Stone](/Items/con_814/) | **354** |
-  | 67 | **15** | 560 | **10x** [Refinement Stone](/Items/con_814/) | **364** |
-  | 68 | **15** | 575 | **10x** [Refinement Stone](/Items/con_814/) | **374** |
-  | 69 | **15** | 590 | **12x** [Refinement Stone](/Items/con_814/) | **386** |
-  | 70 | **15** | 605 | **12x** [Refinement Stone](/Items/con_814/) | **398** |
-  | 71 | **15** | 620 | **12x** [Refinement Stone](/Items/con_814/) | **410** |
-  | 72 | **15** | 635 | **12x** [Refinement Stone](/Items/con_814/) | **422** |
-  | 73 | **15** | 650 | **12x** [Refinement Stone](/Items/con_814/) | **434** |
-  | 74 | **15** | 665 | **12x** [Refinement Stone](/Items/con_814/) | **446** |
-  | 75 | **15** | 680 | **12x** [Refinement Stone](/Items/con_814/) | **458** |
-  | 76 | **15** | 695 | **12x** [Refinement Stone](/Items/con_814/) | **470** |
-  | 77 | **15** | 710 | **12x** [Refinement Stone](/Items/con_814/) | **482** |
-  | 78 | **15** | 725 | **12x** [Refinement Stone](/Items/con_814/) | **494** |
-  | 79 | **15** | 740 | **15x** [Refinement Stone](/Items/con_814/) | **509** |
-  | 80 | **15** | 755 | **15x** [Refinement Stone](/Items/con_814/) | **524** |
-  | 81 | **15** | 770 | **15x** [Refinement Stone](/Items/con_814/) | **539** |
-  | 82 | **15** | 785 | **15x** [Refinement Stone](/Items/con_814/) | **554** |
-  | 83 | **15** | 800 | **15x** [Refinement Stone](/Items/con_814/) | **569** |
-  | 84 | **15** | 815 | **15x** [Refinement Stone](/Items/con_814/) | **584** |
-  | 85 | **15** | 830 | **15x** [Refinement Stone](/Items/con_814/) | **599** |
-  | 86 | **15** | 845 | **15x** [Refinement Stone](/Items/con_814/) | **614** |
-  | 87 | **15** | 860 | **15x** [Refinement Stone](/Items/con_814/) | **629** |
-  | 88 | **15** | 875 | **15x** [Refinement Stone](/Items/con_814/) | **644** |
-  | 89 | **20** | 895 | **15x** [Refinement Stone](/Items/con_814/) | **659** |
-  | 90 | **20** | 915 | **15x** [Refinement Stone](/Items/con_814/) | **674** |
-  | 91 | **20** | 935 | **15x** [Refinement Stone](/Items/con_814/) | **689** |
-  | 92 | **20** | 955 | **15x** [Refinement Stone](/Items/con_814/) | **704** |
-  | 93 | **20** | 975 | **15x** [Refinement Stone](/Items/con_814/) | **719** |
-  | 94 | **20** | 995 | **15x** [Refinement Stone](/Items/con_814/) | **734** |
-  | 95 | **20** | 1015 | **15x** [Refinement Stone](/Items/con_814/) | **749** |
-  | 96 | **20** | 1035 | **15x** [Refinement Stone](/Items/con_814/) | **764** |
-  | 97 | **20** | 1055 | **15x** [Refinement Stone](/Items/con_814/) | **779** |
-  | 98 | **20** | 1075 | **15x** [Refinement Stone](/Items/con_814/) | **794** |
-  | 99 | **20** | 1095 | **15x** [Refinement Stone](/Items/con_814/) | **809** |
-  | 100 | **20** | 1115 | **15x** [Refinement Stone](/Items/con_814/) | **824** |
-  | 101 | **20** | 1135 | **15x** [Refinement Stone](/Items/con_814/) | **839** |
-  | 102 | **20** | 1155 | **15x** [Refinement Stone](/Items/con_814/) | **854** |
-  | 103 | **20** | 1175 | **15x** [Refinement Stone](/Items/con_814/) | **869** |
-  | 104 | **20** | 1195 | **15x** [Refinement Stone](/Items/con_814/) | **884** |
-  | 105 | **20** | 1215 | **15x** [Refinement Stone](/Items/con_814/) | **899** |
-  | 106 | **20** | 1235 | **15x** [Refinement Stone](/Items/con_814/) | **914** |
-  | 107 | **20** | 1255 | **15x** [Refinement Stone](/Items/con_814/) | **929** |
-  | 108 | **20** | 1275 | **15x** [Refinement Stone](/Items/con_814/) | **944** |
-  | 109 | **20** | 1295 | **20x** [Refinement Stone](/Items/con_814/) | **964** |
-  | 110 | **20** | 1315 | **20x** [Refinement Stone](/Items/con_814/) | **984** |
-  | 111 | **20** | 1335 | **20x** [Refinement Stone](/Items/con_814/) | **1004** |
-  | 112 | **20** | 1355 | **20x** [Refinement Stone](/Items/con_814/) | **1024** |
-  | 113 | **20** | 1375 | **20x** [Refinement Stone](/Items/con_814/) | **1044** |
-  | 114 | **20** | 1395 | **20x** [Refinement Stone](/Items/con_814/) | **1064** |
-  | 115 | **20** | 1415 | **20x** [Refinement Stone](/Items/con_814/) | **1084** |
-  | 116 | **20** | 1435 | **20x** [Refinement Stone](/Items/con_814/) | **1104** |
-  | 117 | **20** | 1455 | **20x** [Refinement Stone](/Items/con_814/) | **1124** |
-  | 118 | **20** | 1475 | **20x** [Refinement Stone](/Items/con_814/) | **1144** |
-  | 119 | **20** | 1495 | **20x** [Refinement Stone](/Items/con_814/) | **1164** |
 

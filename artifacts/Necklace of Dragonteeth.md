@@ -2,7 +2,7 @@
 title: "Artifacts - Power of the Dragon Father - Necklace of Dragonteeth"
 permalink: /artifacts/Necklace of Dragonteeth/
 excerpt: "Era of Chaos  Power of the Dragon Father - Necklace of Dragonteeth. A necklace blessed by the Holy Dragon. One of the components of Power of the Dragon Father."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Necklace of Dragonteeth.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Holy Emblem - Order"
 permalink: /Emblem/Type Order/
 excerpt: "Era of Chaos Holy Emblem. Holy Emblem. Era of Chaos Holy Emblem Order. Era of Chaos Order"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "typeOrder.md"
 toc: false

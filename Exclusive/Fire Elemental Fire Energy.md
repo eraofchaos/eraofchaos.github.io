@@ -2,7 +2,7 @@
 title: "Exclusive - Fire Energy (Fire Elemental)"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Fire Energy. Fire Energy. Era of Chaos Exclusive Fire Energy. Fire Elemental Exclusive."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Fire Elemental Fire Energy.md"
 toc: false

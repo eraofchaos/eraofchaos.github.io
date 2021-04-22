@@ -2,7 +2,7 @@
 title: "Charming Pauldrons"
 permalink: /equipment/Charming Pauldrons/
 excerpt: "Era of Chaos Charming Pauldrons. Charming Pauldrons"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Charming Pauldrons.md"
 toc: false

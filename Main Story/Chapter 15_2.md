@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-2 War Resurges"
 permalink: /Main Story/Chapter 15_2/
 excerpt: "Chapter 15 - 2. Era of Chaos  Main Story - Chapter 15_2. 15-2 War Resurges"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Chapter 15_2.md"
 toc: false

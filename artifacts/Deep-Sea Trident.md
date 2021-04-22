@@ -2,7 +2,7 @@
 title: "Artifacts - Sword of Frost - Deep-Sea Trident"
 permalink: /artifacts/Deep-Sea Trident/
 excerpt: "Era of Chaos  Sword of Frost - Deep-Sea Trident. A weapon used by Poseidon. One of the components of the Sword of Frost"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-22
 locale: en
 ref: "Deep-Sea Trident.md"
 toc: false

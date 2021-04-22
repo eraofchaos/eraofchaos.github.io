@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Era of Chaos Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: en
 ref: "Faction Cove"
 toc: false
