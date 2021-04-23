@@ -47,7 +47,7 @@ classes: wide
   | 34 | ![Sephinroth](/images/h/h_Sephinroth.jpg) | [Sephinroth](/heroes/Sephinroth/) | Dungeon | Warlock | **R** |  Crystal Stare | R |
   | 35 | ![Shiva](/images/h/h_Shiwa.jpg) | [Shiva](/heroes/Shiva/) | Stronghold | Barbarian | **R** |  Stormbringer | R |
   | 36 | ![Solmyr](/images/h/h_Solmyr.jpg) | [Solmyr](/heroes/Solmyr/) | Tower | Wizard | **SR+** |  Chain Lightning | SR |
-  | 37 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/heroes/Tazar/) | Fortress | Beast Master | **SSR** |  Bloody Rage | SR |
+  | 37 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/heroes/Tazar/) | Fortress | Beast Master | **SSR** |  Bloody Rage | SSR |
   | 38 | ![Vidomina](/images/h/h_Vidomina.jpg) | [Vidomina](/heroes/Vidomina/) | Necropolis | Necromancer | **SR+** |  Necromancer | R |
   | 39 | ![Wystan](/images/h/h_Wystan.jpg) | [Wystan](/heroes/Wystan/) | Fortress | Beast Master | **R** |  Marsh Hunter | R |
   | 40 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/heroes/Xeron/) | Inferno | Demoniac | **SSR** |  Arch Devil | SSR |
