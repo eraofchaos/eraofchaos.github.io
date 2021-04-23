@@ -2,7 +2,7 @@
 title: "Imp Back-spikes"
 permalink: /equipment/Imp Back-spikes/
 excerpt: "Era of Chaos Imp Back-spikes. Imp Back-spikes"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Imp Back-spikes.md"
 toc: false

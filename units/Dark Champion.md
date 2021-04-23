@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Units. Units. Era of Chaos He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Dark Champion"
 toc: true

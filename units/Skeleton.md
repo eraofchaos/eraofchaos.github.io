@@ -3,7 +3,7 @@ title: "Skeleton"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Units. Units. Era of Chaos These fragile bones may seem useless but they quickly lower the morale of their enemies."
 unitID: 301
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Skeleton"
 toc: true

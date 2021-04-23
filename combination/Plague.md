@@ -2,7 +2,7 @@
 title: "Combination Info for Plague"
 permalink: /combination/Plague/
 excerpt: "Combination Info - Plague. Units and Heroes Formation."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Plague.md"
 toc: false

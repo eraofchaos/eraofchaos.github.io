@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Units. Units. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Dragon Golem"
 toc: true

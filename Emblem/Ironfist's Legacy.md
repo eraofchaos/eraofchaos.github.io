@@ -2,7 +2,7 @@
 title: "Holy Emblem - Ironfist's Legacy"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Era of Chaos Ironfist's Legacy. Ironfist's Legacy. Era of Chaos Holy Emblem Ironfist's Legacy. Era of Chaos Order Ironfist's Legacy"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Ironfist's Legacy.md"
 toc: false

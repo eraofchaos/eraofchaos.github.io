@@ -2,7 +2,7 @@
 title: "Fatal Poison Fang"
 permalink: /equipment/Fatal Poison Fang/
 excerpt: "Era of Chaos Fatal Poison Fang. Fatal Poison Fang"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Fatal Poison Fang.md"
 toc: false
