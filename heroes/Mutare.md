@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | For every friendly Dungeon Faction unit on the battlefield, Mutare's initial mana increases by 3 and the enemy's initial mana decreases by 3. |
-  |    2    | 12 | 15 | For every friendly Dungeon Faction unit on the battlefield, Magic resistance of all enemy units decreases by 8%. |
-  |    3    | 16 | 20 | Magic resistance of all Dungeon Faction units increases by 20%. |
-  |    4    | 20 | 25 | When friendly units on the battlefield deal a Crit Hit, Mutare will recover 0.2 mana. CD is 2s. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 10 | **30x** [Mutare](/Items/her_389/) | For every friendly Dungeon Faction unit on the battlefield, Mutare's initial mana increases by 3 and the enemy's initial mana decreases by 3. |
+  |    2    | 12 | 15 | **50x** [Mutare](/Items/her_389/) | For every friendly Dungeon Faction unit on the battlefield, Magic resistance of all enemy units decreases by 8%. |
+  |    3    | 16 | 20 | **100x** [Mutare](/Items/her_389/) | Magic resistance of all Dungeon Faction units increases by 20%. |
+  |    4    | 20 | 25 | **150x** [Mutare](/Items/her_389/) | When friendly units on the battlefield deal a Crit Hit, Mutare will recover 0.2 mana. CD is 2s. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

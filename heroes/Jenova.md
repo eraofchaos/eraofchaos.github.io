@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | The Unicorn upgrades to the Unicorn King. <Blind> upgrades to <Flash of the Cross>, and is able to blind units along the target's horizontal and vertical rows. |
-  |    2    | 15 | 12 | The Unicorn and The Unicorn King summoned by <Heart of Purity> increase dodge by 1200 when attacking 1-man or 4-man units. |
-  |    3    | 20 | 16 | Every time a Unicorn gains a shield, it will deal a Crit Hit in the next attack. The damage dealt by Unicorns increases by 20% when attacking blinded enemy units. |
-  |    4    | 25 | 20 | The effect of Unicorn's <Angelic Light> increases by 100%. |
+  | Stars | Hero Attack | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 8 | **30x** [Jenova](/Items/her_365/) | The Unicorn upgrades to the Unicorn King. <Blind> upgrades to <Flash of the Cross>, and is able to blind units along the target's horizontal and vertical rows. |
+  |    2    | 15 | 12 | **50x** [Jenova](/Items/her_365/) | The Unicorn and The Unicorn King summoned by <Heart of Purity> increase dodge by 1200 when attacking 1-man or 4-man units. |
+  |    3    | 20 | 16 | **100x** [Jenova](/Items/her_365/) | Every time a Unicorn gains a shield, it will deal a Crit Hit in the next attack. The damage dealt by Unicorns increases by 20% when attacking blinded enemy units. |
+  |    4    | 25 | 20 | **150x** [Jenova](/Items/her_365/) | The effect of Unicorn's <Angelic Light> increases by 100%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Air Arrow

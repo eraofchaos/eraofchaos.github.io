@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | <The Cycle of Life> can deal additional earth spell damage to enemy units equal to 2% of their Max HP every 0.5s, and friendly units can recover an additional 2% of Max HP. |
-  |    2    | 15 | 12 | For each <The Cycle of Life> that is cast, Magic resistance of all enemy units will decrease by 12% throughout the entire battle, up to 5 stacks. |
-  |    3    | 20 | 16 | All earth spells' damage increases by 15%. |
-  |    4    | 25 | 20 | For every friendly Caster Unit on the battlefield, mana regeneration increases by 0.6 for the friendly hero and decreases by 0.3 for the enemy hero. |
+  | Stars | Hero Defense | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 8 | **30x** [Jeddite](/Items/her_391/) | <The Cycle of Life> can deal additional earth spell damage to enemy units equal to 2% of their Max HP every 0.5s, and friendly units can recover an additional 2% of Max HP. |
+  |    2    | 15 | 12 | **50x** [Jeddite](/Items/her_391/) | For each <The Cycle of Life> that is cast, Magic resistance of all enemy units will decrease by 12% throughout the entire battle, up to 5 stacks. |
+  |    3    | 20 | 16 | **100x** [Jeddite](/Items/her_391/) | All earth spells' damage increases by 15%. |
+  |    4    | 25 | 20 | **150x** [Jeddite](/Items/her_391/) | For every friendly Caster Unit on the battlefield, mana regeneration increases by 0.6 for the friendly hero and decreases by 0.3 for the enemy hero. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

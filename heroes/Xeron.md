@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | The Devil upgrades to Doombringer. <Withering> can deal damage twice on burning targets. <Cruel Torture> and <Painful Reaper> can cause silence for 6s every time. |
-  |    2    | 30 | 15 | When <Echo of the Abyss> is cast, the Devil (Doombringer) triggers its special skill. |
-  |    3    | 40 | 20 | For every unit of different type or faction deployed, different Inferno units will gain different types of attribute bonuses. |
-  |    4    | 50 | 25 | When Doombringer casts <Painful Reaper>, friendly Inferno Faction units can recover HP equal to 10% of their Max HP, and Doombringer's recovery doubles. |
+  | Stars | Hero Attack | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 20 | 10 | **30x** [Xeron](/Items/her_383/) | The Devil upgrades to Doombringer. <Withering> can deal damage twice on burning targets. <Cruel Torture> and <Painful Reaper> can cause silence for 6s every time. |
+  |    2    | 30 | 15 | **50x** [Xeron](/Items/her_383/) | When <Echo of the Abyss> is cast, the Devil (Doombringer) triggers its special skill. |
+  |    3    | 40 | 20 | **100x** [Xeron](/Items/her_383/) | For every unit of different type or faction deployed, different Inferno units will gain different types of attribute bonuses. |
+  |    4    | 50 | 25 | **150x** [Xeron](/Items/her_383/) | When Doombringer casts <Painful Reaper>, friendly Inferno Faction units can recover HP equal to 10% of their Max HP, and Doombringer's recovery doubles. |
+
+ **Special Desciption 1:** <span style="color: #ffffff"> </span><br/><span style="color: #3c2a1e;font-size:22px">Additional Description of Xeron's Specialty 2</span><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: #8a5c1d;font-size:18px">When Xeron casts &lt;Echo of the Abyss&gt;, it triggers Devil's special skill as well.</span><br/><span style="color: #ffffff"> </span><br/><span style="color: #3c2a1e;font-size:22px">How to Activate Xeron's Special Skill</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/><span style="color: #645252;font-size:20px">1. &lt;Cruel Torture&gt; - Devil</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/><span style="color: #645252;font-size:20px">&lt;Cruel Torture&gt; When Devil is present, casting &lt;Echo of the Abyss&gt; inflicts &lt;Cruel Torture&gt; once while granting all friendly Inferno faction units immunity to all damage and increasing attack speed by 20% for 6s.</span><br/><span style="color: #ffffff"> </span><br/><span style="color: #3c2a1e;font-size:22px">Additional Description of Xeron's Specialty 3</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/><span style="color: #645252;font-size:20px">1. Each deployed Offensive unit increases the unit damage of Devil (Doombringer) and Hell Hound by 5%.</span><br/><span style="color: #645252;font-size:20px">2. Each deployed Inferno unit increases the unit damage reduction of Devil (Doombringer) and Pit Fiend by 5%.</span><br/><span style="color: #645252;font-size:20px">3. Each deployed Caster unit increases the Crit DMG of Efreeti and Gog by 5%.</span><br/><span style="color: #645252;font-size:20px">4. Each deployed Defense unit increases the DEF of Demon, Imp and Nightmare by 3%.</span>
 
 ## Spell
 ### 1 Spell: Fire arrow

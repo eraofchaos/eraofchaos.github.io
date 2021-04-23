@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 6 | 12 | <Earth Elemental> can now summon Stone Elementals to battle, and the mana cost of this spell reduces by 20%. |
-  |    2    | 9 | 18 | The number of Small Stone Elementals that Stone Elemental split into after death increases by 1. |
-  |    3    | 12 | 24 | For every Conflux unit deployed, the Magic resistance of Stone Elementals increases by 5%. For every Defensive unit deployed, the unit damage reduction of Stone Elementals increases by 5%. |
-  |    4    | 15 | 30 | The Stone Elemental unit upgrades from 4 soldiers to 9. |
+  | Stars | Hero Defense | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 6 | 12 | **30x** [Erdamon](/Items/her_380/) | <Earth Elemental> can now summon Stone Elementals to battle, and the mana cost of this spell reduces by 20%. |
+  |    2    | 9 | 18 | **50x** [Erdamon](/Items/her_380/) | The number of Small Stone Elementals that Stone Elemental split into after death increases by 1. |
+  |    3    | 12 | 24 | **100x** [Erdamon](/Items/her_380/) | For every Conflux unit deployed, the Magic resistance of Stone Elementals increases by 5%. For every Defensive unit deployed, the unit damage reduction of Stone Elementals increases by 5%. |
+  |    4    | 15 | 30 | **150x** [Erdamon](/Items/her_380/) | The Stone Elemental unit upgrades from 4 soldiers to 9. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

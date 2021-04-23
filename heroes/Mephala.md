@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 6 | All friendly units gain a shield and the damage absorbed increases by 20%. |
-  |    2    | 18 | 9 | Unit's damage reduction of Friendly unit with <Shields> is increased by 20%. |
-  |    3    | 24 | 12 | Health of all Defensive units increases by 20%. |
-  |    4    | 30 | 15 | The mana cost of <Stone Skin> decreases by 50%, CD decreases by 5s and all debuffs on this unit are dispelled. |
+  | Stars | Hero Defense | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 6 | **30x** [Mephala](/Items/her_367/) | All friendly units gain a shield and the damage absorbed increases by 20%. |
+  |    2    | 18 | 9 | **50x** [Mephala](/Items/her_367/) | Unit's damage reduction of Friendly unit with <Shields> is increased by 20%. |
+  |    3    | 24 | 12 | **100x** [Mephala](/Items/her_367/) | Health of all Defensive units increases by 20%. |
+  |    4    | 30 | 15 | **150x** [Mephala](/Items/her_367/) | The mana cost of <Stone Skin> decreases by 50%, CD decreases by 5s and all debuffs on this unit are dispelled. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Air Arrow

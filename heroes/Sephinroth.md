@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | <Petrification> upgrades to <Crystallization>, and petrified units can reduce Magic resistance by 50%. |
-  |    2    | 12 | 15 | When friendly units attack crystallized enemy units, they are guaranteed to deal a Crit Hit. |
-  |    3    | 16 | 20 | When Medusa is fighting against <petrified>, <crystalized> and <stunned> targets, her unit damage will increase by 10%. |
-  |    4    | 20 | 25 | Medusa's normal attack has a certain chance to trigger petrification with a CD of 10s. |
+  | Stars | Hero Attack | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 10 | **30x** [Sephinroth](/Items/her_392/) | <Petrification> upgrades to <Crystallization>, and petrified units can reduce Magic resistance by 50%. |
+  |    2    | 12 | 15 | **50x** [Sephinroth](/Items/her_392/) | When friendly units attack crystallized enemy units, they are guaranteed to deal a Crit Hit. |
+  |    3    | 16 | 20 | **100x** [Sephinroth](/Items/her_392/) | When Medusa is fighting against <petrified>, <crystalized> and <stunned> targets, her unit damage will increase by 10%. |
+  |    4    | 20 | 25 | **150x** [Sephinroth](/Items/her_392/) | Medusa's normal attack has a certain chance to trigger petrification with a CD of 10s. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

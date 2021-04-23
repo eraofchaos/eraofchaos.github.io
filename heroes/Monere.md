@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | Psychic Elemental upgrades to Magic Elemental, and <Energy Blast> deals 20% more damage. |
-  |    2    | 12 | 15 | The life drain of Psychic Elementals (Magic Elementals) increases by 20%. |
-  |    3    | 16 | 20 | For every Caster or Offensive unit on the battlefield, unit damage and unit damage reduction of Magic Elementals both increase by 3%. |
-  |    4    | 20 | 25 | Magic Elementals are immune to all damage when they are in <Mystic Domain>. |
+  | Stars | Hero Attack | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 10 | **30x** [Monere](/Items/her_379/) | Psychic Elemental upgrades to Magic Elemental, and <Energy Blast> deals 20% more damage. |
+  |    2    | 12 | 15 | **50x** [Monere](/Items/her_379/) | The life drain of Psychic Elementals (Magic Elementals) increases by 20%. |
+  |    3    | 16 | 20 | **100x** [Monere](/Items/her_379/) | For every Caster or Offensive unit on the battlefield, unit damage and unit damage reduction of Magic Elementals both increase by 3%. |
+  |    4    | 20 | 25 | **150x** [Monere](/Items/her_379/) | Magic Elementals are immune to all damage when they are in <Mystic Domain>. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Frozen Arrow

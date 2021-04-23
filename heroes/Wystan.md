@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | Lizardman unit's <Poisoned Dart> has a 30% chance to trigger disease. |
-  |    2    | 12 | 15 | Lizardman's Crit Hit increases by 200. |
-  |    3    | 16 | 20 | When Lizardmen deal a Crit Hit, their target will suffer from bleeding, lasting for 6s with a CD of 10s. |
-  |    4    | 20 | 25 | Lizardmen units are immune to earth spells. Normal attacks increase additional 30% life drain. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 10 | **30x** [Wystan](/Items/her_395/) | Lizardman unit's <Poisoned Dart> has a 30% chance to trigger disease. |
+  |    2    | 12 | 15 | **50x** [Wystan](/Items/her_395/) | Lizardman's Crit Hit increases by 200. |
+  |    3    | 16 | 20 | **100x** [Wystan](/Items/her_395/) | When Lizardmen deal a Crit Hit, their target will suffer from bleeding, lasting for 6s with a CD of 10s. |
+  |    4    | 20 | 25 | **150x** [Wystan](/Items/her_395/) | Lizardmen units are immune to earth spells. Normal attacks increase additional 30% life drain. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

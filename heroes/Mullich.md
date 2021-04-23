@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | Charging units are guaranteed to deal a Crit Hit when attacking <stunned> targets. |
-  |    2    | 15 | 12 | Charging units cannot be slowed or stunned. |
-  |    3    | 20 | 16 | The movement speed of Charging units offers an additional increase to their attack. |
-  |    4    | 25 | 20 | All normal attacks from Charging units have a 3% chance of causing stun to their target for 2 seconds. |
+  | Stars | Hero Defense | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 8 | **30x** [Mullich](/Items/her_360/) | Charging units are guaranteed to deal a Crit Hit when attacking <stunned> targets. |
+  |    2    | 15 | 12 | **50x** [Mullich](/Items/her_360/) | Charging units cannot be slowed or stunned. |
+  |    3    | 20 | 16 | **100x** [Mullich](/Items/her_360/) | The movement speed of Charging units offers an additional increase to their attack. |
+  |    4    | 25 | 20 | **150x** [Mullich](/Items/her_360/) | All normal attacks from Charging units have a 3% chance of causing stun to their target for 2 seconds. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

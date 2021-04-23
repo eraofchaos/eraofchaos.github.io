@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 6 | Roc upgrades to Stormbringer, increasing Crit Hit by 15%. |
-  |    2    | 18 | 9 | When Stormbringer's <Thunder> hits an enemy unit, it has a 25% chance to stun the target for 3s. |
-  |    3    | 24 | 12 | The <Hurricane Barrier> of Roc (Stormbringer) can reduce Magic resistance of all enemy units by 20%. |
-  |    4    | 30 | 15 | When the Stormbringer cause a Crit Hit during a normal attack,  it has 30% chance to cast <Thunder> |
+  | Stars | Hero Defense | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 6 | **30x** [Shiva](/Items/her_376/) | Roc upgrades to Stormbringer, increasing Crit Hit by 15%. |
+  |    2    | 18 | 9 | **50x** [Shiva](/Items/her_376/) | When Stormbringer's <Thunder> hits an enemy unit, it has a 25% chance to stun the target for 3s. |
+  |    3    | 24 | 12 | **100x** [Shiva](/Items/her_376/) | The <Hurricane Barrier> of Roc (Stormbringer) can reduce Magic resistance of all enemy units by 20%. |
+  |    4    | 30 | 15 | **150x** [Shiva](/Items/her_376/) | When the Stormbringer cause a Crit Hit during a normal attack,  it has 30% chance to cast <Thunder> |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

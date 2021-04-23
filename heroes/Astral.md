@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | <Total Darkness> also <silences>. When a friendly unit casts non-artifact air magic spells, each Tower unit on the field grants friendly units an additional 0.5% HP recovery. |
-  |    2    | 30 | 15 | Any non-artifact spell cast by friendly units can trigger <Magic Awakening> for friendly units, and <Blind> can reduce unit damage reduction of enemy units by an additional 10%. |
-  |    3    | 40 | 20 | Every time <Magic Awakening> is triggered by friendly units, unit damage and Magic resistance of friendly Tower units will be increased by 1%, lasting for 12s, up to 50 stacks. |
-  |    4    | 50 | 25 | CD for all spells decreases by 10%. <Brilliant Earth> has a 30% reduction in mana cost and inflicts 5% maximum HP damage to all enemy units, increases friendly Tower units' tenacity by 200, and restores an additional 5% of Max HP. Each time one of friendly units triggers Magic Awakening, your hero recovers an additional 2 mana. |
+  | Stars | Hero Intelligence | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 20 | 10 | **30x** [Astral](/Items/her_388/) | <Total Darkness> also <silences>. When a friendly unit casts non-artifact air magic spells, each Tower unit on the field grants friendly units an additional 0.5% HP recovery. |
+  |    2    | 30 | 15 | **50x** [Astral](/Items/her_388/) | Any non-artifact spell cast by friendly units can trigger <Magic Awakening> for friendly units, and <Blind> can reduce unit damage reduction of enemy units by an additional 10%. |
+  |    3    | 40 | 20 | **100x** [Astral](/Items/her_388/) | Every time <Magic Awakening> is triggered by friendly units, unit damage and Magic resistance of friendly Tower units will be increased by 1%, lasting for 12s, up to 50 stacks. |
+  |    4    | 50 | 25 | **150x** [Astral](/Items/her_388/) | CD for all spells decreases by 10%. <Brilliant Earth> has a 30% reduction in mana cost and inflicts 5% maximum HP damage to all enemy units, increases friendly Tower units' tenacity by 200, and restores an additional 5% of Max HP. Each time one of friendly units triggers Magic Awakening, your hero recovers an additional 2 mana. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Air Arrow

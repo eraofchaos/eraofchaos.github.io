@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | CD for <Fire Elemental> and <Gate of Fire> is decreased by 20% |
-  |    2    | 15 | 12 | Attack and Defense of all friendly summoned units increase by 30% and 10%, respectively. |
-  |    3    | 20 | 16 | For every summoned creature dies, your hero recovers 1 mana and CD for all spells is reduced by 1s |
-  |    4    | 25 | 20 | Zydar's spell damage increases by 2% for every summoned creature on the field. |
+  | Stars | Hero Defense | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 8 | **30x** [Zydar](/Items/her_385/) | CD for <Fire Elemental> and <Gate of Fire> is decreased by 20% |
+  |    2    | 15 | 12 | **50x** [Zydar](/Items/her_385/) | Attack and Defense of all friendly summoned units increase by 30% and 10%, respectively. |
+  |    3    | 20 | 16 | **100x** [Zydar](/Items/her_385/) | For every summoned creature dies, your hero recovers 1 mana and CD for all spells is reduced by 1s |
+  |    4    | 25 | 20 | **150x** [Zydar](/Items/her_385/) | Zydar's spell damage increases by 2% for every summoned creature on the field. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

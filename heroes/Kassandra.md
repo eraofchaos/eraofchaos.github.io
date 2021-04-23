@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | Once <The Spear of Leonidas> is cast, Spartan Warriors will cast an additional <Spear Throw>. |
-  |    2    | 12 | 15 | The HP cost of casting <Frantic> is halved while ATK speed increases by 15%. Spartan Warriors with <Frantic> increase ATK speed by an additional 15%. |
-  |    3    | 16 | 20 | Increases offensive units' ATK speed by 10%. |
-  |    4    | 20 | 25 | Spartan Warriors upgrade from a 4-man unit to a 9-man unit. Spartan Warriors' unit damage reduction increases by 20%. |
+  | Stars | Hero Attack | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 10 | **30x** [Kassandra](/Items/her_399/) | Once <The Spear of Leonidas> is cast, Spartan Warriors will cast an additional <Spear Throw>. |
+  |    2    | 12 | 15 | **50x** [Kassandra](/Items/her_399/) | The HP cost of casting <Frantic> is halved while ATK speed increases by 15%. Spartan Warriors with <Frantic> increase ATK speed by an additional 15%. |
+  |    3    | 16 | 20 | **100x** [Kassandra](/Items/her_399/) | Increases offensive units' ATK speed by 10%. |
+  |    4    | 20 | 25 | **150x** [Kassandra](/Items/her_399/) | Spartan Warriors upgrade from a 4-man unit to a 9-man unit. Spartan Warriors' unit damage reduction increases by 20%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Hidden Blade Assassination

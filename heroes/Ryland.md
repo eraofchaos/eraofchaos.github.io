@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 8 | Dendroid guards are upgraded to forest guardians and their Crushing Roll gives extra shielding to all friendly Defensive units. |
-  |    2    | 12 | 12 | Health of dendroid guards and forest guardians increases by 30%. |
-  |    3    | 16 | 16 | Effects of shield generated from Forest Guardian's Crushing Roll doubles. |
-  |    4    | 20 | 20 | Health recovery effects enjoyed by forest guardians and dendroids summoned through Forest Resonance increases by 50%. |
+  | Stars | Hero Intelligence | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 8 | **30x** [Ryland](/Items/her_368/) | Dendroid guards are upgraded to forest guardians and their Crushing Roll gives extra shielding to all friendly Defensive units. |
+  |    2    | 12 | 12 | **50x** [Ryland](/Items/her_368/) | Health of dendroid guards and forest guardians increases by 30%. |
+  |    3    | 16 | 16 | **100x** [Ryland](/Items/her_368/) | Effects of shield generated from Forest Guardian's Crushing Roll doubles. |
+  |    4    | 20 | 20 | **150x** [Ryland](/Items/her_368/) | Health recovery effects enjoyed by forest guardians and dendroids summoned through Forest Resonance increases by 50%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 6 | 12 | Serpent Fly's Crit DMG increases by 40%. |
-  |    2    | 9 | 18 | The Serpent Flies summoned by <Nest of Serpent Flies> have their ATK increased by 20% and Crit Hit by 500. |
-  |    3    | 12 | 24 | Every Crit Hit from Serpent Flies can dispel the target's buffs (other than Invincibility and Halos). |
-  |    4    | 15 | 30 | Serpent Flies are immune to bleed, burn, freeze, slow and silence. |
+  | Stars | Hero Defense | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 6 | 12 | **30x** [Korbac](/Items/her_394/) | Serpent Fly's Crit DMG increases by 40%. |
+  |    2    | 9 | 18 | **50x** [Korbac](/Items/her_394/) | The Serpent Flies summoned by <Nest of Serpent Flies> have their ATK increased by 20% and Crit Hit by 500. |
+  |    3    | 12 | 24 | **100x** [Korbac](/Items/her_394/) | Every Crit Hit from Serpent Flies can dispel the target's buffs (other than Invincibility and Halos). |
+  |    4    | 15 | 30 | **150x** [Korbac](/Items/her_394/) | Serpent Flies are immune to bleed, burn, freeze, slow and silence. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

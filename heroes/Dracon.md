@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 20 | Monk upgrades to Enchanter. <Prayer> upgrades to <Expert Prayer>, which can be effective on 2 units and the HP healed will be increased by an additional 10%. |
-  |    2    | 15 | 30 | Mage upgrades to Enchanter. Her <Hurricane> becomes effective on the closest and furthest 2 units. Targets that are blown into the air by <Hurricane> will additionally have their Unit DMG Reduction decreased by 20%. |
-  |    3    | 20 | 40 | Unit damage and unit damage reduction of all friendly Caster Units increase by 5%. |
-  |    4    | 25 | 50 | When an Enchanter is on the battlefield, all friendly Ranged/Caster units become immune to spell damage every 12s, lasting for 4s. |
+  | Stars | Hero Defense | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 20 | **30x** [Dracon](/Items/her_387/) | Monk upgrades to Enchanter. <Prayer> upgrades to <Expert Prayer>, which can be effective on 2 units and the HP healed will be increased by an additional 10%. |
+  |    2    | 15 | 30 | **50x** [Dracon](/Items/her_387/) | Mage upgrades to Enchanter. Her <Hurricane> becomes effective on the closest and furthest 2 units. Targets that are blown into the air by <Hurricane> will additionally have their Unit DMG Reduction decreased by 20%. |
+  |    3    | 20 | 40 | **100x** [Dracon](/Items/her_387/) | Unit damage and unit damage reduction of all friendly Caster Units increase by 5%. |
+  |    4    | 25 | 50 | **150x** [Dracon](/Items/her_387/) | When an Enchanter is on the battlefield, all friendly Ranged/Caster units become immune to spell damage every 12s, lasting for 4s. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Frozen Arrow

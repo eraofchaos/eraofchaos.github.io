@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 8 | When Catherine is on the battlefield, Swordsmen will upgrade to Iron Crusaders, and their HP will increase by 20%. |
-  |    2    | 12 | 12 | With \"High Morale\", Iron Crusaders get a shield equal to 10% of their HP. |
-  |    3    | 16 | 16 | Unit DMG taken by Iron Crusaders is decreased by 20%. <Mirth> skill is transformed into <Air Shield Rally> skill effect. |
-  |    4    | 20 | 20 | The member of Iron Crusaders increases from 9 to 16. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 8 | **30x** [Catherine](/Items/her_361/) | When Catherine is on the battlefield, Swordsmen will upgrade to Iron Crusaders, and their HP will increase by 20%. |
+  |    2    | 12 | 12 | **50x** [Catherine](/Items/her_361/) | With \"High Morale\", Iron Crusaders get a shield equal to 10% of their HP. |
+  |    3    | 16 | 16 | **100x** [Catherine](/Items/her_361/) | Unit DMG taken by Iron Crusaders is decreased by 20%. <Mirth> skill is transformed into <Air Shield Rally> skill effect. |
+  |    4    | 20 | 20 | **150x** [Catherine](/Items/her_361/) | The member of Iron Crusaders increases from 9 to 16. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | The Regnan Pirates upgrade to Elite Pirates. <Naked Blade> upgrades to <Blade of Plunder> |
-  |    2    | 15 | 12 | Break Waves can inflict deterrence on all enemy units for additional 10s, and stun enemy Defensive units for additional 2s. Cost reduces by 10% |
-  |    3    | 20 | 16 | Regnan Pirates and Regnan Archers can get bubbles equal to 50% of their HP after 4s after the battle begins. Their Magic resistance also increases by 50%, lasting for 30s |
-  |    4    | 25 | 20 | During 3s after killing a target unit, the Regnan Pirates and Regnan Archers increase their ATK speed by 30% and become immune to all damage dealt by enemy units, but their Magic resistance decreases by 50%. When fighting against slowed enemy units, Regnan Archers have a 10% chance to inflict deterrence on enemy units for 10s, and have a 5% chance to stun deterred enemy units for 2s |
+  | Stars | Hero Attack | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 8 | **30x** [Peter Lee](/Items/her_397/) | The Regnan Pirates upgrade to Elite Pirates. <Naked Blade> upgrades to <Blade of Plunder> |
+  |    2    | 15 | 12 | **50x** [Peter Lee](/Items/her_397/) | Break Waves can inflict deterrence on all enemy units for additional 10s, and stun enemy Defensive units for additional 2s. Cost reduces by 10% |
+  |    3    | 20 | 16 | **100x** [Peter Lee](/Items/her_397/) | Regnan Pirates and Regnan Archers can get bubbles equal to 50% of their HP after 4s after the battle begins. Their Magic resistance also increases by 50%, lasting for 30s |
+  |    4    | 25 | 20 | **150x** [Peter Lee](/Items/her_397/) | During 3s after killing a target unit, the Regnan Pirates and Regnan Archers increase their ATK speed by 30% and become immune to all damage dealt by enemy units, but their Magic resistance decreases by 50%. When fighting against slowed enemy units, Regnan Archers have a 10% chance to inflict deterrence on enemy units for 10s, and have a 5% chance to stun deterred enemy units for 2s |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Frozen Arrow

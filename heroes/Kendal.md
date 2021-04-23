@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | <Mirth> can increase the ATK speed of 9-man units by an additional 50%. |
-  |    2    | 12 | 15 | All normal attacks from Offensive units have a 4% chance to stun their targets for 2s. |
-  |    3    | 16 | 20 | All friendly Offensive units' unit damage increases by 10%. |
-  |    4    | 20 | 25 | Offensive units are guaranteed to land a Crit Hit when attacking <stunned> targets. |
+  | Stars | Hero Defense | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 10 | **30x** [Kendal](/Items/her_363/) | <Mirth> can increase the ATK speed of 9-man units by an additional 50%. |
+  |    2    | 12 | 15 | **50x** [Kendal](/Items/her_363/) | All normal attacks from Offensive units have a 4% chance to stun their targets for 2s. |
+  |    3    | 16 | 20 | **100x** [Kendal](/Items/her_363/) | All friendly Offensive units' unit damage increases by 10%. |
+  |    4    | 20 | 25 | **150x** [Kendal](/Items/her_363/) | Offensive units are guaranteed to land a Crit Hit when attacking <stunned> targets. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

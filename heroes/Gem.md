@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 20 | For every friendly Rampart unit on the battlefield, mana regeneration increases by 0.7 and initial mana increases by 7. |
-  |    2    | 15 | 30 | <Tranquil Rain> increases healing by 15% throughout the entire battle, up to 5 stacks. <Tranquil Rain> and <Cure> can dispel debuffs and provide a shield that's equal to tenfold healing amount for friendly Rampart units. |
-  |    3    | 20 | 40 | When Rampart units gain a shield, their Magic resistance can increase by an additional 10%, up to 10 stacks. They will also recover 8% HP, with a CD of 6s. |
-  |    4    | 25 | 50 | When Rampart units gain a shield, their unit damage, unit damage reduction and ATK speed increase by an additional 5%, up to 10 stacks. |
+  | Stars | Hero Defense | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 20 | **30x** [Gem](/Items/her_369/) | For every friendly Rampart unit on the battlefield, mana regeneration increases by 0.7 and initial mana increases by 7. |
+  |    2    | 15 | 30 | **50x** [Gem](/Items/her_369/) | <Tranquil Rain> increases healing by 15% throughout the entire battle, up to 5 stacks. <Tranquil Rain> and <Cure> can dispel debuffs and provide a shield that's equal to tenfold healing amount for friendly Rampart units. |
+  |    3    | 20 | 40 | **100x** [Gem](/Items/her_369/) | When Rampart units gain a shield, their Magic resistance can increase by an additional 10%, up to 10 stacks. They will also recover 8% HP, with a CD of 6s. |
+  |    4    | 25 | 50 | **150x** [Gem](/Items/her_369/) | When Rampart units gain a shield, their unit damage, unit damage reduction and ATK speed increase by an additional 5%, up to 10 stacks. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Frozen Arrow

@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 6 | All friendly units' Crit Hit increases by 100. |
-  |    2    | 18 | 9 | Attack of all Melee units (Offensive, Charging and Defensive) increases by 20%. Stronghold units gain an additional 10% increased CRIT DMG and 20% increased Attack Speed. |
-  |    3    | 24 | 12 | The activated HP of all Stronghold Faction units' <Rampage> increases from 35% to 60%. |
-  |    4    | 30 | 15 | When fighting against <bleeding> enemy units, friendly units increase life drain by 20% and can deal 20% additional unit damage. |
+  | Stars | Hero Attack | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 6 | **30x** [Crag Hack](/Items/her_375/) | All friendly units' Crit Hit increases by 100. |
+  |    2    | 18 | 9 | **50x** [Crag Hack](/Items/her_375/) | Attack of all Melee units (Offensive, Charging and Defensive) increases by 20%. Stronghold units gain an additional 10% increased CRIT DMG and 20% increased Attack Speed. |
+  |    3    | 24 | 12 | **100x** [Crag Hack](/Items/her_375/) | The activated HP of all Stronghold Faction units' <Rampage> increases from 35% to 60%. |
+  |    4    | 30 | 15 | **150x** [Crag Hack](/Items/her_375/) | When fighting against <bleeding> enemy units, friendly units increase life drain by 20% and can deal 20% additional unit damage. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

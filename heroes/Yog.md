@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | Cyclops becomes rampage, increasing its Attack Speed by 30% and its Critical Hit by 300. |
-  |    2    | 30 | 15 | When Raging Cyclops is on the battlefield, all friendly Ranged units gain 20% increased Magic resistance, 10% Attack Speed, and 20% CRIT DMG. |
-  |    3    | 40 | 20 | The attack from Raging Cyclops (Cyclops) causes extra 30% unit damage to all enemy units who cannot fly.  |
-  |    4    | 50 | 25 | Rampaged Cyclops's first Earthshaker skill takes effect on all enemy units who can't fly. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 20 | 10 | **30x** [Yog](/Items/her_377/) | Cyclops becomes rampage, increasing its Attack Speed by 30% and its Critical Hit by 300. |
+  |    2    | 30 | 15 | **50x** [Yog](/Items/her_377/) | When Raging Cyclops is on the battlefield, all friendly Ranged units gain 20% increased Magic resistance, 10% Attack Speed, and 20% CRIT DMG. |
+  |    3    | 40 | 20 | **100x** [Yog](/Items/her_377/) | The attack from Raging Cyclops (Cyclops) causes extra 30% unit damage to all enemy units who cannot fly.  |
+  |    4    | 50 | 25 | **150x** [Yog](/Items/her_377/) | Rampaged Cyclops's first Earthshaker skill takes effect on all enemy units who can't fly. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

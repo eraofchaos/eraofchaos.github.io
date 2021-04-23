@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 6 | 12 | <Fire Elemental> are now upgraded, and the CD decreases by 10%. |
-  |    2    | 9 | 18 | Fire Elemental units can burn units within a certain range, dealing damage equal to 80% of ATK every 2s. |
-  |    3    | 12 | 24 | The condition to trigger <Shockwave> for Fire Elementals is changed from death of an entire unit to the death of one single member of the unit. |
-  |    4    | 15 | 30 | Fire Elemental gains 20% increased unit damage, 20% increased unit damage reduction, and 30% increased Attack Speed. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 6 | 12 | **30x** [Fiur](/Items/her_381/) | <Fire Elemental> are now upgraded, and the CD decreases by 10%. |
+  |    2    | 9 | 18 | **50x** [Fiur](/Items/her_381/) | Fire Elemental units can burn units within a certain range, dealing damage equal to 80% of ATK every 2s. |
+  |    3    | 12 | 24 | **100x** [Fiur](/Items/her_381/) | The condition to trigger <Shockwave> for Fire Elementals is changed from death of an entire unit to the death of one single member of the unit. |
+  |    4    | 15 | 30 | **150x** [Fiur](/Items/her_381/) | Fire Elemental gains 20% increased unit damage, 20% increased unit damage reduction, and 30% increased Attack Speed. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

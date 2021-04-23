@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 18 | <Dragon Roar> can trigger the Black Dragon, Green Dragon and Red Dragon's Ultimate Skills. When a Green Dragon is on the battlefield, unit damage and ATK speed of friendly units will increase by 10%. When a Black Dragon is on the battlefield, unit damage reduction and DEF of friendly units will increase by 10%. |
-  |    2    | 18 | 27 | When Dungeon units fight against burned targets, their unit damage increases by 20%. When attacked by bleeding targets, unit damage reduction increases by 20%. |
-  |    3    | 24 | 36 | For every Flying unit deployed, unit damage, unit damage reduction and ATK speed of the Black Dragon, Green Dragon and Red Dragon will increase by 3%. |
-  |    4    | 30 | 45 | When units trigger spell breaker skills, 2s of magic immunity (CD of 6s) will be granted and 10% of Max HP will be recovered. For every Dungeon unit deployed, the ATK speed of friendly units will increase by 4%. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 18 | **30x** [Dragon Mutare](/Items/her_390/) | <Dragon Roar> can trigger the Black Dragon, Green Dragon and Red Dragon's Ultimate Skills. When a Green Dragon is on the battlefield, unit damage and ATK speed of friendly units will increase by 10%. When a Black Dragon is on the battlefield, unit damage reduction and DEF of friendly units will increase by 10%. |
+  |    2    | 18 | 27 | **50x** [Dragon Mutare](/Items/her_390/) | When Dungeon units fight against burned targets, their unit damage increases by 20%. When attacked by bleeding targets, unit damage reduction increases by 20%. |
+  |    3    | 24 | 36 | **100x** [Dragon Mutare](/Items/her_390/) | For every Flying unit deployed, unit damage, unit damage reduction and ATK speed of the Black Dragon, Green Dragon and Red Dragon will increase by 3%. |
+  |    4    | 30 | 45 | **150x** [Dragon Mutare](/Items/her_390/) | When units trigger spell breaker skills, 2s of magic immunity (CD of 6s) will be granted and 10% of Max HP will be recovered. For every Dungeon unit deployed, the ATK speed of friendly units will increase by 4%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 8 |  |
-  |    2    | 12 | 12 |  |
-  |    3    | 16 | 16 |  |
-  |    4    | 20 | 20 |  |
+  | Stars | Hero Defense | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 8 | **30x** [Melodia](/Items/her_364/) |  |
+  |    2    | 12 | 12 | **50x** [Melodia](/Items/her_364/) |  |
+  |    3    | 16 | 16 | **100x** [Melodia](/Items/her_364/) |  |
+  |    4    | 20 | 20 | **150x** [Melodia](/Items/her_364/) |  |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Ice Shield

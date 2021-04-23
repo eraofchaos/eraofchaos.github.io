@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | Efreeti are upgraded to Fire Lord. Damage dealt by Fire Storm increases by 30% and areas released increase to 2. |
-  |    2    | 12 | 15 | Attack of efreeti and Fire Lord is increased by 30%. |
-  |    3    | 16 | 20 | Damage reflected by Fire Lord's fire shield doubles and duration increases by 5 seconds. |
-  |    4    | 20 | 25 | When Fire Lord is on the field, fire magic resistance of all friendly units increases by 50% and fire magic resistance for all enemy units decreases by 50%. |
+  | Stars | Hero Attack | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 10 | **30x** [Rashka](/Items/her_384/) | Efreeti are upgraded to Fire Lord. Damage dealt by Fire Storm increases by 30% and areas released increase to 2. |
+  |    2    | 12 | 15 | **50x** [Rashka](/Items/her_384/) | Attack of efreeti and Fire Lord is increased by 30%. |
+  |    3    | 16 | 20 | **100x** [Rashka](/Items/her_384/) | Damage reflected by Fire Lord's fire shield doubles and duration increases by 5 seconds. |
+  |    4    | 20 | 25 | **150x** [Rashka](/Items/her_384/) | When Fire Lord is on the field, fire magic resistance of all friendly units increases by 50% and fire magic resistance for all enemy units decreases by 50%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

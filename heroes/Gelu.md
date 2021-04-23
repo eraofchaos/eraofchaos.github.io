@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 14 | 8 | Wood Elves upgrade to Sharpshooters. <Double Strike> upgrades to <Expert Double Strike>. Attack and HP both increase by 20% and attack range increases by 200. |
-  |    2    | 21 | 12 | Marksmen upgrade to Sharpshooters. <Double Strike> upgrades to <Expert Double Strike>. Attack and HP both increase by 20% and attack range increases by 200. |
-  |    3    | 28 | 16 | Critical hit for all Ranged units increases by 200. |
-  |    4    | 35 | 20 | Increases Crit DMG of all friendly Ranged units on the battlefield by 100%. |
+  | Stars | Hero Attack | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 14 | 8 | **30x** [Gelu](/Items/her_366/) | Wood Elves upgrade to Sharpshooters. <Double Strike> upgrades to <Expert Double Strike>. Attack and HP both increase by 20% and attack range increases by 200. |
+  |    2    | 21 | 12 | **50x** [Gelu](/Items/her_366/) | Marksmen upgrade to Sharpshooters. <Double Strike> upgrades to <Expert Double Strike>. Attack and HP both increase by 20% and attack range increases by 200. |
+  |    3    | 28 | 16 | **100x** [Gelu](/Items/her_366/) | Critical hit for all Ranged units increases by 200. |
+  |    4    | 35 | 20 | **150x** [Gelu](/Items/her_366/) | Increases Crit DMG of all friendly Ranged units on the battlefield by 100%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Air Arrow

@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | Assassin's <Assassination> skill becomes <Execution>, increasing Assassin's dodge and tenacity by 600 each. |
-  |    2    | 30 | 15 | <Quiet> decreases the unit damage reduction of enemy units within range by an additional 20%. |
-  |    3    | 40 | 20 | Each deployed Melee unit increases Assassins' and Spartan Warriors' Unit DMG by 5% and Attack Speed by 3%. Each deployed Ranged/Caster unit increases Assassins' and Spartan Warriors' Unit DMG Reduction by 5% and Defense by 3%. Assassins gain 3s of Stealth every 25s. |
-  |    4    | 50 | 25 | The cost of casting the <Eagle Vision> spell decreases by 20%, while all non-Neutral faction enemy units cannot attack, move, or cast skills for 3s. The attribute buff provided by <Hawkeye> on friendly Neutral units is increased by 50%. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 20 | 10 | **30x** [Ezio](/Items/her_398/) | Assassin's <Assassination> skill becomes <Execution>, increasing Assassin's dodge and tenacity by 600 each. |
+  |    2    | 30 | 15 | **50x** [Ezio](/Items/her_398/) | <Quiet> decreases the unit damage reduction of enemy units within range by an additional 20%. |
+  |    3    | 40 | 20 | **100x** [Ezio](/Items/her_398/) | Each deployed Melee unit increases Assassins' and Spartan Warriors' Unit DMG by 5% and Attack Speed by 3%. Each deployed Ranged/Caster unit increases Assassins' and Spartan Warriors' Unit DMG Reduction by 5% and Defense by 3%. Assassins gain 3s of Stealth every 25s. |
+  |    4    | 50 | 25 | **150x** [Ezio](/Items/her_398/) | The cost of casting the <Eagle Vision> spell decreases by 20%, while all non-Neutral faction enemy units cannot attack, move, or cast skills for 3s. The attribute buff provided by <Hawkeye> on friendly Neutral units is increased by 50%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Hidden Blade Assassination

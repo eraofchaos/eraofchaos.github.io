@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | Friendly units deal 30% more damage to <frozen> enemy units. |
-  |    2    | 15 | 12 | The damage dealt by <Frost Ring> increases by 30%. |
-  |    3    | 20 | 16 | Cost of water magic is reduced by 10%. |
-  |    4    | 25 | 20 | The duration of freeze caused by <Frost Ring> increases by 100%. |
+  | Stars | Hero Intelligence | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 8 | **30x** [Adelaide](/Items/her_359/) | Friendly units deal 30% more damage to <frozen> enemy units. |
+  |    2    | 15 | 12 | **50x** [Adelaide](/Items/her_359/) | The damage dealt by <Frost Ring> increases by 30%. |
+  |    3    | 20 | 16 | **100x** [Adelaide](/Items/her_359/) | Cost of water magic is reduced by 10%. |
+  |    4    | 25 | 20 | **150x** [Adelaide](/Items/her_359/) | The duration of freeze caused by <Frost Ring> increases by 100%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Frozen Arrow

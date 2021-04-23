@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | Low Morale can reduce Magic resistance by 50% and unit damage by 10% for enemy units. ATK speed reduction will increase from 33% to 50%. |
-  |    2    | 30 | 15 | <Implosion> reduces mana cost by 10, deals damage to targets equal to 2% of their Max HP, and doubles damage to units in \"Low Morale\"and doubles the chance to stun them. |
-  |    3    | 40 | 20 | The unit damage reduction of friendly Necropolis units increases by an additional 10%. When fighting against units in \"Low Morale\", the damage reduction will be doubled. When friendly Necropolis units go into \"Low Morale\", the \"Low Morale\" will be dispelled, and their unit damage will increase by 10%, Crit Hit by 200 and ATK speed by 33%, lasting for 10s. |
-  |    4    | 50 | 25 | For every friendly Necropolis unit on the battlefield, mana regeneration increases by 0.8. When an enemy unit dies, every living friendly Necropolis unit can recover heroes' mana by 7. When Sandro casts <Darkest Hours>, every Necropolis unit has a 30% chance to reduce the CD of Sandro's skills by 1s. |
+  | Stars | Hero Intelligence | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 20 | 10 | **30x** [Sandro](/Items/her_371/) | Low Morale can reduce Magic resistance by 50% and unit damage by 10% for enemy units. ATK speed reduction will increase from 33% to 50%. |
+  |    2    | 30 | 15 | **50x** [Sandro](/Items/her_371/) | <Implosion> reduces mana cost by 10, deals damage to targets equal to 2% of their Max HP, and doubles damage to units in \"Low Morale\"and doubles the chance to stun them. |
+  |    3    | 40 | 20 | **100x** [Sandro](/Items/her_371/) | The unit damage reduction of friendly Necropolis units increases by an additional 10%. When fighting against units in \"Low Morale\", the damage reduction will be doubled. When friendly Necropolis units go into \"Low Morale\", the \"Low Morale\" will be dispelled, and their unit damage will increase by 10%, Crit Hit by 200 and ATK speed by 33%, lasting for 10s. |
+  |    4    | 50 | 25 | **150x** [Sandro](/Items/her_371/) | For every friendly Necropolis unit on the battlefield, mana regeneration increases by 0.8. When an enemy unit dies, every living friendly Necropolis unit can recover heroes' mana by 7. When Sandro casts <Darkest Hours>, every Necropolis unit has a 30% chance to reduce the CD of Sandro's skills by 1s. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow

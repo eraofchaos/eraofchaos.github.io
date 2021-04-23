@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 20 | The Behemoth upgrades to a Monster Behemoth, and becomes immune to almost all controls and debuffs (including bleed, burn, disease, petrification, freeze, slow, stun, low morale, silence, blind, plague and <Time Stop>'s effects). |
-  |    2    | 15 | 30 | All Stronghold units gain attribute bonus as their HP drops. War Behemoth gains extra attribute bonus and its <Infuriate> inflicts extra effects. |
-  |    3    | 20 | 40 | When the HP of Behemoth or War Behemoth drops to 0 for the first time in this battle, Behemoth and War Behemoth will become invincible for 10s while also granting invincibility to all friendly Stronghold units for 5s. Healing efficiency when invincible reduces by 80%. |
-  |    4    | 25 | 50 | Increases the duration of Unyielding Faith by 3s, doubles its effect, and reduces its Mana cost by 40%. Stronghold Faction units gain 300 increased Crit Hit and 10% unit damage when Unyielding Faith is active. Stronghold units cannot die within the first 5s after Unyielding Faith is used. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 20 | **30x** [Kilgor](/Items/her_374/) | The Behemoth upgrades to a Monster Behemoth, and becomes immune to almost all controls and debuffs (including bleed, burn, disease, petrification, freeze, slow, stun, low morale, silence, blind, plague and <Time Stop>'s effects). |
+  |    2    | 15 | 30 | **50x** [Kilgor](/Items/her_374/) | All Stronghold units gain attribute bonus as their HP drops. War Behemoth gains extra attribute bonus and its <Infuriate> inflicts extra effects. |
+  |    3    | 20 | 40 | **100x** [Kilgor](/Items/her_374/) | When the HP of Behemoth or War Behemoth drops to 0 for the first time in this battle, Behemoth and War Behemoth will become invincible for 10s while also granting invincibility to all friendly Stronghold units for 5s. Healing efficiency when invincible reduces by 80%. |
+  |    4    | 25 | 50 | **150x** [Kilgor](/Items/her_374/) | Increases the duration of Unyielding Faith by 3s, doubles its effect, and reduces its Mana cost by 40%. Stronghold Faction units gain 300 increased Crit Hit and 10% unit damage when Unyielding Faith is active. Stronghold units cannot die within the first 5s after Unyielding Faith is used. |
+
+ **Special Desciption 1:** <span style="color: #ffffff">　</span><br/><span style="color: #3c2a1e;font-size:22px">Additional Description of Kilgor's Specialty 2</span><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: #8a5c1d;font-size:18px">War Behemoth gains 50% damage reflection. HP regeneration from War Behemoth's &lt;Infuriate&gt; has doubled effect and can recover the HP of all friendly Stronghold units by 10%. Also, each time Infuriate is used, friendly Stronghold unit gains 10% increased unit damage that stacks up to 5 layers and cannot be dispelled.</span><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: #8a5c1d;font-size:18px">When the HP of Stronghold units drops below 91%, 82%, 73%, 64%, 55%, 46%, 37%, 28%, 19%, 9% for the first time, it increases their Attack Speed by 5% and their Critical Hit by 20. The effect lasts throughout the battle, stacks up to 10 times, and cannot be dispelled.</span>
 
 ## Spell
 ### 1 Spell: Fire arrow

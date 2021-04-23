@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | When Roland is on the battlefield, Attack Speed bonus from High Morale increases from 50% to 80%. Additionally increases the DEF of friendly Castle units by 20%. Decreases the cost of fire-type spells by 20% and the cost of water-type spells by 10%. When friendly units are within range of Roland's <Fire Wall>, they become immune to Slow, and increases their Unit DMG by 20% and Critical Hit DMG by 20%. At the same time, they recover HP equal to the damage dealt by <Fire Wall>. |
-  |    2    | 30 | 15 | ATK speed increases by 10%, and Crit DMG increases by 20% for all Castle units. |
-  |    3    | 40 | 20 | When Castle units have High Morale, additionally increases their Magic Resistance by 50%. Every time <King's Wind> is cast, removes Stun from all stunned friendly units, grants them immunity to Stun for 3s, and increases their Magic Resistance by 10%. This effect lasts for the whole battle and stacks up to 20 times. |
-  |    4    | 50 | 25 | <King's Wind> increases the Crit Hit of all friendly units by 200 and additionally increases Crit DMG of Castle units by 20%. For every enemy unit killed, Castle units recover 10% HP. Whenever <Fire Wall> is cast, increases the Unit DMG Reduction of Paladins by 5%. This effect lasts for the whole battle and stacks up to 6 times. The skill CD is 6s. Whenever a fire-type spell is cast, Angel casts Lv. 15 <Condemnation> once (without awakening effects). The skill CD is 6s. |
+  | Stars | Hero Defense | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 20 | 10 | **30x** [Roland](/Items/her_362/) | When Roland is on the battlefield, Attack Speed bonus from High Morale increases from 50% to 80%. Additionally increases the DEF of friendly Castle units by 20%. Decreases the cost of fire-type spells by 20% and the cost of water-type spells by 10%. When friendly units are within range of Roland's <Fire Wall>, they become immune to Slow, and increases their Unit DMG by 20% and Critical Hit DMG by 20%. At the same time, they recover HP equal to the damage dealt by <Fire Wall>. |
+  |    2    | 30 | 15 | **50x** [Roland](/Items/her_362/) | ATK speed increases by 10%, and Crit DMG increases by 20% for all Castle units. |
+  |    3    | 40 | 20 | **100x** [Roland](/Items/her_362/) | When Castle units have High Morale, additionally increases their Magic Resistance by 50%. Every time <King's Wind> is cast, removes Stun from all stunned friendly units, grants them immunity to Stun for 3s, and increases their Magic Resistance by 10%. This effect lasts for the whole battle and stacks up to 20 times. |
+  |    4    | 50 | 25 | **150x** [Roland](/Items/her_362/) | <King's Wind> increases the Crit Hit of all friendly units by 200 and additionally increases Crit DMG of Castle units by 20%. For every enemy unit killed, Castle units recover 10% HP. Whenever <Fire Wall> is cast, increases the Unit DMG Reduction of Paladins by 5%. This effect lasts for the whole battle and stacks up to 6 times. The skill CD is 6s. Whenever a fire-type spell is cast, Angel casts Lv. 15 <Condemnation> once (without awakening effects). The skill CD is 6s. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

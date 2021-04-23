@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 14 | Cooldown for Necromancy decreases by 20%. |
-  |    2    | 12 | 21 | Enemy units within the range of Necromancy are inflicted additionally with Low Morale effect. |
-  |    3    | 16 | 28 | HP and Attack of all skeletons (including Skeletons, summoned Skeletons, Liches, and Bone Dragons) increases by 20%. They gain 10% increased unit damage and unit damage reduction. |
-  |    4    | 20 | 35 | <Necromancy> and <Undead Army> can summon more powerful armed skeletons. Armed Skeletons' normal attack can stun targets by chance, lasting for 3s. |
+  | Stars | Hero Intelligence | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 14 | **30x** [Vidomina](/Items/her_372/) | Cooldown for Necromancy decreases by 20%. |
+  |    2    | 12 | 21 | **50x** [Vidomina](/Items/her_372/) | Enemy units within the range of Necromancy are inflicted additionally with Low Morale effect. |
+  |    3    | 16 | 28 | **100x** [Vidomina](/Items/her_372/) | HP and Attack of all skeletons (including Skeletons, summoned Skeletons, Liches, and Bone Dragons) increases by 20%. They gain 10% increased unit damage and unit damage reduction. |
+  |    4    | 20 | 35 | **150x** [Vidomina](/Items/her_372/) | <Necromancy> and <Undead Army> can summon more powerful armed skeletons. Armed Skeletons' normal attack can stun targets by chance, lasting for 3s. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Air Arrow

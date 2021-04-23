@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 6 | When Nymus is deployed, Pit Fiend will transform into Infernal Phantom. When Infernal Phantom attacks enemy targets who are inflicted with Burn, their DEF and Unit DMG Reduction will be decreased by 20% each. |
-  |    2    | 18 | 9 | When Nymus is deployed, Pit Fiend (Infernal Phantom) gains 30% increases to ATK, HP, DEF, and Unit DMG each. |
-  |    3    | 24 | 12 | Pit Fiend (Infernal Phantom), Imp, Demon, and Venom Spawn gain a 50% increase to HP and a 10% increase to Unit DMG Reduction. |
-  |    4    | 30 | 15 | Decreases mana cost and CD of all spells by 10% each. Increases <Hellfire Baptism>'s damage by 50% and additionally decreases the Critical Hit and Tenacity of enemy units in range by 500 each. Damage is doubled for enemy Castle units. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 6 | **30x** [Hero Nymus](/Items/her_2131/) | When Nymus is deployed, Pit Fiend will transform into Infernal Phantom. When Infernal Phantom attacks enemy targets who are inflicted with Burn, their DEF and Unit DMG Reduction will be decreased by 20% each. |
+  |    2    | 18 | 9 | **50x** [Hero Nymus](/Items/her_2131/) | When Nymus is deployed, Pit Fiend (Infernal Phantom) gains 30% increases to ATK, HP, DEF, and Unit DMG each. |
+  |    3    | 24 | 12 | **100x** [Hero Nymus](/Items/her_2131/) | Pit Fiend (Infernal Phantom), Imp, Demon, and Venom Spawn gain a 50% increase to HP and a 10% increase to Unit DMG Reduction. |
+  |    4    | 30 | 15 | **150x** [Hero Nymus](/Items/her_2131/) | Decreases mana cost and CD of all spells by 10% each. Increases <Hellfire Baptism>'s damage by 50% and additionally decreases the Critical Hit and Tenacity of enemy units in range by 500 each. Damage is doubled for enemy Castle units. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

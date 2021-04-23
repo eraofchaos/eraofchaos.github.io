@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 14 | Sandro's <Necromancy> can now summon Liches into battle and the duration doubles. <Earth Elemental> now can summon Walking Dead. |
-  |    2    | 12 | 21 | For every summoned creature dies, your hero recovers 1 mana and CD for all spells is reduced by 1s |
-  |    3    | 16 | 28 | When a friendly unit (other than a summoned unit) dies, Lich casts <Sacrifice> once. Lich gains 20% increased unit damage and 20% increased unit damage reduction. |
-  |    4    | 20 | 35 | Whenever an earth spell is cast, friendly Necropolis units will recover 8% HP. Enemy units' damage will decrease by 20%, lasting for 8 seconds. |
+  | Stars | Hero Attack | Hero Knowledge | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 14 | **30x** [Hero Human Sandro](/Items/her_373/) | Sandro's <Necromancy> can now summon Liches into battle and the duration doubles. <Earth Elemental> now can summon Walking Dead. |
+  |    2    | 12 | 21 | **50x** [Hero Human Sandro](/Items/her_373/) | For every summoned creature dies, your hero recovers 1 mana and CD for all spells is reduced by 1s |
+  |    3    | 16 | 28 | **100x** [Hero Human Sandro](/Items/her_373/) | When a friendly unit (other than a summoned unit) dies, Lich casts <Sacrifice> once. Lich gains 20% increased unit damage and 20% increased unit damage reduction. |
+  |    4    | 20 | 35 | **150x** [Hero Human Sandro](/Items/her_373/) | Whenever an earth spell is cast, friendly Necropolis units will recover 8% HP. Enemy units' damage will decrease by 20%, lasting for 8 seconds. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Necromancy

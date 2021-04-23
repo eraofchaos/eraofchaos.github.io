@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | <Fire Wall> upgrades to <Infernal Wall>, and the length increases by 20%. It deals an additional damage equal to 15% of the target's max HP. The Mana cost reduces by 10. |
-  |    2    | 30 | 15 | All spell damage taken by burned enemy units increases by 15%. Firebird gains 35% increased CRIT DMG when it's against Burned enemy units. |
-  |    3    | 40 | 20 | Increases all fire spell damage by 15%. Firebird gains 10% increased Attack Speed and 10% increased unit damage. |
-  |    4    | 50 | 25 | Luna's <Infernal Wall> and <Land on Fire> can stun burned units for 4s. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 20 | 10 | **30x** [Luna](/Items/her_378/) | <Fire Wall> upgrades to <Infernal Wall>, and the length increases by 20%. It deals an additional damage equal to 15% of the target's max HP. The Mana cost reduces by 10. |
+  |    2    | 30 | 15 | **50x** [Luna](/Items/her_378/) | All spell damage taken by burned enemy units increases by 15%. Firebird gains 35% increased CRIT DMG when it's against Burned enemy units. |
+  |    3    | 40 | 20 | **100x** [Luna](/Items/her_378/) | Increases all fire spell damage by 15%. Firebird gains 10% increased Attack Speed and 10% increased unit damage. |
+  |    4    | 50 | 25 | **150x** [Luna](/Items/her_378/) | Luna's <Infernal Wall> and <Land on Fire> can stun burned units for 4s. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Fire arrow

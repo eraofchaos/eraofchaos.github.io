@@ -30,12 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | Black Knight turns into Death Knight. Unit damage reduction and unit damage increases by 20%. Each time an enemy unit dies, the Death Knight gains a bonus 5% in unit's damage reduction and unit's magic resistance, up to 5 stacks. |
-  |    2    | 30 | 15 | Black Knights can cast Critical Strike once at the beginning of battle, reducing the unit damage reduction of the target unit by 30%, lasting for 30s. For each Necropolis unit deployed, unit damage is increased by 5%. |
-  |    3    | 40 | 20 | <Sorrow> can stun the target, and <Death Ripple> has a 30% chance to stun all units (except Necropolis units). Stun lasts for 3s. |
-  |    4    | 50 | 25 | <Kill Order> CD reduces to 4s, and the damage of Death Knight's <Critical Strike> increases to 150%. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 20 | 10 | **30x** [Lord Haart](/Items/her_370/) | Black Knight turns into Death Knight. Unit damage reduction and unit damage increases by 20%. Each time an enemy unit dies, the Death Knight gains a bonus 5% in unit's damage reduction and unit's magic resistance, up to 5 stacks. |
+  |    2    | 30 | 15 | **50x** [Lord Haart](/Items/her_370/) | Black Knights can cast Critical Strike once at the beginning of battle, reducing the unit damage reduction of the target unit by 30%, lasting for 30s. For each Necropolis unit deployed, unit damage is increased by 5%. |
+  |    3    | 40 | 20 | **100x** [Lord Haart](/Items/her_370/) | <Sorrow> can stun the target, and <Death Ripple> has a 30% chance to stun all units (except Necropolis units). Stun lasts for 3s. |
+  |    4    | 50 | 25 | **150x** [Lord Haart](/Items/her_370/) | <Kill Order> CD reduces to 4s, and the damage of Death Knight's <Critical Strike> increases to 150%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Air Arrow

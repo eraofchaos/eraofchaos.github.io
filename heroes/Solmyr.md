@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 18 | <Chain Lightning> can bounce 2 more times and the damage doesn't decrease; all of Solmyr's spells don't have an initial CD. |
-  |    2    | 18 | 27 | The air spells cast by Solmyr get an Electrostatic Field. The spell damage taken by targets covered with an Electrostatic Field is increased by 50%. For 6s, the target will take additional static damage equal to 15% of their Max HP. The damage can be stacked. |
-  |    3    | 24 | 36 | CD for all air heroes' spells decreases by 15%. |
-  |    4    | 30 | 45 | <Chain Lightning> deals additional damage to enemy units equal to 30% of their Max HP. |
+  | Stars | Hero Attack | Hero Intelligence | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 18 | **30x** [Solmyr](/Items/her_386/) | <Chain Lightning> can bounce 2 more times and the damage doesn't decrease; all of Solmyr's spells don't have an initial CD. |
+  |    2    | 18 | 27 | **50x** [Solmyr](/Items/her_386/) | The air spells cast by Solmyr get an Electrostatic Field. The spell damage taken by targets covered with an Electrostatic Field is increased by 50%. For 6s, the target will take additional static damage equal to 15% of their Max HP. The damage can be stacked. |
+  |    3    | 24 | 36 | **100x** [Solmyr](/Items/her_386/) | CD for all air heroes' spells decreases by 15%. |
+  |    4    | 30 | 45 | **150x** [Solmyr](/Items/her_386/) | <Chain Lightning> deals additional damage to enemy units equal to 30% of their Max HP. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Air Arrow

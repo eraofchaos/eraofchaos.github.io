@@ -28,12 +28,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 14 | 16 | Friendly Fortress units are immune to freeze, petrification and Time Stop. Tazar's mana cost for casting earth spells decreases by 20%. |
-  |    2    | 21 | 24 | During <Death Match>, all units on the battlefield can't be healed, the life drain of friendly units will increase to 35%, and friendly Fortress units will increase unit damage reduction by 20% and Crit Hit by 1000 (Life drain and HP recovery do not count as healing). |
-  |    3    | 28 | 32 | For every debuff Fortress units have, gain 1 stack of <Plague Symbiosis>/<Plague Aggravation>/<Plague Dominance> up to 8 stacks. Hydra becomes immune to <stun> and is guaranteed one <Chasing Bite> every 10s. For 3s after <Chasing Bite>, Hydra increases Crit DMG by 20%. |
-  |    4    | 35 | 40 | All friendly Fortress units increase unit DEF by 20% and unit damage by 10%. |
+  | Stars | Hero Attack | Hero Defense | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 14 | 16 | **30x** [Tazar](/Items/her_393/) | Friendly Fortress units are immune to freeze, petrification and Time Stop. Tazar's mana cost for casting earth spells decreases by 20%. |
+  |    2    | 21 | 24 | **50x** [Tazar](/Items/her_393/) | During <Death Match>, all units on the battlefield can't be healed, the life drain of friendly units will increase to 35%, and friendly Fortress units will increase unit damage reduction by 20% and Crit Hit by 1000 (Life drain and HP recovery do not count as healing). |
+  |    3    | 28 | 32 | **100x** [Tazar](/Items/her_393/) | For every debuff Fortress units have, gain 1 stack of <Plague Symbiosis>/<Plague Aggravation>/<Plague Dominance> up to 8 stacks. Hydra becomes immune to <stun> and is guaranteed one <Chasing Bite> every 10s. For 3s after <Chasing Bite>, Hydra increases Crit DMG by 20%. |
+  |    4    | 35 | 40 | **150x** [Tazar](/Items/her_393/) | All friendly Fortress units increase unit DEF by 20% and unit damage by 10%. |
+
+ **Special Desciption 1:** General hint, to be added
 
 ## Spell
 ### 1 Spell: Earth Arrow
