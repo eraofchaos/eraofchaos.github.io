@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** When using forbidden spells, it protects the spellcaster from being counterattacked by evil forces. One of the components of the Mirror of Revenge.
 
- **Part of Artifact:** [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4}
+ **Part of Artifact:** ![Mirror of Revenge](/images/t/icon_artifact_35.png) [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 

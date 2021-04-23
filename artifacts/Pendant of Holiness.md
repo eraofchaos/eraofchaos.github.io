@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Pendant of Holiness](/images/t/artifact_40416.png)
+
 
 
 ## Details

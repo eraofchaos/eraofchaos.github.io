@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Staff of the Netherworld](/images/t/artifact_40436.png)
+
 
 
 ## Details

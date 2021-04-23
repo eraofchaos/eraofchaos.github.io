@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ice Crystal Shield](/images/t/artifact_40435.png)
+
 
 
 ## Details

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Armor of Wonders](/images/t/artifact_40414.png)
+
 
 
 ## Details

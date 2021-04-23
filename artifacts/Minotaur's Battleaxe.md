@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Minotaur's Battleaxe](/images/t/artifact_40432.png)
+
 
 
 ## Details

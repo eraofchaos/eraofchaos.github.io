@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Sandals of the Saint](/images/t/artifact_40415.png)
+
 
 
 ## Details

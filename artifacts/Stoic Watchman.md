@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Stoic Watchman](/images/t/artifact_40332.png)
+
 
 
 ## Details
 
  **Description:** A adventurer sculpture with flaming eyes. One of the components of the Live Hawkeye.
 
- **Part of Artifact:** [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Live Hawkeye](/images/t/icon_artifact_33.png) [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artifact essence](/Items/con_905/)
 

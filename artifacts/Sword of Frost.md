@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Minotaur's Battleaxe](/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Staff of the Netherworld](/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  |  [Deep-Sea Trident](/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Sword of Frost** |  [Ogre's Staff](/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  |  [Withering Staff](/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Ice Crystal Shield](/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  | ![Minotaur's Battleaxe](/images/t/artifact_40432.png) [Minotaur's Battleaxe](/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | ![Staff of the Netherworld](/images/t/artifact_40436.png) [Staff of the Netherworld](/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  | ![Deep-Sea Trident](/images/t/artifact_40431.png) [Deep-Sea Trident](/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Sword of Frost** | ![Ogre's Staff](/images/t/artifact_40434.png) [Ogre's Staff](/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  | ![Withering Staff](/images/t/artifact_40433.png) [Withering Staff](/artifacts/Withering Staff/){: .btn .btn--era5} |   | ![Ice Crystal Shield](/images/t/artifact_40435.png) [Ice Crystal Shield](/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Details
@@ -31,12 +31,12 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Deep-Sea Trident](/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Attack**: 10+(LEVEL\*4) | A weapon used by Poseidon. One of the components of the Sword of Frost | 
-  | 2 | [Minotaur's Battleaxe](/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} | **Unit Attack**: 5+(LEVEL\*2) %<br/>**Hero Attack**: 12+(LEVEL\*4.8)<br/>**Hero Defense**: 8+(LEVEL\*3.2) | A battleaxe passed down by the Tauren. One of the components of the Sword of Frost. | 
-  | 3 | [Withering Staff](/artifacts/Withering Staff/){: .btn .btn--era5} | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 10+(LEVEL\*4) %<br/>**Hero Attack**: 6+(LEVEL\*2.4) | A staff used by an Arch Lich. One of the components of the Sword of Frost. | 
-  | 4 | [Ogre's Staff](/artifacts/Ogre's Staff/){: .btn .btn--era5} | **Unit Health**: 6+(LEVEL\*2.4) %<br/>**Hero Defense**: 12+(LEVEL\*4.8)<br/>**Hero Intelligence**: 6+(LEVEL\*2.4) | A staff worshipped by the Ogre. One of the components of the Sword of Frost. | 
-  | 5 | [Ice Crystal Shield](/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | **Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Defense**: 10+(LEVEL\*4)<br/>**Hero Knowledge**: 4+(LEVEL\*1.6) | A holy shield sealed on the plateau of Bracada. One of the components of the Sword of Frost. | 
-  | 6 | [Staff of the Netherworld](/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | **Hero Attack**: 8+(LEVEL\*3.2)<br/>**Hero Intelligence**: 10+(LEVEL\*4)<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | An ultimate staff sealed in Deyja. One of the components of the Sword of Frost. | 
+  | 1 | ![Deep-Sea Trident](/images/t/artifact_40431.png) [Deep-Sea Trident](/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Attack**: 10+(LEVEL\*4) | A weapon used by Poseidon. One of the components of the Sword of Frost | 
+  | 2 | ![Minotaur's Battleaxe](/images/t/artifact_40432.png) [Minotaur's Battleaxe](/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} | **Unit Attack**: 5+(LEVEL\*2) %<br/>**Hero Attack**: 12+(LEVEL\*4.8)<br/>**Hero Defense**: 8+(LEVEL\*3.2) | A battleaxe passed down by the Tauren. One of the components of the Sword of Frost. | 
+  | 3 | ![Withering Staff](/images/t/artifact_40433.png) [Withering Staff](/artifacts/Withering Staff/){: .btn .btn--era5} | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 10+(LEVEL\*4) %<br/>**Hero Attack**: 6+(LEVEL\*2.4) | A staff used by an Arch Lich. One of the components of the Sword of Frost. | 
+  | 4 | ![Ogre's Staff](/images/t/artifact_40434.png) [Ogre's Staff](/artifacts/Ogre's Staff/){: .btn .btn--era5} | **Unit Health**: 6+(LEVEL\*2.4) %<br/>**Hero Defense**: 12+(LEVEL\*4.8)<br/>**Hero Intelligence**: 6+(LEVEL\*2.4) | A staff worshipped by the Ogre. One of the components of the Sword of Frost. | 
+  | 5 | ![Ice Crystal Shield](/images/t/artifact_40435.png) [Ice Crystal Shield](/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | **Unit Health**: 8+(LEVEL\*3.2) %<br/>**Hero Defense**: 10+(LEVEL\*4)<br/>**Hero Knowledge**: 4+(LEVEL\*1.6) | A holy shield sealed on the plateau of Bracada. One of the components of the Sword of Frost. | 
+  | 6 | ![Staff of the Netherworld](/images/t/artifact_40436.png) [Staff of the Netherworld](/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | **Hero Attack**: 8+(LEVEL\*3.2)<br/>**Hero Intelligence**: 10+(LEVEL\*4)<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | An ultimate staff sealed in Deyja. One of the components of the Sword of Frost. | 
 
 
 ## Artifact Advancement

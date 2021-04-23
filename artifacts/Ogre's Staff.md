@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ogre's Staff](/images/t/artifact_40434.png)
+
 
 
 ## Details

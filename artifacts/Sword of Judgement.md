@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Sword of Judgement](/images/t/artifact_40411.png)
+
 
 
 ## Details

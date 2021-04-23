@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Ring of Eagle Vision](/images/t/artifact_40334.png)
+
 
 
 ## Details
 
  **Description:** A secret ring with mounted eyeballs. One of the components of the Live Hawkeye
 
- **Part of Artifact:** [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Live Hawkeye](/images/t/icon_artifact_33.png) [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artifact essence](/Items/con_905/)
 

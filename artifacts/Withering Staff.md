@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Withering Staff](/images/t/artifact_40433.png)
+
 
 
 ## Details

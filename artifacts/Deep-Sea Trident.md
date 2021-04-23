@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Deep-Sea Trident](/images/t/artifact_40431.png)
+
 
 
 ## Details

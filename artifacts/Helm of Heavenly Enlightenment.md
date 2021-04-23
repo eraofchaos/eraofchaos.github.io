@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Helm of Heavenly Enlightenment](/images/t/artifact_40413.png)
+
 
 
 ## Details

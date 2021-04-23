@@ -18,7 +18,7 @@ classes: wide
   | 3   | ![Bow of the Sharpshooter](/images/t/icon_artifact_10.png) [Bow of the Sharpshooter](/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | 1 | A holy relic forged from treasures by the elves. Able to increase ranged attack. |
   | 4   | ![Cloak of the Undead King](/images/t/icon_artifact_32.png) [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | A holy relic made by a great undead king to hide his face. Able to summon a skeleton army. |
   | 5   | ![Archmage's Codex](/images/t/icon_artifact_34.png) [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4} | 4 | 35 | Records Arcane spells. Strengthens Ranged/Caster units. |
-  | 6   | [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4} | 4 | 35 | A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops. |
+  | 6   | ![Mirror of Revenge](/images/t/icon_artifact_35.png) [Mirror of Revenge](/artifacts/Mirror of Revenge/){: .btn .btn--era4} | 4 | 35 | A weak mage used forbidden spells to create this evil artifact for the purposes of revenge. This artifact can boost the battle power of your troops. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)

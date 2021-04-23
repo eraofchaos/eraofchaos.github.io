@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Bird of Perception](/images/t/artifact_40331.png)
+
 
 
 ## Details
 
  **Description:** A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye.
 
- **Part of Artifact:** [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Live Hawkeye](/images/t/icon_artifact_33.png) [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artifact essence](/Items/con_905/)
 

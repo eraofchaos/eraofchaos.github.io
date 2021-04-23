@@ -24,7 +24,7 @@ classes: wide
   | 9   | ![Cloak of the Undead King](/images/t/icon_artifact_32.png) [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | A holy relic made by a great undead king to hide his face. Able to summon a skeleton army. |
   | 10   | ![Archmage's Codex](/images/t/icon_artifact_34.png) [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4} | 4 | 35 | Records Arcane spells. Strengthens Ranged/Caster units. |
   | 11   | ![Titan's Thunder](/images/t/icon_artifact_42.png) [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | 4 | 1 | A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies. |
-  | 12   | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | 4 | 35 | Stay alive. Then, you will witness more wealth |
+  | 12   | ![Live Hawkeye](/images/t/icon_artifact_33.png) [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | 4 | 35 | Stay alive. Then, you will witness more wealth |
   | 13   | ![Spellbinder's Hat](/images/t/icon_artifact_46.png) [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | 4 | 60 | A Spellbinder' Hat representing the greatest honor of mages. Only senior mages who master fire, water, air and earth are qualified to own it. The hat can improve magic elemental affinity greatly |
   | 14   | ![Power of the Dragon Father](/images/t/icon_artifact_40.png) [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} | 6 | 45 | A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage. |
   | 15   | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} | 6 | 60 | The immense glacier destroyed the city of its origin |
