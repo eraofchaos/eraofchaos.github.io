@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Titan's Gladius](/artifacts/Titan's Gladius/){: .btn .btn--era5} |   | [Titan's Cuirass](/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
-  |   | **Titan's Thunder** |  | 
-  | [Sentinel's Shield](/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   | [Thunder Helmet](/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
+  |  [Titan's Gladius](/artifacts/Titan's Gladius/){: .btn .btn--era5} |   |  [Titan's Cuirass](/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
+  |   | ![Titan's Thunder](/images/t/icon_artifact_42.png) **Titan's Thunder** |  | 
+  |  [Sentinel's Shield](/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   |  [Thunder Helmet](/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
 
 
 ## Details

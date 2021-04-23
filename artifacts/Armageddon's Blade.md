@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Forest Bow](/artifacts/Forest Bow/){: .btn .btn--era5} |   | [Examplar Crossbow](/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | [Knight Sword](/artifacts/Knight Sword/){: .btn .btn--era5} | **Armageddon's Blade** | [Mountain Battleaxe](/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | [Staff of Wisdom](/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | [Warrior Hammer](/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  |  [Forest Bow](/artifacts/Forest Bow/){: .btn .btn--era5} |   |  [Examplar Crossbow](/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  |  [Knight Sword](/artifacts/Knight Sword/){: .btn .btn--era5} | ![Armageddon's Blade](/images/t/icon_artifact_44.png) **Armageddon's Blade** |  [Mountain Battleaxe](/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  |  [Staff of Wisdom](/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   |  [Warrior Hammer](/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Details

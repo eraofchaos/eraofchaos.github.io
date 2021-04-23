@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Bird of Perception](/artifacts/Bird of Perception/){: .btn .btn--era5} |   | [Ring of Eagle Vision](/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
+  |  [Bird of Perception](/artifacts/Bird of Perception/){: .btn .btn--era5} |   |  [Ring of Eagle Vision](/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
   |   | **Live Hawkeye** |  | 
-  | [Stoic Watchman](/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | [Medal of Truth](/artifacts/Medal of Truth/){: .btn .btn--era5} | 
+  |  [Stoic Watchman](/artifacts/Stoic Watchman/){: .btn .btn--era5} |   |  [Medal of Truth](/artifacts/Medal of Truth/){: .btn .btn--era5} | 
 
 
 ## Details

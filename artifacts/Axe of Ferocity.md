@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Ogre's Club of Havoc](/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | [Tunic of the Cyclops King](/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
-  |   | **Axe of Ferocity** |  | 
-  | [Targ of the Rampaging Ogre](/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | [Crown of the Supreme Magi](/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  |  [Ogre's Club of Havoc](/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   |  [Tunic of the Cyclops King](/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  |   | ![Axe of Ferocity](/images/t/icon_artifact_31.png) **Axe of Ferocity** |  | 
+  |  [Targ of the Rampaging Ogre](/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   |  [Crown of the Supreme Magi](/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Details

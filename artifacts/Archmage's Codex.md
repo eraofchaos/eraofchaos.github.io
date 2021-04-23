@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Pendant of Negativity](/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   | [Staff of Disruption](/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
-  |   | **Archmage's Codex** |  | 
-  | [Recanter's Cloak](/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   | [Ring of Flares](/artifacts/Ring of Flares/){: .btn .btn--era4} | 
+  |  [Pendant of Negativity](/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   |  [Staff of Disruption](/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
+  |   | ![Archmage's Codex](/images/t/icon_artifact_34.png) **Archmage's Codex** |  | 
+  |  [Recanter's Cloak](/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   |  [Ring of Flares](/artifacts/Ring of Flares/){: .btn .btn--era4} | 
 
 
 ## Details

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Dragonbone Greaves](/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   | [Necklace of Dragonteeth](/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
-  | [Dragon Scale Shield](/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | **Power of the Dragon Father** | [Crown of Dragontooth](/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
-  | [Red Dragon Flame Tongue](/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   | [Dragon Scale Armour](/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
+  |  [Dragonbone Greaves](/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   |  [Necklace of Dragonteeth](/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
+  |  [Dragon Scale Shield](/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | ![Power of the Dragon Father](/images/t/icon_artifact_40.png) **Power of the Dragon Father** |  [Crown of Dragontooth](/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
+  |  [Red Dragon Flame Tongue](/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   |  [Dragon Scale Armour](/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
 
 
 ## Details

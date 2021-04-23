@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Charm of Mana](/artifacts/Charm of Mana/){: .btn .btn--era3} |   | [Magic Charm](/artifacts/Magic Charm/){: .btn .btn--era3} | 
-  |   | **Wizard's Well** |  | 
-  |   | [Mystic Orb of Mana](/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+  |  [Charm of Mana](/artifacts/Charm of Mana/){: .btn .btn--era3} |   |  [Magic Charm](/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  |   | ![Wizard's Well](/images/t/icon_artifact_21.png) **Wizard's Well** |  | 
+  |   |  [Mystic Orb of Mana](/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
 ## Details

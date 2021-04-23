@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Tome of Fire Magic](/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | [Tome of Earth Magic](/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
-  |   | **Spellbinder's Hat** |  | 
-  | [Tome of Water Magic](/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | [Tome of Air Magic](/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  |  [Tome of Fire Magic](/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   |  [Tome of Earth Magic](/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  |   | ![Spellbinder's Hat](/images/t/icon_artifact_46.png) **Spellbinder's Hat** |  | 
+  |  [Tome of Water Magic](/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   |  [Tome of Air Magic](/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Details

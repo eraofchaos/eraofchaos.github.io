@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Crystal Ball](/artifacts/Crystal Ball/){: .btn .btn--era5} |   | [Shroud of Eden](/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
-  | [Crystal Skull](/artifacts/Crystal Skull/){: .btn .btn--era5} | **Apple of Eden** | [Sword of Eden](/artifacts/Sword of Eden/){: .btn .btn--era5} | 
-  | [Ankh](/artifacts/Ankh/){: .btn .btn--era5} |   | [Staff of Eden](/artifacts/Staff of Eden/){: .btn .btn--era5} | 
+  |  [Crystal Ball](/artifacts/Crystal Ball/){: .btn .btn--era5} |   |  [Shroud of Eden](/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
+  |  [Crystal Skull](/artifacts/Crystal Skull/){: .btn .btn--era5} | ![Apple of Eden](/images/t/icon_artifact_49.png) **Apple of Eden** |  [Sword of Eden](/artifacts/Sword of Eden/){: .btn .btn--era5} | 
+  |  [Ankh](/artifacts/Ankh/){: .btn .btn--era5} |   |  [Staff of Eden](/artifacts/Staff of Eden/){: .btn .btn--era5} | 
 
 
 ## Details

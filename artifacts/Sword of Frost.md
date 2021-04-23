@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Minotaur's Battleaxe](/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | [Staff of the Netherworld](/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  | [Deep-Sea Trident](/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Sword of Frost** | [Ogre's Staff](/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  | [Withering Staff](/artifacts/Withering Staff/){: .btn .btn--era5} |   | [Ice Crystal Shield](/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  |  [Minotaur's Battleaxe](/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Staff of the Netherworld](/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  |  [Deep-Sea Trident](/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Sword of Frost** |  [Ogre's Staff](/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  |  [Withering Staff](/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Ice Crystal Shield](/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Details

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Chaos Brazier](/artifacts/Chaos Brazier/){: .btn .btn--era4} |   | [Forgotten Hourglass](/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | 
+  |  [Chaos Brazier](/artifacts/Chaos Brazier/){: .btn .btn--era4} |   |  [Forgotten Hourglass](/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | 
   |   | **Mirror of Revenge** |  | 
-  | [Ice Scale](/artifacts/Ice Scale/){: .btn .btn--era4} |   | [Necklace of Balance](/artifacts/Necklace of Balance/){: .btn .btn--era4} | 
+  |  [Ice Scale](/artifacts/Ice Scale/){: .btn .btn--era4} |   |  [Necklace of Balance](/artifacts/Necklace of Balance/){: .btn .btn--era4} | 
 
 
 ## Details

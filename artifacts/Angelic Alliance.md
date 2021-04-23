@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Lion's Shield of Courage](/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | [Pendant of Holiness](/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  | [Sword of Judgement](/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Angelic Alliance** | [Armor of Wonders](/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  | [Helm of Heavenly Enlightenment](/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | [Sandals of the Saint](/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Lion's Shield of Courage](/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Pendant of Holiness](/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  |  [Sword of Judgement](/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Angelic Alliance](/images/t/icon_artifact_41.png) **Angelic Alliance** |  [Armor of Wonders](/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  |  [Helm of Heavenly Enlightenment](/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Sandals of the Saint](/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Details

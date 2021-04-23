@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Garniture of Interference](/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | [Surcoat of Counterpoise](/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
-  |   | **Antimagic Runestone** |  | 
-  |   | [Boots of Polarity](/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  |  [Garniture of Interference](/artifacts/Garniture of Interference/){: .btn .btn--era3} |   |  [Surcoat of Counterpoise](/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  |   | ![Antimagic Runestone](/images/t/icon_artifact_23.png) **Antimagic Runestone** |  | 
+  |   |  [Boots of Polarity](/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Details
