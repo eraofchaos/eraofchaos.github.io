@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Vampire's Cowl](/images/t/artifact_40322.png)
+
 
 
 ## Details

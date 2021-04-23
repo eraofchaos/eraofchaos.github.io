@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bowstring of the Unicorn's Mane](/images/t/artifact_40103.png)
+
 
 
 ## Details

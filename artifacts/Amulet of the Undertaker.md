@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Amulet of the Undertaker](/images/t/artifact_40321.png)
+
 
 
 ## Details

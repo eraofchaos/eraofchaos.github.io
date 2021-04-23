@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Forest Bow](/images/t/artifact_40442.png)
+
 
 
 ## Details

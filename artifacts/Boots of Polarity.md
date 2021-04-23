@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Boots of Polarity](/images/t/artifact_40233.png)
+
 
 
 ## Details

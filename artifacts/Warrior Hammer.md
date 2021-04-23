@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Warrior Hammer](/images/t/artifact_40445.png)
+
 
 
 ## Details

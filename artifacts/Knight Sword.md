@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Knight Sword](/images/t/artifact_40441.png)
+
 
 
 ## Details

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tome of Earth Magic](/images/t/artifact_40464.png)
+
 
 
 ## Details

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Crown of the Supreme Magi](/images/t/artifact_40313.png)
+
 
 
 ## Details

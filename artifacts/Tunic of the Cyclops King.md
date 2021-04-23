@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tunic of the Cyclops King](/images/t/artifact_40314.png)
+
 
 
 ## Details

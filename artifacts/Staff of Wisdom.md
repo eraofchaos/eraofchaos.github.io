@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Staff of Wisdom](/images/t/artifact_40443.png)
+
 
 
 ## Details

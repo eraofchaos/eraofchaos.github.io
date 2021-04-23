@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bow of Elven Cherrywood](/images/t/artifact_40101.png)
+
 
 
 ## Details

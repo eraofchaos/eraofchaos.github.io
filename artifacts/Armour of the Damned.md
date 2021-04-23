@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Sword of Hellfire](/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   |  [Bone Armour](/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  | ![Sword of Hellfire](/images/t/artifact_40301.png) [Sword of Hellfire](/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Bone Armour](/images/t/artifact_40301.png) [Bone Armour](/artifacts/Bone Armour/){: .btn .btn--era4} | 
   |   | ![Armour of the Damned](/images/t/icon_artifact_30.png) **Armour of the Damned** |  | 
-  |  [Shield of the Yawning Dead](/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   |  [Skull Helmet](/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+  | ![Shield of the Yawning Dead](/images/t/artifact_40301.png) [Shield of the Yawning Dead](/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Skull Helmet](/images/t/artifact_40301.png) [Skull Helmet](/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
 ## Details

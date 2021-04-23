@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Surcoat of Counterpoise](/images/t/artifact_40232.png)
+
 
 
 ## Details

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Ring of Vitality](/artifacts/Ring of Vitality/){: .btn .btn--era2} |   |  [Ring of Life](/artifacts/Ring of Life/){: .btn .btn--era2} | 
+  | ![Ring of Vitality](/images/t/artifact_40111.png) [Ring of Vitality](/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Ring of Life](/images/t/artifact_40111.png) [Ring of Life](/artifacts/Ring of Life/){: .btn .btn--era2} | 
   |   | ![Elixir of Life](/images/t/icon_artifact_11.png) **Elixir of Life** |  | 
-  |   |  [Bottle of Energy](/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
+  |   | ![Bottle of Energy](/images/t/artifact_40111.png) [Bottle of Energy](/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
 ## Details

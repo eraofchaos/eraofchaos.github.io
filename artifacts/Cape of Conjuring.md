@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Cape of Conjuring](/images/t/artifact_40223.png)
+
 
 
 ## Details

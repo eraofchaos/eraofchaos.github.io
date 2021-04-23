@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Sword of Hellfire](/images/t/artifact_40301.png)
+
 
 
 ## Details

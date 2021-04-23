@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Collar of Conjuring](/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   |  [Ring of Conjuring](/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
+  | ![Collar of Conjuring](/images/t/artifact_40221.png) [Collar of Conjuring](/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Ring of Conjuring](/images/t/artifact_40221.png) [Ring of Conjuring](/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
   |   | ![Ring of the Mage](/images/t/icon_artifact_22.png) **Ring of the Mage** |  | 
-  |   |  [Cape of Conjuring](/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
+  |   | ![Cape of Conjuring](/images/t/artifact_40221.png) [Cape of Conjuring](/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
 
 
 ## Details

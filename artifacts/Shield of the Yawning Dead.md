@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Shield of the Yawning Dead](/images/t/artifact_40302.png)
+
 
 
 ## Details

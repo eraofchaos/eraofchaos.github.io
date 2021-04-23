@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Mystic Orb of Mana](/images/t/artifact_40213.png)
+
 
 
 ## Details

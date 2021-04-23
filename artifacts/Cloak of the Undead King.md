@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Amulet of the Undertaker](/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   |  [Vampire's Cowl](/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  | ![Amulet of the Undertaker](/images/t/artifact_40321.png) [Amulet of the Undertaker](/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Vampire's Cowl](/images/t/artifact_40321.png) [Vampire's Cowl](/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
   |   | ![Cloak of the Undead King](/images/t/icon_artifact_32.png) **Cloak of the Undead King** |  | 
-  |   |  [Dead Man's Boots](/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  |   | ![Dead Man's Boots](/images/t/artifact_40321.png) [Dead Man's Boots](/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Details

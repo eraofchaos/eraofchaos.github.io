@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tome of Water Magic](/images/t/artifact_40462.png)
+
 
 
 ## Details

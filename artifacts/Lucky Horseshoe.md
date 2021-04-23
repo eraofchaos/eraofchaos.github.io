@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Clover of Fortune](/artifacts/Clover of Fortune/){: .btn .btn--era2} |   |  [Cards of Prophecy](/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  | ![Clover of Fortune](/images/t/artifact_40121.png) [Clover of Fortune](/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Cards of Prophecy](/images/t/artifact_40121.png) [Cards of Prophecy](/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
   |   | ![Lucky Horseshoe](/images/t/icon_artifact_12.png) **Lucky Horseshoe** |  | 
-  |   |  [Ladybird of Luck](/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  |   | ![Ladybird of Luck](/images/t/artifact_40121.png) [Ladybird of Luck](/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Details

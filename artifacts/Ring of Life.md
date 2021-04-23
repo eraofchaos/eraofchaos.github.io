@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ring of Life](/images/t/artifact_40112.png)
+
 
 
 ## Details

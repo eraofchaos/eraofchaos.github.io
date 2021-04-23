@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ogre's Club of Havoc](/images/t/artifact_40311.png)
+
 
 
 ## Details

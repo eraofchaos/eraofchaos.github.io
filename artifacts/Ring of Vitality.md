@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ring of Vitality](/images/t/artifact_40111.png)
+
 
 
 ## Details

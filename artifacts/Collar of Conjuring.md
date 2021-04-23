@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Collar of Conjuring](/images/t/artifact_40221.png)
+
 
 
 ## Details

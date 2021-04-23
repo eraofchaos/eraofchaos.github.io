@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ring of Conjuring](/images/t/artifact_40222.png)
+
 
 
 ## Details

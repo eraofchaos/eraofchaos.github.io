@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ladybird of Luck](/images/t/artifact_40123.png)
+
 
 
 ## Details

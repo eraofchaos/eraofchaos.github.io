@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Examplar Crossbow](/images/t/artifact_40446.png)
+
 
 
 ## Details

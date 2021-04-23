@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Targ of the Rampaging Ogre](/images/t/artifact_40312.png)
+
 
 
 ## Details

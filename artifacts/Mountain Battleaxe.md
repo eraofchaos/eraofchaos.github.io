@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Mountain Battleaxe](/images/t/artifact_40444.png)
+
 
 
 ## Details

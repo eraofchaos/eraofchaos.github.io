@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Skull Helmet](/images/t/artifact_40303.png)
+
 
 
 ## Details

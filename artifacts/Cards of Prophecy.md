@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Cards of Prophecy](/images/t/artifact_40122.png)
+
 
 
 ## Details

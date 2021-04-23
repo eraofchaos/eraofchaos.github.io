@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Clover of Fortune](/images/t/artifact_40121.png)
+
 
 
 ## Details

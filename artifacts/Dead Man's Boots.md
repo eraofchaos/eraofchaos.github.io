@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Dead Man's Boots](/images/t/artifact_40323.png)
+
 
 
 ## Details

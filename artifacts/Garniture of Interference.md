@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Garniture of Interference](/images/t/artifact_40231.png)
+
 
 
 ## Details

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Charm of Mana](/images/t/artifact_40211.png)
+
 
 
 ## Details

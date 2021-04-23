@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bone Armour](/images/t/artifact_40304.png)
+
 
 
 ## Details

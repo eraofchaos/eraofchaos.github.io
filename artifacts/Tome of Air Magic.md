@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tome of Air Magic](/images/t/artifact_40463.png)
+
 
 
 ## Details
