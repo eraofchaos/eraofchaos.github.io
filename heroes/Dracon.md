@@ -4,7 +4,7 @@ permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon is considered a magical prodigy by many of his elders. His goal in life is to become history's greatest dragonslayer."
 heroID: 61202
 QR: hero_61202
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Dracon"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Dracon is considered a magical prodigy by many of his elders. His goal in life is to become history's greatest dragonslayer.
 ## Details
- **Profession:** Wizard
+ **Profession:** ![Wizard](/images/h/h_prof_15.png) Wizard
 
  **Race:** Tower
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Enchanter
+ **Hero specialty:** Enchanter
 
  **Specialty Desc:** Under Dracon's leadership, Monks and Mages upgrade to Enchanters. Their skills will be greatly improved.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 20 | TBD |
-  |    2    | 15 | 30 | TBD |
-  |    3    | 20 | 40 | TBD |
-  |    4    | 25 | 50 | TBD |
+  |    1    | 10 | 20 | Monk upgrades to Enchanter. <Prayer> upgrades to <Expert Prayer>, which can be effective on 2 units and the HP healed will be increased by an additional 10%. |
+  |    2    | 15 | 30 | Mage upgrades to Enchanter. Her <Hurricane> becomes effective on the closest and furthest 2 units. Targets that are blown into the air by <Hurricane> will additionally have their Unit DMG Reduction decreased by 20%. |
+  |    3    | 20 | 40 | Unit damage and unit damage reduction of all friendly Caster Units increase by 5%. |
+  |    4    | 25 | 50 | When an Enchanter is on the battlefield, all friendly Ranged/Caster units become immune to spell damage every 12s, lasting for 4s. |
 
-## Spells
+## Spell
 ### 1 Spell: Frozen Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 

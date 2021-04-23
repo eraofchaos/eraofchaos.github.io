@@ -4,7 +4,7 @@ permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. Even though he's in a wholly different world, Ezio continues to hold fast to his conviction. He works in the dark to serve the light."
 heroID: 61901
 QR: hero_61901
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Ezio"
 toc: true
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R+
 
- **Specialty:** Brotherhood
+ **Hero specialty:** Brotherhood
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | Assassin's <Assassination> skill becomes <Execution>, increasing Assassin's dodge and tenacity by 600 each. |
+  |    2    | 30 | 15 | <Quiet> decreases the unit damage reduction of enemy units within range by an additional 20%. |
+  |    3    | 40 | 20 | Each deployed Melee unit increases Assassins' and Spartan Warriors' Unit DMG by 5% and Attack Speed by 3%. Each deployed Ranged/Caster unit increases Assassins' and Spartan Warriors' Unit DMG Reduction by 5% and Defense by 3%. Assassins gain 3s of Stealth every 25s. |
+  |    4    | 50 | 25 | The cost of casting the <Eagle Vision> spell decreases by 20%, while all non-Neutral faction enemy units cannot attack, move, or cast skills for 3s. The attribute buff provided by <Hawkeye> on friendly Neutral units is increased by 50%. |
 
-## Spells
+## Spell
 ### 1 Spell: Hidden Blade Assassination
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: #e07c44;font-size:20px">bleeding</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

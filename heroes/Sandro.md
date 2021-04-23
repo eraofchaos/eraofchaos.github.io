@@ -4,7 +4,7 @@ permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro is a Necromancer who has seen all of Enroth and Erathia. Now he apparently supports Finneas Vilmar, leader of the Necromancers of Deyja."
 heroID: 60501
 QR: hero_60501
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Sandro"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Sandro is a Necromancer who has seen all of Enroth and Erathia. Now he apparently supports Finneas Vilmar, leader of the Necromancers of Deyja.
 ## Details
- **Profession:** Necromancer
+ **Profession:** ![Necromancer](/images/h/h_prof_6.png) Necromancer
 
  **Race:** Necropolis
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SSR
 
- **Specialty:** Darkness Falls
+ **Hero specialty:** Darkness Falls
 
  **Mana base:** 45
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | Low Morale can reduce Magic resistance by 50% and unit damage by 10% for enemy units. ATK speed reduction will increase from 33% to 50%. |
+  |    2    | 30 | 15 | <Implosion> reduces mana cost by 10, deals damage to targets equal to 2% of their Max HP, and doubles damage to units in \"Low Morale\"and doubles the chance to stun them. |
+  |    3    | 40 | 20 | The unit damage reduction of friendly Necropolis units increases by an additional 10%. When fighting against units in \"Low Morale\", the damage reduction will be doubled. When friendly Necropolis units go into \"Low Morale\", the \"Low Morale\" will be dispelled, and their unit damage will increase by 10%, Crit Hit by 200 and ATK speed by 33%, lasting for 10s. |
+  |    4    | 50 | 25 | For every friendly Necropolis unit on the battlefield, mana regeneration increases by 0.8. When an enemy unit dies, every living friendly Necropolis unit can recover heroes' mana by 7. When Sandro casts <Darkest Hours>, every Necropolis unit has a 30% chance to reduce the CD of Sandro's skills by 1s. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

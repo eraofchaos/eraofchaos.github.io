@@ -4,7 +4,7 @@ permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. As a recently risen Nighon lord, Mutare was born with the ability to command dragons, which makes her nigh invincible in wars."
 heroID: 61301
 QR: hero_61301
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Mutare"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** As a recently risen Nighon lord, Mutare was born with the ability to command dragons, which makes her nigh invincible in wars.
 ## Details
- **Profession:** Overlord
+ **Profession:** ![Overlord](/images/h/h_prof_16.png) Overlord
 
  **Race:** Dungeon
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Dungeon Torrent
+ **Hero specialty:** Dungeon Torrent
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | TBD |
-  |    2    | 12 | 15 | TBD |
-  |    3    | 16 | 20 | TBD |
-  |    4    | 20 | 25 | TBD |
+  |    1    | 8 | 10 | For every friendly Dungeon Faction unit on the battlefield, Mutare's initial mana increases by 3 and the enemy's initial mana decreases by 3. |
+  |    2    | 12 | 15 | For every friendly Dungeon Faction unit on the battlefield, Magic resistance of all enemy units decreases by 8%. |
+  |    3    | 16 | 20 | Magic resistance of all Dungeon Faction units increases by 20%. |
+  |    4    | 20 | 25 | When friendly units on the battlefield deal a Crit Hit, Mutare will recover 0.2 mana. CD is 2s. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

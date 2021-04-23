@@ -4,7 +4,7 @@ permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. King Roland was rescued from the Kreegans by a group of warriors. In thanks, he joined the Erathian army as a general. There he met Catherine, and they fought together to resist foreign forces. "
 heroID: 60103
 QR: hero_60103
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Roland"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** King Roland was rescued from the Kreegans by a group of warriors. In thanks, he joined the Erathian army as a general. There he met Catherine, and they fought together to resist foreign forces. 
 ## Details
- **Profession:** Knight
+ **Profession:** ![Knight](/images/h/h_prof_1.png) Knight
 
  **Race:** Castle
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SR+
 
- **Specialty:** Heightened Morale
+ **Hero specialty:** Heightened Morale
 
  **Mana base:** 16
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | When Roland is on the battlefield, Attack Speed bonus from High Morale increases from 50% to 80%. Additionally increases the DEF of friendly Castle units by 20%. Decreases the cost of fire-type spells by 20% and the cost of water-type spells by 10%. When friendly units are within range of Roland's <Fire Wall>, they become immune to Slow, and increases their Unit DMG by 20% and Critical Hit DMG by 20%. At the same time, they recover HP equal to the damage dealt by <Fire Wall>. |
+  |    2    | 30 | 15 | ATK speed increases by 10%, and Crit DMG increases by 20% for all Castle units. |
+  |    3    | 40 | 20 | When Castle units have High Morale, additionally increases their Magic Resistance by 50%. Every time <King's Wind> is cast, removes Stun from all stunned friendly units, grants them immunity to Stun for 3s, and increases their Magic Resistance by 10%. This effect lasts for the whole battle and stacks up to 20 times. |
+  |    4    | 50 | 25 | <King's Wind> increases the Crit Hit of all friendly units by 200 and additionally increases Crit DMG of Castle units by 20%. For every enemy unit killed, Castle units recover 10% HP. Whenever <Fire Wall> is cast, increases the Unit DMG Reduction of Paladins by 5%. This effect lasts for the whole battle and stacks up to 6 times. The skill CD is 6s. Whenever a fire-type spell is cast, Angel casts Lv. 15 <Condemnation> once (without awakening effects). The skill CD is 6s. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

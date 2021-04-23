@@ -4,7 +4,7 @@ permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Dragon Mutare. Dragon Mutare. After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father."
 heroID: 61302
 QR: hero_61302
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Dragon Mutare"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father.
 ## Details
- **Profession:** Overlord
+ **Profession:** ![Overlord](/images/h/h_prof_16.png) Overlord
 
  **Race:** Dungeon
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SSR
 
- **Specialty:** Dragon Awakes
+ **Hero specialty:** Dragon Awakes
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 18 | TBD |
-  |    2    | 18 | 27 | TBD |
-  |    3    | 24 | 36 | TBD |
-  |    4    | 30 | 45 | TBD |
+  |    1    | 12 | 18 | <Dragon Roar> can trigger the Black Dragon, Green Dragon and Red Dragon's Ultimate Skills. When a Green Dragon is on the battlefield, unit damage and ATK speed of friendly units will increase by 10%. When a Black Dragon is on the battlefield, unit damage reduction and DEF of friendly units will increase by 10%. |
+  |    2    | 18 | 27 | When Dungeon units fight against burned targets, their unit damage increases by 20%. When attacked by bleeding targets, unit damage reduction increases by 20%. |
+  |    3    | 24 | 36 | For every Flying unit deployed, unit damage, unit damage reduction and ATK speed of the Black Dragon, Green Dragon and Red Dragon will increase by 3%. |
+  |    4    | 30 | 45 | When units trigger spell breaker skills, 2s of magic immunity (CD of 6s) will be granted and 10% of Max HP will be recovered. For every Dungeon unit deployed, the ATK speed of friendly units will increase by 4%. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

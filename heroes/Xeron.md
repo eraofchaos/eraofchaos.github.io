@@ -4,7 +4,7 @@ permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. When Lucifer Kreegan killed Xenofex and seized power, Xeron was the first to pledge allegiance to the usurper. This act won him the favour of the new king."
 heroID: 60801
 QR: hero_60801
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Xeron"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** When Lucifer Kreegan killed Xenofex and seized power, Xeron was the first to pledge allegiance to the usurper. This act won him the favour of the new king.
 ## Details
- **Profession:** Demoniac
+ **Profession:** ![Demoniac](/images/h/h_prof_9.png) Demoniac
 
  **Race:** Inferno
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** SSR
 
- **Specialty:** Arch Devil
+ **Hero specialty:** Arch Devil
 
  **Specialty Desc:** Under Xeron's leadership, Devil upgrades to Doombringer. Its fighting and attacking abilities are greatly improved.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | The Devil upgrades to Doombringer. <Withering> can deal damage twice on burning targets. <Cruel Torture> and <Painful Reaper> can cause silence for 6s every time. |
+  |    2    | 30 | 15 | When <Echo of the Abyss> is cast, the Devil (Doombringer) triggers its special skill. |
+  |    3    | 40 | 20 | For every unit of different type or faction deployed, different Inferno units will gain different types of attribute bonuses. |
+  |    4    | 50 | 25 | When Doombringer casts <Painful Reaper>, friendly Inferno Faction units can recover HP equal to 10% of their Max HP, and Doombringer's recovery doubles. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

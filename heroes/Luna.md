@@ -4,7 +4,7 @@ permalink: /heroes/Luna/
 excerpt: "Era of Chaos Luna. Luna. Luna was living in Enroth when she heard that an Elemental had appeared in Erathia. Believing she could learn far greater magic there, she made her way across the sea to discover its secrets."
 heroID: 60701
 QR: hero_60701
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Luna"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Luna was living in Enroth when she heard that an Elemental had appeared in Erathia. Believing she could learn far greater magic there, she made her way across the sea to discover its secrets.
 ## Details
- **Profession:** Elementalist
+ **Profession:** ![Elementalist](/images/h/h_prof_14.png) Elementalist
 
  **Race:** Conflux
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Infernal Wall
+ **Hero specialty:** Infernal Wall
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | <Fire Wall> upgrades to <Infernal Wall>, and the length increases by 20%. It deals an additional damage equal to 15% of the target's max HP. The Mana cost reduces by 10. |
+  |    2    | 30 | 15 | All spell damage taken by burned enemy units increases by 15%. Firebird gains 35% increased CRIT DMG when it's against Burned enemy units. |
+  |    3    | 40 | 20 | Increases all fire spell damage by 15%. Firebird gains 10% increased Attack Speed and 10% increased unit damage. |
+  |    4    | 50 | 25 | Luna's <Infernal Wall> and <Land on Fire> can stun burned units for 4s. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

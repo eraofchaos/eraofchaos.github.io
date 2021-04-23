@@ -4,7 +4,7 @@ permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar focused much of his life on improving his spells, becoming a great spellcaster before he became a leader on the battlefield. He is more reliable than any of his demon kin. "
 heroID: 60901
 QR: hero_60901
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Zydar"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Zydar focused much of his life on improving his spells, becoming a great spellcaster before he became a leader on the battlefield. He is more reliable than any of his demon kin. 
 ## Details
- **Profession:** Heretic
+ **Profession:** ![Heretic](/images/h/h_prof_10.png) Heretic
 
  **Race:** Inferno
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Summon Inferno
+ **Hero specialty:** Summon Inferno
 
  **Mana base:** 32
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | TBD |
-  |    2    | 15 | 12 | TBD |
-  |    3    | 20 | 16 | TBD |
-  |    4    | 25 | 20 | TBD |
+  |    1    | 10 | 8 | CD for <Fire Elemental> and <Gate of Fire> is decreased by 20% |
+  |    2    | 15 | 12 | Attack and Defense of all friendly summoned units increase by 30% and 10%, respectively. |
+  |    3    | 20 | 16 | For every summoned creature dies, your hero recovers 1 mana and CD for all spells is reduced by 1s |
+  |    4    | 25 | 20 | Zydar's spell damage increases by 2% for every summoned creature on the field. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

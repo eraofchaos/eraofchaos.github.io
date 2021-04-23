@@ -4,7 +4,7 @@ permalink: /heroes/Korbac/
 excerpt: "Era of Chaos Korbac. Korbac. Korbac is known as a hero in Erathia for saving the scholar Valjean. Whatever the truth, Korbac proved his prowess when he served Tatalia."
 heroID: 61502
 QR: hero_61502
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Korbac"
 toc: true
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Flies in the Air
+ **Hero specialty:** Flies in the Air
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 6 | 12 | TBD |
-  |    2    | 9 | 18 | TBD |
-  |    3    | 12 | 24 | TBD |
-  |    4    | 15 | 30 | TBD |
+  |    1    | 6 | 12 | Serpent Fly's Crit DMG increases by 40%. |
+  |    2    | 9 | 18 | The Serpent Flies summoned by <Nest of Serpent Flies> have their ATK increased by 20% and Crit Hit by 500. |
+  |    3    | 12 | 24 | Every Crit Hit from Serpent Flies can dispel the target's buffs (other than Invincibility and Halos). |
+  |    4    | 15 | 30 | Serpent Flies are immune to bleed, burn, freeze, slow and silence. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

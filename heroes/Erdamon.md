@@ -4,7 +4,7 @@ permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, the ancient King of Lava, has been sleeping for centuries in the mountains at the border of Eeofol. Now he wakes up and joins the Elemental. Erdamon is very willing to help the world get rid of the Kreegan through war."
 heroID: 60703
 QR: hero_60703
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Erdamon"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Erdamon, the ancient King of Lava, has been sleeping for centuries in the mountains at the border of Eeofol. Now he wakes up and joins the Elemental. Erdamon is very willing to help the world get rid of the Kreegan through war.
 ## Details
- **Profession:** Planeswalker
+ **Profession:** ![Planeswalker](/images/h/h_prof_13.png) Planeswalker
 
  **Race:** Conflux
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** King of Rocks
+ **Hero specialty:** King of Rocks
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 6 | 12 | TBD |
-  |    2    | 9 | 18 | TBD |
-  |    3    | 12 | 24 | TBD |
-  |    4    | 15 | 30 | TBD |
+  |    1    | 6 | 12 | <Earth Elemental> can now summon Stone Elementals to battle, and the mana cost of this spell reduces by 20%. |
+  |    2    | 9 | 18 | The number of Small Stone Elementals that Stone Elemental split into after death increases by 1. |
+  |    3    | 12 | 24 | For every Conflux unit deployed, the Magic resistance of Stone Elementals increases by 5%. For every Defensive unit deployed, the unit damage reduction of Stone Elementals increases by 5%. |
+  |    4    | 15 | 30 | The Stone Elemental unit upgrades from 4 soldiers to 9. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

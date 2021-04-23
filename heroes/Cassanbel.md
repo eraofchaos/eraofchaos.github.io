@@ -4,7 +4,7 @@ permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Although she lost her \"father\" due to humankind, she still chooses to help the people who live on the sea."
 heroID: 61701
 QR: hero_61701
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Cassanbel"
 toc: true
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SSR
 
- **Specialty:** Song of the Ocean
+ **Hero specialty:** Song of the Ocean
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | Ocean Blessing increases range by 100% and gets a bubble equal to 6% of Max HP |
+  |    2    | 30 | 15 | When Cassanbel casts Tidal Waves, the special skills of Cove units will be triggered (special skills of Cove units can be interrupted by control effects). |
+  |    3    | 40 | 20 | When friendly or enemy heroes cast water spells, Cove units can get an additional bubble equal to 1% of their Max HP. Each time a Cove unit gets a bubble, its Crit Hit will increase by 20 and Crit DMG will increase by 3%, up to 20 stacks |
+  |    4    | 50 | 25 | For each Cove unit deployed, Cassanbel's mana regeneration increases by 0.8. The special skill triggered by Tidal Waves has a 70% chance to reduce the CD of a random Ultimate Skill of Cassanbel's (including Mark Ultimate Skills) by 2s |
 
-## Spells
+## Spell
 ### 1 Spell: Frozen Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 

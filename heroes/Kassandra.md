@@ -4,7 +4,7 @@ permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Kassandra's outstanding combat skills are due to the Spartan education she received as a child. After the Spartan left her for dead at Mount Taygetos, she became a mercenary."
 heroID: 62001
 QR: hero_62001
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Kassandra"
 toc: true
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Spartan Legion
+ **Hero specialty:** Spartan Legion
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | TBD |
-  |    2    | 12 | 15 | TBD |
-  |    3    | 16 | 20 | TBD |
-  |    4    | 20 | 25 | TBD |
+  |    1    | 8 | 10 | Once <The Spear of Leonidas> is cast, Spartan Warriors will cast an additional <Spear Throw>. |
+  |    2    | 12 | 15 | The HP cost of casting <Frantic> is halved while ATK speed increases by 15%. Spartan Warriors with <Frantic> increase ATK speed by an additional 15%. |
+  |    3    | 16 | 20 | Increases offensive units' ATK speed by 10%. |
+  |    4    | 20 | 25 | Spartan Warriors upgrade from a 4-man unit to a 9-man unit. Spartan Warriors' unit damage reduction increases by 20%. |
 
-## Spells
+## Spell
 ### 1 Spell: Hidden Blade Assassination
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: #e07c44;font-size:20px">bleeding</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

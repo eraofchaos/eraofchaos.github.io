@@ -4,7 +4,7 @@ permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina showed great promise when she was young, but she was expelled from Bracada when it was discovered that she was using her magic to turn the living into the undead. Her expulsion set her permanently on the path to evil. "
 heroID: 60502
 QR: hero_60502
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Vidomina"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Vidomina showed great promise when she was young, but she was expelled from Bracada when it was discovered that she was using her magic to turn the living into the undead. Her expulsion set her permanently on the path to evil. 
 ## Details
- **Profession:** Necromancer
+ **Profession:** ![Necromancer](/images/h/h_prof_6.png) Necromancer
 
  **Race:** Necropolis
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Necromancer
+ **Hero specialty:** Necromancer
 
  **Mana base:** 34
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 14 | TBD |
-  |    2    | 12 | 21 | TBD |
-  |    3    | 16 | 28 | TBD |
-  |    4    | 20 | 35 | TBD |
+  |    1    | 8 | 14 | Cooldown for Necromancy decreases by 20%. |
+  |    2    | 12 | 21 | Enemy units within the range of Necromancy are inflicted additionally with Low Morale effect. |
+  |    3    | 16 | 28 | HP and Attack of all skeletons (including Skeletons, summoned Skeletons, Liches, and Bone Dragons) increases by 20%. They gain 10% increased unit damage and unit damage reduction. |
+  |    4    | 20 | 35 | <Necromancy> and <Undead Army> can summon more powerful armed skeletons. Armed Skeletons' normal attack can stun targets by chance, lasting for 3s. |
 
-## Spells
+## Spell
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 

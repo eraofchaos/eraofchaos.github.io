@@ -4,7 +4,7 @@ permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral came to Erathia about a decade ago and was quickly accepted by the mage guild of Bracada. After obtaining a high rank in the guild, some joked that he must have used magic to get there so quickly."
 heroID: 61203
 QR: hero_61203
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Astral"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Astral came to Erathia about a decade ago and was quickly accepted by the mage guild of Bracada. After obtaining a high rank in the guild, some joked that he must have used magic to get there so quickly.
 ## Details
- **Profession:** Wizard
+ **Profession:** ![Wizard](/images/h/h_prof_15.png) Wizard
 
  **Race:** Tower
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SSR
 
- **Specialty:** Magic Amplification
+ **Hero specialty:** Magic Amplification
 
  **Mana base:** 45
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | <Total Darkness> also <silences>. When a friendly unit casts non-artifact air magic spells, each Tower unit on the field grants friendly units an additional 0.5% HP recovery. |
+  |    2    | 30 | 15 | Any non-artifact spell cast by friendly units can trigger <Magic Awakening> for friendly units, and <Blind> can reduce unit damage reduction of enemy units by an additional 10%. |
+  |    3    | 40 | 20 | Every time <Magic Awakening> is triggered by friendly units, unit damage and Magic resistance of friendly Tower units will be increased by 1%, lasting for 12s, up to 50 stacks. |
+  |    4    | 50 | 25 | CD for all spells decreases by 10%. <Brilliant Earth> has a 30% reduction in mana cost and inflicts 5% maximum HP damage to all enemy units, increases friendly Tower units' tenacity by 200, and restores an additional 5% of Max HP. Each time one of friendly units triggers Magic Awakening, your hero recovers an additional 2 mana. |
 
-## Spells
+## Spell
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 

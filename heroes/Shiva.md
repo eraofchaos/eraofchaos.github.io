@@ -4,7 +4,7 @@ permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead."
 heroID: 60603
 QR: hero_60603
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Shiva"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Shiva was born into a family that trained and domesticated Rocs. She wanted no part in the family business, but to join Krewlod's army and and become an excellent mercenary instead.
 ## Details
- **Profession:** Barbarian
+ **Profession:** ![Barbarian](/images/h/h_prof_7.png) Barbarian
 
  **Race:** Stronghold
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Stormbringer
+ **Hero specialty:** Stormbringer
 
  **Specialty Desc:** Under Shiva's leadership, Roc will upgrade to Stormbringer. Their abilities will be greatly improved.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 6 | TBD |
-  |    2    | 18 | 9 | TBD |
-  |    3    | 24 | 12 | TBD |
-  |    4    | 30 | 15 | TBD |
+  |    1    | 12 | 6 | Roc upgrades to Stormbringer, increasing Crit Hit by 15%. |
+  |    2    | 18 | 9 | When Stormbringer's <Thunder> hits an enemy unit, it has a 25% chance to stun the target for 3s. |
+  |    3    | 24 | 12 | The <Hurricane Barrier> of Roc (Stormbringer) can reduce Magic resistance of all enemy units by 20%. |
+  |    4    | 30 | 15 | When the Stormbringer cause a Crit Hit during a normal attack,  it has 30% chance to cast <Thunder> |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

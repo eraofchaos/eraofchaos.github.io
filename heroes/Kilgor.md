@@ -4,7 +4,7 @@ permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. At a young age, Kilgor defeated his father for the title of clan chief. His fame has kept spreading throughout Krewlod ever since. Many consider him the only warrior capable of winning this generation's Festival of Life. "
 heroID: 60601
 QR: hero_60601
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Kilgor"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** At a young age, Kilgor defeated his father for the title of clan chief. His fame has kept spreading throughout Krewlod ever since. Many consider him the only warrior capable of winning this generation's Festival of Life. 
 ## Details
- **Profession:** Barbarian
+ **Profession:** ![Barbarian](/images/h/h_prof_7.png) Barbarian
 
  **Race:** Stronghold
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** SSR
 
- **Specialty:** War Behemoth
+ **Hero specialty:** War Behemoth
 
  **Specialty Desc:** Under Kilgor's leadership, Behemoth will upgrade to War Behemoth. Its attack and survivability will be greatly improved.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 20 | TBD |
-  |    2    | 15 | 30 | TBD |
-  |    3    | 20 | 40 | TBD |
-  |    4    | 25 | 50 | TBD |
+  |    1    | 10 | 20 | The Behemoth upgrades to a Monster Behemoth, and becomes immune to almost all controls and debuffs (including bleed, burn, disease, petrification, freeze, slow, stun, low morale, silence, blind, plague and <Time Stop>'s effects). |
+  |    2    | 15 | 30 | All Stronghold units gain attribute bonus as their HP drops. War Behemoth gains extra attribute bonus and its <Infuriate> inflicts extra effects. |
+  |    3    | 20 | 40 | When the HP of Behemoth or War Behemoth drops to 0 for the first time in this battle, Behemoth and War Behemoth will become invincible for 10s while also granting invincibility to all friendly Stronghold units for 5s. Healing efficiency when invincible reduces by 80%. |
+  |    4    | 25 | 50 | Increases the duration of Unyielding Faith by 3s, doubles its effect, and reduces its Mana cost by 40%. Stronghold Faction units gain 300 increased Crit Hit and 10% unit damage when Unyielding Faith is active. Stronghold units cannot die within the first 5s after Unyielding Faith is used. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

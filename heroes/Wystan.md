@@ -4,7 +4,7 @@ permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan is the eldest son-in-law of King Tralossk and the second successor to the throne. He's been waiting for the day when he ascends to the throne."
 heroID: 61504
 QR: hero_61504
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Wystan"
 toc: true
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Marsh Hunter
+ **Hero specialty:** Marsh Hunter
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | TBD |
-  |    2    | 12 | 15 | TBD |
-  |    3    | 16 | 20 | TBD |
-  |    4    | 20 | 25 | TBD |
+  |    1    | 8 | 10 | Lizardman unit's <Poisoned Dart> has a 30% chance to trigger disease. |
+  |    2    | 12 | 15 | Lizardman's Crit Hit increases by 200. |
+  |    3    | 16 | 20 | When Lizardmen deal a Crit Hit, their target will suffer from bleeding, lasting for 6s with a CD of 10s. |
+  |    4    | 20 | 25 | Lizardmen units are immune to earth spells. Normal attacks increase additional 30% life drain. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

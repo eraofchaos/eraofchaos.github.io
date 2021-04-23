@@ -4,7 +4,7 @@ permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. As one of the first heroes to join Elemental, Ciele is an ever-victorious general on the battlefield. She discovered the connection among Magic Elementals through her magical arrows"
 heroID: 60705
 QR: hero_60705
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Ciele"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** As one of the first heroes to join Elemental, Ciele is an ever-victorious general on the battlefield. She discovered the connection among Magic Elementals through her magical arrows
 ## Details
- **Profession:** Elementalist
+ **Profession:** ![Elementalist](/images/h/h_prof_14.png) Elementalist
 
  **Race:** Conflux
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SSR
 
- **Specialty:** Elemental Resonance
+ **Hero specialty:** Elemental Resonance
 
  **Mana base:** 10
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | The range of Fire Arrow, Frozen Arrow, Earth Arrow and Air Arrow increases by 10%, mana cost decreases by 10%. Each Arrow fired by Ciele can generate a corresponding Magic Elemental, and 3 Magic Elementals can cast an extra special spell. Each Magic Elemental can reduce the corresponding Magic resistance of enemy non-Elemental units by 10%. |
+  |    2    | 30 | 15 | Ciele's mana regeneration increases by 0.2 for every Conflux unit deployed. When an enemy unit dies, Ciele recovers an extra 5 mana for every living Conflux unit. |
+  |    3    | 40 | 20 | All Conflux units increase Magic resistance by 50%, unit damage by 10% and unit damage reduction by 10%. |
+  |    4    | 50 | 25 | Each time Ciele casts a special spell, she will resonate with the corresponding Elemental and activate the Ultimate Skill of that Elemental once. The activated unit's Ultimate Skill will be enhanced, and each time a special spell is cast, Elemental units will gain 3 seconds of immunity to spell damage. |
 
-## Spells
+## Spell
 ### 1 Spell: Frozen Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 

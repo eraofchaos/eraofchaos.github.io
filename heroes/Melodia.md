@@ -4,7 +4,7 @@ permalink: /heroes/Melodia/
 excerpt: "Era of Chaos Melodia. Melodia. Melodia is a lucky druid. She can achieve miraculous victories even when the odds are stacked against her. Any troop is glad to have her as their leader."
 heroID: 60201
 QR: hero_60201
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Melodia"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Melodia is a lucky druid. She can achieve miraculous victories even when the odds are stacked against her. Any troop is glad to have her as their leader.
 ## Details
- **Profession:** Druid
+ **Profession:** ![Druid](/images/h/h_prof_4.png) Druid
 
  **Race:** Rampart
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Good Fortune
+ **Hero specialty:** Good Fortune
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 8 | TBD |
-  |    2    | 12 | 12 | TBD |
-  |    3    | 16 | 16 | TBD |
-  |    4    | 20 | 20 | TBD |
+  |    1    | 8 | 8 |  |
+  |    2    | 12 | 12 |  |
+  |    3    | 16 | 16 |  |
+  |    4    | 20 | 20 |  |
 
-## Spells
+## Spell
 ### 1 Spell: Ice Shield
  **Description:** Grants water spell damage immunity to targeted friendly units within a large range for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. Enemy units that attack your shielded units are <span style="color: #e07c44;font-size:20px">slowed</span><span style="color: black"> for 3s.
 

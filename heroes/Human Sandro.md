@@ -4,7 +4,7 @@ permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Human Sandro. Human Sandro. Human Sandro, the apprentice of Mage Eric in Bracada, is a young mage who crossed the sea from Enroth. He has been hiding his ambitions and intentions from his teacher and others that know him."
 heroID: 60503
 QR: hero_60503
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Human Sandro"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Human Sandro, the apprentice of Mage Eric in Bracada, is a young mage who crossed the sea from Enroth. He has been hiding his ambitions and intentions from his teacher and others that know him.
 ## Details
- **Profession:** Necromancer
+ **Profession:** ![Necromancer](/images/h/h_prof_6.png) Necromancer
 
  **Race:** Necropolis
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SR
 
- **Specialty:** Immortal Soul
+ **Hero specialty:** Immortal Soul
 
  **Mana base:** 45
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 14 | TBD |
-  |    2    | 12 | 21 | TBD |
-  |    3    | 16 | 28 | TBD |
-  |    4    | 20 | 35 | TBD |
+  |    1    | 8 | 14 | Sandro's <Necromancy> can now summon Liches into battle and the duration doubles. <Earth Elemental> now can summon Walking Dead. |
+  |    2    | 12 | 21 | For every summoned creature dies, your hero recovers 1 mana and CD for all spells is reduced by 1s |
+  |    3    | 16 | 28 | When a friendly unit (other than a summoned unit) dies, Lich casts <Sacrifice> once. Lich gains 20% increased unit damage and 20% increased unit damage reduction. |
+  |    4    | 20 | 35 | Whenever an earth spell is cast, friendly Necropolis units will recover 8% HP. Enemy units' damage will decrease by 20%, lasting for 8 seconds. |
 
-## Spells
+## Spell
 ### 1 Spell: Necromancy
  **Description:** Summons 9 Skeletons of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 

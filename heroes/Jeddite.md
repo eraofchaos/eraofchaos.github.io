@@ -4,7 +4,7 @@ permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite is a mysterious man who keeps in close touch with the high-rank officials of different countries. But no one knows about his past, and he never mentions it."
 heroID: 61401
 QR: hero_61401
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Jeddite"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Jeddite is a mysterious man who keeps in close touch with the high-rank officials of different countries. But no one knows about his past, and he never mentions it.
 ## Details
- **Profession:** Warlock
+ **Profession:** ![Warlock](/images/h/h_prof_11.png) Warlock
 
  **Race:** Dungeon
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SR
 
- **Specialty:** The Cycle of Life
+ **Hero specialty:** The Cycle of Life
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | TBD |
-  |    2    | 15 | 12 | TBD |
-  |    3    | 20 | 16 | TBD |
-  |    4    | 25 | 20 | TBD |
+  |    1    | 10 | 8 | <The Cycle of Life> can deal additional earth spell damage to enemy units equal to 2% of their Max HP every 0.5s, and friendly units can recover an additional 2% of Max HP. |
+  |    2    | 15 | 12 | For each <The Cycle of Life> that is cast, Magic resistance of all enemy units will decrease by 12% throughout the entire battle, up to 5 stacks. |
+  |    3    | 20 | 16 | All earth spells' damage increases by 15%. |
+  |    4    | 25 | 20 | For every friendly Caster Unit on the battlefield, mana regeneration increases by 0.6 for the friendly hero and decreases by 0.3 for the enemy hero. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

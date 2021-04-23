@@ -4,7 +4,7 @@ permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland is the first – and so far, the only – human to be fully accepted by the Circle of Elf Elders. Some even joke that he is really an elf, reincarnated in a human body. "
 heroID: 60303
 QR: hero_60303
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Ryland"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Ryland is the first – and so far, the only – human to be fully accepted by the Circle of Elf Elders. Some even joke that he is really an elf, reincarnated in a human body. 
 ## Details
- **Profession:** Ranger
+ **Profession:** ![Ranger](/images/h/h_prof_3.png) Ranger
 
  **Race:** Rampart
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Dendroid Guard
+ **Hero specialty:** Dendroid Guard
 
  **Specialty Desc:** Under Ryland's leadership, Dendroid Guard upgrade to Forest Guardian. Their ability to increase the endurance of nearby Defensive units improves dramatically.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 8 | TBD |
-  |    2    | 12 | 12 | TBD |
-  |    3    | 16 | 16 | TBD |
-  |    4    | 20 | 20 | TBD |
+  |    1    | 8 | 8 | Dendroid guards are upgraded to forest guardians and their Crushing Roll gives extra shielding to all friendly Defensive units. |
+  |    2    | 12 | 12 | Health of dendroid guards and forest guardians increases by 30%. |
+  |    3    | 16 | 16 | Effects of shield generated from Forest Guardian's Crushing Roll doubles. |
+  |    4    | 20 | 20 | Health recovery effects enjoyed by forest guardians and dendroids summoned through Forest Resonance increases by 50%. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

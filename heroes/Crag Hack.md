@@ -4,7 +4,7 @@ permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use."
 heroID: 60602
 QR: hero_60602
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Crag Hack"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use.
 ## Details
- **Profession:** Barbarian
+ **Profession:** ![Barbarian](/images/h/h_prof_7.png) Barbarian
 
  **Race:** Stronghold
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R+
 
- **Specialty:** Offense
+ **Hero specialty:** Offense
 
  **Mana base:** 18
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 6 | TBD |
-  |    2    | 18 | 9 | TBD |
-  |    3    | 24 | 12 | TBD |
-  |    4    | 30 | 15 | TBD |
+  |    1    | 12 | 6 | All friendly units' Crit Hit increases by 100. |
+  |    2    | 18 | 9 | Attack of all Melee units (Offensive, Charging and Defensive) increases by 20%. Stronghold units gain an additional 10% increased CRIT DMG and 20% increased Attack Speed. |
+  |    3    | 24 | 12 | The activated HP of all Stronghold Faction units' <Rampage> increases from 35% to 60%. |
+  |    4    | 30 | 15 | When fighting against <bleeding> enemy units, friendly units increase life drain by 20% and can deal 20% additional unit damage. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

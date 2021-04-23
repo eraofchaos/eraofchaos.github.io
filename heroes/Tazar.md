@@ -4,7 +4,7 @@ permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. During the six-month border war with Krewlod, Tazar led a small force in a Tatalia outpost and held back the Krewlod army, which was five times larger as his, for eight days until reinforcements arrived."
 heroID: 61501
 QR: hero_61501
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Tazar"
 toc: true
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SR
 
- **Specialty:** Bloody Rage
+ **Hero specialty:** Bloody Rage
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 14 | 16 | TBD |
-  |    2    | 21 | 24 | TBD |
-  |    3    | 28 | 32 | TBD |
-  |    4    | 35 | 40 | TBD |
+  |    1    | 14 | 16 | Friendly Fortress units are immune to freeze, petrification and Time Stop. Tazar's mana cost for casting earth spells decreases by 20%. |
+  |    2    | 21 | 24 | During <Death Match>, all units on the battlefield can't be healed, the life drain of friendly units will increase to 35%, and friendly Fortress units will increase unit damage reduction by 20% and Crit Hit by 1000 (Life drain and HP recovery do not count as healing). |
+  |    3    | 28 | 32 | For every debuff Fortress units have, gain 1 stack of <Plague Symbiosis>/<Plague Aggravation>/<Plague Dominance> up to 8 stacks. Hydra becomes immune to <stun> and is guaranteed one <Chasing Bite> every 10s. For 3s after <Chasing Bite>, Hydra increases Crit DMG by 20%. |
+  |    4    | 35 | 40 | All friendly Fortress units increase unit DEF by 20% and unit damage by 10%. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

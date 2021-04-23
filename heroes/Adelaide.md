@@ -4,7 +4,7 @@ permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. As a young woman, shipwrecked and alone, Adelaide stumbled into Snow Elf territory. She underwent 20 years of training with her rescuers and became the most powerful mage in the kingdom before returning to Erathia."
 heroID: 60001
 QR: hero_60001
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Adelaide"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** As a young woman, shipwrecked and alone, Adelaide stumbled into Snow Elf territory. She underwent 20 years of training with her rescuers and became the most powerful mage in the kingdom before returning to Erathia.
 ## Details
- **Profession:** Clerics
+ **Profession:** ![Clerics](/images/h/h_prof_2.png) Clerics
 
  **Race:** Castle
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R+
 
- **Specialty:** Frost Ring
+ **Hero specialty:** Frost Ring
 
  **Mana base:** 40
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Intelligence  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | TBD |
-  |    2    | 15 | 12 | TBD |
-  |    3    | 20 | 16 | TBD |
-  |    4    | 25 | 20 | TBD |
+  |    1    | 10 | 8 | Friendly units deal 30% more damage to <frozen> enemy units. |
+  |    2    | 15 | 12 | The damage dealt by <Frost Ring> increases by 30%. |
+  |    3    | 20 | 16 | Cost of water magic is reduced by 10%. |
+  |    4    | 25 | 20 | The duration of freeze caused by <Frost Ring> increases by 100%. |
 
-## Spells
+## Spell
 ### 1 Spell: Frozen Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 

@@ -4,7 +4,7 @@ permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal."
 heroID: 60301
 QR: hero_60301
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Gelu"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Gelu is a half-elf, and the most famous warrior in Erathia. While serving under Queen Catherine, he was discovered and promoted by General Morgan Kendal.
 ## Details
- **Profession:** Ranger
+ **Profession:** ![Ranger](/images/h/h_prof_3.png) Ranger
 
  **Race:** Rampart
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** SR+
 
- **Specialty:** Sharpshooter
+ **Hero specialty:** Sharpshooter
 
  **Specialty Desc:** Under Gelu's leadership, Archers and Wood Elves will upgrade to Sharpshooters. Their attacking abilities and range will be greatly improved.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 14 | 8 | TBD |
-  |    2    | 21 | 12 | TBD |
-  |    3    | 28 | 16 | TBD |
-  |    4    | 35 | 20 | TBD |
+  |    1    | 14 | 8 | Wood Elves upgrade to Sharpshooters. <Double Strike> upgrades to <Expert Double Strike>. Attack and HP both increase by 20% and attack range increases by 200. |
+  |    2    | 21 | 12 | Marksmen upgrade to Sharpshooters. <Double Strike> upgrades to <Expert Double Strike>. Attack and HP both increase by 20% and attack range increases by 200. |
+  |    3    | 28 | 16 | Critical hit for all Ranged units increases by 200. |
+  |    4    | 35 | 20 | Increases Crit DMG of all friendly Ranged units on the battlefield by 100%. |
 
-## Spells
+## Spell
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 

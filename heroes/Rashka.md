@@ -4,7 +4,7 @@ permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far."
 heroID: 60802
 QR: hero_60802
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Rashka"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far.
 ## Details
- **Profession:** Demoniac
+ **Profession:** ![Demoniac](/images/h/h_prof_9.png) Demoniac
 
  **Race:** Inferno
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Fire Lord
+ **Hero specialty:** Fire Lord
 
  **Specialty Desc:** Under Rashka's leadership, Efreeti upgrades to Fire Lord. Its fighting and attacking abilities will be greatly improved.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | TBD |
-  |    2    | 12 | 15 | TBD |
-  |    3    | 16 | 20 | TBD |
-  |    4    | 20 | 25 | TBD |
+  |    1    | 8 | 10 | Efreeti are upgraded to Fire Lord. Damage dealt by Fire Storm increases by 30% and areas released increase to 2. |
+  |    2    | 12 | 15 | Attack of efreeti and Fire Lord is increased by 30%. |
+  |    3    | 16 | 20 | Damage reflected by Fire Lord's fire shield doubles and duration increases by 5 seconds. |
+  |    4    | 20 | 25 | When Fire Lord is on the field, fire magic resistance of all friendly units increases by 50% and fire magic resistance for all enemy units decreases by 50%. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

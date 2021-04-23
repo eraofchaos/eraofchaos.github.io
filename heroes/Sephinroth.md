@@ -4,7 +4,7 @@ permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, the only known sorceress of Antagarich, said to be the illegitimate daughter of King Gryphonheart."
 heroID: 61402
 QR: hero_61402
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Sephinroth"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Sephinroth, the only known sorceress of Antagarich, said to be the illegitimate daughter of King Gryphonheart.
 ## Details
- **Profession:** Warlock
+ **Profession:** ![Warlock](/images/h/h_prof_11.png) Warlock
 
  **Race:** Dungeon
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Crystal Stare
+ **Hero specialty:** Crystal Stare
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | TBD |
-  |    2    | 12 | 15 | TBD |
-  |    3    | 16 | 20 | TBD |
-  |    4    | 20 | 25 | TBD |
+  |    1    | 8 | 10 | <Petrification> upgrades to <Crystallization>, and petrified units can reduce Magic resistance by 50%. |
+  |    2    | 12 | 15 | When friendly units attack crystallized enemy units, they are guaranteed to deal a Crit Hit. |
+  |    3    | 16 | 20 | When Medusa is fighting against <petrified>, <crystalized> and <stunned> targets, her unit damage will increase by 10%. |
+  |    4    | 20 | 25 | Medusa's normal attack has a certain chance to trigger petrification with a CD of 10s. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

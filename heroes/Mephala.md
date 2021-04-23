@@ -4,7 +4,7 @@ permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Trained in the Erathian army, Mephala was a natural genius at using terrain to her advantage. Although she prefers the calm quiet of her village, she remains in the military for the sake of her country. "
 heroID: 60302
 QR: hero_60302
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Mephala"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Trained in the Erathian army, Mephala was a natural genius at using terrain to her advantage. Although she prefers the calm quiet of her village, she remains in the military for the sake of her country. 
 ## Details
- **Profession:** Ranger
+ **Profession:** ![Ranger](/images/h/h_prof_3.png) Ranger
 
  **Race:** Rampart
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Absolute Defense
+ **Hero specialty:** Absolute Defense
 
  **Mana base:** 18
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 6 | TBD |
-  |    2    | 18 | 9 | TBD |
-  |    3    | 24 | 12 | TBD |
-  |    4    | 30 | 15 | TBD |
+  |    1    | 12 | 6 | All friendly units gain a shield and the damage absorbed increases by 20%. |
+  |    2    | 18 | 9 | Unit's damage reduction of Friendly unit with <Shields> is increased by 20%. |
+  |    3    | 24 | 12 | Health of all Defensive units increases by 20%. |
+  |    4    | 30 | 15 | The mana cost of <Stone Skin> decreases by 50%, CD decreases by 5s and all debuffs on this unit are dispelled. |
 
-## Spells
+## Spell
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 

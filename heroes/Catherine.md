@@ -4,7 +4,7 @@ permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. As the queen of Erathia, Catherine has been forced to wage war to preserve the kingdom her father created. She will battle until the final showdown of Armageddon's Blade. "
 heroID: 60102
 QR: hero_60102
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Catherine"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** As the queen of Erathia, Catherine has been forced to wage war to preserve the kingdom her father created. She will battle until the final showdown of Armageddon's Blade. 
 ## Details
- **Profession:** Knight
+ **Profession:** ![Knight](/images/h/h_prof_1.png) Knight
 
  **Race:** Castle
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Iron Crusader
+ **Hero specialty:** Iron Crusader
 
  **Specialty Desc:** Under Catherine's leadership, Swordsmen upgrade into Iron Crusaders. Their fighting skills and survival rate increase dramatically.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 8 | TBD |
-  |    2    | 12 | 12 | TBD |
-  |    3    | 16 | 16 | TBD |
-  |    4    | 20 | 20 | TBD |
+  |    1    | 8 | 8 | When Catherine is on the battlefield, Swordsmen will upgrade to Iron Crusaders, and their HP will increase by 20%. |
+  |    2    | 12 | 12 | With \"High Morale\", Iron Crusaders get a shield equal to 10% of their HP. |
+  |    3    | 16 | 16 | Unit DMG taken by Iron Crusaders is decreased by 20%. <Mirth> skill is transformed into <Air Shield Rally> skill effect. |
+  |    4    | 20 | 20 | The member of Iron Crusaders increases from 9 to 16. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

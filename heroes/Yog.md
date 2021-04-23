@@ -4,7 +4,7 @@ permalink: /heroes/Yog/
 excerpt: "Era of Chaos Yog. Yog. Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army."
 heroID: 60604
 QR: hero_60604
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Yog"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army.
 ## Details
- **Profession:** Barbarian
+ **Profession:** ![Barbarian](/images/h/h_prof_7.png) Barbarian
 
  **Race:** Stronghold
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** SR
 
- **Specialty:** Raging Cyclops
+ **Hero specialty:** Raging Cyclops
 
  **Specialty Desc:** Under Yog's leadership, Cyclops are upgraded to Raging Cyclops. Their fighting and attacking abilities are greatly improved.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | Cyclops becomes rampage, increasing its Attack Speed by 30% and its Critical Hit by 300. |
+  |    2    | 30 | 15 | When Raging Cyclops is on the battlefield, all friendly Ranged units gain 20% increased Magic resistance, 10% Attack Speed, and 20% CRIT DMG. |
+  |    3    | 40 | 20 | The attack from Raging Cyclops (Cyclops) causes extra 30% unit damage to all enemy units who cannot fly.  |
+  |    4    | 50 | 25 | Rampaged Cyclops's first Earthshaker skill takes effect on all enemy units who can't fly. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

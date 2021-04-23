@@ -4,7 +4,7 @@ permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. Sir Mullich's troops are known for their speed. Mullich's self-control and discipline are well-known. He uses special training to make his troops faster."
 heroID: 60101
 QR: hero_60101
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Mullich"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Sir Mullich's troops are known for their speed. Mullich's self-control and discipline are well-known. He uses special training to make his troops faster.
 ## Details
- **Profession:** Knight
+ **Profession:** ![Knight](/images/h/h_prof_1.png) Knight
 
  **Race:** Castle
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R+
 
- **Specialty:** Charge Assault
+ **Hero specialty:** Charge Assault
 
  **Mana base:** 26
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | TBD |
-  |    2    | 15 | 12 | TBD |
-  |    3    | 20 | 16 | TBD |
-  |    4    | 25 | 20 | TBD |
+  |    1    | 10 | 8 | Charging units are guaranteed to deal a Crit Hit when attacking <stunned> targets. |
+  |    2    | 15 | 12 | Charging units cannot be slowed or stunned. |
+  |    3    | 20 | 16 | The movement speed of Charging units offers an additional increase to their attack. |
+  |    4    | 25 | 20 | All normal attacks from Charging units have a 3% chance of causing stun to their target for 2 seconds. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

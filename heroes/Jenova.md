@@ -4,7 +4,7 @@ permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. As a child, she was captured and trafficked by Dark Elves. Jenova was finally freed from her miserable life by a vengeful Unicorn. From then on she began to worship these mysterious creatures in the forest and became determined to live with them all her life. No one knows Unicorns better than Jenova, who uses their speed and power in war to offer tactical advantages"
 heroID: 60202
 QR: hero_60202
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Jenova"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** As a child, she was captured and trafficked by Dark Elves. Jenova was finally freed from her miserable life by a vengeful Unicorn. From then on she began to worship these mysterious creatures in the forest and became determined to live with them all her life. No one knows Unicorns better than Jenova, who uses their speed and power in war to offer tactical advantages
 ## Details
- **Profession:** Ranger
+ **Profession:** ![Ranger](/images/h/h_prof_3.png) Ranger
 
  **Race:** Rampart
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Unicorn Maiden
+ **Hero specialty:** Unicorn Maiden
 
  **Specialty Desc:** Under Jenova's leadership, the Unicorn upgrades to Unicorn King. Its attacking and dodging abilities are greatly improved.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | TBD |
-  |    2    | 15 | 12 | TBD |
-  |    3    | 20 | 16 | TBD |
-  |    4    | 25 | 20 | TBD |
+  |    1    | 10 | 8 | The Unicorn upgrades to the Unicorn King. <Blind> upgrades to <Flash of the Cross>, and is able to blind units along the target's horizontal and vertical rows. |
+  |    2    | 15 | 12 | The Unicorn and The Unicorn King summoned by <Heart of Purity> increase dodge by 1200 when attacking 1-man or 4-man units. |
+  |    3    | 20 | 16 | Every time a Unicorn gains a shield, it will deal a Crit Hit in the next attack. The damage dealt by Unicorns increases by 20% when attacking blinded enemy units. |
+  |    4    | 25 | 20 | The effect of Unicorn's <Angelic Light> increases by 100%. |
 
-## Spells
+## Spell
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 

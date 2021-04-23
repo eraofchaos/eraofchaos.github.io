@@ -4,7 +4,7 @@ permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there."
 heroID: 60304
 QR: hero_60304
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Gem"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there.
 ## Details
- **Profession:** Druid
+ **Profession:** ![Druid](/images/h/h_prof_4.png) Druid
 
  **Race:** Rampart
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SSR
 
- **Specialty:** Natural Healing
+ **Hero specialty:** Natural Healing
 
  **Mana base:** 45
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 20 | TBD |
-  |    2    | 15 | 30 | TBD |
-  |    3    | 20 | 40 | TBD |
-  |    4    | 25 | 50 | TBD |
+  |    1    | 10 | 20 | For every friendly Rampart unit on the battlefield, mana regeneration increases by 0.7 and initial mana increases by 7. |
+  |    2    | 15 | 30 | <Tranquil Rain> increases healing by 15% throughout the entire battle, up to 5 stacks. <Tranquil Rain> and <Cure> can dispel debuffs and provide a shield that's equal to tenfold healing amount for friendly Rampart units. |
+  |    3    | 20 | 40 | When Rampart units gain a shield, their Magic resistance can increase by an additional 10%, up to 10 stacks. They will also recover 8% HP, with a CD of 6s. |
+  |    4    | 25 | 50 | When Rampart units gain a shield, their unit damage, unit damage reduction and ATK speed increase by an additional 5%, up to 10 stacks. |
 
-## Spells
+## Spell
 ### 1 Spell: Frozen Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 

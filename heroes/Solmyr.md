@@ -4,7 +4,7 @@ permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr was trapped in a genie bottle for more than a thousand years. He's eternally grateful to the person who freed him -- Gavin Magnus, the immortal ruler of the Bracada Highlands -- and has pledged everlasting allegiance to him."
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Solmyr"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Solmyr was trapped in a genie bottle for more than a thousand years. He's eternally grateful to the person who freed him -- Gavin Magnus, the immortal ruler of the Bracada Highlands -- and has pledged everlasting allegiance to him.
 ## Details
- **Profession:** Wizard
+ **Profession:** ![Wizard](/images/h/h_prof_15.png) Wizard
 
  **Race:** Tower
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** SR
 
- **Specialty:** Chain Lightning
+ **Hero specialty:** Chain Lightning
 
  **Mana base:** 43
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |  Intelligence  |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Intelligence  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 18 | TBD |
-  |    2    | 18 | 27 | TBD |
-  |    3    | 24 | 36 | TBD |
-  |    4    | 30 | 45 | TBD |
+  |    1    | 12 | 18 | <Chain Lightning> can bounce 2 more times and the damage doesn't decrease; all of Solmyr's spells don't have an initial CD. |
+  |    2    | 18 | 27 | The air spells cast by Solmyr get an Electrostatic Field. The spell damage taken by targets covered with an Electrostatic Field is increased by 50%. For 6s, the target will take additional static damage equal to 15% of their Max HP. The damage can be stacked. |
+  |    3    | 24 | 36 | CD for all air heroes' spells decreases by 15%. |
+  |    4    | 30 | 45 | <Chain Lightning> deals additional damage to enemy units equal to 30% of their Max HP. |
 
-## Spells
+## Spell
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 

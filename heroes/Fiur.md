@@ -4,7 +4,7 @@ permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Although he's still young and untested for an Elemental, Fiur has unmatched prowess. It's believed that he will eventually become one of the most powerful heroes in Elemental"
 heroID: 60704
 QR: hero_60704
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Fiur"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Although he's still young and untested for an Elemental, Fiur has unmatched prowess. It's believed that he will eventually become one of the most powerful heroes in Elemental
 ## Details
- **Profession:** Planeswalker
+ **Profession:** ![Planeswalker](/images/h/h_prof_13.png) Planeswalker
 
  **Race:** Conflux
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Fire Elemental
+ **Hero specialty:** Fire Elemental
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 6 | 12 | TBD |
-  |    2    | 9 | 18 | TBD |
-  |    3    | 12 | 24 | TBD |
-  |    4    | 15 | 30 | TBD |
+  |    1    | 6 | 12 | <Fire Elemental> are now upgraded, and the CD decreases by 10%. |
+  |    2    | 9 | 18 | Fire Elemental units can burn units within a certain range, dealing damage equal to 80% of ATK every 2s. |
+  |    3    | 12 | 24 | The condition to trigger <Shockwave> for Fire Elementals is changed from death of an entire unit to the death of one single member of the unit. |
+  |    4    | 15 | 30 | Fire Elemental gains 20% increased unit damage, 20% increased unit damage reduction, and 30% increased Attack Speed. |
 
-## Spells
+## Spell
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 

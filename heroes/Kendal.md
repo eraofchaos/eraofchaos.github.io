@@ -4,7 +4,7 @@ permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. A general loyal to the royal family of Erathia. Since the death of King Gryphonheart, Morgan Kendal has taken charge of the country until the rightful heir returns."
 heroID: 60104
 QR: hero_60104
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Kendal"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** A general loyal to the royal family of Erathia. Since the death of King Gryphonheart, Morgan Kendal has taken charge of the country until the rightful heir returns.
 ## Details
- **Profession:** Knight
+ **Profession:** ![Knight](/images/h/h_prof_1.png) Knight
 
  **Race:** Castle
 
@@ -21,21 +21,21 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Master of Tactics
+ **Hero specialty:** Master of Tactics
 
  **Mana base:** 16
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
+  | Stars   |  Hero Defense  |  Hero Knowledge  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | TBD |
-  |    2    | 12 | 15 | TBD |
-  |    3    | 16 | 20 | TBD |
-  |    4    | 20 | 25 | TBD |
+  |    1    | 8 | 10 | <Mirth> can increase the ATK speed of 9-man units by an additional 50%. |
+  |    2    | 12 | 15 | All normal attacks from Offensive units have a 4% chance to stun their targets for 2s. |
+  |    3    | 16 | 20 | All friendly Offensive units' unit damage increases by 10%. |
+  |    4    | 20 | 25 | Offensive units are guaranteed to land a Crit Hit when attacking <stunned> targets. |
 
-## Spells
+## Spell
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 

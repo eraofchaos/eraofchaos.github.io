@@ -4,7 +4,7 @@ permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart was killed, and has been resurrected. As a general of the undead army, he has even more formidable powers than he had in life. "
 heroID: 60401
 QR: hero_60401
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: en
 ref: "Lord Haart"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Lord Haart was killed, and has been resurrected. As a general of the undead army, he has even more formidable powers than he had in life. 
 ## Details
- **Profession:** Death Knight
+ **Profession:** ![Death Knight](/images/h/h_prof_5.png) Death Knight
 
  **Race:** Necropolis
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** SR-
 
- **Specialty:** Death Knight
+ **Hero specialty:** Death Knight
 
  **Specialty Desc:** Under the undead Lord Haart's leadership, Black Knights upgrade to Death Knights. Their fighting capabilities and attack both increase dramatically.
 
@@ -30,14 +30,14 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
+  | Stars   |  Hero Attack  |  Hero Defense  |      Specialty     |
   |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 20 | 10 | TBD |
-  |    2    | 30 | 15 | TBD |
-  |    3    | 40 | 20 | TBD |
-  |    4    | 50 | 25 | TBD |
+  |    1    | 20 | 10 | Black Knight turns into Death Knight. Unit damage reduction and unit damage increases by 20%. Each time an enemy unit dies, the Death Knight gains a bonus 5% in unit's damage reduction and unit's magic resistance, up to 5 stacks. |
+  |    2    | 30 | 15 | Black Knights can cast Critical Strike once at the beginning of battle, reducing the unit damage reduction of the target unit by 30%, lasting for 30s. For each Necropolis unit deployed, unit damage is increased by 5%. |
+  |    3    | 40 | 20 | <Sorrow> can stun the target, and <Death Ripple> has a 30% chance to stun all units (except Necropolis units). Stun lasts for 3s. |
+  |    4    | 50 | 25 | <Kill Order> CD reduces to 4s, and the damage of Death Knight's <Critical Strike> increases to 150%. |
 
-## Spells
+## Spell
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
