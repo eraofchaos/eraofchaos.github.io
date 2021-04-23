@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** An ornament shaped like and possessing the power of lightning. One of the Archmage's Codex.
 
- **Part of Artifact:** [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4}
+ **Part of Artifact:** ![Archmage's Codex](/images/t/icon_artifact_34.png) [Archmage's Codex](/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 

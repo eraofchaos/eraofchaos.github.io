@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone.
 
- **Part of Artifact:** [Antimagic Runestone](/artifacts/Antimagic Runestone/){: .btn .btn--era3}
+ **Part of Artifact:** ![Antimagic Runestone](/images/t/icon_artifact_23.png) [Antimagic Runestone](/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Artifact essence](/Items/con_905/)
 

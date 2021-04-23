@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A shining crystal ball. Legend says it can see the future.
 
- **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Apple of Eden](/images/t/icon_artifact_49.png) [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 

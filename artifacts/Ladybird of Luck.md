@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A glowing bird statue. One of the components of the Lucky Horseshoe.
 
- **Part of Artifact:** [Lucky Horseshoe](/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
+ **Part of Artifact:** ![Lucky Horseshoe](/images/t/icon_artifact_12.png) [Lucky Horseshoe](/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Artifact essence](/Items/con_905/)
 

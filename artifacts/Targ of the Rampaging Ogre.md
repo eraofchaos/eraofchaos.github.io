@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity.
 
- **Part of Artifact:** [Axe of Ferocity](/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Axe of Ferocity](/images/t/icon_artifact_31.png) [Axe of Ferocity](/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 

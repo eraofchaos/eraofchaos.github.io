@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A cross that grants the wearer immortality. No one knows what happened to its previous owner.
 
- **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Apple of Eden](/images/t/icon_artifact_49.png) [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 

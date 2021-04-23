@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat
 
- **Part of Artifact:** [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Spellbinder's Hat](/images/t/icon_artifact_46.png) [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artifact essence](/Items/con_905/)
 

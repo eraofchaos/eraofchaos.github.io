@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A symbol of the military might of Griffin units. One of the components of the Angelic Alliance.
 
- **Part of Artifact:** [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5}
+ **Part of Artifact:** ![Angelic Alliance](/images/t/icon_artifact_41.png) [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 

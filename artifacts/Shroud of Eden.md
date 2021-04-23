@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** The legendary holy Shroud of Eden. There is no way to verify it's authenticity.
 
- **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Apple of Eden](/images/t/icon_artifact_49.png) [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 

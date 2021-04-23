@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King.
 
- **Part of Artifact:** [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Cloak of the Undead King](/images/t/icon_artifact_32.png) [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** Greaves made with the Dragon King's shin bones. One of the components of Power of the Dragon Father.
 
- **Part of Artifact:** [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
+ **Part of Artifact:** ![Power of the Dragon Father](/images/t/icon_artifact_40.png) [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 

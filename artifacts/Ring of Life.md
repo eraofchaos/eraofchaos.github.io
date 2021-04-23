@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A ring that supplies vast health to its wearer. One of the components of the Elixir of Life
 
- **Part of Artifact:** [Elixir of Life](/artifacts/Elixir of Life/){: .btn .btn--era2}
+ **Part of Artifact:** ![Elixir of Life](/images/t/icon_artifact_11.png) [Elixir of Life](/artifacts/Elixir of Life/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Artifact essence](/Items/con_905/)
 

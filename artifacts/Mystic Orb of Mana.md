@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A crystal ball with strong magic. One of the components of the Wizard's Well.
 
- **Part of Artifact:** [Wizard's Well](/artifacts/Wizard's Well/){: .btn .btn--era3}
+ **Part of Artifact:** ![Wizard's Well](/images/t/icon_artifact_21.png) [Wizard's Well](/artifacts/Wizard's Well/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Artifact essence](/Items/con_905/)
 

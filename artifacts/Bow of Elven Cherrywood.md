@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A longbow carved from wood by elves. One of the components of the Bow of the Sharpshooter.
 
- **Part of Artifact:** [Bow of the Sharpshooter](/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+ **Part of Artifact:** ![Bow of the Sharpshooter](/images/t/icon_artifact_10.png) [Bow of the Sharpshooter](/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 

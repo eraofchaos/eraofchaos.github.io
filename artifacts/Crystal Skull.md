@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A skull made out of crystal by an unknown civilization. Has the power to see through the hearts of men.
 
- **Part of Artifact:** [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Apple of Eden](/images/t/icon_artifact_49.png) [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 

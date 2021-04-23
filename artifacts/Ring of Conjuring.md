@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A mysterious ring with strong magic. One of the components of Ring of the Mage.
 
- **Part of Artifact:** [Ring of the Mage](/artifacts/Ring of the Mage/){: .btn .btn--era3}
+ **Part of Artifact:** ![Ring of the Mage](/images/t/icon_artifact_22.png) [Ring of the Mage](/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Artifact essence](/Items/con_905/)
 

@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A helmet used by the thunder god. One of the components of the Titan's Thunder.
 
- **Part of Artifact:** [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5}
+ **Part of Artifact:** ![Titan's Thunder](/images/t/icon_artifact_42.png) [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Artifact essence](/Items/con_905/)
 

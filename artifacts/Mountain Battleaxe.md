@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A relic left by the Dwarf King after the battle of Enroth. One of the components of Armageddon's Blade.
 
- **Part of Artifact:** [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Armageddon's Blade](/images/t/icon_artifact_44.png) [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Artifact essence](/Items/con_905/)
 

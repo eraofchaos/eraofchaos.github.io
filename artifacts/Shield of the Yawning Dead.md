@@ -15,7 +15,7 @@ classes: wide
 
  **Description:** A shield assembled from undead bones. One of the components of the Armour of the Damned.
 
- **Part of Artifact:** [Armour of the Damned](/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armour of the Damned](/images/t/icon_artifact_30.png) [Armour of the Damned](/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 
