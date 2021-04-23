@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals fire damage to enemy units.
+
 ### 2 Spell: Fire Wall
  **Description:** Summons a Fire Wall, dealing <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> continuous fire spell damage on enemy units around the wall every 0.5s, lasting for {($olast11+$olast12)/1000}s.
+
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$ovalueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage over time to enemy
+
+ **Description 4:** Summons a wall of fire which damages enemies that pass through it. Deals fire damage.
 
 ### 3 Spell: Fire Elemental
  **Description:** Summon 9 Fire Elementals of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Fire Elementals will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{310+85*($sklevel-1)}</span><span style="color: black"><(310+85*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946;font-size:20px">{3400+1476*($sklevel-1)}</span><span style="color: black"><(3400+1476*($sklevel-1))*$talent14+$talent13>.
 
+ **Description 2:** Next level, fire elementals attain a level increase of <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">, an attack increase of <span style="color: #00ff22;font-size:16px">85</span><span style="color: black">, and a health increase of<span style="color: #00ff22;font-size:16px">1476</span><span style="color: black">.
+
+ **Description 3:** Summon Fire Elemental
+
+ **Description 4:** Summons 9 fire elementals at a specified location.
+
 ### 4 Spell: Gate of Fire
  **Description:** Raise 1 Gate of Fire in the target area and summon 3 Imp units of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">. Imps will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
+
+ **Description 2:** Next level, imps attain a level increase of <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">, an attack increase of <span style="color: #00ff22;font-size:16px">68,</span><span style="color: black"> and a health increase of <span style="color: #00ff22;font-size:16px">1216</span><span style="color: black">.
+
+ **Description 3:** Summon Imp
+
+ **Description 4:** Summons 9 imps at a specified location.
 
 
 ## Adjutant

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-13 Battle Altar"
 permalink: /Main Story/Chapter 15_13/
 excerpt: "Chapter 15 - 13. Era of Chaos  Main Story - Chapter 15_13. 15-13 Battle Altar"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 15_13.md"
 toc: false

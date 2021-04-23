@@ -43,14 +43,38 @@ toc: true
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals earth damage to enemy units and causes<span style="color: #f0f000;font-size:18px">\"stun\"</span><span style="color: black">.
+
 ### 2 Spell: Stone Skin
  **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, absorbs an additional <span style="color: #00ff22;font-size:16px">{$buffaddattr13}</span><span style="color: black"> of damage.
+
+ **Description 3:** Allies are shielded.
+
+ **Description 4:** Provides friendly unit with a shield which absorbs damage.
 
 ### 3 Spell: Forest Resonance
  **Description:** Summons 9 Treants of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area with an ATK of <span style="color: #48b946;font-size:20px">{220+60*($sklevel-1)}</span><span style="color: black"><(220+60*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946;font-size:20px">{3200+1391*($sklevel-1)}</span><span style="color: black"><(3200+1391*($sklevel-1))*$talent14+$talent13>, lasting throughout the entire battle.
 
+ **Description 2:** Next level, dendroids attain a level increase of <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">, an attack increase of <span style="color: #00ff22;font-size:16px">60</span><span style="color: black">, and a health increase of <span style="color: #00ff22;font-size:16px">1391</span><span style="color: black">.
+
+ **Description 3:** Summon Small Dendroid
+
+ **Description 4:** Summons 9 Treants at a specified location
+
 ### 4 Spell: Prayer
  **Description:** Restore <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> HP for friendly units within a large range. The HP restored for targets with a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> doubles.
+
+ **Description 2:** Next level, accumulated recovery increases by <span style="color: #00ff22;font-size:16px">{$ovalueadd12*($olast11/$ointerval)}</span><span style="color: black">
+
+ **Description 3:** Friendly units are healed and protected.
+
+ **Description 4:** Continuously heals friendly units. Healing effects doubled for target units with <span style="color: #f0f000;font-size:18px">shields</span><span style="color: black">.
 
 
 ## Adjutant

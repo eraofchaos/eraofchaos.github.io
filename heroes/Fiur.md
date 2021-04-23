@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals fire damage to enemy units.
+
 ### 2 Spell: Fire Shield
  **Description:** Increases the damage reflection of friendly units within a large range by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% and grants them immunity to fire spell damage, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent2+$talent1>s.
+
+ **Description 2:** Next level, duration increases by <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** Allies have increased damage reflection and increased resistance to fire damage.
+
+ **Description 4:** Increases friendly unit damage reflection and immunity to fire spells.
 
 ### 3 Spell: Fire Elemental
  **Description:** Summon 9 Fire Elementals of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Fire Elementals will remain for the whole battle with ATK of <span style="color: #48b946;font-size:20px">{310+85*($sklevel-1)}</span><span style="color: black"><(310+85*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946;font-size:20px">{3400+1476*($sklevel-1)}</span><span style="color: black"><(3400+1476*($sklevel-1))*$talent14+$talent13>.
 
+ **Description 2:** Next level, fire elementals attain a level increase of <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">, an attack increase of <span style="color: #00ff22;font-size:16px">85</span><span style="color: black">, and a health increase of<span style="color: #00ff22;font-size:16px">1476</span><span style="color: black">.
+
+ **Description 3:** Summon Fire Elemental
+
+ **Description 4:** Summons 9 fire elementals at a specified location.
+
 ### 4 Spell: Flame Eruption
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> fire spell damage to enemy units within a large range and deals additional fire spell damage on <span style="color: #e07c44;font-size:20px">burned</span><span style="color: black"> targets equal to 35% of their Max HP.
+
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Enemy deals damage
+
+ **Description 4:** Deals fire damage on enemy units and deals an additional <span style="color: #1ca216"></span><span style="color: black"> fire damage on <span style="color: #e07c44;font-size:20px">burned</span><span style="color: black"> targets
 
 
 ## Adjutant

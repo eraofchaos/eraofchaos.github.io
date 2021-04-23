@@ -2,7 +2,7 @@
 title: "Underground - Chapter 21 - 21-1 Gift of War"
 permalink: /Underground/Chapter 21_1/
 excerpt: "Chapter 21 - 1. Era of Chaos  Underground - Chapter 21_1. 21-1 Gift of War"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 21_1.md"
 toc: false

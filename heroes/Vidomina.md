@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals air damage to enemy units and lowers target's accuracy by 30%.
+
 ### 2 Spell: Necromancy
  **Description:** Summons 9 Skeletons of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
+
+ **Description 2:** Next level, skeletons attain a level increase of <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">, an attack increase of <span style="color: #00ff22;font-size:16px">60</span><span style="color: black">, and a health increase of <span style="color: #00ff22;font-size:16px">1520</span><span style="color: black">.
+
+ **Description 3:** Summon Skeleton
+
+ **Description 4:** Summons 9 skeletons at a specified location.
 
 ### 3 Spell: Animate Dead
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black"> and recovery increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals earth damage to non-Necropolis enemy units. Friendly Necropolis units recover health.
+
 ### 4 Spell: Undead Army
  **Description:** Summons Skeletons of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area that match the number of enemy units standing there. Skeletons will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
+
+ **Description 2:** Next level, skeletons attain a level increase of <span style="color: #1ca216;font-size:18px">1</span><span style="color: black">, an attack increase of <span style="color: #1ca216;font-size:18px">68</span><span style="color: black">, and a health increase of <span style="color: #1ca216;font-size:18px">1216</span><span style="color: black">
+
+ **Description 3:** Summons skeletons based on the number of enemy units.
+
+ **Description 4:** Summons skeletons based on the number of enemy units.
 
 
 ## Adjutant

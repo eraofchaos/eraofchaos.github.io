@@ -43,14 +43,38 @@ toc: true
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals fire damage to enemy units.
+
 ### 2 Spell: Fireball
  **Description:** Summons continuous fire balls in the target area, dealing fire spell damage 6 times (adds up to <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*6}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1>) to enemy units within a certain range and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for 8s.
+
+ **Description 2:** Next level, accumulated damage increases by <span style="color: #1ca216;font-size:18px">{$ovalueadd12*6}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Summons a fire ball in the target area, dealing fire damage to enemy units and <span style="color: #e07c44;font-size:20px">burning</span><span style="color: black"> them
 
 ### 3 Spell: Slayer
  **Description:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
 
+ **Description 2:** Next level, attack increases by an additional <span style="color: #00ff22;font-size:16px">{$buffaddattr13}%</span><span style="color: black">.
+
+ **Description 3:** Allies gain increased attack.
+
+ **Description 4:** Increases friendly unit attack; effects last longer for 16-member units.
+
 ### 4 Spell: Echo of the Abyss
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> fire spell damage on enemy units within a certain range and summons 1 Devil of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area with an ATK of <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black"> and immune to all damage. The Devil lasts for 10s.
+
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black"> and increases levels of devils by <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">.
+
+ **Description 3:** Summons devil and deals damage.
+
+ **Description 4:** Deals damage at a specified location and summons a devil.
 
 
 ## Adjutant

@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Hidden Blade Assassination
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: #e07c44;font-size:20px">bleeding</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level increases damage by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">.
+
+ **Description 3:** Deals damage to enemies.
+
+ **Description 4:** Deals fire damage to enemy units and inflicts <span style="color: #e07c44;font-size:20px">&lt;bleeding&gt;</span><span style="color: black">.
+
 ### 2 Spell: Frantic
  **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage). while increasing the damage they deal by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, unit damage increases by <span style="color: #1ca216;font-size:18px">{$buffaddattr13}%</span><span style="color: black">
+
+ **Description 3:** Ally. Increased damage
+
+ **Description 4:** Decreases the unit damage reduction of friendly units and increases their unit damage
 
 ### 3 Spell: Quiet
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: #e07c44;font-size:20px">silence</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level increases damage by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">.
+
+ **Description 3:** Deals damage and inflicts <silence> on enemies.
+
+ **Description 4:** Deals fire damage to enemy units and inflicts <span style="color: #e07c44;font-size:20px">&lt;silence&gt;</span><span style="color: black">.
+
 ### 4 Spell: The Spear of Leonidas
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: #e07c44;font-size:20px">burning</span><span style="color: black"> and <span style="color: #e07c44;font-size:20px">stun</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level increases damage by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">.
+
+ **Description 3:** Deals damage and inflicts <stun> on enemies.
+
+ **Description 4:** Deals fire damage to enemy units and inflicts <span style="color: #e07c44;font-size:20px">&lt;silence&gt;</span><span style="color: black"> and <span style="color: #e07c44;font-size:20px">&lt;stun&gt;</span><span style="color: black">.
 
 
 ## Adjutant

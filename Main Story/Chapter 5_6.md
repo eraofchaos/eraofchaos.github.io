@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-6 Flanked on Both Sides"
 permalink: /Main Story/Chapter 5_6/
 excerpt: "Chapter 5 - 6. Era of Chaos  Main Story - Chapter 5_6. 5-6 Flanked on Both Sides"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 5_6.md"
 toc: false

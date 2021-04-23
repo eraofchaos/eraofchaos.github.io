@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals air damage to enemy units and lowers target's accuracy by 30%.
+
 ### 2 Spell: Stone Skin
  **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, absorbs an additional <span style="color: #00ff22;font-size:16px">{$buffaddattr13}</span><span style="color: black"> of damage.
+
+ **Description 3:** Allies are shielded.
+
+ **Description 4:** Provides friendly unit with a shield which absorbs damage.
 
 ### 3 Spell: Earth Shield
  **Description:** Increases unit damage reduction by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>% for friendly units within a large range and grants them immunity to earth spell damage, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+ **Description 2:** Next level, duration increases by <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** Allies take reduced damage and are granted protection from earth damage.
+
+ **Description 4:** Increases friendly unit protection and grants immunity from earth spells.
+
 ### 4 Spell: Holy Shield
  **Description:** Summons 1 giant protective shield and makes friendly units immune to all damage for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s.
+
+ **Description 2:** Next level, duration increases by <span style="color: #00ff22;font-size:16px">{$olast12/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** Allies bestow invincibility upon you.
+
+ **Description 4:** All friendly units are immune to damage.
 
 
 ## Adjutant

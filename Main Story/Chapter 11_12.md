@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-12 Ladybird of Luck"
 permalink: /Main Story/Chapter 11_12/
 excerpt: "Chapter 11 - 12. Era of Chaos  Main Story - Chapter 11_12. 11-12 Ladybird of Luck"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 11_12.md"
 toc: false

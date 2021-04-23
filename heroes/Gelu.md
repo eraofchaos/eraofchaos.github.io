@@ -43,14 +43,38 @@ toc: true
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals air damage to enemy units and lowers target's accuracy by 30%.
+
 ### 2 Spell: Stone Skin
  **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, absorbs an additional <span style="color: #00ff22;font-size:16px">{$buffaddattr13}</span><span style="color: black"> of damage.
+
+ **Description 3:** Allies are shielded.
+
+ **Description 4:** Provides friendly unit with a shield which absorbs damage.
 
 ### 3 Spell: Precision
  **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+ **Description 2:** Next level, duration increases by <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** Allies receive a guaranteed critical hit.
+
+ **Description 4:** Friendly units' attack is guaranteed to hit, and do critical damage.
+
 ### 4 Spell: Frenzy
  **Description:** Sacrifices the HP of friendly units equal to 30% of their max HP within a large range (does not deal fatal damage), making their ATK speed increase by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
+
+ **Description 2:** Next level, duration increases by <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** Allies gain increased attack speed.
+
+ **Description 4:** Deducts health from friendly unit (non-fatal) and increases attack speed.
 
 
 ## Adjutant

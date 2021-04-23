@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-3 The Corroded Metal"
 permalink: /Main Story/Chapter 23_3/
 excerpt: "Chapter 23 - 3. Era of Chaos  Main Story - Chapter 23_3. 23-3 The Corroded Metal"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 23_3.md"
 toc: false

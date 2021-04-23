@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-12 Shapeshifter"
 permalink: /Main Story/Chapter 16_12/
 excerpt: "Chapter 16 - 12. Era of Chaos  Main Story - Chapter 16_12. 16-12 Shapeshifter"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 16_12.md"
 toc: false

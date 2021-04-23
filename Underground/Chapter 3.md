@@ -2,7 +2,7 @@
 title: "Underground - Chapter 3 Griffin Cliffs"
 permalink: /Underground/Chapter 3/
 excerpt: "Chapter 3 Griffin Cliffs. Era of Chaos  Underground - Chapter 3. Griffin Cliffs"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 3.md"
 toc: false

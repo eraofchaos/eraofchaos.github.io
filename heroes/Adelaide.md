@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Frozen Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals water damage to enemy units and casts <span style="color: #f0f000;font-size:18px">Slow</span><span style="color: black"> on them.
+
 ### 2 Spell: Ice Bolt
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage to enemy units within a certain range, and deals additional <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> water spell damage to <span style="color: #e07c44;font-size:20px">slowed </span><span style="color: black"> targets.
+
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black"> and additional damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd22}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals water damage to enemy units and deals additional water damage to <span style="color: #f0f000;font-size:18px">slowed</span><span style="color: black">targets<span style="color: #48b946;font-size:20px"></span><span style="color: black">.
 
 ### 3 Spell: Ice Wall
  **Description:** Summons 1 Ice Wall which <span style="color: #e07c44;font-size:20px">freezes</span><span style="color: black"> nearby enemy units for {($olast11+$olast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level, cooldown decreases by <span style="color: #00ff22;font-size:16px">{($cd2)/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** Summon Ice Wall
+
+ **Description 4:** Summons a wall of ice and <span style="color: #f0f000;font-size:18px">freezes</span><span style="color: black"> passing enemy units.
+
 ### 4 Spell: Frost Ring
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> water spell damage on enemy units within a very large range, and <span style="color: #e07c44;font-size:20px">freezes</span><span style="color: black"> to <span style="color: #e07c44;font-size:20px">slowed down</span><span style="color: black"> targets for 5s.
+
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals water damage to enemy units and causes <span style="color: #f0f000;font-size:18px">slowed </span><span style="color: black">targets to become <span style="color: #f0f000;font-size:18px">frozen</span><span style="color: black">.
 
 
 ## Adjutant

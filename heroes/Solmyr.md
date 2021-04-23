@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals air damage to enemy units and lowers target's accuracy by 30%.
+
 ### 2 Spell: Lightning Bolt
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
+
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Summons a bolt of lightning, dealing air damage to enemy units.
 
 ### 3 Spell: Wind Wall
  **Description:** Summons 1 Wall of Wind which increases dodge by {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black"> and movement speed by {$buffaddattr22+$buffaddattr23*($sklevel-1)} for friendly units which pass through it, lasting for {$olast11/1000}s.
 
+ **Description 2:** Next level, Dodge increases by an additional <span style="color: #1ca216;font-size:18px">{($buffaddattr13)/20}%</span><span style="color: black">
+
+ **Description 3:** Allies receive increased dodge and movement speed.
+
+ **Description 4:** Summons a wall of wind which increases attack speed and movement speed of friendly units which pass through it.
+
 ### 4 Spell: Chain Lightning
  **Description:** Fires 1 bolt of lightning which jumps 5 times across different enemy units. Each jump deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> air spell damage.
+
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Fires a bolt of lightning which jumps 9 times across different enemy units. Each jump deals air damage.
 
 
 ## Adjutant

@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Hidden Blade Assassination
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a certain range while inflicting <span style="color: #e07c44;font-size:20px">bleeding</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level increases damage by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">.
+
+ **Description 3:** Deals damage to enemies.
+
+ **Description 4:** Deals fire damage to enemy units and inflicts <span style="color: #e07c44;font-size:20px">&lt;bleeding&gt;</span><span style="color: black">.
+
 ### 2 Spell: Stealth
  **Description:** Grants Stealth to friendly units within a large range, making them immune to unit damage for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
+
+ **Description 2:** Next level increases duration by <span style="color: #1ca216;font-size:18px">{$bufflast12/1000}</span><span style="color: black">s.
+
+ **Description 3:** Allies become immune to damage.
+
+ **Description 4:** Friendly units become immune to damage from enemy units.
 
 ### 3 Spell: Quiet
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell DMG to enemy units within a large range while inflicting <span style="color: #e07c44;font-size:20px">silence</span><span style="color: black"> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level increases damage by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">.
+
+ **Description 3:** Deals damage and inflicts <silence> on enemies.
+
+ **Description 4:** Deals fire damage to enemy units and inflicts <span style="color: #e07c44;font-size:20px">&lt;silence&gt;</span><span style="color: black">.
+
 ### 4 Spell: Eagle Vision
  **Description:** Grants <span style="color: #e07c44;font-size:20px">Hawkeye</span><span style="color: black"> to all friendly units while increasing Critical Hit and Accuracy by 900 for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
+
+ **Description 2:** Next level increases duration by <span style="color: #1ca216;font-size:18px">{$bufflast12/1000}</span><span style="color: black">s.
+
+ **Description 3:** Allies gain increased damage.
+
+ **Description 4:** Increases Critical Hit and Accuracy of friendly units while granting <span style="color: #e07c44;font-size:20px">&lt;Hawkeye&gt;</span><span style="color: black">.
 
 
 ## Adjutant

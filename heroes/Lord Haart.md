@@ -43,14 +43,38 @@ toc: true
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals air damage to enemy units and lowers target's accuracy by 30%.
+
 ### 2 Spell: Sorrow
  **Description:** Inflicts <span style="color: #e07c44;font-size:20px">Low Morale</span><span style="color: black"> on enemy non-Necropolis units within a large range and decreases their ATK speed by {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>%, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+
+ **Description 2:** Next level, cooldown decreases by <span style="color: #1ca216;font-size:18px">{$cd2/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** Your enemies have low morale.
+
+ **Description 4:** Instantly <span style="color: #f0f000;font-size:18px">reduces morale</span><span style="color: black">of target enemy unit.
 
 ### 3 Spell: Death Ripple
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage on all units (ineffective on Necropolis units), and deals 50% more damage to units in Low Morale.
 
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** You receive damage to all units
+
+ **Description 4:** Deals earth damage to enemy units. Damage is halved for Necropolis creatures.
+
 ### 4 Spell: Kill Order
  **Description:** Order Death Knights to deal <span style="color: #48b946;font-size:20px">Critical Strike</span><span style="color: black"> once. The damage this time increases by 20%. Reduces the target's DEF by {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, mana cost reduces by <span style="color: #1ca216;font-size:18px">0.5</span><span style="color: black">
+
+ **Description 3:** Black knight unleashes a destructive attack.
+
+ **Description 4:** Orders death knights to deal<span style="color: #f0f000;font-size:18px">Death Blow</span><span style="color: black">
 
 
 ## Adjutant

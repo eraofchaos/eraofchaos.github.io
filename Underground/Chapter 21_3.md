@@ -2,7 +2,7 @@
 title: "Underground - Chapter 21 - 21-3 Slaves of War"
 permalink: /Underground/Chapter 21_3/
 excerpt: "Chapter 21 - 3. Era of Chaos  Underground - Chapter 21_3. 21-3 Slaves of War"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 21_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-6 Monster Stone"
 permalink: /Main Story/Chapter 18_6/
 excerpt: "Chapter 18 - 6. Era of Chaos  Main Story - Chapter 18_6. 18-6 Monster Stone"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 18_6.md"
 toc: false

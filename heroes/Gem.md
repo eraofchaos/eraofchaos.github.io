@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Frozen Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals water damage to enemy units and casts <span style="color: #f0f000;font-size:18px">Slow</span><span style="color: black"> on them.
+
 ### 2 Spell: Stone Skin
  **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, absorbs an additional <span style="color: #00ff22;font-size:16px">{$buffaddattr13}</span><span style="color: black"> of damage.
+
+ **Description 3:** Allies are shielded.
+
+ **Description 4:** Provides friendly unit with a shield which absorbs damage.
 
 ### 3 Spell: Cure
  **Description:** Restores <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> HP for friendly units within a certain range.
 
+ **Description 2:** Next level, health recovery increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Friendly units are healed.
+
+ **Description 4:** Friendly units recover health
+
 ### 4 Spell: Tranquil Rain
  **Description:** Restores HP of friendly units equal to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> and 1% of their Max HP for 6s.
+
+ **Description 2:** Next level, health recovery increases by <span style="color: #1ca216;font-size:18px">{$ovalueadd12}</span><span style="color: black">
+
+ **Description 3:** Allies recover HP
+
+ **Description 4:** Recover HP for all friendly units
 
 
 ## Adjutant

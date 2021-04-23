@@ -2,7 +2,7 @@
 title: "Avatar - Darkness Dominance"
 permalink: /Avatars/Darkness Dominance/
 excerpt: "Era of Chaos  Darkness Dominance"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Darkness Dominance.md"
 toc: false

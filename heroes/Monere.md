@@ -43,14 +43,38 @@ toc: true
 ### 1 Spell: Frozen Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals water damage to enemy units and casts <span style="color: #f0f000;font-size:18px">Slow</span><span style="color: black"> on them.
+
 ### 2 Spell: Lightning Bolt
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
+
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Summons a bolt of lightning, dealing air damage to enemy units.
 
 ### 3 Spell: Fireball
  **Description:** Summons continuous fire balls in the target area, dealing fire spell damage 6 times (adds up to <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*6}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1>) to enemy units within a certain range and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for 8s.
 
+ **Description 2:** Next level, accumulated damage increases by <span style="color: #1ca216;font-size:18px">{$ovalueadd12*6}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Summons a fire ball in the target area, dealing fire damage to enemy units and <span style="color: #e07c44;font-size:20px">burning</span><span style="color: black"> them
+
 ### 4 Spell: Mystic Domain
  **Description:** Creates a Mystic Domain in the target area, dealing <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a very large range, and inflicting <span style="color: #e07c44;font-size:20px">silence</span><span style="color: black"> on enemy units within range for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3>s.
+
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">, and duration of silence increases by <span style="color: #1ca216;font-size:18px">{$olast12/1000}</span><span style="color: black">s
+
+ **Description 3:** Enemy silences the target
+
+ **Description 4:** Summon Mystic Domain at a specified location and silence all enemy units
 
 
 ## Adjutant

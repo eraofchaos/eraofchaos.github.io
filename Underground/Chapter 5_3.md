@@ -2,7 +2,7 @@
 title: "Underground - Chapter 5 - 5-3 Long Live the Queen!"
 permalink: /Underground/Chapter 5_3/
 excerpt: "Chapter 5 - 3. Era of Chaos  Underground - Chapter 5_3. 5-3 Long Live the Queen!"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 5_3.md"
 toc: false

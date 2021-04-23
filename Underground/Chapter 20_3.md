@@ -2,7 +2,7 @@
 title: "Underground - Chapter 20 - 20-3 God's Pupil"
 permalink: /Underground/Chapter 20_3/
 excerpt: "Chapter 20 - 3. Era of Chaos  Underground - Chapter 20_3. 20-3 God's Pupil"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 20_3.md"
 toc: false

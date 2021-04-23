@@ -43,14 +43,38 @@ toc: true
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals fire damage to enemy units.
+
 ### 2 Spell: Quicksand
  **Description:** Summons Quicksand at a specific location and deals damage to all units equal to 2% of their Max HP (double damage for enemy units) every second. Reduces enemy units' damage reduction by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for {($olast11+$olast12)/1000}s.
+
+ **Description 2:** Next level, it will receive an additional <span style="color: #00ff22;font-size:16px">{-($buffaddattr13)}%</span><span style="color: black"> protection from damage.
+
+ **Description 3:** You receive damage to all units and your enemy's damage is reduced.
+
+ **Description 4:** Summons quicksand at a specified location and deals damage to all units (with damage doubled for enemies). Reduces damage protection for enemy units.
 
 ### 3 Spell: Precision
  **Description:** Grants friendly units within a large range 100% Critical Hit and Accuracy, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+ **Description 2:** Next level, duration increases by <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** Allies receive a guaranteed critical hit.
+
+ **Description 4:** Friendly units' attack is guaranteed to hit, and do critical damage.
+
 ### 4 Spell: Energy Reverse
  **Description:** Spell damage taken by all friendly units from heroes now heals them instead, and spell recovery from heroes that heals enemy units now deals damage instead. Lasts for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, cooldown decreases by <span style="color: #1ca216;font-size:18px">{($cd2)/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** All spells inverted
+
+ **Description 4:** Magic Damage dealt to all friendly units now heals them instead. Enemy spells that heal their units now deal damage instead.
 
 
 ## Adjutant

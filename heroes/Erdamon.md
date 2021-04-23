@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals earth damage to enemy units and causes<span style="color: #f0f000;font-size:18px">\"stun\"</span><span style="color: black">.
+
 ### 2 Spell: Stone Skin
  **Description:** Gives a <span style="color: #e07c44;font-size:20px">shield</span><span style="color: black"> to friendly units in a certain range, that absorbs <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> damage, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, absorbs an additional <span style="color: #00ff22;font-size:16px">{$buffaddattr13}</span><span style="color: black"> of damage.
+
+ **Description 3:** Allies are shielded.
+
+ **Description 4:** Provides friendly unit with a shield which absorbs damage.
 
 ### 3 Spell: Earth Elemental
  **Description:** Summons 4 Earth Elementals of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Earth Elementals will remain for the whole battle with an ATK of <span style="color: #48b946;font-size:20px">{440+120*($sklevel-1)}</span><span style="color: black"><(440+120*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946;font-size:20px">{9600+4170*($sklevel-1)}</span><span style="color: black"><(9600+4170*($sklevel-1))*$talent14+$talent13>.
 
+ **Description 2:** Next level, earth elementals attain a level increase of <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">, an attack increase of <span style="color: #00ff22;font-size:16px">68</span><span style="color: black"> and health increase of <span style="color: #00ff22;font-size:16px">2600</span><span style="color: black">
+
+ **Description 3:** Summon Earth Elemental
+
+ **Description 4:** Summons 4 Earth Elementals at a specified location
+
 ### 4 Spell: Lava Trap
  **Description:** Summons a Lava Trap, dealing <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> earth spell damage on non-flying enemy units next to the trap every second, and <span style="color: #e07c44;font-size:20px">stunning</span><span style="color: black"> them for 0.7s. The trap lasts for {$olast11/1000}s.
+
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$ovalueadd12}</span><span style="color: black">
+
+ **Description 3:** Enemy. Deals damage and stuns the enemy
+
+ **Description 4:** Summons a Lava Trap at a specific location, dealing damage to enemy ground units and stunning targets
 
 
 ## Adjutant

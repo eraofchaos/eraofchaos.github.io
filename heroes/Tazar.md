@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals earth damage to enemy units and causes<span style="color: #f0f000;font-size:18px">\"stun\"</span><span style="color: black">.
+
 ### 2 Spell: Quicksand
  **Description:** Summons Quicksand at a specific location and deals damage to all units equal to 2% of their Max HP (double damage for enemy units) every second. Reduces enemy units' damage reduction by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for {($olast11+$olast12)/1000}s.
+
+ **Description 2:** Next level, it will receive an additional <span style="color: #00ff22;font-size:16px">{-($buffaddattr13)}%</span><span style="color: black"> protection from damage.
+
+ **Description 3:** You receive damage to all units and your enemy's damage is reduced.
+
+ **Description 4:** Summons quicksand at a specified location and deals damage to all units (with damage doubled for enemies). Reduces damage protection for enemy units.
 
 ### 3 Spell: Petrification
  **Description:** Deals target units within a certain range <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage and <span style="color: #e07c44;font-size:20px">petrifies</span><span style="color: black"> them for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s
 
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">, and duration increases by <span style="color: #1ca216;font-size:18px">{$bufflast12/1000}</span><span style="color: black">s
+
+ **Description 3:** Enemy deals damage
+
+ **Description 4:** Deals earth damage to enemy units and <span style="color: #e07c44;font-size:20px">petrifies</span><span style="color: black"> them
+
 ### 4 Spell: Death Match
  **Description:** All units on the battlefield get 2 random debuffs which can't be dispelled. The damage debuffs for enemies double. Friendly Fortress units gain 10% life drain for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s.
+
+ **Description 2:** Next level increases duration of life drain by <span style="color: #1ca216;font-size:18px">0.3</span><span style="color: black">s.
+
+ **Description 3:** All units from both sides randomly get given 2-stack debuffs, and friendly units get life drain
+
+ **Description 4:** All units on the battlefield get 2 random debuffs, the enemy's damage debuffs double, and friendly units gain 10% life drain
 
 
 ## Adjutant

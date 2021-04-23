@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals fire damage to enemy units.
+
 ### 2 Spell: Mirth
  **Description:** Grants <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black"> to all friendly non-Necropolis units within a large range, increasing their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Lasts for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+
+ **Description 2:** Next level, initial CD and CD both decrease by <span style="color: #1ca216;font-size:18px">{($cd2)/1000}</span><span style="color: black">s
+
+ **Description 3:** Your allies have high morale.
+
+ **Description 4:** Strengthens friendly units with <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black"> within a large range, and increases their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%, lasting for <span style="color: #1ca216">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s
 
 ### 3 Spell: Fire Wall
  **Description:** Summons a Fire Wall, dealing <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> continuous fire spell damage on enemy units around the wall every 0.5s, lasting for {($olast11+$olast12)/1000}s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$ovalueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage over time to enemy
+
+ **Description 4:** Summons a wall of fire which damages enemies that pass through it. Deals fire damage.
+
 ### 4 Spell: King's Wind
  **Description:** Strengthens all friendly units with <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black">, increasing their ATK by 50<50*($a122+$a126+$a132+$a136)>%, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, the cooldown is reduced by <span style="color: #1ca216;font-size:18px">{($cd2)/1000}</span><span style="color: black">s
+
+ **Description 3:** Allies receive increased Attack Speed and Attack
+
+ **Description 4:** Strengthens all friendly units with High Morale and increases their Attack.
 
 
 ## Adjutant

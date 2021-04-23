@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Fire arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals fire damage to enemy units.
+
 ### 2 Spell: Curse
  **Description:** Decreases units' ATK of targeted enemy within a large range by <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+
+ **Description 2:** Next level, attack reduces by an additional <span style="color: #00ff22;font-size:16px">{-($buffaddattr13)}%</span><span style="color: black">.
+
+ **Description 3:** Enemies' attack is reduced.
+
+ **Description 4:** Reduces enemy unit attack.
 
 ### 3 Spell: Slayer
  **Description:** Increases ATK by <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> for friendly units within a large range, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. The duration for 9-man units lasts for additional 5s.
 
+ **Description 2:** Next level, attack increases by an additional <span style="color: #00ff22;font-size:16px">{$buffaddattr13}%</span><span style="color: black">.
+
+ **Description 3:** Allies gain increased attack.
+
+ **Description 4:** Increases friendly unit attack; effects last longer for 16-member units.
+
 ### 4 Spell: Dragon Roar
  **Description:** Inflict <span style="color: #e07c44;font-size:20px">Bleed</span><span style="color: black"> on all enemy units, dealing damage equal to <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> of their Max HP every 2s, lasting for 16s, and <span style="color: #e07c44;font-size:20px">stun</span><span style="color: black"> them for 6s. Some units may become immune to the <span style="color: #e07c44;font-size:20px">bleed</span><span style="color: black"> damage, and the <span style="color: #e07c44;font-size:20px">bleeding</span><span style="color: black"> units have reduced healing received.
+
+ **Description 2:** Next level, bleeding damage is increased by <span style="color: #1ca216;font-size:18px">{$ovaluepro22}%</span><span style="color: black">
+
+ **Description 3:** Inflicts bleeding and stun on the enemy
+
+ **Description 4:** Causes bleeding and stun
 
 
 ## Adjutant

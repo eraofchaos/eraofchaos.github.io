@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 - 25-8 Origins of the Underground"
 permalink: /Main Story/Chapter 25_8/
 excerpt: "Chapter 25 - 8. Era of Chaos  Main Story - Chapter 25_8. 25-8 Origins of the Underground"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 25_8.md"
 toc: false

@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals earth damage to enemy units and causes<span style="color: #f0f000;font-size:18px">\"stun\"</span><span style="color: black">.
+
 ### 2 Spell: Meteor Shower
  **Description:** Summons meteors in the target area, dealing earth spell damage 6 times (adds up to <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*2+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*($olast11/$ointerval)*2)*$talent2+$talent1>) to enemy units and the damage to <span style="color: #e07c44;font-size:20px">stunned</span><span style="color: black"> targets doubles.
+
+ **Description 2:** Accumulated damage for low-level creatures increases by<span style="color: #1ca216;font-size:18px">{$ovalueadd12*($olast11/$ointerval)*2}</span><span style="color: black">
+
+ **Description 3:** Damage over time to enemy
+
+ **Description 4:** Summons a meteor shower in the target area and deals continuous earth damage to enemy units.
 
 ### 3 Spell: Petrification
  **Description:** Deals target units within a certain range <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage and <span style="color: #e07c44;font-size:20px">petrifies</span><span style="color: black"> them for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s
 
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">, and duration increases by <span style="color: #1ca216;font-size:18px">{$bufflast12/1000}</span><span style="color: black">s
+
+ **Description 3:** Enemy deals damage
+
+ **Description 4:** Deals earth damage to enemy units and <span style="color: #e07c44;font-size:20px">petrifies</span><span style="color: black"> them
+
 ### 4 Spell: The Cycle of Life
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy units within a large range every {$ointerval/1000}s and restores the HP of friendly units equal to the damage dealt. Lasts for {($olast11+$olast12*($sklevel-1))/1000}s.
+
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black"> and recovery increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Enemy deals damage
+
+ **Description 4:** Deals earth damage on enemy units and recovers the HP of friendly units
 
 
 ## Adjutant

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 14 - 14-13 Nearing the Target"
 permalink: /Main Story/Chapter 14_13/
 excerpt: "Chapter 14 - 13. Era of Chaos  Main Story - Chapter 14_13. 14-13 Nearing the Target"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 14_13.md"
 toc: false

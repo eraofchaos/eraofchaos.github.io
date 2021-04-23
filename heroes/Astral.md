@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Air Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage on enemy units within a certain range and decreases the target's accuracy by 30%, lasting for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals air damage to enemy units and lowers target's accuracy by 30%.
+
 ### 2 Spell: Total Darkness
  **Description:** <span style="color: #e07c44;font-size:20px">Blinds</span><span style="color: black"> enemy units within a large range, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
+
+ **Description 2:** Next level, duration increases by <span style="color: #1ca216;font-size:18px">{$bufflast12/1000}</span><span style="color: black">s
+
+ **Description 3:** Enemies' accuracy is reduced.
+
+ **Description 4:** Reduces enemy unit accuracy.
 
 ### 3 Spell: Lightning Bolt
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> air spell damage to all enemy units in a certain range.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Summons a bolt of lightning, dealing air damage to enemy units.
+
 ### 4 Spell: Brilliant Earth
  **Description:** <span style="color: #e07c44;font-size:20px">Blinds</span><span style="color: black"> all hostile units and decreases their accuracy by 1000, lasting for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
+
+ **Description 2:** Next level, duration increases by <span style="color: #1ca216;font-size:18px">{$bufflast12/1000}</span><span style="color: black">s
+
+ **Description 3:** Enemies' accuracy is reduced
+
+ **Description 4:** Blinds all enemy units (reduces accuracy by 1000)
 
 
 ## Adjutant

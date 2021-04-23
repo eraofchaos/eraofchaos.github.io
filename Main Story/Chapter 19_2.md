@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 19 - 19-2 The Empire's Cruelties"
 permalink: /Main Story/Chapter 19_2/
 excerpt: "Chapter 19 - 2. Era of Chaos  Main Story - Chapter 19_2. 19-2 The Empire's Cruelties"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: en
 ref: "Chapter 19_2.md"
 toc: false

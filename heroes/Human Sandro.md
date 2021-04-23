@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Necromancy
  **Description:** Summons 9 Skeletons of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Skeletons will remain for 20s with an ATK of <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> and HP of <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
+ **Description 2:** Next level, skeletons attain a level increase of <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">, an attack increase of <span style="color: #00ff22;font-size:16px">60</span><span style="color: black">, and a health increase of <span style="color: #00ff22;font-size:16px">1520</span><span style="color: black">.
+
+ **Description 3:** Summon Skeleton
+
+ **Description 4:** Summons 9 skeletons at a specified location.
+
 ### 2 Spell: Earth Elemental
  **Description:** Summons 4 Earth Elementals of Lv.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> in the target area. Earth Elementals will remain for the whole battle with an ATK of <span style="color: #48b946;font-size:20px">{440+120*($sklevel-1)}</span><span style="color: black"><(440+120*($sklevel-1))*$talent14+$talent13> and HP of <span style="color: #48b946;font-size:20px">{9600+4170*($sklevel-1)}</span><span style="color: black"><(9600+4170*($sklevel-1))*$talent14+$talent13>.
+
+ **Description 2:** Next level, earth elementals attain a level increase of <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">, an attack increase of <span style="color: #00ff22;font-size:16px">68</span><span style="color: black"> and health increase of <span style="color: #00ff22;font-size:16px">2600</span><span style="color: black">
+
+ **Description 3:** Summon Earth Elemental
+
+ **Description 4:** Summons 4 Earth Elementals at a specified location
 
 ### 3 Spell: Animate Dead
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage to enemy non-Necropolis Faction units within a certain range and restores the HP of friendly Necropolis units by <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black"> and recovery increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals earth damage to non-Necropolis enemy units. Friendly Necropolis units recover health.
+
 ### 4 Spell: Under Shadow
  **Description:** Summons a shadow that lasts for 10s, dealing <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> earth spell damage on enemy units within range every second, and reduces their ATK speed by 30%. Meanwhile, increases the ATK speed and life drain of friendly Necropolis units by 30%.
+
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$ovalueadd12}</span><span style="color: black">
+
+ **Description 3:** Enemy. Deals damage and reduces ATK speed
+
+ **Description 4:** Deal earth damage to enemy units within a certain range and reduce their ATK speed. Increase ATK speed and life drain for friendly units
 
 
 ## Adjutant

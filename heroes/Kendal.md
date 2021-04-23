@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Earth Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> earth spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">stuns</span><span style="color: black"> them for 3s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals earth damage to enemy units and causes<span style="color: #f0f000;font-size:18px">\"stun\"</span><span style="color: black">.
+
 ### 2 Spell: Mirth
  **Description:** Grants <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black"> to all friendly non-Necropolis units within a large range, increasing their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Lasts for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+
+ **Description 2:** Next level, initial CD and CD both decrease by <span style="color: #1ca216;font-size:18px">{($cd2)/1000}</span><span style="color: black">s
+
+ **Description 3:** Your allies have high morale.
+
+ **Description 4:** Strengthens friendly units with <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black"> within a large range, and increases their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%, lasting for <span style="color: #1ca216">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s
 
 ### 3 Spell: Disrupting Ray
  **Description:** Reduces the damage reduction and dodge of targeted enemy units with in a large range by {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a124+$a126+$a134+$a136)>% and {-($buffaddattr22+$buffaddattr23*($sklevel-1))/20}<-(($buffaddattr22+$buffaddattr23*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>% respectively for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s.
 
+ **Description 2:** Next level, duration increases by <span style="color: #1ca216;font-size:18px">{$bufflast12/1000}</span><span style="color: black">s
+
+ **Description 3:** Damage taken by your adversaries is increased.
+
+ **Description 4:** Reduces unit damage reduction and dodge of hostile units within a large range
+
 ### 4 Spell: Rush Tactic
  **Description:** Summons a huge energy circle, Increasing the ATK speed and magic resistance of friendly units inside the circle by 30% and 50% respectively for <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black">s. The effect for 9-man units is doubled.
+
+ **Description 2:** Next level, duration increases by <span style="color: #1ca216;font-size:18px">{$olast12/1000}</span><span style="color: black">s
+
+ **Description 3:** Allies. Increases Magic resistance and ATK speed
+
+ **Description 4:** Reduces the spell damage taken by friendly units and increases their ATK speed. The effect for 9-units doubles
 
 
 ## Adjutant

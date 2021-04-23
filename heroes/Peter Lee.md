@@ -41,14 +41,38 @@ toc: true
 ### 1 Spell: Frozen Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage to enemy units within a certain range, and <span style="color: #e07c44;font-size:20px">slows</span><span style="color: black"> them for 8s.
 
+ **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Damage is dealt to your enemy.
+
+ **Description 4:** Deals water damage to enemy units and casts <span style="color: #f0f000;font-size:18px">Slow</span><span style="color: black"> on them.
+
 ### 2 Spell: Mirth
  **Description:** Grants <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black"> to all friendly non-Necropolis units within a large range, increasing their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Lasts for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+
+ **Description 2:** Next level, initial CD and CD both decrease by <span style="color: #1ca216;font-size:18px">{($cd2)/1000}</span><span style="color: black">s
+
+ **Description 3:** Your allies have high morale.
+
+ **Description 4:** Strengthens friendly units with <span style="color: #e07c44;font-size:20px">High Morale</span><span style="color: black"> within a large range, and increases their ATK speed by {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%, lasting for <span style="color: #1ca216">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black">s
 
 ### 3 Spell: Ice Shield
  **Description:** Grants water spell damage immunity to targeted friendly units within a large range for <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. Enemy units that attack your shielded units are <span style="color: #e07c44;font-size:20px">slowed</span><span style="color: black"> for 3s.
 
+ **Description 2:** Next level, duration increases by <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> seconds.
+
+ **Description 3:** Allies provided with ice shield and resistance to water damage.
+
+ **Description 4:** Increases friendly units water magic resistance; freeze attacks on other units cause them to become<span style="color: #f0f000;font-size:18px">slowed</span><span style="color: black">.
+
 ### 4 Spell: Break Waves
  **Description:** Peter Lee drives an assault ship into enemy units, dealing <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> water spell damage on all enemy units. Defensive units take additional spell damage equal to 10% of their Max HP.
+
+ **Description 2:** Next level, damage increases by <span style="color: #1ca216;font-size:18px">{$valueadd12}</span><span style="color: black">
+
+ **Description 3:** Deals colossal damage on all enemies
+
+ **Description 4:** Deals colossal damage on all enemy units
 
 
 ## Adjutant
