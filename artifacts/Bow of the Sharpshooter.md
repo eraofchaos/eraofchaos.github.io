@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Bow of Elven Cherrywood](/images/t/artifact_40101.png) [Bow of Elven Cherrywood](/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Angel Feather Arrows](/images/t/artifact_40101.png) [Angel Feather Arrows](/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  | ![Bow of Elven Cherrywood](/images/t/artifact_40101.png) [Bow of Elven Cherrywood](/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Angel Feather Arrows](/images/t/artifact_40102.png) [Angel Feather Arrows](/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
   |   | ![Bow of the Sharpshooter](/images/t/icon_artifact_10.png) **Bow of the Sharpshooter** |  | 
-  |   | ![Bowstring of the Unicorn's Mane](/images/t/artifact_40101.png) [Bowstring of the Unicorn's Mane](/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  |   | ![Bowstring of the Unicorn's Mane](/images/t/artifact_40103.png) [Bowstring of the Unicorn's Mane](/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Details

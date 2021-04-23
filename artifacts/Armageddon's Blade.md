@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Forest Bow](/images/t/artifact_40441.png) [Forest Bow](/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Examplar Crossbow](/images/t/artifact_40441.png) [Examplar Crossbow](/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | ![Knight Sword](/images/t/artifact_40441.png) [Knight Sword](/artifacts/Knight Sword/){: .btn .btn--era5} | ![Armageddon's Blade](/images/t/icon_artifact_44.png) **Armageddon's Blade** | ![Mountain Battleaxe](/images/t/artifact_40441.png) [Mountain Battleaxe](/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | ![Staff of Wisdom](/images/t/artifact_40441.png) [Staff of Wisdom](/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Warrior Hammer](/images/t/artifact_40441.png) [Warrior Hammer](/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Forest Bow](/images/t/artifact_40442.png) [Forest Bow](/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Examplar Crossbow](/images/t/artifact_40446.png) [Examplar Crossbow](/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Knight Sword](/images/t/artifact_40441.png) [Knight Sword](/artifacts/Knight Sword/){: .btn .btn--era5} | ![Armageddon's Blade](/images/t/icon_artifact_44.png) **Armageddon's Blade** | ![Mountain Battleaxe](/images/t/artifact_40444.png) [Mountain Battleaxe](/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Staff of Wisdom](/images/t/artifact_40443.png) [Staff of Wisdom](/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Warrior Hammer](/images/t/artifact_40445.png) [Warrior Hammer](/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Details
