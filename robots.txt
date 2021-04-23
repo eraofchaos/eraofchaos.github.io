@@ -1,4 +1,15 @@
-Sitemap: https://eraofchaos.github.io/sitemap.xml
-
 User-agent: *
 Allow: /
+
+Sitemap: https://eraofchaos.github.io/sitemap.xml
+Sitemap: https://eraofchaos.github.io/Items/sitemap.xml
+Sitemap: https://eraofchaos.github.io/ru/sitemap.xml
+Sitemap: https://eraofchaos.github.io/de/sitemap.xml
+Sitemap: https://eraofchaos.github.io/fr/sitemap.xml
+Sitemap: https://eraofchaos.github.io/es/sitemap.xml
+Sitemap: https://eraofchaos.github.io/it/sitemap.xml
+Sitemap: https://eraofchaos.github.io/ItemsRU/sitemap.xml
+Sitemap: https://eraofchaos.github.io/ItemsDE/sitemap.xml
+Sitemap: https://eraofchaos.github.io/ItemsFR/sitemap.xml
+Sitemap: https://eraofchaos.github.io/ItemsES/sitemap.xml
+Sitemap: https://eraofchaos.github.io/ItemsIT/sitemap.xml
