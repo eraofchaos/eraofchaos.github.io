@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Sword of Hellfire](/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4) | A sword that hosts a dark power. One of the components of the Armour of the Damned. | 
-  | 2 | [Shield of the Yawning Dead](/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 6+(LEVEL\*2.4) | A shield assembled from undead bones. One of the components of the Armour of the Damned. | 
-  | 3 | [Skull Helmet](/artifacts/Skull Helmet/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 6+(LEVEL\*2.4) | A helmet found in the underworld. One of the components of the Armour of the Damned. | 
-  | 4 | [Bone Armour](/artifacts/Bone Armour/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 6+(LEVEL\*2.4) | A shield made from hard bones. One of the components of the Armour of the Damned. | 
+  | 1 | ![Sword of Hellfire](/images/t/artifact_40301.png) [Sword of Hellfire](/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4) | A sword that hosts a dark power. One of the components of the Armour of the Damned. | 
+  | 2 | ![Shield of the Yawning Dead](/images/t/artifact_40302.png) [Shield of the Yawning Dead](/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 6+(LEVEL\*2.4) | A shield assembled from undead bones. One of the components of the Armour of the Damned. | 
+  | 3 | ![Skull Helmet](/images/t/artifact_40303.png) [Skull Helmet](/artifacts/Skull Helmet/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 6+(LEVEL\*2.4) | A helmet found in the underworld. One of the components of the Armour of the Damned. | 
+  | 4 | ![Bone Armour](/images/t/artifact_40304.png) [Bone Armour](/artifacts/Bone Armour/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 6+(LEVEL\*2.4) | A shield made from hard bones. One of the components of the Armour of the Damned. | 
 
 
 ## Artifact Advancement

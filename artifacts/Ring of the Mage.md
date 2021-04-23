@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Collar of Conjuring](/artifacts/Collar of Conjuring/){: .btn .btn--era3} | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 2+(LEVEL\*0.8) | Enhances the wearer's magic power. One of the components of Ring of the Mage. | 
-  | 2 | [Ring of Conjuring](/artifacts/Ring of Conjuring/){: .btn .btn--era3} | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 2+(LEVEL\*0.8)<br/>**Hero Intelligence**: 2+(LEVEL\*0.8) | A mysterious ring with strong magic. One of the components of Ring of the Mage. | 
-  | 3 | [Cape of Conjuring](/artifacts/Cape of Conjuring/){: .btn .btn--era3} | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 2+(LEVEL\*0.8) | A cape crackling with magical power. One of the components of Ring of the Mage. | 
+  | 1 | ![Collar of Conjuring](/images/t/artifact_40221.png) [Collar of Conjuring](/artifacts/Collar of Conjuring/){: .btn .btn--era3} | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 2+(LEVEL\*0.8) | Enhances the wearer's magic power. One of the components of Ring of the Mage. | 
+  | 2 | ![Ring of Conjuring](/images/t/artifact_40222.png) [Ring of Conjuring](/artifacts/Ring of Conjuring/){: .btn .btn--era3} | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 2+(LEVEL\*0.8)<br/>**Hero Intelligence**: 2+(LEVEL\*0.8) | A mysterious ring with strong magic. One of the components of Ring of the Mage. | 
+  | 3 | ![Cape of Conjuring](/images/t/artifact_40223.png) [Cape of Conjuring](/artifacts/Cape of Conjuring/){: .btn .btn--era3} | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 2+(LEVEL\*0.8) | A cape crackling with magical power. One of the components of Ring of the Mage. | 
 
 
 ## Artifact Advancement

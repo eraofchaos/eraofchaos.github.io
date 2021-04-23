@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Garniture of Interference](/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
-  | 2 | [Surcoat of Counterpoise](/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
-  | 3 | [Boots of Polarity](/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
+  | 1 | ![Garniture of Interference](/images/t/artifact_40231.png) [Garniture of Interference](/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | A necklace engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
+  | 2 | ![Surcoat of Counterpoise](/images/t/artifact_40232.png) [Surcoat of Counterpoise](/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | A cape embroidered with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
+  | 3 | ![Boots of Polarity](/images/t/artifact_40233.png) [Boots of Polarity](/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Unit Health**: 1+(LEVEL\*0.4) %<br/>**Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Knowledge**: 3+(LEVEL\*1.2) | Boots engraved with the yin-yang symbol. One of the components of the Antimagic Runestone. | 
 
 
 ## Artifact Advancement

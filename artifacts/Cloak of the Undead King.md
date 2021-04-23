@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Amulet of the Undertaker](/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Magic Damage**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 6+(LEVEL\*2.4) | A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King. | 
-  | 2 | [Vampire's Cowl](/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 6+(LEVEL\*2.4) | A vampire's precious cape. One of the components of the Cloak of the Undead King. | 
-  | 3 | [Dead Man's Boots](/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6) | A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King. | 
+  | 1 | ![Amulet of the Undertaker](/images/t/artifact_40321.png) [Amulet of the Undertaker](/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Magic Damage**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 2+(LEVEL\*0.8)<br/>**Hero Knowledge**: 6+(LEVEL\*2.4) | A charm used by a Lich to protect himself. One of the components of the Cloak of the Undead King. | 
+  | 2 | ![Vampire's Cowl](/images/t/artifact_40322.png) [Vampire's Cowl](/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 6+(LEVEL\*2.4) | A vampire's precious cape. One of the components of the Cloak of the Undead King. | 
+  | 3 | ![Dead Man's Boots](/images/t/artifact_40323.png) [Dead Man's Boots](/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Unit Attack**: 2+(LEVEL\*0.8) %<br/>**Unit Health**: 2+(LEVEL\*0.8) %<br/>**Hero Knowledge**: 4+(LEVEL\*1.6) | A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King. | 
 
 
 ## Artifact Advancement

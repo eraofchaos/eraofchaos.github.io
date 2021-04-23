@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Tome of Fire Magic](/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 12+(LEVEL\*4.8) | This is a spell book recording advanced fire magic. It was Luna's bedtime readings. One of the components of Spellbinder's Hat | 
-  | 2 | [Tome of Water Magic](/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 12+(LEVEL\*4.8) | This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat | 
-  | 3 | [Tome of Air Magic](/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8) | This is a spell book recording advanced air magic. You will feel the air elemental when reading it. One of the components of Spellbinder's Hat | 
-  | 4 | [Tome of Earth Magic](/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat | 
+  | 1 | ![Tome of Fire Magic](/images/t/artifact_40461.png) [Tome of Fire Magic](/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 12+(LEVEL\*4.8) | This is a spell book recording advanced fire magic. It was Luna's bedtime readings. One of the components of Spellbinder's Hat | 
+  | 2 | ![Tome of Water Magic](/images/t/artifact_40462.png) [Tome of Water Magic](/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 12+(LEVEL\*4.8) | This is a spell book recording advanced water magic. Adelaide gave it to you. One of the components of Spellbinder's Hat | 
+  | 3 | ![Tome of Air Magic](/images/t/artifact_40463.png) [Tome of Air Magic](/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 12+(LEVEL\*4.8) | This is a spell book recording advanced air magic. You will feel the air elemental when reading it. One of the components of Spellbinder's Hat | 
+  | 4 | ![Tome of Earth Magic](/images/t/artifact_40464.png) [Tome of Earth Magic](/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 12+(LEVEL\*4.8) | This is a spell book recording advanced earth magic. Legend says Jeddite defeat the dragon-turned Mutare with it. One of the components of Spellbinder's Hat | 
 
 
 ## Artifact Advancement

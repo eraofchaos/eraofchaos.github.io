@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Name    |   Bonus | Description | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Clover of Fortune](/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 1+(LEVEL\*0.4) | A clover that brings great fortune. One of the components of the Lucky Horseshoe. | 
-  | 2 | [Cards of Prophecy](/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Hero Intelligence**: 1+(LEVEL\*0.4)<br/>**Hero Knowledge**: 1+(LEVEL\*0.4) | Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe. | 
-  | 3 | [Ladybird of Luck](/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 1+(LEVEL\*0.4) | A glowing bird statue. One of the components of the Lucky Horseshoe. | 
+  | 1 | ![Clover of Fortune](/images/t/artifact_40121.png) [Clover of Fortune](/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Unit Attack**: 1+(LEVEL\*0.4) %<br/>**Hero Attack**: 1+(LEVEL\*0.4) | A clover that brings great fortune. One of the components of the Lucky Horseshoe. | 
+  | 2 | ![Cards of Prophecy](/images/t/artifact_40122.png) [Cards of Prophecy](/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Hero Intelligence**: 1+(LEVEL\*0.4)<br/>**Hero Knowledge**: 1+(LEVEL\*0.4) | Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe. | 
+  | 3 | ![Ladybird of Luck](/images/t/artifact_40123.png) [Ladybird of Luck](/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Magic Damage**: 1+(LEVEL\*0.4) %<br/>**Hero Defense**: 1+(LEVEL\*0.4) | A glowing bird statue. One of the components of the Lucky Horseshoe. | 
 
 
 ## Artifact Advancement
