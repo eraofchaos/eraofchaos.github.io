@@ -4,7 +4,7 @@ permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there."
 heroID: 60304
 QR: hero_60304
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Gem"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Gem is the greatest of all Enroth's witches. In both wars she fought for Roland Ironfist. Once Roland was crowned king, Gem moved to Erathia and established a new home for herself there.
 ## Details
- **Profession:** ![Druid](/images/h/h_prof_4.png) Druid
+ **Profession:** ![Druid](/images/h/h_prof_4.png)  [Druid](/heroes/Profession Druid/)
 
- **Race:** Rampart
+ **Faction::** [Rampart](/heroes/Faction Rampart/)
 
- **Rate:** SSR
+ **Rank:** [SSR](/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

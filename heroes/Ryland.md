@@ -4,7 +4,7 @@ permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland is the first – and so far, the only – human to be fully accepted by the Circle of Elf Elders. Some even joke that he is really an elf, reincarnated in a human body. "
 heroID: 60303
 QR: hero_60303
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Ryland"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Ryland is the first – and so far, the only – human to be fully accepted by the Circle of Elf Elders. Some even joke that he is really an elf, reincarnated in a human body. 
 ## Details
- **Profession:** ![Ranger](/images/h/h_prof_3.png) Ranger
+ **Profession:** ![Ranger](/images/h/h_prof_3.png)  [Ranger](/heroes/Profession Ranger/)
 
- **Race:** Rampart
+ **Faction::** [Rampart](/heroes/Faction Rampart/)
 
- **Rate:** SR
+ **Rank:** [SR](/heroes/Hero Rank SR/)
 
  **User Rate:** R
 

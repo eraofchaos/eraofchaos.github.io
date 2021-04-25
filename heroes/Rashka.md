@@ -4,7 +4,7 @@ permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far."
 heroID: 60802
 QR: hero_60802
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Rashka"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Rashka uses intimidation to guide his troops to glory. His tactics have been very effective so far.
 ## Details
- **Profession:** ![Demoniac](/images/h/h_prof_9.png) Demoniac
+ **Profession:** ![Demoniac](/images/h/h_prof_9.png)  [Demoniac](/heroes/Profession Demoniac/)
 
- **Race:** Inferno
+ **Faction::** [Inferno](/heroes/Faction Inferno/)
 
- **Rate:** SR
+ **Rank:** [SR](/heroes/Hero Rank SR/)
 
  **User Rate:** R
 

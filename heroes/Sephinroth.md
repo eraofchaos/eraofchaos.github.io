@@ -4,7 +4,7 @@ permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth, the only known sorceress of Antagarich, said to be the illegitimate daughter of King Gryphonheart."
 heroID: 61402
 QR: hero_61402
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Sephinroth"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Sephinroth, the only known sorceress of Antagarich, said to be the illegitimate daughter of King Gryphonheart.
 ## Details
- **Profession:** ![Warlock](/images/h/h_prof_11.png) Warlock
+ **Profession:** ![Warlock](/images/h/h_prof_11.png)  [Warlock](/heroes/Profession Warlock/)
 
- **Race:** Dungeon
+ **Faction::** [Dungeon](/heroes/Faction Dungeon/)
 
- **Rate:** R
+ **Rank:** [R](/heroes/Hero Rank R/)
 
  **User Rate:** R
 

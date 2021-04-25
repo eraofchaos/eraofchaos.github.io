@@ -4,7 +4,7 @@ permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Although he's still young and untested for an Elemental, Fiur has unmatched prowess. It's believed that he will eventually become one of the most powerful heroes in Elemental"
 heroID: 60704
 QR: hero_60704
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Fiur"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Although he's still young and untested for an Elemental, Fiur has unmatched prowess. It's believed that he will eventually become one of the most powerful heroes in Elemental
 ## Details
- **Profession:** ![Planeswalker](/images/h/h_prof_13.png) Planeswalker
+ **Profession:** ![Planeswalker](/images/h/h_prof_13.png)  [Planeswalker](/heroes/Profession Planeswalker/)
 
- **Race:** Conflux
+ **Faction::** [Conflux](/heroes/Faction Conflux/)
 
- **Rate:** R
+ **Rank:** [R](/heroes/Hero Rank R/)
 
  **User Rate:** R
 

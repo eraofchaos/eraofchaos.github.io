@@ -4,7 +4,7 @@ permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Although she lost her \"father\" due to humankind, she still chooses to help the people who live on the sea."
 heroID: 61701
 QR: hero_61701
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Cassanbel"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Although she lost her \"father\" due to humankind, she still chooses to help the people who live on the sea.
 ## Details
- **Profession:** Ocean Creatures
+ **Profession:**  [Ocean Creatures](/heroes/Profession Ocean Creatures/)
 
- **Race:** Cove
+ **Faction::** [Cove](/heroes/Faction Cove/)
 
- **Rate:** SSR
+ **Rank:** [SSR](/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

@@ -4,7 +4,7 @@ permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina showed great promise when she was young, but she was expelled from Bracada when it was discovered that she was using her magic to turn the living into the undead. Her expulsion set her permanently on the path to evil. "
 heroID: 60502
 QR: hero_60502
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Vidomina"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Vidomina showed great promise when she was young, but she was expelled from Bracada when it was discovered that she was using her magic to turn the living into the undead. Her expulsion set her permanently on the path to evil. 
 ## Details
- **Profession:** ![Necromancer](/images/h/h_prof_6.png) Necromancer
+ **Profession:** ![Necromancer](/images/h/h_prof_6.png)  [Necromancer](/heroes/Profession Necromancer/)
 
- **Race:** Necropolis
+ **Faction::** [Necropolis](/heroes/Faction Necropolis/)
 
- **Rate:** SR+
+ **Rank:** [SR+](/heroes/Hero Rank SR+/)
 
  **User Rate:** R
 

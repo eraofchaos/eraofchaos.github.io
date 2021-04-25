@@ -4,7 +4,7 @@ permalink: /heroes/Yog/
 excerpt: "Era of Chaos Yog. Yog. Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army."
 heroID: 60604
 QR: hero_60604
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Yog"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Yog has been learning from the mages in Bracada for many years, but he prefers studying military strategies to use magical runes. Later, he was noticed by Duke Krewlod and became an outstanding general in the barbarian army.
 ## Details
- **Profession:** ![Barbarian](/images/h/h_prof_7.png) Barbarian
+ **Profession:** ![Barbarian](/images/h/h_prof_7.png)  [Barbarian](/heroes/Profession Barbarian/)
 
- **Race:** Stronghold
+ **Faction::** [Stronghold](/heroes/Faction Stronghold/)
 
- **Rate:** SR
+ **Rank:** [SR](/heroes/Hero Rank SR/)
 
  **User Rate:** SR
 

@@ -4,7 +4,7 @@ permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon is considered a magical prodigy by many of his elders. His goal in life is to become history's greatest dragonslayer."
 heroID: 61202
 QR: hero_61202
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Dracon"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Dracon is considered a magical prodigy by many of his elders. His goal in life is to become history's greatest dragonslayer.
 ## Details
- **Profession:** ![Wizard](/images/h/h_prof_15.png) Wizard
+ **Profession:** ![Wizard](/images/h/h_prof_15.png)  [Wizard](/heroes/Profession Wizard/)
 
- **Race:** Tower
+ **Faction::** [Tower](/heroes/Faction Tower/)
 
- **Rate:** SR+
+ **Rank:** [SR+](/heroes/Hero Rank SR+/)
 
  **User Rate:** R
 

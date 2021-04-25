@@ -4,7 +4,7 @@ permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart was killed, and has been resurrected. As a general of the undead army, he has even more formidable powers than he had in life. "
 heroID: 60401
 QR: hero_60401
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Lord Haart"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Lord Haart was killed, and has been resurrected. As a general of the undead army, he has even more formidable powers than he had in life. 
 ## Details
- **Profession:** ![Death Knight](/images/h/h_prof_5.png) Death Knight
+ **Profession:** ![Death Knight](/images/h/h_prof_5.png)  [Death Knight](/heroes/Profession Death Knight/)
 
- **Race:** Necropolis
+ **Faction::** [Necropolis](/heroes/Faction Necropolis/)
 
- **Rate:** SSR
+ **Rank:** [SSR](/heroes/Hero Rank SSR/)
 
  **User Rate:** SR-
 

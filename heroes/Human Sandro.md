@@ -4,7 +4,7 @@ permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Human Sandro. Human Sandro. Human Sandro, the apprentice of Mage Eric in Bracada, is a young mage who crossed the sea from Enroth. He has been hiding his ambitions and intentions from his teacher and others that know him."
 heroID: 60503
 QR: hero_60503
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Human Sandro"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Human Sandro, the apprentice of Mage Eric in Bracada, is a young mage who crossed the sea from Enroth. He has been hiding his ambitions and intentions from his teacher and others that know him.
 ## Details
- **Profession:** ![Necromancer](/images/h/h_prof_6.png) Necromancer
+ **Profession:** ![Necromancer](/images/h/h_prof_6.png)  [Necromancer](/heroes/Profession Necromancer/)
 
- **Race:** Necropolis
+ **Faction::** [Necropolis](/heroes/Faction Necropolis/)
 
- **Rate:** SR+
+ **Rank:** [SR+](/heroes/Hero Rank SR+/)
 
  **User Rate:** SR
 

@@ -2,14 +2,20 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "index.md"
 QR: heroes
 toc: false
 classes: wide
 ---
-  | Nr |  I |    Name    |  Race   |  Proffesion   |  Rate  |    Specialty     | User Rate  | 
+  by Faction: [Conflux](/heroes/Faction Conflux/){: .btn .btn--primary} [Inferno](/heroes/Faction Inferno/){: .btn .btn--success} [Dungeon](/heroes/Faction Dungeon/){: .btn .btn--warning} [Rampart](/heroes/Faction Rampart/){: .btn .btn--danger} [Fortress](/heroes/Faction Fortress/){: .btn .btn--info} [Castle](/heroes/Faction Castle/){: .btn .btn--primary} [Tower](/heroes/Faction Tower/){: .btn .btn--success} [Stronghold](/heroes/Faction Stronghold/){: .btn .btn--warning} [Neutral Army](/heroes/Faction Neutral Army/){: .btn .btn--danger} [Cove](/heroes/Faction Cove/){: .btn .btn--info} [Necropolis](/heroes/Faction Necropolis/){: .btn .btn--primary} 
+
+  by Class: [null](/heroes/Profession null/){: .btn .btn--primary} [Ocean Creatures](/heroes/Profession Ocean Creatures/){: .btn .btn--success} [Ranger](/heroes/Profession Ranger/){: .btn .btn--warning} [Death Knight](/heroes/Profession Death Knight/){: .btn .btn--danger} [Overlord](/heroes/Profession Overlord/){: .btn .btn--info} [Heretic](/heroes/Profession Heretic/){: .btn .btn--primary} [Warlock](/heroes/Profession Warlock/){: .btn .btn--success} [Druid](/heroes/Profession Druid/){: .btn .btn--warning} [Barbarian](/heroes/Profession Barbarian/){: .btn .btn--danger} [Clerics](/heroes/Profession Clerics/){: .btn .btn--info} [Demoniac](/heroes/Profession Demoniac/){: .btn .btn--primary} [Planeswalker](/heroes/Profession Planeswalker/){: .btn .btn--success} [Knight](/heroes/Profession Knight/){: .btn .btn--warning} [Beast Master](/heroes/Profession Beast Master/){: .btn .btn--danger} [Pirate](/heroes/Profession Pirate/){: .btn .btn--info} [Elementalist](/heroes/Profession Elementalist/){: .btn .btn--primary} [Necromancer](/heroes/Profession Necromancer/){: .btn .btn--success} [Wizard](/heroes/Profession Wizard/){: .btn .btn--warning} 
+
+  by Rank: [R](/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/heroes/Hero Rank SR/){: .btn .btn--info} 
+
+  | Nr |  I |    Name    |  Faction:   |  Profession   |  Rank  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Adelaide](/images/h/h_Adelaide.jpg) | [Adelaide](/heroes/Adelaide/) | Castle | Clerics | **SR** |  Frost Ring | R+ |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/heroes/Astral/) | Tower | Wizard | **SSR** |  Magic Amplification | SSR |

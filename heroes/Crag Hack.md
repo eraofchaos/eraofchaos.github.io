@@ -4,7 +4,7 @@ permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use."
 heroID: 60602
 QR: hero_60602
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Crag Hack"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use.
 ## Details
- **Profession:** ![Barbarian](/images/h/h_prof_7.png) Barbarian
+ **Profession:** ![Barbarian](/images/h/h_prof_7.png)  [Barbarian](/heroes/Profession Barbarian/)
 
- **Race:** Stronghold
+ **Faction::** [Stronghold](/heroes/Faction Stronghold/)
 
- **Rate:** SR
+ **Rank:** [SR](/heroes/Hero Rank SR/)
 
  **User Rate:** R+
 

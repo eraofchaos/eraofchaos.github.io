@@ -4,7 +4,7 @@ permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar focused much of his life on improving his spells, becoming a great spellcaster before he became a leader on the battlefield. He is more reliable than any of his demon kin. "
 heroID: 60901
 QR: hero_60901
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Zydar"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** Zydar focused much of his life on improving his spells, becoming a great spellcaster before he became a leader on the battlefield. He is more reliable than any of his demon kin. 
 ## Details
- **Profession:** ![Heretic](/images/h/h_prof_10.png) Heretic
+ **Profession:** ![Heretic](/images/h/h_prof_10.png)  [Heretic](/heroes/Profession Heretic/)
 
- **Race:** Inferno
+ **Faction::** [Inferno](/heroes/Faction Inferno/)
 
- **Rate:** R
+ **Rank:** [R](/heroes/Hero Rank R/)
 
  **User Rate:** R
 

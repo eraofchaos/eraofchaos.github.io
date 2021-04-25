@@ -4,7 +4,7 @@ permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. As a child, she was captured and trafficked by Dark Elves. Jenova was finally freed from her miserable life by a vengeful Unicorn. From then on she began to worship these mysterious creatures in the forest and became determined to live with them all her life. No one knows Unicorns better than Jenova, who uses their speed and power in war to offer tactical advantages"
 heroID: 60202
 QR: hero_60202
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Jenova"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Description:** As a child, she was captured and trafficked by Dark Elves. Jenova was finally freed from her miserable life by a vengeful Unicorn. From then on she began to worship these mysterious creatures in the forest and became determined to live with them all her life. No one knows Unicorns better than Jenova, who uses their speed and power in war to offer tactical advantages
 ## Details
- **Profession:** ![Ranger](/images/h/h_prof_3.png) Ranger
+ **Profession:** ![Ranger](/images/h/h_prof_3.png)  [Ranger](/heroes/Profession Ranger/)
 
- **Race:** Rampart
+ **Faction::** [Rampart](/heroes/Faction Rampart/)
 
- **Rate:** R
+ **Rank:** [R](/heroes/Hero Rank R/)
 
  **User Rate:** R
 
