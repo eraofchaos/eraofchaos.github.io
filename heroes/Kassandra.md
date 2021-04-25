@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Kassandra's outstanding combat skills are due to the Spartan education she received as a child. After the Spartan left her for dead at Mount Taygetos, she became a mercenary.
 ## Details
- **Profession:** 
+ **Profession:**  [Unknown](/heroes/Profession Unknown/)
 
  **Faction::** [Neutral Army](/heroes/Faction Neutral Army/)
 

@@ -1,10 +1,10 @@
 ---
-title: "Era of Chaos - Profession Overlord -  Heroes"
-permalink: /heroes/Profession Overlord/
-excerpt: "Era of Chaos Profession Overlord. Profession Overlord. List of Profession  in Era of Chaos"
+title: "Era of Chaos - Profession Unknown -  Heroes"
+permalink: /heroes/Profession Unknown/
+excerpt: "Era of Chaos Profession Unknown. Profession Unknown. List of Profession  in Era of Chaos"
 last_modified_at: 2021-04-25
 locale: en
-ref: "Profession Overlord"
+ref: "Profession Unknown"
 toc: false
 classes: wide
 ---
@@ -12,5 +12,5 @@ classes: wide
 
   | Nr |  I |    Name    |  Faction:   |  Profession   |  Rank  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
-  | 1 | ![Dragon Mutare](/images/h/h_MutareDrake.jpg) | [Dragon Mutare](/heroes/Dragon Mutare/) | Dungeon | Overlord | **SSR** |  Dragon Awakes | SSR |
-  | 2 | ![Mutare](/images/h/h_Mutare.jpg) | [Mutare](/heroes/Mutare/) | Dungeon | Overlord | **R** |  Dungeon Torrent | R |
+  | 1 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/heroes/Ezio/) | Neutral Army |  | **SSR** |  Brotherhood | R+ |
+  | 2 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/heroes/Kassandra/) | Neutral Army |  | **SSR-** |  Spartan Legion | R |

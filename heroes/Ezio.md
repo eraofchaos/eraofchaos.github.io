@@ -13,7 +13,7 @@ toc: true
 
  **Description:** Even though he's in a wholly different world, Ezio continues to hold fast to his conviction. He works in the dark to serve the light.
 ## Details
- **Profession:** 
+ **Profession:**  [Unknown](/heroes/Profession Unknown/)
 
  **Faction::** [Neutral Army](/heroes/Faction Neutral Army/)
 
