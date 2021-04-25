@@ -11,8 +11,8 @@ classes: wide
 
   Several permanent benefits are on their way!
 
-  |  Nr  | I | VIP System | EXP | Rewards |
-  |:-----|:-:|:------------|:---:|:--------|
+  |  Nr  | Icon | VIP System | EXP | Rewards |
+  |:-----|:----:|:------------|:---:|:--------|
   | 1 | ![VIP 1](/images/x/chatPri_vipLv1.png) | [VIP 1](/VIP/VIP 1/) | **60** | **1x** [V1 Premium Package](/Items/con_1297/) |
   | 2 | ![VIP 2](/images/x/chatPri_vipLv2.png) | [VIP 2](/VIP/VIP 2/) | **300** | **1x** [V2 Premium Package](/Items/con_1298/) |
   | 3 | ![VIP 3](/images/x/chatPri_vipLv3.png) | [VIP 3](/VIP/VIP 3/) | **500** | **1x** [V3 Premium Package](/Items/con_1299/) |

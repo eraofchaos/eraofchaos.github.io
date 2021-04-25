@@ -9,8 +9,8 @@ toc: false
 classes: wide
 ---
 
-  |  Nr | I | Avatar | Open | Description |
-  |:----|:-:|:-----------|:----:|:--------------|
+  |  Nr | Icon | Avatar | Open | Description |
+  |:----|:----:|:-----------|:----:|:--------------|
   | 1 |  | [All Goes as You Wish](/Avatars/All Goes as You Wish/) | - | All Goes as You Wish Avatar Frame |
   | 2 | ![Anniversary Celebration](/images/a/avatarFrame_65.png) | [Anniversary Celebration](/Avatars/Anniversary Celebration/) | + | The Anniversary Celebration Avatar Frame |
   | 3 | ![Berserker Rage](/images/a/avatarFrame_73.png) | [Berserker Rage](/Avatars/Berserker Rage/) | + | Berserker Rage Avatar Frame |
