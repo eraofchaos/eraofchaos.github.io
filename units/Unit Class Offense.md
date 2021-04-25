@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Unit Class Offense"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [Ranged](/units/Unit Class Ranged/){: .btn .btn--primary} [Charging](/units/Unit Class Charging/){: .btn .btn--success} [Caster](/units/Unit Class Caster/){: .btn .btn--warning} [Offense](/units/Unit Class Offense/){: .btn .btn--danger} [Defense](/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rank |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Psychic Elemental](/images/u/ti_jingshenyuansu.jpg) | [Psychic Elemental](/units/Psychic Elemental/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Magic Elemental  |
   | 2 | ![Dark Champion](/images/u/ti_sishen.jpg) | [Dark Champion](/units/Dark Champion/) | Offense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |

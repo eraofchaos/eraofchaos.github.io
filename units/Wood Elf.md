@@ -1,9 +1,9 @@
 ---
 title: "Wood Elf"
 permalink: /units/Wood Elf/
-excerpt: "Era of Chaos Units. Units. Era of Chaos The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
+excerpt: "Era of Chaos Wood Elf. Wood Elf Units. Grand Elf. Era of Chaos The elves of Avlee excel at archery. They guard their forest home, showering intruders with torrents of arrows."
 unitID: 203
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Wood Elf"
 toc: true

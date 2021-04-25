@@ -1,9 +1,9 @@
 ---
 title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
-excerpt: "Era of Chaos Units. Units. Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
+excerpt: "Era of Chaos Regnan Serpent. Regnan Serpent Units. . Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Regnan Serpent"
 toc: true

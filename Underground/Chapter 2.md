@@ -2,7 +2,7 @@
 title: "Underground - Chapter 2 Guardian Angel"
 permalink: /Underground/Chapter 2/
 excerpt: "Chapter 2 Guardian Angel. Era of Chaos  Underground - Chapter 2. Guardian Angel"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Chapter 2.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Harpy"
 permalink: /units/Harpy/
-excerpt: "Era of Chaos Units. Units. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
+excerpt: "Era of Chaos Harpy. Harpy Units. Harpy Hag. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Harpy"
 toc: true

@@ -1,9 +1,9 @@
 ---
 title: "Pegasus"
 permalink: /units/Pegasus/
-excerpt: "Era of Chaos Units. Units. Era of Chaos Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
+excerpt: "Era of Chaos Pegasus. Pegasus Units. Silver Pegasus. Era of Chaos Pegasi are legendary creatures of the forest. They are companions to the best of the elves and their main aim is to keep the peace of their forest."
 unitID: 204
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Pegasus"
 toc: true

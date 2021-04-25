@@ -2,12 +2,14 @@
 title: "VIP - VIP 15"
 permalink: /VIP/VIP 15/
 excerpt: "Era of Chaos  VIP System. VIP 15"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "VIP 15.md"
 toc: false
 classes: wide
 ---
+ ![VIP 15](/images/x/chatPri_vipLv15.png)
+
  [VIP 1](/VIP/VIP 1/){: .btn .btn--primary}[VIP 2](/VIP/VIP 2/){: .btn .btn--success}[VIP 3](/VIP/VIP 3/){: .btn .btn--warning}[VIP 4](/VIP/VIP 4/){: .btn .btn--danger}[VIP 5](/VIP/VIP 5/){: .btn .btn--info}[VIP 6](/VIP/VIP 6/){: .btn .btn--primary}[VIP 7](/VIP/VIP 7/){: .btn .btn--primary}[VIP 8](/VIP/VIP 8/){: .btn .btn--success}[VIP 9](/VIP/VIP 9/){: .btn .btn--warning}[VIP 10](/VIP/VIP 10/){: .btn .btn--danger}[VIP 11](/VIP/VIP 11/){: .btn .btn--info}[VIP 12](/VIP/VIP 12/){: .btn .btn--primary}[VIP 13](/VIP/VIP 13/){: .btn .btn--primary}[VIP 14](/VIP/VIP 14/){: .btn .btn--success}[VIP 15](/VIP/VIP 15/){: .btn .btn--warning}[VIP 16](/VIP/VIP 16/){: .btn .btn--danger}[VIP 17](/VIP/VIP 17/){: .btn .btn--info}[VIP 18](/VIP/VIP 18/){: .btn .btn--primary}
 
 ## Bonus: 

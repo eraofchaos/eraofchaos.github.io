@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-10 Toxic Dragon's Habits"
 permalink: /Main Story/Chapter 23_10/
 excerpt: "Chapter 23 - 10. Era of Chaos  Main Story - Chapter 23_10. 23-10 Toxic Dragon's Habits"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Chapter 23_10.md"
 toc: false

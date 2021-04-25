@@ -1,9 +1,9 @@
 ---
 title: "Mummy"
 permalink: /units/Mummy/
-excerpt: "Era of Chaos Units. Units. Era of Chaos The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
+excerpt: "Era of Chaos Mummy. Mummy Units. Mummy King. Era of Chaos The undead sleep in their ancient mausoleum. Anyone who dares trespass will be cursed."
 unitID: 308
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Mummy"
 toc: true

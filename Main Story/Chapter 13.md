@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 From Day to Night"
 permalink: /Main Story/Chapter 13/
 excerpt: "Chapter 13. Era of Chaos  Main Story - Chapter 13. From Day to Night"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Chapter 13.md"
 toc: false

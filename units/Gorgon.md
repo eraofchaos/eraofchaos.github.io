@@ -1,9 +1,9 @@
 ---
 title: "Gorgon"
 permalink: /units/Gorgon/
-excerpt: "Era of Chaos Units. Units. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
+excerpt: "Era of Chaos Gorgon. Gorgon Units. Mighty Gorgon. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Gorgon"
 toc: true

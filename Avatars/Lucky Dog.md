@@ -2,7 +2,7 @@
 title: "Avatar - Lucky Dog"
 permalink: /Avatars/Lucky Dog/
 excerpt: "Era of Chaos  Lucky Dog"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Lucky Dog.md"
 toc: false

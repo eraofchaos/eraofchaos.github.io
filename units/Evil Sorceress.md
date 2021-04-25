@@ -1,9 +1,9 @@
 ---
 title: "Evil Sorceress"
 permalink: /units/Evil Sorceress/
-excerpt: "Era of Chaos Units. Units. Era of Chaos She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
+excerpt: "Era of Chaos Evil Sorceress. Evil Sorceress Units. null. Era of Chaos She was once the holy maiden of the Temple of Baa. Her skin is naturally covered in runes, granting her fearsome powers like those of demons."
 unitID: 709
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Evil Sorceress"
 toc: true

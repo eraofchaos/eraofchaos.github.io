@@ -2,7 +2,7 @@
 title: "Hunter's Clothing"
 permalink: /equipment/Hunter's Clothing/
 excerpt: "Era of Chaos Hunter's Clothing. Hunter's Clothing"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Hunter's Clothing.md"
 toc: false

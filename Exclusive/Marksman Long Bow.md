@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Marksman Exclusive."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Marksman Long Bow.md"
 toc: false

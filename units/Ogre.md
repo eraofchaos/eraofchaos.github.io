@@ -1,9 +1,9 @@
 ---
 title: "Ogre"
 permalink: /units/Ogre/
-excerpt: "Era of Chaos Units. Units. Era of Chaos Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
+excerpt: "Era of Chaos Ogre. Ogre Units. Ogre Mage. Era of Chaos Ogres may look a little like apes but they are much more dangerous. They are even able to cast bloodthirst spells in battles."
 unitID: 404
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Ogre"
 toc: true

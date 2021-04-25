@@ -1,9 +1,9 @@
 ---
 title: "Wight"
 permalink: /units/Wight/
-excerpt: "Era of Chaos Units. Units. Era of Chaos Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
+excerpt: "Era of Chaos Wight. Wight Units. Wraith. Era of Chaos Wights lust after only one thing: life. They draw life energy from others whenever they can. Necromancers use wights to haunt the souls of the living."
 unitID: 303
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Wight"
 toc: true

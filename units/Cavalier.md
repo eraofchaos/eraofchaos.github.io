@@ -1,9 +1,9 @@
 ---
 title: "Cavalier"
 permalink: /units/Cavalier/
-excerpt: "Era of Chaos Units. Units. Era of Chaos Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
+excerpt: "Era of Chaos Cavalier. Cavalier Units. Champion Knights. Era of Chaos Cavaliers charge into battle on their noble steeds, protected by sturdy armor. Nearly invincible, many battles have been won thanks to their efforts."
 unitID: 106
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Cavalier"
 toc: true

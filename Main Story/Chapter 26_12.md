@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-12 Banshee's Hideout"
 permalink: /Main Story/Chapter 26_12/
 excerpt: "Chapter 26 - 12. Era of Chaos  Main Story - Chapter 26_12. 26-12 Banshee's Hideout"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Chapter 26_12.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Spartan Warriors"
 permalink: /units/Spartan Warriors/
-excerpt: "Era of Chaos Units. Units. Era of Chaos Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
+excerpt: "Era of Chaos Spartan Warriors. Spartan Warriors Units. null. Era of Chaos Warriors of Thermopylae, this is where we make our final stand against our invaders. For Sparta!"
 unitID: 9702
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Spartan Warriors"
 toc: true

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-14 Once a Traitor"
 permalink: /Main Story/Chapter 18_14/
 excerpt: "Chapter 18 - 14. Era of Chaos  Main Story - Chapter 18_14. 18-14 Once a Traitor"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Chapter 18_14.md"
 toc: false

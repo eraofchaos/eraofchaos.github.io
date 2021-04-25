@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-6 Dead Tree and Stone Tablet"
 permalink: /Main Story/Chapter 30_6/
 excerpt: "Chapter 30 - 6. Era of Chaos  Main Story - Chapter 30_6. 30-6 Dead Tree and Stone Tablet"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Chapter 30_6.md"
 toc: false

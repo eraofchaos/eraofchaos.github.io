@@ -2,7 +2,7 @@
 title: "Frigid Helm"
 permalink: /equipment/Frigid Helm/
 excerpt: "Era of Chaos Frigid Helm. Frigid Helm"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Frigid Helm.md"
 toc: false

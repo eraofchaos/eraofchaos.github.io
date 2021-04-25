@@ -2,7 +2,7 @@
 title: "Underground - Chapter 28 - 28-3  Sky's Yearning"
 permalink: /Underground/Chapter 28_3/
 excerpt: "Chapter 28 - 3. Era of Chaos  Underground - Chapter 28_3. 28-3  Sky's Yearning"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Chapter 28_3.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Minotaur"
 permalink: /units/Minotaur/
-excerpt: "Era of Chaos Units. Units. Era of Chaos A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
+excerpt: "Era of Chaos Minotaur. Minotaur Units. Minotaur King. Era of Chaos A strong creature hides in the dark maze. Its huge axe will chop the strayed enemies into pieces."
 unitID: 705
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Minotaur"
 toc: true

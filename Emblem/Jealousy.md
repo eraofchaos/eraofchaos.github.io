@@ -2,7 +2,7 @@
 title: "Holy Emblem - Jealousy"
 permalink: /Emblem/Jealousy/
 excerpt: "Era of Chaos Jealousy. Jealousy. Era of Chaos Holy Emblem Jealousy. Era of Chaos Chaos Jealousy"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Jealousy.md"
 toc: false

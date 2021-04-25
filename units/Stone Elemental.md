@@ -1,9 +1,9 @@
 ---
 title: "Stone Elemental"
 permalink: /units/Stone Elemental/
-excerpt: "Era of Chaos Units. Units. Era of Chaos The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
+excerpt: "Era of Chaos Stone Elemental. Stone Elemental Units. null. Era of Chaos The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Stone Elemental"
 toc: true

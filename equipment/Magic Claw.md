@@ -2,7 +2,7 @@
 title: "Magic Claw"
 permalink: /equipment/Magic Claw/
 excerpt: "Era of Chaos Magic Claw. Magic Claw"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Magic Claw.md"
 toc: false

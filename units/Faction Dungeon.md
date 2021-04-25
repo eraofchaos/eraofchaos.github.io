@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Dungeon -  Units"
 permalink: /units/Faction Dungeon/
 excerpt: "Era of Chaos Faction Dungeon. Faction Dungeon. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Faction Dungeon"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
  [Conflux](/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/units/Faction Dungeon/){: .btn .btn--warning} [Fortress](/units/Faction Fortress/){: .btn .btn--danger} [Rampart](/units/Faction Rampart/){: .btn .btn--info} [Castle](/units/Faction Castle/){: .btn .btn--primary} [Tower](/units/Faction Tower/){: .btn .btn--success} [Stronghold](/units/Faction Stronghold/){: .btn .btn--warning} [Cove](/units/Faction Cove/){: .btn .btn--danger} [Neutral Army](/units/Faction Neutral Army/){: .btn .btn--info} [Necropolis](/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rank |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Harpy](/images/u/ti_yingshenren.jpg) | [Harpy](/units/Harpy/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpy Hag  |
   | 2 | ![Troglodyte](/images/u/ti_dongxueren.jpg) | [Troglodyte](/units/Troglodyte/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Dark Troglodyte  |

@@ -1,9 +1,9 @@
 ---
 title: "Beholder"
 permalink: /units/Beholder/
-excerpt: "Era of Chaos Units. Units. Era of Chaos These multi-eyed monsters are clever. For them, all the creatures are servants."
+excerpt: "Era of Chaos Beholder. Beholder Units. Evil Eye. Era of Chaos These multi-eyed monsters are clever. For them, all the creatures are servants."
 unitID: 703
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Beholder"
 toc: true

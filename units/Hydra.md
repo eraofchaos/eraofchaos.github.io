@@ -1,9 +1,9 @@
 ---
 title: "Hydra"
 permalink: /units/Hydra/
-excerpt: "Era of Chaos Units. Units. Era of Chaos A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
+excerpt: "Era of Chaos Hydra. Hydra Units. Chaos Hydra. Era of Chaos A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Hydra"
 toc: true

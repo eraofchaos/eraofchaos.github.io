@@ -2,7 +2,7 @@
 title: "Exclusive - Immortal Dragon Bone (Bone Dragon)"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Immortal Dragon Bone. Immortal Dragon Bone. Era of Chaos Exclusive Immortal Dragon Bone. Bone Dragon Exclusive."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: en
 ref: "Bone Dragon Immortal Dragon Bone.md"
 toc: false
