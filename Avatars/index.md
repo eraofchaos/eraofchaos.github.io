@@ -2,7 +2,7 @@
 title: "Avatar Frame & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatar Frame & Avatar. Avatar Frame & Avatar"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "index.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
   | 16 | ![Coordinator](/images/a/avatarFrame_15.png) | [Coordinator](/Avatars/Coordinator/) | + |  |
   | 17 | ![Dance of the Blades](/images/a/avatarFrame_26.png) | [Dance of the Blades](/Avatars/Dance of the Blades/) | + | Dance of the Blades avatar frame |
   | 18 | ![Darkness Dominance](/images/a/avatarFrame_34.png) | [Darkness Dominance](/Avatars/Darkness Dominance/) | + | Darkness Dominance Avatar Frame |
-  | 19 |  | [Deadly Commander](/Avatars/Deadly Commander/) | + | Deadly Commander avatar frame |
+  | 19 | ![Deadly Commander](/images/a/avatarFrame_21.png) | [Deadly Commander](/Avatars/Deadly Commander/) | + | Deadly Commander avatar frame |
   | 20 | ![Death Kingdom](/images/a/avatarFrame_86.png) | [Death Kingdom](/Avatars/Death Kingdom/) | - | Death Kingdom Avatar Frame |
   | 21 | ![Deep Ice Crystal](/images/a/avatarFrame_91.png) | [Deep Ice Crystal](/Avatars/Deep Ice Crystal/) | + | Deep Ice Crystal Avatar Frame |
   | 22 | ![Dragon Soul](/images/a/avatarFrame_52.png) | [Dragon Soul](/Avatars/Dragon Soul/) | + | Dragon Soul Avatar Frame |

@@ -4,7 +4,7 @@ permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. During the six-month border war with Krewlod, Tazar led a small force in a Tatalia outpost and held back the Krewlod army, which was five times larger as his, for eight days until reinforcements arrived."
 heroID: 61501
 QR: hero_61501
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Tazar"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:**  [Beast Master](/heroes/Profession Beast Master/)
 
- **Faction::** [Fortress](/heroes/Faction Fortress/)
+ **Faction:** [Fortress](/heroes/Faction Fortress/)
 
  **Rank:** [SSR](/heroes/Hero Rank SSR/)
 

@@ -2,7 +2,7 @@
 title: "Flickering Lightning Ball"
 permalink: /equipment/Flickering Lightning Ball/
 excerpt: "Era of Chaos Flickering Lightning Ball. Flickering Lightning Ball"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Flickering Lightning Ball.md"
 toc: false

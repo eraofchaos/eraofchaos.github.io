@@ -2,7 +2,7 @@
 title: "Warrior's Bracers"
 permalink: /equipment/Warrior's Bracers/
 excerpt: "Era of Chaos Warrior's Bracers. Warrior's Bracers"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Warrior's Bracers.md"
 toc: false

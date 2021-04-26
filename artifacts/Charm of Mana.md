@@ -2,7 +2,7 @@
 title: "Artifacts - Wizard's Well - Charm of Mana"
 permalink: /artifacts/Charm of Mana/
 excerpt: "Era of Chaos  Wizard's Well - Charm of Mana. A charm that enhances magic. One of the components of the Wizard's Well."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Charm of Mana.md"
 toc: false

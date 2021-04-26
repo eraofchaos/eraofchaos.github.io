@@ -2,7 +2,7 @@
 title: "Cavalier's Lance"
 permalink: /equipment/Cavalier's Lance/
 excerpt: "Era of Chaos Cavalier's Lance. Cavalier's Lance"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Cavalier's Lance.md"
 toc: false

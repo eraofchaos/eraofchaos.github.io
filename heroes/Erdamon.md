@@ -4,7 +4,7 @@ permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, the ancient King of Lava, has been sleeping for centuries in the mountains at the border of Eeofol. Now he wakes up and joins the Elemental. Erdamon is very willing to help the world get rid of the Kreegan through war."
 heroID: 60703
 QR: hero_60703
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Erdamon"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Planeswalker](/images/h/h_prof_13.png)  [Planeswalker](/heroes/Profession Planeswalker/)
 
- **Faction::** [Conflux](/heroes/Faction Conflux/)
+ **Faction:** [Conflux](/heroes/Faction Conflux/)
 
  **Rank:** [R](/heroes/Hero Rank R/)
 

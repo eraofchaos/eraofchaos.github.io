@@ -2,7 +2,7 @@
 title: "Underground - Chapter 22 - 22-3 Cannon-Fodder"
 permalink: /Underground/Chapter 22_3/
 excerpt: "Chapter 22 - 3. Era of Chaos  Underground - Chapter 22_3. 22-3 Cannon-Fodder"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 22_3.md"
 toc: false

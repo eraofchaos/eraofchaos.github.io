@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 14 - 14-7 Endless Crisis"
 permalink: /Main Story/Chapter 14_7/
 excerpt: "Chapter 14 - 7. Era of Chaos  Main Story - Chapter 14_7. 14-7 Endless Crisis"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 14_7.md"
 toc: false

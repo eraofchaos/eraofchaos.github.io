@@ -4,7 +4,7 @@ permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Dragon Mutare. Dragon Mutare. After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father."
 heroID: 61302
 QR: hero_61302
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Dragon Mutare"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Overlord](/images/h/h_prof_16.png)  [Overlord](/heroes/Profession Overlord/)
 
- **Faction::** [Dungeon](/heroes/Faction Dungeon/)
+ **Faction:** [Dungeon](/heroes/Faction Dungeon/)
 
  **Rank:** [SSR](/heroes/Hero Rank SSR/)
 

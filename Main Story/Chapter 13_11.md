@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-11 Dawn of War"
 permalink: /Main Story/Chapter 13_11/
 excerpt: "Chapter 13 - 11. Era of Chaos  Main Story - Chapter 13_11. 13-11 Dawn of War"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 13_11.md"
 toc: false

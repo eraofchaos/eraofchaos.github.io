@@ -2,7 +2,7 @@
 title: "Underground - Chapter 26 - 26-2 Burn with Jealousy"
 permalink: /Underground/Chapter 26_2/
 excerpt: "Chapter 26 - 2. Era of Chaos  Underground - Chapter 26_2. 26-2 Burn with Jealousy"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 26_2.md"
 toc: false

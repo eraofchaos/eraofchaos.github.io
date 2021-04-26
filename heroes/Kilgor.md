@@ -4,7 +4,7 @@ permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. At a young age, Kilgor defeated his father for the title of clan chief. His fame has kept spreading throughout Krewlod ever since. Many consider him the only warrior capable of winning this generation's Festival of Life. "
 heroID: 60601
 QR: hero_60601
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Kilgor"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Barbarian](/images/h/h_prof_7.png)  [Barbarian](/heroes/Profession Barbarian/)
 
- **Faction::** [Stronghold](/heroes/Faction Stronghold/)
+ **Faction:** [Stronghold](/heroes/Faction Stronghold/)
 
  **Rank:** [SSR](/heroes/Hero Rank SSR/)
 

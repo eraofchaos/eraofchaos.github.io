@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank R -  Heroes"
 permalink: /heroes/Hero Rank R/
 excerpt: "Era of Chaos Hero Rank R. Hero Rank R. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Hero Rank R"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Name    |  Faction:   |  Profession   |  Rank  |    Specialty     | User Rate  | 
+  | Nr |  I |    Name    |  Faction  |  Profession   |  Rank  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Wystan](/images/h/h_Wystan.jpg) | [Wystan](/heroes/Wystan/) | Fortress | Beast Master | **R** |  Marsh Hunter | R |
   | 2 | ![Shiva](/images/h/h_Shiwa.jpg) | [Shiva](/heroes/Shiva/) | Stronghold | Barbarian | **R** |  Stormbringer | R |

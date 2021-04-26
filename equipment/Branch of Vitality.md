@@ -2,7 +2,7 @@
 title: "Branch of Vitality"
 permalink: /equipment/Branch of Vitality/
 excerpt: "Era of Chaos Branch of Vitality. Branch of Vitality"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Branch of Vitality.md"
 toc: false

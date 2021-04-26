@@ -2,7 +2,7 @@
 title: "Underground - Chapter 18 - 18-2 Inferno Flame"
 permalink: /Underground/Chapter 18_2/
 excerpt: "Chapter 18 - 2. Era of Chaos  Underground - Chapter 18_2. 18-2 Inferno Flame"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 18_2.md"
 toc: false

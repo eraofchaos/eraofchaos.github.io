@@ -2,7 +2,7 @@
 title: "Light Armor of Flame"
 permalink: /equipment/Light Armor of Flame/
 excerpt: "Era of Chaos Light Armor of Flame. Light Armor of Flame"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Light Armor of Flame.md"
 toc: false

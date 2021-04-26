@@ -2,7 +2,7 @@
 title: "Visor of the Dead"
 permalink: /equipment/Visor of the Dead/
 excerpt: "Era of Chaos Visor of the Dead. Visor of the Dead"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Visor of the Dead.md"
 toc: false

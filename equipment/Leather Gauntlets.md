@@ -2,7 +2,7 @@
 title: "Leather Gauntlets"
 permalink: /equipment/Leather Gauntlets/
 excerpt: "Era of Chaos Leather Gauntlets. Leather Gauntlets"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Leather Gauntlets.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-3 Alliance Army"
 permalink: /Main Story/Chapter 5_3/
 excerpt: "Chapter 5 - 3. Era of Chaos  Main Story - Chapter 5_3. 5-3 Alliance Army"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 5_3.md"
 toc: false

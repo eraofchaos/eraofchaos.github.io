@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-8 Enemy's Intentions"
 permalink: /Main Story/Chapter 26_8/
 excerpt: "Chapter 26 - 8. Era of Chaos  Main Story - Chapter 26_8. 26-8 Enemy's Intentions"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 26_8.md"
 toc: false

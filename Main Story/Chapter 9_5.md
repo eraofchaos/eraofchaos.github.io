@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-5 Elven Sorrow"
 permalink: /Main Story/Chapter 9_5/
 excerpt: "Chapter 9 - 5. Era of Chaos  Main Story - Chapter 9_5. 9-5 Elven Sorrow"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 9_5.md"
 toc: false

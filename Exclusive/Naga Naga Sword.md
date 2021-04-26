@@ -2,7 +2,7 @@
 title: "Exclusive - Naga Sword (Naga)"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Naga Sword. Naga Sword. Era of Chaos Exclusive Naga Sword. Naga Exclusive."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Naga Naga Sword.md"
 toc: false

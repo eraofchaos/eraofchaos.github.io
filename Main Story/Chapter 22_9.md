@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 22 - 22-9 Gold Dragon Queen"
 permalink: /Main Story/Chapter 22_9/
 excerpt: "Chapter 22 - 9. Era of Chaos  Main Story - Chapter 22_9. 22-9 Gold Dragon Queen"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 22_9.md"
 toc: false

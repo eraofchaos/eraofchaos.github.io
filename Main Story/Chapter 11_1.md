@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-1 Restoration War"
 permalink: /Main Story/Chapter 11_1/
 excerpt: "Chapter 11 - 1. Era of Chaos  Main Story - Chapter 11_1. 11-1 Restoration War"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 11_1.md"
 toc: false

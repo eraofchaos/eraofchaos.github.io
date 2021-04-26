@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-5 Dragon's Breath"
 permalink: /Main Story/Chapter 23_5/
 excerpt: "Chapter 23 - 5. Era of Chaos  Main Story - Chapter 23_5. 23-5 Dragon's Breath"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 23_5.md"
 toc: false

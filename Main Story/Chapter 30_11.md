@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-11 Long-Legged Tent"
 permalink: /Main Story/Chapter 30_11/
 excerpt: "Chapter 30 - 11. Era of Chaos  Main Story - Chapter 30_11. 30-11 Long-Legged Tent"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 30_11.md"
 toc: false

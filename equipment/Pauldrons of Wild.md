@@ -2,7 +2,7 @@
 title: "Pauldrons of Wild"
 permalink: /equipment/Pauldrons of Wild/
 excerpt: "Era of Chaos Pauldrons of Wild. Pauldrons of Wild"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Pauldrons of Wild.md"
 toc: false

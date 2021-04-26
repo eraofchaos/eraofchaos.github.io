@@ -4,7 +4,7 @@ permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. Sir Mullich's troops are known for their speed. Mullich's self-control and discipline are well-known. He uses special training to make his troops faster."
 heroID: 60101
 QR: hero_60101
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Mullich"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Knight](/images/h/h_prof_1.png)  [Knight](/heroes/Profession Knight/)
 
- **Faction::** [Castle](/heroes/Faction Castle/)
+ **Faction:** [Castle](/heroes/Faction Castle/)
 
  **Rank:** [R](/heroes/Hero Rank R/)
 

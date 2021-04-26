@@ -2,7 +2,7 @@
 title: "Strange Crystal Ornament"
 permalink: /equipment/Strange Crystal Ornament/
 excerpt: "Era of Chaos Strange Crystal Ornament. Strange Crystal Ornament"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Strange Crystal Ornament.md"
 toc: false

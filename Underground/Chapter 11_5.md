@@ -2,7 +2,7 @@
 title: "Underground - Chapter 11 - 11-5 Fighting the Undead"
 permalink: /Underground/Chapter 11_5/
 excerpt: "Chapter 11 - 5. Era of Chaos  Underground - Chapter 11_5. 11-5 Fighting the Undead"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 11_5.md"
 toc: false

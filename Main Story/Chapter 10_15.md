@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-15 Invitation to Your Funeral"
 permalink: /Main Story/Chapter 10_15/
 excerpt: "Chapter 10 - 15. Era of Chaos  Main Story - Chapter 10_15. 10-15 Invitation to Your Funeral"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Chapter 10_15.md"
 toc: false

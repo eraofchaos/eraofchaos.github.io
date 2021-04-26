@@ -4,7 +4,7 @@ permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere was born with the ability to control Psychic and Magic Elementals. He is a vital general of Elemental."
 heroID: 60702
 QR: hero_60702
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Monere"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Planeswalker](/images/h/h_prof_13.png)  [Planeswalker](/heroes/Profession Planeswalker/)
 
- **Faction::** [Conflux](/heroes/Faction Conflux/)
+ **Faction:** [Conflux](/heroes/Faction Conflux/)
 
  **Rank:** [SR](/heroes/Hero Rank SR/)
 

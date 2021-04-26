@@ -4,7 +4,7 @@ permalink: /heroes/Melodia/
 excerpt: "Era of Chaos Melodia. Melodia. Melodia is a lucky druid. She can achieve miraculous victories even when the odds are stacked against her. Any troop is glad to have her as their leader."
 heroID: 60201
 QR: hero_60201
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Melodia"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Details
  **Profession:** ![Druid](/images/h/h_prof_4.png)  [Druid](/heroes/Profession Druid/)
 
- **Faction::** [Rampart](/heroes/Faction Rampart/)
+ **Faction:** [Rampart](/heroes/Faction Rampart/)
 
  **Rank:** [SSR-](/heroes/Hero Rank SSR-/)
 
