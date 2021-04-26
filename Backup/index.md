@@ -2,25 +2,25 @@
 title: "Backup"
 permalink: /Backup/
 excerpt: "Era of Chaos  Backup - Mages can tear a space portal open on the battlefield, transporting 3 back-up units onto the battlefield while generating a strong spell aura. Your enemies will be trembled by it."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "index.md"
 toc: false
 classes: wide
 ---
 
-  [Charge Offensive](/Backup/Charge Offensive/){: .btn .btn--primary}[Blessing of Luna](/Backup/Blessing of Luna/){: .btn .btn--success}[Scythe of the Death](/Backup/Scythe of the Death/){: .btn .btn--warning}[Arctic Coercion](/Backup/Arctic Coercion/){: .btn .btn--danger}[Spell Commandment](/Backup/Spell Commandment/){: .btn .btn--info}[Hunt in the Forest](/Backup/Hunt in the Forest/){: .btn .btn--primary}
+  ![Charge Offensive](/images/b/backupIcon_1.png)[Charge Offensive](/Backup/Charge Offensive/){: .btn .btn--primary}![Blessing of Luna](/images/b/backupIcon_2.png)[Blessing of Luna](/Backup/Blessing of Luna/){: .btn .btn--success}![Scythe of the Death](/images/b/backupIcon_3.png)[Scythe of the Death](/Backup/Scythe of the Death/){: .btn .btn--warning}![Arctic Coercion](/images/b/backupIcon_4.png)[Arctic Coercion](/Backup/Arctic Coercion/){: .btn .btn--danger}![Spell Commandment](/images/b/backupIcon_6.png)[Spell Commandment](/Backup/Spell Commandment/){: .btn .btn--info}![Hunt in the Forest](/images/b/backupIcon_5.png)[Hunt in the Forest](/Backup/Hunt in the Forest/){: .btn .btn--primary}
 
   Mages can tear a space portal open on the battlefield, transporting 3 back-up units onto the battlefield while generating a strong spell aura. Your enemies will be trembled by it.
 
-  |  Nr  | Backup | Open Level | Special Skill | Battlefield Skill | Global Skill |
-  |:-----|:---------------|:----------:|:--------------|:--------------|:-------------|
-  | 1  | [Charge Offensive](/Backup/Charge Offensive/) |  | Charge Offensive | Attack by Storm | Spearhead |
-  | 2  | [Blessing of Luna](/Backup/Blessing of Luna/) | 80 | Blessing of Luna | Heal | Energy Power |
-  | 3  | [Scythe of the Death](/Backup/Scythe of the Death/) | 85 | Scythe of the Death | Smite | Erudition |
-  | 4  | [Arctic Coercion](/Backup/Arctic Coercion/) | 89 | Arctic Coercion | Powerful Energy | Nourishment |
-  | 5  | [Spell Commandment](/Backup/Spell Commandment/) | 93 | Spell Commandment | Force Field | Incandescence |
-  | 6  | [Hunt in the Forest](/Backup/Hunt in the Forest/) | 97 | Hunt in the Forest | Incentive | Empowerment |
+  |  Nr  | Icon | Backup | Open Level | Special Skill | Battlefield Skill | Global Skill |
+  |:-----|------|:---------------|:----------:|:--------------|:--------------|:-------------|
+  | 1  | ![Charge Offensive](/images/b/backupIcon_1.png) | [Charge Offensive](/Backup/Charge Offensive/) |  | Charge Offensive | Attack by Storm | Spearhead |
+  | 2  | ![Blessing of Luna](/images/b/backupIcon_2.png) | [Blessing of Luna](/Backup/Blessing of Luna/) | 80 | Blessing of Luna | Heal | Energy Power |
+  | 3  | ![Scythe of the Death](/images/b/backupIcon_3.png) | [Scythe of the Death](/Backup/Scythe of the Death/) | 85 | Scythe of the Death | Smite | Erudition |
+  | 4  | ![Arctic Coercion](/images/b/backupIcon_4.png) | [Arctic Coercion](/Backup/Arctic Coercion/) | 89 | Arctic Coercion | Powerful Energy | Nourishment |
+  | 5  | ![Spell Commandment](/images/b/backupIcon_6.png) | [Spell Commandment](/Backup/Spell Commandment/) | 93 | Spell Commandment | Force Field | Incandescence |
+  | 6  | ![Hunt in the Forest](/images/b/backupIcon_5.png) | [Hunt in the Forest](/Backup/Hunt in the Forest/) | 97 | Hunt in the Forest | Incentive | Empowerment |
 
 
 ## Special Skill Level up costs:

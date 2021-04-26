@@ -2,13 +2,13 @@
 title: "Backup - Hunt in the Forest"
 permalink: /Backup/Hunt in the Forest/
 excerpt: "Era of Chaos  Hunt in the Forest"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: en
 ref: "Hunt in the Forest.md"
 toc: false
 classes: wide
 ---
- [Charge Offensive](/Backup/Charge Offensive/){: .btn .btn--primary}[Blessing of Luna](/Backup/Blessing of Luna/){: .btn .btn--success}[Scythe of the Death](/Backup/Scythe of the Death/){: .btn .btn--warning}[Arctic Coercion](/Backup/Arctic Coercion/){: .btn .btn--danger}[Spell Commandment](/Backup/Spell Commandment/){: .btn .btn--info}[Hunt in the Forest](/Backup/Hunt in the Forest/){: .btn .btn--primary}
+ ![Charge Offensive](/images/b/backupIcon_1.png)[Charge Offensive](/Backup/Charge Offensive/){: .btn .btn--primary}![Blessing of Luna](/images/b/backupIcon_2.png)[Blessing of Luna](/Backup/Blessing of Luna/){: .btn .btn--success}![Scythe of the Death](/images/b/backupIcon_3.png)[Scythe of the Death](/Backup/Scythe of the Death/){: .btn .btn--warning}![Arctic Coercion](/images/b/backupIcon_4.png)[Arctic Coercion](/Backup/Arctic Coercion/){: .btn .btn--danger}![Spell Commandment](/images/b/backupIcon_6.png)[Spell Commandment](/Backup/Spell Commandment/){: .btn .btn--info}![Hunt in the Forest](/images/b/backupIcon_5.png)[Hunt in the Forest](/Backup/Hunt in the Forest/){: .btn .btn--primary}
 
 ## Details
 
@@ -28,6 +28,8 @@ classes: wide
 
 
 ## Special Skill - **Hunt in the Forest** 
+
+  ![Hunt in the Forest](/images/b/backupIcon_5.png)
 
  **Skill Power:** 1204
 
@@ -54,6 +56,8 @@ classes: wide
 
 ## Battlefield Skill - **Incentive** 
 
+  ![Incentive](/images/b/backupSkill1Icon_5.png)
+
  **Battlefield Skill Power:** 1060
 
  **Battlefield Skill Unlock:** 5x [Energy Scroll](/Items/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Global Skill - **Empowerment** 
+
+  ![Empowerment](/images/b/backupSkill2Icon_5.png)
 
  **Global Skill Power:** 1076
 
