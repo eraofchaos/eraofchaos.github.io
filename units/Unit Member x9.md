@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Unit Member x9"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Imp](/images/u/ti_xiaoemo.jpg) | [Imp](/units/Imp/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familiar  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/units/Gog/) | Caster | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
-  | 3 | ![Hell Hound](/images/u/ti_santouquan.jpg) | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 3 | ![Hell Hound](/images/u/ti_santouquan.jpg) | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 4 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/units/Gremlin/) | Ranged | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 5 | ![Iron Golem](/images/u/ti_tieren.jpg) | [Iron Golem](/units/Iron Golem/) | Defense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gold Golem  |
   | 6 | ![Sea Elemental](/images/u/ti_haiyuansu.jpg) | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Tidal Elemental  |
@@ -30,7 +30,7 @@ classes: wide
   | 16 | ![Dwarf](/images/u/ti_airen.jpg) | [Dwarf](/units/Dwarf/) | Defense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 17 | ![Wood Elf](/images/u/ti_mujingling.jpg) | [Wood Elf](/units/Wood Elf/) | Ranged | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Grand Elf  |
   | 18 | ![Skeleton](/images/u/ti_kulouzhanshi.jpg) | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Skeleton Warrior  |
-  | 19 | ![Walking Dead](/images/u/ti_jiangshi.jpg) | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombie  |
+  | 19 | ![Walking Dead](/images/u/ti_jiangshi.jpg) | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 20 | ![Wight](/images/u/ti_youling.jpg) | [Wight](/units/Wight/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Wraith  |
   | 21 | ![Druid](/images/u/ti_deluyi.jpg) | [Druid](/units/Druid/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Archdruid  |
   | 22 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/units/Goblin/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |

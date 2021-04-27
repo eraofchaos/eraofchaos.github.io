@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Heroes"
 permalink: /heroes/Faction Conflux/
 excerpt: "Era of Chaos Faction Conflux. Faction Conflux. List of Faction  in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Faction Conflux"
 toc: false

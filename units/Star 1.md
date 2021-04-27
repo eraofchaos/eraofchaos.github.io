@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Era of Chaos Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Star 1"
 toc: false
@@ -25,6 +25,6 @@ classes: wide
   | 11 | ![Cavalier](/images/u/ti_qishi.jpg) | [Cavalier](/units/Cavalier/) | Charging | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Champion Knights  |
   | 12 | ![Skeleton](/images/u/ti_kulouzhanshi.jpg) | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Skeleton Warrior  |
   | 13 | ![Sprite](/images/u/ti_mofaxianling.jpg) | [Sprite](/units/Sprite/) | Charging | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
-  | 14 | ![Walking Dead](/images/u/ti_jiangshi.jpg) | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombie  |
+  | 14 | ![Walking Dead](/images/u/ti_jiangshi.jpg) | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 15 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/units/Goblin/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 16 | ![Wolf Rider](/images/u/ti_langqibing.jpg) | [Wolf Rider](/units/Wolf Rider/) | Charging | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Wolf Raider  |

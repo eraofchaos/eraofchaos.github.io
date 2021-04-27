@@ -3,7 +3,7 @@ title: "Walking Dead"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Walking Dead. Walking Dead Units. Zombie. Era of Chaos Revived by necromancers, these rotting bodies stumble mindlessly into battle. Their bloated, reeking bodies are volatile, unleashing doom if exploded."
 unitID: 302
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Walking Dead"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Name:** [Iris Shield](/Exclusive/Walking Dead Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 

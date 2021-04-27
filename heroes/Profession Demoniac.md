@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Demoniac -  Heroes"
 permalink: /heroes/Profession Demoniac/
 excerpt: "Era of Chaos Profession Demoniac. Profession Demoniac. List of Profession  in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Profession Demoniac"
 toc: false

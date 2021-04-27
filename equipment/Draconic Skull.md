@@ -2,7 +2,7 @@
 title: "Draconic Skull"
 permalink: /equipment/Draconic Skull/
 excerpt: "Era of Chaos Draconic Skull. Draconic Skull"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Draconic Skull.md"
 toc: false

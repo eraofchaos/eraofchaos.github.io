@@ -2,7 +2,7 @@
 title: "Frost Touch"
 permalink: /equipment/Frost Touch/
 excerpt: "Era of Chaos Frost Touch. Frost Touch"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Frost Touch.md"
 toc: false

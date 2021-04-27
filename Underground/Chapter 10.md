@@ -2,7 +2,7 @@
 title: "Underground - Chapter 10 Gryphonheart"
 permalink: /Underground/Chapter 10/
 excerpt: "Chapter 10 Gryphonheart. Era of Chaos  Underground - Chapter 10. Gryphonheart"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Chapter 10.md"
 toc: false

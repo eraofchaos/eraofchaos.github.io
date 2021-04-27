@@ -3,7 +3,7 @@ title: "Serpent Fly"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Serpent Fly. Serpent Fly Units. Dragon Fly. Era of Chaos Fast-moving epidemic spreaders, whose prey is the perfect host and an incubator for their offspring."
 unitID: 803
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Serpent Fly"
 toc: true

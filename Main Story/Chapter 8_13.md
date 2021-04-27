@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 - 8-13 Badly Shaken"
 permalink: /Main Story/Chapter 8_13/
 excerpt: "Chapter 8 - 13. Era of Chaos  Main Story - Chapter 8_13. 8-13 Badly Shaken"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Chapter 8_13.md"
 toc: false

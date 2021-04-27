@@ -2,7 +2,7 @@
 title: "Plague Fang"
 permalink: /equipment/Plague Fang/
 excerpt: "Era of Chaos Plague Fang. Plague Fang"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Plague Fang.md"
 toc: false

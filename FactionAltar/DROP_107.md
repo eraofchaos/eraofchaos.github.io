@@ -2,7 +2,7 @@
 title: "Faction Altar for Dungeon"
 permalink: /FactionAltar/DROP_107/
 excerpt: "Era of Chaos  Faction Altar for Dungeon. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "DROP_107.md"
 toc: false

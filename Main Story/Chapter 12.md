@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 Sea of Ice"
 permalink: /Main Story/Chapter 12/
 excerpt: "Chapter 12. Era of Chaos  Main Story - Chapter 12. Sea of Ice"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Chapter 12.md"
 toc: false

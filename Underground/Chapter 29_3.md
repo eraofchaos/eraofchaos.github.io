@@ -2,7 +2,7 @@
 title: "Underground - Chapter 29 - 29-3  Fearless Charge"
 permalink: /Underground/Chapter 29_3/
 excerpt: "Chapter 29 - 3. Era of Chaos  Underground - Chapter 29_3. 29-3  Fearless Charge"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Chapter 29_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 - 25-14 Dragon's Meaning"
 permalink: /Main Story/Chapter 25_14/
 excerpt: "Chapter 25 - 14. Era of Chaos  Main Story - Chapter 25_14. 25-14 Dragon's Meaning"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Chapter 25_14.md"
 toc: false

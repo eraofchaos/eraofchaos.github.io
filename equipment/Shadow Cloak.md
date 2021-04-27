@@ -2,7 +2,7 @@
 title: "Shadow Cloak"
 permalink: /equipment/Shadow Cloak/
 excerpt: "Era of Chaos Shadow Cloak. Shadow Cloak"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Shadow Cloak.md"
 toc: false

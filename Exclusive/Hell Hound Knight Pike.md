@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Hell Hound Exclusive."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Hell Hound Knight Pike.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Charge
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 
@@ -29,9 +29,9 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Knight Pike Token](/Items/con_916/) | Hell Hound attacks with all 3 heads, increasing Attack Speed by 300% but decreasing Unit DMG by 20%. |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_916/) | Hell Hound attacks with all 3 heads, increasing Attack Speed by 200% but decreasing Unit DMG by 20%. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_916/) | Increases Hell Hound's Unit DMG by 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_916/) | Increases Critical Hit DMG by 5% for 3s each time Hell Hound attacks. Stacks up to 10 times. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_916/) | Increases Critical Hit DMG by 3% for 3s each time Hell Hound attacks. Stacks up to 10 times. |
   | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_916/) | <Dead Alive> When Hell Hound's HP falls below 66% and 33% for the first time, a head is sacrificed to remove and become immune to all abnormal statuses, increasing Dodge by 2,000 and Tenacity by 1,000 for 5s. |
   | **4x** <i class="fas fa-star"/> | **170x** [Knight Pike Token](/Items/con_916/) | <Ignite> Hell Hound continuously inflicts the Burn status on enemies in a set range around it while decreasing Tenacity by 200. |
   | **5x** <i class="fas fa-star"/> | **210x** [Knight Pike Token](/Items/con_916/) | Each time Hell Hound attacks, it decreases target unit's Unit DMG Reduction by 3% for 3s. Stacks up to 8 times. |

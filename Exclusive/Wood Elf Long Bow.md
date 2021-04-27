@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow (Wood Elf)"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Wood Elf Exclusive."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Wood Elf Long Bow.md"
 toc: false

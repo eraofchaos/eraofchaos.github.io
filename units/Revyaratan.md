@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Revyaratan. Revyaratan Units. Ancient Sea Monster. Era of Chaos A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Revyaratan"
 toc: true
@@ -190,40 +190,40 @@ toc: true
   ![Ancient Sea Monster](/images/u/tia_haiguai.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Ancient Sea Monster
 
- **Awaking Description:** 
+ **Awaking Description:** In the depths of the ocean, in an abyss where the light can't reach, a nameless creature is quietly evolving.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Deploy Revyaratan with at least </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> Cove units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> monsters in Guild Adventure.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Ancient Sea Monster souls in the Underground: Stages 15-2 and 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Deploy Revyaratan with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Cove units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Description:** 
+### 1st Skill (or 2nd): Bone-snapper
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fierce-looking Jaw&gt;</span><span style="color: #645252;font-size:18px"> Damage increases by 50%. Additionally inflicts Slow on enemies in the current row and decreases their Tenacity by 100 and Unit DMG Reduction by 10%. Lasts 5s.</span>
 
-### 2nd Skill (or 1st): null
- **Description:** 
+### 2nd Skill (or 1st): Clan Hunter
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Fierce-looking Jaw&gt;</span><span style="color: #645252;font-size:18px"> Damage increases by 50%. Additionally increases own Unit DMG by 20% and grants friendly units in the current row a 100 increase to Critical Hit and a 10% increase to Unit DMG. Lasts 5s.</span>
 
-### 3rd Skill (or 4th): null
- **Description:** 
+### 3rd Skill (or 4th): Glutton
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Skeleton Covet&gt;</span><span style="color: #645252;font-size:18px"> Marked units have their attributes decreased by an additional 50%. Increases the recovery chance triggered by &lt;Fierce-looking Jaw&gt; by 50%.</span>
 
-### 4th Skill (or 3rd): null
- **Description:** 
+### 4th Skill (or 3rd): <Shared Feast>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Skeleton Covet&gt;</span><span style="color: #645252;font-size:18px"> Marks an additional enemy unit. Increases the HP recovered by &lt;Fierce-looking Jaw&gt; by 50%.</span>
 
-### 5th Skill (or 6th): null
- **Description:** 
+### 5th Skill (or 6th): Unyielding Will
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;The Unbending Undercurrents&gt;</span><span style="color: #645252;font-size:18px"> Additionally increases each stack's attribute bonus by 50%.</span>
 
-### 6th Skill (or 5th): null
- **Description:** 
+### 6th Skill (or 5th): Sea Creatures' Fury
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;The Unbending Undercurrents&gt;</span><span style="color: #645252;font-size:18px"> Increases max stacks to 8.</span>
 
 ## Technical info
  **runart:** 1

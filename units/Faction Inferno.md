@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Units"
 permalink: /units/Faction Inferno/
 excerpt: "Era of Chaos Faction Inferno. Faction Inferno. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Faction Inferno"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 | ![Imp](/images/u/ti_xiaoemo.jpg) | [Imp](/units/Imp/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familiar  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/units/Gog/) | Caster | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 3 | ![Demon](/images/u/ti_changjiaoemo.jpg) | [Demon](/units/Demon/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Inferno Guard  |
-  | 4 | ![Hell Hound](/images/u/ti_santouquan.jpg) | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 4 | ![Hell Hound](/images/u/ti_santouquan.jpg) | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 5 | ![Pit Fiend](/images/u/ti_diyulingzhu.jpg) | [Pit Fiend](/units/Pit Fiend/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Pit Lord  |
   | 6 | ![Efreeti](/images/u/ti_liehuojingling.jpg) | [Efreeti](/units/Efreeti/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultan  |
   | 7 | ![Devil](/images/u/ti_daemo.jpg) | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arch Devil  |

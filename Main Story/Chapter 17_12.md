@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-12 An Evil Nature"
 permalink: /Main Story/Chapter 17_12/
 excerpt: "Chapter 17 - 12. Era of Chaos  Main Story - Chapter 17_12. 17-12 An Evil Nature"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Chapter 17_12.md"
 toc: false

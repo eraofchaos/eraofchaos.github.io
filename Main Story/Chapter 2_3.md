@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 2 - 2-3 Sanctuary"
 permalink: /Main Story/Chapter 2_3/
 excerpt: "Chapter 2 - 3. Era of Chaos  Main Story - Chapter 2_3. 2-3 Sanctuary"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Chapter 2_3.md"
 toc: false

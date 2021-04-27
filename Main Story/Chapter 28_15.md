@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-15 Sunset City"
 permalink: /Main Story/Chapter 28_15/
 excerpt: "Chapter 28 - 15. Era of Chaos  Main Story - Chapter 28_15. 28-15 Sunset City"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Chapter 28_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Inferno"
 permalink: /Exclusive/Exclusive Inferno/
 excerpt: "Era of Chaos Exclusive Inferno. Exclusive Inferno. List of Exclusive Inferno in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Exclusive Inferno"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Imp](/units/Imp/) | [Iris Shield](/Exclusive/Imp Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
   | 2  | [Gog](/units/Gog/) | [Arcane Chant](/Exclusive/Gog Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
-  | 3  | [Hell Hound](/units/Hell Hound/) | [Knight Pike](/Exclusive/Hell Hound Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_916/) | - |
+  | 3  | [Hell Hound](/units/Hell Hound/) | [Knight Pike](/Exclusive/Hell Hound Knight Pike/) | + | Charge | [Knight Pike Token](/Items/con_916/) | - |
   | 4  | [Demon](/units/Demon/) | [Iris Shield](/Exclusive/Demon Iris Shield/) | + | Charge | [Iris Shield Token](/Items/con_913/) | - |
   | 5  | [Pit Fiend](/units/Pit Fiend/) | [Sword](/Exclusive/Pit Fiend Sword/) | - | Charge | [Sword Token](/Items/con_912/) | - |
   | 6  | [Efreeti](/units/Efreeti/) | [Arcane Chant](/Exclusive/Efreeti Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |

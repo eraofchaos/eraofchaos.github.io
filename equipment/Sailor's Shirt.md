@@ -2,7 +2,7 @@
 title: "Sailor's Shirt"
 permalink: /equipment/Sailor's Shirt/
 excerpt: "Era of Chaos Sailor's Shirt. Sailor's Shirt"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Sailor's Shirt.md"
 toc: false

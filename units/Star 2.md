@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Star 2"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/units/Ogre/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre Mage  |
   | 3 | ![Cyclops](/images/u/ti_duyanjuren.jpg) | [Cyclops](/units/Cyclops/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Cyclops King  |
   | 4 | ![Demon](/images/u/ti_changjiaoemo.jpg) | [Demon](/units/Demon/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Inferno Guard  |
-  | 5 | ![Hell Hound](/images/u/ti_santouquan.jpg) | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 5 | ![Hell Hound](/images/u/ti_santouquan.jpg) | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 6 | ![Pit Fiend](/images/u/ti_diyulingzhu.jpg) | [Pit Fiend](/units/Pit Fiend/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Pit Lord  |
   | 7 | ![Iron Golem](/images/u/ti_tieren.jpg) | [Iron Golem](/units/Iron Golem/) | Defense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gold Golem  |
   | 8 | ![Efreeti](/images/u/ti_liehuojingling.jpg) | [Efreeti](/units/Efreeti/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultan  |

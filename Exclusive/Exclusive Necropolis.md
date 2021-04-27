@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Necropolis"
 permalink: /Exclusive/Exclusive Necropolis/
 excerpt: "Era of Chaos Exclusive Necropolis. Exclusive Necropolis. List of Exclusive Necropolis in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Exclusive Necropolis"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Skeleton](/units/Skeleton/) | [Iris Shield](/Exclusive/Skeleton Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
-  | 2  | [Walking Dead](/units/Walking Dead/) | [Iris Shield](/Exclusive/Walking Dead Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
+  | 2  | [Walking Dead](/units/Walking Dead/) | [Iris Shield](/Exclusive/Walking Dead Iris Shield/) | + | Charge | [Iris Shield Token](/Items/con_913/) | - |
   | 3  | [Wight](/units/Wight/) | [Arcane Chant](/Exclusive/Wight Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
   | 4  | [Vampire](/units/Vampire/) | [Knight Pike](/Exclusive/Vampire Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_916/) | - |
   | 5  | [Lich](/units/Lich/) | [Death Tribute](/Exclusive/Lich Death Tribute/) | + | Ranged | [Death Tribute Token](/Items/con_978/) | [Death Tribute Special Skin](/Items/con_646/) |

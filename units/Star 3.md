@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Star 3"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 4 | ![Regnan Seer](/images/u/ti_haihou.jpg) | [Regnan Seer](/units/Regnan Seer/) | Caster | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Tidal Elemental  |
   | 5 | ![Firebird](/images/u/ti_fenghuang.jpg) | [Firebird](/units/Firebird/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Phoenix  |
   | 6 | ![Dark Champion](/images/u/ti_sishen.jpg) | [Dark Champion](/units/Dark Champion/) | Offense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
-  | 7 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Ancient Sea Monster  |
+  | 7 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Ancient Sea Monster  |
   | 8 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/units/Behemoth/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ancient Behemoth  |
   | 9 | ![Ice Demon](/images/u/ti_bingmo.jpg) | [Ice Demon](/units/Ice Demon/) | Ranged | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 10 | ![Shark Trainer](/images/u/ti_xunshashi.jpg) | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Shark Rider  |

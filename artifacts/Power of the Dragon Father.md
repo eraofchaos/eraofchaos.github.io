@@ -2,7 +2,7 @@
 title: "Artifacts - Power of the Dragon Father"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Era of Chaos  Power of the Dragon Father. Power of the Dragon Father A holy relic forged from precious items by the Dragon King's power. Able to reduce spell damage."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Power of the Dragon Father.md"
 toc: false

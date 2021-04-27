@@ -2,7 +2,7 @@
 title: "Main Story"
 permalink: /Main Story/
 excerpt: "Main Story. Era of Chaos  Main Story."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "index.md"
 toc: false

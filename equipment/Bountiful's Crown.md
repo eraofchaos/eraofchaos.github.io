@@ -2,7 +2,7 @@
 title: "Bountiful's Crown"
 permalink: /equipment/Bountiful's Crown/
 excerpt: "Era of Chaos Bountiful's Crown. Bountiful's Crown"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Bountiful's Crown.md"
 toc: false

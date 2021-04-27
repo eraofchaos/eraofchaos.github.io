@@ -3,7 +3,7 @@ title: "Regnan Seer"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Regnan Seer. Regnan Seer Units. Tidal Elemental. Era of Chaos As the spokesman of the deep sea, she stands for its magnificence. The Regnan Seer makes use of the ocean's power to force all enemies to rout."
 unitID: 9907
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Regnan Seer"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Cove units are proficient at naval warfare. When fighting against non-Cove units, their unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Regular Skill 6 : Ocean's Fury
- **Description:** When 3 Cove Faction units are deployed, Regnan Seer increases her ATK speed and unit damage reduction. When the battle starts after 10s, Regnan Seer releases Deep Fear to trigger Ocean's Domain for 15. Cooldown is 30s
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Cove Faction units are deployed, Regnan Seer increases Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Ocean's Domain will trigger when Regnan Seer casts &lt;Deep Fear&gt;. Lasts 15s. CD is 30s.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -141,6 +141,8 @@ toc: true
     let str4 = "(LEVEL*0.1+0.5)"
     let str1 = "(LEVEL*2.5+12.5)"
     let str2 = "(LEVEL*0.1+1.5)"
+    let str10 = "(LEVEL*1+15)"
+    let str11 = "(LEVEL*1+15)"
     let str9 = "(LEVEL*1+5)"
     let res="ERR";
     try {
@@ -152,6 +154,8 @@ toc: true
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;
      res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)

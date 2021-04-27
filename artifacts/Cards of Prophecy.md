@@ -2,7 +2,7 @@
 title: "Artifacts - Lucky Horseshoe - Cards of Prophecy"
 permalink: /artifacts/Cards of Prophecy/
 excerpt: "Era of Chaos  Lucky Horseshoe - Cards of Prophecy. Fortune-telling cards with strong magic. One of the components of the Lucky Horseshoe."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Cards of Prophecy.md"
 toc: false

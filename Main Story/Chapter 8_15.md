@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 - 8-15 The Brave Advance"
 permalink: /Main Story/Chapter 8_15/
 excerpt: "Chapter 8 - 15. Era of Chaos  Main Story - Chapter 8_15. 8-15 The Brave Advance"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Chapter 8_15.md"
 toc: false

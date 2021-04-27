@@ -2,11 +2,37 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 20  Rampart Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **17 May** | **5x [Centaur](/Items/unt_199/)**  | A squad of Centaur joined your army and you become stronger! |
+  | **18 May** | **3x [Wood Elf](/Items/unt_201/)**  | A squad of Wood Elf joined your army and you become stronger! |
+  | **19 May** | **3x [Pegasus](/Items/unt_202/)**  | A squad of Pegasus joined your army and you become stronger! |
+  | **20 May** | **3x [Unicorn](/Items/unt_204/)**  | A squad of Unicorn joined your army and you become stronger! |
+  | **21 May** | **3x [Dwarf](/Items/unt_200/)**  | A squad of Dwarf joined your army and you become stronger! |
+  | **22 May** | **3x [Dendroid Guard](/Items/unt_203/)**  | A squad of Dendroid Guard joined your army and you become stronger! |
+  | **23 May** | **5x [Ryland](/Items/her_368/)**  | Hero Ryland respects your actions to protect nature and wants to serve you! |
+
+
+#### 2021 Week 19  Fortress Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **10 May** | **5x [Gnoll](/Items/unt_253/)**  | A squad of Gnoll joined your army and you become stronger! |
+  | **11 May** | **5x [Fortress Faction Chest](/Items/con_1277/)**  | Your fortress corps has presented you with a number of valuable treasure chests! |
+  | **12 May** | **100x <i class="fas fa-gem"/>**  | Your army have found lots of treasure in the dark swamp! |
+  | **13 May** | **3x [Lizardman](/Items/unt_254/)**  | A squad of Lizardman joined your army and you become stronger! |
+  | **14 May** | **5x [Fortress Roster runes](/Items/con_818/)**  | Your inferno corps has presented you with a number of valuable runes! |
+  | **15 May** | **3x [Serpent Fly](/Items/unt_255/)**  | A squad of Serpent Fly joined your army and you become stronger! |
+  | **16 May** | **5x [Korbac](/Items/her_394/)**  | A brave Beast Master has visited your territory! |
+
 
 #### 2021 Week 18  Inferno Week
 

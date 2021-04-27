@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "index.md"
 toc: false
@@ -55,7 +55,7 @@ classes: wide
   | 33 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/units/Gremlin/) | Ranged | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 34 | ![Griffin](/images/u/ti_shijiu.jpg) | [Griffin](/units/Griffin/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Royal Griffin  |
   | 35 | ![Harpy](/images/u/ti_yingshenren.jpg) | [Harpy](/units/Harpy/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpy Hag  |
-  | 36 | ![Hell Hound](/images/u/ti_santouquan.jpg) | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 36 | ![Hell Hound](/images/u/ti_santouquan.jpg) | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 37 | ![Hydra](/images/u/ti_duotoulong.jpg) | [Hydra](/units/Hydra/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Chaos Hydra  |
   | 38 | ![Ice Demon](/images/u/ti_bingmo.jpg) | [Ice Demon](/units/Ice Demon/) | Ranged | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 39 | ![Ice Elemental](/images/u/ti_bingyuansu2.jpg) | [Ice Elemental](/units/Ice Elemental/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Silent Snow Spirit  |
@@ -88,7 +88,7 @@ classes: wide
   | 66 | ![Regnan Pirates](/images/u/ti_haidao.jpg) | [Regnan Pirates](/units/Regnan Pirates/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  King of Pirates  |
   | 67 | ![Regnan Seer](/images/u/ti_haihou.jpg) | [Regnan Seer](/units/Regnan Seer/) | Caster | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Tidal Elemental  |
   | 68 | ![Regnan Serpent](/images/u/ti_yurenyongshi.jpg) | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
-  | 69 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Ancient Sea Monster  |
+  | 69 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Ancient Sea Monster  |
   | 70 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/units/Roc/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Thunderbird  |
   | 71 | ![Sea Elemental](/images/u/ti_haiyuansu.jpg) | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Tidal Elemental  |
   | 72 | ![Serpent Fly](/images/u/ti_longying.jpg) | [Serpent Fly](/units/Serpent Fly/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Dragon Fly  |
@@ -105,7 +105,7 @@ classes: wide
   | 83 | ![Unicorn](/images/u/ti_dujiaoshou.jpg) | [Unicorn](/units/Unicorn/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  War Unicorn  |
   | 84 | ![Vampire](/images/u/ti_xixuegui.jpg) | [Vampire](/units/Vampire/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Vampire Lord  |
   | 85 | ![Venom Spawn](/images/u/ti_yanmo.jpg) | [Venom Spawn](/units/Venom Spawn/) | Defense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
-  | 86 | ![Walking Dead](/images/u/ti_jiangshi.jpg) | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombie  |
+  | 86 | ![Walking Dead](/images/u/ti_jiangshi.jpg) | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 87 | ![Waspwort](/images/u/ti_dufengcao.jpg) | [Waspwort](/units/Waspwort/) | Ranged | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
   | 88 | ![White Tiger](/images/u/ti_baihu.jpg) | [White Tiger](/units/White Tiger/) | Charging | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 89 | ![Wight](/images/u/ti_youling.jpg) | [Wight](/units/Wight/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Wraith  |

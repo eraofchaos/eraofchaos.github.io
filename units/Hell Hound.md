@@ -3,7 +3,7 @@ title: "Hell Hound"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Hell Hound. Hell Hound Units. null. Era of Chaos Hell Hound attacks the enemy with all three of their heads. Red-hot lava flows on their bodies and fire burns in their wake."
 unitID: 503
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: en
 ref: "Hell Hound"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Name:** [Knight Pike](/Exclusive/Hell Hound Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rank Up:** [Knight Pike Token](/Items/con_916/)
 
