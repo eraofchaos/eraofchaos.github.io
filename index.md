@@ -130,3 +130,7 @@ Update History:
 
 {: .notice--danger}
 
+<h1> ![Heroes](/images/heroes.jpg) [Heroes](/heroes/) </h1>
+<h1> ![Units](/images/units.jpg) [Units](/units/) </h1>
+<h1> ![Items](/images/items.png) [Items](/Items/) </h1>
+<h1> ![Schedule](/images/schedule.png) [Schedule](/Schedule/) </h1>
