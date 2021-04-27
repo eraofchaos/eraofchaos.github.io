@@ -10,8 +10,33 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210427 %}
 
+* New awakening for Revyaratan - [Ancient Sea Monster](https://eraofchaos.github.io/units/Revyaratan/#awaking)
 
+* New Exclusives for Units:
+  * [Knight Pike (Hell Hound)](https://eraofchaos.github.io/Exclusive/Hell%20Hound%20Knight%20Pike/)
+  * [Iris Shield (Walking Dead)](https://eraofchaos.github.io/Exclusive/Walking%20Dead%20Iris%20Shield/)
+
+* New Items:
+  * [Fishing Net](https://eraofchaos.github.io/Items/con_2148/)
+  * [Fishing Net x5](https://eraofchaos.github.io/Items/con_2143/)
+  * [Fishing Net x10](https://eraofchaos.github.io/Items/con_2144/)
+  * [Fishing Net x20](https://eraofchaos.github.io/Items/con_2145/)
+  * [Fishing Net x40](https://eraofchaos.github.io/Items/con_2146/)
+  * [Fishing Net x80](https://eraofchaos.github.io/Items/con_2147/)
+  * [Global Expedition: Regnan Archer Skin](https://eraofchaos.github.io/Items/con_2149/)
+
+* Update [Schedule](/Schedule/) (up to 18 May 2021)
+
+* Wiki updated to latest game state. 
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">27 April 2021 Update: Client version 151 (3455/3455)</h4>
+  {{ notice-update20210427 | markdownify }}
+</div>
 
 
 {% capture notice-update20210420 %}
@@ -37,39 +62,6 @@ sidebar:
   {{ notice-update20210420 | markdownify }}
 </div>
 
-
-{% capture notice-update20210414 %}
-* New Hero ![Nymus](/images/h/h_Nymus.jpg) [Nymus](https://eraofchaos.github.io/heroes/Nymus/) and [Adjutant Nymus](https://eraofchaos.github.io/heroes/Adjutant Nymus/)
-
-* Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April)
-
-* New Chapters for <i class="fas fa-poo-storm"/> [Main Story](/Main Story/) and <i class="fas fa-door-open"/> [Underground](/Underground/):
-  * [Main Story - Chapter 28 Tunnels and Troglodytes](https://eraofchaos.github.io/Main Story/Chapter 28/)
-  * [Main Story - Chapter 29 Deal with the Demon](https://eraofchaos.github.io/Main Story/Chapter 29/)
-  * [Main Story - Chapter 30 The King’s Salvation](https://eraofchaos.github.io/Main Story/Chapter 30/)
-  * [Underground - Chapter 27 The Pilgrim’s Way](https://eraofchaos.github.io/Underground/Chapter 27/)
-  * [Underground - Chapter 28 Tunnels and Troglodytes](https://eraofchaos.github.io/Underground/Chapter 28/)
-  * [Underground - Chapter 29 Deal with the Demon](https://eraofchaos.github.io/Underground/Chapter 29/)
-  * [Underground - Chapter 30 The King’s Salvation](https://eraofchaos.github.io/Underground/Chapter 30/)
-
-* New items:
-  * [Gold Key Pack A](https://eraofchaos.github.io/Items/con_2132/)
-  * [Hero Nymus](https://eraofchaos.github.io/Items/her_2131/)
-
-* Changed drop in [HotSpot for Spells](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
-
-* Wiki updated to latest game state. 
-* You can post your comments on Wiki (in Heroes/Emblems/Posts/...). 
-* You can Share pages in Social networks.
-* Added images for [Heroes](/heroes/) and [Holy Emblem](/Emblem/)
-* Added <i class="fas fa-crown"/> [VIP System](/VIP/)
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">14 April 2021 Update: Client version 149 (3390/3391)</h4>
-  {{ notice-update20210414 | markdownify }}
-</div>
 
 
 
@@ -101,8 +93,8 @@ You will find here:
 * <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
 * <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 
-* <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 21 April 2021)
-* <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 21 April 2021)
+* <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 18 May 2021)
+* <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 18 May 2021)
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts & Spell 2021](/Hotspot/)
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts 2021](/Hotspot/HotSpot Artifact _2021/)
 * <i class="fas fa-calendar-day"/> [Hotspot Spell 2021](/Hotspot/HotSpot Spell _2021/)

@@ -13,6 +13,41 @@ sidebar:
 
 ### Era Of Chaos - Wiki update History
 
+
+
+{% capture notice-update20210414 %}
+* New Hero ![Nymus](/images/h/h_Nymus.jpg) [Nymus](https://eraofchaos.github.io/heroes/Nymus/) and [Adjutant Nymus](https://eraofchaos.github.io/heroes/Adjutant Nymus/)
+
+* Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April)
+
+* New Chapters for <i class="fas fa-poo-storm"/> [Main Story](/Main Story/) and <i class="fas fa-door-open"/> [Underground](/Underground/):
+  * [Main Story - Chapter 28 Tunnels and Troglodytes](https://eraofchaos.github.io/Main Story/Chapter 28/)
+  * [Main Story - Chapter 29 Deal with the Demon](https://eraofchaos.github.io/Main Story/Chapter 29/)
+  * [Main Story - Chapter 30 The King’s Salvation](https://eraofchaos.github.io/Main Story/Chapter 30/)
+  * [Underground - Chapter 27 The Pilgrim’s Way](https://eraofchaos.github.io/Underground/Chapter 27/)
+  * [Underground - Chapter 28 Tunnels and Troglodytes](https://eraofchaos.github.io/Underground/Chapter 28/)
+  * [Underground - Chapter 29 Deal with the Demon](https://eraofchaos.github.io/Underground/Chapter 29/)
+  * [Underground - Chapter 30 The King’s Salvation](https://eraofchaos.github.io/Underground/Chapter 30/)
+
+* New items:
+  * [Gold Key Pack A](https://eraofchaos.github.io/Items/con_2132/)
+  * [Hero Nymus](https://eraofchaos.github.io/Items/her_2131/)
+
+* Changed drop in [HotSpot for Spells](https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/)
+
+* Wiki updated to latest game state. 
+* You can post your comments on Wiki (in Heroes/Emblems/Posts/...). 
+* You can Share pages in Social networks.
+* Added images for [Heroes](/heroes/) and [Holy Emblem](/Emblem/)
+* Added <i class="fas fa-crown"/> [VIP System](/VIP/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">14 April 2021 Update: Client version 149 (3390/3391)</h4>
+  {{ notice-update20210414 | markdownify }}
+</div>
+
 {% capture notice-update20210411 %}
 * New info for <i class="fas fa-door-open"/> [Underground](/Underground/)
   * <i class="fas fa-door-open"/> [Untergrund](/de/Underground/)
