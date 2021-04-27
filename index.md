@@ -128,10 +128,10 @@ Update History:
 * [Era of Chaos Wiki History](/Era_Of_Chaos_Wiki_History.html)  
 * [Era of Chaos Client Update History](/Era_Of_Chaos_Client_Update_History.html)
 
-
-<h1> <img src="/images/heroes.jpg" alt="Heroes"/><a href="/heroes/">Heroes</a> </h1>
-<h1> <img src="/images/units.jpg" alt="Units"/><a href="/units/">Units</a> </h1>
-<h1> <img src="/images/items.png" alt="Items"/><a href="/Items/">Items</a> </h1>
-<h1> <img src="/images/schedule.png" alt="Schedule"/><a href="/Schedule/">Schedule</a> </h1>
+<br/>
+<h1> <img src="/images/heroes.jpg" alt="Heroes"/><a href="/heroes/" hreflang="en">Heroes</a> </h1>
+<h1> <img src="/images/units.jpg" alt="Units"/><a href="/units/" hreflang="en">Units</a> </h1>
+<h1> <img src="/images/items.png" alt="Items"/><a href="/Items/" hreflang="en">Items</a> </h1>
+<h1> <img src="/images/schedule.png" alt="Schedule"/><a href="/Schedule/" hreflang="en">Schedule</a> </h1>
 
 {: .notice--danger}
