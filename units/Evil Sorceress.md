@@ -8,9 +8,6 @@ locale: en
 ref: "Evil Sorceress"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![Evil Sorceress](/images/u/ti_xiemonv.jpg)
 
 ## General information

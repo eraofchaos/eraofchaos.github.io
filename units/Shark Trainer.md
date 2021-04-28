@@ -8,9 +8,6 @@ locale: en
 ref: "Shark Trainer"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![Shark Trainer](/images/u/ti_xunshashi.jpg)
 
 ## General information
