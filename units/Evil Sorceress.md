@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Tool_3709](/Items/unt_252/)
+ **Unit Soul:** [Evil Sorceress](/Items/unt_252/)
 
  **Short description:** Reflects spells. Domain buffs.
 

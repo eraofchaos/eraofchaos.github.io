@@ -71,7 +71,7 @@ sidebar:
   | **2** |  **1000x** [Dragon Blood Crystal](/Items/con_879/) | 1 | 10 | 20 |
   | **3** |  **30x** [Void Mithril](/Items/con_817/) | 1 | 10 | 20 |
   | **4** |  **15x** [Holy Emblem Redemption Ticket](/Items/con_513/) | 1 | 10 | 20 |
-  | **5** |  **10x** [Tool_10046](/Items/con_2135/) | 1 | 10 | 10 |
+  | **5** |  **10x** [Quiet Pearl](/Items/con_2135/) | 1 | 10 | 10 |
   | **6** |  **8x** [Oracle Covenant](/Items/con_816/) | 1 | 10 | 10 |
   | **7** |  **1x** [Epic Artifact Component Chest](/Items/con_1926/) | 2 | 2 | 5 |
   | **8** |  **8x** [Glittering Pearl](/Items/con_527/) | 2 | 15 | 10 |
