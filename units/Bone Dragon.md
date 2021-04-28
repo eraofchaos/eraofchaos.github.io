@@ -3,7 +3,7 @@ title: "Bone Dragon"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Bone Dragon. Bone Dragon Units. Ghost Dragon. Era of Chaos Bone Dragons are the fiercest fighters of Necropolis. They are powerful, perhaps as powerful as their nemeses the Dragons. "
 unitID: 307
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Bone Dragon"
 toc: true

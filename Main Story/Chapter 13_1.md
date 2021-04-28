@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-1 Vision of God"
 permalink: /Main Story/Chapter 13_1/
 excerpt: "Chapter 13 - 1. Era of Chaos  Main Story - Chapter 13_1. 13-1 Vision of God"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 13_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artifacts - Angelic Alliance - Sandals of the Saint"
 permalink: /artifacts/Sandals of the Saint/
 excerpt: "Era of Chaos  Angelic Alliance - Sandals of the Saint. A holy relic made in celebration of a united Erathia. One of the components of the Angelic Alliance."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Sandals of the Saint.md"
 toc: false

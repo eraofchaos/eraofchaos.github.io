@@ -2,7 +2,7 @@
 title: "Tentacles from the Abyss"
 permalink: /equipment/Tentacles from the Abyss/
 excerpt: "Era of Chaos Tentacles from the Abyss. Tentacles from the Abyss"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Tentacles from the Abyss.md"
 toc: false

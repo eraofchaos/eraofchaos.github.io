@@ -2,7 +2,7 @@
 title: "Bone Necklet"
 permalink: /equipment/Bone Necklet/
 excerpt: "Era of Chaos Bone Necklet. Bone Necklet"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Bone Necklet.md"
 toc: false

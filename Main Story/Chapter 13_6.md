@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-6 Fleeing for Aid"
 permalink: /Main Story/Chapter 13_6/
 excerpt: "Chapter 13 - 6. Era of Chaos  Main Story - Chapter 13_6. 13-6 Fleeing for Aid"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 13_6.md"
 toc: false

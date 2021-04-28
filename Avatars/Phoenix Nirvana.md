@@ -2,7 +2,7 @@
 title: "Avatar - Phoenix Nirvana"
 permalink: /Avatars/Phoenix Nirvana/
 excerpt: "Era of Chaos  Phoenix Nirvana"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Phoenix Nirvana.md"
 toc: false

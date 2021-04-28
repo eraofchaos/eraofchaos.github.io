@@ -2,7 +2,7 @@
 title: "Underground - Chapter 8 - 8-2 A Lack of Men"
 permalink: /Underground/Chapter 8_2/
 excerpt: "Chapter 8 - 2. Era of Chaos  Underground - Chapter 8_2. 8-2 A Lack of Men"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 8_2.md"
 toc: false

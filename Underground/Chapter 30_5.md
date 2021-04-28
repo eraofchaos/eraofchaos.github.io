@@ -2,7 +2,7 @@
 title: "Underground - Chapter 30 - 30-5  Death Exploration"
 permalink: /Underground/Chapter 30_5/
 excerpt: "Chapter 30 - 5. Era of Chaos  Underground - Chapter 30_5. 30-5  Death Exploration"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 30_5.md"
 toc: false

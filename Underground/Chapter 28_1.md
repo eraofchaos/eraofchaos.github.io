@@ -2,7 +2,7 @@
 title: "Underground - Chapter 28 - 28-1  Axehead Party"
 permalink: /Underground/Chapter 28_1/
 excerpt: "Chapter 28 - 1. Era of Chaos  Underground - Chapter 28_1. 28-1  Axehead Party"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 28_1.md"
 toc: false

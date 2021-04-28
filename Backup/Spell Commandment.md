@@ -2,7 +2,7 @@
 title: "Backup - Spell Commandment"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Spell Commandment"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Spell Commandment.md"
 toc: false

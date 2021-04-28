@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Walking Dead Exclusive."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Walking Dead Iris Shield.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Armor of Wonder"
 permalink: /equipment/Armor of Wonder/
 excerpt: "Era of Chaos Armor of Wonder. Armor of Wonder"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Armor of Wonder.md"
 toc: false

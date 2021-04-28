@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Barbarian -  Heroes"
 permalink: /heroes/Profession Barbarian/
 excerpt: "Era of Chaos Profession Barbarian. Profession Barbarian. List of Profession  in Era of Chaos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Profession Barbarian"
 toc: false

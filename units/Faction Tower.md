@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Tower -  Units"
 permalink: /units/Faction Tower/
 excerpt: "Era of Chaos Faction Tower. Faction Tower. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Faction Tower"
 toc: false

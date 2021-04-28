@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-10 The Dragon's Shadow"
 permalink: /Main Story/Chapter 11_10/
 excerpt: "Chapter 11 - 10. Era of Chaos  Main Story - Chapter 11_10. 11-10 The Dragon's Shadow"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 11_10.md"
 toc: false

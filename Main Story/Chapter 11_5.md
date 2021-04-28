@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-5 Castle Under Siege"
 permalink: /Main Story/Chapter 11_5/
 excerpt: "Chapter 11 - 5. Era of Chaos  Main Story - Chapter 11_5. 11-5 Castle Under Siege"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 11_5.md"
 toc: false

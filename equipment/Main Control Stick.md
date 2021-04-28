@@ -2,7 +2,7 @@
 title: "Main Control Stick"
 permalink: /equipment/Main Control Stick/
 excerpt: "Era of Chaos Main Control Stick. Main Control Stick"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Main Control Stick.md"
 toc: false

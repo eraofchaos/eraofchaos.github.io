@@ -2,7 +2,7 @@
 title: "Light Armor of Bloodthirst"
 permalink: /equipment/Light Armor of Bloodthirst/
 excerpt: "Era of Chaos Light Armor of Bloodthirst. Light Armor of Bloodthirst"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Light Armor of Bloodthirst.md"
 toc: false

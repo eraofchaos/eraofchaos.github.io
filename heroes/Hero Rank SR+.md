@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SR+ -  Heroes"
 permalink: /heroes/Hero Rank SR+/
 excerpt: "Era of Chaos Hero Rank SR+. Hero Rank SR+. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Hero Rank SR+"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 - 25-5 Nighon's Calendar"
 permalink: /Main Story/Chapter 25_5/
 excerpt: "Chapter 25 - 5. Era of Chaos  Main Story - Chapter 25_5. 25-5 Nighon's Calendar"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 25_5.md"
 toc: false

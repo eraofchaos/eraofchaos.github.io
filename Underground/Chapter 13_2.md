@@ -2,7 +2,7 @@
 title: "Underground - Chapter 13 - 13-2 An Evil Power"
 permalink: /Underground/Chapter 13_2/
 excerpt: "Chapter 13 - 2. Era of Chaos  Underground - Chapter 13_2. 13-2 An Evil Power"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 13_2.md"
 toc: false

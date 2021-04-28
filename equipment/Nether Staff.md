@@ -2,7 +2,7 @@
 title: "Nether Staff"
 permalink: /equipment/Nether Staff/
 excerpt: "Era of Chaos Nether Staff. Nether Staff"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Nether Staff.md"
 toc: false

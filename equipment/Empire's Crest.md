@@ -2,7 +2,7 @@
 title: "Empire's Crest"
 permalink: /equipment/Empire's Crest/
 excerpt: "Era of Chaos Empire's Crest. Empire's Crest"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Empire's Crest.md"
 toc: false

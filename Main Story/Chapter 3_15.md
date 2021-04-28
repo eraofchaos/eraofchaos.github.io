@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-15 City of Sin"
 permalink: /Main Story/Chapter 3_15/
 excerpt: "Chapter 3 - 15. Era of Chaos  Main Story - Chapter 3_15. 3-15 City of Sin"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 3_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye - Bird of Perception"
 permalink: /artifacts/Bird of Perception/
 excerpt: "Era of Chaos  Live Hawkeye - Bird of Perception. A hawkeye sculpture enchanted by a witch's power. One of the components of the Live Hawkeye."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Bird of Perception.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Claw Killer"
 permalink: /equipment/Claw Killer/
 excerpt: "Era of Chaos Claw Killer. Claw Killer"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Claw Killer.md"
 toc: false

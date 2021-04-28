@@ -4,7 +4,7 @@ permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Kassandra's outstanding combat skills are due to the Spartan education she received as a child. After the Spartan left her for dead at Mount Taygetos, she became a mercenary."
 heroID: 62001
 QR: hero_62001
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Kassandra"
 toc: true

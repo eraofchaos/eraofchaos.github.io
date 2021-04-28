@@ -2,7 +2,7 @@
 title: "Backup"
 permalink: /Backup/
 excerpt: "Era of Chaos  Backup - Mages can tear a space portal open on the battlefield, transporting 3 back-up units onto the battlefield while generating a strong spell aura. Your enemies will be trembled by it."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "index.md"
 toc: false

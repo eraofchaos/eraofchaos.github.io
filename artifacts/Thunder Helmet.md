@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder - Thunder Helmet"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "Era of Chaos  Titan's Thunder - Thunder Helmet. A helmet used by the thunder god. One of the components of the Titan's Thunder."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Thunder Helmet.md"
 toc: false

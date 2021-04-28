@@ -2,7 +2,7 @@
 title: "Bone Spike"
 permalink: /equipment/Bone Spike/
 excerpt: "Era of Chaos Bone Spike. Bone Spike"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Bone Spike.md"
 toc: false

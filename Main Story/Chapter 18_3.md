@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-3 Orcs on the Bridge"
 permalink: /Main Story/Chapter 18_3/
 excerpt: "Chapter 18 - 3. Era of Chaos  Main Story - Chapter 18_3. 18-3 Orcs on the Bridge"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 18_3.md"
 toc: false

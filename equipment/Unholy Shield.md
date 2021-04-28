@@ -2,7 +2,7 @@
 title: "Unholy Shield"
 permalink: /equipment/Unholy Shield/
 excerpt: "Era of Chaos Unholy Shield. Unholy Shield"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Unholy Shield.md"
 toc: false

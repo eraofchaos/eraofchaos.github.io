@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Era of Chaos Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Star 1"
 toc: false

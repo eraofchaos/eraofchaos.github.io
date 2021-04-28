@@ -2,7 +2,7 @@
 title: "Underground - Chapter 16 For King and Country"
 permalink: /Underground/Chapter 16/
 excerpt: "Chapter 16 For King and Country. Era of Chaos  Underground - Chapter 16. For King and Country"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 16.md"
 toc: false

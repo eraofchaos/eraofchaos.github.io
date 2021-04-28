@@ -2,7 +2,7 @@
 title: "Underground - Chapter 21 The Grail"
 permalink: /Underground/Chapter 21/
 excerpt: "Chapter 21 The Grail. Era of Chaos  Underground - Chapter 21. The Grail"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 21.md"
 toc: false

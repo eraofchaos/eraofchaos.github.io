@@ -2,7 +2,7 @@
 title: "Empire's Pauldrons"
 permalink: /equipment/Empire's Pauldrons/
 excerpt: "Era of Chaos Empire's Pauldrons. Empire's Pauldrons"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Empire's Pauldrons.md"
 toc: false

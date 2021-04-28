@@ -2,7 +2,7 @@
 title: "Underground - Chapter 23 - 23-1 Crack Shot"
 permalink: /Underground/Chapter 23_1/
 excerpt: "Chapter 23 - 1. Era of Chaos  Underground - Chapter 23_1. 23-1 Crack Shot"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 23_1.md"
 toc: false

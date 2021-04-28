@@ -2,7 +2,7 @@
 title: "Pupil of the Departed"
 permalink: /equipment/Pupil of the Departed/
 excerpt: "Era of Chaos Pupil of the Departed. Pupil of the Departed"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Pupil of the Departed.md"
 toc: false

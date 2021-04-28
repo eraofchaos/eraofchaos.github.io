@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-5 Gremlin's Hill"
 permalink: /Main Story/Chapter 16_5/
 excerpt: "Chapter 16 - 5. Era of Chaos  Main Story - Chapter 16_5. 16-5 Gremlin's Hill"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 16_5.md"
 toc: false

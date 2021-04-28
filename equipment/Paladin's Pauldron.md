@@ -2,7 +2,7 @@
 title: "Paladin's Pauldron"
 permalink: /equipment/Paladin's Pauldron/
 excerpt: "Era of Chaos Paladin's Pauldron. Paladin's Pauldron"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Paladin's Pauldron.md"
 toc: false

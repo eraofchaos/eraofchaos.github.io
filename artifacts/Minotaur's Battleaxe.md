@@ -2,7 +2,7 @@
 title: "Artifacts - Sword of Frost - Minotaur's Battleaxe"
 permalink: /artifacts/Minotaur's Battleaxe/
 excerpt: "Era of Chaos  Sword of Frost - Minotaur's Battleaxe. A battleaxe passed down by the Tauren. One of the components of the Sword of Frost."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Minotaur's Battleaxe.md"
 toc: false

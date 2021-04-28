@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 - 8-12 Former Brother"
 permalink: /Main Story/Chapter 8_12/
 excerpt: "Chapter 8 - 12. Era of Chaos  Main Story - Chapter 8_12. 8-12 Former Brother"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: en
 ref: "Chapter 8_12.md"
 toc: false
