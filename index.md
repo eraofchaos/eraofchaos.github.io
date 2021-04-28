@@ -10,7 +10,10 @@ sidebar:
   nav: "docs"
 ---
 
-{% capture notice-update20210427 %}
+
+
+
+{% capture notice-update20210428 %}
 
 * New awakening for Revyaratan - [Ancient Sea Monster](https://eraofchaos.github.io/units/Revyaratan/#awaking)
 
@@ -29,13 +32,21 @@ sidebar:
 
 * Update [Schedule](/Schedule/) (up to 18 May 2021)
 
+* New [Fishing Master](/Fishing Master/) Event:
+  * [Fishing Master](/Fishing Master/)
+  * [Fischermeister](/de/Fishing Master/)
+  * [Maître de la pêche](/fr/Fishing Master/)
+  * [Мастер рыбалки](/ru/Fishing Master/)
+  * [Maestro pescatore](/it/Fishing Master/)
+  * [Maestro pescador](/es/Fishing Master/)
+
 * Wiki updated to latest game state. 
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">27 April 2021 Update: Client version 151 (3455/3455)</h4>
-  {{ notice-update20210427 | markdownify }}
+  <h4 class="no_toc">28 April 2021 Update: Client version 151 (3459/3458)</h4>
+  {{ notice-update20210428 | markdownify }}
 </div>
 
 
