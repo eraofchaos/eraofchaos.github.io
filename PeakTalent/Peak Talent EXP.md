@@ -7,6 +7,9 @@ locale: en
 ref: "Peak Talent EXP.md"
 toc: false
 classes: wide
+layout: single
+sidebar:
+  nav: "docs"
 ---
 
   Peak Talents will be available at Lv.110
