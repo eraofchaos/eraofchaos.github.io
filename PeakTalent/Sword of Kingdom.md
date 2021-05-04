@@ -30,12 +30,12 @@ sidebar:
   |:---|--------------|:-------------|:-------------|:-------------|:-------------|
   | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +10.0% | Attack Speed: +1.0 | Basic Hero Defense: +2.0 | - |
   | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +20.0% | Attack Speed: +2.0 | Basic Hero Defense: +4.0 | - |
-  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +30.0% | Attack Speed: +3.0 | Basic Hero Defense: +6.0 | - |
-  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +40.0% | Attack Speed: +4.0 | Basic Hero Defense: +10.0 | - |
-  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +50.0% | Attack Speed: +5.0 | Basic Hero Defense: +16.0 | - |
-  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +60.0% | Attack Speed: +6.0 | Basic Hero Defense: +22.0 | - |
-  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +70.0% | Attack Speed: +7.0 | Basic Hero Defense: +32.0 | - |
-  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +80.0% | Attack Speed: +8.0 | Basic Hero Defense: +42.0 | - |
-  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | ATK: +90.0% | Attack Speed: +9.0 | Basic Hero Defense: +56.0 | - |
-  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | ATK: +100.0% | Attack Speed: +10.0 | Basic Hero Defense: +76.0 | - |
+  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +30.0% | Attack Speed: +3.0 | Basic Hero Defense: +8.0 | - |
+  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +40.0% | Attack Speed: +4.0 | Basic Hero Defense: +12.0 | - |
+  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +50.0% | Attack Speed: +5.0 | Basic Hero Defense: +18.0 | - |
+  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +60.0% | Attack Speed: +6.0 | Basic Hero Defense: +24.0 | - |
+  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +70.0% | Attack Speed: +7.0 | Basic Hero Defense: +34.0 | - |
+  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +80.0% | Attack Speed: +8.0 | Basic Hero Defense: +44.0 | - |
+  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | ATK: +90.0% | Attack Speed: +9.0 | Basic Hero Defense: +58.0 | - |
+  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | ATK: +100.0% | Attack Speed: +10.0 | Basic Hero Defense: +78.0 | - |
 

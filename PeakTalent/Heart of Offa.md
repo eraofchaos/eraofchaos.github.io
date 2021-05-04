@@ -32,12 +32,12 @@ sidebar:
   |:---|--------------|:-------------|:-------------|:-------------|:-------------|
   | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +0.5% | DMG Reflection: +1.0 | Basic Hero Defense: +1.0 | Basic Hero Intelligence: +1.0 |
   | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +1.0% | DMG Reflection: +2.0 | Basic Hero Defense: +2.0 | Basic Hero Intelligence: +2.0 |
-  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +1.5% | DMG Reflection: +3.0 | Basic Hero Defense: +3.0 | Basic Hero Intelligence: +3.0 |
-  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +2.0% | DMG Reflection: +4.0 | Basic Hero Defense: +5.0 | Basic Hero Intelligence: +5.0 |
-  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +2.5% | DMG Reflection: +5.0 | Basic Hero Defense: +8.0 | Basic Hero Intelligence: +8.0 |
-  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +3.0% | DMG Reflection: +6.0 | Basic Hero Defense: +11.0 | Basic Hero Intelligence: +11.0 |
-  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +3.5% | DMG Reflection: +7.0 | Basic Hero Defense: +16.0 | Basic Hero Intelligence: +16.0 |
-  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +4.0% | DMG Reflection: +8.0 | Basic Hero Defense: +21.0 | Basic Hero Intelligence: +21.0 |
-  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +4.5% | DMG Reflection: +9.0 | Basic Hero Defense: +28.0 | Basic Hero Intelligence: +28.0 |
-  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +5.0% | DMG Reflection: +10.0 | Basic Hero Defense: +38.0 | Basic Hero Intelligence: +38.0 |
+  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +1.5% | DMG Reflection: +3.0 | Basic Hero Defense: +4.0 | Basic Hero Intelligence: +4.0 |
+  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +2.0% | DMG Reflection: +4.0 | Basic Hero Defense: +6.0 | Basic Hero Intelligence: +6.0 |
+  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +2.5% | DMG Reflection: +5.0 | Basic Hero Defense: +9.0 | Basic Hero Intelligence: +9.0 |
+  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +3.0% | DMG Reflection: +6.0 | Basic Hero Defense: +12.0 | Basic Hero Intelligence: +12.0 |
+  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +3.5% | DMG Reflection: +7.0 | Basic Hero Defense: +17.0 | Basic Hero Intelligence: +17.0 |
+  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +4.0% | DMG Reflection: +8.0 | Basic Hero Defense: +22.0 | Basic Hero Intelligence: +22.0 |
+  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +4.5% | DMG Reflection: +9.0 | Basic Hero Defense: +29.0 | Basic Hero Intelligence: +29.0 |
+  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | Unit DMG: +5.0% | DMG Reflection: +10.0 | Basic Hero Defense: +39.0 | Basic Hero Intelligence: +39.0 |
 

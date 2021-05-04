@@ -32,12 +32,12 @@ sidebar:
   |:---|--------------|:-------------|:-------------|:-------------|:-------------|
   | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +1.0 | DMG Reflection: +1.0 | Basic Hero Attack: +1.0 | Basic Hero Defense: +1.0 |
   | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +2.0 | DMG Reflection: +2.0 | Basic Hero Attack: +2.0 | Basic Hero Defense: +2.0 |
-  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +3.0 | DMG Reflection: +3.0 | Basic Hero Attack: +3.0 | Basic Hero Defense: +3.0 |
-  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +4.0 | DMG Reflection: +4.0 | Basic Hero Attack: +5.0 | Basic Hero Defense: +5.0 |
-  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +5.0 | DMG Reflection: +5.0 | Basic Hero Attack: +8.0 | Basic Hero Defense: +8.0 |
-  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +6.0 | DMG Reflection: +6.0 | Basic Hero Attack: +11.0 | Basic Hero Defense: +11.0 |
-  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +7.0 | DMG Reflection: +7.0 | Basic Hero Attack: +16.0 | Basic Hero Defense: +16.0 |
-  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +8.0 | DMG Reflection: +8.0 | Basic Hero Attack: +21.0 | Basic Hero Defense: +21.0 |
-  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +9.0 | DMG Reflection: +9.0 | Basic Hero Attack: +28.0 | Basic Hero Defense: +28.0 |
-  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +10.0 | DMG Reflection: +10.0 | Basic Hero Attack: +38.0 | Basic Hero Defense: +38.0 |
+  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +3.0 | DMG Reflection: +3.0 | Basic Hero Attack: +4.0 | Basic Hero Defense: +4.0 |
+  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +4.0 | DMG Reflection: +4.0 | Basic Hero Attack: +6.0 | Basic Hero Defense: +6.0 |
+  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +5.0 | DMG Reflection: +5.0 | Basic Hero Attack: +9.0 | Basic Hero Defense: +9.0 |
+  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +6.0 | DMG Reflection: +6.0 | Basic Hero Attack: +12.0 | Basic Hero Defense: +12.0 |
+  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +7.0 | DMG Reflection: +7.0 | Basic Hero Attack: +17.0 | Basic Hero Defense: +17.0 |
+  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +8.0 | DMG Reflection: +8.0 | Basic Hero Attack: +22.0 | Basic Hero Defense: +22.0 |
+  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +9.0 | DMG Reflection: +9.0 | Basic Hero Attack: +29.0 | Basic Hero Defense: +29.0 |
+  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | Attack Speed: +10.0 | DMG Reflection: +10.0 | Basic Hero Attack: +39.0 | Basic Hero Defense: +39.0 |
 

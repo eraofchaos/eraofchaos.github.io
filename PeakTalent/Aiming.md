@@ -32,12 +32,12 @@ sidebar:
   |:---|--------------|:-------------|:-------------|:-------------|:-------------|
   | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +200.0 | Range: +15.0 | Basic Hero Intelligence: +2.0 | - |
   | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +400.0 | Range: +30.0 | Basic Hero Intelligence: +4.0 | - |
-  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +600.0 | Range: +45.0 | Basic Hero Intelligence: +6.0 | - |
-  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +800.0 | Range: +60.0 | Basic Hero Intelligence: +10.0 | - |
-  | 5 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +1000.0 | Range: +75.0 | Basic Hero Intelligence: +14.0 | - |
-  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +1200.0 | Range: +90.0 | Basic Hero Intelligence: +20.0 | - |
-  | 7 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +1400.0 | Range: +105.0 | Basic Hero Intelligence: +26.0 | - |
-  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +1600.0 | Range: +120.0 | Basic Hero Intelligence: +36.0 | - |
-  | 9 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +1800.0 | Range: +135.0 | Basic Hero Intelligence: +46.0 | - |
-  | 10 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | ATK: +2000.0 | Range: +150.0 | Basic Hero Intelligence: +60.0 | - |
+  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +600.0 | Range: +45.0 | Basic Hero Intelligence: +8.0 | - |
+  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +800.0 | Range: +60.0 | Basic Hero Intelligence: +12.0 | - |
+  | 5 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +1000.0 | Range: +75.0 | Basic Hero Intelligence: +16.0 | - |
+  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +1200.0 | Range: +90.0 | Basic Hero Intelligence: +22.0 | - |
+  | 7 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +1400.0 | Range: +105.0 | Basic Hero Intelligence: +28.0 | - |
+  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +1600.0 | Range: +120.0 | Basic Hero Intelligence: +38.0 | - |
+  | 9 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +1800.0 | Range: +135.0 | Basic Hero Intelligence: +48.0 | - |
+  | 10 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | ATK: +2000.0 | Range: +150.0 | Basic Hero Intelligence: +62.0 | - |
 

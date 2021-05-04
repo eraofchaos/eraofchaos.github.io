@@ -21,11 +21,12 @@ sidebar:
   | 1 | ![War Master](/images/pt/talent_1001.png) | [War Master](/PeakTalent/War Master/) | They are veterans on the battlefield, so they know how to fight against enemies. |
   | 2 | ![Heart of Endurance](/images/pt/talent_1002.png) | [Heart of Endurance](/PeakTalent/Heart of Endurance/) | Upon thousands of battles, they learned how to survive on the battlefield. |
   | 3 | ![Veteran Scar](/images/pt/talent_1003.png) | [Veteran Scar](/PeakTalent/Veteran Scar/) | The deformed scars are the impress that proves the veterans are battle-scarred. |
-  | 4 | ![Crazy Smite](/images/pt/talent_1005.png) | [Crazy Smite](/PeakTalent/Crazy Smite/) | The fierce attack are always thrilling! |
-  | 5 | ![Butcher](/images/pt/talent_1006.png) | [Butcher](/PeakTalent/Butcher/) | Smash every enemy relentlessly like a butcher. |
-  | 6 | ![Murder Intent](/images/pt/talent_1007.png) | [Murder Intent](/PeakTalent/Murder Intent/) | For them, the combativeness on the battlefield is like the photosynthetic sunshine. |
-  | 7 | ![Iron Lord](/images/pt/talent_1008.png) | [Iron Lord](/PeakTalent/Iron Lord/) | Under the command of the lord, soldiers get more valiant. |
-  | 8 | ![Fortifications](/images/pt/talent_1009.png) | [Fortifications](/PeakTalent/Fortifications/) | Generals and soldiers united as one and fight against the enemy together. |
+  | 4 | ![Elemental Immunization](/images/pt/talent_1004.png) | [Elemental Immunization](/PeakTalent/Elemental Immunization/) | After many magic attacks, a magic elemental has been created |
+  | 5 | ![Crazy Smite](/images/pt/talent_1005.png) | [Crazy Smite](/PeakTalent/Crazy Smite/) | The fierce attack are always thrilling! |
+  | 6 | ![Butcher](/images/pt/talent_1006.png) | [Butcher](/PeakTalent/Butcher/) | Smash every enemy relentlessly like a butcher. |
+  | 7 | ![Murder Intent](/images/pt/talent_1007.png) | [Murder Intent](/PeakTalent/Murder Intent/) | For them, the combativeness on the battlefield is like the photosynthetic sunshine. |
+  | 8 | ![Iron Lord](/images/pt/talent_1008.png) | [Iron Lord](/PeakTalent/Iron Lord/) | Under the command of the lord, soldiers get more valiant. |
+  | 9 | ![Fortifications](/images/pt/talent_1009.png) | [Fortifications](/PeakTalent/Fortifications/) | Generals and soldiers united as one and fight against the enemy together. |
 
 
 

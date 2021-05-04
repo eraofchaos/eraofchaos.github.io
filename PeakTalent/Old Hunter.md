@@ -32,12 +32,12 @@ sidebar:
   |:---|--------------|:-------------|:-------------|:-------------|:-------------|
   | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +5.0% | HP: +5.0% | Basic Hero Intelligence: +1.0 | Basic Hero Knowledge: +1.0 |
   | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +10.0% | HP: +10.0% | Basic Hero Intelligence: +2.0 | Basic Hero Knowledge: +2.0 |
-  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +15.0% | HP: +15.0% | Basic Hero Intelligence: +3.0 | Basic Hero Knowledge: +3.0 |
-  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +20.0% | HP: +20.0% | Basic Hero Intelligence: +5.0 | Basic Hero Knowledge: +5.0 |
-  | 5 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +25.0% | HP: +25.0% | Basic Hero Intelligence: +7.0 | Basic Hero Knowledge: +7.0 |
-  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +30.0% | HP: +30.0% | Basic Hero Intelligence: +10.0 | Basic Hero Knowledge: +10.0 |
-  | 7 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +35.0% | HP: +35.0% | Basic Hero Intelligence: +13.0 | Basic Hero Knowledge: +13.0 |
-  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +40.0% | HP: +40.0% | Basic Hero Intelligence: +18.0 | Basic Hero Knowledge: +18.0 |
-  | 9 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +45.0% | HP: +45.0% | Basic Hero Intelligence: +23.0 | Basic Hero Knowledge: +23.0 |
-  | 10 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | ATK: +50.0% | HP: +50.0% | Basic Hero Intelligence: +30.0 | Basic Hero Knowledge: +30.0 |
+  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +15.0% | HP: +15.0% | Basic Hero Intelligence: +4.0 | Basic Hero Knowledge: +4.0 |
+  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +20.0% | HP: +20.0% | Basic Hero Intelligence: +6.0 | Basic Hero Knowledge: +6.0 |
+  | 5 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +25.0% | HP: +25.0% | Basic Hero Intelligence: +8.0 | Basic Hero Knowledge: +8.0 |
+  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +30.0% | HP: +30.0% | Basic Hero Intelligence: +11.0 | Basic Hero Knowledge: +11.0 |
+  | 7 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +35.0% | HP: +35.0% | Basic Hero Intelligence: +14.0 | Basic Hero Knowledge: +14.0 |
+  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +40.0% | HP: +40.0% | Basic Hero Intelligence: +19.0 | Basic Hero Knowledge: +19.0 |
+  | 9 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +45.0% | HP: +45.0% | Basic Hero Intelligence: +24.0 | Basic Hero Knowledge: +24.0 |
+  | 10 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | ATK: +50.0% | HP: +50.0% | Basic Hero Intelligence: +31.0 | Basic Hero Knowledge: +31.0 |
 

@@ -32,12 +32,12 @@ sidebar:
   |:---|--------------|:-------------|:-------------|:-------------|:-------------|
   | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +2.0 | Life Drain: +0.5 | Basic Hero Attack: +2.0 | - |
   | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +4.0 | Life Drain: +1.0 | Basic Hero Attack: +4.0 | - |
-  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +6.0 | Life Drain: +1.5 | Basic Hero Attack: +6.0 | - |
-  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +8.0 | Life Drain: +2.0 | Basic Hero Attack: +10.0 | - |
-  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +10.0 | Life Drain: +2.5 | Basic Hero Attack: +16.0 | - |
-  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +12.0 | Life Drain: +3.0 | Basic Hero Attack: +22.0 | - |
-  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +14.0 | Life Drain: +3.5 | Basic Hero Attack: +32.0 | - |
-  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +16.0 | Life Drain: +4.0 | Basic Hero Attack: +42.0 | - |
-  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +18.0 | Life Drain: +4.5 | Basic Hero Attack: +56.0 | - |
-  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +20.0 | Life Drain: +5.0 | Basic Hero Attack: +76.0 | - |
+  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +6.0 | Life Drain: +1.5 | Basic Hero Attack: +8.0 | - |
+  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +8.0 | Life Drain: +2.0 | Basic Hero Attack: +12.0 | - |
+  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +10.0 | Life Drain: +2.5 | Basic Hero Attack: +18.0 | - |
+  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +12.0 | Life Drain: +3.0 | Basic Hero Attack: +24.0 | - |
+  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +14.0 | Life Drain: +3.5 | Basic Hero Attack: +34.0 | - |
+  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +16.0 | Life Drain: +4.0 | Basic Hero Attack: +44.0 | - |
+  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +18.0 | Life Drain: +4.5 | Basic Hero Attack: +58.0 | - |
+  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | Magic resistance: +20.0 | Life Drain: +5.0 | Basic Hero Attack: +78.0 | - |
 
