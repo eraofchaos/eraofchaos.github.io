@@ -9,6 +9,12 @@ toc: false
 classes: wide
 ---
 
+  Peak Talents will be available at Lv.110
+
+  <span style="color: #562600">Your Peak level will be converted into Peak Talent Points. You can use these points to upgrade the corresponding Talent here.</span>
+
+  <span style="color: #562600">When you upgrade Talents, you will spend Gold and the corresponding Peak Talent Points.</span>
+
   |          Level      | Required EXP | Accumulated EXP |
   |:--------------------|:------------:|:---------------:|
   | 1 | **650** | 650 |
