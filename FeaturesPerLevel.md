@@ -16,7 +16,6 @@ sidebar:
 
   | Level | Icon | Name | Description |
   |:------|:----:|:----------:|:----------:|
-
   | **6** | ![Log in](/images/s/xgn_qiandao.png) | Log in | <span style="color: #8a5c1d">Log in every day to receive login rewards.</span> |
   | **8** | ![Auto Combat](/images/s/xgn_fuben.png) | Auto Combat | <span style="color: #8a5c1d">With auto-combat, you can easily complete all of the missions on your map!</span> |
   | **8** | ![Carnival](/images/s/xgn_huodong.png) | Carnival | <span style="color: #8a5c1d">Limited time missions with permanent benefits!</span> |
