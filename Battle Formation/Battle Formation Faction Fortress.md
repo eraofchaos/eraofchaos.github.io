@@ -2,7 +2,7 @@
 title: "Battle Formation Fortress"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Battle Formation Fortress"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "BattleFormationFactionFortress"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Increases 10% unitMagic resistance for all Fortress Units** |
   | **8** | **Fortress units will receive an increase of 12% CRIT DMG when against the units suffering from disease** |
   | **9** | **Increases 4% attack speed for all Fortress Units** |
+  | **10** | **Increases 15% ATK for all Fortress Units** |
+  | **11** | **Increases 17% HP for all Fortress Units** |
+  | **12** | **Fortress units will receive an increase of 6% Life Drain when against the units suffering from the disease** |
 
 ## Battle Formation Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Fortress - Blaster | Critical Hit + **5**  | 160 |  **10** x [Gnoll](/units/Gnoll) |
   | 17 | Fortress - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
   | 18 | Fortress - Storm Assaulter | ATK + **1** % | 80 |   |
+  
+
+
+## Battle Formation Circle 3:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Fortress - Damage Amplification | Unit DMG + **0.4** % | 180 |  **10** x [Lizardman](/units/Lizardman) |
+  | 2 | Fortress - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 3 | Fortress - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 4 | Fortress - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 5 | Fortress - A Strike Hit | Accuracy + **7**  | 180 |  **10** x [Gnoll](/units/Gnoll) |
+  | 6 | Fortress - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 7 | Fortress - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 8 | Fortress - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 9 | Fortress - Ingeniousness | Dodge + **7**  | 180 |  **10** x [Serpent Fly](/units/Serpent Fly) |
+  | 10 | Fortress - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 11 | Fortress - Physical Trials | HP + **1.2** % | 90 |   |
+  | 12 | Fortress - Physical Trials | HP + **1.2** % | 90 |   |
+  | 13 | Fortress - Shield Practice | Unit DMG Reduction + **0.4** % | 180 |  **10** x [Serpent Fly](/units/Serpent Fly) |
+  | 14 | Fortress - Physical Trials | HP + **1.2** % | 90 |   |
+  | 15 | Fortress - Physical Trials | HP + **1.2** % | 90 |   |
+  | 16 | Fortress - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 17 | Fortress - Rocklike Skin | Tenacity + **8**  | 180 |  **10** x [Gnoll](/units/Gnoll) |
+  | 18 | Fortress - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 19 | Fortress - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 20 | Fortress - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 21 | Fortress - Blaster | Critical Hit + **6**  | 180 |  **10** x [Lizardman](/units/Lizardman) |
+  | 22 | Fortress - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 23 | Fortress - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 24 | Fortress - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  
+
+
+## Battle Formation Circle 4:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Fortress - Damage Amplification | Unit DMG + **0.5** % | 190 |  **20** x [Serpent Fly](/units/Serpent Fly) |
+  | 2 | Fortress - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 3 | Fortress - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 4 | Fortress - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 5 | Fortress - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 6 | Fortress - A Strike Hit | Accuracy + **8**  | 190 |  **20** x [Lizardman](/units/Lizardman) |
+  | 7 | Fortress - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 8 | Fortress - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 9 | Fortress - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 10 | Fortress - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 11 | Fortress - Ingeniousness | Dodge + **8**  | 190 |  **20** x [Lizardman](/units/Lizardman) |
+  | 12 | Fortress - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 13 | Fortress - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 14 | Fortress - Physical Trials | HP + **1.4** % | 100 |   |
+  | 15 | Fortress - Physical Trials | HP + **1.4** % | 100 |   |
+  | 16 | Fortress - Shield Practice | Unit DMG Reduction + **0.5** % | 190 |  **20** x [Lizardman](/units/Lizardman) |
+  | 17 | Fortress - Physical Trials | HP + **1.4** % | 100 |   |
+  | 18 | Fortress - Physical Trials | HP + **1.4** % | 100 |   |
+  | 19 | Fortress - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 20 | Fortress - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 21 | Fortress - Rocklike Skin | Tenacity + **10**  | 190 |  **20** x [Lizardman](/units/Lizardman) |
+  | 22 | Fortress - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 23 | Fortress - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 24 | Fortress - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 25 | Fortress - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 26 | Fortress - Blaster | Critical Hit + **7**  | 190 |  **20** x [Serpent Fly](/units/Serpent Fly) |
+  | 27 | Fortress - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 28 | Fortress - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 29 | Fortress - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 30 | Fortress - Storm Assaulter | ATK + **1.4** % | 100 |   |
   
 

@@ -2,7 +2,7 @@
 title: "Battle Formation Stronghold"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "Battle Formation Stronghold"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "BattleFormationFactionStronghold"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Increases 10% unit Magic resistance for all Stronghold Units** |
   | **8** | **Stronghold units will receive an increase of 50 Critical Hit when their HP is less than 55%** |
   | **9** | **Increases 4% attack speed for all Stronghold Units** |
+  | **10** | **Increases 15% ATK for all Stronghold Units** |
+  | **11** | **Increases 17% HP for all Stronghold Units** |
+  | **12** | **Stronghold units will receive an increase of 12% CRIT DMG when their HP is less than 70%** |
 
 ## Battle Formation Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Stronghold - Blaster | Critical Hit + **5**  | 160 |  **10** x [Orc](/units/Orc) |
   | 17 | Stronghold - Storm Assaulter | ATK + **0.7** %, HP + **0.3** % | 80 |   |
   | 18 | Stronghold - Storm Assaulter | ATK + **1** % | 80 |   |
+  
+
+
+## Battle Formation Circle 3:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Stronghold - Damage Amplification | Unit DMG + **0.4** % | 180 |  **10** x [Ogre](/units/Ogre) |
+  | 2 | Stronghold - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 3 | Stronghold - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 4 | Stronghold - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 5 | Stronghold - A Strike Hit | Accuracy + **7**  | 180 |  **10** x [Wolf Rider](/units/Wolf Rider) |
+  | 6 | Stronghold - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 7 | Stronghold - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 8 | Stronghold - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 9 | Stronghold - Ingeniousness | Dodge + **7**  | 180 |  **10** x [Ogre](/units/Ogre) |
+  | 10 | Stronghold - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 11 | Stronghold - Physical Trials | HP + **1.2** % | 90 |   |
+  | 12 | Stronghold - Physical Trials | HP + **1.2** % | 90 |   |
+  | 13 | Stronghold - Shield Practice | Unit DMG Reduction + **0.4** % | 180 |  **10** x [Wolf Rider](/units/Wolf Rider) |
+  | 14 | Stronghold - Physical Trials | HP + **1.2** % | 90 |   |
+  | 15 | Stronghold - Physical Trials | HP + **1.2** % | 90 |   |
+  | 16 | Stronghold - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 17 | Stronghold - Rocklike Skin | Tenacity + **8**  | 180 |  **10** x [Ogre](/units/Ogre) |
+  | 18 | Stronghold - Physical Trials | ATK + **0.4** %, HP + **0.8** % | 90 |   |
+  | 19 | Stronghold - Storm Assaulter | ATK + **0.6** %, HP + **0.6** % | 90 |   |
+  | 20 | Stronghold - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 21 | Stronghold - Blaster | Critical Hit + **6**  | 180 |  **10** x [Wolf Rider](/units/Wolf Rider) |
+  | 22 | Stronghold - Storm Assaulter | ATK + **0.8** %, HP + **0.4** % | 90 |   |
+  | 23 | Stronghold - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  | 24 | Stronghold - Storm Assaulter | ATK + **1.2** % | 90 |   |
+  
+
+
+## Battle Formation Circle 4:
+
+  |  Nr  |  Name   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Stronghold - Damage Amplification | Unit DMG + **0.5** % | 190 |  **20** x [Cyclops](/units/Cyclops) |
+  | 2 | Stronghold - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 3 | Stronghold - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 4 | Stronghold - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 5 | Stronghold - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 6 | Stronghold - A Strike Hit | Accuracy + **8**  | 190 |  **20** x [Roc](/units/Roc) |
+  | 7 | Stronghold - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 8 | Stronghold - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 9 | Stronghold - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 10 | Stronghold - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 11 | Stronghold - Ingeniousness | Dodge + **8**  | 190 |  **20** x [Cyclops](/units/Cyclops) |
+  | 12 | Stronghold - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 13 | Stronghold - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 14 | Stronghold - Physical Trials | HP + **1.4** % | 100 |   |
+  | 15 | Stronghold - Physical Trials | HP + **1.4** % | 100 |   |
+  | 16 | Stronghold - Shield Practice | Unit DMG Reduction + **0.5** % | 190 |  **20** x [Roc](/units/Roc) |
+  | 17 | Stronghold - Physical Trials | HP + **1.4** % | 100 |   |
+  | 18 | Stronghold - Physical Trials | HP + **1.4** % | 100 |   |
+  | 19 | Stronghold - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 20 | Stronghold - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 21 | Stronghold - Rocklike Skin | Tenacity + **10**  | 190 |  **20** x [Cyclops](/units/Cyclops) |
+  | 22 | Stronghold - Physical Trials | ATK + **0.5** %, HP + **0.9** % | 100 |   |
+  | 23 | Stronghold - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 24 | Stronghold - Storm Assaulter | ATK + **0.7** %, HP + **0.7** % | 100 |   |
+  | 25 | Stronghold - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 26 | Stronghold - Blaster | Critical Hit + **7**  | 190 |  **20** x [Roc](/units/Roc) |
+  | 27 | Stronghold - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 28 | Stronghold - Storm Assaulter | ATK + **0.9** %, HP + **0.5** % | 100 |   |
+  | 29 | Stronghold - Storm Assaulter | ATK + **1.4** % | 100 |   |
+  | 30 | Stronghold - Storm Assaulter | ATK + **1.4** % | 100 |   |
   
 
