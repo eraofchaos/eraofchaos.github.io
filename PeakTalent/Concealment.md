@@ -2,7 +2,7 @@
 title: "Concealment. Peak Talent - Concealment"
 permalink: /PeakTalent/Concealment/
 excerpt: "Era of Chaos Peak Talent Concealment. Peak Talent Concealment. Concealment"
-last_modified_at: 2021-05-04
+last_modified_at: 2021-05-05
 locale: en
 ref: "Concealment.md"
 toc: false
@@ -28,16 +28,31 @@ sidebar:
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
-  | Nr | Upgrade Cost | Unit Bonus 1 | Unit Bonus 2 | Hero Bonus 1 | Hero Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|:-------------|
-  | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | HP: +1800.0 | Dodge: +20.0 | Basic Hero Attack: +1.0 | Basic Hero Knowledge: +1.0 |
-  | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | HP: +3600.0 | Dodge: +40.0 | Basic Hero Attack: +2.0 | Basic Hero Knowledge: +2.0 |
-  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | HP: +5400.0 | Dodge: +60.0 | Basic Hero Attack: +4.0 | Basic Hero Knowledge: +4.0 |
-  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | HP: +7200.0 | Dodge: +80.0 | Basic Hero Attack: +6.0 | Basic Hero Knowledge: +6.0 |
-  | 5 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | HP: +9000.0 | Dodge: +100.0 | Basic Hero Attack: +8.0 | Basic Hero Knowledge: +8.0 |
-  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | HP: +10800.0 | Dodge: +120.0 | Basic Hero Attack: +11.0 | Basic Hero Knowledge: +11.0 |
-  | 7 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | HP: +12600.0 | Dodge: +140.0 | Basic Hero Attack: +14.0 | Basic Hero Knowledge: +14.0 |
-  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | HP: +14400.0 | Dodge: +160.0 | Basic Hero Attack: +19.0 | Basic Hero Knowledge: +19.0 |
-  | 9 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | HP: +16200.0 | Dodge: +180.0 | Basic Hero Attack: +24.0 | Basic Hero Knowledge: +24.0 |
-  | 10 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | HP: +18000.0 | Dodge: +200.0 | Basic Hero Attack: +31.0 | Basic Hero Knowledge: +31.0 |
+  | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | HP (1/4/9): +1800/540/270 | Dodge: +20 | Basic Hero Attack: +1 | Basic Hero Knowledge: +1 |
+  | 2 | HP (1/4/9): +3600/1080/540 | Dodge: +40 | Basic Hero Attack: +2 | Basic Hero Knowledge: +2 |
+  | 3 | HP (1/4/9): +5400/1620/810 | Dodge: +60 | Basic Hero Attack: +4 | Basic Hero Knowledge: +4 |
+  | 4 | HP (1/4/9): +7200/2160/1080 | Dodge: +80 | Basic Hero Attack: +6 | Basic Hero Knowledge: +6 |
+  | 5 | HP (1/4/9): +9000/2700/1350 | Dodge: +100 | Basic Hero Attack: +8 | Basic Hero Knowledge: +8 |
+  | 6 | HP (1/4/9): +10800/3240/1620 | Dodge: +120 | Basic Hero Attack: +11 | Basic Hero Knowledge: +11 |
+  | 7 | HP (1/4/9): +12600/3780/1890 | Dodge: +140 | Basic Hero Attack: +14 | Basic Hero Knowledge: +14 |
+  | 8 | HP (1/4/9): +14400/4320/2160 | Dodge: +160 | Basic Hero Attack: +19 | Basic Hero Knowledge: +19 |
+  | 9 | HP (1/4/9): +16200/4860/2430 | Dodge: +180 | Basic Hero Attack: +24 | Basic Hero Knowledge: +24 |
+  | 10 | HP (1/4/9): +18000/5400/2700 | Dodge: +200 | Basic Hero Attack: +31 | Basic Hero Knowledge: +31 |
 
+
+#### Upgrade Cost to Level Up
+
+  | Nr | <i class="fas fa-coins"/> | [Peak Talent Point](/Items/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Peak Talent Point](/Items/con_934/) |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 50000 | 1 |
+  | 2 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 100000 | 2 |
+  | 3 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 200000 | 4 |
+  | 4 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 300000 | 6 |
+  | 5 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 400000 | 8 |
+  | 6 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 550000 | 11 |
+  | 7 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 700000 | 14 |
+  | 8 | **250000** | **5** [Peak Talent Point](/Items/con_934/) | 950000 | 19 |
+  | 9 | **250000** | **5** [Peak Talent Point](/Items/con_934/) | 1200000 | 24 |
+  | 10 | **350000** | **7** [Peak Talent Point](/Items/con_934/) | 1550000 | 31 |

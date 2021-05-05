@@ -2,7 +2,7 @@
 title: "Midnight Pulse. Peak Talent - Midnight Pulse"
 permalink: /PeakTalent/Midnight Pulse/
 excerpt: "Era of Chaos Peak Talent Midnight Pulse. Peak Talent Midnight Pulse. Midnight Pulse"
-last_modified_at: 2021-05-04
+last_modified_at: 2021-05-05
 locale: en
 ref: "Midnight Pulse.md"
 toc: false
@@ -28,16 +28,31 @@ sidebar:
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
-  | Nr | Upgrade Cost | Unit Bonus 1 | Unit Bonus 2 | Hero Bonus 1 | Hero Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|:-------------|
-  | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +0.5% | Critical DMG: +2.0 | Basic Hero Knowledge: +2.0 | - |
-  | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +1.0% | Critical DMG: +4.0 | Basic Hero Knowledge: +4.0 | - |
-  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +1.5% | Critical DMG: +6.0 | Basic Hero Knowledge: +8.0 | - |
-  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +2.0% | Critical DMG: +8.0 | Basic Hero Knowledge: +12.0 | - |
-  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +2.5% | Critical DMG: +10.0 | Basic Hero Knowledge: +18.0 | - |
-  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +3.0% | Critical DMG: +12.0 | Basic Hero Knowledge: +24.0 | - |
-  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +3.5% | Critical DMG: +14.0 | Basic Hero Knowledge: +34.0 | - |
-  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +4.0% | Critical DMG: +16.0 | Basic Hero Knowledge: +44.0 | - |
-  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +4.5% | Critical DMG: +18.0 | Basic Hero Knowledge: +58.0 | - |
-  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | Unit DMG Reduction: +5.0% | Critical DMG: +20.0 | Basic Hero Knowledge: +78.0 | - |
+  | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | Unit DMG Reduction: +0.5% | Critical DMG: +2 | Basic Hero Knowledge: +2 | - |
+  | 2 | Unit DMG Reduction: +1% | Critical DMG: +4 | Basic Hero Knowledge: +4 | - |
+  | 3 | Unit DMG Reduction: +1.5% | Critical DMG: +6 | Basic Hero Knowledge: +8 | - |
+  | 4 | Unit DMG Reduction: +2% | Critical DMG: +8 | Basic Hero Knowledge: +12 | - |
+  | 5 | Unit DMG Reduction: +2.5% | Critical DMG: +10 | Basic Hero Knowledge: +18 | - |
+  | 6 | Unit DMG Reduction: +3% | Critical DMG: +12 | Basic Hero Knowledge: +24 | - |
+  | 7 | Unit DMG Reduction: +3.5% | Critical DMG: +14 | Basic Hero Knowledge: +34 | - |
+  | 8 | Unit DMG Reduction: +4% | Critical DMG: +16 | Basic Hero Knowledge: +44 | - |
+  | 9 | Unit DMG Reduction: +4.5% | Critical DMG: +18 | Basic Hero Knowledge: +58 | - |
+  | 10 | Unit DMG Reduction: +5% | Critical DMG: +20 | Basic Hero Knowledge: +78 | - |
 
+
+#### Upgrade Cost to Level Up
+
+  | Nr | <i class="fas fa-coins"/> | [Peak Talent Point](/Items/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Peak Talent Point](/Items/con_934/) |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 50000 | 1 |
+  | 2 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 100000 | 2 |
+  | 3 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 200000 | 4 |
+  | 4 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 300000 | 6 |
+  | 5 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 450000 | 9 |
+  | 6 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 600000 | 12 |
+  | 7 | **250000** | **5** [Peak Talent Point](/Items/con_934/) | 850000 | 17 |
+  | 8 | **250000** | **5** [Peak Talent Point](/Items/con_934/) | 1100000 | 22 |
+  | 9 | **350000** | **7** [Peak Talent Point](/Items/con_934/) | 1450000 | 29 |
+  | 10 | **500000** | **10** [Peak Talent Point](/Items/con_934/) | 1950000 | 39 |

@@ -2,7 +2,7 @@
 title: "Veteran Scar. Peak Talent - Veteran Scar"
 permalink: /PeakTalent/Veteran Scar/
 excerpt: "Era of Chaos Peak Talent Veteran Scar. Peak Talent Veteran Scar. Veteran Scar"
-last_modified_at: 2021-05-04
+last_modified_at: 2021-05-05
 locale: en
 ref: "Veteran Scar.md"
 toc: false
@@ -28,16 +28,31 @@ sidebar:
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
-  | Nr | Upgrade Cost | Unit Bonus 1 | Unit Bonus 2 | Hero Bonus 1 | Hero Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|:-------------|
-  | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | DEF: +20.0 | - | Basic Hero Attack: +1.0 | Basic Hero Defense: +1.0 |
-  | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | DEF: +40.0 | - | Basic Hero Attack: +2.0 | Basic Hero Defense: +2.0 |
-  | 3 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | DEF: +60.0 | - | Basic Hero Attack: +3.0 | Basic Hero Defense: +3.0 |
-  | 4 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | DEF: +80.0 | - | Basic Hero Attack: +4.0 | Basic Hero Defense: +4.0 |
-  | 5 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | DEF: +100.0 | - | Basic Hero Attack: +6.0 | Basic Hero Defense: +6.0 |
-  | 6 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | DEF: +120.0 | - | Basic Hero Attack: +8.0 | Basic Hero Defense: +8.0 |
-  | 7 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | DEF: +140.0 | - | Basic Hero Attack: +11.0 | Basic Hero Defense: +11.0 |
-  | 8 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | DEF: +160.0 | - | Basic Hero Attack: +14.0 | Basic Hero Defense: +14.0 |
-  | 9 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | DEF: +180.0 | - | Basic Hero Attack: +17.0 | Basic Hero Defense: +17.0 |
-  | 10 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | DEF: +200.0 | - | Basic Hero Attack: +22.0 | Basic Hero Defense: +22.0 |
+  | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | DEF: +20 | - | Basic Hero Attack: +1 | Basic Hero Defense: +1 |
+  | 2 | DEF: +40 | - | Basic Hero Attack: +2 | Basic Hero Defense: +2 |
+  | 3 | DEF: +60 | - | Basic Hero Attack: +3 | Basic Hero Defense: +3 |
+  | 4 | DEF: +80 | - | Basic Hero Attack: +4 | Basic Hero Defense: +4 |
+  | 5 | DEF: +100 | - | Basic Hero Attack: +6 | Basic Hero Defense: +6 |
+  | 6 | DEF: +120 | - | Basic Hero Attack: +8 | Basic Hero Defense: +8 |
+  | 7 | DEF: +140 | - | Basic Hero Attack: +11 | Basic Hero Defense: +11 |
+  | 8 | DEF: +160 | - | Basic Hero Attack: +14 | Basic Hero Defense: +14 |
+  | 9 | DEF: +180 | - | Basic Hero Attack: +17 | Basic Hero Defense: +17 |
+  | 10 | DEF: +200 | - | Basic Hero Attack: +22 | Basic Hero Defense: +22 |
 
+
+#### Upgrade Cost to Level Up
+
+  | Nr | <i class="fas fa-coins"/> | [Peak Talent Point](/Items/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Peak Talent Point](/Items/con_934/) |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 50000 | 1 |
+  | 2 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 100000 | 2 |
+  | 3 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 150000 | 3 |
+  | 4 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 200000 | 4 |
+  | 5 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 300000 | 6 |
+  | 6 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 400000 | 8 |
+  | 7 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 550000 | 11 |
+  | 8 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 700000 | 14 |
+  | 9 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 850000 | 17 |
+  | 10 | **250000** | **5** [Peak Talent Point](/Items/con_934/) | 1100000 | 22 |

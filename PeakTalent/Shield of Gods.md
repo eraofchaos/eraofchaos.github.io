@@ -2,7 +2,7 @@
 title: "Shield of Gods. Peak Talent - Shield of Gods"
 permalink: /PeakTalent/Shield of Gods/
 excerpt: "Era of Chaos Peak Talent Shield of Gods. Peak Talent Shield of Gods. Shield of Gods"
-last_modified_at: 2021-05-04
+last_modified_at: 2021-05-05
 locale: en
 ref: "Shield of Gods.md"
 toc: false
@@ -28,16 +28,31 @@ sidebar:
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
-  | Nr | Upgrade Cost | Unit Bonus 1 | Unit Bonus 2 | Hero Bonus 1 | Hero Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|:-------------|
-  | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | HP: +10.0% | DEF: +20.0 | Basic Hero Defense: +2.0 | - |
-  | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | HP: +20.0% | DEF: +40.0 | Basic Hero Defense: +4.0 | - |
-  | 3 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | HP: +30.0% | DEF: +60.0 | Basic Hero Defense: +8.0 | - |
-  | 4 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | HP: +40.0% | DEF: +80.0 | Basic Hero Defense: +12.0 | - |
-  | 5 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | HP: +50.0% | DEF: +100.0 | Basic Hero Defense: +18.0 | - |
-  | 6 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | HP: +60.0% | DEF: +120.0 | Basic Hero Defense: +24.0 | - |
-  | 7 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | HP: +70.0% | DEF: +140.0 | Basic Hero Defense: +34.0 | - |
-  | 8 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | HP: +80.0% | DEF: +160.0 | Basic Hero Defense: +44.0 | - |
-  | 9 |  **350000x** <i class="fas fa-coins"/>, **7x** [Peak Talent Point](/Items/con_934/) | HP: +90.0% | DEF: +180.0 | Basic Hero Defense: +58.0 | - |
-  | 10 |  **500000x** <i class="fas fa-coins"/>, **10x** [Peak Talent Point](/Items/con_934/) | HP: +100.0% | DEF: +200.0 | Basic Hero Defense: +78.0 | - |
+  | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | HP: +10% | DEF: +20 | Basic Hero Defense: +2 | - |
+  | 2 | HP: +20% | DEF: +40 | Basic Hero Defense: +4 | - |
+  | 3 | HP: +30% | DEF: +60 | Basic Hero Defense: +8 | - |
+  | 4 | HP: +40% | DEF: +80 | Basic Hero Defense: +12 | - |
+  | 5 | HP: +50% | DEF: +100 | Basic Hero Defense: +18 | - |
+  | 6 | HP: +60% | DEF: +120 | Basic Hero Defense: +24 | - |
+  | 7 | HP: +70% | DEF: +140 | Basic Hero Defense: +34 | - |
+  | 8 | HP: +80% | DEF: +160 | Basic Hero Defense: +44 | - |
+  | 9 | HP: +90% | DEF: +180 | Basic Hero Defense: +58 | - |
+  | 10 | HP: +100% | DEF: +200 | Basic Hero Defense: +78 | - |
 
+
+#### Upgrade Cost to Level Up
+
+  | Nr | <i class="fas fa-coins"/> | [Peak Talent Point](/Items/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Peak Talent Point](/Items/con_934/) |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 50000 | 1 |
+  | 2 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 100000 | 2 |
+  | 3 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 200000 | 4 |
+  | 4 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 300000 | 6 |
+  | 5 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 450000 | 9 |
+  | 6 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 600000 | 12 |
+  | 7 | **250000** | **5** [Peak Talent Point](/Items/con_934/) | 850000 | 17 |
+  | 8 | **250000** | **5** [Peak Talent Point](/Items/con_934/) | 1100000 | 22 |
+  | 9 | **350000** | **7** [Peak Talent Point](/Items/con_934/) | 1450000 | 29 |
+  | 10 | **500000** | **10** [Peak Talent Point](/Items/con_934/) | 1950000 | 39 |

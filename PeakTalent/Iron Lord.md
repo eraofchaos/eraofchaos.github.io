@@ -2,7 +2,7 @@
 title: "Iron Lord. Peak Talent - Iron Lord"
 permalink: /PeakTalent/Iron Lord/
 excerpt: "Era of Chaos Peak Talent Iron Lord. Peak Talent Iron Lord. Iron Lord"
-last_modified_at: 2021-05-04
+last_modified_at: 2021-05-05
 locale: en
 ref: "Iron Lord.md"
 toc: false
@@ -28,16 +28,31 @@ sidebar:
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
-  | Nr | Upgrade Cost | Unit Bonus 1 | Unit Bonus 2 | Hero Bonus 1 | Hero Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|:-------------|
-  | 1 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +100.0 | Unit DMG: +0.5% | Basic Hero Intelligence: +1.0 | Basic Hero Knowledge: +1.0 |
-  | 2 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +200.0 | Unit DMG: +1.0% | Basic Hero Intelligence: +2.0 | Basic Hero Knowledge: +2.0 |
-  | 3 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +300.0 | Unit DMG: +1.5% | Basic Hero Intelligence: +3.0 | Basic Hero Knowledge: +3.0 |
-  | 4 |  **50000x** <i class="fas fa-coins"/>, **1x** [Peak Talent Point](/Items/con_934/) | ATK: +400.0 | Unit DMG: +2.0% | Basic Hero Intelligence: +4.0 | Basic Hero Knowledge: +4.0 |
-  | 5 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +500.0 | Unit DMG: +2.5% | Basic Hero Intelligence: +6.0 | Basic Hero Knowledge: +6.0 |
-  | 6 |  **100000x** <i class="fas fa-coins"/>, **2x** [Peak Talent Point](/Items/con_934/) | ATK: +600.0 | Unit DMG: +3.0% | Basic Hero Intelligence: +8.0 | Basic Hero Knowledge: +8.0 |
-  | 7 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +700.0 | Unit DMG: +3.5% | Basic Hero Intelligence: +11.0 | Basic Hero Knowledge: +11.0 |
-  | 8 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +800.0 | Unit DMG: +4.0% | Basic Hero Intelligence: +14.0 | Basic Hero Knowledge: +14.0 |
-  | 9 |  **150000x** <i class="fas fa-coins"/>, **3x** [Peak Talent Point](/Items/con_934/) | ATK: +900.0 | Unit DMG: +4.5% | Basic Hero Intelligence: +17.0 | Basic Hero Knowledge: +17.0 |
-  | 10 |  **250000x** <i class="fas fa-coins"/>, **5x** [Peak Talent Point](/Items/con_934/) | ATK: +1000.0 | Unit DMG: +5.0% | Basic Hero Intelligence: +22.0 | Basic Hero Knowledge: +22.0 |
+  | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | ATK (1/4/9): +100/30/15 | Unit DMG: +0.5% | Basic Hero Intelligence: +1 | Basic Hero Knowledge: +1 |
+  | 2 | ATK (1/4/9): +200/60/30 | Unit DMG: +1% | Basic Hero Intelligence: +2 | Basic Hero Knowledge: +2 |
+  | 3 | ATK (1/4/9): +300/90/45 | Unit DMG: +1.5% | Basic Hero Intelligence: +3 | Basic Hero Knowledge: +3 |
+  | 4 | ATK (1/4/9): +400/120/60 | Unit DMG: +2% | Basic Hero Intelligence: +4 | Basic Hero Knowledge: +4 |
+  | 5 | ATK (1/4/9): +500/150/75 | Unit DMG: +2.5% | Basic Hero Intelligence: +6 | Basic Hero Knowledge: +6 |
+  | 6 | ATK (1/4/9): +600/180/90 | Unit DMG: +3% | Basic Hero Intelligence: +8 | Basic Hero Knowledge: +8 |
+  | 7 | ATK (1/4/9): +700/210/105 | Unit DMG: +3.5% | Basic Hero Intelligence: +11 | Basic Hero Knowledge: +11 |
+  | 8 | ATK (1/4/9): +800/240/120 | Unit DMG: +4% | Basic Hero Intelligence: +14 | Basic Hero Knowledge: +14 |
+  | 9 | ATK (1/4/9): +900/270/135 | Unit DMG: +4.5% | Basic Hero Intelligence: +17 | Basic Hero Knowledge: +17 |
+  | 10 | ATK (1/4/9): +1000/300/150 | Unit DMG: +5% | Basic Hero Intelligence: +22 | Basic Hero Knowledge: +22 |
 
+
+#### Upgrade Cost to Level Up
+
+  | Nr | <i class="fas fa-coins"/> | [Peak Talent Point](/Items/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Peak Talent Point](/Items/con_934/) |
+  |:---|--------------|:-------------|:-------------|:-------------|
+  | 1 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 50000 | 1 |
+  | 2 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 100000 | 2 |
+  | 3 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 150000 | 3 |
+  | 4 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 200000 | 4 |
+  | 5 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 300000 | 6 |
+  | 6 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 400000 | 8 |
+  | 7 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 550000 | 11 |
+  | 8 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 700000 | 14 |
+  | 9 | **150000** | **3** [Peak Talent Point](/Items/con_934/) | 850000 | 17 |
+  | 10 | **250000** | **5** [Peak Talent Point](/Items/con_934/) | 1100000 | 22 |

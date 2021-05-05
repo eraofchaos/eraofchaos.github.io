@@ -2,7 +2,7 @@
 title: "The Art of Unit. Peak Talent - The Art of Unit"
 permalink: /PeakTalent/The Art of Unit/
 excerpt: "Era of Chaos Peak Talent The Art of Unit. Peak Talent The Art of Unit. The Art of Unit"
-last_modified_at: 2021-05-04
+last_modified_at: 2021-05-05
 locale: en
 ref: "The Art of Unit.md"
 toc: false
