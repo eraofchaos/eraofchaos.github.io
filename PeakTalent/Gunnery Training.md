@@ -29,7 +29,7 @@ sidebar:
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | Accuracy: +20 | Break DEF: +15 | Basic Hero Defense: +1 | Basic Hero Knowledge: +1 |
   | 2 | Accuracy: +40 | Break DEF: +30 | Basic Hero Defense: +2 | Basic Hero Knowledge: +2 |
   | 3 | Accuracy: +60 | Break DEF: +45 | Basic Hero Defense: +4 | Basic Hero Knowledge: +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Peak Talent Point](/Items/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Peak Talent Point](/Items/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 200000 | 4 |

@@ -29,7 +29,7 @@ sidebar:
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | Magic resistance: +2 | Life Drain: +0.5 | Basic Hero Attack: +2 | - |
   | 2 | Magic resistance: +4 | Life Drain: +1 | Basic Hero Attack: +4 | - |
   | 3 | Magic resistance: +6 | Life Drain: +1.5 | Basic Hero Attack: +8 | - |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Peak Talent Point](/Items/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Peak Talent Point](/Items/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Peak Talent Point](/Items/con_934/) | 200000 | 4 |

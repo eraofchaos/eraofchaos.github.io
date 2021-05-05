@@ -27,7 +27,7 @@ sidebar:
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ATK (1/4/9): +500/150/75 | - | Basic Hero Attack: +2 | - |
   | 2 | ATK (1/4/9): +1000/300/150 | - | Basic Hero Attack: +4 | - |
   | 3 | ATK (1/4/9): +1500/450/225 | - | Basic Hero Attack: +6 | - |
@@ -43,7 +43,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Peak Talent Point](/Items/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Peak Talent Point](/Items/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 100000 | 2 |
   | 3 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 150000 | 3 |

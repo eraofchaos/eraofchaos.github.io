@@ -29,7 +29,7 @@ sidebar:
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | HP (1/4/9): +1000/300/150 | Unit DMG Reduction: +0.5% | Basic Hero Defense: +1 | Basic Hero Knowledge: +1 |
   | 2 | HP (1/4/9): +2000/600/300 | Unit DMG Reduction: +1% | Basic Hero Defense: +2 | Basic Hero Knowledge: +2 |
   | 3 | HP (1/4/9): +3000/900/450 | Unit DMG Reduction: +1.5% | Basic Hero Defense: +3 | Basic Hero Knowledge: +3 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Peak Talent Point](/Items/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Peak Talent Point](/Items/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 100000 | 2 |
   | 3 | **50000** | **1** [Peak Talent Point](/Items/con_934/) | 150000 | 3 |
