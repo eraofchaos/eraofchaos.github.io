@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Sword of Gods](/PeakTalent/Sword of Gods/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Sword of Gods](/images/pt/talent_4501.png) [Sword of Gods](/PeakTalent/Sword of Gods/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

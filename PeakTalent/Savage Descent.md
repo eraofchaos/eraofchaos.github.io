@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [The Unstable Form](/PeakTalent/The Unstable Form/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![The Unstable Form](/images/pt/talent_3002.png) [The Unstable Form](/PeakTalent/The Unstable Form/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

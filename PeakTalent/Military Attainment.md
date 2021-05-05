@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Battle Horn](/PeakTalent/Battle Horn/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Battle Horn](/images/pt/talent_2004.png) [Battle Horn](/PeakTalent/Battle Horn/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

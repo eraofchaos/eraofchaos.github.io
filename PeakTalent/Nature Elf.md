@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Chivalry](/PeakTalent/Chivalry/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Chivalry](/images/pt/talent_3006.png) [Chivalry](/PeakTalent/Chivalry/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

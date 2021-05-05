@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Elemental Immunization](/PeakTalent/Elemental Immunization/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Elemental Immunization](/images/pt/talent_1004.png) [Elemental Immunization](/PeakTalent/Elemental Immunization/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

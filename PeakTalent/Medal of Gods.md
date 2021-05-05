@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Shield of Gods](/PeakTalent/Shield of Gods/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Shield of Gods](/images/pt/talent_4502.png) [Shield of Gods](/PeakTalent/Shield of Gods/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

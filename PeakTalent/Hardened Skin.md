@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Military Attainment](/PeakTalent/Military Attainment/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Military Attainment](/images/pt/talent_2006.png) [Military Attainment](/PeakTalent/Military Attainment/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Aggressor](/PeakTalent/Aggressor/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Aggressor](/images/pt/talent_3004.png) [Aggressor](/PeakTalent/Aggressor/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

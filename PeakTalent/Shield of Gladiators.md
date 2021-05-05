@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Sword of Gladiators](/PeakTalent/Sword of Gladiators/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Sword of Gladiators](/images/pt/talent_4101.png) [Sword of Gladiators](/PeakTalent/Sword of Gladiators/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

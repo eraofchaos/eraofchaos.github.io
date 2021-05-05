@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Sword of Glory](/PeakTalent/Sword of Glory/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Sword of Glory](/images/pt/talent_4201.png) [Sword of Glory](/PeakTalent/Sword of Glory/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

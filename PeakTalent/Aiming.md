@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Old Hunter](/PeakTalent/Old Hunter/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Old Hunter](/images/pt/talent_2010.png) [Old Hunter](/PeakTalent/Old Hunter/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

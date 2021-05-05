@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Heart of Offa](/PeakTalent/Heart of Offa/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Heart of Offa](/images/pt/talent_3008.png) [Heart of Offa](/PeakTalent/Heart of Offa/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

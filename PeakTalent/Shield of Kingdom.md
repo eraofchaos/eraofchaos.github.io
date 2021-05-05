@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Sword of Kingdom](/PeakTalent/Sword of Kingdom/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Sword of Kingdom](/images/pt/talent_4401.png) [Sword of Kingdom](/PeakTalent/Sword of Kingdom/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 8x** [Peak Talent Point](/Items/con_934/) at [Gunnery Training](/PeakTalent/Gunnery Training/)
+  **UNLOCK: 8x** [Peak Talent Point](/Items/con_934/) at ![Gunnery Training](/images/pt/talent_2008.png) [Gunnery Training](/PeakTalent/Gunnery Training/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

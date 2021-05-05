@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 8x** [Peak Talent Point](/Items/con_934/) at [Midnight Pulse](/PeakTalent/Midnight Pulse/)
+  **UNLOCK: 8x** [Peak Talent Point](/Items/con_934/) at ![Midnight Pulse](/images/pt/talent_3009.png) [Midnight Pulse](/PeakTalent/Midnight Pulse/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

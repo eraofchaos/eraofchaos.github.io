@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Veteran Scar](/PeakTalent/Veteran Scar/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Veteran Scar](/images/pt/talent_1003.png) [Veteran Scar](/PeakTalent/Veteran Scar/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

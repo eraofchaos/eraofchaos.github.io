@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Great Trainer](/PeakTalent/Great Trainer/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Great Trainer](/images/pt/talent_3001.png) [Great Trainer](/PeakTalent/Great Trainer/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

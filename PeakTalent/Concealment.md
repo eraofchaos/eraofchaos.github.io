@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [Lone Wolf](/PeakTalent/Lone Wolf/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![Lone Wolf](/images/pt/talent_2001.png) [Lone Wolf](/PeakTalent/Lone Wolf/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 

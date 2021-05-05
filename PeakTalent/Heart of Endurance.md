@@ -24,7 +24,7 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at [War Master](/PeakTalent/War Master/)
+  **UNLOCK: 7x** [Peak Talent Point](/Items/con_934/) at ![War Master](/images/pt/talent_1001.png) [War Master](/PeakTalent/War Master/)
 
   [Peak Talent EXP](/PeakTalent/Peak Talent EXP/)
 
