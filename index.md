@@ -11,6 +11,22 @@ sidebar:
 ---
 
 
+{% capture notice-update20210504 %}
+
+We are happy to provide information about Peak Talent (opens at 110 level):
+  * [Peak Talent](/PeakTalent/)
+  * [Höchstes Talent](/de/PeakTalent/)
+  * [Talent Ultime](/fr/PeakTalent/)
+  * [Талант вершины](/ru/PeakTalent/)
+  * [Talento Apice](/it/PeakTalent/)
+  * [Poder Máximo](/es/PeakTalent/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">4 May 2021 Update: Client version 151 (3475/3474)</h4>
+  {{ notice-update20210504 | markdownify }}
+</div>
 
 
 {% capture notice-update20210428 %}
@@ -50,28 +66,7 @@ sidebar:
 </div>
 
 
-{% capture notice-update20210420 %}
 
-* Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April), after it we are expecting - [Dragon Golem](https://eraofchaos.github.io/units/Dragon Golem/)
-
-* New Items:
-  * [Dragon Golem Avatar](/Items/con_2136/)
-  * [Necropolis Limited Edition Pack](/Items/con_2138/)
-  * [Stronghold Limited Edition Pack](/Items/con_2140/)
-  * [Castle Limited Edition Pack](/Items/con_2139/)
-  * [Fortress Limited Edition Pack](/Items/con_2142/)
-  * [Elemental Limited Edition Pack](/Items/con_2141/)
-  * [Tool_907602](/Items/con_2137/)
-  * [Tool_10046](/Items/con_2135/)
-
-* Changed drop in [Faction Altar 2021](https://eraofchaos.github.io/FactionAltar/)
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">20 April 2021 Update: Client version 151 (3423)</h4>
-  {{ notice-update20210420 | markdownify }}
-</div>
 
 
 

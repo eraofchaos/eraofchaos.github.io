@@ -13,7 +13,28 @@ sidebar:
 
 ### Era Of Chaos - Wiki update History
 
+{% capture notice-update20210420 %}
 
+* Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April), after it we are expecting - [Dragon Golem](https://eraofchaos.github.io/units/Dragon Golem/)
+
+* New Items:
+  * [Dragon Golem Avatar](/Items/con_2136/)
+  * [Necropolis Limited Edition Pack](/Items/con_2138/)
+  * [Stronghold Limited Edition Pack](/Items/con_2140/)
+  * [Castle Limited Edition Pack](/Items/con_2139/)
+  * [Fortress Limited Edition Pack](/Items/con_2142/)
+  * [Elemental Limited Edition Pack](/Items/con_2141/)
+  * [Tool_907602](/Items/con_2137/)
+  * [Tool_10046](/Items/con_2135/)
+
+* Changed drop in [Faction Altar 2021](https://eraofchaos.github.io/FactionAltar/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">20 April 2021 Update: Client version 151 (3423)</h4>
+  {{ notice-update20210420 | markdownify }}
+</div>
 
 {% capture notice-update20210414 %}
 * New Hero ![Nymus](/images/h/h_Nymus.jpg) [Nymus](https://eraofchaos.github.io/heroes/Nymus/) and [Adjutant Nymus](https://eraofchaos.github.io/heroes/Adjutant Nymus/)
