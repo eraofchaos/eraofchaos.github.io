@@ -21,6 +21,8 @@ We are happy to provide information about Peak Talent (opens at 110 level):
   * [Talento Apice](/it/PeakTalent/)
   * [Poder Máximo](/es/PeakTalent/)
 
+Updated <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/). Lets see how fast Tilwin will copy it to official wiki.
+
 {% endcapture %}
 
 <div class="notice--danger">
