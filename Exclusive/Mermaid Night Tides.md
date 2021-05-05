@@ -2,7 +2,7 @@
 title: "Exclusive - Night Tides (Mermaid)"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Era of Chaos Night Tides. Night Tides. Era of Chaos Exclusive Night Tides. Mermaid Exclusive."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Mermaid Night Tides.md"
 toc: false

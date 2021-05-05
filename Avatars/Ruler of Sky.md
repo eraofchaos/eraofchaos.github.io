@@ -2,7 +2,7 @@
 title: "Avatar - Ruler of Sky"
 permalink: /Avatars/Ruler of Sky/
 excerpt: "Era of Chaos  Ruler of Sky"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Ruler of Sky.md"
 toc: false

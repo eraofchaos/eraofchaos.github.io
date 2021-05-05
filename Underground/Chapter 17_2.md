@@ -2,7 +2,7 @@
 title: "Underground - Chapter 17 - 17-2 Mage's Memory"
 permalink: /Underground/Chapter 17_2/
 excerpt: "Chapter 17 - 2. Era of Chaos  Underground - Chapter 17_2. 17-2 Mage's Memory"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Chapter 17_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusive - Death Tribute (Lich)"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Death Tribute. Death Tribute. Era of Chaos Exclusive Death Tribute. Lich Exclusive."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Lich Death Tribute.md"
 toc: false

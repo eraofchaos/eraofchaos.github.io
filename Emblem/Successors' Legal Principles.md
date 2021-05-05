@@ -2,7 +2,7 @@
 title: "Holy Emblem - Successors' Legal Principles"
 permalink: /Emblem/Successors' Legal Principles/
 excerpt: "Era of Chaos Successors' Legal Principles. Successors' Legal Principles. Era of Chaos Holy Emblem Successors' Legal Principles. Era of Chaos Neutral Successors' Legal Principles"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Successors' Legal Principles.md"
 toc: false

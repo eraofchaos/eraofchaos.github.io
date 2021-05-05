@@ -2,7 +2,7 @@
 title: "Ghostly Claws"
 permalink: /equipment/Ghostly Claws/
 excerpt: "Era of Chaos Ghostly Claws. Ghostly Claws"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Ghostly Claws.md"
 toc: false

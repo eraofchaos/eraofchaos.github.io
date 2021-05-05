@@ -2,7 +2,7 @@
 title: "Shackles of War"
 permalink: /equipment/Shackles of War/
 excerpt: "Era of Chaos Shackles of War. Shackles of War"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Shackles of War.md"
 toc: false

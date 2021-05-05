@@ -2,7 +2,7 @@
 title: "Underground - Chapter 5 - 5-2 The Army Approaches"
 permalink: /Underground/Chapter 5_2/
 excerpt: "Chapter 5 - 2. Era of Chaos  Underground - Chapter 5_2. 5-2 The Army Approaches"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Chapter 5_2.md"
 toc: false

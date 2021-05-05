@@ -2,7 +2,7 @@
 title: "Claws of Lightning"
 permalink: /equipment/Claws of Lightning/
 excerpt: "Era of Chaos Claws of Lightning. Claws of Lightning"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Claws of Lightning.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusive - Bloodthirsty Spirit (Behemoth)"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Bloodthirsty Spirit. Bloodthirsty Spirit. Era of Chaos Exclusive Bloodthirsty Spirit. Behemoth Exclusive."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Behemoth Bloodthirsty Spirit.md"
 toc: false

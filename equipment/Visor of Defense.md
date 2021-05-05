@@ -2,7 +2,7 @@
 title: "Visor of Defense"
 permalink: /equipment/Visor of Defense/
 excerpt: "Era of Chaos Visor of Defense. Visor of Defense"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Visor of Defense.md"
 toc: false

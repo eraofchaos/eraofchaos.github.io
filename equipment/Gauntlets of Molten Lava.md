@@ -2,7 +2,7 @@
 title: "Gauntlets of Molten Lava"
 permalink: /equipment/Gauntlets of Molten Lava/
 excerpt: "Era of Chaos Gauntlets of Molten Lava. Gauntlets of Molten Lava"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Gauntlets of Molten Lava.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 28 - 28-2  Develop and Build"
 permalink: /Underground/Chapter 28_2/
 excerpt: "Chapter 28 - 2. Era of Chaos  Underground - Chapter 28_2. 28-2  Develop and Build"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Chapter 28_2.md"
 toc: false

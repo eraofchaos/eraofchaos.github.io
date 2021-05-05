@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Stronghold -  Heroes"
 permalink: /heroes/Faction Stronghold/
 excerpt: "Era of Chaos Faction Stronghold. Faction Stronghold. List of Faction  in Era of Chaos"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Faction Stronghold"
 toc: false

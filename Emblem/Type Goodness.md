@@ -2,7 +2,7 @@
 title: "Holy Emblem - Goodness"
 permalink: /Emblem/Type Goodness/
 excerpt: "Era of Chaos Holy Emblem. Holy Emblem. Era of Chaos Holy Emblem Goodness. Era of Chaos Goodness"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "typeGoodness.md"
 toc: false

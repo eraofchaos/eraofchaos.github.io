@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-1 Warrior's Tomb"
 permalink: /Main Story/Chapter 3_1/
 excerpt: "Chapter 3 - 1. Era of Chaos  Main Story - Chapter 3_1. 3-1 Warrior's Tomb"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Chapter 3_1.md"
 toc: false

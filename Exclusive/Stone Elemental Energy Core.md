@@ -2,7 +2,7 @@
 title: "Exclusive - Energy Core (Stone Elemental)"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Energy Core. Energy Core. Era of Chaos Exclusive Energy Core. Stone Elemental Exclusive."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Stone Elemental Energy Core.md"
 toc: false

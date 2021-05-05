@@ -4,7 +4,7 @@ permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. As a young woman, shipwrecked and alone, Adelaide stumbled into Snow Elf territory. She underwent 20 years of training with her rescuers and became the most powerful mage in the kingdom before returning to Erathia."
 heroID: 60001
 QR: hero_60001
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Adelaide"
 toc: true

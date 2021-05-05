@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-1 Elven Craftsmanship"
 permalink: /Main Story/Chapter 17_1/
 excerpt: "Chapter 17 - 1. Era of Chaos  Main Story - Chapter 17_1. 17-1 Elven Craftsmanship"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Chapter 17_1.md"
 toc: false

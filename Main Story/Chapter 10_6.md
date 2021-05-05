@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-6 Seeking Shards"
 permalink: /Main Story/Chapter 10_6/
 excerpt: "Chapter 10 - 6. Era of Chaos  Main Story - Chapter 10_6. 10-6 Seeking Shards"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Chapter 10_6.md"
 toc: false

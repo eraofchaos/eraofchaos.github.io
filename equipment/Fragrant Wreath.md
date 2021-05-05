@@ -2,7 +2,7 @@
 title: "Fragrant Wreath"
 permalink: /equipment/Fragrant Wreath/
 excerpt: "Era of Chaos Fragrant Wreath. Fragrant Wreath"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: en
 ref: "Fragrant Wreath.md"
 toc: false
