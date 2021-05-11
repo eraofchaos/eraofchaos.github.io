@@ -10,6 +10,28 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210511 %}
+* New awakening for [Gorgon](https://eraofchaos.github.io/units/Gorgon/) - [Mighty Gorgon](https://eraofchaos.github.io/units/Gorgon/#awaking) 
+
+* New Exclusives for [Lizardman](https://eraofchaos.github.io/units/Lizardman/) -> [Long Bow (Lizardman)](https://eraofchaos.github.io/Exclusive/Lizardman%20Long%20Bow/)
+
+* New Items:
+  * [Master Genie Soul Stone Special Offer B](https://eraofchaos.github.io/Items/con_2150/)
+  * [Master Genie Soul Stone Special Offer C](https://eraofchaos.github.io/Items/con_2151/)
+
+* [Resurrection skill](https://eraofchaos.github.io/units/Angel/#regular-skill-1--resurrection) for [Angel](https://eraofchaos.github.io/units/Angel/): Correction: **This skill cannot be silenced.**
+
+* Update [Schedule](/Schedule/) (up to 1 June 2021)
+
+* Wiki updated to latest game state. 
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">11 May 2021 Update: Client version 151 (3515/3516)</h4>
+  {{ notice-update20210511 | markdownify }}
+</div>
+
 
 {% capture notice-update20210504 %}
 
@@ -31,41 +53,7 @@ Updated <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/). L
 </div>
 
 
-{% capture notice-update20210428 %}
 
-* New awakening for Revyaratan - [Ancient Sea Monster](https://eraofchaos.github.io/units/Revyaratan/#awaking)
-
-* New Exclusives for Units:
-  * [Knight Pike (Hell Hound)](https://eraofchaos.github.io/Exclusive/Hell%20Hound%20Knight%20Pike/)
-  * [Iris Shield (Walking Dead)](https://eraofchaos.github.io/Exclusive/Walking%20Dead%20Iris%20Shield/)
-
-* New Items:
-  * [Fishing Net](https://eraofchaos.github.io/Items/con_2148/)
-  * [Fishing Net x5](https://eraofchaos.github.io/Items/con_2143/)
-  * [Fishing Net x10](https://eraofchaos.github.io/Items/con_2144/)
-  * [Fishing Net x20](https://eraofchaos.github.io/Items/con_2145/)
-  * [Fishing Net x40](https://eraofchaos.github.io/Items/con_2146/)
-  * [Fishing Net x80](https://eraofchaos.github.io/Items/con_2147/)
-  * [Global Expedition: Regnan Archer Skin](https://eraofchaos.github.io/Items/con_2149/)
-
-* Update [Schedule](/Schedule/) (up to 18 May 2021)
-
-* New [Fishing Master](/Fishing Master/) Event:
-  * [Fishing Master](/Fishing Master/)
-  * [Fischermeister](/de/Fishing Master/)
-  * [Maître de la pêche](/fr/Fishing Master/)
-  * [Мастер рыбалки](/ru/Fishing Master/)
-  * [Maestro pescatore](/it/Fishing Master/)
-  * [Maestro pescador](/es/Fishing Master/)
-
-* Wiki updated to latest game state. 
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">28 April 2021 Update: Client version 151 (3459/3458)</h4>
-  {{ notice-update20210428 | markdownify }}
-</div>
 
 
 
@@ -101,8 +89,8 @@ You will find here:
 * <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
 * <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 
-* <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 18 May 2021)
-* <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 18 May 2021)
+* <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 1 June 2021)
+* <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 1 June 2021)
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts & Spell 2021](/Hotspot/)
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts 2021](/Hotspot/HotSpot Artifact _2021/)
 * <i class="fas fa-calendar-day"/> [Hotspot Spell 2021](/Hotspot/HotSpot Spell _2021/)

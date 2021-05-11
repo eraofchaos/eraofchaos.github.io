@@ -12,6 +12,42 @@ sidebar:
 
 ### Era Of Chaos - Game client update History
 
+{% capture notice-update20210428 %}
+
+* New awakening for Revyaratan - [Ancient Sea Monster](https://eraofchaos.github.io/units/Revyaratan/#awaking)
+
+* New Exclusives for Units:
+  * [Knight Pike (Hell Hound)](https://eraofchaos.github.io/Exclusive/Hell%20Hound%20Knight%20Pike/)
+  * [Iris Shield (Walking Dead)](https://eraofchaos.github.io/Exclusive/Walking%20Dead%20Iris%20Shield/)
+
+* New Items:
+  * [Fishing Net](https://eraofchaos.github.io/Items/con_2148/)
+  * [Fishing Net x5](https://eraofchaos.github.io/Items/con_2143/)
+  * [Fishing Net x10](https://eraofchaos.github.io/Items/con_2144/)
+  * [Fishing Net x20](https://eraofchaos.github.io/Items/con_2145/)
+  * [Fishing Net x40](https://eraofchaos.github.io/Items/con_2146/)
+  * [Fishing Net x80](https://eraofchaos.github.io/Items/con_2147/)
+  * [Global Expedition: Regnan Archer Skin](https://eraofchaos.github.io/Items/con_2149/)
+
+* Update [Schedule](/Schedule/) (up to 18 May 2021)
+
+* New [Fishing Master](/Fishing Master/) Event:
+  * [Fishing Master](/Fishing Master/)
+  * [Fischermeister](/de/Fishing Master/)
+  * [Maître de la pêche](/fr/Fishing Master/)
+  * [Мастер рыбалки](/ru/Fishing Master/)
+  * [Maestro pescatore](/it/Fishing Master/)
+  * [Maestro pescador](/es/Fishing Master/)
+
+* Wiki updated to latest game state. 
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">28 April 2021 Update: Client version 151 (3459/3458)</h4>
+  {{ notice-update20210428 | markdownify }}
+</div>
+
 {% capture notice-update20210420 %}
 
 * Next Commander - [Regnan Seer](https://eraofchaos.github.io/units/Regnan Seer/) (on 28 April), after it we are expecting - [Dragon Golem](https://eraofchaos.github.io/units/Dragon Golem/)
