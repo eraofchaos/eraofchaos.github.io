@@ -2,7 +2,7 @@
 title: "Basilisk's Neck Umbrella"
 permalink: /equipment/Basilisk's Neck Umbrella/
 excerpt: "Era of Chaos Basilisk's Neck Umbrella. Basilisk's Neck Umbrella"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Basilisk's Neck Umbrella.md"
 toc: false

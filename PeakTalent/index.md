@@ -2,7 +2,7 @@
 title: "Peak Talent"
 permalink: /PeakTalent/
 excerpt: "Era of Chaos Peak Talent. Peak Talent. Peak Talents will be available at Lv.110"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "index.md"
 toc: false

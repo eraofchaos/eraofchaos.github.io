@@ -2,7 +2,7 @@
 title: "Hard Bone"
 permalink: /equipment/Hard Bone/
 excerpt: "Era of Chaos Hard Bone. Hard Bone"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Hard Bone.md"
 toc: false

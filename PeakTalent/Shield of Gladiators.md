@@ -2,7 +2,7 @@
 title: "Shield of Gladiators. Peak Talent - Shield of Gladiators"
 permalink: /PeakTalent/Shield of Gladiators/
 excerpt: "Era of Chaos Peak Talent Shield of Gladiators. Peak Talent Shield of Gladiators. Shield of Gladiators"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Shield of Gladiators.md"
 toc: false

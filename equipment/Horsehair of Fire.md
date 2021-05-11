@@ -2,7 +2,7 @@
 title: "Horsehair of Fire"
 permalink: /equipment/Horsehair of Fire/
 excerpt: "Era of Chaos Horsehair of Fire. Horsehair of Fire"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Horsehair of Fire.md"
 toc: false

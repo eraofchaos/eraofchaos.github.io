@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 Deal with the Demon"
 permalink: /Main Story/Chapter 29/
 excerpt: "Chapter 29. Era of Chaos  Main Story - Chapter 29. Deal with the Demon"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 29.md"
 toc: false

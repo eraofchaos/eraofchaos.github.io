@@ -2,7 +2,7 @@
 title: "Ferocious Fangs"
 permalink: /equipment/Ferocious Fangs/
 excerpt: "Era of Chaos Ferocious Fangs. Ferocious Fangs"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Ferocious Fangs.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ocean's Arbalest"
 permalink: /equipment/Ocean's Arbalest/
 excerpt: "Era of Chaos Ocean's Arbalest. Ocean's Arbalest"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Ocean's Arbalest.md"
 toc: false

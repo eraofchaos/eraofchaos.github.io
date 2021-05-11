@@ -2,7 +2,7 @@
 title: "Avatar Frame & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatar Frame & Avatar. Avatar Frame & Avatar"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "index.md"
 toc: false
@@ -87,7 +87,7 @@ classes: wide
   | 74 | ![Ruler of Sky](/images/a/avatarFrame_41.png) | [Ruler of Sky](/Avatars/Ruler of Sky/) | + | Ruler of Sky Avatar Frame |
   | 75 | ![Ruler of Void](/images/a/avatarFrame_42.png) | [Ruler of Void](/Avatars/Ruler of Void/) | + | Ruler of Void Avatar Frame |
   | 76 | ![Semi-annual Celebration](/images/a/avatarFrame_50.png) | [Semi-annual Celebration](/Avatars/Semi-annual Celebration/) | + | Semi-annual Celebration Exclusive Avatar Frame |
-  | 77 | ![Shadow of Beast](/images/a/avatarFrame_79.png) | [Shadow of Beast](/Avatars/Shadow of Beast/) | - | Shadow of Beast Avatar Frame |
+  | 77 | ![Shadow of Beast](/images/a/avatarFrame_79.png) | [Shadow of Beast](/Avatars/Shadow of Beast/) | + | Shadow of Beast Avatar Frame |
   | 78 | ![Shadow of Ghosts](/images/a/avatarFrame_78.png) | [Shadow of Ghosts](/Avatars/Shadow of Ghosts/) | - | Shadow of Ghosts Avatar Frame |
   | 79 |  | [Shadow of Ice Kingdom Dragon](/Avatars/Shadow of Ice Kingdom Dragon/) | - | Shadow of Ice Kingdom Dragon Avatar Frame |
   | 80 | ![Social Butterfly](/images/a/avatarFrame_31.png) | [Social Butterfly](/Avatars/Social Butterfly/) | - |  |

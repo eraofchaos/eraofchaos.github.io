@@ -2,7 +2,7 @@
 title: "Underground - Chapter 6 Fall of the Capital"
 permalink: /Underground/Chapter 6/
 excerpt: "Chapter 6 Fall of the Capital. Era of Chaos  Underground - Chapter 6. Fall of the Capital"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 6.md"
 toc: false

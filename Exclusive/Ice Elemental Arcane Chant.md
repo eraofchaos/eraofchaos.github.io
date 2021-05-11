@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant (Ice Elemental)"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Ice Elemental Exclusive."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Ice Elemental Arcane Chant.md"
 toc: false

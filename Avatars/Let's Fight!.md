@@ -2,7 +2,7 @@
 title: "Avatar - Let's Fight!"
 permalink: /Avatars/Let's Fight!/
 excerpt: "Era of Chaos  Let's Fight!"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Let's Fight!.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 19 - 19-10 Memory Magic"
 permalink: /Main Story/Chapter 19_10/
 excerpt: "Chapter 19 - 10. Era of Chaos  Main Story - Chapter 19_10. 19-10 Memory Magic"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 19_10.md"
 toc: false

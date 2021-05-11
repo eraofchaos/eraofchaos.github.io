@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 2 - 2-4 The Magic Well"
 permalink: /Main Story/Chapter 2_4/
 excerpt: "Chapter 2 - 4. Era of Chaos  Main Story - Chapter 2_4. 2-4 The Magic Well"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 2_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Faction Secrets. Peak Talent - Faction Secrets"
 permalink: /PeakTalent/Faction Secrets/
 excerpt: "Era of Chaos Peak Talent Faction Secrets. Peak Talent Faction Secrets. Faction Secrets"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Faction Secrets.md"
 toc: false

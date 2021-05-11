@@ -2,7 +2,7 @@
 title: "Writhing Snake Hair"
 permalink: /equipment/Writhing Snake Hair/
 excerpt: "Era of Chaos Writhing Snake Hair. Writhing Snake Hair"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Writhing Snake Hair.md"
 toc: false

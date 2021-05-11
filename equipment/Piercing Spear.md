@@ -2,7 +2,7 @@
 title: "Piercing Spear"
 permalink: /equipment/Piercing Spear/
 excerpt: "Era of Chaos Piercing Spear. Piercing Spear"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Piercing Spear.md"
 toc: false

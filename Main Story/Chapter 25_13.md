@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 - 25-13 Nighon Legends"
 permalink: /Main Story/Chapter 25_13/
 excerpt: "Chapter 25 - 13. Era of Chaos  Main Story - Chapter 25_13. 25-13 Nighon Legends"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 25_13.md"
 toc: false

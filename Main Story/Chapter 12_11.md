@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-11 Stand Together"
 permalink: /Main Story/Chapter 12_11/
 excerpt: "Chapter 12 - 11. Era of Chaos  Main Story - Chapter 12_11. 12-11 Stand Together"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 12_11.md"
 toc: false

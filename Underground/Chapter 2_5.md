@@ -2,7 +2,7 @@
 title: "Underground - Chapter 2 - 2-5 Finding Allies"
 permalink: /Underground/Chapter 2_5/
 excerpt: "Chapter 2 - 5. Era of Chaos  Underground - Chapter 2_5. 2-5 Finding Allies"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 2_5.md"
 toc: false

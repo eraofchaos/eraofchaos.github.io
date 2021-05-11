@@ -2,7 +2,7 @@
 title: "Exclusive - Sword (Pit Fiend)"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Pit Fiend Exclusive."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Pit Fiend Sword.md"
 toc: false

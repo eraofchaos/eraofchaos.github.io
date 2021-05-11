@@ -2,7 +2,7 @@
 title: "Underground - Chapter 24 - 24-3 Power of Lightning"
 permalink: /Underground/Chapter 24_3/
 excerpt: "Chapter 24 - 3. Era of Chaos  Underground - Chapter 24_3. 24-3 Power of Lightning"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 24_3.md"
 toc: false

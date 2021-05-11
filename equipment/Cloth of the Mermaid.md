@@ -2,7 +2,7 @@
 title: "Cloth of the Mermaid"
 permalink: /equipment/Cloth of the Mermaid/
 excerpt: "Era of Chaos Cloth of the Mermaid. Cloth of the Mermaid"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Cloth of the Mermaid.md"
 toc: false

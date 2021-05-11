@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 21  Tower Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **24 May** | **5x [Gremlin](/Items/unt_235/)**  | A squad of Gremlin joined your army and you become stronger! |
+  | **25 May** | **3x [Stone Gargoyle](/Items/unt_236/)**  | A squad of Stone Gargoyle joined your army and you become stronger! |
+  | **26 May** | **100x <i class="fas fa-gem"/>**  | You got some unexpected surprises during your study of alchemy! |
+  | **27 May** | **3x [Iron Golem](/Items/unt_237/)**  | A squad of Iron Golem joined your army and you become stronger! |
+  | **28 May** | **3x [Tower Unit Chest](/Items/con_1274/)**  | You discovered several beautiful chests in the Tower's arcane laboratory! |
+  | **29 May** | **3x [Mage](/Items/unt_238/)**  | A squad of Mage joined your army and you become stronger! |
+  | **30 May** | **5x [Solmyr](/Items/her_386/)**  | Your research of the Arcane has attracted Solmyr to join your army! |
+
 
 #### 2021 Week 20  Rampart Week
 

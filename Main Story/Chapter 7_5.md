@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-5 A Land at War"
 permalink: /Main Story/Chapter 7_5/
 excerpt: "Chapter 7 - 5. Era of Chaos  Main Story - Chapter 7_5. 7-5 A Land at War"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 7_5.md"
 toc: false

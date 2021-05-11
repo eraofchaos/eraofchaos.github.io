@@ -3,7 +3,7 @@ title: "Gorgon"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Gorgon. Gorgon Units. Mighty Gorgon. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Gorgon"
 toc: true
@@ -194,7 +194,7 @@ toc: true
   ![Mighty Gorgon](/images/u/tia_manniu.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Mighty Gorgon
 
@@ -224,10 +224,10 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Uncivilized Curse&gt;</span><span style="color: #645252;font-size:18px">Decreases hostile units' ATK speed by 20%. When dying, petrifies surrounding units within a certain range for 8s and permanently decreases ATK speed of hostile non-Fortress units by 3%. Stacks up to 4 times</span>
 
 ### 5th Skill (or 6th): Marsh King
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Marsh Overlord&gt;</span><span style="color: #645252;font-size:18px">When taking single damage, the Gorgon will be immune to all damage that exceeds 20% of its Max HP. Decreases non-Fortress hostile units' ATK speed by 10% and healing by 30% when the Gorgon is on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Marsh Overlord&gt;</span><span style="color: #645252;font-size:18px"> Gorgon increases its DEF by 10% and decreases non-Fortress enemy units' Attack Speed by 20% and healing received by 30% when Gorgon is on the battlefield.</span>
 
 ### 6th Skill (or 5th): Marsh Lord
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Marsh Overlord&gt;</span><span style="color: #645252;font-size:18px">When taking single damage, the Gorgon will be immune to all damage that exceeds 20% of its Max HP. Increases ATK speed of all friendly units by 20% when a Gorgon is on the battlefield</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Marsh Overlord&gt;</span><span style="color: #645252;font-size:18px"> Gorgon increases its DEF by 10% and increases all friendly units' Attack Speed by 35% when Gorgon is on the battlefield.</span>
 
 ## Technical info
  **runart:** 1

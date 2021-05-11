@@ -2,7 +2,7 @@
 title: "Rams-head Staff"
 permalink: /equipment/Rams-head Staff/
 excerpt: "Era of Chaos Rams-head Staff. Rams-head Staff"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Rams-head Staff.md"
 toc: false

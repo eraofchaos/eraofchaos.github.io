@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield (Centaur)"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Centaur Exclusive."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Centaur Iris Shield.md"
 toc: false

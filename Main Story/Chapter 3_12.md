@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-12 Red Wood Tower"
 permalink: /Main Story/Chapter 3_12/
 excerpt: "Chapter 3 - 12. Era of Chaos  Main Story - Chapter 3_12. 3-12 Red Wood Tower"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 3_12.md"
 toc: false

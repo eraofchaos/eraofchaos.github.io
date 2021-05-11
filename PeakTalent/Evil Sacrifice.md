@@ -2,7 +2,7 @@
 title: "Evil Sacrifice. Peak Talent - Evil Sacrifice"
 permalink: /PeakTalent/Evil Sacrifice/
 excerpt: "Era of Chaos Peak Talent Evil Sacrifice. Peak Talent Evil Sacrifice. Evil Sacrifice"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Evil Sacrifice.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Shield of Protection"
 permalink: /equipment/Shield of Protection/
 excerpt: "Era of Chaos Shield of Protection. Shield of Protection"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Shield of Protection.md"
 toc: false

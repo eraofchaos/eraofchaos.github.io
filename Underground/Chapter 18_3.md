@@ -2,7 +2,7 @@
 title: "Underground - Chapter 18 - 18-3 Race Restriction"
 permalink: /Underground/Chapter 18_3/
 excerpt: "Chapter 18 - 3. Era of Chaos  Underground - Chapter 18_3. 18-3 Race Restriction"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 18_3.md"
 toc: false

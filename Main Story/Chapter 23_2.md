@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-2 The Sparkling Object"
 permalink: /Main Story/Chapter 23_2/
 excerpt: "Chapter 23 - 2. Era of Chaos  Main Story - Chapter 23_2. 23-2 The Sparkling Object"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 23_2.md"
 toc: false

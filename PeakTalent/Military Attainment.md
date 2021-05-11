@@ -2,7 +2,7 @@
 title: "Military Attainment. Peak Talent - Military Attainment"
 permalink: /PeakTalent/Military Attainment/
 excerpt: "Era of Chaos Peak Talent Military Attainment. Peak Talent Military Attainment. Military Attainment"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Military Attainment.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hotspot Spells for August 2021"
 permalink: /Hotspot/HotSpot Spell August_2021/
 excerpt: "Spells Hotspot for August 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "HotSpot Spell August_2021.md"
 toc: false

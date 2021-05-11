@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-12 Magic Faction"
 permalink: /Main Story/Chapter 20_12/
 excerpt: "Chapter 20 - 12. Era of Chaos  Main Story - Chapter 20_12. 20-12 Magic Faction"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 20_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Favor of the Gods (14 Days)"
 permalink: /Avatars/Favor of the Gods (14 Days)/
 excerpt: "Era of Chaos  Favor of the Gods (14 Days)"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Favor of the Gods (14 Days).md"
 toc: false

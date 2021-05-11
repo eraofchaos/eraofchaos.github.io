@@ -2,7 +2,7 @@
 title: "Artifacts - Lucky Horseshoe - Clover of Fortune"
 permalink: /artifacts/Clover of Fortune/
 excerpt: "Era of Chaos  Lucky Horseshoe - Clover of Fortune. A clover that brings great fortune. One of the components of the Lucky Horseshoe."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Clover of Fortune.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Fate Dominator (14 Days)"
 permalink: /Avatars/Fate Dominator (14 Days)/
 excerpt: "Era of Chaos  Fate Dominator (14 Days)"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Fate Dominator (14 Days).md"
 toc: false

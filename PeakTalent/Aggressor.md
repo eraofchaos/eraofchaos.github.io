@@ -2,7 +2,7 @@
 title: "Aggressor. Peak Talent - Aggressor"
 permalink: /PeakTalent/Aggressor/
 excerpt: "Era of Chaos Peak Talent Aggressor. Peak Talent Aggressor. Aggressor"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Aggressor.md"
 toc: false

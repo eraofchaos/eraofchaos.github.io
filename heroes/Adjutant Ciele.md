@@ -2,7 +2,7 @@
 title: "Adjutant Ciele"
 permalink: /heroes/Adjutant Ciele/
 excerpt: "Era of Chaos  Adjutant Ciele"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Adjutant Ciele.md"
 QR: adhero_60705

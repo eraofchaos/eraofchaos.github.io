@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-6 Dwarf Tavern"
 permalink: /Main Story/Chapter 17_6/
 excerpt: "Chapter 17 - 6. Era of Chaos  Main Story - Chapter 17_6. 17-6 Dwarf Tavern"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 17_6.md"
 toc: false

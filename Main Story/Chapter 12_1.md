@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-1 Forbidden Pact"
 permalink: /Main Story/Chapter 12_1/
 excerpt: "Chapter 12 - 1. Era of Chaos  Main Story - Chapter 12_1. 12-1 Forbidden Pact"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 12_1.md"
 toc: false

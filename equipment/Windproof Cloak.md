@@ -2,7 +2,7 @@
 title: "Windproof Cloak"
 permalink: /equipment/Windproof Cloak/
 excerpt: "Era of Chaos Windproof Cloak. Windproof Cloak"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Windproof Cloak.md"
 toc: false

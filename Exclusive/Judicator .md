@@ -2,7 +2,7 @@
 title: "Exclusive -  (Judicator)"
 permalink: /Exclusive/Judicator /
 excerpt: "Era of Chaos . . Era of Chaos Exclusive . Judicator Exclusive."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Judicator .md"
 toc: false

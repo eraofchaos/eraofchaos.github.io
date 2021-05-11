@@ -2,7 +2,7 @@
 title: "Scalding Bracers"
 permalink: /equipment/Scalding Bracers/
 excerpt: "Era of Chaos Scalding Bracers. Scalding Bracers"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Scalding Bracers.md"
 toc: false

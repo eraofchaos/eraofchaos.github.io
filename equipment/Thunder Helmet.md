@@ -2,7 +2,7 @@
 title: "Thunder Helmet"
 permalink: /equipment/Thunder Helmet/
 excerpt: "Era of Chaos Thunder Helmet. Thunder Helmet"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Thunder Helmet.md"
 toc: false

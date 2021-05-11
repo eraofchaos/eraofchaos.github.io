@@ -2,7 +2,7 @@
 title: "Heavy Helm of Pre-life"
 permalink: /equipment/Heavy Helm of Pre-life/
 excerpt: "Era of Chaos Heavy Helm of Pre-life. Heavy Helm of Pre-life"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Heavy Helm of Pre-life.md"
 toc: false

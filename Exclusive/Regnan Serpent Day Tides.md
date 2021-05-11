@@ -2,7 +2,7 @@
 title: "Exclusive - Day Tides (Regnan Serpent)"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Day Tides. Day Tides. Era of Chaos Exclusive Day Tides. Regnan Serpent Exclusive."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Regnan Serpent Day Tides.md"
 toc: false

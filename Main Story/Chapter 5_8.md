@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-8 Narrow Escape"
 permalink: /Main Story/Chapter 5_8/
 excerpt: "Chapter 5 - 8. Era of Chaos  Main Story - Chapter 5_8. 5-8 Narrow Escape"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 5_8.md"
 toc: false

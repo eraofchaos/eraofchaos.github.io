@@ -2,7 +2,7 @@
 title: "Avatar - Dungeon"
 permalink: /Avatars/Dungeon/
 excerpt: "Era of Chaos  Dungeon"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Dungeon.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 19 - 19-4 Sing the Lyrics"
 permalink: /Main Story/Chapter 19_4/
 excerpt: "Chapter 19 - 4. Era of Chaos  Main Story - Chapter 19_4. 19-4 Sing the Lyrics"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 19_4.md"
 toc: false

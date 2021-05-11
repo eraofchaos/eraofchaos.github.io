@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 14 - 14-4 The Unexpected"
 permalink: /Main Story/Chapter 14_4/
 excerpt: "Chapter 14 - 4. Era of Chaos  Main Story - Chapter 14_4. 14-4 The Unexpected"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 14_4.md"
 toc: false

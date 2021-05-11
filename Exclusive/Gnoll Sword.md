@@ -2,7 +2,7 @@
 title: "Exclusive - Sword (Gnoll)"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Gnoll Exclusive."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Gnoll Sword.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artifacts - Archmage's Codex - Ring of Flares"
 permalink: /artifacts/Ring of Flares/
 excerpt: "Era of Chaos  Archmage's Codex - Ring of Flares. A ring with magic flowing on its surface. One of the Archmage's Codex."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Ring of Flares.md"
 toc: false

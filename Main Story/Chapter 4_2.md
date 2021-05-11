@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 4 - 4-2 Abandoned House"
 permalink: /Main Story/Chapter 4_2/
 excerpt: "Chapter 4 - 2. Era of Chaos  Main Story - Chapter 4_2. 4-2 Abandoned House"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Chapter 4_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "The Lightness of the Wind"
 permalink: /equipment/The Lightness of the Wind/
 excerpt: "Era of Chaos The Lightness of the Wind. The Lightness of the Wind"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "The Lightness of the Wind.md"
 toc: false

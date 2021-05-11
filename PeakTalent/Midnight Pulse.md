@@ -2,7 +2,7 @@
 title: "Midnight Pulse. Peak Talent - Midnight Pulse"
 permalink: /PeakTalent/Midnight Pulse/
 excerpt: "Era of Chaos Peak Talent Midnight Pulse. Peak Talent Midnight Pulse. Midnight Pulse"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: en
 ref: "Midnight Pulse.md"
 toc: false
