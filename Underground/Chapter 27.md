@@ -2,7 +2,7 @@
 title: "Underground - Chapter 27 The Pilgrim's Way"
 permalink: /Underground/Chapter 27/
 excerpt: "Chapter 27 The Pilgrim's Way. Era of Chaos  Underground - Chapter 27. The Pilgrim's Way"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 27.md"
 toc: false

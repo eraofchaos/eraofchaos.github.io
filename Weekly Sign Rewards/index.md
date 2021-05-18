@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 22  Castle Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **31 May** | **5x [Pikeman](/Items/unt_190/)**  | A squad of Pikemen joined your army and you become stronger! |
+  | **1 Jun** | **5x [Marksman](/Items/unt_191/)**  | A squad of Marksman joined your army and you become stronger! |
+  | **2 Jun** | **3x [Swordsman](/Items/unt_193/)**  | A squad of Swordsmen joined your army and you become stronger! |
+  | **3 Jun** | **3x [Griffin](/Items/unt_192/)**  | A squad of Griffin joined your army and you become stronger! |
+  | **4 Jun** | **3x [Monk](/Items/unt_194/)**  | A squad of Monk joined your army and you become stronger! |
+  | **5 Jun** | **3x [Cavalier ](/Items/unt_195/)**  | A squad of Cavalier joined your army and you become stronger! |
+  | **6 Jun** | **5x [Adelaide](/Items/her_359/)**  | A Mage who controls the power of snow has visited your territory! |
+
 
 #### 2021 Week 21  Tower Week
 

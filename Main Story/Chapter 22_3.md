@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 22 - 22-3 Brave Advance"
 permalink: /Main Story/Chapter 22_3/
 excerpt: "Chapter 22 - 3. Era of Chaos  Main Story - Chapter 22_3. 22-3 Brave Advance"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 22_3.md"
 toc: false

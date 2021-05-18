@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-4 Prohibition Act"
 permalink: /Main Story/Chapter 21_4/
 excerpt: "Chapter 21 - 4. Era of Chaos  Main Story - Chapter 21_4. 21-4 Prohibition Act"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 21_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 Extend Lead"
 permalink: /Main Story/Chapter 26/
 excerpt: "Chapter 26. Era of Chaos  Main Story - Chapter 26. Extend Lead"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 26.md"
 toc: false

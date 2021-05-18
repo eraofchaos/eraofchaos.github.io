@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow (Cyclops)"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Cyclops Exclusive."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Cyclops Long Bow.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Long Bow Token](/Items/con_914/) | <Boulder Throwing> throws rocks that cause damage equal to 200% of Max HP to all enemies within the target area. It can be triggered once every 15s. |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_914/) | <Boulder Throwing> Throws rocks that cause damage equal to 120% of his ATK to all enemies within the target area and inflicts Stun on them for 4s. It can be triggered once every 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_914/) | Use <Boulder Throwing> once when Cyclops launches its first attack |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_914/) | Increases Cyclops' unit's damage and ATK speed by 20% |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_914/) | When its HP drops below 30% for the first time, the Cyclops unleashes Earthshaker once, increasing its ATK speed permanently by 25% |

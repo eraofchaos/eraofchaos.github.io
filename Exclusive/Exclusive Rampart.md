@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Exclusive Rampart. Exclusive Rampart. List of Exclusive Rampart in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Exclusive Rampart"
 toc: false
@@ -23,6 +23,6 @@ classes: wide
   | 4  | [Pegasus](/units/Pegasus/) | [Long Bow](/Exclusive/Pegasus Long Bow/) | + | Charge | [Long Bow Token](/Items/con_914/) | - |
   | 5  | [Dendroid Guard](/units/Dendroid Guard/) | [Iris Shield](/Exclusive/Dendroid Guard Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
   | 6  | [Unicorn](/units/Unicorn/) | [Knight Pike](/Exclusive/Unicorn Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_916/) | - |
-  | 7  | [Green Dragon](/units/Green Dragon/) | [Resplendent Dragonwing](/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Support | [Resplendent Dragonwing Token](/Items/con_976/) | [Resplendent Dragonwing Special Skin](/Items/con_644/) |
+  | 7  | [Green Dragon](/units/Green Dragon/) | [Resplendent Dragonwing](/Exclusive/Green Dragon Resplendent Dragonwing/) | + | Support | [Resplendent Dragonwing Token](/Items/con_976/) | [Resplendent Dragonwing Special Skin](/Items/con_644/) |
   | 8  | [Druid](/units/Druid/) | [Staff of Regrowth](/Exclusive/Druid Staff of Regrowth/) | - | Ranged | [Staff of Regrowth Token](/Items/con_977/) | [Staff of Regrowth Special Skin](/Items/con_645/) |
   | 9  | [Mantis](/units/Mantis/) | - | - | - | none | none |

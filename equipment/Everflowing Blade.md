@@ -2,7 +2,7 @@
 title: "Everflowing Blade"
 permalink: /equipment/Everflowing Blade/
 excerpt: "Era of Chaos Everflowing Blade. Everflowing Blade"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Everflowing Blade.md"
 toc: false

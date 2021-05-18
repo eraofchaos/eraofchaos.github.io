@@ -2,7 +2,7 @@
 title: "Trousers of Decay"
 permalink: /equipment/Trousers of Decay/
 excerpt: "Era of Chaos Trousers of Decay. Trousers of Decay"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Trousers of Decay.md"
 toc: false

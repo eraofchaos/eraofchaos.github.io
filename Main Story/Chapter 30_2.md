@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-2 Dilapidated Hut"
 permalink: /Main Story/Chapter 30_2/
 excerpt: "Chapter 30 - 2. Era of Chaos  Main Story - Chapter 30_2. 30-2 Dilapidated Hut"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 30_2.md"
 toc: false

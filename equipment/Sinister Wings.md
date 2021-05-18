@@ -2,7 +2,7 @@
 title: "Sinister Wings"
 permalink: /equipment/Sinister Wings/
 excerpt: "Era of Chaos Sinister Wings. Sinister Wings"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Sinister Wings.md"
 toc: false

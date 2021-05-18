@@ -2,7 +2,7 @@
 title: "Hunting Longbow"
 permalink: /equipment/Hunting Longbow/
 excerpt: "Era of Chaos Hunting Longbow. Hunting Longbow"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Hunting Longbow.md"
 toc: false

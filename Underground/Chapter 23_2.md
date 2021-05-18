@@ -2,7 +2,7 @@
 title: "Underground - Chapter 23 - 23-2 Power of Defense"
 permalink: /Underground/Chapter 23_2/
 excerpt: "Chapter 23 - 2. Era of Chaos  Underground - Chapter 23_2. 23-2 Power of Defense"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 23_2.md"
 toc: false

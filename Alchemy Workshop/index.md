@@ -2,7 +2,7 @@
 title: "Alchemy Workshop"
 permalink: /Alchemy Workshop/
 excerpt: "Alchemy Workshop.The Alchemy Workshop is a truly wonderful place. It not only gathers the wisdom of different races, but also invents amazing things one after another."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "index.md"
 toc: false

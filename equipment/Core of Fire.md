@@ -2,7 +2,7 @@
 title: "Core of Fire"
 permalink: /equipment/Core of Fire/
 excerpt: "Era of Chaos Core of Fire. Core of Fire"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Core of Fire.md"
 toc: false

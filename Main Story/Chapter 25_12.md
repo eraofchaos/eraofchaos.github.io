@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 - 25-12 Combat Academy"
 permalink: /Main Story/Chapter 25_12/
 excerpt: "Chapter 25 - 12. Era of Chaos  Main Story - Chapter 25_12. 25-12 Combat Academy"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 25_12.md"
 toc: false

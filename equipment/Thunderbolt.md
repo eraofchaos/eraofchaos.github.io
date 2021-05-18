@@ -2,7 +2,7 @@
 title: "Thunderbolt"
 permalink: /equipment/Thunderbolt/
 excerpt: "Era of Chaos Thunderbolt. Thunderbolt"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Thunderbolt.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sylvan Longbow"
 permalink: /equipment/Sylvan Longbow/
 excerpt: "Era of Chaos Sylvan Longbow. Sylvan Longbow"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Sylvan Longbow.md"
 toc: false

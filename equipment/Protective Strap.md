@@ -2,7 +2,7 @@
 title: "Protective Strap"
 permalink: /equipment/Protective Strap/
 excerpt: "Era of Chaos Protective Strap. Protective Strap"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Protective Strap.md"
 toc: false

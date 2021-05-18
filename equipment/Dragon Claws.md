@@ -2,7 +2,7 @@
 title: "Dragon Claws"
 permalink: /equipment/Dragon Claws/
 excerpt: "Era of Chaos Dragon Claws. Dragon Claws"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Dragon Claws.md"
 toc: false

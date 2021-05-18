@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-14 Guard of Dragon Blood"
 permalink: /Main Story/Chapter 27_14/
 excerpt: "Chapter 27 - 14. Era of Chaos  Main Story - Chapter 27_14. 27-14 Guard of Dragon Blood"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 27_14.md"
 toc: false

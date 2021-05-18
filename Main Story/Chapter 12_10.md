@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-10 Sanctuary"
 permalink: /Main Story/Chapter 12_10/
 excerpt: "Chapter 12 - 10. Era of Chaos  Main Story - Chapter 12_10. 12-10 Sanctuary"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 12_10.md"
 toc: false

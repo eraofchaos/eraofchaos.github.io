@@ -2,7 +2,7 @@
 title: "Sword of Kingdom. Peak Talent - Sword of Kingdom"
 permalink: /PeakTalent/Sword of Kingdom/
 excerpt: "Era of Chaos Peak Talent Sword of Kingdom. Peak Talent Sword of Kingdom. Sword of Kingdom"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Sword of Kingdom.md"
 toc: false

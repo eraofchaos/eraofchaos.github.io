@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-8 The Scout's Whereabouts"
 permalink: /Main Story/Chapter 23_8/
 excerpt: "Chapter 23 - 8. Era of Chaos  Main Story - Chapter 23_8. 23-8 The Scout's Whereabouts"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 23_8.md"
 toc: false

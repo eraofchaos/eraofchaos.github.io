@@ -2,7 +2,7 @@
 title: "Combination Info for High Morale"
 permalink: /combination/High Morale/
 excerpt: "Combination Info - High Morale. Units and Heroes Formation."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "High Morale.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 22 Crystal Dragon"
 permalink: /Main Story/Chapter 22/
 excerpt: "Chapter 22. Era of Chaos  Main Story - Chapter 22. Crystal Dragon"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 22.md"
 toc: false

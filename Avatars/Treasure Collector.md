@@ -2,7 +2,7 @@
 title: "Avatar - Treasure Collector"
 permalink: /Avatars/Treasure Collector/
 excerpt: "Era of Chaos  Treasure Collector"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Treasure Collector.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Dance of the Blades"
 permalink: /Avatars/Dance of the Blades/
 excerpt: "Era of Chaos  Dance of the Blades"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Dance of the Blades.md"
 toc: false

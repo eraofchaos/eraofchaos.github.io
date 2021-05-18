@@ -2,7 +2,7 @@
 title: "Arcane Spell. Peak Talent - Arcane Spell"
 permalink: /PeakTalent/Arcane Spell/
 excerpt: "Era of Chaos Peak Talent Arcane Spell. Peak Talent Arcane Spell. Arcane Spell"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Arcane Spell.md"
 toc: false

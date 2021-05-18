@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-6 Underground Compromise"
 permalink: /Main Story/Chapter 11_6/
 excerpt: "Chapter 11 - 6. Era of Chaos  Main Story - Chapter 11_6. 11-6 Underground Compromise"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 11_6.md"
 toc: false

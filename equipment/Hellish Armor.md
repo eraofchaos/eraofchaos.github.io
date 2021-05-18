@@ -2,7 +2,7 @@
 title: "Hellish Armor"
 permalink: /equipment/Hellish Armor/
 excerpt: "Era of Chaos Hellish Armor. Hellish Armor"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Hellish Armor.md"
 toc: false

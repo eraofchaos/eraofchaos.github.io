@@ -2,7 +2,7 @@
 title: "Medal of Gods. Peak Talent - Medal of Gods"
 permalink: /PeakTalent/Medal of Gods/
 excerpt: "Era of Chaos Peak Talent Medal of Gods. Peak Talent Medal of Gods. Medal of Gods"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Medal of Gods.md"
 toc: false

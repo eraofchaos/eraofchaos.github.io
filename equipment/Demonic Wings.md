@@ -2,7 +2,7 @@
 title: "Demonic Wings"
 permalink: /equipment/Demonic Wings/
 excerpt: "Era of Chaos Demonic Wings. Demonic Wings"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Demonic Wings.md"
 toc: false

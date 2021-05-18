@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-1 Immortality"
 permalink: /Main Story/Chapter 20_1/
 excerpt: "Chapter 20 - 1. Era of Chaos  Main Story - Chapter 20_1. 20-1 Immortality"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 20_1.md"
 toc: false

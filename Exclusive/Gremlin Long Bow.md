@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow (Gremlin)"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Gremlin Exclusive."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Gremlin Long Bow.md"
 toc: false

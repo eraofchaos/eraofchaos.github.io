@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "index.md"
 toc: false
@@ -51,7 +51,7 @@ classes: wide
   | 29 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/units/Goblin/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 30 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/units/Gog/) | Caster | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 31 | ![Gorgon](/images/u/ti_manniu.jpg) | [Gorgon](/units/Gorgon/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mighty Gorgon  |
-  | 32 | ![Green Dragon](/images/u/ti_lvlong.jpg) | [Green Dragon](/units/Green Dragon/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Gold Dragon  |
+  | 32 | ![Green Dragon](/images/u/ti_lvlong.jpg) | [Green Dragon](/units/Green Dragon/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Gold Dragon  |
   | 33 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/units/Gremlin/) | Ranged | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 34 | ![Griffin](/images/u/ti_shijiu.jpg) | [Griffin](/units/Griffin/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Royal Griffin  |
   | 35 | ![Harpy](/images/u/ti_yingshenren.jpg) | [Harpy](/units/Harpy/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpy Hag  |

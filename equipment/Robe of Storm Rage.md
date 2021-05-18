@@ -2,7 +2,7 @@
 title: "Robe of Storm Rage"
 permalink: /equipment/Robe of Storm Rage/
 excerpt: "Era of Chaos Robe of Storm Rage. Robe of Storm Rage"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Robe of Storm Rage.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-13 Mercenary Training Camp"
 permalink: /Main Story/Chapter 29_13/
 excerpt: "Chapter 29 - 13. Era of Chaos  Main Story - Chapter 29_13. 29-13 Mercenary Training Camp"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 29_13.md"
 toc: false

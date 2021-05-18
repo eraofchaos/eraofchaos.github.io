@@ -2,7 +2,7 @@
 title: "Avatar - Warm Christmas"
 permalink: /Avatars/Warm Christmas/
 excerpt: "Era of Chaos  Warm Christmas"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Warm Christmas.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 - 8-9 Elven Homesteads"
 permalink: /Main Story/Chapter 8_9/
 excerpt: "Chapter 8 - 9. Era of Chaos  Main Story - Chapter 8_9. 8-9 Elven Homesteads"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 8_9.md"
 toc: false

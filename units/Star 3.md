@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Star 3"
 toc: false
@@ -46,7 +46,7 @@ classes: wide
   | 32 | ![Black Dragon](/images/u/ti_heilong.jpg) | [Black Dragon](/units/Black Dragon/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Black Dragon King  |
   | 33 | ![Judicator](/images/u/ti_shenpanguan.jpg) | [Judicator](/units/Judicator/) | Caster | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 34 | ![Red Dragon](/images/u/ti_chilong.jpg) | [Red Dragon](/units/Red Dragon/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 35 | ![Green Dragon](/images/u/ti_lvlong.jpg) | [Green Dragon](/units/Green Dragon/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Gold Dragon  |
+  | 35 | ![Green Dragon](/images/u/ti_lvlong.jpg) | [Green Dragon](/units/Green Dragon/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Gold Dragon  |
   | 36 | ![Gorgon](/images/u/ti_manniu.jpg) | [Gorgon](/units/Gorgon/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mighty Gorgon  |
   | 37 | ![Evil Sorceress](/images/u/ti_xiemonv.jpg) | [Evil Sorceress](/units/Evil Sorceress/) | Charging | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 38 | ![Wyvern](/images/u/ti_feilong.jpg) | [Wyvern](/units/Wyvern/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Wyvern Monarch  |

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 1 - 1-1 Island Guards"
 permalink: /Main Story/Chapter 1_1/
 excerpt: "Chapter 1 - 1. Era of Chaos  Main Story - Chapter 1_1. 1-1 Island Guards"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 1_1.md"
 toc: false

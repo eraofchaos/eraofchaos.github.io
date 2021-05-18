@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-13 Brothers in Suffering"
 permalink: /Main Story/Chapter 21_13/
 excerpt: "Chapter 21 - 13. Era of Chaos  Main Story - Chapter 21_13. 21-13 Brothers in Suffering"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 21_13.md"
 toc: false

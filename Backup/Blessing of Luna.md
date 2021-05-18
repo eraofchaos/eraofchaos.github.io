@@ -2,7 +2,7 @@
 title: "Backup - Blessing of Luna"
 permalink: /Backup/Blessing of Luna/
 excerpt: "Era of Chaos  Blessing of Luna"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Blessing of Luna.md"
 toc: false

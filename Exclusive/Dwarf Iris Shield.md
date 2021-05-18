@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield (Dwarf)"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Dwarf Exclusive."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Dwarf Iris Shield.md"
 toc: false

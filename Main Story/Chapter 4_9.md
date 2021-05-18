@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 4 - 4-9 Survey Tower"
 permalink: /Main Story/Chapter 4_9/
 excerpt: "Chapter 4 - 9. Era of Chaos  Main Story - Chapter 4_9. 4-9 Survey Tower"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 4_9.md"
 toc: false

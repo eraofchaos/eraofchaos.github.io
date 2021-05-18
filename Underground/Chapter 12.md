@@ -2,7 +2,7 @@
 title: "Underground - Chapter 12 Corporal Punishment"
 permalink: /Underground/Chapter 12/
 excerpt: "Chapter 12 Corporal Punishment. Era of Chaos  Underground - Chapter 12. Corporal Punishment"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 12.md"
 toc: false

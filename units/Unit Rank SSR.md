@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Unit Rank SSR"
 toc: false
@@ -26,7 +26,7 @@ classes: wide
   | 12 | ![Angel](/images/u/ti_datianshi.jpg) | [Angel](/units/Angel/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archangel  |
   | 13 | ![Black Dragon](/images/u/ti_heilong.jpg) | [Black Dragon](/units/Black Dragon/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Black Dragon King  |
   | 14 | ![Red Dragon](/images/u/ti_chilong.jpg) | [Red Dragon](/units/Red Dragon/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 15 | ![Green Dragon](/images/u/ti_lvlong.jpg) | [Green Dragon](/units/Green Dragon/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Gold Dragon  |
+  | 15 | ![Green Dragon](/images/u/ti_lvlong.jpg) | [Green Dragon](/units/Green Dragon/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Gold Dragon  |
   | 16 | ![Gorgon](/images/u/ti_manniu.jpg) | [Gorgon](/units/Gorgon/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Mighty Gorgon  |
   | 17 | ![Assassin](/images/u/ti_cishazhe.jpg) | [Assassin](/units/Assassin/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
   | 18 | ![Black Knight](/images/u/ti_siwangqishi.jpg) | [Black Knight](/units/Black Knight/) | Charging | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Dread Knight  |

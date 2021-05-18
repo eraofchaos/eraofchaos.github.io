@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-2 Fleeting Glory"
 permalink: /Main Story/Chapter 21_2/
 excerpt: "Chapter 21 - 2. Era of Chaos  Main Story - Chapter 21_2. 21-2 Fleeting Glory"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 21_2.md"
 toc: false

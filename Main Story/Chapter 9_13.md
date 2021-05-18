@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-13 The Army of the Kingdom"
 permalink: /Main Story/Chapter 9_13/
 excerpt: "Chapter 9 - 13. Era of Chaos  Main Story - Chapter 9_13. 9-13 The Army of the Kingdom"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: en
 ref: "Chapter 9_13.md"
 toc: false
