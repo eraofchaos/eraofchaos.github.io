@@ -13,6 +13,25 @@ sidebar:
 
 ### Era Of Chaos - Wiki update History
 
+{% capture notice-update20210504 %}
+
+We are happy to provide information about Peak Talent (opens at 110 level):
+  * [Peak Talent](/PeakTalent/)
+  * [Höchstes Talent](/de/PeakTalent/)
+  * [Talent Ultime](/fr/PeakTalent/)
+  * [Талант вершины](/ru/PeakTalent/)
+  * [Talento Apice](/it/PeakTalent/)
+  * [Poder Máximo](/es/PeakTalent/)
+
+Updated <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/). Lets see how fast Tilwin will copy it to official wiki.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">4 May 2021 Update: Client version 151 (3475/3474)</h4>
+  {{ notice-update20210504 | markdownify }}
+</div>
+
 {% capture notice-update20210428 %}
 
 * New awakening for Revyaratan - [Ancient Sea Monster](https://eraofchaos.github.io/units/Revyaratan/#awaking)

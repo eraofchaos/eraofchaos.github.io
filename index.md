@@ -10,6 +10,26 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210518 %}
+
+* New Exclusives for [Green Dragon](https://eraofchaos.github.io/units/Green%20Dragon/) -> [Resplendent Dragonwing (Green Dragon)](https://eraofchaos.github.io/Exclusive/Green%20Dragon%20Resplendent%20Dragonwing/)
+
+* New commander [Dragon Golem](https://eraofchaos.github.io/units/Dragon%20Golem/) would be available on 26-30 May
+
+* We would expect next Commander - [Venom Spawn](https://eraofchaos.github.io/units/Venom%20Spawn/). Expected release date is 21th June 2021. [Venom Spawn Avatar](https://eraofchaos.github.io/Items/con_2152/)
+
+* Update [Schedule](/Schedule/) (up to 8 June 2021)
+
+* Wiki updated to latest game state. 
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">18 May 2021 Update: Client version 151 (3547/3548)</h4>
+  {{ notice-update20210518 | markdownify }}
+</div>
+
+
 {% capture notice-update20210511 %}
 * New awakening for [Gorgon](https://eraofchaos.github.io/units/Gorgon/) - [Mighty Gorgon](https://eraofchaos.github.io/units/Gorgon/#awaking) 
 
@@ -33,24 +53,7 @@ sidebar:
 </div>
 
 
-{% capture notice-update20210504 %}
 
-We are happy to provide information about Peak Talent (opens at 110 level):
-  * [Peak Talent](/PeakTalent/)
-  * [Höchstes Talent](/de/PeakTalent/)
-  * [Talent Ultime](/fr/PeakTalent/)
-  * [Талант вершины](/ru/PeakTalent/)
-  * [Talento Apice](/it/PeakTalent/)
-  * [Poder Máximo](/es/PeakTalent/)
-
-Updated <i class="fab fa-battle-net"/> [Battle Formation](/Battle Formation/). Lets see how fast Tilwin will copy it to official wiki.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">4 May 2021 Update: Client version 151 (3475/3474)</h4>
-  {{ notice-update20210504 | markdownify }}
-</div>
 
 
 
@@ -80,6 +83,7 @@ You will find here:
 * <i class="fas fa-poo-storm"/> [Main Story](/Main Story/)
 * <i class="fas fa-door-open"/> [Underground](/Underground/)
 * <i class="fas fa-crown"/> [VIP System](/VIP/)
+* <i class="fab fa-think-peaks"/> [Peak Talent](/PeakTalent/)
 
 * <i class="fas fa-question-circle"/>  [Sphinx: Answer questions for approval and rewards!](/sphinx/)
 
@@ -89,7 +93,7 @@ You will find here:
 * <i class="fas fa-store-alt"/>  [Harbour Shop](/Shops/Harbour Shop/)
 * <i class="fas fa-water"/>  [Healing Sea](/Healing Sea/)
 
-* <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 1 June 2021)
+* <i class="fas fa-business-time"/>  [Weekly Sign Rewards](/Weekly Sign Rewards/) (up to 8 June 2021)
 * <i class="fas fa-calendar-alt"/>  [Schedule](/Schedule/) (up to 1 June 2021)
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts & Spell 2021](/Hotspot/)
 * <i class="fas fa-calendar-day"/> [Hotspot Artifacts 2021](/Hotspot/HotSpot Artifact _2021/)
