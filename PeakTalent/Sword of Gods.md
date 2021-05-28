@@ -2,7 +2,7 @@
 title: "Sword of Gods. Peak Talent - Sword of Gods"
 permalink: /PeakTalent/Sword of Gods/
 excerpt: "Era of Chaos Peak Talent Sword of Gods. Peak Talent Sword of Gods. Sword of Gods"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Sword of Gods.md"
 toc: false

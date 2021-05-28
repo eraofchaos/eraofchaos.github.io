@@ -2,7 +2,7 @@
 title: "Avatar - Berserker Rage"
 permalink: /Avatars/Berserker Rage/
 excerpt: "Era of Chaos  Berserker Rage"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Berserker Rage.md"
 toc: false

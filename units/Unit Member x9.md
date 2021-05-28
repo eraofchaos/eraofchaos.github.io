@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Unit Member x9"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 6 | ![Sea Elemental](/images/u/ti_haiyuansu.jpg) | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Tidal Elemental  |
   | 7 | ![Stone Gargoyle](/images/u/ti_shixianggui.jpg) | [Stone Gargoyle](/units/Stone Gargoyle/) | Offense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 8 | ![Pikeman](/images/u/ti_jibing.jpg) | [Pikeman](/units/Pikeman/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Halberdier  |
-  | 9 | ![Marksman](/images/u/ti_nushou.jpg) | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Master Archer  |
+  | 9 | ![Marksman](/images/u/ti_nushou.jpg) | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Master Archer  |
   | 10 | ![Harpy](/images/u/ti_yingshenren.jpg) | [Harpy](/units/Harpy/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpy Hag  |
   | 11 | ![Troglodyte](/images/u/ti_dongxueren.jpg) | [Troglodyte](/units/Troglodyte/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Dark Troglodyte  |
   | 12 | ![Griffin](/images/u/ti_shijiu.jpg) | [Griffin](/units/Griffin/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Royal Griffin  |

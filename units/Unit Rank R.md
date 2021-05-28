@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Unit Rank R"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/units/Gremlin/) | Ranged | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 4 | ![Sea Elemental](/images/u/ti_haiyuansu.jpg) | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Tidal Elemental  |
   | 5 | ![Pikeman](/images/u/ti_jibing.jpg) | [Pikeman](/units/Pikeman/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Halberdier  |
-  | 6 | ![Marksman](/images/u/ti_nushou.jpg) | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Master Archer  |
+  | 6 | ![Marksman](/images/u/ti_nushou.jpg) | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Master Archer  |
   | 7 | ![Troglodyte](/images/u/ti_dongxueren.jpg) | [Troglodyte](/units/Troglodyte/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Dark Troglodyte  |
   | 8 | ![Centaur](/images/u/ti_banrenma.jpg) | [Centaur](/units/Centaur/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Centaur Captain  |
   | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnoll Warrior  |

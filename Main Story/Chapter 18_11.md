@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-11 The Cave Palace"
 permalink: /Main Story/Chapter 18_11/
 excerpt: "Chapter 18 - 11. Era of Chaos  Main Story - Chapter 18_11. 18-11 The Cave Palace"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 18_11.md"
 toc: false

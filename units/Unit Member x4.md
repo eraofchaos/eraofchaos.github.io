@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Unit Member x4"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | 10 | ![Arch Mage](/images/u/ti_dafashi.jpg) | [Arch Mage](/units/Arch Mage/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arch Mage  |
   | 11 | ![Regnan Serpent](/images/u/ti_yurenyongshi.jpg) | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 12 | ![Nightmare](/images/u/ti_mengyanshou.jpg) | [Nightmare](/units/Nightmare/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nightmare King  |
-  | 13 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
+  | 13 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
   | 14 | ![Mermaid](/images/u/ti_meirenyu.jpg) | [Mermaid](/units/Mermaid/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 15 | ![Swordsman](/images/u/ti_shizijun.jpg) | [Swordsman](/units/Swordsman/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crusader  |
   | 16 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/units/Medusa/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Medusa Queen  |

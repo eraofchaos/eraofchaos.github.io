@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant (Sea Elemental)"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Sea Elemental Exclusive."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Sea Elemental Arcane Chant.md"
 toc: false

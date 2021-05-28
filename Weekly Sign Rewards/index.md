@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 23  Conflux Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **7 Jun** | **5x [Sprite](/Items/unt_262/)**  | A squad of Sprite joined your army and you become stronger! |
+  | **8 Jun** | **3x [Ice Elemental](/Items/unt_264/)**  | A squad of Ice Elemental joined your army and you become stronger! |
+  | **9 Jun** | **100x <i class="fas fa-gem"/>**  | The creatures of the Conflux Plane present you a small cluster of Diamonds! |
+  | **10 Jun** | **3x [Stone Elemental](/Items/unt_266/)**  | A squad of Stone Elemental joined your army and you become stronger! |
+  | **11 Jun** | **3x [Storm Elemental](/Items/unt_263/)**  | A squad of Storm Elemental joined your army and you become stronger! |
+  | **12 Jun** | **5x [Conflux Unit Chest](/Items/con_1275/)**  | Your troops brought you several chests filled with elemental power! |
+  | **13 Jun** | **5x [Luna](/Items/her_378/)**  | The element power gathered in your territory has led to the visit of an elemental mage! |
+
 
 #### 2021 Week 22  Castle Week
 

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-7 The Dragon-Slayer"
 permalink: /Main Story/Chapter 23_7/
 excerpt: "Chapter 23 - 7. Era of Chaos  Main Story - Chapter 23_7. 23-7 The Dragon-Slayer"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 23_7.md"
 toc: false

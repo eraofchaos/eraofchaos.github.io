@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Marksman Exclusive."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Marksman Long Bow.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Charge
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1440
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Long Bow Token](/Items/con_914/) | <Armor-piercing Arrow> Deals damage to the current target equal to 300% of own ATK while ignoring 1,000 of the target unit's DEF. CD is 15s. |
+  |  Awaken  | **100x** [Long Bow Token](/Items/con_914/) | <Armor-piercing Arrow> Deals damage to the current target equal to 200% of own ATK while ignoring 500 of the target unit's DEF. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Long Bow Token](/Items/con_914/) | Increases Marksman's ATK by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Long Bow Token](/Items/con_914/) | Increases Marksman's DEF by 20% when Marksman is in High Morale. |
   | **3x** <i class="fas fa-star"/> | **130x** [Long Bow Token](/Items/con_914/) | Marksman's attacks will inflict enemy units with Retribution. Attacking the same target unit a total of 18 times will deal additional damage equal to 200% of Marksman's ATK. |
   | **4x** <i class="fas fa-star"/> | **170x** [Long Bow Token](/Items/con_914/) | Increases Marksman's Unit DMG by 20%. |
   | **5x** <i class="fas fa-star"/> | **210x** [Long Bow Token](/Items/con_914/) | Increases Marksman's Magic Resistance by 40%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_914/) | <Deathsworn> When fatal damage is sustained, the unit will not die and will instead gain invincibility, increasing Unit DMG by 50%, Attack Speed by 150%, Critical Hit by 500, and Life Drain by 20% for 5s. This effect can be triggered once per unit throughout the whole battle. <Armor-piercing Arrow> will immediately trigger the first time a unit triggers <Deathsworn>. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Long Bow Token](/Items/con_914/) | <Deathsworn> When fatal damage is sustained, the unit will not die and will instead gain invincibility, increasing Unit DMG by 20%, Attack Speed by 100%, Critical Hit by 500, and Life Drain by 20% for 5s. This effect can be triggered once per unit throughout the whole battle. <Armor-piercing Arrow> will immediately trigger the first time a unit triggers <Deathsworn>. |
 
 
 ## Level Up

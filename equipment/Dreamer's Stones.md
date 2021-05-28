@@ -2,7 +2,7 @@
 title: "Dreamer's Stones"
 permalink: /equipment/Dreamer's Stones/
 excerpt: "Era of Chaos Dreamer's Stones. Dreamer's Stones"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Dreamer's Stones.md"
 toc: false

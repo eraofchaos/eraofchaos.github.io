@@ -2,7 +2,7 @@
 title: "Avatar - Deep Ice Crystal"
 permalink: /Avatars/Deep Ice Crystal/
 excerpt: "Era of Chaos  Deep Ice Crystal"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Deep Ice Crystal.md"
 toc: false

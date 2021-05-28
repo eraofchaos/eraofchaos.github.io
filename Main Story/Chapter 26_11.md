@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-11 Guide of the Beholder"
 permalink: /Main Story/Chapter 26_11/
 excerpt: "Chapter 26 - 11. Era of Chaos  Main Story - Chapter 26_11. 26-11 Guide of the Beholder"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 26_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Star Spirit Crown"
 permalink: /equipment/Star Spirit Crown/
 excerpt: "Era of Chaos Star Spirit Crown. Star Spirit Crown"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Star Spirit Crown.md"
 toc: false

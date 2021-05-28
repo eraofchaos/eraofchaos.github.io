@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Era of Chaos Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Unit Class Caster"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | ![Efreeti](/images/u/ti_liehuojingling.jpg) | [Efreeti](/units/Efreeti/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultan  |
   | 6 | ![Sea Elemental](/images/u/ti_haiyuansu.jpg) | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Tidal Elemental  |
   | 7 | ![Arch Mage](/images/u/ti_dafashi.jpg) | [Arch Mage](/units/Arch Mage/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arch Mage  |
-  | 8 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
+  | 8 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
   | 9 | ![Mermaid](/images/u/ti_meirenyu.jpg) | [Mermaid](/units/Mermaid/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 10 | ![Beholder](/images/u/ti_xieyan.jpg) | [Beholder](/units/Beholder/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Evil Eye  |
   | 11 | ![Giant](/images/u/ti_taitan.jpg) | [Giant](/units/Giant/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |

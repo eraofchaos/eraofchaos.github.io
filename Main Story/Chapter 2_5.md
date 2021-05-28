@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 2 - 2-5 The Border Gate"
 permalink: /Main Story/Chapter 2_5/
 excerpt: "Chapter 2 - 5. Era of Chaos  Main Story - Chapter 2_5. 2-5 The Border Gate"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 2_5.md"
 toc: false

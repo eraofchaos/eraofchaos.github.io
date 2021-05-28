@@ -2,7 +2,7 @@
 title: "Avatar Frame & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatar Frame & Avatar. Avatar Frame & Avatar"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "index.md"
 toc: false

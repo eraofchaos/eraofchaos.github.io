@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Kitchen - Recipe"
 permalink: /DineWithHeroesKitchenRecipes.html
 excerpt: "Dine with Heroes - Kitchen - Recipe."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "index.md"
 toc: false

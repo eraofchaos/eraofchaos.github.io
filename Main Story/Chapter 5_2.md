@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-2 Demonic Assault"
 permalink: /Main Story/Chapter 5_2/
 excerpt: "Chapter 5 - 2. Era of Chaos  Main Story - Chapter 5_2. 5-2 Demonic Assault"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 5_2.md"
 toc: false

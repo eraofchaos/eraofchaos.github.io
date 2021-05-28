@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-2 Hired Arms"
 permalink: /Main Story/Chapter 9_2/
 excerpt: "Chapter 9 - 2. Era of Chaos  Main Story - Chapter 9_2. 9-2 Hired Arms"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 9_2.md"
 toc: false

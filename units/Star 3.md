@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Star 3"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
   | 15 | ![Devil](/images/u/ti_daemo.jpg) | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arch Devil  |
   | 16 | ![Regnan Serpent](/images/u/ti_yurenyongshi.jpg) | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 17 | ![Nightmare](/images/u/ti_mengyanshou.jpg) | [Nightmare](/units/Nightmare/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nightmare King  |
-  | 18 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
+  | 18 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
   | 19 | ![Mermaid](/images/u/ti_meirenyu.jpg) | [Mermaid](/units/Mermaid/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 20 | ![Venom Spawn](/images/u/ti_yanmo.jpg) | [Venom Spawn](/units/Venom Spawn/) | Defense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
   | 21 | ![Beholder](/images/u/ti_xieyan.jpg) | [Beholder](/units/Beholder/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Evil Eye  |

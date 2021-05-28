@@ -2,7 +2,7 @@
 title: "Sickle of Silence"
 permalink: /equipment/Sickle of Silence/
 excerpt: "Era of Chaos Sickle of Silence. Sickle of Silence"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Sickle of Silence.md"
 toc: false

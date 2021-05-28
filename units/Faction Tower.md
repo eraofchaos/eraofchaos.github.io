@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Tower -  Units"
 permalink: /units/Faction Tower/
 excerpt: "Era of Chaos Faction Tower. Faction Tower. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Faction Tower"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | ![Iron Golem](/images/u/ti_tieren.jpg) | [Iron Golem](/units/Iron Golem/) | Defense | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gold Golem  |
   | 3 | ![Stone Gargoyle](/images/u/ti_shixianggui.jpg) | [Stone Gargoyle](/units/Stone Gargoyle/) | Offense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 4 | ![Arch Mage](/images/u/ti_dafashi.jpg) | [Arch Mage](/units/Arch Mage/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arch Mage  |
-  | 5 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
+  | 5 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
   | 6 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Naga Queen  |
   | 7 | ![Giant](/images/u/ti_taitan.jpg) | [Giant](/units/Giant/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |
   | 8 | ![Magic Airship](/images/u/ti_reqiqiu.jpg) | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |

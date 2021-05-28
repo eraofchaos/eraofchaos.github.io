@@ -2,7 +2,7 @@
 title: "Underground - Chapter 8 - 8-1 Strategizing"
 permalink: /Underground/Chapter 8_1/
 excerpt: "Chapter 8 - 1. Era of Chaos  Underground - Chapter 8_1. 8-1 Strategizing"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 8_1.md"
 toc: false

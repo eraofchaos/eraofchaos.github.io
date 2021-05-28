@@ -3,7 +3,7 @@ title: "Marksman"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Marksman. Marksman Units. Master Archer. Era of Chaos Marksmen are experienced soldiers, weakening enemies before engaging in melee combat. Their deadly crossbows strike fear into the hearts of their enemies."
 unitID: 102
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Marksman"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Name:** [Long Bow](/Exclusive/Marksman Long Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rank Up:** [Long Bow Token](/Items/con_914/)
 

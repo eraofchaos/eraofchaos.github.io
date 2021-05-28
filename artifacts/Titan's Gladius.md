@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder - Titan's Gladius"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "Era of Chaos  Titan's Thunder - Titan's Gladius. A sword wielded by ancient Giant. One of the components of the Titan's Thunder."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Titan's Gladius.md"
 toc: false

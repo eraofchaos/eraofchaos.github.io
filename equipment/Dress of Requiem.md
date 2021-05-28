@@ -2,7 +2,7 @@
 title: "Dress of Requiem"
 permalink: /equipment/Dress of Requiem/
 excerpt: "Era of Chaos Dress of Requiem. Dress of Requiem"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Dress of Requiem.md"
 toc: false

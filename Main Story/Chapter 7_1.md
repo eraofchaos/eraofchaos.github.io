@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-1 Hidden Teeth"
 permalink: /Main Story/Chapter 7_1/
 excerpt: "Chapter 7 - 1. Era of Chaos  Main Story - Chapter 7_1. 7-1 Hidden Teeth"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 7_1.md"
 toc: false

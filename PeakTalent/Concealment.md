@@ -2,7 +2,7 @@
 title: "Concealment. Peak Talent - Concealment"
 permalink: /PeakTalent/Concealment/
 excerpt: "Era of Chaos Peak Talent Concealment. Peak Talent Concealment. Concealment"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Concealment.md"
 toc: false

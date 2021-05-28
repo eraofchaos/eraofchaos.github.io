@@ -2,7 +2,7 @@
 title: "Avatar - Stronghold"
 permalink: /Avatars/Stronghold/
 excerpt: "Era of Chaos  Stronghold"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Stronghold.md"
 toc: false

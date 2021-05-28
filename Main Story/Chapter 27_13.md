@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-13 Purpose of Dragon Blood"
 permalink: /Main Story/Chapter 27_13/
 excerpt: "Chapter 27 - 13. Era of Chaos  Main Story - Chapter 27_13. 27-13 Purpose of Dragon Blood"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 27_13.md"
 toc: false

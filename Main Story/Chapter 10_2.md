@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-2 Search for a Body"
 permalink: /Main Story/Chapter 10_2/
 excerpt: "Chapter 10 - 2. Era of Chaos  Main Story - Chapter 10_2. 10-2 Search for a Body"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 10_2.md"
 toc: false

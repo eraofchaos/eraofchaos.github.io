@@ -2,7 +2,7 @@
 title: "Avatar - The Moor"
 permalink: /Avatars/The Moor/
 excerpt: "Era of Chaos  The Moor"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "The Moor.md"
 toc: false

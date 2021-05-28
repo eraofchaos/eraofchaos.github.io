@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-11 Learning Stone"
 permalink: /Main Story/Chapter 3_11/
 excerpt: "Chapter 3 - 11. Era of Chaos  Main Story - Chapter 3_11. 3-11 Learning Stone"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 3_11.md"
 toc: false

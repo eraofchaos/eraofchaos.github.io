@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-4 Tree of Knowledge"
 permalink: /Main Story/Chapter 30_4/
 excerpt: "Chapter 30 - 4. Era of Chaos  Main Story - Chapter 30_4. 30-4 Tree of Knowledge"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 30_4.md"
 toc: false

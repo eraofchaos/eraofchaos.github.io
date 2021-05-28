@@ -3,7 +3,7 @@ title: "Pit Fiend"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Pit Fiend. Pit Fiend Units. Pit Lord. Era of Chaos Pit Fiends are battle hardened demons commanding tens of thousands of Inferno troops. Their only love is bloodshed."
 unitID: 505
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Pit Fiend"
 toc: true

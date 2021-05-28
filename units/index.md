@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "index.md"
 toc: false
@@ -45,7 +45,7 @@ classes: wide
   | 23 | ![Evil Sorceress](/images/u/ti_xiemonv.jpg) | [Evil Sorceress](/units/Evil Sorceress/) | Charging | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 24 | ![Fire Elemental](/images/u/ti_liehuoyuansu.jpg) | [Fire Elemental](/units/Fire Elemental/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Energy Elemental  |
   | 25 | ![Firebird](/images/u/ti_fenghuang.jpg) | [Firebird](/units/Firebird/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Phoenix  |
-  | 26 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
+  | 26 | ![Genie](/images/u/ti_shenguai.jpg) | [Genie](/units/Genie/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Master Genie  |
   | 27 | ![Giant](/images/u/ti_taitan.jpg) | [Giant](/units/Giant/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titan  |
   | 28 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnoll Warrior  |
   | 29 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/units/Goblin/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
@@ -68,7 +68,7 @@ classes: wide
   | 46 | ![Magic Airship](/images/u/ti_reqiqiu.jpg) | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 47 | ![Manticore](/images/u/ti_shixie.jpg) | [Manticore](/units/Manticore/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicore  |
   | 48 | ![Mantis](/images/u/ti_tanglang.jpg) | [Mantis](/units/Mantis/) | Offense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
-  | 49 | ![Marksman](/images/u/ti_nushou.jpg) | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Master Archer  |
+  | 49 | ![Marksman](/images/u/ti_nushou.jpg) | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Master Archer  |
   | 50 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/units/Medusa/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Medusa Queen  |
   | 51 | ![Mermaid](/images/u/ti_meirenyu.jpg) | [Mermaid](/units/Mermaid/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 52 | ![Minotaur](/images/u/ti_niutouguai.jpg) | [Minotaur](/units/Minotaur/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotaur King  |

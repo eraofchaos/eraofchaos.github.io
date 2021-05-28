@@ -2,7 +2,7 @@
 title: "Underground - Chapter 25 - 25-1 Arcane Secret"
 permalink: /Underground/Chapter 25_1/
 excerpt: "Chapter 25 - 1. Era of Chaos  Underground - Chapter 25_1. 25-1 Arcane Secret"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 25_1.md"
 toc: false

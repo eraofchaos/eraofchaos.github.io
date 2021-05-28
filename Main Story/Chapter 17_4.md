@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-4 Heart-Ruled Crown"
 permalink: /Main Story/Chapter 17_4/
 excerpt: "Chapter 17 - 4. Era of Chaos  Main Story - Chapter 17_4. 17-4 Heart-Ruled Crown"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 17_4.md"
 toc: false

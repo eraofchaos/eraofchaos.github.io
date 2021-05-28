@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Titan's Thunder. Titan's Thunder A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Titan's Thunder.md"
 toc: false
@@ -43,14 +43,14 @@ classes: wide
 
  **Name: Titan's Thunder**
 
- **Effect:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range.
+ **Effect:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> air damage to enemy units within a certain range.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
-  | **5** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
-  | **8** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
-  | **11** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
-  | **14** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> air damage to enemy units within a certain range. | 
+  | **2** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> air damage to enemy units within a certain range. | 
+  | **5** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> air damage to enemy units within a certain range. | 
+  | **8** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> air damage to enemy units within a certain range. | 
+  | **11** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> air-type spell DMG to enemy units within a certain range and decreases targets' Accuracy by 30%. | 
+  | **14** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> air-type spell DMG to enemy units within a certain range. Also deals additional damage equal to 15% of Max HP and decreases targets' Accuracy by 30%. | 
   | **17** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> Air damage to enemy units in a large area, and deals additional damage equal to 15% of their maximum health. Also decreases their Accuracy by 30% and inflicts <span style="color: #e07c44;font-size:20px">Static</span> on them. | 
   | **20** | Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> Air damage to enemy units in a large area, and deals additional damage equal to 15% of their maximum health. Also decreases their Accuracy by 60% and inflicts <span style="color: #e07c44;font-size:20px">Static</span> on them. | 

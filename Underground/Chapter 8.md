@@ -2,7 +2,7 @@
 title: "Underground - Chapter 8 Frenzied Thoughts"
 permalink: /Underground/Chapter 8/
 excerpt: "Chapter 8 Frenzied Thoughts. Era of Chaos  Underground - Chapter 8. Frenzied Thoughts"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 8.md"
 toc: false

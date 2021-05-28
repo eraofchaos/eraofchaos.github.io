@@ -2,7 +2,7 @@
 title: "Crazy Smite. Peak Talent - Crazy Smite"
 permalink: /PeakTalent/Crazy Smite/
 excerpt: "Era of Chaos Peak Talent Crazy Smite. Peak Talent Crazy Smite. Crazy Smite"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Crazy Smite.md"
 toc: false

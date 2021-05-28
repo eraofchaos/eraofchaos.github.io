@@ -2,7 +2,7 @@
 title: "Artifacts - Apple of Eden - Crystal Ball"
 permalink: /artifacts/Crystal Ball/
 excerpt: "Era of Chaos  Apple of Eden - Crystal Ball. A shining crystal ball. Legend says it can see the future."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Crystal Ball.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Genie. Genie Units. Master Genie. Era of Chaos Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Genie"
 toc: true
@@ -186,7 +186,7 @@ toc: true
   ![Master Genie](/images/u/tia_shendeng.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Master Genie
 
@@ -207,7 +207,7 @@ toc: true
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. Increases unit's damage reduction by 20% and ATK speed by 10% for itself</span>
 
 ### 2nd Skill (or 1st): Energy Protection
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. The part of damage exceeding 20% of its Max HP under single attack will be ignored.</span>
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Gift&gt;</span><span style="color: #645252;font-size:18px">Restores HP equal to 25% of ATK when a normal attack is made. The part of damage exceeding 30% of its Max HP under single attack will be ignored.</span>
 
 ### 3rd Skill (or 4th): As You Wish
  **Description:** <span style="color: #48b946;font-size:18px">&lt;Three Wishes&gt;</span><span style="color: #645252;font-size:18px">Blesses 6 random friendly units and gives one random bonus (unit's damage reduction, unit's damage or ATK speed). The bonus gives an increase of 50%</span>

@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant (Serpent Fly)"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Serpent Fly Exclusive."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Serpent Fly Arcane Chant.md"
 toc: false

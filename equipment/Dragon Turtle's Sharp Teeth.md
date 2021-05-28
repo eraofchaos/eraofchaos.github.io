@@ -2,7 +2,7 @@
 title: "Dragon Turtle's Sharp Teeth"
 permalink: /equipment/Dragon Turtle's Sharp Teeth/
 excerpt: "Era of Chaos Dragon Turtle's Sharp Teeth. Dragon Turtle's Sharp Teeth"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Dragon Turtle's Sharp Teeth.md"
 toc: false

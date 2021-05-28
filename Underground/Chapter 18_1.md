@@ -2,7 +2,7 @@
 title: "Underground - Chapter 18 - 18-1 Muddleheaded"
 permalink: /Underground/Chapter 18_1/
 excerpt: "Chapter 18 - 1. Era of Chaos  Underground - Chapter 18_1. 18-1 Muddleheaded"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 18_1.md"
 toc: false

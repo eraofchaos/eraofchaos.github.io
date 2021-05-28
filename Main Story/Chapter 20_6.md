@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-6 Necromancy"
 permalink: /Main Story/Chapter 20_6/
 excerpt: "Chapter 20 - 6. Era of Chaos  Main Story - Chapter 20_6. 20-6 Necromancy"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 20_6.md"
 toc: false

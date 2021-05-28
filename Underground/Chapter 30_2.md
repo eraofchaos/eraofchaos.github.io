@@ -2,7 +2,7 @@
 title: "Underground - Chapter 30 - 30-2  Bloody Banquet"
 permalink: /Underground/Chapter 30_2/
 excerpt: "Chapter 30 - 2. Era of Chaos  Underground - Chapter 30_2. 30-2  Bloody Banquet"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Chapter 30_2.md"
 toc: false

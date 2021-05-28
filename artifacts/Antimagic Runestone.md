@@ -2,7 +2,7 @@
 title: "Artifacts - Antimagic Runestone"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Era of Chaos  Antimagic Runestone. Antimagic Runestone Antimagic runestone forged from enchanted items. Able to resist against spell damage"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Antimagic Runestone.md"
 toc: false

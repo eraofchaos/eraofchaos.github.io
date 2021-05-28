@@ -3,7 +3,7 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Venom Spawn. Venom Spawn Units. null. Era of Chaos These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: en
 ref: "Venom Spawn"
 toc: true
