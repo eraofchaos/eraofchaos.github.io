@@ -17,13 +17,13 @@ sidebar:
 * New Exclusives for [Marksman](https://eraofchaos.github.io/units/Marksman/) -> [Long Bow (Marksman)](https://eraofchaos.github.io/Exclusive/Marksman%20Long%20Bow/)
 
 * New Items:
-  * [Arch Mage’s Soul](https://eraofchaos.github.io/Items/con_2153/)
-  * [Master Genie’s Soul](https://eraofchaos.github.io/Items/con_2154/)
+  * [Supreme Grace Tokens](https://eraofchaos.github.io/Items/con_2153/)
+  * [Black Sail](https://eraofchaos.github.io/Items/con_2154/)
 
 
-* Update [Schedule]((https://eraofchaos.github.io/Schedule/) (up to 18 June 2021)
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 18 June 2021)
 
-* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state. 
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
 
 {% endcapture %}
 
