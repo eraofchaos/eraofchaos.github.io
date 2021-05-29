@@ -10,6 +10,29 @@ sidebar:
   nav: "docs"
 ---
 
+
+{% capture notice-update20210528 %}
+* Released New commander [Dragon Golem](https://eraofchaos.github.io/units/Dragon%20Golem/) (improved HP/DEF/Attack)
+
+* New Exclusives for [Marksman](https://eraofchaos.github.io/units/Marksman/) -> [Long Bow (Marksman)](https://eraofchaos.github.io/Exclusive/Marksman%20Long%20Bow/)
+
+* New Items:
+  * [Arch Mage’s Soul](https://eraofchaos.github.io/Items/con_2153/)
+  * [Master Genie’s Soul](https://eraofchaos.github.io/Items/con_2154/)
+
+
+* Update [Schedule]((https://eraofchaos.github.io/Schedule/) (up to 18 June 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state. 
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">28 May 2021 Update: Client version 151 (3566/3567)</h4>
+  {{ notice-update20210528 | markdownify }}
+</div>
+
+
 {% capture notice-update20210518 %}
 
 * New Exclusives for [Green Dragon](https://eraofchaos.github.io/units/Green%20Dragon/) -> [Resplendent Dragonwing (Green Dragon)](https://eraofchaos.github.io/Exclusive/Green%20Dragon%20Resplendent%20Dragonwing/)
@@ -28,44 +51,6 @@ sidebar:
   <h4 class="no_toc">18 May 2021 Update: Client version 151 (3547/3548)</h4>
   {{ notice-update20210518 | markdownify }}
 </div>
-
-
-{% capture notice-update20210511 %}
-* New awakening for [Gorgon](https://eraofchaos.github.io/units/Gorgon/) - [Mighty Gorgon](https://eraofchaos.github.io/units/Gorgon/#awaking) 
-
-* New Exclusives for [Lizardman](https://eraofchaos.github.io/units/Lizardman/) -> [Long Bow (Lizardman)](https://eraofchaos.github.io/Exclusive/Lizardman%20Long%20Bow/)
-
-* New Items:
-  * [Master Genie Soul Stone Special Offer B](https://eraofchaos.github.io/Items/con_2150/)
-  * [Master Genie Soul Stone Special Offer C](https://eraofchaos.github.io/Items/con_2151/)
-
-* [Resurrection skill](https://eraofchaos.github.io/units/Angel/#regular-skill-1--resurrection) for [Angel](https://eraofchaos.github.io/units/Angel/): Correction: **This skill cannot be silenced.**
-
-* Update [Schedule](/Schedule/) (up to 1 June 2021)
-
-* Wiki updated to latest game state. 
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">11 May 2021 Update: Client version 151 (3515/3516)</h4>
-  {{ notice-update20210511 | markdownify }}
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -12,6 +12,29 @@ sidebar:
 
 ### Era Of Chaos - Game client update History
 
+{% capture notice-update20210511 %}
+* New awakening for [Gorgon](https://eraofchaos.github.io/units/Gorgon/) - [Mighty Gorgon](https://eraofchaos.github.io/units/Gorgon/#awaking) 
+
+* New Exclusives for [Lizardman](https://eraofchaos.github.io/units/Lizardman/) -> [Long Bow (Lizardman)](https://eraofchaos.github.io/Exclusive/Lizardman%20Long%20Bow/)
+
+* New Items:
+  * [Master Genie Soul Stone Special Offer B](https://eraofchaos.github.io/Items/con_2150/)
+  * [Master Genie Soul Stone Special Offer C](https://eraofchaos.github.io/Items/con_2151/)
+
+* [Resurrection skill](https://eraofchaos.github.io/units/Angel/#regular-skill-1--resurrection) for [Angel](https://eraofchaos.github.io/units/Angel/): Correction: **This skill cannot be silenced.**
+
+* Update [Schedule](/Schedule/) (up to 1 June 2021)
+
+* Wiki updated to latest game state. 
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">11 May 2021 Update: Client version 151 (3515/3516)</h4>
+  {{ notice-update20210511 | markdownify }}
+</div>
+
+
 {% capture notice-update20210504 %}
 
 We are happy to provide information about Peak Talent (opens at 110 level):
