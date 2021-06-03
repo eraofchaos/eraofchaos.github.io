@@ -10,6 +10,43 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210602 %}
+
+* New Items:
+  * [Holy City Coin](/Items/con_2161/)
+  * [Envoy Component Chest](/Items/con_2159/)
+  * [Purple Artifact Component Selection Chest](/Items/con_2160/)
+
+* New Artifact: [Artifacts - Envoy's Pen](/artifacts/Envoy's Pen/) with components:
+  * [Ambassador's Sash](/Items/art_2154/)
+  * [Statesman's Medal](/Items/art_2155/)
+  * [Recanter's Cloak](/Items/art_2156/)
+  * [Diplomat's Ring ](/Items/art_2157/)
+
+* New Emblems:
+  * [Spring of Immortality](/Emblem/Spring of Immortality/)
+  * [The Price of Loyalty](/Emblem/The Price of Loyalty/)
+
+* New Peak Talent: [Born to Be King](/PeakTalent/Born to Be King/)
+  * [Medal of Lords](/PeakTalent/Medal of Lords/)
+  * [Shield of Lords](/PeakTalent/Shield of Lords/)
+  * [Sword of Lords](/PeakTalent/Sword of Lords/)
+
+* Update [Schedule](/Schedule/) (up to 23 June 2021)
+
+* Wiki updated to latest game state. To be done: GvG and Guild.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">2 June 2021 Update: Client version 151 (3594/3595)</h4>
+  {{ notice-update20210602 | markdownify }}
+</div>
+
+
+
+
+
 
 {% capture notice-update20210528 %}
 * Released New commander [Dragon Golem](https://eraofchaos.github.io/units/Dragon%20Golem/) (improved HP/DEF/Attack)
@@ -33,24 +70,7 @@ sidebar:
 </div>
 
 
-{% capture notice-update20210518 %}
 
-* New Exclusives for [Green Dragon](https://eraofchaos.github.io/units/Green%20Dragon/) -> [Resplendent Dragonwing (Green Dragon)](https://eraofchaos.github.io/Exclusive/Green%20Dragon%20Resplendent%20Dragonwing/)
-
-* New commander [Dragon Golem](https://eraofchaos.github.io/units/Dragon%20Golem/) would be available on 26-30 May
-
-* We would expect next Commander - [Venom Spawn](https://eraofchaos.github.io/units/Venom%20Spawn/). Expected release date is 21th June 2021. [Venom Spawn Avatar](https://eraofchaos.github.io/Items/con_2152/)
-
-* Update [Schedule](/Schedule/) (up to 8 June 2021)
-
-* Wiki updated to latest game state. 
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">18 May 2021 Update: Client version 151 (3547/3548)</h4>
-  {{ notice-update20210518 | markdownify }}
-</div>
 
 
 

@@ -13,6 +13,25 @@ sidebar:
 
 ### Era Of Chaos - Wiki update History
 
+{% capture notice-update20210518 %}
+
+* New Exclusives for [Green Dragon](https://eraofchaos.github.io/units/Green%20Dragon/) -> [Resplendent Dragonwing (Green Dragon)](https://eraofchaos.github.io/Exclusive/Green%20Dragon%20Resplendent%20Dragonwing/)
+
+* New commander [Dragon Golem](https://eraofchaos.github.io/units/Dragon%20Golem/) would be available on 26-30 May
+
+* We would expect next Commander - [Venom Spawn](https://eraofchaos.github.io/units/Venom%20Spawn/). Expected release date is 21th June 2021. [Venom Spawn Avatar](https://eraofchaos.github.io/Items/con_2152/)
+
+* Update [Schedule](/Schedule/) (up to 8 June 2021)
+
+* Wiki updated to latest game state. 
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">18 May 2021 Update: Client version 151 (3547/3548)</h4>
+  {{ notice-update20210518 | markdownify }}
+</div>
+
 {% capture notice-update20210511 %}
 * New awakening for [Gorgon](https://eraofchaos.github.io/units/Gorgon/) - [Mighty Gorgon](https://eraofchaos.github.io/units/Gorgon/#awaking) 
 
