@@ -4,7 +4,7 @@ permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro is a Necromancer who has seen all of Enroth and Erathia. Now he apparently supports Finneas Vilmar, leader of the Necromancers of Deyja."
 heroID: 60501
 QR: hero_60501
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Sandro"
 toc: true
@@ -91,7 +91,7 @@ toc: true
 * [Stun](/combination/Stun/) 
 
 ## HERO Biography
-   - Sandro decided to visit Deyja after obtaining the Cloak of the Undead King and the Armour of the Damned...
+   - Sandro decided to visit Deyja after obtaining the Cloak of the Undead King and the Armor of the Damned...
    - Sandro treads upon all his enemies. He travels further under the shadow of death...
    - Reform the Angelic Alliance and stop Sandro's sinister plot. Don't let him rule the world...
    - A great conspiracy is unfolding in Antagarich...

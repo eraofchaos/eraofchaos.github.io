@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Clerics -  Heroes"
 permalink: /heroes/Profession Clerics/
 excerpt: "Era of Chaos Profession Clerics. Profession Clerics. List of Profession  in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Profession Clerics"
 toc: false

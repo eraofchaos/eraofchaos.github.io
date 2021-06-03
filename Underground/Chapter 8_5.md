@@ -2,7 +2,7 @@
 title: "Underground - Chapter 8 - 8-5 Army of the Dead"
 permalink: /Underground/Chapter 8_5/
 excerpt: "Chapter 8 - 5. Era of Chaos  Underground - Chapter 8_5. 8-5 Army of the Dead"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 8_5.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Artifacts - Armour of the Damned - Sword of Hellfire"
+title: "Artifacts - Armor of the Damned - Sword of Hellfire"
 permalink: /artifacts/Sword of Hellfire/
-excerpt: "Era of Chaos  Armour of the Damned - Sword of Hellfire. A sword that hosts a dark power. One of the components of the Armour of the Damned."
-last_modified_at: 2021-05-28
+excerpt: "Era of Chaos  Armor of the Damned - Sword of Hellfire. A sword that hosts a dark power. One of the components of the Armor of the Damned."
+last_modified_at: 2021-06-03
 locale: en
 ref: "Sword of Hellfire.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
 ## Details
 
- **Description:** A sword that hosts a dark power. One of the components of the Armour of the Damned.
+ **Description:** A sword that hosts a dark power. One of the components of the Armor of the Damned.
 
- **Part of Artifact:** ![Armour of the Damned](/images/t/icon_artifact_30.png) [Armour of the Damned](/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armor of the Damned](/images/t/icon_artifact_30.png) [Armor of the Damned](/artifacts/Armor of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Artifact essence](/Items/con_905/)
 

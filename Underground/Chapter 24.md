@@ -2,7 +2,7 @@
 title: "Underground - Chapter 24 Elemental Tide"
 permalink: /Underground/Chapter 24/
 excerpt: "Chapter 24 Elemental Tide. Era of Chaos  Underground - Chapter 24. Elemental Tide"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 24.md"
 toc: false

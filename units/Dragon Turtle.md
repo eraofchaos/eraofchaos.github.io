@@ -3,7 +3,7 @@ title: "Dragon Turtle"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Dragon Turtle. Dragon Turtle Units. Primal Dragon Turtle. Era of Chaos Born in endless waters, it has an incredibly huge body, which manifests its supremacy in the deep sea."
 unitID: 9906
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Dragon Turtle"
 toc: true
@@ -114,7 +114,7 @@ toc: true
  **Description:** 
 
 ### Regular Skill 2 : Tidal Rampart
- **Description:** <span style="color: #645252;font-size:20px">After entering the battlefield, the Dragon Turtle </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units within a large range for 2s. After &lt;Armoured Shield&gt; has been triggered over 20s, the Dragon Turtle restores 15% HP, and receives a DEF increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">After entering the battlefield, the Dragon Turtle </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"stuns\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> hostile units within a large range for 2s. After &lt;Armored Shield&gt; has been triggered over 20s, the Dragon Turtle restores 15% HP, and receives a DEF increase of </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle</span><span style="color: black">
 
 ### Regular Skill 3 : Reinforcement
  **Description:** <span style="color: #645252;font-size:20px">The Dragon Turtle creates a shield of reinforcement while increasing unit's damage reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and magic resistance by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for himself and all friendly Cove units every 20s. The effect lasts 8s (This effect cannot be dispelled)</span><span style="color: black">

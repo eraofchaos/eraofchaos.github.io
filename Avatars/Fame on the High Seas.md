@@ -2,7 +2,7 @@
 title: "Avatar - Fame on the High Seas"
 permalink: /Avatars/Fame on the High Seas/
 excerpt: "Era of Chaos  Fame on the High Seas"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Fame on the High Seas.md"
 toc: false

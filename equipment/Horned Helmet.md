@@ -2,7 +2,7 @@
 title: "Horned Helmet"
 permalink: /equipment/Horned Helmet/
 excerpt: "Era of Chaos Horned Helmet. Horned Helmet"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Horned Helmet.md"
 toc: false

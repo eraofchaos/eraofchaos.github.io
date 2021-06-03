@@ -2,7 +2,7 @@
 title: "Piercing Claws"
 permalink: /equipment/Piercing Claws/
 excerpt: "Era of Chaos Piercing Claws. Piercing Claws"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Piercing Claws.md"
 toc: false

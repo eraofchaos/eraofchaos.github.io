@@ -3,7 +3,7 @@ title: "Harpy"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Harpy. Harpy Units. Harpy Hag. Era of Chaos The monster is part human and part bird. No one can bear their cloud-piercing screaming."
 unitID: 702
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Harpy"
 toc: true
@@ -181,7 +181,7 @@ toc: true
 
  **Awaking Name:** Harpy Hag
 
- **Awaking Description:** Midnight falls, and the harpies dance to the faun's song. Moonlight reflects off their blades, emitting an icy-cold gleam that follows the sway of their flight in a beautiful yet deadly display.
+ **Awaking Description:** Midnight falls, and the harpies dance to the Faun's song. Moonlight reflects off their blades, emitting an icy-cold gleam that follows the sway of their flight in a beautiful yet deadly display.
 
 ### Awaking Tasks
  1. <span style="color: #876741;font-size:18px">Deploy Harpy with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Dungeon units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>

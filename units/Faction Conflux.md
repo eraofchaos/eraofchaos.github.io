@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Units"
 permalink: /units/Faction Conflux/
 excerpt: "Era of Chaos Faction Conflux. Faction Conflux. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Faction Conflux"
 toc: false

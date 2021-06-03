@@ -3,7 +3,7 @@ title: "Vampire"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Vampire. Vampire Units. Vampire Lord. Era of Chaos Vampires follow many ancient aristocratic rituals. You may find them charming, even chivalric, but if they reveal their fangs the only thing you will feel is the passing of life."
 unitID: 304
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Vampire"
 toc: true

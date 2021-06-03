@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-4 News"
 permalink: /Main Story/Chapter 18_4/
 excerpt: "Chapter 18 - 4. Era of Chaos  Main Story - Chapter 18_4. 18-4 News"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 18_4.md"
 toc: false

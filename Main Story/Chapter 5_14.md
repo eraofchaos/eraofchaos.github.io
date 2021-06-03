@@ -1,8 +1,8 @@
 ---
-title: "Main Story - Chapter 5 - 5-14 Dragon Armour"
+title: "Main Story - Chapter 5 - 5-14 Dragon Armor"
 permalink: /Main Story/Chapter 5_14/
-excerpt: "Chapter 5 - 14. Era of Chaos  Main Story - Chapter 5_14. 5-14 Dragon Armour"
-last_modified_at: 2021-05-28
+excerpt: "Chapter 5 - 14. Era of Chaos  Main Story - Chapter 5_14. 5-14 Dragon Armor"
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 5_14.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
 ## Details
 
- **Name:** 5-14 Dragon Armour
+ **Name:** 5-14 Dragon Armor
 
  **Description:** Luckily, the Gold Dragon Queen has not shown herself yet. Her absence gives the demons greater courage. Standing alone, the elves are not enough to scare them.
 

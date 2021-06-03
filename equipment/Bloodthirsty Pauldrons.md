@@ -2,7 +2,7 @@
 title: "Bloodthirsty Pauldrons"
 permalink: /equipment/Bloodthirsty Pauldrons/
 excerpt: "Era of Chaos Bloodthirsty Pauldrons. Bloodthirsty Pauldrons"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Bloodthirsty Pauldrons.md"
 toc: false

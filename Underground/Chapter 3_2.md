@@ -2,7 +2,7 @@
 title: "Underground - Chapter 3 - 3-2 The Dragon's Mark"
 permalink: /Underground/Chapter 3_2/
 excerpt: "Chapter 3 - 2. Era of Chaos  Underground - Chapter 3_2. 3-2 The Dragon's Mark"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 3_2.md"
 toc: false

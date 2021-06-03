@@ -3,7 +3,7 @@ title: "Judicator"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Judicator. Judicator Units. null. Era of Chaos Judicators from Erathia worship the Holy Light all their lives. These women, who are chosen because of their gifts, are dedicated to bring light and warmth to people in need."
 unitID: 109
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Judicator"
 toc: true
@@ -89,6 +89,7 @@ toc: true
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+* [Spring of Immortality](/Emblem/Spring of Immortality/) (Goodness)
 
 ## Combination Info
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Heretic -  Heroes"
 permalink: /heroes/Profession Heretic/
 excerpt: "Era of Chaos Profession Heretic. Profession Heretic. List of Profession  in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Profession Heretic"
 toc: false

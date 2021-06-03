@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Era of Chaos Exclusive Castle. Exclusive Castle. List of Exclusive Castle in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Exclusive Castle"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
   | 2  | [Marksman](/units/Marksman/) | [Long Bow](/Exclusive/Marksman Long Bow/) | + | Charge | [Long Bow Token](/Items/con_914/) | - |
   | 3  | [Griffin](/units/Griffin/) | [Knight Pike](/Exclusive/Griffin Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_916/) | - |
   | 4  | [Swordsman](/units/Swordsman/) | [Iris Shield](/Exclusive/Swordsman Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
-  | 5  | [Monk](/units/Monk/) | [Arcane Chant](/Exclusive/Monk Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
+  | 5  | [Monk](/units/Monk/) | [Arcane Chant](/Exclusive/Monk Arcane Chant/) | + | Charge | [Arcane Chant Token](/Items/con_915/) | - |
   | 6  | [Cavalier](/units/Cavalier/) | [Knight Pike](/Exclusive/Cavalier Knight Pike/) | + | Charge | [Knight Pike Token](/Items/con_916/) | - |
   | 7  | [Angel](/units/Angel/) | [Durandel](/Exclusive/Angel Durandel/) | - | Support | [Durandel Token](/Items/con_973/) | [Durandel Special Skin](/Items/con_641/) |
   | 8  | [Paladin](/units/Paladin/) | [](/Exclusive/Paladin /) | - | Support | [Fearless Token](/Items/con_974/) | [Fearless Special Skin](/Items/con_642/) |

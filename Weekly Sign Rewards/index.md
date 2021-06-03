@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 24  Dungeon Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **14 Jun** | **5x [Troglodyte](/Items/unt_244/)**  | A squad of Troglodytes joined your army and you became stronger! |
+  | **15 Jun** | **3x [Harpy](/Items/unt_245/)**  | A squad of Harpy joined your army and you become stronger! |
+  | **16 Jun** | **100x <i class="fas fa-gem"/>**  | The creatures of the dark underground present you a small cluster of Diamonds! |
+  | **17 Jun** | **3x [Minotaur](/Items/unt_248/)**  | A squad of Minotaur joined your army and you become stronger! |
+  | **18 Jun** | **5x [Dungeon Faction Chest](/Items/con_1276/)**  | Your army searched for several lost treasure chests in the Underground. |
+  | **19 Jun** | **3x [Manticore](/Items/unt_249/)**  | A squad of Manticores has joined your army. You've become stronger! |
+  | **20 Jun** | **5x [Mutare](/Items/her_389/)**  | Following the guidance the ancient dragon, Mutare joined your army! |
+
 
 #### 2021 Week 23  Conflux Week
 

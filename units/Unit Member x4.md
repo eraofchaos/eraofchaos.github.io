@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Unit Member x4"
 toc: false
@@ -28,7 +28,7 @@ classes: wide
   | 14 | ![Mermaid](/images/u/ti_meirenyu.jpg) | [Mermaid](/units/Mermaid/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 15 | ![Swordsman](/images/u/ti_shizijun.jpg) | [Swordsman](/units/Swordsman/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crusader  |
   | 16 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/units/Medusa/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Medusa Queen  |
-  | 17 | ![Monk](/images/u/ti_senglv.jpg) | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zealot  |
+  | 17 | ![Monk](/images/u/ti_senglv.jpg) | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Zealot  |
   | 18 | ![Minotaur](/images/u/ti_niutouguai.jpg) | [Minotaur](/units/Minotaur/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotaur King  |
   | 19 | ![Magic Airship](/images/u/ti_reqiqiu.jpg) | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 20 | ![Lizardman](/images/u/ti_xiyiren.jpg) | [Lizardman](/units/Lizardman/) | Ranged | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

@@ -2,7 +2,7 @@
 title: "Artifacts - Axe of Ferocity"
 permalink: /artifacts/Axe of Ferocity/
 excerpt: "Era of Chaos  Axe of Ferocity. Axe of Ferocity A weapon forged from holy relics from different races. Able to enhance close combat ability."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Axe of Ferocity.md"
 toc: false

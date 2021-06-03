@@ -2,7 +2,7 @@
 title: "Holy Emblem - Lust"
 permalink: /Emblem/Lust/
 excerpt: "Era of Chaos Lust. Lust. Era of Chaos Holy Emblem Lust. Era of Chaos Chaos Lust"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Lust.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-3 Resurrection"
 permalink: /Main Story/Chapter 10_3/
 excerpt: "Chapter 10 - 3. Era of Chaos  Main Story - Chapter 10_3. 10-3 Resurrection"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 10_3.md"
 toc: false

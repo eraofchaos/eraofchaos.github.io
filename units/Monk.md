@@ -3,7 +3,7 @@ title: "Monk"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Monk. Monk Units. Zealot. Era of Chaos Monks are devoted believers. They are renowned for their blessing spells, used to protect their allies, but they will also charge courageously into the battlefield."
 unitID: 105
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Monk"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Name:** [Arcane Chant](/Exclusive/Monk Arcane Chant/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 
@@ -95,6 +95,7 @@ toc: true
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
 * [Anger](/Emblem/Anger/) (Chaos)
+* [Spring of Immortality](/Emblem/Spring of Immortality/) (Goodness)
 
 ## Combination Info
 

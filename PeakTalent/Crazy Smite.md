@@ -2,7 +2,7 @@
 title: "Crazy Smite. Peak Talent - Crazy Smite"
 permalink: /PeakTalent/Crazy Smite/
 excerpt: "Era of Chaos Peak Talent Crazy Smite. Peak Talent Crazy Smite. Crazy Smite"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Crazy Smite.md"
 toc: false
@@ -18,7 +18,7 @@ sidebar:
 
   **Name:** Crazy Smite
 
-  **Description:** The fierce attack are always thrilling!
+  **Description:** The fierce attacks are always the most thrilling!
 
   **Power:** 1000
 

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 17 - 17-3 An Ideal World"
 permalink: /Underground/Chapter 17_3/
 excerpt: "Chapter 17 - 3. Era of Chaos  Underground - Chapter 17_3. 17-3 An Ideal World"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 17_3.md"
 toc: false

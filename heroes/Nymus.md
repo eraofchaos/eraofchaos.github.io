@@ -4,7 +4,7 @@ permalink: /heroes/Nymus/
 excerpt: "Era of Chaos Nymus. Nymus. Nymus is a phantom with a wealth of combat experience. Because of this, the Arch Devil has appointed her drillmaster of the Pit Fiends. When she returns to the battlefield, she will strike fear into the hearts of her enemies."
 heroID: 60803
 QR: hero_60803
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Nymus"
 toc: true
@@ -40,7 +40,7 @@ toc: true
  **Special Desciption 1:** General hint, to be added
 
 ## Spell
-### 1 Spell: Fire arrow
+### 1 Spell: Fire Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
  **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">

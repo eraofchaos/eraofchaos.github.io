@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-2 The Blue Tower"
 permalink: /Main Story/Chapter 12_2/
 excerpt: "Chapter 12 - 2. Era of Chaos  Main Story - Chapter 12_2. 12-2 The Blue Tower"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 12_2.md"
 toc: false

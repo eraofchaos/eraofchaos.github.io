@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-13 The Chase"
 permalink: /Main Story/Chapter 13_13/
 excerpt: "Chapter 13 - 13. Era of Chaos  Main Story - Chapter 13_13. 13-13 The Chase"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 13_13.md"
 toc: false

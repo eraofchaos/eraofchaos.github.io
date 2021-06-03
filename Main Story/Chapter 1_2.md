@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 1 - 1-2 Ruined Castle"
 permalink: /Main Story/Chapter 1_2/
 excerpt: "Chapter 1 - 2. Era of Chaos  Main Story - Chapter 1_2. 1-2 Ruined Castle"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 1_2.md"
 toc: false

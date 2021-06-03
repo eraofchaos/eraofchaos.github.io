@@ -2,7 +2,7 @@
 title: "Scalding Teeth"
 permalink: /equipment/Scalding Teeth/
 excerpt: "Era of Chaos Scalding Teeth. Scalding Teeth"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Scalding Teeth.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-11 Warrior's Tomb"
 permalink: /Main Story/Chapter 29_11/
 excerpt: "Chapter 29 - 11. Era of Chaos  Main Story - Chapter 29_11. 29-11 Warrior's Tomb"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 29_11.md"
 toc: false

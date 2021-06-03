@@ -1,8 +1,8 @@
 ---
 title: "Fishing Master"
 permalink: /Fishing Master/
-excerpt: "Era of Chaos  Fishing Master - 　　Dear Lord, here are your fishing attempt completion rewards. Please take a look."
-last_modified_at: 2021-05-28
+excerpt: "Era of Chaos  Fishing Master - []　　Dear Lord, here are your fishing attempt completion rewards. Please take a look.[]"
+last_modified_at: 2021-06-03
 locale: en
 ref: "index.md"
 toc: false
@@ -28,7 +28,7 @@ sidebar:
 
 <br/>  <span style="color: #3c2a1e">4. You can tap the Refresh button to reset the prize pool. The diamond cost to reset the pool will increase according to the number of times you refresh. The diamond cost will reset to its initial value whenever you obtain a round's orange-quality reward.</span><br/>
 
-<br/>  <span style="color: #3c2a1e">5. Once you have obtained the maximum number of any reward, no more of that item will appear when refreshing. Once you have obtained all high-quality rewards, refreshing will replenish the prize pool with rewards of the next highest quality, for 10 rewards each round.</span><br/>
+<br/>  <span style="color: #3c2a1e">5. Once you have obtained the maximum number of any reward, no more of that item will appear when refreshing. Once you have obtained all high-quality rewards, refreshing will replenish the prize pool with rewards of the next highest quality, for 10 rewards each round.</span>
 
 <br/>  <span style="color: #3c2a1e">6. The current prize pool's main rewards are shown at the top left of the event page. Tap the Preview button to view all of the current round's rewards as well as all rewards.</span><br/>
 

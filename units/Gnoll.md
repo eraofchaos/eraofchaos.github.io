@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Gnoll. Gnoll Units. Gnoll Warrior. Era of Chaos A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Gnoll"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armor percentage. This effect doesn't stack.
 
  **Faction:** [Fortress](/units/Faction Fortress/)
 

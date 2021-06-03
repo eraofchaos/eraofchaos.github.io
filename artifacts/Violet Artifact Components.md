@@ -2,7 +2,7 @@
 title: "Violet Artifact Components"
 permalink: /artifacts/Violet Artifact Components/
 excerpt: "Era of Chaos  List of all Violet Artifact Components . Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Violet Artifact Components.md"
 toc: false
@@ -31,10 +31,10 @@ classes: wide
  | ![Targ of the Rampaging Ogre](/images/t/artifact_40312.png) [Targ of the Rampaging Ogre](/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Defense**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A souvenir from defeating an Ogre lieutenant. One of the components of the Axe of Ferocity. | 
  | ![Crown of the Supreme Magi](/images/t/artifact_40313.png) [Crown of the Supreme Magi](/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Unit Attack**: 3+(LEVEL\*1.2) %<br/>**Hero Intelligence**: 5+(LEVEL\*2)<br/>**Hero Knowledge**: 5+(LEVEL\*2) | A crown received as a gift for saving a mad wizard. One of the components of the Axe of Ferocity. | 
  | ![Tunic of the Cyclops King](/images/t/artifact_40314.png) [Tunic of the Cyclops King](/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Unit Health**: 3+(LEVEL\*1.2) %<br/>**Hero Attack**: 5+(LEVEL\*2)<br/>**Hero Defense**: 5+(LEVEL\*2) | A coat dropped by a swimming Cyclops. One of the components of the Axe of Ferocity. | 
- | ![Sword of Hellfire](/images/t/artifact_40301.png) [Sword of Hellfire](/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4) | A sword that hosts a dark power. One of the components of the Armour of the Damned. | 
- | ![Shield of the Yawning Dead](/images/t/artifact_40302.png) [Shield of the Yawning Dead](/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 6+(LEVEL\*2.4) | A shield assembled from undead bones. One of the components of the Armour of the Damned. | 
- | ![Skull Helmet](/images/t/artifact_40303.png) [Skull Helmet](/artifacts/Skull Helmet/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 6+(LEVEL\*2.4) | A helmet found in the underworld. One of the components of the Armour of the Damned. | 
- | ![Bone Armour](/images/t/artifact_40304.png) [Bone Armour](/artifacts/Bone Armour/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 6+(LEVEL\*2.4) | A shield made from hard bones. One of the components of the Armour of the Damned. | 
+ | ![Sword of Hellfire](/images/t/artifact_40301.png) [Sword of Hellfire](/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Attack**: 6+(LEVEL\*2.4) | A sword that hosts a dark power. One of the components of the Armor of the Damned. | 
+ | ![Shield of the Yawning Dead](/images/t/artifact_40302.png) [Shield of the Yawning Dead](/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Defense**: 6+(LEVEL\*2.4) | A shield assembled from undead bones. One of the components of the Armor of the Damned. | 
+ | ![Skull Helmet](/images/t/artifact_40303.png) [Skull Helmet](/artifacts/Skull Helmet/){: .btn .btn--era4} | **Magic Damage**: 4+(LEVEL\*1.6) %<br/>**Hero Intelligence**: 6+(LEVEL\*2.4) | A helmet found in the underworld. One of the components of the Armor of the Damned. | 
+ | ![Bone Armor](/images/t/artifact_40304.png) [Bone Armor](/artifacts/Bone Armor/){: .btn .btn--era4} | **Unit Health**: 4+(LEVEL\*1.6) %<br/>**Hero Knowledge**: 6+(LEVEL\*2.4) | A shield made from hard bones. One of the components of the Armor of the Damned. | 
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)

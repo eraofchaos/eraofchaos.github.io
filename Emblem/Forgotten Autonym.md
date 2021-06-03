@@ -2,7 +2,7 @@
 title: "Holy Emblem - Forgotten Autonym"
 permalink: /Emblem/Forgotten Autonym/
 excerpt: "Era of Chaos Forgotten Autonym. Forgotten Autonym. Era of Chaos Holy Emblem Forgotten Autonym. Era of Chaos Evil Forgotten Autonym"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Forgotten Autonym.md"
 toc: false

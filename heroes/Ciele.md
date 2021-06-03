@@ -4,7 +4,7 @@ permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. As one of the first heroes to join Elemental, Ciele is an ever-victorious general on the battlefield. She discovered the connection among Magic Elementals through her magical arrows"
 heroID: 60705
 QR: hero_60705
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Ciele"
 toc: true
@@ -51,7 +51,7 @@ toc: true
 
  **Description 4:** Deals water damage to enemy units and casts <span style="color: #f0f000;font-size:18px">Slow</span><span style="color: black"> on them.
 
-### 2 Spell: Fire arrow
+### 2 Spell: Fire Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
  **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">

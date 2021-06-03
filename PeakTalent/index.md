@@ -2,7 +2,7 @@
 title: "Peak Talent"
 permalink: /PeakTalent/
 excerpt: "Era of Chaos Peak Talent. Peak Talent. Peak Talents will be available at Lv.110"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "index.md"
 toc: false
@@ -30,7 +30,7 @@ sidebar:
   | 2 | ![Heart of Endurance](/images/pt/talent_1002.png) | [Heart of Endurance](/PeakTalent/Heart of Endurance/) | Upon thousands of battles, they learned how to survive on the battlefield. |
   | 3 | ![Veteran Scar](/images/pt/talent_1003.png) | [Veteran Scar](/PeakTalent/Veteran Scar/) | The deformed scars are the impress that proves the veterans are battle-scarred. |
   | 4 | ![Elemental Immunization](/images/pt/talent_1004.png) | [Elemental Immunization](/PeakTalent/Elemental Immunization/) | After many magic attacks, a magic elemental has been created |
-  | 5 | ![Crazy Smite](/images/pt/talent_1005.png) | [Crazy Smite](/PeakTalent/Crazy Smite/) | The fierce attack are always thrilling! |
+  | 5 | ![Crazy Smite](/images/pt/talent_1005.png) | [Crazy Smite](/PeakTalent/Crazy Smite/) | The fierce attacks are always the most thrilling! |
   | 6 | ![Butcher](/images/pt/talent_1006.png) | [Butcher](/PeakTalent/Butcher/) | Smash every enemy relentlessly like a butcher. |
   | 7 | ![Murder Intent](/images/pt/talent_1007.png) | [Murder Intent](/PeakTalent/Murder Intent/) | For them, the combativeness on the battlefield is like the photosynthetic sunshine. |
   | 8 | ![Iron Lord](/images/pt/talent_1008.png) | [Iron Lord](/PeakTalent/Iron Lord/) | Under the command of the lord, soldiers get more valiant. |
@@ -107,6 +107,13 @@ sidebar:
   | 1 | ![Sword of Glory](/images/pt/talent_4201.png) | [Sword of Glory](/PeakTalent/Sword of Glory/) | Glory belongs to the combatant and skillful gladiators. |
   | 2 | ![Shield of Glory](/images/pt/talent_4202.png) | [Shield of Glory](/PeakTalent/Shield of Glory/) | Glory belongs to the gladiators who can resist all attacks. |
   | 3 | ![Medal of Glory](/images/pt/talent_4203.png) | [Medal of Glory](/PeakTalent/Medal of Glory/) | Glory belongs to the fearless gladiators. |
+
+
+  | Nr | Icon | Name | Description |
+  |:---|------|:-----------|:-----------|
+  | 1 | ![Sword of Lords](/images/pt/talent_4301.png) | [Sword of Lords](/PeakTalent/Sword of Lords/) | Victory belongs to the combatant and skillful lords. |
+  | 2 | ![Shield of Lords](/images/pt/talent_4302.png) | [Shield of Lords](/PeakTalent/Shield of Lords/) | Victory belongs to the lords who can resist all attacks. |
+  | 3 | ![Medal of Lords](/images/pt/talent_4303.png) | [Medal of Lords](/PeakTalent/Medal of Lords/) | Victory belongs to the fearless lords. |
 
 
   | Nr | Icon | Name | Description |

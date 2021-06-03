@@ -2,7 +2,7 @@
 title: "Devastative Fire"
 permalink: /equipment/Devastative Fire/
 excerpt: "Era of Chaos Devastative Fire. Devastative Fire"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Devastative Fire.md"
 toc: false

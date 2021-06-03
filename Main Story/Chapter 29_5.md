@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-5 Clover Village"
 permalink: /Main Story/Chapter 29_5/
 excerpt: "Chapter 29 - 5. Era of Chaos  Main Story - Chapter 29_5. 29-5 Clover Village"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 29_5.md"
 toc: false

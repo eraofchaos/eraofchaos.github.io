@@ -2,7 +2,7 @@
 title: "Core of Magma"
 permalink: /equipment/Core of Magma/
 excerpt: "Era of Chaos Core of Magma. Core of Magma"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Core of Magma.md"
 toc: false

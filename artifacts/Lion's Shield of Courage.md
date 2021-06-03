@@ -2,7 +2,7 @@
 title: "Artifacts - Angelic Alliance - Lion's Shield of Courage"
 permalink: /artifacts/Lion's Shield of Courage/
 excerpt: "Era of Chaos  Angelic Alliance - Lion's Shield of Courage. A symbol of the military might of Griffin units. One of the components of the Angelic Alliance."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Lion's Shield of Courage.md"
 toc: false

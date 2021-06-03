@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 Byrds"
 permalink: /Main Story/Chapter 5/
 excerpt: "Chapter 5. Era of Chaos  Main Story - Chapter 5. Byrds"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 5.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | [5-11 An Angel Descends](/Main Story/Chapter 5_11/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Gems](/Items/mat_16/){: .btn .btn--era3}, [Common Crystal](/Items/mat_11/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [5-12 Total War](/Main Story/Chapter 5_12/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Crystal](/Items/mat_17/){: .btn .btn--era3}, [Common Gems](/Items/mat_10/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [5-13 Enthusiastic Revenge](/Main Story/Chapter 5_13/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Sulfur](/Items/mat_15/){: .btn .btn--era3}, [Common Ore](/Items/mat_6/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
-  | [5-14 Dragon Armour](/Main Story/Chapter 5_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Gems](/Items/mat_16/){: .btn .btn--era3}, [Common Crystal](/Items/mat_11/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
+  | [5-14 Dragon Armor](/Main Story/Chapter 5_14/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Gems](/Items/mat_16/){: .btn .btn--era3}, [Common Crystal](/Items/mat_11/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
   | [5-15 War Breaks Out](/Main Story/Chapter 5_15/) | [Silver Key](/Items/con_693/){: .btn .btn--era3} | [Good Crystal](/Items/mat_17/){: .btn .btn--era3}, [Common Gems](/Items/mat_10/){: .btn .btn--era2}, [Spell Scrolls](/Items/con_694/){: .btn .btn--era3} |
 
 

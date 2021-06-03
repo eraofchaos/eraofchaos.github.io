@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant (Sea Elemental)"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Sea Elemental Exclusive."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Sea Elemental Arcane Chant.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Charge
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 

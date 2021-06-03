@@ -2,7 +2,7 @@
 title: "Gorgon Battle Axe"
 permalink: /equipment/Gorgon Battle Axe/
 excerpt: "Era of Chaos Gorgon Battle Axe. Gorgon Battle Axe"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Gorgon Battle Axe.md"
 toc: false

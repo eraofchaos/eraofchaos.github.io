@@ -2,7 +2,7 @@
 title: "Hotspot Artifacts for  2021"
 permalink: /Hotspot/HotSpot Artifact _2021/
 excerpt: "Artifacts Hotspot for  2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "HotSpot Artifact _2021.md"
 toc: false
@@ -17,12 +17,11 @@ classes: wide
 
   |  Date  |    First Artifact     |   Second Artifact    |
   |:-------|:----------------------|:--------------------:|
-  | 26 Apr - 3 May | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
-  | 3 - 10 May | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 10 - 17 May | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
-  | 17 - 24 May | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 24 - 31 May | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
   | 31 May - 7 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
+  | 7 - 14 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} |
+  | 14 - 21 Jun | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 21 - 28 Jun | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 28 Jun - 5 Jul | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
 
 
 

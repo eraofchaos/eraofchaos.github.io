@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Cove"
 permalink: /Exclusive/Exclusive Cove/
 excerpt: "Era of Chaos Exclusive Cove. Exclusive Cove. List of Exclusive Cove in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Exclusive Cove"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Regnan Pirates](/units/Regnan Pirates/) | [Sword](/Exclusive/Regnan Pirates Sword/) | + | Charge | [Sword Token](/Items/con_912/) | - |
   | 2  | [Regnan Archer](/units/Regnan Archer/) | [Miracle](/Exclusive/Regnan Archer Miracle/) | - | Support | - | - |
-  | 3  | [Sea Elemental](/units/Sea Elemental/) | [Arcane Chant](/Exclusive/Sea Elemental Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
+  | 3  | [Sea Elemental](/units/Sea Elemental/) | [Arcane Chant](/Exclusive/Sea Elemental Arcane Chant/) | + | Charge | [Arcane Chant Token](/Items/con_915/) | - |
   | 4  | [Regnan Serpent](/units/Regnan Serpent/) | [Day Tides](/Exclusive/Regnan Serpent Day Tides/) | - | Ranged | [Day Tides Token](/Items/con_1003/) | [Day Tides Special Skin](/Items/con_671/) |
   | 5  | [Mermaid](/units/Mermaid/) | [Night Tides](/Exclusive/Mermaid Night Tides/) | - | Ranged | [Night Tides Token](/Items/con_1004/) | [Night Tides Special Skin](/Items/con_672/) |
   | 6  | [Dragon Turtle](/units/Dragon Turtle/) | [Obedience](/Exclusive/Dragon Turtle Obedience/) | - | Support | [Obedience Token](/Items/con_1005/) | [Obedience Special Skin](/Items/con_673/) |

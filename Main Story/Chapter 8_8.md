@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 - 8-8 Battle Tactics"
 permalink: /Main Story/Chapter 8_8/
 excerpt: "Chapter 8 - 8. Era of Chaos  Main Story - Chapter 8_8. 8-8 Battle Tactics"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 8_8.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. King Roland was rescued from the Kreegans by a group of warriors. In thanks, he joined the Erathian army as a general. There he met Catherine, and they fought together to resist foreign forces. "
 heroID: 60103
 QR: hero_60103
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Roland"
 toc: true
@@ -38,7 +38,7 @@ toc: true
  **Special Desciption 1:** General hint, to be added
 
 ## Spell
-### 1 Spell: Fire arrow
+### 1 Spell: Fire Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
  **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">

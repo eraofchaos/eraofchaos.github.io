@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Necromancer -  Heroes"
 permalink: /heroes/Profession Necromancer/
 excerpt: "Era of Chaos Profession Necromancer. Profession Necromancer. List of Profession  in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Profession Necromancer"
 toc: false

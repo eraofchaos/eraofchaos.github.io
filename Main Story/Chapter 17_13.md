@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-13 Hometown Nightmare"
 permalink: /Main Story/Chapter 17_13/
 excerpt: "Chapter 17 - 13. Era of Chaos  Main Story - Chapter 17_13. 17-13 Hometown Nightmare"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 17_13.md"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
 
  **Name:** 17-13 Hometown Nightmare
 
- **Description:** You awoke this morning from a dream of your house razed to the ground, everyone you know and love brutally slaughtered. You pulled on your armour, determined to destroy your enemies before they could destroy you.
+ **Description:** You awoke this morning from a dream of your house razed to the ground, everyone you know and love brutally slaughtered. You pulled on your armor, determined to destroy your enemies before they could destroy you.
 
  **Related to:** [Main Story Chapter 17](/Main Story/Chapter 17/)
 

@@ -2,7 +2,7 @@
 title: "Artifacts - Live Hawkeye - Ring of Eagle Vision"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "Era of Chaos  Live Hawkeye - Ring of Eagle Vision. A secret ring with mounted eyeballs. One of the components of the Live Hawkeye"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Ring of Eagle Vision.md"
 toc: false

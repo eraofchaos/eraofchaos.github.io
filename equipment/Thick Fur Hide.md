@@ -2,7 +2,7 @@
 title: "Thick Fur Hide"
 permalink: /equipment/Thick Fur Hide/
 excerpt: "Era of Chaos Thick Fur Hide. Thick Fur Hide"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Thick Fur Hide.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 29 - 29-3  Fearless Charge"
 permalink: /Underground/Chapter 29_3/
 excerpt: "Chapter 29 - 3. Era of Chaos  Underground - Chapter 29_3. 29-3  Fearless Charge"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 29_3.md"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
 
  **Name:** 29-3  Fearless Charge
 
- **Description:**       There's the enemy! With me! Ah? they're over there too!? Charge!
+ **Description:**       There's the enemy! With me! Ah? They're over there too!? Charge!
 
  **Related to:** [Underground Chapter 29](/Underground/Chapter 29/)
 

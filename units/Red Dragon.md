@@ -3,7 +3,7 @@ title: "Red Dragon"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Red Dragon. Red Dragon Units. null. Era of Chaos It is the overlord of dragons. Its roar arouses a response from its kin, but it's also a declaration of the dragon's dignity."
 unitID: 708
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Red Dragon"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armor percentage. This effect doesn't stack.
 
  **Faction:** [Dungeon](/units/Faction Dungeon/)
 

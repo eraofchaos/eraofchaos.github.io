@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-15 Dwarf Guard"
 permalink: /Main Story/Chapter 16_15/
 excerpt: "Chapter 16 - 15. Era of Chaos  Main Story - Chapter 16_15. 16-15 Dwarf Guard"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 16_15.md"
 toc: false

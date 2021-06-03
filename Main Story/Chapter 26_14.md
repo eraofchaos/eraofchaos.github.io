@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-14 Reproductive Isolation"
 permalink: /Main Story/Chapter 26_14/
 excerpt: "Chapter 26 - 14. Era of Chaos  Main Story - Chapter 26_14. 26-14 Reproductive Isolation"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 26_14.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. At a young age, Kilgor defeated his father for the title of clan chief. His fame has kept spreading throughout Krewlod ever since. Many consider him the only warrior capable of winning this generation's Festival of Life. "
 heroID: 60601
 QR: hero_60601
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Kilgor"
 toc: true
@@ -40,7 +40,7 @@ toc: true
  **Special Desciption 1:** <span style="color: #ffffff">　</span><br/><span style="color: #3c2a1e;font-size:22px">Additional Description of Kilgor's Specialty 2</span><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: #8a5c1d;font-size:18px">War Behemoth gains 50% damage reflection. HP regeneration from War Behemoth's &lt;Infuriate&gt; has doubled effect and can recover the HP of all friendly Stronghold units by 10%. Also, each time Infuriate is used, friendly Stronghold unit gains 10% increased unit damage that stacks up to 5 layers and cannot be dispelled.</span><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: #8a5c1d;font-size:18px">When the HP of Stronghold units drops below 91%, 82%, 73%, 64%, 55%, 46%, 37%, 28%, 19%, 9% for the first time, it increases their Attack Speed by 5% and their Critical Hit by 20. The effect lasts throughout the battle, stacks up to 10 times, and cannot be dispelled.</span>
 
 ## Spell
-### 1 Spell: Fire arrow
+### 1 Spell: Fire Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
  **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">

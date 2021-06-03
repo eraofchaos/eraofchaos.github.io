@@ -1,8 +1,8 @@
 ---
 title: "Artifacts - Titan's Thunder - Titan's Cuirass"
 permalink: /artifacts/Titan's Cuirass/
-excerpt: "Era of Chaos  Titan's Thunder - Titan's Cuirass. An armour made from a meteor. One of the components of the Titan's Thunder."
-last_modified_at: 2021-05-28
+excerpt: "Era of Chaos  Titan's Thunder - Titan's Cuirass. An armor made from a meteor. One of the components of the Titan's Thunder."
+last_modified_at: 2021-06-03
 locale: en
 ref: "Titan's Cuirass.md"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
 
 ## Details
 
- **Description:** An armour made from a meteor. One of the components of the Titan's Thunder.
+ **Description:** An armor made from a meteor. One of the components of the Titan's Thunder.
 
  **Part of Artifact:** ![Titan's Thunder](/images/t/icon_artifact_42.png) [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5}
 

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 For King and Country"
 permalink: /Main Story/Chapter 16/
 excerpt: "Chapter 16. Era of Chaos  Main Story - Chapter 16. For King and Country"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 16.md"
 toc: false

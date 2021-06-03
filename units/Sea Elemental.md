@@ -3,7 +3,7 @@ title: "Sea Elemental"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Sea Elemental. Sea Elemental Units. Tidal Elemental. Era of Chaos Born in endless waters, the spirit from the deep masters the power of the ocean and can use it to destroy its enemies."
 unitID: 9903
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Sea Elemental"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **Name:** [Arcane Chant](/Exclusive/Sea Elemental Arcane Chant/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rank Up:** [Arcane Chant Token](/Items/con_915/)
 

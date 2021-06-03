@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-12 Battle on the Plain"
 permalink: /Main Story/Chapter 13_12/
 excerpt: "Chapter 13 - 12. Era of Chaos  Main Story - Chapter 13_12. 13-12 Battle on the Plain"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 13_12.md"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
 
  **Name:** 13-12 Battle on the Plain
 
- **Description:** Two armies battle on the plain. Blood and viscera mingle with fallen swords and useless armour. The only sounds are cries, screams and the ringing of sword on sword. We charge.
+ **Description:** Two armies battle on the plain. Blood and viscera mingle with fallen swords and useless armor. The only sounds are cries, screams and the ringing of sword on sword. We charge.
 
  **Related to:** [Main Story Chapter 13](/Main Story/Chapter 13/)
 

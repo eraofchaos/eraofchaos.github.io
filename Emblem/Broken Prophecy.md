@@ -2,7 +2,7 @@
 title: "Holy Emblem - Broken Prophecy"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Era of Chaos Broken Prophecy. Broken Prophecy. Era of Chaos Holy Emblem Broken Prophecy. Era of Chaos Evil Broken Prophecy"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Broken Prophecy.md"
 toc: false

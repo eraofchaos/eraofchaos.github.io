@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-9 First Men Tree"
 permalink: /Main Story/Chapter 3_9/
 excerpt: "Chapter 3 - 9. Era of Chaos  Main Story - Chapter 3_9. 3-9 First Men Tree"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 3_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Born to Be King. Peak Talent - Born to Be King"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Era of Chaos Peak Talent Born to Be King. Peak Talent Born to Be King. Born to Be King"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Born to Be King.md"
 toc: false
@@ -30,6 +30,13 @@ sidebar:
   | 1 | ![Sword of Glory](/images/pt/talent_4201.png) | [Sword of Glory](/PeakTalent/Sword of Glory/) | Glory belongs to the combatant and skillful gladiators. |
   | 2 | ![Shield of Glory](/images/pt/talent_4202.png) | [Shield of Glory](/PeakTalent/Shield of Glory/) | Glory belongs to the gladiators who can resist all attacks. |
   | 3 | ![Medal of Glory](/images/pt/talent_4203.png) | [Medal of Glory](/PeakTalent/Medal of Glory/) | Glory belongs to the fearless gladiators. |
+
+
+  | Nr | Icon | Name | Description |
+  |:---|------|:-----------|:-----------|
+  | 1 | ![Sword of Lords](/images/pt/talent_4301.png) | [Sword of Lords](/PeakTalent/Sword of Lords/) | Victory belongs to the combatant and skillful lords. |
+  | 2 | ![Shield of Lords](/images/pt/talent_4302.png) | [Shield of Lords](/PeakTalent/Shield of Lords/) | Victory belongs to the lords who can resist all attacks. |
+  | 3 | ![Medal of Lords](/images/pt/talent_4303.png) | [Medal of Lords](/PeakTalent/Medal of Lords/) | Victory belongs to the fearless lords. |
 
 
   | Nr | Icon | Name | Description |

@@ -4,7 +4,7 @@ permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. When Lucifer Kreegan killed Xenofex and seized power, Xeron was the first to pledge allegiance to the usurper. This act won him the favour of the new king."
 heroID: 60801
 QR: hero_60801
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Xeron"
 toc: true
@@ -40,7 +40,7 @@ toc: true
  **Special Desciption 1:** <span style="color: #ffffff"> </span><br/><span style="color: #3c2a1e;font-size:22px">Additional Description of Xeron's Specialty 2</span><br/><span style="color: #ffffff;font-size:6px"> </span><span style="color: #8a5c1d;font-size:18px">When Xeron casts &lt;Echo of the Abyss&gt;, it triggers Devil's special skill as well.</span><br/><span style="color: #ffffff"> </span><br/><span style="color: #3c2a1e;font-size:22px">How to Activate Xeron's Special Skill</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/><span style="color: #645252;font-size:20px">1. &lt;Cruel Torture&gt; - Devil</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/><span style="color: #645252;font-size:20px">&lt;Cruel Torture&gt; When Devil is present, casting &lt;Echo of the Abyss&gt; inflicts &lt;Cruel Torture&gt; once while granting all friendly Inferno faction units immunity to all damage and increasing attack speed by 20% for 6s.</span><br/><span style="color: #ffffff"> </span><br/><span style="color: #3c2a1e;font-size:22px">Additional Description of Xeron's Specialty 3</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/><span style="color: #645252;font-size:20px">1. Each deployed Offensive unit increases the unit damage of Devil (Doombringer) and Hell Hound by 5%.</span><br/><span style="color: #645252;font-size:20px">2. Each deployed Inferno unit increases the unit damage reduction of Devil (Doombringer) and Pit Fiend by 5%.</span><br/><span style="color: #645252;font-size:20px">3. Each deployed Caster unit increases the Crit DMG of Efreeti and Gog by 5%.</span><br/><span style="color: #645252;font-size:20px">4. Each deployed Defense unit increases the DEF of Demon, Imp and Nightmare by 3%.</span>
 
 ## Spell
-### 1 Spell: Fire arrow
+### 1 Spell: Fire Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
  **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">

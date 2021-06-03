@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Era of Chaos Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Faction Castle"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | ![Marksman](/images/u/ti_nushou.jpg) | [Marksman](/units/Marksman/) | Ranged | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Master Archer  |
   | 3 | ![Griffin](/images/u/ti_shijiu.jpg) | [Griffin](/units/Griffin/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Royal Griffin  |
   | 4 | ![Swordsman](/images/u/ti_shizijun.jpg) | [Swordsman](/units/Swordsman/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crusader  |
-  | 5 | ![Monk](/images/u/ti_senglv.jpg) | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zealot  |
+  | 5 | ![Monk](/images/u/ti_senglv.jpg) | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Zealot  |
   | 6 | ![Cavalier](/images/u/ti_qishi.jpg) | [Cavalier](/units/Cavalier/) | Charging | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Champion Knights  |
   | 7 | ![Paladin](/images/u/ti_shengqishi.jpg) | [Paladin](/units/Paladin/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Supreme Paladin  |
   | 8 | ![Angel](/images/u/ti_datianshi.jpg) | [Angel](/units/Angel/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archangel  |

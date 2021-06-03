@@ -4,7 +4,7 @@ permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Dragon Mutare. Dragon Mutare. After drinking the Dragon's Blood Vial, Mutare became a dragon that retained human consciousness. Some speculate that her transformation heralds the arrival of the Dragon Father."
 heroID: 61302
 QR: hero_61302
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Dragon Mutare"
 toc: true
@@ -38,7 +38,7 @@ toc: true
  **Special Desciption 1:** General hint, to be added
 
 ## Spell
-### 1 Spell: Fire arrow
+### 1 Spell: Fire Arrow
  **Description:** Deals <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> fire spell damage on enemy units in a certain area and <span style="color: #e07c44;font-size:20px">burns</span><span style="color: black"> them, lasting for {($bufflast11+$bufflast12*($sklevel-1))/1000}s.
 
  **Description 2:** Next level, damage increases by <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">

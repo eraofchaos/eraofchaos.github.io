@@ -1,8 +1,8 @@
 ---
 title: "Artifacts - Angelic Alliance - Armor of Wonders"
 permalink: /artifacts/Armor of Wonders/
-excerpt: "Era of Chaos  Angelic Alliance - Armor of Wonders. Armour that witnessed the heights of the Empire. One of the components of the Angelic Alliance."
-last_modified_at: 2021-05-28
+excerpt: "Era of Chaos  Angelic Alliance - Armor of Wonders. Armor that witnessed the heights of the Empire. One of the components of the Angelic Alliance."
+last_modified_at: 2021-06-03
 locale: en
 ref: "Armor of Wonders.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
 ## Details
 
- **Description:** Armour that witnessed the heights of the Empire. One of the components of the Angelic Alliance.
+ **Description:** Armor that witnessed the heights of the Empire. One of the components of the Angelic Alliance.
 
  **Part of Artifact:** ![Angelic Alliance](/images/t/icon_artifact_41.png) [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5}
 

@@ -2,7 +2,7 @@
 title: "Hotspot Artifacts and Spells for 2021"
 permalink: /Hotspot/
 excerpt: "Era of Chaos  Artifacts and Spells Hotspot for 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "index.md"
 toc: false
@@ -17,12 +17,11 @@ classes: wide
 
   |  Date  |    First Artifact     |   Second Artifact    |
   |:-------|:----------------------|:--------------------:|
-  | 26 Apr - 3 May | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
-  | 3 - 10 May | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 10 - 17 May | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
-  | 17 - 24 May | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
-  | 24 - 31 May | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
   | 31 May - 7 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} |
+  | 7 - 14 Jun | [Spellbinder's Hat](/artifacts/Spellbinder's Hat/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} or [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} |
+  | 14 - 21 Jun | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} |
+  | 21 - 28 Jun | [Live Hawkeye](/artifacts/Live Hawkeye/){: .btn .btn--era5} or [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Sword of Frost](/artifacts/Sword of Frost/){: .btn .btn--era5} or [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} |
+  | 28 Jun - 5 Jul | [Titan's Thunder](/artifacts/Titan's Thunder/){: .btn .btn--era5} | [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} or [Power of the Dragon Father](/artifacts/Power of the Dragon Father/){: .btn .btn--era5} |
 
 
 ##  HotSpot **Spells** for **2021:**
@@ -31,12 +30,11 @@ classes: wide
 
   |  Date  |  Orange Spell  |  Violet Spells  | Blue Spells | Green Spells |
   |:-------|:---------------|:---------------:|:-----------:|:------------:|
-  | 26 Apr - 3 May | [Crystallized Earth](/Items/her_474/) | [Water Mastery](/Items/her_481/), [Spell Master](/Items/her_489/) | [Hindrance](/Items/her_453/), [Curse](/Items/her_410/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
-  | 3 - 10 May | [Lava Trap](/Items/her_475/) | [Air Mastery](/Items/her_492/), [Earth Mastery](/Items/her_499/) | [Forest Resonance](/Items/her_465/), [Mirth](/Items/her_424/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
-  | 10 - 17 May | [Morass](/Items/her_476/) | [Ice Shield](/Items/her_417/), [Meteor Shower](/Items/her_455/) | [Stone Skin](/Items/her_452/), [Fire Elemental](/Items/her_411/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
-  | 17 - 24 May | [Chain Lightning](/Items/her_442/) | [Ice Shield](/Items/her_417/), [Fireball](/Items/her_404/) | [Forest Resonance](/Items/her_465/), [Air Elemental](/Items/her_448/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
-  | 24 - 31 May | [Replenished Magic](/Items/her_482/) | [Fire Mastery](/Items/her_477/), [Wind Wall](/Items/her_436/) | [Stone Skin](/Items/her_452/), [Sorrow](/Items/her_458/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
   | 31 May - 7 Jun | [Death Ripple](/Items/her_456/) | [Bloodlust](/Items/her_401/), [Wind Wall](/Items/her_436/) | [Water Elemental](/Items/her_427/), [Stone Skin](/Items/her_452/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
+  | 7 - 14 Jun | [Blizzard](/Items/her_423/) | [Spell Master](/Items/her_489/), [Mirth](/Items/her_424/) | [Air Elemental](/Items/her_448/), [Forest Resonance](/Items/her_465/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
+  | 14 - 21 Jun | [Rush Tactic](/Items/her_450/) | [Fast Attack](/Items/her_437/), [Necromancy](/Items/her_460/) | [Animate Dead](/Items/her_466/), [Air Elemental](/Items/her_448/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
+  | 21 - 28 Jun | [Replenished Magic](/Items/her_482/) | [Ice Bolt](/Items/her_422/), [Mirth](/Items/her_424/) | [Air Elemental](/Items/her_448/), [Forest Resonance](/Items/her_465/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
+  | 28 Jun - 5 Jul | [Inferno Flame](/Items/her_406/) | [Water Mastery](/Items/her_481/), [Air Shield](/Items/her_435/) | [Fire Elemental](/Items/her_411/), [Forest Resonance](/Items/her_465/) | [Fire Arrow](/Items/her_413/), [Frozen Arrow](/Items/her_431/), [Air Arrow](/Items/her_449/), [Earth Arrow](/Items/her_464/) |
 
 
 

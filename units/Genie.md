@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Genie. Genie Units. Master Genie. Era of Chaos Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Genie"
 toc: true
@@ -92,6 +92,7 @@ toc: true
 ## Recommended Holy Emblems
 
 * [Everlasting Secret](/Emblem/Everlasting Secret/) (Order)
+* [Spring of Immortality](/Emblem/Spring of Immortality/) (Goodness)
 * [Anger](/Emblem/Anger/) (Chaos)
 
 ## Combination Info

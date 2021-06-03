@@ -4,7 +4,7 @@ permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack was an unsung hero in Enroth before he set sail for Erathia. He found this land of turmoil the perfect place to put his skills to use."
 heroID: 60602
 QR: hero_60602
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Crag Hack"
 toc: true
@@ -95,7 +95,7 @@ toc: true
    - This barren land is located near Krewlod. It has been overrun with barbarians for many years.
    - The Death Knight Ramos ruled the area. According to your information, he has stolen a sacred artifact from the tomb of a great hero.
    - In the Swamp of Ferris lived a group of Wights. They are under the enchantment of an evil artifact and have never been able to find peace...
-   - A cult named the \"Death's Hand\" control the area. Their leader, Charnath, possesses the final artifact for the Armour of the Damned.
+   - A cult named the \"Death's Hand\" control the area. Their leader, Charnath, possesses the final artifact for the Armor of the Damned.
 
 ## HERO Skins
 ### Skin 1: **Classic**

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Unit Rank SR"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | 20 | ![Beholder](/images/u/ti_xieyan.jpg) | [Beholder](/units/Beholder/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Evil Eye  |
   | 21 | ![Swordsman](/images/u/ti_shizijun.jpg) | [Swordsman](/units/Swordsman/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crusader  |
   | 22 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/units/Medusa/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Medusa Queen  |
-  | 23 | ![Monk](/images/u/ti_senglv.jpg) | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zealot  |
+  | 23 | ![Monk](/images/u/ti_senglv.jpg) | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Zealot  |
   | 24 | ![Dwarf](/images/u/ti_airen.jpg) | [Dwarf](/units/Dwarf/) | Defense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 25 | ![Minotaur](/images/u/ti_niutouguai.jpg) | [Minotaur](/units/Minotaur/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotaur King  |
   | 26 | ![Magic Airship](/images/u/ti_reqiqiu.jpg) | [Magic Airship](/units/Magic Airship/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |

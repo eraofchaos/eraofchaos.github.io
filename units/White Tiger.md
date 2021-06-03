@@ -3,7 +3,7 @@ title: "White Tiger"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos White Tiger. White Tiger Units. null. Era of Chaos White Tiger uses its violent White Tiger Spirit to crush the enemy's defense line where it is weakest, and activates its plague powers to turn the battle situation around."
 unitID: 809
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "White Tiger"
 toc: true

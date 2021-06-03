@@ -3,7 +3,7 @@ title: "Hydra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Hydra. Hydra Units. Chaos Hydra. Era of Chaos A multi-headed beast living in the deep marsh. Slaying it is the glory that all heroes dream of."
 unitID: 807
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Hydra"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armor percentage. This effect doesn't stack.
 
  **Faction:** [Fortress](/units/Faction Fortress/)
 

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 1 - 1-5 A Close Call"
 permalink: /Underground/Chapter 1_5/
 excerpt: "Chapter 1 - 5. Era of Chaos  Underground - Chapter 1_5. 1-5 A Close Call"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 1_5.md"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
 
  **Name:** 1-5 A Close Call
 
- **Description:** Damn these marshes! There's mud all over my beautiful armour!
+ **Description:** Damn these marshes! There's mud all over my beautiful armor!
 
  **Related to:** [Underground Chapter 1](/Underground/Chapter 1/)
 

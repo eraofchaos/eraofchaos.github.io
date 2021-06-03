@@ -2,7 +2,7 @@
 title: "Underground - Chapter 2 - 2-1 Reborn in Daylight"
 permalink: /Underground/Chapter 2_1/
 excerpt: "Chapter 2 - 1. Era of Chaos  Underground - Chapter 2_1. 2-1 Reborn in Daylight"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 2_1.md"
 toc: false

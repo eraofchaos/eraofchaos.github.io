@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Naga. Naga Units. Naga Queen. Era of Chaos These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Naga"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Class:** [Offense](/units/Unit Class Offense/)
 
- **Class Description:** Offensive units can decrease their targets' armour percentage. This effect doesn't stack.
+ **Class Description:** Offensive units can decrease their targets' armor percentage. This effect doesn't stack.
 
  **Faction:** [Tower](/units/Faction Tower/)
 

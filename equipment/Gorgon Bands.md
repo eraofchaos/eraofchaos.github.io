@@ -2,7 +2,7 @@
 title: "Gorgon Bands"
 permalink: /equipment/Gorgon Bands/
 excerpt: "Era of Chaos Gorgon Bands. Gorgon Bands"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Gorgon Bands.md"
 toc: false

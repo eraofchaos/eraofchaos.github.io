@@ -2,7 +2,7 @@
 title: "Artifacts"
 permalink: /artifacts/
 excerpt: "Era of Chaos  List of all Artifacts. Collect artifacts to improve your heroes' attributes and unlock powerful skills."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 3   | ![Wizard's Well](/images/t/icon_artifact_21.png) [Wizard's Well](/artifacts/Wizard's Well/){: .btn .btn--era3} | 3 | 1 | Magical item made to fight demons. Able to increase spell point regeneration speed. |
   | 4   | ![Ring of the Mage](/images/t/icon_artifact_22.png) [Ring of the Mage](/artifacts/Ring of the Mage/){: .btn .btn--era3} | 3 | 1 | Magical ring forged from enchanted items. Able to increase spell damage. |
   | 5   | ![Antimagic Runestone](/images/t/icon_artifact_23.png) [Antimagic Runestone](/artifacts/Antimagic Runestone/){: .btn .btn--era3} | 3 | 1 | Antimagic runestone forged from enchanted items. Able to resist against spell damage |
-  | 6   | ![Armour of the Damned](/images/t/icon_artifact_30.png) [Armour of the Damned](/artifacts/Armour of the Damned/){: .btn .btn--era4} | 4 | 1 | A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities. |
+  | 6   | ![Armor of the Damned](/images/t/icon_artifact_30.png) [Armor of the Damned](/artifacts/Armor of the Damned/){: .btn .btn--era4} | 4 | 1 | A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities. |
   | 7   | ![Axe of Ferocity](/images/t/icon_artifact_31.png) [Axe of Ferocity](/artifacts/Axe of Ferocity/){: .btn .btn--era4} | 4 | 35 | A weapon forged from holy relics from different races. Able to enhance close combat ability. |
   | 8   | ![Bow of the Sharpshooter](/images/t/icon_artifact_10.png) [Bow of the Sharpshooter](/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | 1 | A holy relic forged from treasures by the elves. Able to increase ranged attack. |
   | 9   | ![Cloak of the Undead King](/images/t/icon_artifact_32.png) [Cloak of the Undead King](/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | A holy relic made by a great undead king to hide his face. Able to summon a skeleton army. |
@@ -31,6 +31,7 @@ classes: wide
   | 16   | ![Armageddon's Blade](/images/t/icon_artifact_44.png) [Armageddon's Blade](/artifacts/Armageddon's Blade/){: .btn .btn--era5} | 6 | 60 | The doomed flame will burn your soul |
   | 17   | ![Angelic Alliance](/images/t/icon_artifact_41.png) [Angelic Alliance](/artifacts/Angelic Alliance/){: .btn .btn--era5} | 6 | 60 | A holy relic forged from precious items by Angelic power. Able to increase the power of your allies. |
   | 18   | ![Apple of Eden](/images/t/icon_artifact_49.png) [Apple of Eden](/artifacts/Apple of Eden/){: .btn .btn--era5} | 6 | 35 | A gift from the ancient civilization of Precursors. Legend says it's an artifact that can manipulate all living things. |
+  | 19   | [Envoy's Pen](/artifacts/Envoy's Pen/) | 4 | 1 | A symbol of strength and power. A revered relic reserved for victors. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/artifacts/Artifacts Upgrade/)

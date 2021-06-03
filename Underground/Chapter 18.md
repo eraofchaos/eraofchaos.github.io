@@ -2,7 +2,7 @@
 title: "Underground - Chapter 18 Deal with the Devil"
 permalink: /Underground/Chapter 18/
 excerpt: "Chapter 18 Deal with the Devil. Era of Chaos  Underground - Chapter 18. Deal with the Devil"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 18.md"
 toc: false

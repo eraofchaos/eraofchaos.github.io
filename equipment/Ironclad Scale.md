@@ -2,7 +2,7 @@
 title: "Ironclad Scale"
 permalink: /equipment/Ironclad Scale/
 excerpt: "Era of Chaos Ironclad Scale. Ironclad Scale"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Ironclad Scale.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "index.md"
 toc: false
@@ -72,7 +72,7 @@ classes: wide
   | 50 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/units/Medusa/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Medusa Queen  |
   | 51 | ![Mermaid](/images/u/ti_meirenyu.jpg) | [Mermaid](/units/Mermaid/) | Caster | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 52 | ![Minotaur](/images/u/ti_niutouguai.jpg) | [Minotaur](/units/Minotaur/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotaur King  |
-  | 53 | ![Monk](/images/u/ti_senglv.jpg) | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Zealot  |
+  | 53 | ![Monk](/images/u/ti_senglv.jpg) | [Monk](/units/Monk/) | Caster | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Zealot  |
   | 54 | ![Mummy](/images/u/ti_munaiyi.jpg) | [Mummy](/units/Mummy/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Mummy King  |
   | 55 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/units/Naga/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Naga Queen  |
   | 56 | ![Nightmare](/images/u/ti_mengyanshou.jpg) | [Nightmare](/units/Nightmare/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Nightmare King  |
@@ -90,7 +90,7 @@ classes: wide
   | 68 | ![Regnan Serpent](/images/u/ti_yurenyongshi.jpg) | [Regnan Serpent](/units/Regnan Serpent/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 69 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Ancient Sea Monster  |
   | 70 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/units/Roc/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Thunderbird  |
-  | 71 | ![Sea Elemental](/images/u/ti_haiyuansu.jpg) | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Tidal Elemental  |
+  | 71 | ![Sea Elemental](/images/u/ti_haiyuansu.jpg) | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Tidal Elemental  |
   | 72 | ![Serpent Fly](/images/u/ti_longying.jpg) | [Serpent Fly](/units/Serpent Fly/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Dragon Fly  |
   | 73 | ![Shark Trainer](/images/u/ti_xunshashi.jpg) | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Shark Rider  |
   | 74 | ![Skeleton](/images/u/ti_kulouzhanshi.jpg) | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Skeleton Warrior  |

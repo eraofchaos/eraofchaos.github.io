@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-5 Wall of Wisdom"
 permalink: /Main Story/Chapter 20_5/
 excerpt: "Chapter 20 - 5. Era of Chaos  Main Story - Chapter 20_5. 20-5 Wall of Wisdom"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: en
 ref: "Chapter 20_5.md"
 toc: false
