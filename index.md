@@ -10,6 +10,25 @@ sidebar:
   nav: "docs"
 ---
 
+{% capture notice-update20210605 %}
+* New [Dragon Boat Festival](/Dragon Boat Festival/) event in your language:
+  * [Drachenboot-Fest](/de/Dragon Boat Festival/)
+  * [Fête des bateaux-dragons](/fr/Dragon Boat Festival/)
+  * [Драконьи лодки](/ru/Dragon Boat Festival/)
+  * [Festa delle barche drago](/it/Dragon Boat Festival/)
+  * [Festival del Barco del Dragón](/es/Dragon Boat Festival/)
+
+Offtopic: Congratulation **Jin** from server **EU-33** with second Win in cross-server battle. All the best to Guild **chaos**!
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">5 June 2021 Update: Dragon Boat Festival event</h4>
+  {{ notice-update20210605 | markdownify }}
+</div>
+
+
+
 {% capture notice-update20210602 %}
 
 * New Items:
