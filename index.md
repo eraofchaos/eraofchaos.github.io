@@ -39,7 +39,7 @@ sidebar:
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">2 June 2021 Update: Client version 151 (3594/3595)</h4>
+  <h4 class="no_toc">2 June 2021 Update: Client version 152 (3594/3595)</h4>
   {{ notice-update20210602 | markdownify }}
 </div>
 
