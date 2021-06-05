@@ -72,3 +72,15 @@ sidebar:
 
   **Movement Notification 3:** With the Oceanid's protection, the dragon boat can reach even more distant Water Domains.
 
+
+
+## Shop
+
+  |  Nr  | Icon | Item | Price, $ | Gems | 
+  |:-----|:------:|:------:|:-------|:------:|
+  | 1 | ![Dragon Boat Festival Gift Box](/images/t/i_907331.png) | [Dragon Boat Festival Gift Box](/Items/con_1715/) | **94.99** | **6180.0** |
+  | 2 | ![Dragon Boat Festival Gift Box](/images/t/i_907331.png) | [Dragon Boat Festival Gift Box](/Items/con_1716/) | **89.99** | **5880.0** |
+  | 3 | ![Dragon Boat Festival Gift Box](/images/t/i_907331.png) | [Dragon Boat Festival Gift Box](/Items/con_1717/) | **79.99** | **5180.0** |
+  | 4 | ![Dragon Boat Festival Gift Box](/images/t/i_907331.png) | [Dragon Boat Festival Gift Box](/Items/con_1718/) | **69.99** | **4480.0** |
+  | 5 | ![Dragon Boat Festival Gift Box](/images/t/i_907331.png) | [Dragon Boat Festival Gift Box](/Items/con_1719/) | **59.99** | **3880.0** |
+  | 6 | ![Dragon Boat Festival Gift Box](/images/t/i_907331.png) | [Dragon Boat Festival Gift Box](/Items/con_1720/) | **49.99** | **3280.0** |
