@@ -2,7 +2,7 @@
 title: "Ruler's Earrings"
 permalink: /equipment/Ruler's Earrings/
 excerpt: "Era of Chaos Ruler's Earrings. Ruler's Earrings"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Ruler's Earrings.md"
 toc: false

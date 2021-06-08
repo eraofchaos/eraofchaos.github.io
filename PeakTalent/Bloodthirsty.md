@@ -2,7 +2,7 @@
 title: "Bloodthirsty. Peak Talent - Bloodthirsty"
 permalink: /PeakTalent/Bloodthirsty/
 excerpt: "Era of Chaos Peak Talent Bloodthirsty. Peak Talent Bloodthirsty. Bloodthirsty"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Bloodthirsty.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ice-cold Fin"
 permalink: /equipment/Ice-cold Fin/
 excerpt: "Era of Chaos Ice-cold Fin. Ice-cold Fin"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Ice-cold Fin.md"
 toc: false

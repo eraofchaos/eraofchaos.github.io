@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-7 Strange Dreams"
 permalink: /Main Story/Chapter 24_7/
 excerpt: "Chapter 24 - 7. Era of Chaos  Main Story - Chapter 24_7. 24-7 Strange Dreams"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 24_7.md"
 toc: false

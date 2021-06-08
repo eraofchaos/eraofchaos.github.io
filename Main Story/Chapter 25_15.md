@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 - 25-15 Guardian"
 permalink: /Main Story/Chapter 25_15/
 excerpt: "Chapter 25 - 15. Era of Chaos  Main Story - Chapter 25_15. 25-15 Guardian"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 25_15.md"
 toc: false

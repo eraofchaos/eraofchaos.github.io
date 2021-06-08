@@ -2,7 +2,7 @@
 title: "Avatar - Warlord of the Sea"
 permalink: /Avatars/Warlord of the Sea/
 excerpt: "Era of Chaos  Warlord of the Sea"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Warlord of the Sea.md"
 toc: false

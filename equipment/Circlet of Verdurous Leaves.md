@@ -2,7 +2,7 @@
 title: "Circlet of Verdurous Leaves"
 permalink: /equipment/Circlet of Verdurous Leaves/
 excerpt: "Era of Chaos Circlet of Verdurous Leaves. Circlet of Verdurous Leaves"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Circlet of Verdurous Leaves.md"
 toc: false

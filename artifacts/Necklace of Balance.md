@@ -2,7 +2,7 @@
 title: "Artifacts - Mirror of Revenge - Necklace of Balance"
 permalink: /artifacts/Necklace of Balance/
 excerpt: "Era of Chaos  Mirror of Revenge - Necklace of Balance. An item used to control and regulate magic during the fusion of magical powers. One of the components of the Mirror of Revenge."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Necklace of Balance.md"
 toc: false

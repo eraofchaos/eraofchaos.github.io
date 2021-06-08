@@ -3,7 +3,7 @@ title: "Dragon Golem"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Dragon Golem. Dragon Golem Units. null. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Dragon Golem"
 toc: true
@@ -22,7 +22,7 @@ toc: true
 
  **Faction:** [Tower](/units/Faction Tower/)
 
- **Race:** Dragon
+ **Race:** Fiend
 
  **Members:** [x1](/units/Unit Member x1/)
 

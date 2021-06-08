@@ -2,7 +2,7 @@
 title: "Dragon Boat Festival"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Dragon Boat Festival - Dragon Boat Quest"
-last_modified_at: 2021-06-05
+last_modified_at: 2021-06-08
 locale: en
 ref: "index.md"
 toc: false
@@ -18,11 +18,11 @@ sidebar:
 
   <span style="color: #3c2a1e">1. During the Dragon Boat Festival, a Pikeman was ordered to take a dragon boat to explore the newly-discovered Mysterious Water Domains. In the Water Domains, he found many magical foods called \"Magic Rice Dumplings.\"</span><br/>
 
-<br/>  <span style="color: #3c2a1e">2. Every Water Domain has %s Magic Rice Dumpling(s). Tap the Magic Rice Dumpling to open it and either get a rare item or trigger an event.</span><br/>
+<br/>  <span style="color: #3c2a1e">2. Every Water Domain has 20 Magic Rice Dumpling(s). Tap the Magic Rice Dumpling to open it and either get a rare item or trigger an event.</span><br/>
 
 <br/>  <span style="color: #3c2a1e">3. Every Water Domain is guaranteed to include 1 event. Once the event is triggered, you can sail the dragon boat to the next Water Domain. After arriving at the next Water Domain, you will be unable to return to the previous Water Domain.</span><br/>
 
-<br/>  <span style="color: #3c2a1e">4. When an event is triggered, you will also receive a generous event reward. For every new Water Domain you arrive at, you will also unlock 1 event reward selection. You can select one of the unlocked event rewards per event. (For details, please see Reward Preview - Event Rewards.)</span><br/>
+<br/>  <span style="color: #3c2a1e">4. When an event is triggered, you will also receive a generous event reward. When you arrive at specific Water Domains, you will also unlock new event reward selections. You can select one of the unlocked event rewards per event. (For details, please see Reward Preview - Event Rewards.)</span><br/>
 
 <br/>  <span style="color: #3c2a1e">5. Magic Rice Dumplings are bound by magic string. Cutting open a rice dumpling costs Magic Scissors.</span><br/>
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Dragon Boat Quest
 
-  **Talk Pikeman:** Thanks for finding me! Let me row the dragon boat.
+  **Talk Pikeman:** [color=000000]Thanks for finding me! Let me row the dragon boat.[-]
 
-  **Talk Mermaid:** You're so lucky, you actually found me! Let me help you.
+  **Talk Mermaid:** [color=000000]You're so lucky, you actually found me! Let me help you.[-]
 
-  **First Talk Regnan Seer :** I am moved by your perseverance, brave warrior of the dragon boat. Come, choose your reward.
+  **First Talk Regnan Seer :** [color=000000]I am moved by your perseverance, brave warrior of the dragon boat. Come, choose your reward.[-]
 
-  **Second Talk Regnan Seer:** We meet again, brave warrior of the dragon boat. Your perseverance is touching. Come, choose your reward.
+  **Second Talk Regnan Seer:** [color=000000]We meet again, brave warrior of the dragon boat. Your perseverance is touching. Come, choose your reward.[-]
 
-  **Final Talk Regnan Seer:** This is all of the rewards, brave warrior of the dragon boat. Congratulations on completing your adventure!
+  **Final Talk Regnan Seer:** [color=000000]This is all of the rewards, brave warrior of the dragon boat. Congratulations on completing your adventure![-]
 
   **Movement Notification 1:** Since a new sailor has joined, the dragon boat can sail to even more distant Water Domains.
 

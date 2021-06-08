@@ -2,7 +2,7 @@
 title: "Short Robe of Verdurous Leaves"
 permalink: /equipment/Short Robe of Verdurous Leaves/
 excerpt: "Era of Chaos Short Robe of Verdurous Leaves. Short Robe of Verdurous Leaves"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Short Robe of Verdurous Leaves.md"
 toc: false

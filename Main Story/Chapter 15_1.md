@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-1 Demon's Last Words"
 permalink: /Main Story/Chapter 15_1/
 excerpt: "Chapter 15 - 1. Era of Chaos  Main Story - Chapter 15_1. 15-1 Demon's Last Words"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 15_1.md"
 toc: false

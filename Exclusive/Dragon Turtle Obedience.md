@@ -2,7 +2,7 @@
 title: "Exclusive - Obedience (Dragon Turtle)"
 permalink: /Exclusive/Dragon Turtle Obedience/
 excerpt: "Era of Chaos Obedience. Obedience. Era of Chaos Exclusive Obedience. Dragon Turtle Exclusive."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Dragon Turtle Obedience.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 Faerie Dragon"
 permalink: /Main Story/Chapter 24/
 excerpt: "Chapter 24. Era of Chaos  Main Story - Chapter 24. Faerie Dragon"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 24.md"
 toc: false

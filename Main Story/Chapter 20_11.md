@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-11 Mage Order"
 permalink: /Main Story/Chapter 20_11/
 excerpt: "Chapter 20 - 11. Era of Chaos  Main Story - Chapter 20_11. 20-11 Mage Order"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 20_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Eternal Tear"
 permalink: /equipment/Eternal Tear/
 excerpt: "Era of Chaos Eternal Tear. Eternal Tear"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Eternal Tear.md"
 toc: false

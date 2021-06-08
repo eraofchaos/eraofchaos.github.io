@@ -3,7 +3,7 @@ title: "Genie"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Genie. Genie Units. Master Genie. Era of Chaos Magical Creatures who only exist to grant wishes to mortals. The magic to which they are confined is both a home and a prison."
 unitID: 605
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Genie"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction:** [Tower](/units/Faction Tower/)
 
- **Race:** Human
+ **Race:** Wizard
 
  **Members:** [x4](/units/Unit Member x4/)
 

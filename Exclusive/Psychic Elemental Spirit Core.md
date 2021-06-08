@@ -2,7 +2,7 @@
 title: "Exclusive - Spirit Core (Psychic Elemental)"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Spirit Core. Spirit Core. Era of Chaos Exclusive Spirit Core. Psychic Elemental Exclusive."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Psychic Elemental Spirit Core.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Support
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1610
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Spirit Core Token](/Items/con_1000/) | <Demoralize> Psychic Elemental bombards the enemy's psyche, dealing damage equal to 20% of Max HP to the target unit and restoring HP equal to 50% of own ATK. CD is 20s. |
+  |  Awaken  | **100x** [Spirit Core Token](/Items/con_1000/) | <Demoralize> Psychic Elemental bombards the enemy's psyche, dealing damage equal to 20% of Max HP to the target unit and restoring HP equal to 75% of own ATK. CD is 15s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Spirit Core Token](/Items/con_1000/) | Increases Psychic Elemental's Unit DMG by 30%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Spirit Core Token](/Items/con_1000/) | Psychic Elemental is immune to all spell damage. When Psychic Elemental receives 4 kinds of <Elemental Resonance> effects, all friendly Conflux units become immune to all spell damage. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Spirit Core Token](/Items/con_1000/) | <Domination> Psychic Elemental steals 20% of a random unit's DEF, granting themselves a percentage-based bonus for 10s. CD is 10s. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Spirit Core Token](/Items/con_1000/) | Psychic Elemental is immune to all spell DMG. When Psychic Elemental joins the battle, it increases the Unit DMG of all friendly units by 8%. This effect is doubled for Conflux units. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Spirit Core Token](/Items/con_1000/) | <Domination> Psychic Elemental steals 15% of a random unit's DEF and Unit DMG, granting themselves a percentage-based bonus for 10s. CD is 10s. |
   | **4x** <i class="fas fa-star"/> | **170x** [Spirit Core Token](/Items/con_1000/) | Increases Psychic Elemental's Unit DMG Reduction by 30%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Spirit Core Token](/Items/con_1000/) | Psychic Elemental is immune to Stun, Silence, Freeze, Time Stop, Paralysis, Petrify, and Crystallization effects. When Psychic Elemental receives 4 kinds of <Elemental Resonance> effects, all friendly Conflux units gain the above immunity effects. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Spirit Core Token](/Items/con_1000/) | <Elemental Harmony> Psychic Elementals increases Critical Hit by 500 and Critical Hit DMG by 50%. When Psychic Elemental receives 4 kinds of <Elemental Resonance> effects, <Elemental Harmony> is triggered. When on the battlefield, increases Tenacity of all friendly Conflux units by 500, Dodge by 500, and Unit DMG Reduction by 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Spirit Core Token](/Items/con_1000/) | Psychic Elemental is immune to Stun, Time Stop, Paralysis, Petrify, and Crystallization effects. The first time Psychic Elemental's HP falls below 50%, it will gain a shield equal to 50% of its Max HP. Lasts 10s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Spirit Core Token](/Items/con_1000/) | <Elemental Harmony> Psychic Elementals increases Critical Hit by 500 and Critical Hit DMG by 50%. When a friendly hero casts a spell, Elemental Harmony is triggered, granting friendly units 100 Tenacity and 8% Unit DMG Reduction. Each type of spell can only trigger <Elemental Harmony> once. |
 
 
 ## Level Up

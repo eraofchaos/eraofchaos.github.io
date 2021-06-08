@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 14 - 14-1 Stealth"
 permalink: /Main Story/Chapter 14_1/
 excerpt: "Chapter 14 - 1. Era of Chaos  Main Story - Chapter 14_1. 14-1 Stealth"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 14_1.md"
 toc: false

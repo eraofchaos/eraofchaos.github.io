@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 20 - 20-8 Magic Guild"
 permalink: /Main Story/Chapter 20_8/
 excerpt: "Chapter 20 - 8. Era of Chaos  Main Story - Chapter 20_8. 20-8 Magic Guild"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 20_8.md"
 toc: false

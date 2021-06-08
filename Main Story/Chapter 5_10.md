@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-10 Break the Silence"
 permalink: /Main Story/Chapter 5_10/
 excerpt: "Chapter 5 - 10. Era of Chaos  Main Story - Chapter 5_10. 5-10 Break the Silence"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 5_10.md"
 toc: false

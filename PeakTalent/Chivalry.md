@@ -2,7 +2,7 @@
 title: "Chivalry. Peak Talent - Chivalry"
 permalink: /PeakTalent/Chivalry/
 excerpt: "Era of Chaos Peak Talent Chivalry. Peak Talent Chivalry. Chivalry"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chivalry.md"
 toc: false

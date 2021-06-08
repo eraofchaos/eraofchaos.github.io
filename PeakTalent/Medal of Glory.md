@@ -2,7 +2,7 @@
 title: "Medal of Glory. Peak Talent - Medal of Glory"
 permalink: /PeakTalent/Medal of Glory/
 excerpt: "Era of Chaos Peak Talent Medal of Glory. Peak Talent Medal of Glory. Medal of Glory"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Medal of Glory.md"
 toc: false

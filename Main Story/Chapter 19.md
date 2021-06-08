@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 19 Neutral Ground"
 permalink: /Main Story/Chapter 19/
 excerpt: "Chapter 19. Era of Chaos  Main Story - Chapter 19. Neutral Ground"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 19.md"
 toc: false

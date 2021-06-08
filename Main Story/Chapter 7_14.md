@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-14 Heartbroken"
 permalink: /Main Story/Chapter 7_14/
 excerpt: "Chapter 7 - 14. Era of Chaos  Main Story - Chapter 7_14. 7-14 Heartbroken"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 7_14.md"
 toc: false

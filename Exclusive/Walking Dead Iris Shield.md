@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Walking Dead Exclusive."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Walking Dead Iris Shield.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | If the target is in \"low morale\", increases ATK speed and life drain by 20% for Walking Dead |
   | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_913/) | Walking Dead restores 1% of its Max HP every second |
   | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | Walking Dead decreases DEF of surrounding hostile units by 25 every 4s over the next 5s. This effect can be stacked |
-  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | At the beginning of battle, all hostile units' movement speed is decreased by 30 for 4s. Increases unit damage by 20% for all friendly Necropolis units for 20s when their movement speed is restored |
+  | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | At the beginning of battle, all hostile and friendly units' movement speed is decreased by 30 for 4s. Increases unit damage by 20% for all friendly Necropolis units for 20s when their movement speed is restored |
 
 
 ## Level Up

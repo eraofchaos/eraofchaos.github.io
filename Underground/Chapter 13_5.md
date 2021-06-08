@@ -2,7 +2,7 @@
 title: "Underground - Chapter 13 - 13-5 The Seventh Day"
 permalink: /Underground/Chapter 13_5/
 excerpt: "Chapter 13 - 5. Era of Chaos  Underground - Chapter 13_5. 13-5 The Seventh Day"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 13_5.md"
 toc: false

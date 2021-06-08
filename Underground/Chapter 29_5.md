@@ -2,7 +2,7 @@
 title: "Underground - Chapter 29 - 29-5  Incendiary Moment"
 permalink: /Underground/Chapter 29_5/
 excerpt: "Chapter 29 - 5. Era of Chaos  Underground - Chapter 29_5. 29-5  Incendiary Moment"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 29_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-4 Vanguard of the Occupation"
 permalink: /Main Story/Chapter 11_4/
 excerpt: "Chapter 11 - 4. Era of Chaos  Main Story - Chapter 11_4. 11-4 Vanguard of the Occupation"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 11_4.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Fire Elemental"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Fire Elemental. Fire Elemental Units. Energy Elemental. Era of Chaos An unstable energy entity made of pure energy. Upon being destroyed, the unstable energy inside it is released to shock its enemy."
 unitID: 904
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Fire Elemental"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction:** [Conflux](/units/Faction Conflux/)
 
- **Race:** Beast Master
+ **Race:** Fiend
 
  **Members:** [x4](/units/Unit Member x4/)
 

@@ -2,7 +2,7 @@
 title: "UnknownEquipment_8091"
 permalink: /equipment/UnknownEquipment_8091/
 excerpt: "Era of Chaos UnknownEquipment_8091. UnknownEquipment_8091"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "UnknownEquipment_8091.md"
 toc: false

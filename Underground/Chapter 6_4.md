@@ -2,7 +2,7 @@
 title: "Underground - Chapter 6 - 6-4 Conquering the Capital"
 permalink: /Underground/Chapter 6_4/
 excerpt: "Chapter 6 - 4. Era of Chaos  Underground - Chapter 6_4. 6-4 Conquering the Capital"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 6_4.md"
 toc: false

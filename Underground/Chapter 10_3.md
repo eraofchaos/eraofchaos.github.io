@@ -2,7 +2,7 @@
 title: "Underground - Chapter 10 - 10-3 Corpse of the King"
 permalink: /Underground/Chapter 10_3/
 excerpt: "Chapter 10 - 3. Era of Chaos  Underground - Chapter 10_3. 10-3 Corpse of the King"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 10_3.md"
 toc: false

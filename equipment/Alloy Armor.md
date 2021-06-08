@@ -2,7 +2,7 @@
 title: "Alloy Armor"
 permalink: /equipment/Alloy Armor/
 excerpt: "Era of Chaos Alloy Armor. Alloy Armor"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Alloy Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 14 - 14-4 Blood Battle"
 permalink: /Underground/Chapter 14_4/
 excerpt: "Chapter 14 - 4. Era of Chaos  Underground - Chapter 14_4. 14-4 Blood Battle"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 14_4.md"
 toc: false

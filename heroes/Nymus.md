@@ -4,7 +4,7 @@ permalink: /heroes/Nymus/
 excerpt: "Era of Chaos Nymus. Nymus. Nymus is a phantom with a wealth of combat experience. Because of this, the Arch Devil has appointed her drillmaster of the Pit Fiends. When she returns to the battlefield, she will strike fear into the hearts of her enemies."
 heroID: 60803
 QR: hero_60803
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Nymus"
 toc: true

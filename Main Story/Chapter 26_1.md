@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-1 National Awareness"
 permalink: /Main Story/Chapter 26_1/
 excerpt: "Chapter 26 - 1. Era of Chaos  Main Story - Chapter 26_1. 26-1 National Awareness"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 26_1.md"
 toc: false

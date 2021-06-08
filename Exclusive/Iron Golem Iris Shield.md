@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield (Iron Golem)"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Iron Golem Exclusive."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Iron Golem Iris Shield.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 26 - 26-1 Harpy"
 permalink: /Underground/Chapter 26_1/
 excerpt: "Chapter 26 - 1. Era of Chaos  Underground - Chapter 26_1. 26-1 Harpy"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 26_1.md"
 toc: false

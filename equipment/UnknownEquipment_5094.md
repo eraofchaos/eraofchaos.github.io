@@ -2,7 +2,7 @@
 title: "UnknownEquipment_5094"
 permalink: /equipment/UnknownEquipment_5094/
 excerpt: "Era of Chaos UnknownEquipment_5094. UnknownEquipment_5094"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "UnknownEquipment_5094.md"
 toc: false

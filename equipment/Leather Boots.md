@@ -2,7 +2,7 @@
 title: "Leather Boots"
 permalink: /equipment/Leather Boots/
 excerpt: "Era of Chaos Leather Boots. Leather Boots"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Leather Boots.md"
 toc: false

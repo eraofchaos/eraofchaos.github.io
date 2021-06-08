@@ -2,7 +2,7 @@
 title: "Artifacts - Armageddon's Blade - Knight Sword"
 permalink: /artifacts/Knight Sword/
 excerpt: "Era of Chaos  Armageddon's Blade - Knight Sword. A sword worn by castle heroes. One of the components of Armageddon's Blade."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Knight Sword.md"
 toc: false

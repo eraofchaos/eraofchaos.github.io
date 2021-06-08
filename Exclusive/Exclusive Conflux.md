@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Conflux"
 permalink: /Exclusive/Exclusive Conflux/
 excerpt: "Era of Chaos Exclusive Conflux. Exclusive Conflux. List of Exclusive Conflux in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Exclusive Conflux"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 3  | [Ice Elemental](/units/Ice Elemental/) | [Arcane Chant](/Exclusive/Ice Elemental Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
   | 4  | [Fire Elemental](/units/Fire Elemental/) | [Fire Energy](/Exclusive/Fire Elemental Fire Energy/) | - | Ranged | [Fire Energy Token](/Items/con_998/) | [Fire Energy Special Skin](/Items/con_666/) |
   | 5  | [Stone Elemental](/units/Stone Elemental/) | [Energy Core](/Exclusive/Stone Elemental Energy Core/) | - | Ranged | [Energy Core Token](/Items/con_999/) | [Energy Core Special Skin](/Items/con_667/) |
-  | 6  | [Psychic Elemental](/units/Psychic Elemental/) | [Spirit Core](/Exclusive/Psychic Elemental Spirit Core/) | - | Support | [Spirit Core Token](/Items/con_1000/) | [Spirit Core Special Skin](/Items/con_668/) |
+  | 6  | [Psychic Elemental](/units/Psychic Elemental/) | [Spirit Core](/Exclusive/Psychic Elemental Spirit Core/) | + | Support | [Spirit Core Token](/Items/con_1000/) | [Spirit Core Special Skin](/Items/con_668/) |
   | 7  | [Firebird](/units/Firebird/) | [Eternal Flame](/Exclusive/Firebird Eternal Flame/) | + | Ranged | [Eternal Flame Token](/Items/con_1001/) | [Eternal Flame Special Skin](/Items/con_669/) |
   | 8  | [Ice Demon](/units/Ice Demon/) | - | - | - | none | none |
   | 9  | [Leprechaun](/units/Leprechaun/) | [Thorns](/Exclusive/Leprechaun Thorns/) | - | Support | - | - |

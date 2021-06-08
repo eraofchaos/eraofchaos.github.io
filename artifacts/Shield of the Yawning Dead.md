@@ -2,7 +2,7 @@
 title: "Artifacts - Armor of the Damned - Shield of the Yawning Dead"
 permalink: /artifacts/Shield of the Yawning Dead/
 excerpt: "Era of Chaos  Armor of the Damned - Shield of the Yawning Dead. A shield assembled from undead bones. One of the components of the Armor of the Damned."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Shield of the Yawning Dead.md"
 toc: false

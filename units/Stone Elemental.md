@@ -3,7 +3,7 @@ title: "Stone Elemental"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Stone Elemental. Stone Elemental Units. null. Era of Chaos The Stone Elemental is a fusion of multiple minerals created through geological processes. It will split into smaller Stone Elementals, who will continue fighting."
 unitID: 905
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Stone Elemental"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction:** [Conflux](/units/Faction Conflux/)
 
- **Race:** Beast Master
+ **Race:** Fiend
 
  **Members:** [x4](/units/Unit Member x4/)
 

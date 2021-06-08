@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-1 Ancient Soul"
 permalink: /Main Story/Chapter 16_1/
 excerpt: "Chapter 16 - 1. Era of Chaos  Main Story - Chapter 16_1. 16-1 Ancient Soul"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 16_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Mighty Vambrace"
 permalink: /equipment/Mighty Vambrace/
 excerpt: "Era of Chaos Mighty Vambrace. Mighty Vambrace"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Mighty Vambrace.md"
 toc: false

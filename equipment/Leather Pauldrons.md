@@ -2,7 +2,7 @@
 title: "Leather Pauldrons"
 permalink: /equipment/Leather Pauldrons/
 excerpt: "Era of Chaos Leather Pauldrons. Leather Pauldrons"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Leather Pauldrons.md"
 toc: false

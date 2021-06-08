@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 25  Inferno Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **21 Jun** | **5x [Imp](/Items/unt_226/)**  | A squad of Imp joined your army and you become stronger! |
+  | **22 Jun** | **5x [Gog](/Items/unt_227/)**  | A squad of Gog joined your army and you become stronger! |
+  | **23 Jun** | **3x [Hell Hound](/Items/unt_228/)**  | A squad of Hell Hound joined your army and you become stronger! |
+  | **24 Jun** | **5x [Inferno Unit Chest](/Items/con_1273/)**  | Your inferno corps has presented you with a number of valuable treasure chests! |
+  | **25 Jun** | **3x [Demon](/Items/unt_229/)**  | A squad of Demon joined your army and you become stronger! |
+  | **26 Jun** | **3x [Pit Fiend](/Items/unt_230/)**  | A squad of Pit Fiend joined your army and you become stronger! |
+  | **27 Jun** | **5x [Rashka](/Items/her_384/)**  | The hero Rashka has taken an interest in your expansion and would like to join your faction! |
+
 
 #### 2021 Week 24  Dungeon Week
 

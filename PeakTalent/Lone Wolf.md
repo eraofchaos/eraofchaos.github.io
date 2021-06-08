@@ -2,7 +2,7 @@
 title: "Lone Wolf. Peak Talent - Lone Wolf"
 permalink: /PeakTalent/Lone Wolf/
 excerpt: "Era of Chaos Peak Talent Lone Wolf. Peak Talent Lone Wolf. Lone Wolf"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Lone Wolf.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-6 The King of Gold"
 permalink: /Main Story/Chapter 16_6/
 excerpt: "Chapter 16 - 6. Era of Chaos  Main Story - Chapter 16_6. 16-6 The King of Gold"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 16_6.md"
 toc: false

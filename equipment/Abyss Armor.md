@@ -2,7 +2,7 @@
 title: "Abyss Armor"
 permalink: /equipment/Abyss Armor/
 excerpt: "Era of Chaos Abyss Armor. Abyss Armor"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Abyss Armor.md"
 toc: false

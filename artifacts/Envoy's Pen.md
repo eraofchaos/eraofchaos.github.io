@@ -2,7 +2,7 @@
 title: "Artifacts - Envoy's Pen"
 permalink: /artifacts/Envoy's Pen/
 excerpt: "Era of Chaos  Envoy's Pen. Envoy's Pen A symbol of strength and power. A revered relic reserved for victors."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Envoy's Pen.md"
 toc: false

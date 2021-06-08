@@ -2,7 +2,7 @@
 title: "Holy Emblem - Spring of Immortality"
 permalink: /Emblem/Spring of Immortality/
 excerpt: "Era of Chaos Spring of Immortality. Spring of Immortality. Era of Chaos Holy Emblem Spring of Immortality. Era of Chaos Goodness Spring of Immortality"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Spring of Immortality.md"
 toc: false
@@ -20,10 +20,10 @@ classes: wide
 
   |  Name    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Spring of Immortality](/Emblem/Spring of Immortality/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; DEF +0.1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases healing of units deployed in your lineup by 4%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; DEF +0.2%, Holy Emblem DEF +6</span> | 
-  | [Spring of Immortality](/Emblem/Spring of Immortality/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; DEF +1%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases healing of units deployed in your lineup by 20%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; DEF +2%, Holy Emblem DEF +55</span> | 
-  | [Spring of Immortality](/Emblem/Spring of Immortality/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; DEF +0.5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases healing of units deployed in your lineup by 12%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; DEF +1.5%, Holy Emblem DEF +30</span> | 
-  | [Spring of Immortality](/Emblem/Spring of Immortality/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; DEF +0.3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases healing of units deployed in your lineup by 8%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; DEF +0.7%, Holy Emblem DEF +16</span> | 
+  | [Spring of Immortality](/Emblem/Spring of Immortality/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; DEF +0.1%, Holy Emblem DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases healing of units with this Holy Emblem by 4%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; DEF +0.2%, Holy Emblem DEF +6</span> | 
+  | [Spring of Immortality](/Emblem/Spring of Immortality/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; DEF +1%, Holy Emblem DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases healing of units with this Holy Emblem by 20%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; DEF +2%, Holy Emblem DEF +55</span> | 
+  | [Spring of Immortality](/Emblem/Spring of Immortality/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; DEF +0.5%, Holy Emblem DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases healing of units with this Holy Emblem by 12%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; DEF +1.5%, Holy Emblem DEF +30</span> | 
+  | [Spring of Immortality](/Emblem/Spring of Immortality/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; DEF +0.3%, Holy Emblem DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Increases healing of units with this Holy Emblem by 8%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; DEF +0.7%, Holy Emblem DEF +16</span> | 
 
   |         Description            | 
   |:-------------------------------|

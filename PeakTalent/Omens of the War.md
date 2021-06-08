@@ -2,7 +2,7 @@
 title: "Omens of the War. Peak Talent - Omens of the War"
 permalink: /PeakTalent/Omens of the War/
 excerpt: "Era of Chaos Peak Talent Omens of the War. Peak Talent Omens of the War. Omens of the War"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Omens of the War.md"
 toc: false

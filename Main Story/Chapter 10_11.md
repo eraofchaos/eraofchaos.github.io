@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-11 Imbue Spirit"
 permalink: /Main Story/Chapter 10_11/
 excerpt: "Chapter 10 - 11. Era of Chaos  Main Story - Chapter 10_11. 10-11 Imbue Spirit"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Chapter 10_11.md"
 toc: false

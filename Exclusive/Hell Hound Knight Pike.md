@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Hell Hound Exclusive."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Hell Hound Knight Pike.md"
 toc: false

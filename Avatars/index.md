@@ -2,7 +2,7 @@
 title: "Avatar Frame & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatar Frame & Avatar. Avatar Frame & Avatar"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "index.md"
 toc: false
@@ -52,7 +52,7 @@ classes: wide
   | 39 | ![Holy Light Judge](/images/a/avatarFrame_51.png) | [Holy Light Judge](/Avatars/Holy Light Judge/) | + | Holy Light Judge Avatar Frame |
   | 40 | ![Ice Christmas](/images/a/avatarFrame_48.png) | [Ice Christmas](/Avatars/Ice Christmas/) | + | White Christmas Avatar Frame |
   | 41 | ![Inferno](/images/a/avatarFrame_3.png) | [Inferno](/Avatars/Inferno/) | - | Inferno avatar frame |
-  | 42 |  | [Inferno Demon](/Avatars/Inferno Demon/) | - | Inferno Demon Avatar Frame |
+  | 42 |  | [Inferno Demon](/Avatars/Inferno Demon/) | + | Inferno Demon Avatar Frame |
   | 43 | ![Inferno Ruler](/images/a/avatarFrame_58.png) | [Inferno Ruler](/Avatars/Inferno Ruler/) | + | Inferno Ruler Avatar Frame |
   | 44 | ![King of Abyss](/images/a/avatarFrame_36.png) | [King of Abyss](/Avatars/King of Abyss/) | + | King of Abyss Avatar Frame |
   | 45 | ![Legend on the Grass](/images/a/avatarFrame_64.png) | [Legend on the Grass](/Avatars/Legend on the Grass/) | - | Legend on the Grass Avatar Frame |

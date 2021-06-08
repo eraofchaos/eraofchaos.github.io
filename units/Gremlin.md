@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Gremlin. Gremlin Units. null. Era of Chaos Gremlins have signed contracts of servitude with the Tower. They prefer to attack from afar with their enchanted chain balls."
 unitID: 601
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: en
 ref: "Gremlin"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Faction:** [Tower](/units/Faction Tower/)
 
- **Race:** Human
+ **Race:** Minion
 
  **Members:** [x9](/units/Unit Member x9/)
 
