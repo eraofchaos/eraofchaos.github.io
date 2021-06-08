@@ -13,3 +13,7 @@
   - hreflang: es
     prefix: /es
 
+  - hreflang: zh_TW
+    prefix: /cn
+
+
