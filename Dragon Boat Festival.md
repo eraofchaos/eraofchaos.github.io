@@ -42,7 +42,7 @@ sidebar:
 
 ## Magic Scissors
 
-  **Event Item:** Magic Scissors
+  **Event Item:** [Magic Scissors](/Items/con_2175/)
 
   **Description:** Dragon Boat Festival event item. These scissors are coated with mysterious magic that can be used to cut the rope binding magic rice dumplings, but they will be destroyed upon use.
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Dragon Boat Quest
 
-  **Talk Pikeman:** [color=000000]Thanks for finding me! Let me row the dragon boat.[-]
+  **Talk Pikeman:** <span style="color: #000000">Thanks for finding me! Let me row the dragon boat.</span>
 
-  **Talk Mermaid:** [color=000000]You're so lucky, you actually found me! Let me help you.[-]
+  **Talk Mermaid:** <span style="color: #000000">You're so lucky, you actually found me! Let me help you.</span>
 
-  **First Talk Regnan Seer :** [color=000000]I am moved by your perseverance, brave warrior of the dragon boat. Come, choose your reward.[-]
+  **First Talk Regnan Seer :** <span style="color: #000000">I am moved by your perseverance, brave warrior of the dragon boat. Come, choose your reward.</span>
 
-  **Second Talk Regnan Seer:** [color=000000]We meet again, brave warrior of the dragon boat. Your perseverance is touching. Come, choose your reward.[-]
+  **Second Talk Regnan Seer:** <span style="color: #000000">We meet again, brave warrior of the dragon boat. Your perseverance is touching. Come, choose your reward.</span>
 
-  **Final Talk Regnan Seer:** [color=000000]This is all of the rewards, brave warrior of the dragon boat. Congratulations on completing your adventure![-]
+  **Final Talk Regnan Seer:** <span style="color: #000000">This is all of the rewards, brave warrior of the dragon boat. Congratulations on completing your adventure!</span>
 
   **Movement Notification 1:** Since a new sailor has joined, the dragon boat can sail to even more distant Water Domains.
 
