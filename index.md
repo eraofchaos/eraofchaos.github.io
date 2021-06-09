@@ -10,6 +10,38 @@ sidebar:
   nav: "docs"
 ---
 
+
+{% capture notice-update20210608 %}
+* First of all, Special Thanks to **yfliu** for support. I'll announce soon some quiz/events with in-game rewards. If You have manual(s) or information to share with another players - [let me know]((https://discordapp.com/users/351705203038224385/)).
+
+* New Exclusives for [Psychic Elemental](https://eraofchaos.github.io/units/Psychic Elemental/) -> [Exclusive Spirit Core (Psychic Elemental)](https://eraofchaos.github.io/Exclusive/Psychic%20Elemental%20Spirit%20Core/)
+
+* New Items:
+  * [Hero Token Selection Pack](https://eraofchaos.github.io/Items/con_2176/)
+  * [Magic Scissors](https://eraofchaos.github.io/Items/con_2175/)
+  * [Holy Emblem Selection Pack](https://eraofchaos.github.io/Items/con_2174/)
+  * [1 Magic Scissors](https://eraofchaos.github.io/Items/con_2164/), [2 Magic Scissors](https://eraofchaos.github.io/Items/con_2165/), [5 Magic Scissors](https://eraofchaos.github.io/Items/con_2166/)
+  * [10 Magic Scissors](https://eraofchaos.github.io/Items/con_2167/), [25 Magic Scissors](https://eraofchaos.github.io/Items/con_2168/), [45 Magic Scissors](https://eraofchaos.github.io/Items/con_2169/)
+  * [Orange Holy Emblem Selection Pack](https://eraofchaos.github.io/Items/con_2170/)
+  * [Holiday Orange Holy Emblem Special Offer](https://eraofchaos.github.io/Items/con_2171/)
+  * [SSR Unit Token Selection Chest](https://eraofchaos.github.io/Items/con_2172/)
+  * [Commander Unit Token Selection Chest](https://eraofchaos.github.io/Items/con_2173/)
+
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 28 June 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
+
+* Added 漢語中文 language (still need to update some links)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">8 June 2021 Update: Client version 154 (3631/3632)</h4>
+  {{ notice-update20210608 | markdownify }}
+</div>
+
+
+
 {% capture notice-update20210605 %}
 * New [Dragon Boat Festival](/Dragon Boat Festival/) event in your language:
   * [Drachenboot-Fest](/de/Dragon Boat Festival/)
@@ -29,64 +61,6 @@ Offtopic: Congratulation **Jin** from server **EU-33** with second Win in cross-
 
 
 
-{% capture notice-update20210602 %}
-
-* New Items:
-  * [Holy City Coin](/Items/con_2161/)
-  * [Envoy Component Chest](/Items/con_2159/)
-  * [Purple Artifact Component Selection Chest](/Items/con_2160/)
-
-* New Artifact: [Artifacts - Envoy's Pen](/artifacts/Envoy's Pen/) with components:
-  * [Ambassador's Sash](/Items/art_2154/)
-  * [Statesman's Medal](/Items/art_2155/)
-  * [Recanter's Cloak](/Items/art_2156/)
-  * [Diplomat's Ring ](/Items/art_2157/)
-
-* New Emblems:
-  * [Spring of Immortality](/Emblem/Spring of Immortality/)
-  * [The Price of Loyalty](/Emblem/The Price of Loyalty/)
-
-* New Peak Talent: [Born to Be King](/PeakTalent/Born to Be King/)
-  * [Medal of Lords](/PeakTalent/Medal of Lords/)
-  * [Shield of Lords](/PeakTalent/Shield of Lords/)
-  * [Sword of Lords](/PeakTalent/Sword of Lords/)
-
-* Update [Schedule](/Schedule/) (up to 23 June 2021)
-
-* Wiki updated to latest game state. To be done: GvG and Guild.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">2 June 2021 Update: Client version 152 (3594/3595)</h4>
-  {{ notice-update20210602 | markdownify }}
-</div>
-
-
-
-
-
-
-{% capture notice-update20210528 %}
-* Released New commander [Dragon Golem](https://eraofchaos.github.io/units/Dragon%20Golem/) (improved HP/DEF/Attack)
-
-* New Exclusives for [Marksman](https://eraofchaos.github.io/units/Marksman/) -> [Long Bow (Marksman)](https://eraofchaos.github.io/Exclusive/Marksman%20Long%20Bow/)
-
-* New Items:
-  * [Supreme Grace Tokens](https://eraofchaos.github.io/Items/con_2153/)
-  * [Black Sail](https://eraofchaos.github.io/Items/con_2154/)
-
-
-* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 18 June 2021)
-
-* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">28 May 2021 Update: Client version 151 (3566/3567)</h4>
-  {{ notice-update20210528 | markdownify }}
-</div>
 
 
 
