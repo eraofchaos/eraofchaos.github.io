@@ -14,6 +14,36 @@ sidebar:
 
 
 
+## Areas
+
+  |  Nr  | Area | Draw Amount | Draw Item | Rank Limit | 
+  |:-----|:----:|:-----------:|:-----------|:----------:|
+  | 1 | **1~3** | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
+  | 2 | **4~10** | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
+  | 3 | **11~30** | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
+
+
+## Reward
+
+  |  Nr  | Event Reward | Limit |
+  |:-----|:-------------|:-----:|
+  | 1 | **5** ![Gold Key](/images/t/i_tool_3041.png)[Gold Key](/Items/con_783/) | **5** |
+  | 2 | **2** ![Dusty Treasure Map](/images/t/i_810102.png)[Dusty Treasure Map](/Items/con_1156/) | **5** |
+  | 3 | **20** ![Glittering Pearl](/images/t/i_10013.png)[Glittering Pearl](/Items/con_527/) | **5** |
+  | 4 | **20** ![SSR Unit Soul](/images/t/i_10021.png)[SSR Unit Soul](/Items/con_535/) | **4** |
+  | 5 |  **2000x** [Dragon Blood Crystal](/Items/con_879/) | **2** |
+  | 6 | **1** ![Premium Artifact Component Pack](/images/t/i_907047.png)[Premium Artifact Component Pack](/Items/con_1507/) | **4** |
+  | 7 | **60** ![Void Mithril](/images/t/i_3075.png)[Void Mithril](/Items/con_817/) | **4** |
+  | 8 | **20** [Quiet Pearl](/Items/con_2135/) | **4** |
+  | 9 | **40** ![Holy Emblem Redemption Ticket](/images/t/i_10003.png)[Holy Emblem Redemption Ticket](/Items/con_513/) | **3** |
+  | 10 | **15** ![Oracle Covenant](/images/t/i_3074.png)[Oracle Covenant](/Items/con_816/) | **3** |
+  | 11 | **1** ![Premium Artifact Component Chest](/images/t/i_906054.png)[Premium Artifact Component Chest](/Items/con_1874/) | **1** |
+  | 12 |  **2500x** [Dragon Blood Crystal](/Items/con_879/) | **2** |
+  | 13 | **25** ![Oracle Covenant](/images/t/i_3074.png)[Oracle Covenant](/Items/con_816/) | **2** |
+  | 14 | **20** [SSR Unit Token Selection Chest](/Items/con_2172/) | **4** |
+  | 15 | **20** [Commander Unit Token Selection Chest](/Items/con_2173/) | **4** |
+
+
 ## Rules
 
   <span style="color: #3c2a1e">1. During the Dragon Boat Festival, a Pikeman was ordered to take a dragon boat to explore the newly-discovered Mysterious Water Domains. In the Water Domains, he found many magical foods called \"Magic Rice Dumplings.\"</span><br/>
@@ -52,36 +82,6 @@ sidebar:
 
   **Tip 2:** 2. Make purchases from the store's Dragon Boat Festival tab. (Tap the Store button to proceed.)
 
-
-
-## Areas
-
-  |  Nr  | Area | Draw Amount | Draw Item | Rank Limit | 
-  |:-----|:----:|:-----------:|:-----------|:----------:|
-  | 1 | **1~3** | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
-  | 2 | **4~10** | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
-  | 3 | **11~30** | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
-
-
-## Rewards
-
-  |  Nr  | Event Reward | Limit |
-  |:-----|:-------------|:-----:|
-  | 1 | **5** ![Gold Key](/images/t/i_tool_3041.png)[Gold Key](/Items/con_783/) | **5** |
-  | 2 | **2** ![Dusty Treasure Map](/images/t/i_810102.png)[Dusty Treasure Map](/Items/con_1156/) | **5** |
-  | 3 | **20** ![Glittering Pearl](/images/t/i_10013.png)[Glittering Pearl](/Items/con_527/) | **5** |
-  | 4 | **20** ![SSR Unit Soul](/images/t/i_10021.png)[SSR Unit Soul](/Items/con_535/) | **4** |
-  | 5 |  **2000x** [Dragon Blood Crystal](/Items/con_879/) | **2** |
-  | 6 | **1** ![Premium Artifact Component Pack](/images/t/i_907047.png)[Premium Artifact Component Pack](/Items/con_1507/) | **4** |
-  | 7 | **60** ![Void Mithril](/images/t/i_3075.png)[Void Mithril](/Items/con_817/) | **4** |
-  | 8 | **20** [Quiet Pearl](/Items/con_2135/) | **4** |
-  | 9 | **40** ![Holy Emblem Redemption Ticket](/images/t/i_10003.png)[Holy Emblem Redemption Ticket](/Items/con_513/) | **3** |
-  | 10 | **15** ![Oracle Covenant](/images/t/i_3074.png)[Oracle Covenant](/Items/con_816/) | **3** |
-  | 11 | **1** ![Premium Artifact Component Chest](/images/t/i_906054.png)[Premium Artifact Component Chest](/Items/con_1874/) | **1** |
-  | 12 |  **2500x** [Dragon Blood Crystal](/Items/con_879/) | **2** |
-  | 13 | **25** ![Oracle Covenant](/images/t/i_3074.png)[Oracle Covenant](/Items/con_816/) | **2** |
-  | 14 | **20** [SSR Unit Token Selection Chest](/Items/con_2172/) | **4** |
-  | 15 | **20** [Commander Unit Token Selection Chest](/Items/con_2173/) | **4** |
 
 
 ## Dragon Boat Quest
