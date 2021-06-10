@@ -58,15 +58,15 @@ sidebar:
 
   |  Nr  | Area | Draw Amount | Draw Item | Rank Limit | 
   |:-----|:----:|:-----------:|:-----------|:----------:|
-  | 1 | 1~3 | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
-  | 2 | 4~10 | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
-  | 3 | 11~30 | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
+  | 1 | **1~3** | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
+  | 2 | **4~10** | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
+  | 3 | **11~30** | **20** | [Magic Scissors](/Items/con_2175/) | TBD |
 
 
 ## Rewards
 
   |  Nr  | Event Reward | Limit |
-  |:-----|:------------:|:-----:|
+  |:-----|:-------------|:-----:|
   | 1 | **5** ![Gold Key](/images/t/i_tool_3041.png)[Gold Key](/Items/con_783/) | **5** |
   | 2 | **2** ![Dusty Treasure Map](/images/t/i_810102.png)[Dusty Treasure Map](/Items/con_1156/) | **5** |
   | 3 | **20** ![Glittering Pearl](/images/t/i_10013.png)[Glittering Pearl](/Items/con_527/) | **5** |
@@ -74,7 +74,7 @@ sidebar:
   | 5 |  **2000x** [Dragon Blood Crystal](/Items/con_879/) | **2** |
   | 6 | **1** ![Premium Artifact Component Pack](/images/t/i_907047.png)[Premium Artifact Component Pack](/Items/con_1507/) | **4** |
   | 7 | **60** ![Void Mithril](/images/t/i_3075.png)[Void Mithril](/Items/con_817/) | **4** |
-  | 8 | **20** null[Quiet Pearl](/Items/con_2135/) | **4** |
+  | 8 | **20** [Quiet Pearl](/Items/con_2135/) | **4** |
   | 9 | **40** ![Holy Emblem Redemption Ticket](/images/t/i_10003.png)[Holy Emblem Redemption Ticket](/Items/con_513/) | **3** |
   | 10 | **15** ![Oracle Covenant](/images/t/i_3074.png)[Oracle Covenant](/Items/con_816/) | **3** |
   | 11 | **1** ![Premium Artifact Component Chest](/images/t/i_906054.png)[Premium Artifact Component Chest](/Items/con_1874/) | **1** |
