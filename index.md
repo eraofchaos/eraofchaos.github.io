@@ -14,6 +14,8 @@ sidebar:
 {% capture notice-update20210608 %}
 * First of all, Special Thanks to **yfliu** for support. I'll announce soon some quiz/events with in-game rewards. If You have manual(s) or information to share with another players - [let me know]((https://discordapp.com/users/351705203038224385/)).
 
+* New Event: [Dragon Boat Festival](/Dragon Boat Festival/) begin at 11 June until 16 June. Enjoy!
+
 * New Exclusives for [Psychic Elemental](https://eraofchaos.github.io/units/Psychic Elemental/) -> [Exclusive Spirit Core (Psychic Elemental)](https://eraofchaos.github.io/Exclusive/Psychic%20Elemental%20Spirit%20Core/)
 
 * New Items:
