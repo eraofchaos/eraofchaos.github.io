@@ -452,6 +452,11 @@
     font-weight: bold;
   }
 
+  .langimg {
+    width: 48px;
+    height: 36px;
+  }
+
   @include breakpoint(max-width $large - 1px) {
     position: relative;
     max-height: 0;
