@@ -49,21 +49,35 @@ docs:
 
   - title: "Language"
     children:
-      - title: "English"
+      - title: "Era Of Chaos"
         url: /
         isactive: 1
-      - title: "Русский"
+        img: /images/nav/us.svg
+        hreflang: en
+      - title: "Эра Хаоса"
         url: /ru/
-      - title: "Deutsch"
+        img: /images/nav/ru.svg
+        hreflang: ru
+      - title: "Era Of Chaos"
         url: /de/
-      - title: "Français"
+        img: /images/nav/de.svg
+        hreflang: de
+      - title: "Era Of Chaos"
         url: /fr/
-      - title: "Italiano"
+        img: /images/nav/fr.svg
+        hreflang: fr
+      - title: "Era Of Chaos"
         url: /it/
-      - title: "Español"
+        img: /images/nav/it.svg
+        hreflang: it
+      - title: "Era Of Chaos"
         url: /es/
-      - title: "漢語中文"
+        img: /images/nav/es.svg
+        hreflang: es
+      - title: "魔法门之英雄无敌：战争纪元"
         url: https://eraofchaos.github.io/cn/
+        img: /images/nav/cn.svg
+        hreflang: zh_TW
 
 
 
