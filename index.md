@@ -12,7 +12,7 @@ sidebar:
 
 
 {% capture notice-update20210615 %}
-* All promises from Ubi team is fake... I spend about 2 months in discussions, wrote e-mails, got confirming for "Content Creator" status. They promised gems for players as rewards in quiz/activities on wiki... and finally, 0. IMHO, this game is not important for Ubisoft, because we do not have Community Manager for 4-5 months. Vera left in December 2020, Jeffery left in end of February 2021, ...
+* All promises from the Ubi team is fake. I spend about 2 months in discussions, wrote e-mails, got confirming for "Content Creator" status. They promised gems for players as rewards in quiz/activities on wiki... and finally, **ZERO**. IMHO, this game is not important for Ubisoft, because we do not have a Community Manager for 4-5 months. **Vera** left in December 2020, **Jeffery** left at end of February 2021, ...
 
 * 23 June release date for Inferno Commander [Venom Spawn](https://eraofchaos.github.io/units/Venom Spawn/)
 
