@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-13 Guarding the Treasure"
 permalink: /Main Story/Chapter 23_13/
 excerpt: "Chapter 23 - 13. Era of Chaos  Main Story - Chapter 23_13. 23-13 Guarding the Treasure"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 23_13.md"
 toc: false

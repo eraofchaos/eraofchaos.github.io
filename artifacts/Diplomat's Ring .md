@@ -2,7 +2,7 @@
 title: "Artifacts - Envoy's Pen - Diplomat's Ring "
 permalink: /artifacts/Diplomat's Ring /
 excerpt: "Era of Chaos  Envoy's Pen - Diplomat's Ring . This sparkling ring indicates its wearer's noble status to the masses. It is one of the components of the Envoy's Pen."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Diplomat's Ring .md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Basic Light Armor"
 permalink: /equipment/Basic Light Armor/
 excerpt: "Era of Chaos Basic Light Armor. Basic Light Armor"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Basic Light Armor.md"
 toc: false

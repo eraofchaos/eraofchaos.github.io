@@ -2,7 +2,7 @@
 title: "Venomous Dragon Blood"
 permalink: /equipment/Venomous Dragon Blood/
 excerpt: "Era of Chaos Venomous Dragon Blood. Venomous Dragon Blood"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Venomous Dragon Blood.md"
 toc: false

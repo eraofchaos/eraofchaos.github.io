@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-11 Green Skin"
 permalink: /Main Story/Chapter 21_11/
 excerpt: "Chapter 21 - 11. Era of Chaos  Main Story - Chapter 21_11. 21-11 Green Skin"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 21_11.md"
 toc: false

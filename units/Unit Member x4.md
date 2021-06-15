@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Unit Member x4"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 23 | ![Manticore](/images/u/ti_shixie.jpg) | [Manticore](/units/Manticore/) | Charging | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicore  |
   | 24 | ![Pegasus](/images/u/ti_feima.jpg) | [Pegasus](/units/Pegasus/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Silver Pegasus  |
   | 25 | ![Basilisk](/images/u/ti_xiyi.jpg) | [Basilisk](/units/Basilisk/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
-  | 26 | ![Sprite](/images/u/ti_mofaxianling.jpg) | [Sprite](/units/Sprite/) | Charging | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 26 | ![Sprite](/images/u/ti_mofaxianling.jpg) | [Sprite](/units/Sprite/) | Charging | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Elf Mage  |
   | 27 | ![Regnan Pirates](/images/u/ti_haidao.jpg) | [Regnan Pirates](/units/Regnan Pirates/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  King of Pirates  |
   | 28 | ![Dendroid Guard](/images/u/ti_shuyao.jpg) | [Dendroid Guard](/units/Dendroid Guard/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Dendroid Soldier  |
   | 29 | ![Storm Elemental](/images/u/ti_leiyuansu2.jpg) | [Storm Elemental](/units/Storm Elemental/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Lightning Storm  |

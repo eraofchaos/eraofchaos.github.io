@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-9 Cloak in the Cave"
 permalink: /Main Story/Chapter 16_9/
 excerpt: "Chapter 16 - 9. Era of Chaos  Main Story - Chapter 16_9. 16-9 Cloak in the Cave"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 16_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artifacts - Envoy's Pen - Statesman's Medal"
 permalink: /artifacts/Statesman's Medal/
 excerpt: "Era of Chaos  Envoy's Pen - Statesman's Medal. This medal records its owner's glorious accomplishments. It is one of the components of the Envoy's Pen."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Statesman's Medal.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 15 - 15-4 Inferno Corridor"
 permalink: /Underground/Chapter 15_4/
 excerpt: "Chapter 15 - 4. Era of Chaos  Underground - Chapter 15_4. 15-4 Inferno Corridor"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 15_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Dine with Heroes - Market - Spicy Soup Base"
 permalink: /DineWithHeroesMarket Spicy Soup Base.html
 excerpt: "Dine with Heroes - Market - Spicy Soup Base. Challenging Stages: You can spend entry tickets to challenge stages. Stages start at 0 stars. The difficulty will increase after a clearance, and the rate at which ingredients drop will also increase."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "DineWithHeroesMarketSpicy Soup Base.html"
 toc: true

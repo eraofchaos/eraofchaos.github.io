@@ -2,7 +2,7 @@
 title: "Underground - Chapter 15 - 15-3 Angel's Sculpture"
 permalink: /Underground/Chapter 15_3/
 excerpt: "Chapter 15 - 3. Era of Chaos  Underground - Chapter 15_3. 15-3 Angel's Sculpture"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 15_3.md"
 toc: false

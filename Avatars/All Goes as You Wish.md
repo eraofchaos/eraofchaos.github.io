@@ -2,7 +2,7 @@
 title: "Avatar - All Goes as You Wish"
 permalink: /Avatars/All Goes as You Wish/
 excerpt: "Era of Chaos  All Goes as You Wish"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "All Goes as You Wish.md"
 toc: false

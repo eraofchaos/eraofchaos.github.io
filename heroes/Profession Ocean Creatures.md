@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Ocean Creatures -  Heroes"
 permalink: /heroes/Profession Ocean Creatures/
 excerpt: "Era of Chaos Profession Ocean Creatures. Profession Ocean Creatures. List of Profession  in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Profession Ocean Creatures"
 toc: false

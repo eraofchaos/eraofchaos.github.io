@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-15 Invasion of Evil"
 permalink: /Main Story/Chapter 17_15/
 excerpt: "Chapter 17 - 15. Era of Chaos  Main Story - Chapter 17_15. 17-15 Invasion of Evil"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 17_15.md"
 toc: false

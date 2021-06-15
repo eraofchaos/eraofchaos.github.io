@@ -2,7 +2,7 @@
 title: "Crown of Stone"
 permalink: /equipment/Crown of Stone/
 excerpt: "Era of Chaos Crown of Stone. Crown of Stone"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Crown of Stone.md"
 toc: false

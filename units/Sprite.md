@@ -1,9 +1,9 @@
 ---
 title: "Sprite"
 permalink: /units/Sprite/
-excerpt: "Era of Chaos Sprite. Sprite Units. . Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
+excerpt: "Era of Chaos Sprite. Sprite Units. Elf Mage. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Sprite"
 toc: true
@@ -175,12 +175,12 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_mofaxianling.jpg)
+  ![Elf Mage](/images/u/tia_mofaxianling.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Elf Mage
 
  **Awaking Description:** You stand before the window and look at the flowers, meanwhile a sprite watches you from within the flowers. Just as the fresh flowers decorate the sprites' homes, so too do the sprites embellish others' dreams.
 
@@ -195,23 +195,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Energy Dynamite
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Breakage&gt;</span><span style="color: #645252;font-size:18px"> Every 20s, deals damage equal to 200% of own ATK to the target unit.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Energy Vertigo
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Energy Breakage&gt;</span><span style="color: #645252;font-size:18px"> The first attack against the target unit will deal damage equal to 200% of own ATK.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Sprites' Favor
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sprites' Blessing&gt;</span><span style="color: #645252;font-size:18px"> Additionally increases the Unit DMG Reduction of all friendly units in its path by 10%. This effect doubles for the caster.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Servitor's Blessing
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Sprites' Blessing&gt;</span><span style="color: #645252;font-size:18px"> Additionally decreases the Unit DMG and ATK of all enemy units in its path by 10% each.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Tribute
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dedication&gt;</span><span style="color: #645252;font-size:18px"> Additionally inflicts Silence on 3 random units on the field. Lasts 4s.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Words of the Dead
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Dedication&gt;</span><span style="color: #645252;font-size:18px"> Skill effect is enhanced to inflict the target with Silence and decrease their Unit DMG Reduction by 15%. Lasts 4s.</span>
 
 ## Technical info
  **runart:** 1

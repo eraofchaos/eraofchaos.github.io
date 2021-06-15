@@ -2,7 +2,7 @@
 title: "Holy Emblem - Witness"
 permalink: /Emblem/Witness/
 excerpt: "Era of Chaos Witness. Witness. Era of Chaos Holy Emblem Witness. Era of Chaos Goodness Witness"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Witness.md"
 toc: false

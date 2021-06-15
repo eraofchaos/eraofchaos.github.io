@@ -2,7 +2,7 @@
 title: "Holy Emblem - Griffin Wings"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Era of Chaos Griffin Wings. Griffin Wings. Era of Chaos Holy Emblem Griffin Wings. Era of Chaos Order Griffin Wings"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Griffin Wings.md"
 toc: false

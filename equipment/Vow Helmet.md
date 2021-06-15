@@ -2,7 +2,7 @@
 title: "Vow Helmet"
 permalink: /equipment/Vow Helmet/
 excerpt: "Era of Chaos Vow Helmet. Vow Helmet"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Vow Helmet.md"
 toc: false

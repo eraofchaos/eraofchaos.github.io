@@ -2,7 +2,7 @@
 title: "Necklace of Bone"
 permalink: /equipment/Necklace of Bone/
 excerpt: "Era of Chaos Necklace of Bone. Necklace of Bone"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Necklace of Bone.md"
 toc: false

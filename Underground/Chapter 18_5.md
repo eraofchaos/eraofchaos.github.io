@@ -2,7 +2,7 @@
 title: "Underground - Chapter 18 - 18-5 Pursuit of Flame"
 permalink: /Underground/Chapter 18_5/
 excerpt: "Chapter 18 - 5. Era of Chaos  Underground - Chapter 18_5. 18-5 Pursuit of Flame"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 18_5.md"
 toc: false

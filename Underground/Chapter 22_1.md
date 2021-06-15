@@ -2,7 +2,7 @@
 title: "Underground - Chapter 22 - 22-1 Seed of Life"
 permalink: /Underground/Chapter 22_1/
 excerpt: "Chapter 22 - 1. Era of Chaos  Underground - Chapter 22_1. 22-1 Seed of Life"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 22_1.md"
 toc: false

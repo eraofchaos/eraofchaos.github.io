@@ -2,7 +2,7 @@
 title: "Exclusive - Thorns (Leprechaun)"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Thorns. Thorns. Era of Chaos Exclusive Thorns. Leprechaun Exclusive."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Leprechaun Thorns.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "index.md"
 toc: false
@@ -54,7 +54,7 @@ classes: wide
   | 32 | ![Green Dragon](/images/u/ti_lvlong.jpg) | [Green Dragon](/units/Green Dragon/) | Caster | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Gold Dragon  |
   | 33 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/units/Gremlin/) | Ranged | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 34 | ![Griffin](/images/u/ti_shijiu.jpg) | [Griffin](/units/Griffin/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Royal Griffin  |
-  | 35 | ![Harpy](/images/u/ti_yingshenren.jpg) | [Harpy](/units/Harpy/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Harpy Hag  |
+  | 35 | ![Harpy](/images/u/ti_yingshenren.jpg) | [Harpy](/units/Harpy/) | Charging | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Harpy Hag  |
   | 36 | ![Hell Hound](/images/u/ti_santouquan.jpg) | [Hell Hound](/units/Hell Hound/) | Charging | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 37 | ![Hydra](/images/u/ti_duotoulong.jpg) | [Hydra](/units/Hydra/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Chaos Hydra  |
   | 38 | ![Ice Demon](/images/u/ti_bingmo.jpg) | [Ice Demon](/units/Ice Demon/) | Ranged | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
@@ -95,7 +95,7 @@ classes: wide
   | 73 | ![Shark Trainer](/images/u/ti_xunshashi.jpg) | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Shark Rider  |
   | 74 | ![Skeleton](/images/u/ti_kulouzhanshi.jpg) | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Skeleton Warrior  |
   | 75 | ![Spartan Warriors](/images/u/ti_sibada.jpg) | [Spartan Warriors](/units/Spartan Warriors/) | Offense | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |
-  | 76 | ![Sprite](/images/u/ti_mofaxianling.jpg) | [Sprite](/units/Sprite/) | Charging | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 76 | ![Sprite](/images/u/ti_mofaxianling.jpg) | [Sprite](/units/Sprite/) | Charging | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Elf Mage  |
   | 77 | ![Stone Elemental](/images/u/ti_shiyuansu.jpg) | [Stone Elemental](/units/Stone Elemental/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
   | 78 | ![Stone Gargoyle](/images/u/ti_shixianggui.jpg) | [Stone Gargoyle](/units/Stone Gargoyle/) | Offense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 79 | ![Storm Elemental](/images/u/ti_leiyuansu2.jpg) | [Storm Elemental](/units/Storm Elemental/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Lightning Storm  |

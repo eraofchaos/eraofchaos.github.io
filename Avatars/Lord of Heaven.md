@@ -2,7 +2,7 @@
 title: "Avatar - Lord of Heaven"
 permalink: /Avatars/Lord of Heaven/
 excerpt: "Era of Chaos  Lord of Heaven"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Lord of Heaven.md"
 toc: false

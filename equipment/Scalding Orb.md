@@ -2,7 +2,7 @@
 title: "Scalding Orb"
 permalink: /equipment/Scalding Orb/
 excerpt: "Era of Chaos Scalding Orb. Scalding Orb"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Scalding Orb.md"
 toc: false

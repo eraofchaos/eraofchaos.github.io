@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-14 Empire's Glory"
 permalink: /Main Story/Chapter 9_14/
 excerpt: "Chapter 9 - 14. Era of Chaos  Main Story - Chapter 9_14. 9-14 Empire's Glory"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 9_14.md"
 toc: false

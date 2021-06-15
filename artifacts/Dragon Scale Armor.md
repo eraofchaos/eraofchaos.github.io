@@ -2,7 +2,7 @@
 title: "Artifacts - Power of the Dragon Father - Dragon Scale Armor"
 permalink: /artifacts/Dragon Scale Armor/
 excerpt: "Era of Chaos  Power of the Dragon Father - Dragon Scale Armor. A chest blessed by the Holy Dragon. One of the components of Power of the Dragon Father."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Dragon Scale Armor.md"
 toc: false

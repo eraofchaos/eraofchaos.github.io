@@ -2,7 +2,7 @@
 title: "Underground - Chapter 6 - 6-5 Mission Accomplished"
 permalink: /Underground/Chapter 6_5/
 excerpt: "Chapter 6 - 5. Era of Chaos  Underground - Chapter 6_5. 6-5 Mission Accomplished"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 6_5.md"
 toc: false

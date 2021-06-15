@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "Era of Chaos Exclusive Fortress. Exclusive Fortress. List of Exclusive Fortress in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Exclusive Fortress"
 toc: false

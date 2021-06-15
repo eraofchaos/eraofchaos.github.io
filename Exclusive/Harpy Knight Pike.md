@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike (Harpy)"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Harpy Exclusive."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Harpy Knight Pike.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Charge
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 
@@ -29,10 +29,10 @@ classes: wide
 
   |     Stars    |  Required to Up | Effect |
   |:-------------|:---------------:|:---------------:|
-  |  Awaken  | **100x** [Knight Pike Token](/Items/con_916/) | <Aerobatics> Harpy launches a powerful strike at a target unit, dealing damage equal to 300% of own ATK. It then flies into the air to fire feathered arrows, dealing damage equal to 10% of Max HP to enemy units in a large range while inflicting them with Hawk Venom for 5s. CD is 15s. |
+  |  Awaken  | **100x** [Knight Pike Token](/Items/con_916/) | <Aerobatics> Harpy launches a powerful strike at a target unit, dealing damage equal to 250% of own ATK. It then flies into the air to fire feathered arrows, dealing damage equal to 10% of Max HP to enemy units in a large range while inflicting them with Hawk Venom for 5s. CD is 20s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Knight Pike Token](/Items/con_916/) | Increases Harpy's Unit DMG by 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Knight Pike Token](/Items/con_916/) | Increases Harpy's ATK by 40% when fighting flying units. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_916/) | <Venom Gorger> When fighting poisoned targets, Harpy launches a pursuit and deals damage equal to 300% of own ATK. CD is 10s. If the target was attacked by <Poison Burst>, it is also stunned for 5s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Knight Pike Token](/Items/con_916/) | <Venom Gorger> When fighting targets inflicted with Poison, Harpy launches a pursuit and deals damage equal to 200% of own ATK. CD is 10s. If the target was attacked by <Poison Burst>, it is also inflicted with Stun for 4s. |
   | **4x** <i class="fas fa-star"/> | **170x** [Knight Pike Token](/Items/con_916/) | Increases Harpy's Attack Speed by 15%. |
   | **5x** <i class="fas fa-star"/> | **210x** [Knight Pike Token](/Items/con_916/) | Increases Harpy's Dodge by 500. When Harpy takes damage exceeding 35% of own Max HP in a single attack, it becomes immune to the damage beyond that 35%. |
   | **6x** <i class="fas fa-star"/> | **250x** [Knight Pike Token](/Items/con_916/) | When the current target is stunned by <Venom Gorger>, increases own Unit DMG by 20%. When current target is inflicted with Hawk Venom, increases Life Drain by 20%. When current target has more than 5 stacks of Snake Venom, increases own Critical Hit DMG by 20%. All effects listed last 5s. |

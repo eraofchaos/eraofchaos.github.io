@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-15 An Angel Descends"
 permalink: /Main Story/Chapter 9_15/
 excerpt: "Chapter 9 - 15. Era of Chaos  Main Story - Chapter 9_15. 9-15 An Angel Descends"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 9_15.md"
 toc: false

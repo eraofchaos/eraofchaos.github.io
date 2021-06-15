@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
 excerpt: "Era of Chaos Exclusive Dungeon. Exclusive Dungeon. List of Exclusive Dungeon in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Exclusive Dungeon"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodyte](/units/Troglodyte/) | [Sword](/Exclusive/Troglodyte Sword/) | - | Charge | [Sword Token](/Items/con_912/) | - |
-  | 2  | [Harpy](/units/Harpy/) | [Knight Pike](/Exclusive/Harpy Knight Pike/) | - | Charge | [Knight Pike Token](/Items/con_916/) | - |
+  | 2  | [Harpy](/units/Harpy/) | [Knight Pike](/Exclusive/Harpy Knight Pike/) | + | Charge | [Knight Pike Token](/Items/con_916/) | - |
   | 3  | [Beholder](/units/Beholder/) | [Dark Gaze](/Exclusive/Beholder Dark Gaze/) | - | Ranged | [Dark Gaze Token](/Items/con_990/) | [Dark Gaze Special Skin](/Items/con_658/) |
   | 4  | [Medusa](/units/Medusa/) | [Medusa's Bow](/Exclusive/Medusa Medusa's Bow/) | + | Ranged | [Medusa's Bow Token](/Items/con_991/) | [Medusa's Bow Special Skin](/Items/con_659/) |
   | 5  | [Minotaur](/units/Minotaur/) | [Iris Shield](/Exclusive/Minotaur Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |

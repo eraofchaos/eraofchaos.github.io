@@ -2,7 +2,7 @@
 title: "Savage Descent. Peak Talent - Savage Descent"
 permalink: /PeakTalent/Savage Descent/
 excerpt: "Era of Chaos Peak Talent Savage Descent. Peak Talent Savage Descent. Savage Descent"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Savage Descent.md"
 toc: false

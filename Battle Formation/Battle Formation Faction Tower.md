@@ -2,7 +2,7 @@
 title: "Battle Formation Tower"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "Battle Formation Tower"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "BattleFormationFactionTower"
 toc: false

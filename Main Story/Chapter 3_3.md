@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-3 Mass Graves"
 permalink: /Main Story/Chapter 3_3/
 excerpt: "Chapter 3 - 3. Era of Chaos  Main Story - Chapter 3_3. 3-3 Mass Graves"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 3_3.md"
 toc: false

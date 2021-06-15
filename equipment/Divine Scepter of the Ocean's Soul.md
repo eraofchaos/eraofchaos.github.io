@@ -2,7 +2,7 @@
 title: "Divine Scepter of the Ocean's Soul"
 permalink: /equipment/Divine Scepter of the Ocean's Soul/
 excerpt: "Era of Chaos Divine Scepter of the Ocean's Soul. Divine Scepter of the Ocean's Soul"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Divine Scepter of the Ocean's Soul.md"
 toc: false

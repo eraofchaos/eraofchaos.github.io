@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-1 Occupying the Castle"
 permalink: /Main Story/Chapter 23_1/
 excerpt: "Chapter 23 - 1. Era of Chaos  Main Story - Chapter 23_1. 23-1 Occupying the Castle"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 23_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-9 Hourglass of the Evil Hour"
 permalink: /Main Story/Chapter 10_9/
 excerpt: "Chapter 10 - 9. Era of Chaos  Main Story - Chapter 10_9. 10-9 Hourglass of the Evil Hour"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 10_9.md"
 toc: false

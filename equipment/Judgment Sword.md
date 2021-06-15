@@ -2,7 +2,7 @@
 title: "Judgment Sword"
 permalink: /equipment/Judgment Sword/
 excerpt: "Era of Chaos Judgment Sword. Judgment Sword"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Judgment Sword.md"
 toc: false

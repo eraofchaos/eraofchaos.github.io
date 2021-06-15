@@ -2,7 +2,7 @@
 title: "Ferocious Claws"
 permalink: /equipment/Ferocious Claws/
 excerpt: "Era of Chaos Ferocious Claws. Ferocious Claws"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Ferocious Claws.md"
 toc: false

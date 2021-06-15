@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Unit Rank R"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Centaur](/images/u/ti_banrenma.jpg) | [Centaur](/units/Centaur/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Centaur Captain  |
   | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/units/Gnoll/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Gnoll Warrior  |
   | 10 | ![Skeleton](/images/u/ti_kulouzhanshi.jpg) | [Skeleton](/units/Skeleton/) | Defense | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Skeleton Warrior  |
-  | 11 | ![Sprite](/images/u/ti_mofaxianling.jpg) | [Sprite](/units/Sprite/) | Charging | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 11 | ![Sprite](/images/u/ti_mofaxianling.jpg) | [Sprite](/units/Sprite/) | Charging | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Elf Mage  |
   | 12 | ![Walking Dead](/images/u/ti_jiangshi.jpg) | [Walking Dead](/units/Walking Dead/) | Defense | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombie  |
   | 13 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/units/Goblin/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 14 | ![Wolf Rider](/images/u/ti_langqibing.jpg) | [Wolf Rider](/units/Wolf Rider/) | Charging | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Wolf Raider  |

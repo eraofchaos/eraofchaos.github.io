@@ -2,7 +2,7 @@
 title: "Avatar - Vines of Fortune"
 permalink: /Avatars/Vines of Fortune/
 excerpt: "Era of Chaos  Vines of Fortune"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Vines of Fortune.md"
 toc: false

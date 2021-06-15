@@ -2,7 +2,7 @@
 title: "Lightning's armor"
 permalink: /equipment/Lightning's armor/
 excerpt: "Era of Chaos Lightning's armor. Lightning's armor"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Lightning's armor.md"
 toc: false

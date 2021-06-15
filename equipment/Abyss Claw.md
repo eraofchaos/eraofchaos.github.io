@@ -2,7 +2,7 @@
 title: "Abyss Claw"
 permalink: /equipment/Abyss Claw/
 excerpt: "Era of Chaos Abyss Claw. Abyss Claw"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Abyss Claw.md"
 toc: false

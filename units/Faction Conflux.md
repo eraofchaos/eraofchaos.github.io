@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Units"
 permalink: /units/Faction Conflux/
 excerpt: "Era of Chaos Faction Conflux. Faction Conflux. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Faction Conflux"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | ![Firebird](/images/u/ti_fenghuang.jpg) | [Firebird](/units/Firebird/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Phoenix  |
   | 3 | ![Ice Demon](/images/u/ti_bingmo.jpg) | [Ice Demon](/units/Ice Demon/) | Ranged | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 4 | ![Leprechaun](/images/u/ti_conglinyaojing.jpg) | [Leprechaun](/units/Leprechaun/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
-  | 5 | ![Sprite](/images/u/ti_mofaxianling.jpg) | [Sprite](/units/Sprite/) | Charging | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 5 | ![Sprite](/images/u/ti_mofaxianling.jpg) | [Sprite](/units/Sprite/) | Charging | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Elf Mage  |
   | 6 | ![Storm Elemental](/images/u/ti_leiyuansu2.jpg) | [Storm Elemental](/units/Storm Elemental/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Lightning Storm  |
   | 7 | ![Ice Elemental](/images/u/ti_bingyuansu2.jpg) | [Ice Elemental](/units/Ice Elemental/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Silent Snow Spirit  |
   | 8 | ![Fire Elemental](/images/u/ti_liehuoyuansu.jpg) | [Fire Elemental](/units/Fire Elemental/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Energy Elemental  |

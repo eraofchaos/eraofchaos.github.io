@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-15 Blackrock Chasm"
 permalink: /Main Story/Chapter 29_15/
 excerpt: "Chapter 29 - 15. Era of Chaos  Main Story - Chapter 29_15. 29-15 Blackrock Chasm"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 29_15.md"
 toc: false

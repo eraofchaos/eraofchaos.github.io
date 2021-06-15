@@ -2,7 +2,7 @@
 title: "Boulder"
 permalink: /equipment/Boulder/
 excerpt: "Era of Chaos Boulder. Boulder"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Boulder.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 6 - 6-3 A Speedy Advance"
 permalink: /Underground/Chapter 6_3/
 excerpt: "Chapter 6 - 3. Era of Chaos  Underground - Chapter 6_3. 6-3 A Speedy Advance"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: en
 ref: "Chapter 6_3.md"
 toc: false
