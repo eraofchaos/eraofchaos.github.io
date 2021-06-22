@@ -14,6 +14,38 @@ sidebar:
 
 ### Era Of Chaos - Game client update History
 
+{% capture notice-update20210608 %}
+* First of all, Special Thanks to **yfliu** for support. I'll announce soon some quiz/events with in-game rewards. If You have manual(s) or information to share with another players - [let me know]((https://discordapp.com/users/351705203038224385/)).
+
+* New Event: [Dragon Boat Festival](https://eraofchaos.github.io/Dragon Boat Festival/) scheduled on **11-16 June**. Enjoy!
+
+* New Exclusives for [Psychic Elemental](https://eraofchaos.github.io/units/Psychic Elemental/) -> [Exclusive Spirit Core (Psychic Elemental)](https://eraofchaos.github.io/Exclusive/Psychic%20Elemental%20Spirit%20Core/)
+
+* New Items:
+  * [Hero Token Selection Pack](https://eraofchaos.github.io/Items/con_2176/)
+  * [Magic Scissors](https://eraofchaos.github.io/Items/con_2175/)
+  * [Holy Emblem Selection Pack](https://eraofchaos.github.io/Items/con_2174/)
+  * [1 Magic Scissors](https://eraofchaos.github.io/Items/con_2164/), [2 Magic Scissors](https://eraofchaos.github.io/Items/con_2165/), [5 Magic Scissors](https://eraofchaos.github.io/Items/con_2166/)
+  * [10 Magic Scissors](https://eraofchaos.github.io/Items/con_2167/), [25 Magic Scissors](https://eraofchaos.github.io/Items/con_2168/), [45 Magic Scissors](https://eraofchaos.github.io/Items/con_2169/)
+  * [Orange Holy Emblem Selection Pack](https://eraofchaos.github.io/Items/con_2170/)
+  * [Holiday Orange Holy Emblem Special Offer](https://eraofchaos.github.io/Items/con_2171/)
+  * [SSR Unit Token Selection Chest](https://eraofchaos.github.io/Items/con_2172/)
+  * [Commander Unit Token Selection Chest](https://eraofchaos.github.io/Items/con_2173/)
+
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 28 June 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
+
+* Added 漢語中文 language (still need to update some links)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">8 June 2021 Update: Client version 154 (3631/3632)</h4>
+  {{ notice-update20210608 | markdownify }}
+</div>
+
+
 {% capture notice-update20210605 %}
 * New [Dragon Boat Festival](/Dragon Boat Festival/) event in your language:
   * [Drachenboot-Fest](/de/Dragon Boat Festival/)
