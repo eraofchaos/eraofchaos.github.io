@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-11 The Dragon-Slaying Arrow"
 permalink: /Main Story/Chapter 23_11/
 excerpt: "Chapter 23 - 11. Era of Chaos  Main Story - Chapter 23_11. 23-11 The Dragon-Slaying Arrow"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 23_11.md"
 toc: false

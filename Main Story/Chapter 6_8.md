@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-8 The Plague"
 permalink: /Main Story/Chapter 6_8/
 excerpt: "Chapter 6 - 8. Era of Chaos  Main Story - Chapter 6_8. 6-8 The Plague"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 6_8.md"
 toc: false

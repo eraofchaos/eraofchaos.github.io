@@ -1,9 +1,9 @@
 ---
 title: "Regnan Archer"
 permalink: /units/Regnan Archer/
-excerpt: "Era of Chaos Regnan Archer. Regnan Archer Units. null. Era of Chaos She is destined for wealth. Everything is her target, wherever her arrow aims."
+excerpt: "Era of Chaos Regnan Archer. Regnan Archer Units. Regnan Deadeye. Era of Chaos She is destined for wealth. Everything is her target, wherever her arrow aims."
 unitID: 9902
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Regnan Archer"
 toc: true
@@ -184,12 +184,12 @@ toc: true
 
 ## Awaking
 
-  ![null](/images/u/tia_baozang.jpg)
+  ![Regnan Deadeye](/images/u/tia_baozang.jpg)
 
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** null
+ **Awaking Name:** Regnan Deadeye
 
  **Awaking Description:** The lady pirates have red eyes that strike fear into the hearts of men. Ignorant fools become entranced by them, while those of true intelligence never let themselves be caught in their gaze.
 
@@ -204,23 +204,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Description:** 
+### 1st Skill (or 2nd): Soul-stealing Bolt
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Deadly Arrow&gt;</span><span style="color: #645252;font-size:18px"> 8s after the start of battle, deals damage equal to 500% of own ATK to the target unit and inflicts Bleed, dealing damage equal to 1% of Max HP every second. Lasts 10s. Can deal damage to targets who are immune to Bleed. CD is 20s.</span>
 
-### 2nd Skill (or 1st): null
- **Description:** 
+### 2nd Skill (or 1st): Life-stealing Bolt
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Deadly Arrow&gt;</span><span style="color: #645252;font-size:18px"> 8s after the start of battle, deals damage equal to 500% of own ATK to the target unit and inflicts Slow, dealing damage equal to 1% of Max HP every second. Lasts 10s. Can deal damage to targets who are immune to Slow. CD is 20s.</span>
 
-### 3rd Skill (or 4th): null
- **Description:** 
+### 3rd Skill (or 4th): Tactics Dodge
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactics Training&gt;</span><span style="color: #645252;font-size:18px"> When inflicted with Stun, Petrify, Crystallization, Freeze, or Time Stop, grants a bubble equal to 30% Max HP and increases DEF by 15%. Lasts 6s. CD is 12s. (This skill will not take effect unless Radiance is equipped.)</span>
 
-### 4th Skill (or 3rd): null
- **Description:** 
+### 4th Skill (or 3rd): Tactical Gear
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tactics Training&gt;</span><span style="color: #645252;font-size:18px"> When inflicted with Silence, Low Morale, Paralysis, Deter, or Blind, increases own Attack Speed by 30% and Critical Hit DMG by 15%. Lasts 6s. CD is 12s. (This skill will not take effect unless Radiance is equipped.)</span>
 
-### 5th Skill (or 6th): null
- **Description:** 
+### 5th Skill (or 6th): Point-Blank Firing
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Shooting Support&gt;</span><span style="color: #645252;font-size:18px"> Once every 13s, casts &lt;Point-Blank Firing&gt; on the nearest enemy unit, dealing damage equal to 230% of own ATK. Damage is doubled against units inflicted with Emaciated.</span>
 
-### 6th Skill (or 5th): null
- **Description:** 
+### 6th Skill (or 5th): Firepower Support
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Shooting Support&gt;</span><span style="color: #645252;font-size:18px"> When a friendly unit sustains damage greater than 20% of their Max HP, Regnan Archer will cast &lt;Firepower Support&gt;, increasing its own Critical Hit by 200 and ATK by 40%. Lasts 5s. Stacks up to 2 times.</span>
 
 ## Technical info
  **runart:** 0

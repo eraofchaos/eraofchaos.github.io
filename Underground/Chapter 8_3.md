@@ -2,7 +2,7 @@
 title: "Underground - Chapter 8 - 8-3 The Robbery"
 permalink: /Underground/Chapter 8_3/
 excerpt: "Chapter 8 - 3. Era of Chaos  Underground - Chapter 8_3. 8-3 The Robbery"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 8_3.md"
 toc: false

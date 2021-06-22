@@ -3,7 +3,7 @@ title: "Venom Spawn"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Venom Spawn. Venom Spawn Units. null. Era of Chaos These demons were born from flames and shadows in the fallen flames of hell. According to legends told by people, they are the most frightening nightmares that burn all their battlefields with their karmic flames of sin."
 unitID: 509
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Venom Spawn"
 toc: true
@@ -30,14 +30,14 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit Soul:** [Tool_3509](/Items/unt_234/)
+ **Unit Soul:** [Venom Spawn](/Items/unt_234/)
 
  **Short description:** Steal souls to turnaround the match. Born to die.
 
  **Position :** Steal souls to turnaround the match. Born to die.
 
 ## Basic stats
- **Base HP: 13350.0**
+ **Base HP: 14000.0**
 
  **Base ATK: 375.0**
 
@@ -45,37 +45,37 @@ toc: true
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Green | 187.5 | 16.0 | 10012.5 |
-  | Blue | 375.0 | 32.0 | 20025.0 |
-  | Blue +1 | 562.5 | 48.0 | 30037.5 |
-  | Blue +2 | 787.5 | 67.2 | 42052.5 |
-  | Purple | 1012.5 | 86.4 | 54067.5 |
-  | Purple +1 | 1237.5 | 105.6 | 66082.5 |
-  | Purple +2 | 1500.0 | 128.0 | 80100.0 |
-  | Purple +3 | 1762.5 | 150.4 | 94117.5 |
-  | Orange | 2025.0 | 172.8 | 108135.0 |
-  | Orange +1 | 2325.0 | 198.4 | 124155.0 |
-  | Orange +2 | 2625.0 | 224.0 | 140175.0 |
-  | Orange +3 | 2925.0 | 249.6 | 156195.0 |
-  | Orange +4 | 3225.0 | 275.2 | 172215.0 |
-  | Orange +5 | 3675.0 | 313.6 | 196245.0 |
-  | Red | 4275.0 | 364.8 | 228285.0 |
+  | Green | 187.5 | 20.5 | 10500.0 |
+  | Blue | 375.0 | 41.0 | 21000.0 |
+  | Blue +1 | 562.5 | 61.5 | 31500.0 |
+  | Blue +2 | 787.5 | 86.1 | 44100.0 |
+  | Purple | 1012.5 | 110.7 | 56700.0 |
+  | Purple +1 | 1237.5 | 135.3 | 69300.0 |
+  | Purple +2 | 1500.0 | 164.0 | 84000.0 |
+  | Purple +3 | 1762.5 | 192.7 | 98700.0 |
+  | Orange | 2025.0 | 221.4 | 113400.0 |
+  | Orange +1 | 2325.0 | 254.2 | 130200.0 |
+  | Orange +2 | 2625.0 | 287.0 | 147000.0 |
+  | Orange +3 | 2925.0 | 319.8 | 163800.0 |
+  | Orange +4 | 3225.0 | 352.6 | 180600.0 |
+  | Orange +5 | 3675.0 | 401.8 | 205800.0 |
+  | Red | 4275.0 | 467.4 | 239400.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
-  | **3x** <i class="fas fa-star"/> | 52.5 | 0.33 | 8.04 | 1869.0 |
-  | **4x** <i class="fas fa-star"/> | 60.0 | 0.35 | 8.86 | 2136.0 |
-  | **5x** <i class="fas fa-star"/> | 67.5 | 0.36 | 9.68 | 2403.0 |
-  | **6x** <i class="fas fa-star"/> | 75.0 | 0.38 | 10.5 | 2670.0 |
+  | **3x** <i class="fas fa-star"/> | 52.5 | 0.33 | 10.02 | 1960.0 |
+  | **4x** <i class="fas fa-star"/> | 60.0 | 0.35 | 10.93 | 2240.0 |
+  | **5x** <i class="fas fa-star"/> | 67.5 | 0.36 | 11.84 | 2520.0 |
+  | **6x** <i class="fas fa-star"/> | 75.0 | 0.38 | 12.75 | 2800.0 |
 
 ## Equipment
 
   | I | Equipment  |  Basic stat 1 | Basic stat 2 | 
   |:-:|:-------------|:-------------:|:------------:|
-  | ![UnknownEquipment_5091](/images/e/e_5091.png) | [UnknownEquipment_5091](/equipment/UnknownEquipment_5091/) | **ATK** | **DEF** | 
-  | ![UnknownEquipment_5092](/images/e/e_5092.png) | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **HP** | **DEF** | 
-  | ![UnknownEquipment_5093](/images/e/e_5093.png) | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ATK** | **DEF** | 
-  | ![UnknownEquipment_5094](/images/e/e_5094.png) | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **HP** | **DEF** | 
+  | ![Beastly Eye](/images/e/e_5091.png) | [Beastly Eye](/equipment/Beastly Eye/) | **ATK** | **DEF** | 
+  | ![Swallow of Death](/images/e/e_5092.png) | [Swallow of Death](/equipment/Swallow of Death/) | **HP** | **DEF** | 
+  | ![Fire's Grasp](/images/e/e_5093.png) | [Fire's Grasp](/equipment/Fire's Grasp/) | **ATK** | **DEF** | 
+  | ![Remnant of Flames](/images/e/e_5094.png) | [Remnant of Flames](/equipment/Remnant of Flames/) | **HP** | **DEF** | 
 
 ## Exclusive
 
@@ -223,6 +223,7 @@ toc: true
 ### Hero Bonus
 * [Mephala](/heroes/Mephala/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/heroes/Xeron/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/heroes/Nymus/)  ->   Specialty: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talent
 
@@ -307,7 +308,7 @@ toc: true
 
  **label1:** 4
 
- **speedmove:** 110
+ **speedmove:** 90
 
  **posclass:** 2
 

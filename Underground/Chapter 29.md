@@ -2,7 +2,7 @@
 title: "Underground - Chapter 29 Deal with the Demon"
 permalink: /Underground/Chapter 29/
 excerpt: "Chapter 29 Deal with the Demon. Era of Chaos  Underground - Chapter 29. Deal with the Demon"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 29.md"
 toc: false

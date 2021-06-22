@@ -2,7 +2,7 @@
 title: "Belt of Constraint"
 permalink: /equipment/Belt of Constraint/
 excerpt: "Era of Chaos Belt of Constraint. Belt of Constraint"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Belt of Constraint.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 19 - 19-13 Mage King"
 permalink: /Main Story/Chapter 19_13/
 excerpt: "Chapter 19 - 13. Era of Chaos  Main Story - Chapter 19_13. 19-13 Mage King"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 19_13.md"
 toc: false

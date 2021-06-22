@@ -2,7 +2,7 @@
 title: "Tidal Headdress"
 permalink: /equipment/Tidal Headdress/
 excerpt: "Era of Chaos Tidal Headdress. Tidal Headdress"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Tidal Headdress.md"
 toc: false

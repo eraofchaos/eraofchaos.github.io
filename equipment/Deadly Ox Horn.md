@@ -2,7 +2,7 @@
 title: "Deadly Ox Horn"
 permalink: /equipment/Deadly Ox Horn/
 excerpt: "Era of Chaos Deadly Ox Horn. Deadly Ox Horn"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Deadly Ox Horn.md"
 toc: false

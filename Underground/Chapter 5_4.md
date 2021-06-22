@@ -2,7 +2,7 @@
 title: "Underground - Chapter 5 - 5-4 The War of Restoration"
 permalink: /Underground/Chapter 5_4/
 excerpt: "Chapter 5 - 4. Era of Chaos  Underground - Chapter 5_4. 5-4 The War of Restoration"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 5_4.md"
 toc: false

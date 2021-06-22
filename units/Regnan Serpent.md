@@ -1,9 +1,9 @@
 ---
 title: "Regnan Serpent"
 permalink: /units/Regnan Serpent/
-excerpt: "Era of Chaos Regnan Serpent. Regnan Serpent Units. . Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
+excerpt: "Era of Chaos Regnan Serpent. Regnan Serpent Units. Tidal Guardian. Era of Chaos The most loyal servant to the sea throne. It makes use of its surge power to defend the dignity of the sea king."
 unitID: 9904
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Regnan Serpent"
 toc: true
@@ -192,43 +192,43 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_yurenyongshi.jpg)
+  ![Tidal Guardian](/images/u/tia_yurenyongshi.jpg)
 
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Tidal Guardian
 
- **Awaking Description:** 
+ **Awaking Description:** The rainy night's roaring waves drive all of the fishing boats away, but for the Regnan Serpents, this is a grand occasion. They float to the sea's surface in droves and rejoice as they tread the waves and feel nature's power in the rain and waves. All of this is like a rite to them; here, the Regnan Serpents awaken.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Deploy Regnan Serpent with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Cove units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> pieces of Equipment in Guild Adventure.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> Tidal Guardian souls in the Underground: Levels 15-2 and 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Deploy Regnan Serpent and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> Duel of Champions battle.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Description:** 
+### 1st Skill (or 2nd): Deep-sea Quake
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Deep-sea Stomp&gt;</span><span style="color: #645252;font-size:18px"> Damage is doubled and decreases enemy units' Unit DMG by 20% for 5s.</span>
 
-### 2nd Skill (or 1st): 
- **Description:** 
+### 2nd Skill (or 1st): Quake of Distant Seas
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Deep-sea Stomp&gt;</span><span style="color: #645252;font-size:18px"> Damage is doubled and decreases enemy units' Unit DMG Reduction by 20% for 5s.</span>
 
-### 3rd Skill (or 4th): 
- **Description:** 
+### 3rd Skill (or 4th): Tidal Protection
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tidal Guide&gt;</span><span style="color: #645252;font-size:18px"> This skill's buff can stack 2 additional times.</span>
 
-### 4th Skill (or 3rd): 
- **Description:** 
+### 4th Skill (or 3rd): Undercurrent Guide
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Tidal Guide&gt;</span><span style="color: #645252;font-size:18px"> The buff effect of every stack of this skill is increased by 50%.</span>
 
-### 5th Skill (or 6th): 
- **Description:** 
+### 5th Skill (or 6th): Shark Guard's Bugle
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Battle Horn&gt;</span><span style="color: #645252;font-size:18px"> Decreases the DEF and Tenacity of surrounding enemy units in a large range by 20% and 100 respectively for 7s. This effect is increased by 50% for enemy units who are inflicted with Slow.</span>
 
-### 6th Skill (or 5th): 
- **Description:** 
+### 6th Skill (or 5th): Mermaid's Bugle
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Battle Horn&gt;</span><span style="color: #645252;font-size:18px"> Decreases the Attack Speed and Critical Hit of surrounding enemy units in a large range by 20% and 100 respectively for 7s. This effect is increased by 50% for enemy units who are inflicted with Slow.</span>
 
 ## Technical info
  **runart:** 1

@@ -2,7 +2,7 @@
 title: "Avatar - King of Abyss"
 permalink: /Avatars/King of Abyss/
 excerpt: "Era of Chaos  King of Abyss"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "King of Abyss.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 27  Cove Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Jul** | **3x [Sea Elemental](/Items/unt_275/)**  | A squad of Sea Elemental joined your army and you become stronger! |
+  | **6 Jul** | **3x [Regnan Pirates](/Items/unt_273/)**  | A squad of Regnan Pirates joined your army and you become stronger! |
+  | **7 Jul** | **100x <i class="fas fa-gem"/>**  | The creatures of the pirate harbor present you a small cluster of Diamonds! |
+  | **8 Jul** | **3x [Cove Faction Chest](/Items/con_1278/)**  | Your harbor corps has presented you with a number of valuable treasure chests! |
+  | **9 Jul** | **3x [Cove Roster runes](/Items/con_868/)**  | Your harbor corps has presented you with a number of valuable treasure runes! |
+  | **10 Jul** | **1x [Dragon Turtle](/Items/unt_278/)**  | A squad of Dragon Turtle joined your army and you become stronger! |
+  | **11 Jul** | **1x [Universal Hero Tokens](/Items/her_358/)**  | The creatures of the Pirate Cove present you with a Universal (Hero) Token! |
+
 
 #### 2021 Week 26  Fortress Week
 

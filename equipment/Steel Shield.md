@@ -2,7 +2,7 @@
 title: "Steel Shield"
 permalink: /equipment/Steel Shield/
 excerpt: "Era of Chaos Steel Shield. Steel Shield"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Steel Shield.md"
 toc: false

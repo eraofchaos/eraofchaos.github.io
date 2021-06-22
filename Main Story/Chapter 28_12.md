@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-12 Abandoned Temple"
 permalink: /Main Story/Chapter 28_12/
 excerpt: "Chapter 28 - 12. Era of Chaos  Main Story - Chapter 28_12. 28-12 Abandoned Temple"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 28_12.md"
 toc: false

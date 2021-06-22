@@ -2,7 +2,7 @@
 title: "Avatar - Legendary Warrior (14 Days)"
 permalink: /Avatars/Legendary Warrior (14 Days)/
 excerpt: "Era of Chaos  Legendary Warrior (14 Days)"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Legendary Warrior (14 Days).md"
 toc: false

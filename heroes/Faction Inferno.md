@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Heroes"
 permalink: /heroes/Faction Inferno/
 excerpt: "Era of Chaos Faction Inferno. Faction Inferno. List of Faction  in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Faction Inferno"
 toc: false

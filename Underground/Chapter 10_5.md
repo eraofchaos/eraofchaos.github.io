@@ -2,7 +2,7 @@
 title: "Underground - Chapter 10 - 10-5 Rebirth of the King"
 permalink: /Underground/Chapter 10_5/
 excerpt: "Chapter 10 - 5. Era of Chaos  Underground - Chapter 10_5. 10-5 Rebirth of the King"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 10_5.md"
 toc: false

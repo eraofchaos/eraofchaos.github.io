@@ -2,7 +2,7 @@
 title: "Underground - Chapter 28 Tunnels and Troglodytes"
 permalink: /Underground/Chapter 28/
 excerpt: "Chapter 28 Tunnels and Troglodytes. Era of Chaos  Underground - Chapter 28. Tunnels and Troglodytes"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 28.md"
 toc: false

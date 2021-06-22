@@ -2,7 +2,7 @@
 title: "Holy Emblem - Greed"
 permalink: /Emblem/Greed/
 excerpt: "Era of Chaos Greed. Greed. Era of Chaos Holy Emblem Greed. Era of Chaos Chaos Greed"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Greed.md"
 toc: false

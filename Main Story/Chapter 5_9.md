@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-9 Concealed Identity"
 permalink: /Main Story/Chapter 5_9/
 excerpt: "Chapter 5 - 9. Era of Chaos  Main Story - Chapter 5_9. 5-9 Concealed Identity"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 5_9.md"
 toc: false

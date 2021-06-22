@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Rampart -  Heroes"
 permalink: /heroes/Faction Rampart/
 excerpt: "Era of Chaos Faction Rampart. Faction Rampart. List of Faction  in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Faction Rampart"
 toc: false

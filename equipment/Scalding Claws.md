@@ -2,7 +2,7 @@
 title: "Scalding Claws"
 permalink: /equipment/Scalding Claws/
 excerpt: "Era of Chaos Scalding Claws. Scalding Claws"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Scalding Claws.md"
 toc: false

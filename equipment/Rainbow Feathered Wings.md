@@ -2,7 +2,7 @@
 title: "Rainbow Feathered Wings"
 permalink: /equipment/Rainbow Feathered Wings/
 excerpt: "Era of Chaos Rainbow Feathered Wings. Rainbow Feathered Wings"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Rainbow Feathered Wings.md"
 toc: false

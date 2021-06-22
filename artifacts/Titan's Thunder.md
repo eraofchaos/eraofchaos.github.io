@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Titan's Thunder. Titan's Thunder A legendary holy relic forged from Giant treasures. Unleash lightning on any enemies."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Titan's Thunder.md"
 toc: false

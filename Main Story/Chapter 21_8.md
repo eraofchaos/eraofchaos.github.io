@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-8 Every Path"
 permalink: /Main Story/Chapter 21_8/
 excerpt: "Chapter 21 - 8. Era of Chaos  Main Story - Chapter 21_8. 21-8 Every Path"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 21_8.md"
 toc: false

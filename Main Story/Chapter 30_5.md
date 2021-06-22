@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-5 Fireside Rest"
 permalink: /Main Story/Chapter 30_5/
 excerpt: "Chapter 30 - 5. Era of Chaos  Main Story - Chapter 30_5. 30-5 Fireside Rest"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 30_5.md"
 toc: false

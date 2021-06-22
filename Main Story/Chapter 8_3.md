@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 - 8-3 A Lament"
 permalink: /Main Story/Chapter 8_3/
 excerpt: "Chapter 8 - 3. Era of Chaos  Main Story - Chapter 8_3. 8-3 A Lament"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 8_3.md"
 toc: false

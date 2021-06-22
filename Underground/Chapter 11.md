@@ -2,7 +2,7 @@
 title: "Underground - Chapter 11 Harvest Season"
 permalink: /Underground/Chapter 11/
 excerpt: "Chapter 11 Harvest Season. Era of Chaos  Underground - Chapter 11. Harvest Season"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 11.md"
 toc: false

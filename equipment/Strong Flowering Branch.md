@@ -2,7 +2,7 @@
 title: "Strong Flowering Branch"
 permalink: /equipment/Strong Flowering Branch/
 excerpt: "Era of Chaos Strong Flowering Branch. Strong Flowering Branch"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Strong Flowering Branch.md"
 toc: false

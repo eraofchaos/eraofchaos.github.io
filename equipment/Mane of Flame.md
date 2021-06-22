@@ -2,7 +2,7 @@
 title: "Mane of Flame"
 permalink: /equipment/Mane of Flame/
 excerpt: "Era of Chaos Mane of Flame. Mane of Flame"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Mane of Flame.md"
 toc: false

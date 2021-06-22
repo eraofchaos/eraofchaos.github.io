@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-13 Achieve the Goal"
 permalink: /Main Story/Chapter 7_13/
 excerpt: "Chapter 7 - 13. Era of Chaos  Main Story - Chapter 7_13. 7-13 Achieve the Goal"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 7_13.md"
 toc: false

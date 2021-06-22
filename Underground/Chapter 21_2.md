@@ -2,7 +2,7 @@
 title: "Underground - Chapter 21 - 21-2 Fire Elemental"
 permalink: /Underground/Chapter 21_2/
 excerpt: "Chapter 21 - 2. Era of Chaos  Underground - Chapter 21_2. 21-2 Fire Elemental"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 21_2.md"
 toc: false

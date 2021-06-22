@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-15 Magic Realm"
 permalink: /Main Story/Chapter 24_15/
 excerpt: "Chapter 24 - 15. Era of Chaos  Main Story - Chapter 24_15. 24-15 Magic Realm"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Chapter 24_15.md"
 toc: false

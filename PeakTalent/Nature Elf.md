@@ -2,7 +2,7 @@
 title: "Nature Elf. Peak Talent - Nature Elf"
 permalink: /PeakTalent/Nature Elf/
 excerpt: "Era of Chaos Peak Talent Nature Elf. Peak Talent Nature Elf. Nature Elf"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: en
 ref: "Nature Elf.md"
 toc: false
