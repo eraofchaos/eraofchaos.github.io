@@ -8,9 +8,6 @@ locale: en
 ref: "Venom Spawn"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![Venom Spawn](/images/u/ti_yanmo.jpg)
 
 ## General information
