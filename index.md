@@ -11,6 +11,32 @@ sidebar:
 ---
 
 
+{% capture notice-update20210627 %}
+* Underworld Recollections Event is mega easy if You use the following Tricks:
+  * Use Fire Hero. Upgrade it to 4 star asap
+  * 1~10 levels: each time open all "?" on each floor. Do not spend 20 to open surprise. Try to find 10, 20 or 50% discount.
+  * Refresh shop to buy ![Death Ripple](https://eraofchaos.github.io/images/t/ps_siwangbowen.png) [Death Ripple](https://eraofchaos.github.io/Items/her_456/)
+  * Death Ripple can be 3 different levels. Buy them all if possible.
+  * Optional Hero skills: [Land on Fire](https://eraofchaos.github.io/Items/her_416/) or [Inferno Flame](https://eraofchaos.github.io/Items/her_406/) or some summoning one.
+  * Use 1 army to kill BOSS. Do not fight vs monsters, no reason for it. If BOSS is strong use 2 units.
+  * If you have discount in shop - buy already existing Hero Skills. You would get "original price" back.
+  * Your unit would die, but Devil will kill the rest... in case it's not happens... just close game and re-open it again. re-try it.
+  * If BOSS dead, but You did not get WIN, just start the fight again with 1 unit. You would get Win in 1st second. BUG!
+  * Each difficulty level contains 3 floors. Do not save money... on next difficulty level they would be gone.
+  * After 10th level is done. Simply Sweep it!
+
+* Enjoy the best event ever! For more, See discussion on Reddit -> [what is the trick to underworld recollections event](https://www.reddit.com/r/era_of_chaos/comments/o6pfie/whats_the_trick_to_underworld_recollections_event/)
+
+* IMHO, BUGS would kill this game!
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">27 June 2021: Underworld Recollections Event Trick</h4>
+  {{ notice-update20210627 | markdownify }}
+</div>
+
+
 {% capture notice-update20210622 %}
 * Want to know the future? **Download CN version** (Global version would get "current CN state" it in 1 year). 
 
