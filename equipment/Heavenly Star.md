@@ -2,7 +2,7 @@
 title: "Heavenly Star"
 permalink: /equipment/Heavenly Star/
 excerpt: "Era of Chaos Heavenly Star. Heavenly Star"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Heavenly Star.md"
 toc: false

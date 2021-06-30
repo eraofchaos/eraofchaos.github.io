@@ -2,7 +2,7 @@
 title: "Butcher. Peak Talent - Butcher"
 permalink: /PeakTalent/Butcher/
 excerpt: "Era of Chaos Peak Talent Butcher. Peak Talent Butcher. Butcher"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Butcher.md"
 toc: false

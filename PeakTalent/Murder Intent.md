@@ -2,7 +2,7 @@
 title: "Murder Intent. Peak Talent - Murder Intent"
 permalink: /PeakTalent/Murder Intent/
 excerpt: "Era of Chaos Peak Talent Murder Intent. Peak Talent Murder Intent. Murder Intent"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Murder Intent.md"
 toc: false

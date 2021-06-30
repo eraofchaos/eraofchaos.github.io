@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-14 Dragon Armor"
 permalink: /Main Story/Chapter 5_14/
 excerpt: "Chapter 5 - 14. Era of Chaos  Main Story - Chapter 5_14. 5-14 Dragon Armor"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 5_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-1 Treasures in Nighon"
 permalink: /Main Story/Chapter 27_1/
 excerpt: "Chapter 27 - 1. Era of Chaos  Main Story - Chapter 27_1. 27-1 Treasures in Nighon"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 27_1.md"
 toc: false

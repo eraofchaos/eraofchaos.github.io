@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow (Lizardman)"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Lizardman Exclusive."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Lizardman Long Bow.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Shark Reins"
 permalink: /equipment/Shark Reins/
 excerpt: "Era of Chaos Shark Reins. Shark Reins"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Shark Reins.md"
 toc: false

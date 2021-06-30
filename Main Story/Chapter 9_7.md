@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-7 Victory Stance"
 permalink: /Main Story/Chapter 9_7/
 excerpt: "Chapter 9 - 7. Era of Chaos  Main Story - Chapter 9_7. 9-7 Victory Stance"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 9_7.md"
 toc: false

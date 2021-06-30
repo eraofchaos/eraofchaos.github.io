@@ -2,7 +2,7 @@
 title: "Gorgon Belt"
 permalink: /equipment/Gorgon Belt/
 excerpt: "Era of Chaos Gorgon Belt. Gorgon Belt"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Gorgon Belt.md"
 toc: false

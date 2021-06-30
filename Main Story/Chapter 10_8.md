@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-8 Spirit of Oppression"
 permalink: /Main Story/Chapter 10_8/
 excerpt: "Chapter 10 - 8. Era of Chaos  Main Story - Chapter 10_8. 10-8 Spirit of Oppression"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 10_8.md"
 toc: false

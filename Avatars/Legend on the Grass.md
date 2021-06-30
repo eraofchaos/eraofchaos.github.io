@@ -2,7 +2,7 @@
 title: "Avatar - Legend on the Grass"
 permalink: /Avatars/Legend on the Grass/
 excerpt: "Era of Chaos  Legend on the Grass"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Legend on the Grass.md"
 toc: false

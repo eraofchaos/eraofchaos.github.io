@@ -2,7 +2,7 @@
 title: "Veteran Scar. Peak Talent - Veteran Scar"
 permalink: /PeakTalent/Veteran Scar/
 excerpt: "Era of Chaos Peak Talent Veteran Scar. Peak Talent Veteran Scar. Veteran Scar"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Veteran Scar.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Medal of Lords. Peak Talent - Medal of Lords"
 permalink: /PeakTalent/Medal of Lords/
 excerpt: "Era of Chaos Peak Talent Medal of Lords. Peak Talent Medal of Lords. Medal of Lords"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Medal of Lords.md"
 toc: false

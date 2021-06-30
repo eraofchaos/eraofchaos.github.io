@@ -2,7 +2,7 @@
 title: "Spiked Pauldrons"
 permalink: /equipment/Spiked Pauldrons/
 excerpt: "Era of Chaos Spiked Pauldrons. Spiked Pauldrons"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Spiked Pauldrons.md"
 toc: false

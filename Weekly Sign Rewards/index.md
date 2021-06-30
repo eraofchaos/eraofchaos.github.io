@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 28  Rampart Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **12 Jul** | **5x [Centaur](/Items/unt_199/)**  | A squad of Centaur joined your army and you become stronger! |
+  | **13 Jul** | **3x [Wood Elf](/Items/unt_201/)**  | A squad of Wood Elf joined your army and you become stronger! |
+  | **14 Jul** | **3x [Pegasus](/Items/unt_202/)**  | A squad of Pegasus joined your army and you become stronger! |
+  | **15 Jul** | **3x [Unicorn](/Items/unt_204/)**  | A squad of Unicorn joined your army and you become stronger! |
+  | **16 Jul** | **3x [Dwarf](/Items/unt_200/)**  | A squad of Dwarf joined your army and you become stronger! |
+  | **17 Jul** | **3x [Dendroid Guard](/Items/unt_203/)**  | A squad of Dendroid Guard joined your army and you become stronger! |
+  | **18 Jul** | **5x [Ryland](/Items/her_368/)**  | Hero Ryland respects your actions to protect nature and wants to serve you! |
+
 
 #### 2021 Week 27  Cove Week
 

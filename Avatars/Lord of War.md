@@ -2,7 +2,7 @@
 title: "Avatar - Lord of War"
 permalink: /Avatars/Lord of War/
 excerpt: "Era of Chaos  Lord of War"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Lord of War.md"
 toc: false

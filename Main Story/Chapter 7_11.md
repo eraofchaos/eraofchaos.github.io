@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-11 Repelling Attackers"
 permalink: /Main Story/Chapter 7_11/
 excerpt: "Chapter 7 - 11. Era of Chaos  Main Story - Chapter 7_11. 7-11 Repelling Attackers"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 7_11.md"
 toc: false

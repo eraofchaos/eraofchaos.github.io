@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-8 Swift Battle"
 permalink: /Main Story/Chapter 11_8/
 excerpt: "Chapter 11 - 8. Era of Chaos  Main Story - Chapter 11_8. 11-8 Swift Battle"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 11_8.md"
 toc: false

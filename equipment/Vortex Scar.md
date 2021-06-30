@@ -2,7 +2,7 @@
 title: "Vortex Scar"
 permalink: /equipment/Vortex Scar/
 excerpt: "Era of Chaos Vortex Scar. Vortex Scar"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Vortex Scar.md"
 toc: false

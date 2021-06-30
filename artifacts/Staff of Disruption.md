@@ -2,7 +2,7 @@
 title: "Artifacts - Archmage's Codex - Staff of Disruption"
 permalink: /artifacts/Staff of Disruption/
 excerpt: "Era of Chaos  Archmage's Codex - Staff of Disruption. A staff with great power sealed within. One of the Archmage's Codex."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Staff of Disruption.md"
 toc: false

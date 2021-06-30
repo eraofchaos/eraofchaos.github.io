@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-6 Mine Cave"
 permalink: /Main Story/Chapter 23_6/
 excerpt: "Chapter 23 - 6. Era of Chaos  Main Story - Chapter 23_6. 23-6 Mine Cave"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 23_6.md"
 toc: false

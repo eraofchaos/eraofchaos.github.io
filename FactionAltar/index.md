@@ -2,7 +2,7 @@
 title: "Faction Altar for 2021"
 permalink: /FactionAltar/
 excerpt: "Era of Chaos  Faction Altar for 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "index.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artifacts - Cloak of the Undead King - Dead Man's Boots"
 permalink: /artifacts/Dead Man's Boots/
 excerpt: "Era of Chaos  Cloak of the Undead King - Dead Man's Boots. A pair of boots that make the wearer as fast as the wind. One of the components of the Cloak of the Undead King."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Dead Man's Boots.md"
 toc: false

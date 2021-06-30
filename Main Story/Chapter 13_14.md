@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-14 A Long Struggle"
 permalink: /Main Story/Chapter 13_14/
 excerpt: "Chapter 13 - 14. Era of Chaos  Main Story - Chapter 13_14. 13-14 A Long Struggle"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 13_14.md"
 toc: false

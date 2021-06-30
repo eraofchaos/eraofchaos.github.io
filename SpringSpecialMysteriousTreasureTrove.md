@@ -2,7 +2,7 @@
 title: "Spring Special - Mysterious Treasure Trove"
 permalink: /SpringSpecialMysteriousTreasureTrove.html
 excerpt: "Spring Special - Mysterious Treasure Trove - Shadowy Diamonds can be used in the Mysterious Treasure Trove to exchange for great rewards!."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "SpringSpecialMysteriousTreasureTrove.md"
 toc: false

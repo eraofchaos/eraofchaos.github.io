@@ -2,7 +2,7 @@
 title: "Bracer of Nightmares"
 permalink: /equipment/Bracer of Nightmares/
 excerpt: "Era of Chaos Bracer of Nightmares. Bracer of Nightmares"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Bracer of Nightmares.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Greedy Heart"
 permalink: /Avatars/Greedy Heart/
 excerpt: "Era of Chaos  Greedy Heart"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Greedy Heart.md"
 toc: false

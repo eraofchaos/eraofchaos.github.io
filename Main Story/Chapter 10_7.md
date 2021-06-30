@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-7 Pendant of Dispassion"
 permalink: /Main Story/Chapter 10_7/
 excerpt: "Chapter 10 - 7. Era of Chaos  Main Story - Chapter 10_7. 10-7 Pendant of Dispassion"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 10_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Fire's Grasp"
 permalink: /equipment/Fire's Grasp/
 excerpt: "Era of Chaos Fire's Grasp. Fire's Grasp"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Fire's Grasp.md"
 toc: false

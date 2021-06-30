@@ -2,7 +2,7 @@
 title: "Underground - Chapter 4 - 4-4 Complete Devastation"
 permalink: /Underground/Chapter 4_4/
 excerpt: "Chapter 4 - 4. Era of Chaos  Underground - Chapter 4_4. 4-4 Complete Devastation"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 4_4.md"
 toc: false

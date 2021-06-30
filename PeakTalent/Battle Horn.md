@@ -2,7 +2,7 @@
 title: "Battle Horn. Peak Talent - Battle Horn"
 permalink: /PeakTalent/Battle Horn/
 excerpt: "Era of Chaos Peak Talent Battle Horn. Peak Talent Battle Horn. Battle Horn"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Battle Horn.md"
 toc: false

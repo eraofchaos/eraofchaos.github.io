@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-5 The Ghost Castle"
 permalink: /Main Story/Chapter 3_5/
 excerpt: "Chapter 3 - 5. Era of Chaos  Main Story - Chapter 3_5. 3-5 The Ghost Castle"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 3_5.md"
 toc: false

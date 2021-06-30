@@ -2,7 +2,7 @@
 title: "Underground - Chapter 29 - 29-2  Bullfighter"
 permalink: /Underground/Chapter 29_2/
 excerpt: "Chapter 29 - 2. Era of Chaos  Underground - Chapter 29_2. 29-2  Bullfighter"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 29_2.md"
 toc: false

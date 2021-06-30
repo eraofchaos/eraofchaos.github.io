@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-2 Escape at the Gateway"
 permalink: /Main Story/Chapter 17_2/
 excerpt: "Chapter 17 - 2. Era of Chaos  Main Story - Chapter 17_2. 17-2 Escape at the Gateway"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: en
 ref: "Chapter 17_2.md"
 toc: false
