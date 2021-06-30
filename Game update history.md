@@ -14,6 +14,36 @@ sidebar:
 
 ### Era Of Chaos - Game client update History
 
+All promises from the Ubi team is fake. I spend about 2 months in discussions, wrote e-mails, got confirming for "Content Creator" status. They promised gems for players as rewards in quiz/activities on wiki... and finally, **ZERO**. IMHO, this game is not important for Ubisoft, because we do not have a Community Manager for 4-5 months. **Vera** left in December 2020, **Jeffery** left at end of February 2021, ...
+
+
+{% capture notice-update20210615 %}
+
+* 23 June release date for Inferno Commander [Venom Spawn](https://eraofchaos.github.io/units/Venom Spawn/)
+
+* Awakening for ![Sprite](/images/u/ti_mofaxianling.jpg) [Sprite](/units/Sprite/)
+
+* Exclusive weapon for ![Harpy](/images/u/ti_yingshenren.jpg) [Harpy](/units/Harpy/)
+
+* Updated items:
+  * [Venom Spawn](https://eraofchaos.github.io/Items/unt_234/)
+  * [Random Purple Artifact Component Chest](https://eraofchaos.github.io/Items/con_962/)
+  * [Tidal Guardian Soul Stone](https://eraofchaos.github.io/Items/unt_352/)
+  * [Tidal Guardian Soul Stone Special Offer A](https://eraofchaos.github.io/Items/con_2161/)
+  * [Tidal Guardian Soul Stone Special Offer B](https://eraofchaos.github.io/Items/con_2162/)
+  * [Tidal Guardian Soul Stone Special Offer C](https://eraofchaos.github.io/Items/con_2163/)
+
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 6 July 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">15 June 2021 Update: Client version 154 (3646/3647)</h4>
+  {{ notice-update20210615 | markdownify }}
+</div>
+
 {% capture notice-update20210608 %}
 * First of all, Special Thanks to **yfliu** for support. I'll announce soon some quiz/events with in-game rewards. If You have manual(s) or information to share with another players - [let me know]((https://discordapp.com/users/351705203038224385/)).
 
