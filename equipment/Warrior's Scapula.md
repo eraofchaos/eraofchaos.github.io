@@ -2,7 +2,7 @@
 title: "Warrior's Scapula"
 permalink: /equipment/Warrior's Scapula/
 excerpt: "Era of Chaos Warrior's Scapula. Warrior's Scapula"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Warrior's Scapula.md"
 toc: false

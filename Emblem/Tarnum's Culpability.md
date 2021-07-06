@@ -2,7 +2,7 @@
 title: "Holy Emblem - Tarnum's Culpability"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "Era of Chaos Tarnum's Culpability. Tarnum's Culpability. Era of Chaos Holy Emblem Tarnum's Culpability. Era of Chaos Neutral Tarnum's Culpability"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Tarnum's Culpability.md"
 toc: false

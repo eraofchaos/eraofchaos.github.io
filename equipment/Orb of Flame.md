@@ -2,7 +2,7 @@
 title: "Orb of Flame"
 permalink: /equipment/Orb of Flame/
 excerpt: "Era of Chaos Orb of Flame. Orb of Flame"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Orb of Flame.md"
 toc: false

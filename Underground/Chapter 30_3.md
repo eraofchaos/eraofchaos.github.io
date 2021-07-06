@@ -2,7 +2,7 @@
 title: "Underground - Chapter 30 - 30-3  Crack Shot"
 permalink: /Underground/Chapter 30_3/
 excerpt: "Chapter 30 - 3. Era of Chaos  Underground - Chapter 30_3. 30-3  Crack Shot"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 30_3.md"
 toc: false

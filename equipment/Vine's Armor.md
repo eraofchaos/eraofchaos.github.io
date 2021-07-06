@@ -2,7 +2,7 @@
 title: "Vine's Armor"
 permalink: /equipment/Vine's Armor/
 excerpt: "Era of Chaos Vine's Armor. Vine's Armor"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Vine's Armor.md"
 toc: false

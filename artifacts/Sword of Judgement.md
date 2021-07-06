@@ -2,7 +2,7 @@
 title: "Artifacts - Angelic Alliance - Sword of Judgement"
 permalink: /artifacts/Sword of Judgement/
 excerpt: "Era of Chaos  Angelic Alliance - Sword of Judgement. A sword gifted to men by the gods. One of the components of the Angelic Alliance."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Sword of Judgement.md"
 toc: false

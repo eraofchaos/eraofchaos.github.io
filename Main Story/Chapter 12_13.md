@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 12 - 12-13 The Hidden Secret"
 permalink: /Main Story/Chapter 12_13/
 excerpt: "Chapter 12 - 13. Era of Chaos  Main Story - Chapter 12_13. 12-13 The Hidden Secret"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 12_13.md"
 toc: false

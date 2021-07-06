@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-7 Necromancer and Traitor"
 permalink: /Main Story/Chapter 16_7/
 excerpt: "Chapter 16 - 7. Era of Chaos  Main Story - Chapter 16_7. 16-7 Necromancer and Traitor"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 16_7.md"
 toc: false

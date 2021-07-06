@@ -2,7 +2,7 @@
 title: "Backup - Hunt in the Forest"
 permalink: /Backup/Hunt in the Forest/
 excerpt: "Era of Chaos  Hunt in the Forest"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Hunt in the Forest.md"
 toc: false

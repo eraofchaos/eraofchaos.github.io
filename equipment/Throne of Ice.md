@@ -2,7 +2,7 @@
 title: "Throne of Ice"
 permalink: /equipment/Throne of Ice/
 excerpt: "Era of Chaos Throne of Ice. Throne of Ice"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Throne of Ice.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-5 Evil Order"
 permalink: /Main Story/Chapter 17_5/
 excerpt: "Chapter 17 - 5. Era of Chaos  Main Story - Chapter 17_5. 17-5 Evil Order"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 17_5.md"
 toc: false

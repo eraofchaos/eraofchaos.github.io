@@ -2,7 +2,7 @@
 title: "Pauldrons of Hearth Fire"
 permalink: /equipment/Pauldrons of Hearth Fire/
 excerpt: "Era of Chaos Pauldrons of Hearth Fire. Pauldrons of Hearth Fire"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Pauldrons of Hearth Fire.md"
 toc: false

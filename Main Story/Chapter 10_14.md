@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-14 Death Ripple"
 permalink: /Main Story/Chapter 10_14/
 excerpt: "Chapter 10 - 14. Era of Chaos  Main Story - Chapter 10_14. 10-14 Death Ripple"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 10_14.md"
 toc: false

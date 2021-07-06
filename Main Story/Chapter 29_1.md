@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-1 Haunted Mansion"
 permalink: /Main Story/Chapter 29_1/
 excerpt: "Chapter 29 - 1. Era of Chaos  Main Story - Chapter 29_1. 29-1 Haunted Mansion"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 29_1.md"
 toc: false

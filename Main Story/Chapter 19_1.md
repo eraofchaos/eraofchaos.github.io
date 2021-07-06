@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 19 - 19-1 Mage Empire"
 permalink: /Main Story/Chapter 19_1/
 excerpt: "Chapter 19 - 1. Era of Chaos  Main Story - Chapter 19_1. 19-1 Mage Empire"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 19_1.md"
 toc: false

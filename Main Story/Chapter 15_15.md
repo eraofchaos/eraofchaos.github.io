@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-15 The Last Battle"
 permalink: /Main Story/Chapter 15_15/
 excerpt: "Chapter 15 - 15. Era of Chaos  Main Story - Chapter 15_15. 15-15 The Last Battle"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 15_15.md"
 toc: false

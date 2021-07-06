@@ -2,7 +2,7 @@
 title: "Avatar - Commenters"
 permalink: /Avatars/Commenters/
 excerpt: "Era of Chaos  Commenters"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Commenters.md"
 toc: false

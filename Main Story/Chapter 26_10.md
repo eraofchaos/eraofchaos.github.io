@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-10 Pillar of the Beholder"
 permalink: /Main Story/Chapter 26_10/
 excerpt: "Chapter 26 - 10. Era of Chaos  Main Story - Chapter 26_10. 26-10 Pillar of the Beholder"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 26_10.md"
 toc: false

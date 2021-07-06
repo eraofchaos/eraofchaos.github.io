@@ -2,7 +2,7 @@
 title: "Crystal Longhorn"
 permalink: /equipment/Crystal Longhorn/
 excerpt: "Era of Chaos Crystal Longhorn. Crystal Longhorn"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Crystal Longhorn.md"
 toc: false

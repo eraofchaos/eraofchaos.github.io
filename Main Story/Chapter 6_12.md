@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-12 Capital Capture"
 permalink: /Main Story/Chapter 6_12/
 excerpt: "Chapter 6 - 12. Era of Chaos  Main Story - Chapter 6_12. 6-12 Capital Capture"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 6_12.md"
 toc: false

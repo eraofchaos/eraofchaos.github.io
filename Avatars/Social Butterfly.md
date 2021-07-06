@@ -2,7 +2,7 @@
 title: "Avatar - Social Butterfly"
 permalink: /Avatars/Social Butterfly/
 excerpt: "Era of Chaos  Social Butterfly"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Social Butterfly.md"
 toc: false

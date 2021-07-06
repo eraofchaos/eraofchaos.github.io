@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 5 - 5-12 Total War"
 permalink: /Main Story/Chapter 5_12/
 excerpt: "Chapter 5 - 12. Era of Chaos  Main Story - Chapter 5_12. 5-12 Total War"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 5_12.md"
 toc: false

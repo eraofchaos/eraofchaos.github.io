@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-9 Underground Entrance"
 permalink: /Main Story/Chapter 11_9/
 excerpt: "Chapter 11 - 9. Era of Chaos  Main Story - Chapter 11_9. 11-9 Underground Entrance"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 11_9.md"
 toc: false

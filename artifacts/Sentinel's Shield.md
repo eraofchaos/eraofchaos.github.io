@@ -2,7 +2,7 @@
 title: "Artifacts - Titan's Thunder - Sentinel's Shield"
 permalink: /artifacts/Sentinel's Shield/
 excerpt: "Era of Chaos  Titan's Thunder - Sentinel's Shield. A shield blessed with holy power. One of the components of the Titan's Thunder."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Sentinel's Shield.md"
 toc: false

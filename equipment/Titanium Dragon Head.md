@@ -2,7 +2,7 @@
 title: "Titanium Dragon Head"
 permalink: /equipment/Titanium Dragon Head/
 excerpt: "Era of Chaos Titanium Dragon Head. Titanium Dragon Head"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Titanium Dragon Head.md"
 toc: false

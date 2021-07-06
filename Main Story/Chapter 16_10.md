@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-10 Elven Gems"
 permalink: /Main Story/Chapter 16_10/
 excerpt: "Chapter 16 - 10. Era of Chaos  Main Story - Chapter 16_10. 16-10 Elven Gems"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 16_10.md"
 toc: false

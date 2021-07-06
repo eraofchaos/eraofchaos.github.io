@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 Marshland"
 permalink: /Main Story/Chapter 10/
 excerpt: "Chapter 10. Era of Chaos  Main Story - Chapter 10. Marshland"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 10.md"
 toc: false

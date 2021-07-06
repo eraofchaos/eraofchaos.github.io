@@ -2,7 +2,7 @@
 title: "Toxic Fang"
 permalink: /equipment/Toxic Fang/
 excerpt: "Era of Chaos Toxic Fang. Toxic Fang"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Toxic Fang.md"
 toc: false

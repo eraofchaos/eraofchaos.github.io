@@ -2,7 +2,7 @@
 title: "Underground - Chapter 7 - 7-3 Goldrush"
 permalink: /Underground/Chapter 7_3/
 excerpt: "Chapter 7 - 3. Era of Chaos  Underground - Chapter 7_3. 7-3 Goldrush"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 7_3.md"
 toc: false

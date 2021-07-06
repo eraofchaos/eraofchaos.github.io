@@ -2,7 +2,7 @@
 title: "Avatar - Wild Overlord"
 permalink: /Avatars/Wild Overlord/
 excerpt: "Era of Chaos  Wild Overlord"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Wild Overlord.md"
 toc: false

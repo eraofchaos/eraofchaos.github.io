@@ -2,7 +2,7 @@
 title: "Navy Blue Sharp Claw"
 permalink: /equipment/Navy Blue Sharp Claw/
 excerpt: "Era of Chaos Navy Blue Sharp Claw. Navy Blue Sharp Claw"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Navy Blue Sharp Claw.md"
 toc: false

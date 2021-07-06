@@ -2,7 +2,7 @@
 title: "Avatar - Lord"
 permalink: /Avatars/Lord/
 excerpt: "Era of Chaos  Lord"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Lord.md"
 toc: false

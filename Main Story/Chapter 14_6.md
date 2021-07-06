@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 14 - 14-6 Beastly Encounter"
 permalink: /Main Story/Chapter 14_6/
 excerpt: "Chapter 14 - 6. Era of Chaos  Main Story - Chapter 14_6. 14-6 Beastly Encounter"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 14_6.md"
 toc: false

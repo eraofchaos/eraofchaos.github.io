@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-12 The Crisis"
 permalink: /Main Story/Chapter 15_12/
 excerpt: "Chapter 15 - 12. Era of Chaos  Main Story - Chapter 15_12. 15-12 The Crisis"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 15_12.md"
 toc: false

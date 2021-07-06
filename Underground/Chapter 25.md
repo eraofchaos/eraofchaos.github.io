@@ -2,7 +2,7 @@
 title: "Underground - Chapter 25 Land of Sleep"
 permalink: /Underground/Chapter 25/
 excerpt: "Chapter 25 Land of Sleep. Era of Chaos  Underground - Chapter 25. Land of Sleep"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 25.md"
 toc: false

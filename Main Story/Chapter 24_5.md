@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-5 Mystery of the Cave"
 permalink: /Main Story/Chapter 24_5/
 excerpt: "Chapter 24 - 5. Era of Chaos  Main Story - Chapter 24_5. 24-5 Mystery of the Cave"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 24_5.md"
 toc: false

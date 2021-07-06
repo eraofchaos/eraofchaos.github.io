@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-2 Armies Meeting"
 permalink: /Main Story/Chapter 6_2/
 excerpt: "Chapter 6 - 2. Era of Chaos  Main Story - Chapter 6_2. 6-2 Armies Meeting"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 6_2.md"
 toc: false

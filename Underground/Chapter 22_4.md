@@ -2,7 +2,7 @@
 title: "Underground - Chapter 22 - 22-4 Tricks of Gods"
 permalink: /Underground/Chapter 22_4/
 excerpt: "Chapter 22 - 4. Era of Chaos  Underground - Chapter 22_4. 22-4 Tricks of Gods"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 22_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artifacts - Elixir of Life - Bottle of Energy"
 permalink: /artifacts/Bottle of Energy/
 excerpt: "Era of Chaos  Elixir of Life - Bottle of Energy. A bottle to make the wearer feel energized. One of the components of the Elixir of Life."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Bottle of Energy.md"
 toc: false

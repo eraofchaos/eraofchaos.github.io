@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 Deal with the Devil"
 permalink: /Main Story/Chapter 18/
 excerpt: "Chapter 18. Era of Chaos  Main Story - Chapter 18. Deal with the Devil"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 18.md"
 toc: false

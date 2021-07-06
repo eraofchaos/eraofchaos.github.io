@@ -2,7 +2,7 @@
 title: "Hotspot Artifacts for February 2021"
 permalink: /Hotspot/HotSpot Artifact February_2021/
 excerpt: "Artifacts Hotspot for February 2021. The hotspot artifacts will be updated at 05:00 on Mon. After the update, players will get an orange artifact that is a component of one of hotspot artifacts upon completing a certain number of Horoscopes"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "HotSpot Artifact February_2021.md"
 toc: false

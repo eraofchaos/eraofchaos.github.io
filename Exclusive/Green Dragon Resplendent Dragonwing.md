@@ -2,7 +2,7 @@
 title: "Exclusive - Resplendent Dragonwing (Green Dragon)"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Resplendent Dragonwing. Resplendent Dragonwing. Era of Chaos Exclusive Resplendent Dragonwing. Green Dragon Exclusive."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Green Dragon Resplendent Dragonwing.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 16 - 16-3 Flesh and Blood"
 permalink: /Underground/Chapter 16_3/
 excerpt: "Chapter 16 - 3. Era of Chaos  Underground - Chapter 16_3. 16-3 Flesh and Blood"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 16_3.md"
 toc: false

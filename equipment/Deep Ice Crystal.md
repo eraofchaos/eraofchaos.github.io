@@ -2,7 +2,7 @@
 title: "Deep Ice Crystal"
 permalink: /equipment/Deep Ice Crystal/
 excerpt: "Era of Chaos Deep Ice Crystal. Deep Ice Crystal"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Deep Ice Crystal.md"
 toc: false

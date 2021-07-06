@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 Land of Chaos"
 permalink: /Main Story/Chapter 9/
 excerpt: "Chapter 9. Era of Chaos  Main Story - Chapter 9. Land of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 9.md"
 toc: false

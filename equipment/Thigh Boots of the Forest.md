@@ -2,7 +2,7 @@
 title: "Thigh Boots of the Forest"
 permalink: /equipment/Thigh Boots of the Forest/
 excerpt: "Era of Chaos Thigh Boots of the Forest. Thigh Boots of the Forest"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Thigh Boots of the Forest.md"
 toc: false

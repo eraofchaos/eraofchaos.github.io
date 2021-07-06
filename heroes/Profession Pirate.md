@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Pirate -  Heroes"
 permalink: /heroes/Profession Pirate/
 excerpt: "Era of Chaos Profession Pirate. Profession Pirate. List of Profession  in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Profession Pirate"
 toc: false

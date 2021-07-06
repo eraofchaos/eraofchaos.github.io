@@ -2,7 +2,7 @@
 title: "Beholder of Lightning"
 permalink: /equipment/Beholder of Lightning/
 excerpt: "Era of Chaos Beholder of Lightning. Beholder of Lightning"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Beholder of Lightning.md"
 toc: false

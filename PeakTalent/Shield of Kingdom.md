@@ -2,7 +2,7 @@
 title: "Shield of Kingdom. Peak Talent - Shield of Kingdom"
 permalink: /PeakTalent/Shield of Kingdom/
 excerpt: "Era of Chaos Peak Talent Shield of Kingdom. Peak Talent Shield of Kingdom. Shield of Kingdom"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Shield of Kingdom.md"
 toc: false

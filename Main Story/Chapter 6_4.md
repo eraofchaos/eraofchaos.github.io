@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-4 Death Curse"
 permalink: /Main Story/Chapter 6_4/
 excerpt: "Chapter 6 - 4. Era of Chaos  Main Story - Chapter 6_4. 6-4 Death Curse"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 6_4.md"
 toc: false

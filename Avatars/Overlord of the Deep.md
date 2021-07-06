@@ -2,7 +2,7 @@
 title: "Avatar - Overlord of the Deep"
 permalink: /Avatars/Overlord of the Deep/
 excerpt: "Era of Chaos  Overlord of the Deep"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Overlord of the Deep.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Spell Breaker's Staff"
 permalink: /equipment/Spell Breaker's Staff/
 excerpt: "Era of Chaos Spell Breaker's Staff. Spell Breaker's Staff"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Spell Breaker's Staff.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Sphinx questions and correct answers"
 permalink: /sphinx/
 excerpt: "Era of Chaos Sphinx. Sphinx questions. List of ALL Sphinx questions with correct answers in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "index.md"
 toc: false

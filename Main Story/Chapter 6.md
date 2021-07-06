@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 Breaking Ground"
 permalink: /Main Story/Chapter 6/
 excerpt: "Chapter 6. Era of Chaos  Main Story - Chapter 6. Breaking Ground"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 6.md"
 toc: false

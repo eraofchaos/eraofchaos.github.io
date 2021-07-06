@@ -2,7 +2,7 @@
 title: "Thorn's Chakram"
 permalink: /equipment/Thorn's Chakram/
 excerpt: "Era of Chaos Thorn's Chakram. Thorn's Chakram"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Thorn's Chakram.md"
 toc: false

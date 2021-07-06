@@ -2,7 +2,7 @@
 title: "Bracers of Flame"
 permalink: /equipment/Bracers of Flame/
 excerpt: "Era of Chaos Bracers of Flame. Bracers of Flame"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Bracers of Flame.md"
 toc: false

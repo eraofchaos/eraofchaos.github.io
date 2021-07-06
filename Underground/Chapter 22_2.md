@@ -2,7 +2,7 @@
 title: "Underground - Chapter 22 - 22-2 Choices for the Future"
 permalink: /Underground/Chapter 22_2/
 excerpt: "Chapter 22 - 2. Era of Chaos  Underground - Chapter 22_2. 22-2 Choices for the Future"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Chapter 22_2.md"
 toc: false

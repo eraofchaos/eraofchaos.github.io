@@ -2,7 +2,7 @@
 title: "Fire in the Abyss"
 permalink: /equipment/Fire in the Abyss/
 excerpt: "Era of Chaos Fire in the Abyss. Fire in the Abyss"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Fire in the Abyss.md"
 toc: false

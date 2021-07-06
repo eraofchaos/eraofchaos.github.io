@@ -2,7 +2,7 @@
 title: "Archgriffin Feather"
 permalink: /equipment/Archgriffin Feather/
 excerpt: "Era of Chaos Archgriffin Feather. Archgriffin Feather"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: en
 ref: "Archgriffin Feather.md"
 toc: false
