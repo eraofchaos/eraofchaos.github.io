@@ -21,7 +21,7 @@ sidebar:
 
 * [Hidden Blade](/Exclusive/Assassin Hidden Blade/) - Exclusive weapon for ![Assassin](/images/u/ti_cishazhe.jpg) [Assassin](/units/Assassin/)
 
-* ![Regnan Deadeye](https://eraofchaos.github.io/images/u/tia_baozang.jpg) is awakening for [Regnan Archer](https://eraofchaos.github.io/units/Regnan Archer/)
+* ![Regnan Deadeye](https://eraofchaos.github.io/images/u/tia_baozang.jpg) [Regnan Deadeye](https://eraofchaos.github.io/units/Regnan Archer/#awaking) is awakening for [Regnan Archer](https://eraofchaos.github.io/units/Regnan Archer/)
 
 * New items:
   * [Hidden Blade Token](/Items/con_2200/)
