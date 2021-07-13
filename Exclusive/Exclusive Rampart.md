@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Exclusive Rampart. Exclusive Rampart. List of Exclusive Rampart in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Exclusive Rampart"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | Exclusive | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Centaur](/units/Centaur/) | [Iris Shield](/Exclusive/Centaur Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
+  | 1  | [Centaur](/units/Centaur/) | [Iris Shield](/Exclusive/Centaur Iris Shield/) | + | Charge | [Iris Shield Token](/Items/con_913/) | - |
   | 2  | [Dwarf](/units/Dwarf/) | [Iris Shield](/Exclusive/Dwarf Iris Shield/) | - | Charge | [Iris Shield Token](/Items/con_913/) | - |
   | 3  | [Wood Elf](/units/Wood Elf/) | [Long Bow](/Exclusive/Wood Elf Long Bow/) | - | Charge | [Long Bow Token](/Items/con_914/) | - |
   | 4  | [Pegasus](/units/Pegasus/) | [Long Bow](/Exclusive/Pegasus Long Bow/) | + | Charge | [Long Bow Token](/Items/con_914/) | - |

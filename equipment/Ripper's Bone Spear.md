@@ -2,7 +2,7 @@
 title: "Ripper's Bone Spear"
 permalink: /equipment/Ripper's Bone Spear/
 excerpt: "Era of Chaos Ripper's Bone Spear. Ripper's Bone Spear"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Ripper's Bone Spear.md"
 toc: false

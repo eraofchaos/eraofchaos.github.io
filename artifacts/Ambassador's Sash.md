@@ -2,7 +2,7 @@
 title: "Artifacts - Envoy's Pen - Ambassador's Sash"
 permalink: /artifacts/Ambassador's Sash/
 excerpt: "Era of Chaos  Envoy's Pen - Ambassador's Sash. You helped the ambassador to repair his axle. In return, he gifts you a medal, saying, \"This can help you to persuade others.\" It is one of the components of the Envoy's Pen."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Ambassador's Sash.md"
 toc: false

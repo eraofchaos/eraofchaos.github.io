@@ -1,9 +1,9 @@
 ---
 title: "Dwarf"
 permalink: /units/Dwarf/
-excerpt: "Era of Chaos Dwarf. Dwarf Units. null. Era of Chaos Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
+excerpt: "Era of Chaos Dwarf. Dwarf Units. Battle Dwarf. Era of Chaos Dwarves are born defenders, keeping enemies away with a steely resolve. They are short tempered and the ringing of their hammers strikes fear into the hearts of any who would oppose them."
 unitID: 202
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Dwarf"
 toc: true
@@ -186,41 +186,43 @@ toc: true
 
 ## Awaking
 
+  ![Battle Dwarf](/images/u/unknown.png)
+
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Battle Dwarf
 
- **Awaking Description:** null
+ **Awaking Description:** I was once called Dwarf. I'm 333 years old, and I live in Avlee. I'm not married yet. Every day at the Dwarven Treasury, I beat people till they're dizzy, and I work overtime until the wee hour of 5 o'clock in the morning, when I can finally go home. Then, not even a minute later, I have to do it all over again.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Deploy Pikemen with at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Castle units and kill </span><span style="color: #1ca216;font-size:18px">1,000</span><span style="color: #3c2a1e;font-size:18px"> dwarves in the Dwarven Treasury in a single battle. (Sweep does not count towards the mission.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Deploy Dwarf with at least 3 Rampart units and complete Dragon Utopia 1 time at Ruthless level or higher. (Sweep does not count towards the mission.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Kill </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monsters during a Guild adventure.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Collect 5 resources during a Guild Adventure.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Halberdier souls in the Underground: 14-2 and 14-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Collect 100 Battle Dwarf souls in the Underground: Levels 15-2 and 15-4.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Deploy Dwarf and win 1 Duel of Champions battle.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spear Array Sweep
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px">'s targets changed to all enemy units in a large range</span>
+### 1st Skill (or 2nd): Howl of Desperation
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Howl of Desperation&gt;</span><span style="color: #645252;font-size:18px"> &lt;Dwarf Howl&gt;'s range covers the entire battlefield and also increases friendly units' Unit DMG by 10%.</span>
 
-### 2nd Skill (or 1st): Spear Array Surprise Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Howl of Ramparts
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Howl of Ramparts&gt;</span><span style="color: #645252;font-size:18px"> &lt;Dwarf Howl&gt; additionally grants a shield equal to 15% of Max HP to friendly units within a certain range. Lasts 20s.</span>
 
-### 3rd Skill (or 4th): Dense Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Thorn Burst
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Thorn Burst&gt;</span><span style="color: #645252;font-size:18px"> Upon triggering the skill, further decreases the target unit's Unit DMG Reduction by 20% for 5s.</span>
 
-### 4th Skill (or 3rd): Hollow-Hearted Array
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat, increases Magic resistance by 30% when in \"High Morale\", lasts for 10s</span>
+### 4th Skill (or 3rd): Headache Elixir
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Headache Elixir&gt;</span><span style="color: #645252;font-size:18px"> Increases the duration of the skill's Stun effect by 4s. If the target unit is also inflicted with Bleed, additionally decreases their Unit DMG by 10%. Lasts 8s.</span>
 
-### 5th Skill (or 6th): Infiltration Strategy
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man units, applies &lt;deterrence&gt; on the target. &lt;Deterrence&gt;: Decreases the target's Crit Hit by 300</span>
+### 5th Skill (or 6th): Bladed Wood Array
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Bladed Wood Array&gt;</span><span style="color: #645252;font-size:18px"> Additionally increases Tenacity of friendly units in the shroud by 300.</span>
 
-### 6th Skill (or 5th): Fatigue Attack
- **Description:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">When facing 1-man or 4-man man units, decreases target's dodge by 300</span>
+### 6th Skill (or 5th): Iron Birch Wall
+ **Description:** <span style="color: #48b946;font-size:18px">&lt;Iron Birch Wall&gt;</span><span style="color: #645252;font-size:18px"> Additionally increases Critical Hit DMG Reduction of friendly units in the shroud by 20%.</span>
 
 ## Technical info
  **runart:** 1

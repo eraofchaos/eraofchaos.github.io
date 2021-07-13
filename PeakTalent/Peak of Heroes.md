@@ -2,7 +2,7 @@
 title: "Peak of Heroes. Peak Talent - Peak of Heroes"
 permalink: /PeakTalent/Peak of Heroes/
 excerpt: "Era of Chaos Peak Talent Peak of Heroes. Peak Talent Peak of Heroes. Peak of Heroes"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Peak of Heroes.md"
 toc: false

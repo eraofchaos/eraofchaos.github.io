@@ -2,7 +2,7 @@
 title: "Wild Region. Peak Talent - Wild Region"
 permalink: /PeakTalent/Wild Region/
 excerpt: "Era of Chaos Peak Talent Wild Region. Peak Talent Wild Region. Wild Region"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Wild Region.md"
 toc: false

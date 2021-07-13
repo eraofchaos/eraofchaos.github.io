@@ -2,7 +2,7 @@
 title: "Leather Band"
 permalink: /equipment/Leather Band/
 excerpt: "Era of Chaos Leather Band. Leather Band"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Leather Band.md"
 toc: false

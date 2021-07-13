@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-7 Sky City"
 permalink: /Main Story/Chapter 3_7/
 excerpt: "Chapter 3 - 7. Era of Chaos  Main Story - Chapter 3_7. 3-7 Sky City"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 3_7.md"
 toc: false

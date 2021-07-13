@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-10 The City of Luck"
 permalink: /Main Story/Chapter 29_10/
 excerpt: "Chapter 29 - 10. Era of Chaos  Main Story - Chapter 29_10. 29-10 The City of Luck"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 29_10.md"
 toc: false

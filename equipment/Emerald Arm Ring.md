@@ -2,7 +2,7 @@
 title: "Emerald Arm Ring"
 permalink: /equipment/Emerald Arm Ring/
 excerpt: "Era of Chaos Emerald Arm Ring. Emerald Arm Ring"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Emerald Arm Ring.md"
 toc: false

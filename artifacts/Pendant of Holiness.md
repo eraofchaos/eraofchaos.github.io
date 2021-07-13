@@ -2,7 +2,7 @@
 title: "Artifacts - Angelic Alliance - Pendant of Holiness"
 permalink: /artifacts/Pendant of Holiness/
 excerpt: "Era of Chaos  Angelic Alliance - Pendant of Holiness. A necklace from an Angel. One of the components of the Angelic Alliance."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Pendant of Holiness.md"
 toc: false

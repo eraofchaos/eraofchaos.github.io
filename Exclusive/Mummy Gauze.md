@@ -2,7 +2,7 @@
 title: "Exclusive - Gauze (Mummy)"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Gauze. Gauze. Era of Chaos Exclusive Gauze. Mummy Exclusive."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Mummy Gauze.md"
 toc: false

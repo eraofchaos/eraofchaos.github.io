@@ -2,7 +2,7 @@
 title: "War Master. Peak Talent - War Master"
 permalink: /PeakTalent/War Master/
 excerpt: "Era of Chaos Peak Talent War Master. Peak Talent War Master. War Master"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "War Master.md"
 toc: false

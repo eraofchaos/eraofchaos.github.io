@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-14 Wings of the Butterfly"
 permalink: /Main Story/Chapter 24_14/
 excerpt: "Chapter 24 - 14. Era of Chaos  Main Story - Chapter 24_14. 24-14 Wings of the Butterfly"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 24_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 14 - 14-9 Misfortunes Never Come Alone"
 permalink: /Main Story/Chapter 14_9/
 excerpt: "Chapter 14 - 9. Era of Chaos  Main Story - Chapter 14_9. 14-9 Misfortunes Never Come Alone"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 14_9.md"
 toc: false

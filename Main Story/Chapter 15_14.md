@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-14 The Demon Emerges"
 permalink: /Main Story/Chapter 15_14/
 excerpt: "Chapter 15 - 14. Era of Chaos  Main Story - Chapter 15_14. 15-14 The Demon Emerges"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 15_14.md"
 toc: false

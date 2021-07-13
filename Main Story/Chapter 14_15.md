@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 14 - 14-15 The Crazed Beast"
 permalink: /Main Story/Chapter 14_15/
 excerpt: "Chapter 14 - 15. Era of Chaos  Main Story - Chapter 14_15. 14-15 The Crazed Beast"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 14_15.md"
 toc: false

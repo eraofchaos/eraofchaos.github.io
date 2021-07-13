@@ -2,7 +2,7 @@
 title: "Underground - Chapter 3 - 3-5 Enlightenment"
 permalink: /Underground/Chapter 3_5/
 excerpt: "Chapter 3 - 5. Era of Chaos  Underground - Chapter 3_5. 3-5 Enlightenment"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 3_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sinister Light Armor"
 permalink: /equipment/Sinister Light Armor/
 excerpt: "Era of Chaos Sinister Light Armor. Sinister Light Armor"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Sinister Light Armor.md"
 toc: false

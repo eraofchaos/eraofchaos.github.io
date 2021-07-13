@@ -2,7 +2,7 @@
 title: "Exclusive - Hidden Blade (Assassin)"
 permalink: /Exclusive/Assassin Hidden Blade/
 excerpt: "Era of Chaos Hidden Blade. Hidden Blade. Era of Chaos Exclusive Hidden Blade. Assassin Exclusive."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Assassin Hidden Blade.md"
 toc: false
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 234 | 90.48 | 712.74 |
-  | 2 | 265 | 108.576 | 855.288 |
-  | 3 | 296 | 126.672 | 997.836 |
-  | 4 | 328 | 144.768 | 1140.384 |
-  | 5 | 359 | 162.864 | 1282.932 |
-  | 6 | 390 | 180.96 | 1425.48 |
-  | 7 | 421 | 199.056 | 1568.028 |
+  | 1 | 234 | 43.73 | 359.57 |
+  | 2 | 265 | 52.476 | 431.484 |
+  | 3 | 296 | 61.222 | 503.398 |
+  | 4 | 328 | 69.968 | 575.312 |
+  | 5 | 359 | 78.714 | 647.226 |
+  | 6 | 390 | 87.46 | 719.14 |
+  | 7 | 421 | 96.206 | 791.054 |
 
 

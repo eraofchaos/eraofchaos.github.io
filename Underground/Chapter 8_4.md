@@ -2,7 +2,7 @@
 title: "Underground - Chapter 8 - 8-4 Raising the Dead"
 permalink: /Underground/Chapter 8_4/
 excerpt: "Chapter 8 - 4. Era of Chaos  Underground - Chapter 8_4. 8-4 Raising the Dead"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 8_4.md"
 toc: false

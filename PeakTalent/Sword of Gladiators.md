@@ -2,7 +2,7 @@
 title: "Sword of Gladiators. Peak Talent - Sword of Gladiators"
 permalink: /PeakTalent/Sword of Gladiators/
 excerpt: "Era of Chaos Peak Talent Sword of Gladiators. Peak Talent Sword of Gladiators. Sword of Gladiators"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Sword of Gladiators.md"
 toc: false

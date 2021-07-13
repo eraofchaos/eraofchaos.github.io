@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-6 Assassin of the King"
 permalink: /Main Story/Chapter 21_6/
 excerpt: "Chapter 21 - 6. Era of Chaos  Main Story - Chapter 21_6. 21-6 Assassin of the King"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 21_6.md"
 toc: false

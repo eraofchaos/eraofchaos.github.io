@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Necropolis -  Heroes"
 permalink: /heroes/Faction Necropolis/
 excerpt: "Era of Chaos Faction Necropolis. Faction Necropolis. List of Faction  in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Faction Necropolis"
 toc: false

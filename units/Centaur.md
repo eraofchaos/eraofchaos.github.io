@@ -3,7 +3,7 @@ title: "Centaur"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Centaur. Centaur Units. Centaur Captain. Era of Chaos Centaurs are born warriors. From a young age, they dedicate themselves to the art of war. They are versatile fighters, best at charging, fighting, and scouting."
 unitID: 201
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Centaur"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Name:** [Iris Shield](/Exclusive/Centaur Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rank Up:** [Iris Shield Token](/Items/con_913/)
 

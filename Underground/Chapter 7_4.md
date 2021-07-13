@@ -2,7 +2,7 @@
 title: "Underground - Chapter 7 - 7-4 Gold Mania"
 permalink: /Underground/Chapter 7_4/
 excerpt: "Chapter 7 - 4. Era of Chaos  Underground - Chapter 7_4. 7-4 Gold Mania"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 7_4.md"
 toc: false

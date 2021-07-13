@@ -2,7 +2,7 @@
 title: "Underground - Chapter 6 - 6-2 A New Goal"
 permalink: /Underground/Chapter 6_2/
 excerpt: "Chapter 6 - 2. Era of Chaos  Underground - Chapter 6_2. 6-2 A New Goal"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 6_2.md"
 toc: false

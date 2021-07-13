@@ -2,7 +2,7 @@
 title: "Underground - Chapter 15 - 15-5 Gate of Hell"
 permalink: /Underground/Chapter 15_5/
 excerpt: "Chapter 15 - 5. Era of Chaos  Underground - Chapter 15_5. 15-5 Gate of Hell"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 15_5.md"
 toc: false

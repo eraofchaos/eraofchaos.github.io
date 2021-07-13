@@ -2,7 +2,7 @@
 title: "Holy Emblem - Evil"
 permalink: /Emblem/Type Evil/
 excerpt: "Era of Chaos Holy Emblem. Holy Emblem. Era of Chaos Holy Emblem Evil. Era of Chaos Evil"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "typeEvil.md"
 toc: false

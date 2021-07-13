@@ -2,7 +2,7 @@
 title: "Enchantress' Shoulder-guards"
 permalink: /equipment/Enchantress' Shoulder-guards/
 excerpt: "Era of Chaos Enchantress' Shoulder-guards. Enchantress' Shoulder-guards"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Enchantress' Shoulder-guards.md"
 toc: false

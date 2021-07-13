@@ -2,7 +2,7 @@
 title: "Iron Pauldrons"
 permalink: /equipment/Iron Pauldrons/
 excerpt: "Era of Chaos Iron Pauldrons. Iron Pauldrons"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Iron Pauldrons.md"
 toc: false

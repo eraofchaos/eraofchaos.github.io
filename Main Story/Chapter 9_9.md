@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-9 Total Collapse"
 permalink: /Main Story/Chapter 9_9/
 excerpt: "Chapter 9 - 9. Era of Chaos  Main Story - Chapter 9_9. 9-9 Total Collapse"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: en
 ref: "Chapter 9_9.md"
 toc: false
