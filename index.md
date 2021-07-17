@@ -11,13 +11,41 @@ sidebar:
 ---
 
 
-{% capture notice-update20210706 %}
-
 * **21 July** release for new Commander - ![Dark Champion](https://eraofchaos.github.io/images/u/ti_sishen.jpg) [Dark Champion](https://eraofchaos.github.io/units/Dark%20Champion/)
 
 * **18 August** release for Commander ![White Tiger](https://eraofchaos.github.io/images/u/ti_baihu.jpg) [White Tiger](https://eraofchaos.github.io/units/White Tiger/)
 
 * **15 September** release for Commander ![Mantis](https://eraofchaos.github.io/images/u/ti_tanglang.jpg) [Mantis](https://eraofchaos.github.io/units/Mantis/)
+
+
+
+{% capture notice-update20210714 %}
+
+* [Iris Shield](https://eraofchaos.github.io/Exclusive/Centaur%20Iris%20Shield/) - Exclusive weapon for [Centaur](https://eraofchaos.github.io/units/Centaur/)
+
+* [Dwarf](https://eraofchaos.github.io/units/Dwarf/) awakening - [Battle Dwarf](https://eraofchaos.github.io/units/Dwarf/#awaking)
+
+* BINGO event (nice free event):
+  * 17 July Daily Missions: Divine artifacts 2 times, Train unit talents 2 times, Refresh hero mastery 2 times, Win elite stages 15 times.
+  * 18 July Daily Missions: Purchase energy 1 time, Refresh the Holy Emblem Store 2 time, Use 200 spell scrolls, Win regular stages 30 times.
+  * 19 July Daily Missions: Divine artifacts 2 times, Train unit talents 2 times, Refresh hero mastery 2 times, Win elite stages 15 times.
+  * 20 July Daily Missions: Purchase energy 1 time, Refresh the Holy Emblem Store 2 time, Use 200 spell scrolls, Win regular stages 30 times.
+
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 3 August 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">14 July 2021 Update: Client version 154 (3769/3770)</h4>
+  {{ notice-update20210714 | markdownify }}
+</div>
+
+
+
+
+{% capture notice-update20210706 %}
 
 * [Hidden Blade](/Exclusive/Assassin Hidden Blade/) - Exclusive weapon for ![Assassin](/images/u/ti_cishazhe.jpg) [Assassin](/units/Assassin/)
 
@@ -40,27 +68,6 @@ sidebar:
 
 
 
-{% capture notice-update20210629 %}
-
-* [Sword](/Exclusive/Gnoll Sword/) - Exclusive weapon for ![Gnoll](/images/u/ti_langren.jpg) [Gnoll](/units/Gnoll/)
-
-* Updated items:
-  * [Spell Card](https://eraofchaos.github.io/Items/con_2197/), [Energy Card](https://eraofchaos.github.io/Items/con_2194/)
-  * [Orange Spell Token Selection Chest](https://eraofchaos.github.io/Items/con_2198/)
-  * [Crimson Armor](https://eraofchaos.github.io/Items/con_2199/)
-  * [Evil Holy Emblem Selection I](https://eraofchaos.github.io/Items/con_2192/), [Evil Holy Emblem Selection II](https://eraofchaos.github.io/Items/con_2193/), [Chaos Holy Emblem Selection II](https://eraofchaos.github.io/Items/con_2191/)
-  * [Exclusive Card](https://eraofchaos.github.io/Items/con_2196/), [Awakening Card](https://eraofchaos.github.io/Items/con_2195/)
-
-* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 21 July 2021)
-
-* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">29 June 2021 Update: Client version 154 (3699/3700)</h4>
-  {{ notice-update20210629 | markdownify }}
-</div>
 
 
 

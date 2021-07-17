@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-13 Workshop"
 permalink: /Main Story/Chapter 28_13/
 excerpt: "Chapter 28 - 13. Era of Chaos  Main Story - Chapter 28_13. 28-13 Workshop"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 28_13.md"
 toc: false

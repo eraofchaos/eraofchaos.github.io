@@ -2,7 +2,7 @@
 title: "Avatar - Patroller of the Sea"
 permalink: /Avatars/Patroller of the Sea/
 excerpt: "Era of Chaos  Patroller of the Sea"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Patroller of the Sea.md"
 toc: false

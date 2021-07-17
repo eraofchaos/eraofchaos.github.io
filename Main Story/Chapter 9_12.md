@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-12 Triumphant Advance"
 permalink: /Main Story/Chapter 9_12/
 excerpt: "Chapter 9 - 12. Era of Chaos  Main Story - Chapter 9_12. 9-12 Triumphant Advance"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 9_12.md"
 toc: false

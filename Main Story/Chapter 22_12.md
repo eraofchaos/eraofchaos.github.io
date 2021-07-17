@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 22 - 22-12 Dragon Magic"
 permalink: /Main Story/Chapter 22_12/
 excerpt: "Chapter 22 - 12. Era of Chaos  Main Story - Chapter 22_12. 22-12 Dragon Magic"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 22_12.md"
 toc: false

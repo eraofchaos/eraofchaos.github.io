@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-6 Bandit Camp"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "Chapter 3 - 6. Era of Chaos  Main Story - Chapter 3_6. 3-6 Bandit Camp"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 3_6.md"
 toc: false

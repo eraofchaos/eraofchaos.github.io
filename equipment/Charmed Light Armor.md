@@ -2,7 +2,7 @@
 title: "Charmed Light Armor"
 permalink: /equipment/Charmed Light Armor/
 excerpt: "Era of Chaos Charmed Light Armor. Charmed Light Armor"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Charmed Light Armor.md"
 toc: false

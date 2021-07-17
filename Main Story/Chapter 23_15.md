@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-15 City of Sulfur and Flame"
 permalink: /Main Story/Chapter 23_15/
 excerpt: "Chapter 23 - 15. Era of Chaos  Main Story - Chapter 23_15. 23-15 City of Sulfur and Flame"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 23_15.md"
 toc: false

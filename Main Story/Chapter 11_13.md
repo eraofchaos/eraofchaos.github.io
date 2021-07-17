@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-13 Badge of Courage"
 permalink: /Main Story/Chapter 11_13/
 excerpt: "Chapter 11 - 13. Era of Chaos  Main Story - Chapter 11_13. 11-13 Badge of Courage"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 11_13.md"
 toc: false

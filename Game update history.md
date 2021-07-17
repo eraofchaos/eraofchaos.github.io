@@ -17,6 +17,28 @@ sidebar:
 All promises from the Ubi team is fake. I spend about 2 months in discussions, wrote e-mails, got confirming for "Content Creator" status. They promised gems for players as rewards in quiz/activities on wiki... and finally, **ZERO**. IMHO, this game is not important for Ubisoft, because we do not have a Community Manager for 4-5 months. **Vera** left in December 2020, **Jeffery** left at end of February 2021, ...
 
 
+{% capture notice-update20210629 %}
+
+* [Sword](/Exclusive/Gnoll Sword/) - Exclusive weapon for ![Gnoll](/images/u/ti_langren.jpg) [Gnoll](/units/Gnoll/)
+
+* Updated items:
+  * [Spell Card](https://eraofchaos.github.io/Items/con_2197/), [Energy Card](https://eraofchaos.github.io/Items/con_2194/)
+  * [Orange Spell Token Selection Chest](https://eraofchaos.github.io/Items/con_2198/)
+  * [Crimson Armor](https://eraofchaos.github.io/Items/con_2199/)
+  * [Evil Holy Emblem Selection I](https://eraofchaos.github.io/Items/con_2192/), [Evil Holy Emblem Selection II](https://eraofchaos.github.io/Items/con_2193/), [Chaos Holy Emblem Selection II](https://eraofchaos.github.io/Items/con_2191/)
+  * [Exclusive Card](https://eraofchaos.github.io/Items/con_2196/), [Awakening Card](https://eraofchaos.github.io/Items/con_2195/)
+
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 21 July 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">29 June 2021 Update: Client version 154 (3699/3700)</h4>
+  {{ notice-update20210629 | markdownify }}
+</div>
+
 {% capture notice-update20210627 %}
 * Underworld Recollections Event is mega easy if You use the following Tricks:
   * Use Fire Hero. Upgrade it to 4 star asap

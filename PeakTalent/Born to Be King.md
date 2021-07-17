@@ -2,7 +2,7 @@
 title: "Born to Be King. Peak Talent - Born to Be King"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Era of Chaos Peak Talent Born to Be King. Peak Talent Born to Be King. Born to Be King"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Born to Be King.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 17 - 17-5 Blood and Guard"
 permalink: /Underground/Chapter 17_5/
 excerpt: "Chapter 17 - 5. Era of Chaos  Underground - Chapter 17_5. 17-5 Blood and Guard"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 17_5.md"
 toc: false

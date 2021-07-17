@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-8 Confused Choices"
 permalink: /Main Story/Chapter 24_8/
 excerpt: "Chapter 24 - 8. Era of Chaos  Main Story - Chapter 24_8. 24-8 Confused Choices"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 24_8.md"
 toc: false

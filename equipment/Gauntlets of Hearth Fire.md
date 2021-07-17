@@ -2,7 +2,7 @@
 title: "Gauntlets of Hearth Fire"
 permalink: /equipment/Gauntlets of Hearth Fire/
 excerpt: "Era of Chaos Gauntlets of Hearth Fire. Gauntlets of Hearth Fire"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Gauntlets of Hearth Fire.md"
 toc: false

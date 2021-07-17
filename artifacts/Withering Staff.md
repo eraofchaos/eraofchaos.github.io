@@ -2,7 +2,7 @@
 title: "Artifacts - Sword of Frost - Withering Staff"
 permalink: /artifacts/Withering Staff/
 excerpt: "Era of Chaos  Sword of Frost - Withering Staff. A staff used by an Arch Lich. One of the components of the Sword of Frost."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Withering Staff.md"
 toc: false

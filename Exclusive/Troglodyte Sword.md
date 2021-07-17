@@ -2,7 +2,7 @@
 title: "Exclusive - Sword (Troglodyte)"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Troglodyte Exclusive."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Troglodyte Sword.md"
 toc: false

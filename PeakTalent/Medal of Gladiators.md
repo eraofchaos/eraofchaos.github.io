@@ -2,7 +2,7 @@
 title: "Medal of Gladiators. Peak Talent - Medal of Gladiators"
 permalink: /PeakTalent/Medal of Gladiators/
 excerpt: "Era of Chaos Peak Talent Medal of Gladiators. Peak Talent Medal of Gladiators. Medal of Gladiators"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Medal of Gladiators.md"
 toc: false

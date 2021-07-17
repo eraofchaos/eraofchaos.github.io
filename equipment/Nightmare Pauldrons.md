@@ -2,7 +2,7 @@
 title: "Nightmare Pauldrons"
 permalink: /equipment/Nightmare Pauldrons/
 excerpt: "Era of Chaos Nightmare Pauldrons. Nightmare Pauldrons"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Nightmare Pauldrons.md"
 toc: false

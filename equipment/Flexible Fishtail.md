@@ -2,7 +2,7 @@
 title: "Flexible Fishtail"
 permalink: /equipment/Flexible Fishtail/
 excerpt: "Era of Chaos Flexible Fishtail. Flexible Fishtail"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Flexible Fishtail.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-5 Soul Token"
 permalink: /Main Story/Chapter 10_5/
 excerpt: "Chapter 10 - 5. Era of Chaos  Main Story - Chapter 10_5. 10-5 Soul Token"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 10_5.md"
 toc: false

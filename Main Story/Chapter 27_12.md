@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-12 Father of the Dragon"
 permalink: /Main Story/Chapter 27_12/
 excerpt: "Chapter 27 - 12. Era of Chaos  Main Story - Chapter 27_12. 27-12 Father of the Dragon"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 27_12.md"
 toc: false

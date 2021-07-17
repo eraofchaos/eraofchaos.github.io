@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-9 A Strange Hobby"
 permalink: /Main Story/Chapter 24_9/
 excerpt: "Chapter 24 - 9. Era of Chaos  Main Story - Chapter 24_9. 24-9 A Strange Hobby"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 24_9.md"
 toc: false

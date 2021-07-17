@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-3 Waylaid"
 permalink: /Main Story/Chapter 9_3/
 excerpt: "Chapter 9 - 3. Era of Chaos  Main Story - Chapter 9_3. 9-3 Waylaid"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 9_3.md"
 toc: false

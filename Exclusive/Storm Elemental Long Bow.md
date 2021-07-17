@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow (Storm Elemental)"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Storm Elemental Exclusive."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Storm Elemental Long Bow.md"
 toc: false

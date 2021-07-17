@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-7 Song of the Poet"
 permalink: /Main Story/Chapter 18_7/
 excerpt: "Chapter 18 - 7. Era of Chaos  Main Story - Chapter 18_7. 18-7 Song of the Poet"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 18_7.md"
 toc: false

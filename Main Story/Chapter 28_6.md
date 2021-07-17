@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-6 Abandoned Gold Mine"
 permalink: /Main Story/Chapter 28_6/
 excerpt: "Chapter 28 - 6. Era of Chaos  Main Story - Chapter 28_6. 28-6 Abandoned Gold Mine"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 28_6.md"
 toc: false

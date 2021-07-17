@@ -2,7 +2,7 @@
 title: "Plated Shoulderpads"
 permalink: /equipment/Plated Shoulderpads/
 excerpt: "Era of Chaos Plated Shoulderpads. Plated Shoulderpads"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Plated Shoulderpads.md"
 toc: false

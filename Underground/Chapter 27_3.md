@@ -2,7 +2,7 @@
 title: "Underground - Chapter 27 - 27-3 Eastern Prophet"
 permalink: /Underground/Chapter 27_3/
 excerpt: "Chapter 27 - 3. Era of Chaos  Underground - Chapter 27_3. 27-3 Eastern Prophet"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 27_3.md"
 toc: false

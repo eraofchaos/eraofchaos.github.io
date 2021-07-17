@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-3 Dawn of War"
 permalink: /Main Story/Chapter 6_3/
 excerpt: "Chapter 6 - 3. Era of Chaos  Main Story - Chapter 6_3. 6-3 Dawn of War"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 6_3.md"
 toc: false

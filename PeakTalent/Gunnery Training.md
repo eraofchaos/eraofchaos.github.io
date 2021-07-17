@@ -2,7 +2,7 @@
 title: "Gunnery Training. Peak Talent - Gunnery Training"
 permalink: /PeakTalent/Gunnery Training/
 excerpt: "Era of Chaos Peak Talent Gunnery Training. Peak Talent Gunnery Training. Gunnery Training"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Gunnery Training.md"
 toc: false

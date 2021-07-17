@@ -2,7 +2,7 @@
 title: "Exclusive - Sword (Goblin)"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Goblin Exclusive."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Goblin Sword.md"
 toc: false

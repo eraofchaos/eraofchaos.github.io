@@ -2,7 +2,7 @@
 title: "Underground - Chapter 14 - 14-2 Underground Corridor"
 permalink: /Underground/Chapter 14_2/
 excerpt: "Chapter 14 - 2. Era of Chaos  Underground - Chapter 14_2. 14-2 Underground Corridor"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 14_2.md"
 toc: false

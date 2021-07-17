@@ -2,7 +2,7 @@
 title: "Werewolf's Chain"
 permalink: /equipment/Werewolf's Chain/
 excerpt: "Era of Chaos Werewolf's Chain. Werewolf's Chain"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Werewolf's Chain.md"
 toc: false

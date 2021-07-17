@@ -2,7 +2,7 @@
 title: "Artifacts - Armageddon's Blade - Mountain Battleaxe"
 permalink: /artifacts/Mountain Battleaxe/
 excerpt: "Era of Chaos  Armageddon's Blade - Mountain Battleaxe. A relic left by the Dwarf King after the battle of Enroth. One of the components of Armageddon's Blade."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Mountain Battleaxe.md"
 toc: false

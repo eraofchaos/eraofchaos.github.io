@@ -2,7 +2,7 @@
 title: "Exclusive - Long Bow (Orc)"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Era of Chaos Long Bow. Long Bow. Era of Chaos Exclusive Long Bow. Orc Exclusive."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Orc Long Bow.md"
 toc: false

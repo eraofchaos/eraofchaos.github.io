@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 1 - 1-5 Disaster Strikes"
 permalink: /Main Story/Chapter 1_5/
 excerpt: "Chapter 1 - 5. Era of Chaos  Main Story - Chapter 1_5. 1-5 Disaster Strikes"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Chapter 1_5.md"
 toc: false

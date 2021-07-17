@@ -2,7 +2,7 @@
 title: "Exclusive - Scorpion Tail (Manticore)"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Scorpion Tail. Scorpion Tail. Era of Chaos Exclusive Scorpion Tail. Manticore Exclusive."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: en
 ref: "Manticore Scorpion Tail.md"
 toc: false
