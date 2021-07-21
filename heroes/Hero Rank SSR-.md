@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SSR- -  Heroes"
 permalink: /heroes/Hero Rank SSR-/
 excerpt: "Era of Chaos Hero Rank SSR-. Hero Rank SSR-. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Hero Rank SSR-"
 toc: false
@@ -13,4 +13,4 @@ classes: wide
   | Nr |  I |    Name    |  Faction  |  Profession   |  Rank  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Melodia](/images/h/h_Melodia.jpg) | [Melodia](/heroes/Melodia/) | Rampart | Druid | **SSR-** |  Good Fortune | R |
-  | 2 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/heroes/Kassandra/) | Neutral Army |  | **SSR-** |  Spartan Legion | R |
+  | 2 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/heroes/Kassandra/) | Neutral |  | **SSR-** |  Spartan Legion | R |

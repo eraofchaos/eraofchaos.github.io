@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-1 Into the Depths"
 permalink: /Main Story/Chapter 28_1/
 excerpt: "Chapter 28 - 1. Era of Chaos  Main Story - Chapter 28_1. 28-1 Into the Depths"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 28_1.md"
 toc: false

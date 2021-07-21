@@ -2,7 +2,7 @@
 title: "Remnant of Flames"
 permalink: /equipment/Remnant of Flames/
 excerpt: "Era of Chaos Remnant of Flames. Remnant of Flames"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Remnant of Flames.md"
 toc: false

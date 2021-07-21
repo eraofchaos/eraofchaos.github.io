@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Faction: [Conflux](/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/units/Faction Dungeon/){: .btn .btn--warning} [Fortress](/units/Faction Fortress/){: .btn .btn--danger} [Rampart](/units/Faction Rampart/){: .btn .btn--info} [Castle](/units/Faction Castle/){: .btn .btn--primary} [Tower](/units/Faction Tower/){: .btn .btn--success} [Stronghold](/units/Faction Stronghold/){: .btn .btn--warning} [Cove](/units/Faction Cove/){: .btn .btn--danger} [Neutral Army](/units/Faction Neutral Army/){: .btn .btn--info} [Necropolis](/units/Faction Necropolis/){: .btn .btn--primary} 
+  by Faction: [Neutral](/units/Faction Neutral/){: .btn .btn--primary} [Conflux](/units/Faction Conflux/){: .btn .btn--success} [Inferno](/units/Faction Inferno/){: .btn .btn--warning} [Dungeon](/units/Faction Dungeon/){: .btn .btn--danger} [Fortress](/units/Faction Fortress/){: .btn .btn--info} [Rampart](/units/Faction Rampart/){: .btn .btn--primary} [Castle](/units/Faction Castle/){: .btn .btn--success} [Tower](/units/Faction Tower/){: .btn .btn--warning} [Stronghold](/units/Faction Stronghold/){: .btn .btn--danger} [Cove](/units/Faction Cove/){: .btn .btn--info} [Necropolis](/units/Faction Necropolis/){: .btn .btn--primary} 
 
   by Class: [Ranged](/units/Unit Class Ranged/){: .btn .btn--primary} [Charging](/units/Unit Class Charging/){: .btn .btn--success} [Caster](/units/Unit Class Caster/){: .btn .btn--warning} [Offense](/units/Unit Class Offense/){: .btn .btn--danger} [Defense](/units/Unit Class Defense/){: .btn .btn--info} 
 
@@ -88,7 +88,7 @@ classes: wide
   | 66 | ![Regnan Pirates](/images/u/ti_haidao.jpg) | [Regnan Pirates](/units/Regnan Pirates/) | Offense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  King of Pirates  |
   | 67 | ![Regnan Seer](/images/u/ti_haihou.jpg) | [Regnan Seer](/units/Regnan Seer/) | Caster | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Tidal Elemental  |
   | 68 | ![Regnan Serpent](/images/u/ti_yurenyongshi.jpg) | [Regnan Serpent](/units/Regnan Serpent/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Tidal Guardian  |
-  | 69 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Ancient Sea Monster  |
+  | 69 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Ancient Sea Monster  |
   | 70 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/units/Roc/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Thunderbird  |
   | 71 | ![Sea Elemental](/images/u/ti_haiyuansu.jpg) | [Sea Elemental](/units/Sea Elemental/) | Caster | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Tidal Elemental  |
   | 72 | ![Serpent Fly](/images/u/ti_longying.jpg) | [Serpent Fly](/units/Serpent Fly/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Dragon Fly  |

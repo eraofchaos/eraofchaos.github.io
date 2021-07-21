@@ -3,7 +3,7 @@ title: "Ice Elemental"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Ice Elemental. Ice Elemental Units. Silent Snow Spirit. Era of Chaos A frozen living being formed from a Water Elemental. When faced with threat, it will unleash the icy air inside it to freeze all enemies."
 unitID: 903
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Ice Elemental"
 toc: true

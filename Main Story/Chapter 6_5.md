@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-5 Heavy Casualties"
 permalink: /Main Story/Chapter 6_5/
 excerpt: "Chapter 6 - 5. Era of Chaos  Main Story - Chapter 6_5. 6-5 Heavy Casualties"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 6_5.md"
 toc: false

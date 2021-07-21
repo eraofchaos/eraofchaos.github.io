@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 The Grail"
 permalink: /Main Story/Chapter 21/
 excerpt: "Chapter 21. Era of Chaos  Main Story - Chapter 21. The Grail"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 21.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 - 25-4 Dragon Keeper Family"
 permalink: /Main Story/Chapter 25_4/
 excerpt: "Chapter 25 - 4. Era of Chaos  Main Story - Chapter 25_4. 25-4 Dragon Keeper Family"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 25_4.md"
 toc: false

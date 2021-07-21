@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SSR -  Heroes"
 permalink: /heroes/Hero Rank SSR/
 excerpt: "Era of Chaos Hero Rank SSR. Hero Rank SSR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Hero Rank SSR"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 4 | ![Gem](/images/h/h_Gem.jpg) | [Gem](/heroes/Gem/) | Rampart | Druid | **SSR** |  Natural Healing | SSR |
   | 5 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/heroes/Xeron/) | Inferno | Demoniac | **SSR** |  Arch Devil | SSR |
   | 6 | ![Lord Haart](/images/h/h_LordHaart.jpg) | [Lord Haart](/heroes/Lord Haart/) | Necropolis | Death Knight | **SSR** |  Death Knight | SR- |
-  | 7 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/heroes/Ezio/) | Neutral Army |  | **SSR** |  Brotherhood | R+ |
+  | 7 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/heroes/Ezio/) | Neutral |  | **SSR** |  Brotherhood | R+ |
   | 8 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/heroes/Tazar/) | Fortress | Beast Master | **SSR** |  Bloody Rage | SSR |
   | 9 | ![Sandro](/images/h/h_Sandro.jpg) | [Sandro](/heroes/Sandro/) | Necropolis | Necromancer | **SSR** |  Darkness Falls | SSR |
   | 10 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/heroes/Astral/) | Tower | Wizard | **SSR** |  Magic Amplification | SSR |

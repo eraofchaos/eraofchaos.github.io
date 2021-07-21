@@ -2,13 +2,13 @@
 title: "Exclusive - Sword (Regnan Pirates)"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Regnan Pirates Exclusive."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Regnan Pirates Sword.md"
 toc: false
 classes: wide
 ---
- [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortress](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Rampart](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castle](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Tower](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Stronghold](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cove](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Neutral Army](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Neutral](/Exclusive/Exclusive Neutral/){: .btn .btn--primary} [Conflux](/Exclusive/Exclusive Conflux/){: .btn .btn--success} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--warning} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--danger} [Fortress](/Exclusive/Exclusive Fortress/){: .btn .btn--info} [Rampart](/Exclusive/Exclusive Rampart/){: .btn .btn--primary} [Castle](/Exclusive/Exclusive Castle/){: .btn .btn--success} [Tower](/Exclusive/Exclusive Tower/){: .btn .btn--warning} [Stronghold](/Exclusive/Exclusive Stronghold/){: .btn .btn--danger} [Cove](/Exclusive/Exclusive Cove/){: .btn .btn--info} [Necropolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ### Details
  **Name: Sword** 

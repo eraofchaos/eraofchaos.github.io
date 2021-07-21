@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 25 - 25-3 Underground Season"
 permalink: /Main Story/Chapter 25_3/
 excerpt: "Chapter 25 - 3. Era of Chaos  Main Story - Chapter 25_3. 25-3 Underground Season"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 25_3.md"
 toc: false

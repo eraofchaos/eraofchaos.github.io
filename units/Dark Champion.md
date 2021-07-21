@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Dark Champion. Dark Champion Units. null. Era of Chaos He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Dark Champion"
 toc: true
@@ -110,7 +110,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">When the target's HP is less than 40%, Dark Champion buries the target unit under a tombstone for </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s. The buried unit is silenced and cannot be healed, and is also incapable of moving and attacking. During this time, all damage it takes will be shifted to 4 random enemy ranged units. While the tombstone still exists, all friendly Necropolis units within range will have </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of their Max HP restored per second. CD is 28s</span><span style="color: black">
 
 ### Regular Skill 3 : Bones Monarch
- **Description:** <span style="color: #645252;font-size:20px">unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. HP given by the End of Fate will be increased by an extra 4% for every Necropolis unit on the battlefield. HP given by End of Fate will be increased by an extra 1% for every unit the Necropolis summons onto the battlefield. HP can be increased by up to 25% by The End of Fate. When a friendly hero casts an earth spell, shorten 1 random spell's CD by 4s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">Unit damage reduction and unit damage increases by  </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. HP given by the End of Fate will be increased by an extra 4% for every Necropolis unit on the battlefield. HP given by End of Fate will be increased by an extra 1% for every unit the Necropolis summons onto the battlefield. HP can be increased by up to 25% by The End of Fate. When a friendly hero casts an earth spell, shorten 1 random spell's CD by 4s.</span><span style="color: black">
 
 ### Faction Special Skill I : Dismal Defense
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units know dismal environments well. Increases Unit DMG Reduction when fighting against units suffering from Low Morale by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">

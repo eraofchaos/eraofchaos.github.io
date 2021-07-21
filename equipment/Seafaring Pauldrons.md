@@ -2,7 +2,7 @@
 title: "Seafaring Pauldrons"
 permalink: /equipment/Seafaring Pauldrons/
 excerpt: "Era of Chaos Seafaring Pauldrons. Seafaring Pauldrons"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Seafaring Pauldrons.md"
 toc: false

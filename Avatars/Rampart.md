@@ -2,7 +2,7 @@
 title: "Avatar - Rampart"
 permalink: /Avatars/Rampart/
 excerpt: "Era of Chaos  Rampart"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Rampart.md"
 toc: false

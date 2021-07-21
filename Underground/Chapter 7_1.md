@@ -2,7 +2,7 @@
 title: "Underground - Chapter 7 - 7-1 An Empty Treasury"
 permalink: /Underground/Chapter 7_1/
 excerpt: "Chapter 7 - 1. Era of Chaos  Underground - Chapter 7_1. 7-1 An Empty Treasury"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 7_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Mystic's Cap"
 permalink: /equipment/Mystic's Cap/
 excerpt: "Era of Chaos Mystic's Cap. Mystic's Cap"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Mystic's Cap.md"
 toc: false

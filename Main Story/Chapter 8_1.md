@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 - 8-1 Dark Night"
 permalink: /Main Story/Chapter 8_1/
 excerpt: "Chapter 8 - 1. Era of Chaos  Main Story - Chapter 8_1. 8-1 Dark Night"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 8_1.md"
 toc: false

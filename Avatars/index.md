@@ -2,7 +2,7 @@
 title: "Avatar Frame & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatar Frame & Avatar. Avatar Frame & Avatar"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "index.md"
 toc: false
@@ -30,7 +30,7 @@ classes: wide
   | 17 | ![Dance of the Blades](/images/a/avatarFrame_26.png) | [Dance of the Blades](/Avatars/Dance of the Blades/) | + | Dance of the Blades avatar frame |
   | 18 | ![Darkness Dominance](/images/a/avatarFrame_34.png) | [Darkness Dominance](/Avatars/Darkness Dominance/) | + | Darkness Dominance Avatar Frame |
   | 19 | ![Deadly Commander](/images/a/avatarFrame_21.png) | [Deadly Commander](/Avatars/Deadly Commander/) | + | Deadly Commander avatar frame |
-  | 20 | ![Death Kingdom](/images/a/avatarFrame_86.png) | [Death Kingdom](/Avatars/Death Kingdom/) | - | Death Kingdom Avatar Frame |
+  | 20 | ![Death Kingdom](/images/a/avatarFrame_86.png) | [Death Kingdom](/Avatars/Death Kingdom/) | + | Death Kingdom Avatar Frame |
   | 21 | ![Deep Ice Crystal](/images/a/avatarFrame_91.png) | [Deep Ice Crystal](/Avatars/Deep Ice Crystal/) | + | Deep Ice Crystal Avatar Frame |
   | 22 | ![Dragon Soul](/images/a/avatarFrame_52.png) | [Dragon Soul](/Avatars/Dragon Soul/) | + | Dragon Soul Avatar Frame |
   | 23 | ![Dungeon](/images/a/avatarFrame_45.png) | [Dungeon](/Avatars/Dungeon/) | - | Dungeon Faction Avatar Frame |
@@ -110,9 +110,10 @@ classes: wide
   | 97 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/Avatars/Unknown Avatar Frame 1066/) | - |  |
   | 98 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/Avatars/Unknown Avatar Frame 1067/) | - |  |
   | 99 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/Avatars/Unknown Avatar Frame 1069/) | - |  |
-  | 100 | ![Vines of Fortune](/images/a/avatarFrame_92.png) | [Vines of Fortune](/Avatars/Vines of Fortune/) | + | Vines of Fortune Avatar Frame |
-  | 101 | ![Warlord of the Sea](/images/a/avatarFrame_202.png) | [Warlord of the Sea](/Avatars/Warlord of the Sea/) | + | Lord of the Sea Avatar Frame |
-  | 102 | ![Warm Christmas](/images/a/avatarFrame_47.png) | [Warm Christmas](/Avatars/Warm Christmas/) | + | Warm X'mas Avatar Frame |
-  | 103 | ![Warrior](/images/a/avatarFrame_1.png) | [Warrior](/Avatars/Warrior/) | + | Competitor avatar frame |
-  | 104 | ![Wild Overlord](/images/a/avatarFrame_98.png) | [Wild Overlord](/Avatars/Wild Overlord/) | + | Wild Overlord Avatar Frame |
-  | 105 | ![Will of the Gods](/images/a/avatarFrame_30.png) | [Will of the Gods](/Avatars/Will of the Gods/) | + | Will of the Gods Avatar Frame |
+  | 100 | ![Unknown Avatar Frame 1126](/images/a/avatarFrame_126.png) | [Unknown Avatar Frame 1126](/Avatars/Unknown Avatar Frame 1126/) | + |  |
+  | 101 | ![Vines of Fortune](/images/a/avatarFrame_92.png) | [Vines of Fortune](/Avatars/Vines of Fortune/) | + | Vines of Fortune Avatar Frame |
+  | 102 | ![Warlord of the Sea](/images/a/avatarFrame_202.png) | [Warlord of the Sea](/Avatars/Warlord of the Sea/) | + | Lord of the Sea Avatar Frame |
+  | 103 | ![Warm Christmas](/images/a/avatarFrame_47.png) | [Warm Christmas](/Avatars/Warm Christmas/) | + | Warm X'mas Avatar Frame |
+  | 104 | ![Warrior](/images/a/avatarFrame_1.png) | [Warrior](/Avatars/Warrior/) | + | Competitor avatar frame |
+  | 105 | ![Wild Overlord](/images/a/avatarFrame_98.png) | [Wild Overlord](/Avatars/Wild Overlord/) | + | Wild Overlord Avatar Frame |
+  | 106 | ![Will of the Gods](/images/a/avatarFrame_30.png) | [Will of the Gods](/Avatars/Will of the Gods/) | + | Will of the Gods Avatar Frame |

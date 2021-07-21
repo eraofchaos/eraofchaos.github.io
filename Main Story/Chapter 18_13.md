@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 18 - 18-13 Elven Migration"
 permalink: /Main Story/Chapter 18_13/
 excerpt: "Chapter 18 - 13. Era of Chaos  Main Story - Chapter 18_13. 18-13 Elven Migration"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 18_13.md"
 toc: false

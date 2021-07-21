@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-14 High-ranking Temple"
 permalink: /Main Story/Chapter 29_14/
 excerpt: "Chapter 29 - 14. Era of Chaos  Main Story - Chapter 29_14. 29-14 High-ranking Temple"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 29_14.md"
 toc: false

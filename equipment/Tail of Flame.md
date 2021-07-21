@@ -2,7 +2,7 @@
 title: "Tail of Flame"
 permalink: /equipment/Tail of Flame/
 excerpt: "Era of Chaos Tail of Flame. Tail of Flame"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Tail of Flame.md"
 toc: false

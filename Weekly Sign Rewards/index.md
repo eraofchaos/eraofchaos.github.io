@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 31  Stronghold Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **2 Aug** | **5x [Goblin](/Items/unt_217/)**  | A squad of Goblin joined your army and you become stronger! |
+  | **3 Aug** | **5x [Wolf Rider](/Items/unt_218/)**  | A squad of Wolf Rider joined your army and you become stronger! |
+  | **4 Aug** | **100x <i class="fas fa-gem"/>**  | The Orcs under your command plundered a heap of diamonds for you! |
+  | **5 Aug** | **5x [Orc](/Items/unt_219/)**  | A squad of Orc joined your army and you become stronger! |
+  | **6 Aug** | **3x [Ogre](/Items/unt_220/)**  | A squad of Ogre joined your army and you become stronger! |
+  | **7 Aug** | **3x [Cyclops](/Items/unt_222/)**  | A squad of Cyclops joined your army and you become stronger! |
+  | **8 Aug** | **5x [Crag Hack](/Items/her_375/)**  | Your continuous expedition has attracted hero Crag Hack to join your army! |
+
 
 #### 2021 Week 30  Castle Week
 

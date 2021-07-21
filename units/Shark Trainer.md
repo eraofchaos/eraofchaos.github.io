@@ -3,7 +3,7 @@ title: "Shark Trainer"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Shark Trainer. Shark Trainer Units. Shark Rider. Era of Chaos The Nightmare of Death sways over the sea, holding a scimitar while treading on a shark."
 unitID: 9909
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Shark Trainer"
 toc: true
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rank Up:** -
+ **Item to Rank Up:** [Break Waves Token](/Items/con_2225/)
 
- **Skin:** -
+ **Skin:** [Break Waves Special Skin](/Items/con_2223/)
 
 
 ## Recommended Holy Emblems

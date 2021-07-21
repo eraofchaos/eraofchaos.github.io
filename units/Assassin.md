@@ -3,7 +3,7 @@ title: "Assassin"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Assassin. Assassin Units. null. Era of Chaos We work in the dark to serve the light. Nothing is true, everything is permitted."
 unitID: 9701
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Assassin"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Class Description:** Charge: Charging units attack enemies in the back row, increasing Critical Hit DMG against Ranged and Caster units.
 
- **Faction:** [Neutral Army](/units/Faction Neutral Army/)
+ **Faction:** [Neutral](/units/Faction Neutral/)
 
  **Race:** Assassin Guild
 

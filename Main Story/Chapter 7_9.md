@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 7 - 7-9 For Home"
 permalink: /Main Story/Chapter 7_9/
 excerpt: "Chapter 7 - 9. Era of Chaos  Main Story - Chapter 7_9. 7-9 For Home"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 7_9.md"
 toc: false

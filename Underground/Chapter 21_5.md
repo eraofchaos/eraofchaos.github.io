@@ -2,7 +2,7 @@
 title: "Underground - Chapter 21 - 21-5 The Fate of Destruction"
 permalink: /Underground/Chapter 21_5/
 excerpt: "Chapter 21 - 5. Era of Chaos  Underground - Chapter 21_5. 21-5 The Fate of Destruction"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 21_5.md"
 toc: false

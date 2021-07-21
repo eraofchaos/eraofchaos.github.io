@@ -2,7 +2,7 @@
 title: "Shield of Lords. Peak Talent - Shield of Lords"
 permalink: /PeakTalent/Shield of Lords/
 excerpt: "Era of Chaos Peak Talent Shield of Lords. Peak Talent Shield of Lords. Shield of Lords"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Shield of Lords.md"
 toc: false

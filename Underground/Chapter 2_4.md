@@ -2,7 +2,7 @@
 title: "Underground - Chapter 2 - 2-4 Regroup and Rebirth"
 permalink: /Underground/Chapter 2_4/
 excerpt: "Chapter 2 - 4. Era of Chaos  Underground - Chapter 2_4. 2-4 Regroup and Rebirth"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 2_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Unit Member x4"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/units/Ogre/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre Mage  |
   | 4 | ![Cyclops](/images/u/ti_duyanjuren.jpg) | [Cyclops](/units/Cyclops/) | Ranged | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Cyclops King  |
   | 5 | ![Firebird](/images/u/ti_fenghuang.jpg) | [Firebird](/units/Firebird/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Phoenix  |
-  | 6 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Ancient Sea Monster  |
+  | 6 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Ancient Sea Monster  |
   | 7 | ![Demon](/images/u/ti_changjiaoemo.jpg) | [Demon](/units/Demon/) | Defense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Inferno Guard  |
   | 8 | ![Pit Fiend](/images/u/ti_diyulingzhu.jpg) | [Pit Fiend](/units/Pit Fiend/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Pit Lord  |
   | 9 | ![Efreeti](/images/u/ti_liehuojingling.jpg) | [Efreeti](/units/Efreeti/) | Caster | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultan  |

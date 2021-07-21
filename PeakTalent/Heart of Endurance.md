@@ -2,7 +2,7 @@
 title: "Heart of Endurance. Peak Talent - Heart of Endurance"
 permalink: /PeakTalent/Heart of Endurance/
 excerpt: "Era of Chaos Peak Talent Heart of Endurance. Peak Talent Heart of Endurance. Heart of Endurance"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Heart of Endurance.md"
 toc: false

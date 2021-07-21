@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-9 Hunting Lodge"
 permalink: /Main Story/Chapter 29_9/
 excerpt: "Chapter 29 - 9. Era of Chaos  Main Story - Chapter 29_9. 29-9 Hunting Lodge"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 29_9.md"
 toc: false

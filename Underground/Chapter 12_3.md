@@ -2,7 +2,7 @@
 title: "Underground - Chapter 12 - 12-3 A Powerful Retaliation"
 permalink: /Underground/Chapter 12_3/
 excerpt: "Chapter 12 - 3. Era of Chaos  Underground - Chapter 12_3. 12-3 A Powerful Retaliation"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 12_3.md"
 toc: false

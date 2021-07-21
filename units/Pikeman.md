@@ -3,7 +3,7 @@ title: "Pikeman"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Pikeman. Pikeman Units. Halberdier. Era of Chaos Pikemen are the kingdom's first defense. Skilled soldiers, they have fought honorably in great battles and are loyal to the kingdom, earning them high praise from the people."
 unitID: 101
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Pikeman"
 toc: true

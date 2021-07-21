@@ -3,7 +3,7 @@ title: "Sprite"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Sprite. Sprite Units. Elf Mage. Era of Chaos A beautiful sprite who only exists in legends and fables. Any character who treats her badly is despised by readers, and faces a very unhappy ending. "
 unitID: 901
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Sprite"
 toc: true

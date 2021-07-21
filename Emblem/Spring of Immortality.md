@@ -2,7 +2,7 @@
 title: "Holy Emblem - Spring of Immortality"
 permalink: /Emblem/Spring of Immortality/
 excerpt: "Era of Chaos Spring of Immortality. Spring of Immortality. Era of Chaos Holy Emblem Spring of Immortality. Era of Chaos Goodness Spring of Immortality"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Spring of Immortality.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-9 Song of the Enchantress"
 permalink: /Main Story/Chapter 26_9/
 excerpt: "Chapter 26 - 9. Era of Chaos  Main Story - Chapter 26_9. 26-9 Song of the Enchantress"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 26_9.md"
 toc: false

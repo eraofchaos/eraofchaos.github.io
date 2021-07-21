@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Necropolis -  Units"
 permalink: /units/Faction Necropolis/
 excerpt: "Era of Chaos Faction Necropolis. Faction Necropolis. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Faction Necropolis"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Battle Formation](/Battle Formation/Battle Formation Faction Necropolis)
 
- [Conflux](/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/units/Faction Dungeon/){: .btn .btn--warning} [Fortress](/units/Faction Fortress/){: .btn .btn--danger} [Rampart](/units/Faction Rampart/){: .btn .btn--info} [Castle](/units/Faction Castle/){: .btn .btn--primary} [Tower](/units/Faction Tower/){: .btn .btn--success} [Stronghold](/units/Faction Stronghold/){: .btn .btn--warning} [Cove](/units/Faction Cove/){: .btn .btn--danger} [Neutral Army](/units/Faction Neutral Army/){: .btn .btn--info} [Necropolis](/units/Faction Necropolis/){: .btn .btn--primary} 
+ [Neutral](/units/Faction Neutral/){: .btn .btn--primary} [Conflux](/units/Faction Conflux/){: .btn .btn--success} [Inferno](/units/Faction Inferno/){: .btn .btn--warning} [Dungeon](/units/Faction Dungeon/){: .btn .btn--danger} [Fortress](/units/Faction Fortress/){: .btn .btn--info} [Rampart](/units/Faction Rampart/){: .btn .btn--primary} [Castle](/units/Faction Castle/){: .btn .btn--success} [Tower](/units/Faction Tower/){: .btn .btn--warning} [Stronghold](/units/Faction Stronghold/){: .btn .btn--danger} [Cove](/units/Faction Cove/){: .btn .btn--info} [Necropolis](/units/Faction Necropolis/){: .btn .btn--primary} 
 
   | Nr | I |         Name        |   Type   | Awake | Rank |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|

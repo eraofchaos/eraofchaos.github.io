@@ -2,7 +2,7 @@
 title: "Assassin's Hood"
 permalink: /equipment/Assassin's Hood/
 excerpt: "Era of Chaos Assassin's Hood. Assassin's Hood"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Assassin's Hood.md"
 toc: false

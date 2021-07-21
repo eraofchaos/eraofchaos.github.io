@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Revyaratan. Revyaratan Units. Ancient Sea Monster. Era of Chaos A monster swims in the deep sea. Its huge mouth seems to devour everything."
 unitID: 9908
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Revyaratan"
 toc: true
@@ -80,11 +80,11 @@ toc: true
 
  **Name:** [Gloom Tides](/Exclusive/Revyaratan Gloom Tides/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
- **Item to Rank Up:** -
+ **Item to Rank Up:** [Gloom Tides Token](/Items/con_2224/)
 
- **Skin:** -
+ **Skin:** [Gloom Tides Special Skin](/Items/con_2222/)
 
 
 ## Recommended Holy Emblems

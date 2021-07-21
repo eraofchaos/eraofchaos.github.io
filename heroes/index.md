@@ -2,14 +2,14 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "index.md"
 QR: heroes
 toc: false
 classes: wide
 ---
-  by Faction: [Conflux](/heroes/Faction Conflux/){: .btn .btn--primary} [Inferno](/heroes/Faction Inferno/){: .btn .btn--success} [Dungeon](/heroes/Faction Dungeon/){: .btn .btn--warning} [Rampart](/heroes/Faction Rampart/){: .btn .btn--danger} [Fortress](/heroes/Faction Fortress/){: .btn .btn--info} [Castle](/heroes/Faction Castle/){: .btn .btn--primary} [Tower](/heroes/Faction Tower/){: .btn .btn--success} [Stronghold](/heroes/Faction Stronghold/){: .btn .btn--warning} [Neutral Army](/heroes/Faction Neutral Army/){: .btn .btn--danger} [Cove](/heroes/Faction Cove/){: .btn .btn--info} [Necropolis](/heroes/Faction Necropolis/){: .btn .btn--primary} 
+  by Faction: [Neutral](/heroes/Faction Neutral/){: .btn .btn--primary} [Conflux](/heroes/Faction Conflux/){: .btn .btn--success} [Inferno](/heroes/Faction Inferno/){: .btn .btn--warning} [Dungeon](/heroes/Faction Dungeon/){: .btn .btn--danger} [Rampart](/heroes/Faction Rampart/){: .btn .btn--info} [Fortress](/heroes/Faction Fortress/){: .btn .btn--primary} [Castle](/heroes/Faction Castle/){: .btn .btn--success} [Tower](/heroes/Faction Tower/){: .btn .btn--warning} [Stronghold](/heroes/Faction Stronghold/){: .btn .btn--danger} [Cove](/heroes/Faction Cove/){: .btn .btn--info} [Necropolis](/heroes/Faction Necropolis/){: .btn .btn--primary} 
 
   by Class: [Ocean Creatures](/heroes/Profession Ocean Creatures/){: .btn .btn--primary} [Ranger](/heroes/Profession Ranger/){: .btn .btn--success} [Death Knight](/heroes/Profession Death Knight/){: .btn .btn--warning} [Overlord](/heroes/Profession Overlord/){: .btn .btn--danger} [Heretic](/heroes/Profession Heretic/){: .btn .btn--info} [Warlock](/heroes/Profession Warlock/){: .btn .btn--primary} [Druid](/heroes/Profession Druid/){: .btn .btn--success} [Barbarian](/heroes/Profession Barbarian/){: .btn .btn--warning} [Clerics](/heroes/Profession Clerics/){: .btn .btn--danger} [Unknown](/heroes/Profession Unknown/){: .btn .btn--info} [Demoniac](/heroes/Profession Demoniac/){: .btn .btn--primary} [Planeswalker](/heroes/Profession Planeswalker/){: .btn .btn--success} [Knight](/heroes/Profession Knight/){: .btn .btn--warning} [Beast Master](/heroes/Profession Beast Master/){: .btn .btn--danger} [Pirate](/heroes/Profession Pirate/){: .btn .btn--info} [Elementalist](/heroes/Profession Elementalist/){: .btn .btn--primary} [Necromancer](/heroes/Profession Necromancer/){: .btn .btn--success} [Wizard](/heroes/Profession Wizard/){: .btn .btn--warning} 
 
@@ -26,14 +26,14 @@ classes: wide
   | 7 | ![Dracon](/images/h/h_Dracon.jpg) | [Dracon](/heroes/Dracon/) | Tower | Wizard | **SR+** |  Enchanter | R |
   | 8 | ![Dragon Mutare](/images/h/h_MutareDrake.jpg) | [Dragon Mutare](/heroes/Dragon Mutare/) | Dungeon | Overlord | **SSR** |  Dragon Awakes | SSR |
   | 9 | ![Erdamon](/images/h/h_Erdamon.jpg) | [Erdamon](/heroes/Erdamon/) | Conflux | Planeswalker | **R** |  King of Rocks | R |
-  | 10 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/heroes/Ezio/) | Neutral Army |  | **SSR** |  Brotherhood | R+ |
+  | 10 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/heroes/Ezio/) | Neutral |  | **SSR** |  Brotherhood | R+ |
   | 11 | ![Fiur](/images/h/h_Fiur.jpg) | [Fiur](/heroes/Fiur/) | Conflux | Planeswalker | **R** |  Fire Elemental | R |
   | 12 | ![Gelu](/images/h/h_Gelu.jpg) | [Gelu](/heroes/Gelu/) | Rampart | Ranger | **SR+** |  Sharpshooter | SR+ |
   | 13 | ![Gem](/images/h/h_Gem.jpg) | [Gem](/heroes/Gem/) | Rampart | Druid | **SSR** |  Natural Healing | SSR |
   | 14 | ![Human Sandro](/images/h/h_HumanSandro.jpg) | [Human Sandro](/heroes/Human Sandro/) | Necropolis | Necromancer | **SR+** |  Immortal Soul | SR |
   | 15 | ![Jeddite](/images/h/h_Jeddite.jpg) | [Jeddite](/heroes/Jeddite/) | Dungeon | Warlock | **SR** |  The Cycle of Life | SR |
   | 16 | ![Jenova](/images/h/h_Ylthin.jpg) | [Jenova](/heroes/Jenova/) | Rampart | Ranger | **R** |  Unicorn Maiden | R |
-  | 17 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/heroes/Kassandra/) | Neutral Army |  | **SSR-** |  Spartan Legion | R |
+  | 17 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/heroes/Kassandra/) | Neutral |  | **SSR-** |  Spartan Legion | R |
   | 18 | ![Kendal](/images/h/h_Kendel.jpg) | [Kendal](/heroes/Kendal/) | Castle | Knight | **SR** |  Master of Tactics | R |
   | 19 | ![Kilgor](/images/h/h_Kilgor.jpg) | [Kilgor](/heroes/Kilgor/) | Stronghold | Barbarian | **SSR** |  War Behemoth | SSR |
   | 20 | ![Korbac](/images/h/h_Korbac.jpg) | [Korbac](/heroes/Korbac/) | Fortress | Beast Master | **R** |  Flies in the Air | R |

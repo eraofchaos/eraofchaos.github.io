@@ -2,7 +2,7 @@
 title: "Sword of Lords. Peak Talent - Sword of Lords"
 permalink: /PeakTalent/Sword of Lords/
 excerpt: "Era of Chaos Peak Talent Sword of Lords. Peak Talent Sword of Lords. Sword of Lords"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Sword of Lords.md"
 toc: false

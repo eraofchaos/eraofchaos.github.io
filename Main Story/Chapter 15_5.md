@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-5 Working for Peace"
 permalink: /Main Story/Chapter 15_5/
 excerpt: "Chapter 15 - 5. Era of Chaos  Main Story - Chapter 15_5. 15-5 Working for Peace"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Chapter 15_5.md"
 toc: false

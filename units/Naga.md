@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Naga. Naga Units. Naga Queen. Era of Chaos These multi-armed monsters have battle in their blood. The weaker the enemy, the greater their hunger for death."
 unitID: 606
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: en
 ref: "Naga"
 toc: true
