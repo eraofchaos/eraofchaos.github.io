@@ -23,13 +23,13 @@ sidebar:
 * [Gloom Tides](https://eraofchaos.github.io/Exclusive/Revyaratan Gloom Tides/) - Exclusive weapon for ![Revyaratan](/images/u/ti_haiguai.jpg)  [Revyaratan](/units/Revyaratan/)
 
 * New items:
-* [Level Speed Up Pack Lv. 1](https://eraofchaos.github.io/Items/con_2219/)
-* [Level Speed Up Pack Lv. 2](https://eraofchaos.github.io/Items/con_2220/)
-* [Level Speed Up Pack Lv. 3](https://eraofchaos.github.io/Items/con_2221/)
-* [Gloom Tides Token](https://eraofchaos.github.io/Items/con_2224/)
-* [Break Waves Token](https://eraofchaos.github.io/Items/con_2225/)
-* [Gloom Tides Special Skin](https://eraofchaos.github.io/Items/con_2222/)
-* [Break Waves Special Skin](https://eraofchaos.github.io/Items/con_2223/)
+  * [Level Speed Up Pack Lv. 1](https://eraofchaos.github.io/Items/con_2219/)
+  * [Level Speed Up Pack Lv. 2](https://eraofchaos.github.io/Items/con_2220/)
+  * [Level Speed Up Pack Lv. 3](https://eraofchaos.github.io/Items/con_2221/)
+  * [Gloom Tides Token](https://eraofchaos.github.io/Items/con_2224/)
+  * [Break Waves Token](https://eraofchaos.github.io/Items/con_2225/)
+  * [Gloom Tides Special Skin](https://eraofchaos.github.io/Items/con_2222/)
+  * [Break Waves Special Skin](https://eraofchaos.github.io/Items/con_2223/)
 
 * Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 11 August 2021)
 
