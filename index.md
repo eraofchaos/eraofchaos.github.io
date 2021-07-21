@@ -11,11 +11,37 @@ sidebar:
 ---
 
 
-* **21 July** release for new Commander - ![Dark Champion](https://eraofchaos.github.io/images/u/ti_sishen.jpg) [Dark Champion](https://eraofchaos.github.io/units/Dark%20Champion/)
+| Release Date | I |         New Commander        |
+|:---|:-:|:--------------------|
+| 21 July | ![Dark Champion](https://eraofchaos.github.io/images/u/ti_sishen.jpg) | [Dark Champion](https://eraofchaos.github.io/units/Dark%20Champion/) |
+| 18 August | ![White Tiger](https://eraofchaos.github.io/images/u/ti_baihu.jpg) | [White Tiger](https://eraofchaos.github.io/units/White Tiger/) |
+| 15 September | ![Mantis](https://eraofchaos.github.io/images/u/ti_tanglang.jpg) | [Mantis](https://eraofchaos.github.io/units/Mantis/) |
 
-* **18 August** release for Commander ![White Tiger](https://eraofchaos.github.io/images/u/ti_baihu.jpg) [White Tiger](https://eraofchaos.github.io/units/White Tiger/)
 
-* **15 September** release for Commander ![Mantis](https://eraofchaos.github.io/images/u/ti_tanglang.jpg) [Mantis](https://eraofchaos.github.io/units/Mantis/)
+{% capture notice-update20210720 %}
+
+* [Gloom Tides](https://eraofchaos.github.io/Exclusive/Revyaratan Gloom Tides/) - Exclusive weapon for ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/)
+
+* New items:
+* [Level Speed Up Pack Lv. 1](https://eraofchaos.github.io/Items/con_2219/)
+* [Level Speed Up Pack Lv. 2](https://eraofchaos.github.io/Items/con_2220/)
+* [Level Speed Up Pack Lv. 3](https://eraofchaos.github.io/Items/con_2221/)
+* [Gloom Tides Token](https://eraofchaos.github.io/Items/con_2224/)
+* [Break Waves Token](https://eraofchaos.github.io/Items/con_2225/)
+* [Gloom Tides Special Skin](https://eraofchaos.github.io/Items/con_2222/)
+* [Break Waves Special Skin](https://eraofchaos.github.io/Items/con_2223/)
+
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 11 August 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">20 July 2021 Update: Client version 157 (3799/3800)</h4>
+  {{ notice-update20210720 | markdownify }}
+</div>
+
 
 
 
@@ -45,26 +71,7 @@ sidebar:
 
 
 
-{% capture notice-update20210706 %}
 
-* [Hidden Blade](/Exclusive/Assassin Hidden Blade/) - Exclusive weapon for ![Assassin](/images/u/ti_cishazhe.jpg) [Assassin](/units/Assassin/)
-
-* ![Regnan Deadeye](https://eraofchaos.github.io/images/u/tia_baozang.jpg) [Regnan Deadeye](https://eraofchaos.github.io/units/Regnan Archer/#awaking) is awakening for [Regnan Archer](https://eraofchaos.github.io/units/Regnan Archer/)
-
-* New items:
-  * [Hidden Blade Token](/Items/con_2200/)
-  * [Hidden Blade Special Skin](/Items/con_2199/)
-
-* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 27 July 2021)
-
-* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">6 July 2021 Update: Client version 154 (3741/3742)</h4>
-  {{ notice-update20210706 | markdownify }}
-</div>
 
 
 
