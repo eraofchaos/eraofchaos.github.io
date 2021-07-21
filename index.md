@@ -11,7 +11,7 @@ sidebar:
 ---
 
 
-| Release Date | I |         New Commander        |
+| Release Date | Icon |         New Commander        |
 |:---|:-:|:--------------------|
 | 21 July | ![Dark Champion](https://eraofchaos.github.io/images/u/ti_sishen.jpg) | [Dark Champion](https://eraofchaos.github.io/units/Dark%20Champion/) |
 | 18 August | ![White Tiger](https://eraofchaos.github.io/images/u/ti_baihu.jpg) | [White Tiger](https://eraofchaos.github.io/units/White Tiger/) |
@@ -20,7 +20,7 @@ sidebar:
 
 {% capture notice-update20210720 %}
 
-* [Gloom Tides](https://eraofchaos.github.io/Exclusive/Revyaratan Gloom Tides/) - Exclusive weapon for ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/)
+* [Gloom Tides](https://eraofchaos.github.io/Exclusive/Revyaratan Gloom Tides/) - Exclusive weapon for ![Revyaratan](/images/u/ti_haiguai.jpg)  [Revyaratan](/units/Revyaratan/)
 
 * New items:
 * [Level Speed Up Pack Lv. 1](https://eraofchaos.github.io/Items/con_2219/)
