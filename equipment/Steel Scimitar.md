@@ -2,7 +2,7 @@
 title: "Steel Scimitar"
 permalink: /equipment/Steel Scimitar/
 excerpt: "Era of Chaos Steel Scimitar. Steel Scimitar"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Steel Scimitar.md"
 toc: false

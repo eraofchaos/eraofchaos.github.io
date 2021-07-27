@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield (Demon)"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Demon Exclusive."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Demon Iris Shield.md"
 toc: false

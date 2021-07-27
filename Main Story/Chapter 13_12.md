@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 13 - 13-12 Battle on the Plain"
 permalink: /Main Story/Chapter 13_12/
 excerpt: "Chapter 13 - 12. Era of Chaos  Main Story - Chapter 13_12. 13-12 Battle on the Plain"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 13_12.md"
 toc: false

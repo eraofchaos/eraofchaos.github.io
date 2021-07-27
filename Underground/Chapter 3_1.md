@@ -2,7 +2,7 @@
 title: "Underground - Chapter 3 - 3-1 A Treacherous Path"
 permalink: /Underground/Chapter 3_1/
 excerpt: "Chapter 3 - 1. Era of Chaos  Underground - Chapter 3_1. 3-1 A Treacherous Path"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 3_1.md"
 toc: false

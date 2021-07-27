@@ -3,7 +3,7 @@ title: "Dark Champion"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Dark Champion. Dark Champion Units. null. Era of Chaos He is the Immortal King, but also the Lord of Darkness. He will cruelly kill every living creature to collect their souls."
 unitID: 309
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Dark Champion"
 toc: true
@@ -119,7 +119,7 @@ toc: true
  **Description:** <span style="color: #645252;font-size:20px">Necropolis units are proficient at spell suppression. When on the battlefield, all hostile units' magic resistance is decreased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">
 
 ### Regular Skill 6 : Silent Graveyard
- **Description:** <span style="color: #645252;font-size:20px">When 3 Necropolis units are deployed, Dark Champion increases his own ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When [Misfortune Curse] is cast, a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> reveals for 15s. Its domain expands as the skill levels up. CD is 30s.</span><span style="color: black">
+ **Description:** <span style="color: #645252;font-size:20px">When 3 Necropolis units are deployed, Dark Champion increases his own ATK speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and unit's damage by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. When &lt;Misfortune Curse&gt; is cast, a </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> reveals for 15s. Its domain expands as the skill levels up. CD is 30s.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -229,7 +229,7 @@ toc: true
 
  **Rush:** 1
 
- **Speedattack:** 120
+ **Speedattack:** 100
 
  **Attack Show:** 8.0
 
@@ -253,7 +253,7 @@ toc: true
 
  **label1:** 1
 
- **speedmove:** 100
+ **speedmove:** 50
 
  **posclass:** 1
 

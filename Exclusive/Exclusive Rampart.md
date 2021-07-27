@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Exclusive Rampart. Exclusive Rampart. List of Exclusive Rampart in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Exclusive Rampart"
 toc: false

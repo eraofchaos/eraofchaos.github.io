@@ -2,7 +2,7 @@
 title: "VIP System"
 permalink: /VIP/
 excerpt: "Era of Chaos  VIP System - Several permanent benefits are on their way!"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 3 | ![VIP 3](/images/x/chatPri_vipLv3.png) | [VIP 3](/VIP/VIP 3/) | **500** | **1x** [V3 Premium Package](/Items/con_1299/) |
   | 4 | ![VIP 4](/images/x/chatPri_vipLv4.png) | [VIP 4](/VIP/VIP 4/) | **1000** | **1x** [V4 Premium Package](/Items/con_1300/) |
   | 5 | ![VIP 5](/images/x/chatPri_vipLv5.png) | [VIP 5](/VIP/VIP 5/) | **2000** | **1x** [V5 Premium Package](/Items/con_1301/) |
-  | 6 | ![VIP 6](/images/x/chatPri_vipLv6.png) | [VIP 6](/VIP/VIP 6/) | **3000** | **1x** [V6 Premium Package](/Items/con_1302/) |
+  | 6 | ![VIP 6](/images/x/chatPri_vipLv6.png) | [VIP 6](/VIP/VIP 6/) | **3000** | **1x** [V6 Premium Package](/Items/con_2225/) |
   | 7 | ![VIP 7](/images/x/chatPri_vipLv7.png) | [VIP 7](/VIP/VIP 7/) | **5000** | **1x** [V7 Premium Package](/Items/con_1303/) |
   | 8 | ![VIP 8](/images/x/chatPri_vipLv8.png) | [VIP 8](/VIP/VIP 8/) | **7000** | **1x** [V8 Premium Package](/Items/con_1304/) |
   | 9 | ![VIP 9](/images/x/chatPri_vipLv9.png) | [VIP 9](/VIP/VIP 9/) | **10000** | **1x** [V9 Premium Package](/Items/con_1305/) |

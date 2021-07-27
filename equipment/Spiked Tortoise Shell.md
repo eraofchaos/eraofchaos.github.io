@@ -2,7 +2,7 @@
 title: "Spiked Tortoise Shell"
 permalink: /equipment/Spiked Tortoise Shell/
 excerpt: "Era of Chaos Spiked Tortoise Shell. Spiked Tortoise Shell"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Spiked Tortoise Shell.md"
 toc: false

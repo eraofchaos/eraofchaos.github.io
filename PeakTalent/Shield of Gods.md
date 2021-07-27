@@ -2,7 +2,7 @@
 title: "Shield of Gods. Peak Talent - Shield of Gods"
 permalink: /PeakTalent/Shield of Gods/
 excerpt: "Era of Chaos Peak Talent Shield of Gods. Peak Talent Shield of Gods. Shield of Gods"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Shield of Gods.md"
 toc: false

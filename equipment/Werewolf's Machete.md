@@ -2,7 +2,7 @@
 title: "Werewolf's Machete"
 permalink: /equipment/Werewolf's Machete/
 excerpt: "Era of Chaos Werewolf's Machete. Werewolf's Machete"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Werewolf's Machete.md"
 toc: false

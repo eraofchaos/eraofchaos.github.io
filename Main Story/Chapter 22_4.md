@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 22 - 22-4 The Belief of the Dragon God"
 permalink: /Main Story/Chapter 22_4/
 excerpt: "Chapter 22 - 4. Era of Chaos  Main Story - Chapter 22_4. 22-4 The Belief of the Dragon God"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 22_4.md"
 toc: false

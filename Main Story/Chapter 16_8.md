@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-8 Centaur's Trap"
 permalink: /Main Story/Chapter 16_8/
 excerpt: "Chapter 16 - 8. Era of Chaos  Main Story - Chapter 16_8. 16-8 Centaur's Trap"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 16_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 20 - 20-4 Elementals' Revenge"
 permalink: /Underground/Chapter 20_4/
 excerpt: "Chapter 20 - 4. Era of Chaos  Underground - Chapter 20_4. 20-4 Elementals' Revenge"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 20_4.md"
 toc: false

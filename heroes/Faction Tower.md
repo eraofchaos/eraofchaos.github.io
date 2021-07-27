@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Tower -  Heroes"
 permalink: /heroes/Faction Tower/
 excerpt: "Era of Chaos Faction Tower. Faction Tower. List of Faction  in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Faction Tower"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Neutral -  Units"
 permalink: /units/Faction Neutral/
 excerpt: "Era of Chaos Faction Neutral. Faction Neutral. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Faction Neutral"
 toc: false

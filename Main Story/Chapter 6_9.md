@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-9 Siege"
 permalink: /Main Story/Chapter 6_9/
 excerpt: "Chapter 6 - 9. Era of Chaos  Main Story - Chapter 6_9. 6-9 Siege"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 6_9.md"
 toc: false

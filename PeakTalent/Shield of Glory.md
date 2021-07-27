@@ -2,7 +2,7 @@
 title: "Shield of Glory. Peak Talent - Shield of Glory"
 permalink: /PeakTalent/Shield of Glory/
 excerpt: "Era of Chaos Peak Talent Shield of Glory. Peak Talent Shield of Glory. Shield of Glory"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Shield of Glory.md"
 toc: false

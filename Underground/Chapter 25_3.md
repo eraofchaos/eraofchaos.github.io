@@ -2,7 +2,7 @@
 title: "Underground - Chapter 25 - 25-3 Bloodied Blade"
 permalink: /Underground/Chapter 25_3/
 excerpt: "Chapter 25 - 3. Era of Chaos  Underground - Chapter 25_3. 25-3 Bloodied Blade"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 25_3.md"
 toc: false

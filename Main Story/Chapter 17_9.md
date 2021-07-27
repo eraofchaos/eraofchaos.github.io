@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-9 Centaur's Challenge"
 permalink: /Main Story/Chapter 17_9/
 excerpt: "Chapter 17 - 9. Era of Chaos  Main Story - Chapter 17_9. 17-9 Centaur's Challenge"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 17_9.md"
 toc: false

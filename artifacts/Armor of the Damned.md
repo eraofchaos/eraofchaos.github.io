@@ -2,7 +2,7 @@
 title: "Artifacts - Armor of the Damned"
 permalink: /artifacts/Armor of the Damned/
 excerpt: "Era of Chaos  Armor of the Damned. Armor of the Damned A piece forged from magical undead relics, enabling the wearer to weaken an enemy's abilities."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Armor of the Damned.md"
 toc: false

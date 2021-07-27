@@ -2,7 +2,7 @@
 title: "Beastly Eye"
 permalink: /equipment/Beastly Eye/
 excerpt: "Era of Chaos Beastly Eye. Beastly Eye"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Beastly Eye.md"
 toc: false

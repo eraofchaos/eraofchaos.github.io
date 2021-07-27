@@ -2,7 +2,7 @@
 title: "Exclusive - Knight Pike (Harpy)"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Knight Pike. Knight Pike. Era of Chaos Exclusive Knight Pike. Harpy Exclusive."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Harpy Knight Pike.md"
 toc: false

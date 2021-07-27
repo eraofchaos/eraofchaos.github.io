@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 8 Borderlands"
 permalink: /Main Story/Chapter 8/
 excerpt: "Chapter 8. Era of Chaos  Main Story - Chapter 8. Borderlands"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 8.md"
 toc: false

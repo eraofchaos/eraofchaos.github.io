@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 9 - 9-10 Limp Resistance"
 permalink: /Main Story/Chapter 9_10/
 excerpt: "Chapter 9 - 10. Era of Chaos  Main Story - Chapter 9_10. 9-10 Limp Resistance"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 9_10.md"
 toc: false

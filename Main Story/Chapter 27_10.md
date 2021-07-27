@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-10 Resisting Prison"
 permalink: /Main Story/Chapter 27_10/
 excerpt: "Chapter 27 - 10. Era of Chaos  Main Story - Chapter 27_10. 27-10 Resisting Prison"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 27_10.md"
 toc: false

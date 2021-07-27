@@ -2,7 +2,7 @@
 title: "Underground - Chapter 1 - 1-2 Traces of Dark Shadows"
 permalink: /Underground/Chapter 1_2/
 excerpt: "Chapter 1 - 2. Era of Chaos  Underground - Chapter 1_2. 1-2 Traces of Dark Shadows"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 1_2.md"
 toc: false

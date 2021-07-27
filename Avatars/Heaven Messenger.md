@@ -2,7 +2,7 @@
 title: "Avatar - Heaven Messenger"
 permalink: /Avatars/Heaven Messenger/
 excerpt: "Era of Chaos  Heaven Messenger"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Heaven Messenger.md"
 toc: false

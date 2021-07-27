@@ -2,7 +2,7 @@
 title: "Medal of Kingdom. Peak Talent - Medal of Kingdom"
 permalink: /PeakTalent/Medal of Kingdom/
 excerpt: "Era of Chaos Peak Talent Medal of Kingdom. Peak Talent Medal of Kingdom. Medal of Kingdom"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Medal of Kingdom.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 32  Tower Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **9 Aug** | **5x [Gremlin](/Items/unt_235/)**  | A squad of Gremlin joined your army and you become stronger! |
+  | **10 Aug** | **3x [Stone Gargoyle](/Items/unt_236/)**  | A squad of Stone Gargoyle joined your army and you become stronger! |
+  | **11 Aug** | **100x <i class="fas fa-gem"/>**  | You got some unexpected surprises during your study of alchemy! |
+  | **12 Aug** | **3x [Iron Golem](/Items/unt_237/)**  | A squad of Iron Golem joined your army and you become stronger! |
+  | **13 Aug** | **3x [Tower Unit Chest](/Items/con_1274/)**  | You discovered several beautiful chests in the Tower's arcane laboratory! |
+  | **14 Aug** | **3x [Mage](/Items/unt_238/)**  | A squad of Mage joined your army and you become stronger! |
+  | **15 Aug** | **5x [Solmyr](/Items/her_386/)**  | Your research of the Arcane has attracted Solmyr to join your army! |
+
 
 #### 2021 Week 31  Stronghold Week
 

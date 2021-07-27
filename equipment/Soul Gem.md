@@ -2,7 +2,7 @@
 title: "Soul Gem"
 permalink: /equipment/Soul Gem/
 excerpt: "Era of Chaos Soul Gem. Soul Gem"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Soul Gem.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Elemental Immunization. Peak Talent - Elemental Immunization"
 permalink: /PeakTalent/Elemental Immunization/
 excerpt: "Era of Chaos Peak Talent Elemental Immunization. Peak Talent Elemental Immunization. Elemental Immunization"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Elemental Immunization.md"
 toc: false

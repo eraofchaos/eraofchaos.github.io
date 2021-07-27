@@ -2,7 +2,7 @@
 title: "Light Gauntlets"
 permalink: /equipment/Light Gauntlets/
 excerpt: "Era of Chaos Light Gauntlets. Light Gauntlets"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Light Gauntlets.md"
 toc: false

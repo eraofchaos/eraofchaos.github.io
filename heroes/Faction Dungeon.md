@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Dungeon -  Heroes"
 permalink: /heroes/Faction Dungeon/
 excerpt: "Era of Chaos Faction Dungeon. Faction Dungeon. List of Faction  in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Faction Dungeon"
 toc: false

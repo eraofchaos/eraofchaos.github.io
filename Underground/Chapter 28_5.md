@@ -2,7 +2,7 @@
 title: "Underground - Chapter 28 - 28-5  Midway Robbery"
 permalink: /Underground/Chapter 28_5/
 excerpt: "Chapter 28 - 5. Era of Chaos  Underground - Chapter 28_5. 28-5  Midway Robbery"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 28_5.md"
 toc: false

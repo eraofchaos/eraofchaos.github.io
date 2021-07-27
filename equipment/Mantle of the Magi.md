@@ -2,7 +2,7 @@
 title: "Mantle of the Magi"
 permalink: /equipment/Mantle of the Magi/
 excerpt: "Era of Chaos Mantle of the Magi. Mantle of the Magi"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Mantle of the Magi.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Breach Armor"
 permalink: /equipment/Breach Armor/
 excerpt: "Era of Chaos Breach Armor. Breach Armor"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Breach Armor.md"
 toc: false

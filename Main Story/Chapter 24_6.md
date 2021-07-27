@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-6 The Secrets of Dragons"
 permalink: /Main Story/Chapter 24_6/
 excerpt: "Chapter 24 - 6. Era of Chaos  Main Story - Chapter 24_6. 24-6 The Secrets of Dragons"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 24_6.md"
 toc: false

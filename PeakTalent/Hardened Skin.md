@@ -2,7 +2,7 @@
 title: "Hardened Skin. Peak Talent - Hardened Skin"
 permalink: /PeakTalent/Hardened Skin/
 excerpt: "Era of Chaos Peak Talent Hardened Skin. Peak Talent Hardened Skin. Hardened Skin"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Hardened Skin.md"
 toc: false

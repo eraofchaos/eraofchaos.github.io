@@ -2,7 +2,7 @@
 title: "Aiming. Peak Talent - Aiming"
 permalink: /PeakTalent/Aiming/
 excerpt: "Era of Chaos Peak Talent Aiming. Peak Talent Aiming. Aiming"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Aiming.md"
 toc: false

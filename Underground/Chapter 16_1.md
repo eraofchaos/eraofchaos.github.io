@@ -2,7 +2,7 @@
 title: "Underground - Chapter 16 - 16-1 Ruse of Death"
 permalink: /Underground/Chapter 16_1/
 excerpt: "Chapter 16 - 1. Era of Chaos  Underground - Chapter 16_1. 16-1 Ruse of Death"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Chapter 16_1.md"
 toc: false

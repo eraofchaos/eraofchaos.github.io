@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant (Monk)"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Monk Exclusive."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Monk Arcane Chant.md"
 toc: false

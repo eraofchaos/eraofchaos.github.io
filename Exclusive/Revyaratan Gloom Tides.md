@@ -2,7 +2,7 @@
 title: "Exclusive - Gloom Tides (Revyaratan)"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "Era of Chaos Gloom Tides. Gloom Tides. Era of Chaos Exclusive Gloom Tides. Revyaratan Exclusive."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Revyaratan Gloom Tides.md"
 toc: false

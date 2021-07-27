@@ -2,7 +2,7 @@
 title: "Exclusive - Devil Scythe (Devil)"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Devil Scythe. Devil Scythe. Era of Chaos Exclusive Devil Scythe. Devil Exclusive."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Devil Devil Scythe.md"
 toc: false

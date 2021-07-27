@@ -2,7 +2,7 @@
 title: "Exclusive - Arcane Chant (Efreeti)"
 permalink: /Exclusive/Efreeti Arcane Chant/
 excerpt: "Era of Chaos Arcane Chant. Arcane Chant. Era of Chaos Exclusive Arcane Chant. Efreeti Exclusive."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Efreeti Arcane Chant.md"
 toc: false

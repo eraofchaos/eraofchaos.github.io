@@ -2,7 +2,7 @@
 title: "Iron Lord. Peak Talent - Iron Lord"
 permalink: /PeakTalent/Iron Lord/
 excerpt: "Era of Chaos Peak Talent Iron Lord. Peak Talent Iron Lord. Iron Lord"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Iron Lord.md"
 toc: false

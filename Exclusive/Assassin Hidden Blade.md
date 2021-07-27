@@ -2,7 +2,7 @@
 title: "Exclusive - Hidden Blade (Assassin)"
 permalink: /Exclusive/Assassin Hidden Blade/
 excerpt: "Era of Chaos Hidden Blade. Hidden Blade. Era of Chaos Exclusive Hidden Blade. Assassin Exclusive."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: en
 ref: "Assassin Hidden Blade.md"
 toc: false
