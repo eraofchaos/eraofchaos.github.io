@@ -16,6 +16,33 @@ sidebar:
 
 All promises from the Ubi team is fake. I spend about 2 months in discussions, wrote e-mails, got confirming for "Content Creator" status. They promised gems for players as rewards in quiz/activities on wiki... and finally, **ZERO**. IMHO, this game is not important for Ubisoft, because we do not have a Community Manager for 4-5 months. **Vera** left in December 2020, **Jeffery** left at end of February 2021, ...
 
+
+{% capture notice-update20210714 %}
+
+* [Iris Shield](https://eraofchaos.github.io/Exclusive/Centaur%20Iris%20Shield/) - Exclusive weapon for [Centaur](https://eraofchaos.github.io/units/Centaur/)
+
+* [Dwarf](https://eraofchaos.github.io/units/Dwarf/) awakening - [Battle Dwarf](https://eraofchaos.github.io/units/Dwarf/#awaking)
+
+* BINGO event (nice free event):
+  * 17 July Daily Missions: Divine artifacts 2 times, Train unit talents 2 times, Refresh hero mastery 2 times, Win elite stages 15 times.
+  * 18 July Daily Missions: Purchase energy 1 time, Refresh the Holy Emblem Store 2 time, Use 200 spell scrolls, Win regular stages 30 times.
+  * 19 July Daily Missions: Divine artifacts 2 times, Train unit talents 2 times, Refresh hero mastery 2 times, Win elite stages 15 times.
+  * 20 July Daily Missions: Purchase energy 1 time, Refresh the Holy Emblem Store 2 time, Use 200 spell scrolls, Win regular stages 30 times.
+
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 3 August 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">14 July 2021 Update: Client version 154 (3769/3770)</h4>
+  {{ notice-update20210714 | markdownify }}
+</div>
+
+
+
+
 {% capture notice-update20210706 %}
 
 * [Hidden Blade](/Exclusive/Assassin Hidden Blade/) - Exclusive weapon for ![Assassin](/images/u/ti_cishazhe.jpg) [Assassin](/units/Assassin/)

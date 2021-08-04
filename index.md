@@ -18,6 +18,47 @@ sidebar:
 | 15 September | ![Mantis](https://eraofchaos.github.io/images/u/ti_tanglang.jpg) | [Mantis](https://eraofchaos.github.io/units/Mantis/) |
 
 
+{% capture notice-update20210804 %}
+
+* [Berserker Berserker's Axe](https://eraofchaos.github.io/Exclusive/Berserker Berserker's Axe/) - Exclusive weapon for ![Berserker](/images/u/ti_kuangzhanshi.jpg) [Berserker](/units/Berserker/)
+
+* New items:
+  * [Mantis Avatar](/Items/con_2237/)
+  * [Blue dragon](/Items/con_2236/)
+
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 25 August 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">4 August 2021 Update: Client version 157 (3847/3848)</h4>
+  {{ notice-update20210804 | markdownify }}
+</div>
+
+{% capture notice-update20210727 %}
+
+* [Griffin Knight Pike](https://eraofchaos.github.io/Exclusive/Griffin Knight Pike/) - Exclusive weapon for ![Griffin](/images/u/ti_shijiu.jpg) [Griffin](/units/Griffin/)
+
+* New items:
+  * [Blue dragon](https://eraofchaos.github.io/Items/con_2236/)
+  * [SR Unit Pack Chest](https://eraofchaos.github.io/Items/con_2226/)
+  * [V6 Premium Package](https://eraofchaos.github.io/Items/con_2225/)
+  * [Heart-pounding Summer Cassanbel Offer](https://eraofchaos.github.io/Items/con_2227/)
+
+* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 18 August 2021)
+
+* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">27 July 2021 Update: Client version 157 (3832/3833)</h4>
+  {{ notice-update20210727 | markdownify }}
+</div>
+
+
 {% capture notice-update20210720 %}
 
 * [Gloom Tides](https://eraofchaos.github.io/Exclusive/Revyaratan Gloom Tides/) - Exclusive weapon for ![Revyaratan](/images/u/ti_haiguai.jpg)  [Revyaratan](/units/Revyaratan/)
@@ -43,30 +84,6 @@ sidebar:
 </div>
 
 
-
-
-{% capture notice-update20210714 %}
-
-* [Iris Shield](https://eraofchaos.github.io/Exclusive/Centaur%20Iris%20Shield/) - Exclusive weapon for [Centaur](https://eraofchaos.github.io/units/Centaur/)
-
-* [Dwarf](https://eraofchaos.github.io/units/Dwarf/) awakening - [Battle Dwarf](https://eraofchaos.github.io/units/Dwarf/#awaking)
-
-* BINGO event (nice free event):
-  * 17 July Daily Missions: Divine artifacts 2 times, Train unit talents 2 times, Refresh hero mastery 2 times, Win elite stages 15 times.
-  * 18 July Daily Missions: Purchase energy 1 time, Refresh the Holy Emblem Store 2 time, Use 200 spell scrolls, Win regular stages 30 times.
-  * 19 July Daily Missions: Divine artifacts 2 times, Train unit talents 2 times, Refresh hero mastery 2 times, Win elite stages 15 times.
-  * 20 July Daily Missions: Purchase energy 1 time, Refresh the Holy Emblem Store 2 time, Use 200 spell scrolls, Win regular stages 30 times.
-
-* Update [Schedule](https://eraofchaos.github.io/Schedule/) (up to 3 August 2021)
-
-* [Era of Chaos Wiki](https://eraofchaos.github.io/) updated to latest game state.
-
-{% endcapture %}
-
-<div class="notice--danger">
-  <h4 class="no_toc">14 July 2021 Update: Client version 154 (3769/3770)</h4>
-  {{ notice-update20210714 | markdownify }}
-</div>
 
 
 
