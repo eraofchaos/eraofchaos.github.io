@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Gnoll. Gnoll Units. Gnoll Warrior. Era of Chaos A ferocious creature that lives in a swamp. It makes good use of strength in numbers to round up single or weak prey."
 unitID: 801
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Gnoll"
 toc: true

@@ -2,7 +2,7 @@
 title: "Bloodthirsty Belt"
 permalink: /equipment/Bloodthirsty Belt/
 excerpt: "Era of Chaos Bloodthirsty Belt. Bloodthirsty Belt"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Bloodthirsty Belt.md"
 toc: false

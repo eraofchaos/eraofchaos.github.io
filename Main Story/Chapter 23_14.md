@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 23 - 23-14 The Smell of Sulfur"
 permalink: /Main Story/Chapter 23_14/
 excerpt: "Chapter 23 - 14. Era of Chaos  Main Story - Chapter 23_14. 23-14 The Smell of Sulfur"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 23_14.md"
 toc: false

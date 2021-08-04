@@ -2,7 +2,7 @@
 title: "Avatar - Chilled-out Summer"
 permalink: /Avatars/Chilled-out Summer/
 excerpt: "Era of Chaos  Chilled-out Summer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chilled-out Summer.md"
 toc: false

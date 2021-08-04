@@ -2,7 +2,7 @@
 title: "Artifacts - Armor of the Damned - Sword of Hellfire"
 permalink: /artifacts/Sword of Hellfire/
 excerpt: "Era of Chaos  Armor of the Damned - Sword of Hellfire. A sword that hosts a dark power. One of the components of the Armor of the Damned."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Sword of Hellfire.md"
 toc: false

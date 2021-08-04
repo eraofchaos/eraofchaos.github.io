@@ -2,7 +2,7 @@
 title: "Underground - Chapter 17 - 17-4 Genie's Lamp"
 permalink: /Underground/Chapter 17_4/
 excerpt: "Chapter 17 - 4. Era of Chaos  Underground - Chapter 17_4. 17-4 Genie's Lamp"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 17_4.md"
 toc: false

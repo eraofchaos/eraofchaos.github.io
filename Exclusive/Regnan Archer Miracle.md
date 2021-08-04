@@ -2,7 +2,7 @@
 title: "Exclusive - Miracle (Regnan Archer)"
 permalink: /Exclusive/Regnan Archer Miracle/
 excerpt: "Era of Chaos Miracle. Miracle. Era of Chaos Exclusive Miracle. Regnan Archer Exclusive."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Regnan Archer Miracle.md"
 toc: false

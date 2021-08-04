@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 3 - 3-8 The Garden of Revelation"
 permalink: /Main Story/Chapter 3_8/
 excerpt: "Chapter 3 - 8. Era of Chaos  Main Story - Chapter 3_8. 3-8 The Garden of Revelation"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 3_8.md"
 toc: false

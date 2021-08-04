@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 2 - 2-8 Friendly Exchange"
 permalink: /Main Story/Chapter 2_8/
 excerpt: "Chapter 2 - 8. Era of Chaos  Main Story - Chapter 2_8. 2-8 Friendly Exchange"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 2_8.md"
 toc: false

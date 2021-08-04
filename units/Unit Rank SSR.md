@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Unit Rank SSR"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | 1 | ![Psychic Elemental](/images/u/ti_jingshenyuansu.jpg) | [Psychic Elemental](/units/Psychic Elemental/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Magic Elemental  |
   | 2 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/units/Behemoth/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ancient Behemoth  |
   | 3 | ![Shark Trainer](/images/u/ti_xunshashi.jpg) | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Shark Rider  |
-  | 4 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Death Howler  |
+  | 4 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  Death Howler  |
   | 5 | ![Leprechaun](/images/u/ti_conglinyaojing.jpg) | [Leprechaun](/units/Leprechaun/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
   | 6 | ![Regnan Archer](/images/u/ti_ruigenanushou.jpg) | [Regnan Archer](/units/Regnan Archer/) | Ranged | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Regnan Deadeye  |
   | 7 | ![Devil](/images/u/ti_daemo.jpg) | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arch Devil  |

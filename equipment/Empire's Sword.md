@@ -2,7 +2,7 @@
 title: "Empire's Sword"
 permalink: /equipment/Empire's Sword/
 excerpt: "Era of Chaos Empire's Sword. Empire's Sword"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Empire's Sword.md"
 toc: false

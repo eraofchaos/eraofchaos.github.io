@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Necropolis -  Units"
 permalink: /units/Faction Necropolis/
 excerpt: "Era of Chaos Faction Necropolis. Faction Necropolis. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Faction Necropolis"
 toc: false

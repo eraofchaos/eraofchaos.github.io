@@ -2,7 +2,7 @@
 title: "Piercing Bolts"
 permalink: /equipment/Piercing Bolts/
 excerpt: "Era of Chaos Piercing Bolts. Piercing Bolts"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Piercing Bolts.md"
 toc: false

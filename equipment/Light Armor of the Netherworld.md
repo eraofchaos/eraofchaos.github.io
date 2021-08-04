@@ -2,7 +2,7 @@
 title: "Light Armor of the Netherworld"
 permalink: /equipment/Light Armor of the Netherworld/
 excerpt: "Era of Chaos Light Armor of the Netherworld. Light Armor of the Netherworld"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Light Armor of the Netherworld.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 30 - 30-9 Mercury Refinery"
 permalink: /Main Story/Chapter 30_9/
 excerpt: "Chapter 30 - 9. Era of Chaos  Main Story - Chapter 30_9. 30-9 Mercury Refinery"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 30_9.md"
 toc: false

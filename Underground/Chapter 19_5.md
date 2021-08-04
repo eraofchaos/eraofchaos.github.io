@@ -2,7 +2,7 @@
 title: "Underground - Chapter 19 - 19-5 Law of the World"
 permalink: /Underground/Chapter 19_5/
 excerpt: "Chapter 19 - 5. Era of Chaos  Underground - Chapter 19_5. 19-5 Law of the World"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 19_5.md"
 toc: false

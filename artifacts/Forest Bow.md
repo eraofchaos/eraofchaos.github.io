@@ -2,7 +2,7 @@
 title: "Artifacts - Armageddon's Blade - Forest Bow"
 permalink: /artifacts/Forest Bow/
 excerpt: "Era of Chaos  Armageddon's Blade - Forest Bow. A bow often used by wood elves. One of the components of Armageddon's Blade."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Forest Bow.md"
 toc: false

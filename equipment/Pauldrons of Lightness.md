@@ -2,7 +2,7 @@
 title: "Pauldrons of Lightness"
 permalink: /equipment/Pauldrons of Lightness/
 excerpt: "Era of Chaos Pauldrons of Lightness. Pauldrons of Lightness"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Pauldrons of Lightness.md"
 toc: false

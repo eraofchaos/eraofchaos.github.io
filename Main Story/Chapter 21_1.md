@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 21 - 21-1 Conquerer"
 permalink: /Main Story/Chapter 21_1/
 excerpt: "Chapter 21 - 1. Era of Chaos  Main Story - Chapter 21_1. 21-1 Conquerer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 21_1.md"
 toc: false

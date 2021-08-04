@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 16 - 16-11 Stone Mask"
 permalink: /Main Story/Chapter 16_11/
 excerpt: "Chapter 16 - 11. Era of Chaos  Main Story - Chapter 16_11. 16-11 Stone Mask"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 16_11.md"
 toc: false

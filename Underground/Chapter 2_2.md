@@ -2,7 +2,7 @@
 title: "Underground - Chapter 2 - 2-2 Through the Mist"
 permalink: /Underground/Chapter 2_2/
 excerpt: "Chapter 2 - 2. Era of Chaos  Underground - Chapter 2_2. 2-2 Through the Mist"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 2_2.md"
 toc: false

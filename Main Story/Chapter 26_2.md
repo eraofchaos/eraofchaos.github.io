@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-2 Gate of Summoning"
 permalink: /Main Story/Chapter 26_2/
 excerpt: "Chapter 26 - 2. Era of Chaos  Main Story - Chapter 26_2. 26-2 Gate of Summoning"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 26_2.md"
 toc: false

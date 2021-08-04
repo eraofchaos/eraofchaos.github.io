@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 11 - 11-7 Wings of an Angel"
 permalink: /Main Story/Chapter 11_7/
 excerpt: "Chapter 11 - 7. Era of Chaos  Main Story - Chapter 11_7. 11-7 Wings of an Angel"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 11_7.md"
 toc: false

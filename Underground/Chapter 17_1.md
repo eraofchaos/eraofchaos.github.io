@@ -2,7 +2,7 @@
 title: "Underground - Chapter 17 - 17-1 Crystal Cave"
 permalink: /Underground/Chapter 17_1/
 excerpt: "Chapter 17 - 1. Era of Chaos  Underground - Chapter 17_1. 17-1 Crystal Cave"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 17_1.md"
 toc: false

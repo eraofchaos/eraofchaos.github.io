@@ -2,7 +2,7 @@
 title: "Underground - Chapter 27 - 27-4 Maniac Poet "
 permalink: /Underground/Chapter 27_4/
 excerpt: "Chapter 27 - 4. Era of Chaos  Underground - Chapter 27_4. 27-4 Maniac Poet "
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 27_4.md"
 toc: false

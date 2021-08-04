@@ -2,7 +2,7 @@
 title: "Underground - Chapter 27 - 27-1 Macrobian"
 permalink: /Underground/Chapter 27_1/
 excerpt: "Chapter 27 - 1. Era of Chaos  Underground - Chapter 27_1. 27-1 Macrobian"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 27_1.md"
 toc: false

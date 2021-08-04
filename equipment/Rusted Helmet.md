@@ -2,7 +2,7 @@
 title: "Rusted Helmet"
 permalink: /equipment/Rusted Helmet/
 excerpt: "Era of Chaos Rusted Helmet. Rusted Helmet"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Rusted Helmet.md"
 toc: false

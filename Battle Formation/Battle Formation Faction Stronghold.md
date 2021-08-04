@@ -2,7 +2,7 @@
 title: "Battle Formation Stronghold"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "Battle Formation Stronghold"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "BattleFormationFactionStronghold"
 toc: false

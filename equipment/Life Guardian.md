@@ -2,7 +2,7 @@
 title: "Life Guardian"
 permalink: /equipment/Life Guardian/
 excerpt: "Era of Chaos Life Guardian. Life Guardian"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Life Guardian.md"
 toc: false

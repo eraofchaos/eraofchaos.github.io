@@ -2,7 +2,7 @@
 title: "Steel Arrow"
 permalink: /equipment/Steel Arrow/
 excerpt: "Era of Chaos Steel Arrow. Steel Arrow"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Steel Arrow.md"
 toc: false

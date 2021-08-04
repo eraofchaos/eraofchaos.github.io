@@ -2,7 +2,7 @@
 title: "Eye of Blasphemy"
 permalink: /equipment/Eye of Blasphemy/
 excerpt: "Era of Chaos Eye of Blasphemy. Eye of Blasphemy"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Eye of Blasphemy.md"
 toc: false

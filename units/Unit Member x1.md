@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Era of Chaos Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Unit Member x1"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/units/Behemoth/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ancient Behemoth  |
   | 6 | ![Ice Demon](/images/u/ti_bingmo.jpg) | [Ice Demon](/units/Ice Demon/) | Ranged | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 7 | ![Shark Trainer](/images/u/ti_xunshashi.jpg) | [Shark Trainer](/units/Shark Trainer/) | Charging | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Shark Rider  |
-  | 8 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Death Howler  |
+  | 8 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  Death Howler  |
   | 9 | ![Leprechaun](/images/u/ti_conglinyaojing.jpg) | [Leprechaun](/units/Leprechaun/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Master Leprechaun   |
   | 10 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/units/Troll/) | Ranged | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
   | 11 | ![Regnan Archer](/images/u/ti_ruigenanushou.jpg) | [Regnan Archer](/units/Regnan Archer/) | Ranged | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Regnan Deadeye  |

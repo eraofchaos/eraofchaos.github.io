@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 17 - 17-13 Hometown Nightmare"
 permalink: /Main Story/Chapter 17_13/
 excerpt: "Chapter 17 - 13. Era of Chaos  Main Story - Chapter 17_13. 17-13 Hometown Nightmare"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 17_13.md"
 toc: false

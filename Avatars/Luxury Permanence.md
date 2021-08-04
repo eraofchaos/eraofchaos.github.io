@@ -2,7 +2,7 @@
 title: "Avatar - Luxury Permanence"
 permalink: /Avatars/Luxury Permanence/
 excerpt: "Era of Chaos  Luxury Permanence"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Luxury Permanence.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-2 Lich's Tomb"
 permalink: /Main Story/Chapter 29_2/
 excerpt: "Chapter 29 - 2. Era of Chaos  Main Story - Chapter 29_2. 29-2 Lich's Tomb"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 29_2.md"
 toc: false

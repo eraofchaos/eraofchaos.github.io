@@ -2,7 +2,7 @@
 title: "Orb of Divinity"
 permalink: /equipment/Orb of Divinity/
 excerpt: "Era of Chaos Orb of Divinity. Orb of Divinity"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Orb of Divinity.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "The Unstable Form. Peak Talent - The Unstable Form"
 permalink: /PeakTalent/The Unstable Form/
 excerpt: "Era of Chaos Peak Talent The Unstable Form. Peak Talent The Unstable Form. The Unstable Form"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "The Unstable Form.md"
 toc: false

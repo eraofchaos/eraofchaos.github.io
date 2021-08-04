@@ -2,7 +2,7 @@
 title: "Underground - Chapter 29 - 29-1  Beauty of Fireworks"
 permalink: /Underground/Chapter 29_1/
 excerpt: "Chapter 29 - 1. Era of Chaos  Underground - Chapter 29_1. 29-1  Beauty of Fireworks"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 29_1.md"
 toc: false

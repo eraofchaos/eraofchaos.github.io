@@ -2,7 +2,7 @@
 title: "Soul Belt"
 permalink: /equipment/Soul Belt/
 excerpt: "Era of Chaos Soul Belt. Soul Belt"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Soul Belt.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 10 - 10-1 Land of the Undead"
 permalink: /Main Story/Chapter 10_1/
 excerpt: "Chapter 10 - 1. Era of Chaos  Main Story - Chapter 10_1. 10-1 Land of the Undead"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 10_1.md"
 toc: false

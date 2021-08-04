@@ -2,7 +2,7 @@
 title: "Poseidon's Soul Necklace"
 permalink: /equipment/Poseidon's Soul Necklace/
 excerpt: "Era of Chaos Poseidon's Soul Necklace. Poseidon's Soul Necklace"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Poseidon's Soul Necklace.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 24 - 24-1 Faerie's Residence"
 permalink: /Main Story/Chapter 24_1/
 excerpt: "Chapter 24 - 1. Era of Chaos  Main Story - Chapter 24_1. 24-1 Faerie's Residence"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 24_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Battle Formation Fortress"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Battle Formation Fortress"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "BattleFormationFactionFortress"
 toc: false

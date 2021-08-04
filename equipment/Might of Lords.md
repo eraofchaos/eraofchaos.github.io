@@ -2,7 +2,7 @@
 title: "Might of Lords"
 permalink: /equipment/Might of Lords/
 excerpt: "Era of Chaos Might of Lords. Might of Lords"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Might of Lords.md"
 toc: false

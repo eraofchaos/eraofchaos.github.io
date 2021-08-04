@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Unit Class Offense"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![Dark Champion](/images/u/ti_sishen.jpg) | [Dark Champion](/units/Dark Champion/) | Offense | - | Commander | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 3 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/units/Revyaratan/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Ancient Sea Monster  |
   | 4 | ![Pit Fiend](/images/u/ti_diyulingzhu.jpg) | [Pit Fiend](/units/Pit Fiend/) | Offense | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Pit Lord  |
-  | 5 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Death Howler  |
+  | 5 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  Death Howler  |
   | 6 | ![Stone Gargoyle](/images/u/ti_shixianggui.jpg) | [Stone Gargoyle](/units/Stone Gargoyle/) | Offense | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 7 | ![Pikeman](/images/u/ti_jibing.jpg) | [Pikeman](/units/Pikeman/) | Offense | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Halberdier  |
   | 8 | ![Devil](/images/u/ti_daemo.jpg) | [Devil](/units/Devil/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arch Devil  |

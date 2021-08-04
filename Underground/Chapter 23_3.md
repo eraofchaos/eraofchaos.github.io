@@ -2,7 +2,7 @@
 title: "Underground - Chapter 23 - 23-3 Thunder Havoc"
 permalink: /Underground/Chapter 23_3/
 excerpt: "Chapter 23 - 3. Era of Chaos  Underground - Chapter 23_3. 23-3 Thunder Havoc"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 23_3.md"
 toc: false

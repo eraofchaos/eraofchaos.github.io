@@ -2,7 +2,7 @@
 title: "Fishing Master"
 permalink: /Fishing Master/
 excerpt: "Era of Chaos  Fishing Master - []　　Dear Lord, here are your fishing attempt completion rewards. Please take a look.[]"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "index.md"
 toc: false

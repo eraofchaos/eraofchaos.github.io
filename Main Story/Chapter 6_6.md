@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 6 - 6-6 Annihilation"
 permalink: /Main Story/Chapter 6_6/
 excerpt: "Chapter 6 - 6. Era of Chaos  Main Story - Chapter 6_6. 6-6 Annihilation"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 6_6.md"
 toc: false

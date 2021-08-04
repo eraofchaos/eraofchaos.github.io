@@ -2,11 +2,24 @@
 title: "Daily Sign-in Rewards"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Daily Sign-in Rewards."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 33  Fortress Week
+
+  |  Date  |  Reward  |  Reward Description    |
+  |:-------|:---------------|:------------------------:|
+  | **16 Aug** | **5x [Gnoll](/Items/unt_253/)**  | A squad of Gnoll joined your army and you become stronger! |
+  | **17 Aug** | **5x [Fortress Faction Chest](/Items/con_1277/)**  | Your fortress corps has presented you with a number of valuable treasure chests! |
+  | **18 Aug** | **100x <i class="fas fa-gem"/>**  | Your army have found lots of treasure in the dark swamp! |
+  | **19 Aug** | **3x [Lizardman](/Items/unt_254/)**  | A squad of Lizardman joined your army and you become stronger! |
+  | **20 Aug** | **5x [Fortress Roster runes](/Items/con_818/)**  | Your inferno corps has presented you with a number of valuable runes! |
+  | **21 Aug** | **3x [Serpent Fly](/Items/unt_255/)**  | A squad of Serpent Fly joined your army and you become stronger! |
+  | **22 Aug** | **5x [Korbac](/Items/her_394/)**  | A brave Beast Master has visited your territory! |
+
 
 #### 2021 Week 32  Tower Week
 

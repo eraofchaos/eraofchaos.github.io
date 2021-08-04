@@ -23,6 +23,7 @@ url:                "https://eraofchaos.github.io"
 logo: "/images/HMM_EraOfChaos_Wiki_Logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
+# minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 minimal_mistakes_skin: default
 search: true
@@ -51,6 +52,7 @@ comments:
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show

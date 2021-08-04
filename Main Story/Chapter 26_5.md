@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 26 - 26-5 Gloomy Maze"
 permalink: /Main Story/Chapter 26_5/
 excerpt: "Chapter 26 - 5. Era of Chaos  Main Story - Chapter 26_5. 26-5 Gloomy Maze"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 26_5.md"
 toc: false

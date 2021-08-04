@@ -2,7 +2,7 @@
 title: "Exclusive - Sword (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Stone Gargoyle Exclusive."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Stone Gargoyle Sword.md"
 toc: false

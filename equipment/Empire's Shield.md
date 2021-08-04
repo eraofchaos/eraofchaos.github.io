@@ -2,7 +2,7 @@
 title: "Empire's Shield"
 permalink: /equipment/Empire's Shield/
 excerpt: "Era of Chaos Empire's Shield. Empire's Shield"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Empire's Shield.md"
 toc: false

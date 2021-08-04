@@ -2,7 +2,7 @@
 title: "Great Trainer. Peak Talent - Great Trainer"
 permalink: /PeakTalent/Great Trainer/
 excerpt: "Era of Chaos Peak Talent Great Trainer. Peak Talent Great Trainer. Great Trainer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Great Trainer.md"
 toc: false

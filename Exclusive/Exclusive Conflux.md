@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Conflux"
 permalink: /Exclusive/Exclusive Conflux/
 excerpt: "Era of Chaos Exclusive Conflux. Exclusive Conflux. List of Exclusive Conflux in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Exclusive Conflux"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Units"
 permalink: /units/
 excerpt: "Era of Chaos Units. List of ALL Units in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "index.md"
 toc: false
@@ -26,7 +26,7 @@ classes: wide
   | 4 | ![Basilisk](/images/u/ti_xiyi.jpg) | [Basilisk](/units/Basilisk/) | Defense | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
   | 5 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/units/Behemoth/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Ancient Behemoth  |
   | 6 | ![Beholder](/images/u/ti_xieyan.jpg) | [Beholder](/units/Beholder/) | Caster | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Evil Eye  |
-  | 7 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Death Howler  |
+  | 7 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/units/Berserker/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5317 |  Death Howler  |
   | 8 | ![Black Dragon](/images/u/ti_heilong.jpg) | [Black Dragon](/units/Black Dragon/) | Defense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Black Dragon King  |
   | 9 | ![Black Knight](/images/u/ti_siwangqishi.jpg) | [Black Knight](/units/Black Knight/) | Charging | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Dread Knight  |
   | 10 | ![Bone Dragon](/images/u/ti_gulong.jpg) | [Bone Dragon](/units/Bone Dragon/) | Offense | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Ghost Dragon  |

@@ -2,7 +2,7 @@
 title: "Exclusive - Iris Shield (Centaur)"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Iris Shield. Iris Shield. Era of Chaos Exclusive Iris Shield. Centaur Exclusive."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Centaur Iris Shield.md"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
   |  Awaken  | **100x** [Iris Shield Token](/Items/con_913/) | <Massive Shock> A massive shock wave is created whenever Centaur finishes casting <Battle Stomp>, slowing enemies in the shockwave's range and decreasing their Unit DMG by 15% for 8s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Iris Shield Token](/Items/con_913/) | At the start of battle, Centaur grants all friendly front row units a shield equal to 15% of Max HP for 15s. |
   | **2x** <i class="fas fa-star"/> | **90x** [Iris Shield Token](/Items/con_913/) | When Centaur gains a shield, increases their DEF by 20% for 10s. This effect cannot stack. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | <Massive Shock> Extends the duration by 10s and deals damage to enemy units equal to 10% of own Attack once every 0.5s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Iris Shield Token](/Items/con_913/) | <Massive Shock> Extends the duration by 10s and deals damage to enemy units equal to 8% of own Attack once every 0.5s. |
   | **4x** <i class="fas fa-star"/> | **170x** [Iris Shield Token](/Items/con_913/) | Increases Centaur's HP by 10% each time a Rampart unit is deployed. |
   | **5x** <i class="fas fa-star"/> | **210x** [Iris Shield Token](/Items/con_913/) | Increases Centaur's Unit DMG Reduction by 3% each time a Rampart unit is deployed. |
   | **6x** <i class="fas fa-star"/> | **250x** [Iris Shield Token](/Items/con_913/) | <Crushing Stomp> Immediately casts <Crushing Stomp> when Centaur gains a shield, dealing damage equal to 100% of own ATK to enemies in range and stunning slowed enemies for 1-3s. CD is 9s. |

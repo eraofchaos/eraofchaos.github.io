@@ -2,7 +2,7 @@
 title: "Fiend's Neck Umbrella"
 permalink: /equipment/Fiend's Neck Umbrella/
 excerpt: "Era of Chaos Fiend's Neck Umbrella. Fiend's Neck Umbrella"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Fiend's Neck Umbrella.md"
 toc: false

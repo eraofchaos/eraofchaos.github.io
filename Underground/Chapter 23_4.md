@@ -2,7 +2,7 @@
 title: "Underground - Chapter 23 - 23-4 Eternal Flame Rebirth"
 permalink: /Underground/Chapter 23_4/
 excerpt: "Chapter 23 - 4. Era of Chaos  Underground - Chapter 23_4. 23-4 Eternal Flame Rebirth"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 23_4.md"
 toc: false

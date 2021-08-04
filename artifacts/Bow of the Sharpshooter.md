@@ -2,7 +2,7 @@
 title: "Artifacts - Bow of the Sharpshooter"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Era of Chaos  Bow of the Sharpshooter. Bow of the Sharpshooter A holy relic forged from treasures by the elves. Able to increase ranged attack."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Bow of the Sharpshooter.md"
 toc: false

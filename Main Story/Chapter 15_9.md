@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 15 - 15-9 Meeting Again"
 permalink: /Main Story/Chapter 15_9/
 excerpt: "Chapter 15 - 9. Era of Chaos  Main Story - Chapter 15_9. 15-9 Meeting Again"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 15_9.md"
 toc: false

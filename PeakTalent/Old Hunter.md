@@ -2,7 +2,7 @@
 title: "Old Hunter. Peak Talent - Old Hunter"
 permalink: /PeakTalent/Old Hunter/
 excerpt: "Era of Chaos Peak Talent Old Hunter. Peak Talent Old Hunter. Old Hunter"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Old Hunter.md"
 toc: false

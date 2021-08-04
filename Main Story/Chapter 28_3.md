@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 28 - 28-3 Descent or Flight"
 permalink: /Main Story/Chapter 28_3/
 excerpt: "Chapter 28 - 3. Era of Chaos  Main Story - Chapter 28_3. 28-3 Descent or Flight"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 28_3.md"
 toc: false

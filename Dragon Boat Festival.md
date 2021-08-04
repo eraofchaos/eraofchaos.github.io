@@ -2,7 +2,7 @@
 title: "Dragon Boat Festival"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Dragon Boat Festival - Dragon Boat Quest"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "index.md"
 toc: false

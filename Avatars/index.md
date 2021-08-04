@@ -2,7 +2,7 @@
 title: "Avatar Frame & Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Avatar Frame & Avatar. Avatar Frame & Avatar"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "index.md"
 toc: false
@@ -80,40 +80,41 @@ classes: wide
   | 67 | ![Phoenix Nirvana](/images/a/avatarFrame_17.png) | [Phoenix Nirvana](/Avatars/Phoenix Nirvana/) | + | Phoenix God avatar frame |
   | 68 | ![Pioneer Lord](/images/a/avatarFrame_33.png) | [Pioneer Lord](/Avatars/Pioneer Lord/) | + | Pioneer Lord Avatar Frame |
   | 69 | ![Power of Poseidon](/images/a/avatarFrame_82.png) | [Power of Poseidon](/Avatars/Power of Poseidon/) | + | Power of Poseidon Avatar Frame |
-  | 70 | ![Rampart](/images/a/avatarFrame_12.png) | [Rampart](/Avatars/Rampart/) | - | Rampart avatar frame |
-  | 71 | ![Righteous Justice](/images/a/avatarFrame_74.png) | [Righteous Justice](/Avatars/Righteous Justice/) | + | Righteous Justice Avatar Frame |
-  | 72 | ![Ruler of Earth](/images/a/avatarFrame_40.png) | [Ruler of Earth](/Avatars/Ruler of Earth/) | + | Ruler of Earth Avatar Frame |
-  | 73 | ![Ruler of Flames](/images/a/avatarFrame_39.png) | [Ruler of Flames](/Avatars/Ruler of Flames/) | + | Ruler of Flames Avatar Frame |
-  | 74 | ![Ruler of Frost](/images/a/avatarFrame_38.png) | [Ruler of Frost](/Avatars/Ruler of Frost/) | + | Ruler of Frost Avatar Frame |
-  | 75 | ![Ruler of Sky](/images/a/avatarFrame_41.png) | [Ruler of Sky](/Avatars/Ruler of Sky/) | + | Ruler of Sky Avatar Frame |
-  | 76 | ![Ruler of Void](/images/a/avatarFrame_42.png) | [Ruler of Void](/Avatars/Ruler of Void/) | + | Ruler of Void Avatar Frame |
-  | 77 | ![Semi-annual Celebration](/images/a/avatarFrame_50.png) | [Semi-annual Celebration](/Avatars/Semi-annual Celebration/) | + | Semi-annual Celebration Exclusive Avatar Frame |
-  | 78 | ![Shadow of Beast](/images/a/avatarFrame_79.png) | [Shadow of Beast](/Avatars/Shadow of Beast/) | + | Shadow of Beast Avatar Frame |
-  | 79 | ![Shadow of Ghosts](/images/a/avatarFrame_78.png) | [Shadow of Ghosts](/Avatars/Shadow of Ghosts/) | - | Shadow of Ghosts Avatar Frame |
-  | 80 |  | [Shadow of Ice Kingdom Dragon](/Avatars/Shadow of Ice Kingdom Dragon/) | - | Shadow of Ice Kingdom Dragon Avatar Frame |
-  | 81 | ![Social Butterfly](/images/a/avatarFrame_31.png) | [Social Butterfly](/Avatars/Social Butterfly/) | - |  |
-  | 82 | ![Soul of Earth](/images/a/avatarFrame_53.png) | [Soul of Earth](/Avatars/Soul of Earth/) | - | Soul of Earth Avatar Frame |
-  | 83 | ![Spell Master](/images/a/avatarFrame_10.png) | [Spell Master](/Avatars/Spell Master/) | + | Master Magician avatar frame |
-  | 84 | ![Sphinx's Secrets](/images/a/avatarFrame_25.png) | [Sphinx's Secrets](/Avatars/Sphinx's Secrets/) | + | Riddle of the Sphinx Avatar Frame |
-  | 85 | ![Starry Lovers' Bridge](/images/a/avatarFrame_27.png) | [Starry Lovers' Bridge](/Avatars/Starry Lovers' Bridge/) | - | Starry Lovers' Bridge avatar frame |
-  | 86 | ![Stronghold](/images/a/avatarFrame_4.png) | [Stronghold](/Avatars/Stronghold/) | - | Stronghold avatar frame |
-  | 87 | ![Tactical Commander](/images/a/avatarFrame_20.png) | [Tactical Commander](/Avatars/Tactical Commander/) | + | Tactical Commander avatar frame |
-  | 88 | ![The Moor](/images/a/avatarFrame_70.png) | [The Moor](/Avatars/The Moor/) | + | Calamity of the Moor Avatar Frame |
-  | 89 | ![Thunder Rage](/images/a/avatarFrame_57.png) | [Thunder Rage](/Avatars/Thunder Rage/) | + | Thunder Rage Avatar Frame |
-  | 90 | ![Tower](/images/a/avatarFrame_5.png) | [Tower](/Avatars/Tower/) | - | Tower avatar frame |
-  | 91 | ![Treasure Collector](/images/a/avatarFrame_19.png) | [Treasure Collector](/Avatars/Treasure Collector/) | + | Treasure Collector avatar frame |
-  | 92 | ![Unknown Avatar Frame 1007](/images/a/avatarFrame_7.png) | [Unknown Avatar Frame 1007](/Avatars/Unknown Avatar Frame 1007/) | - |  |
-  | 93 | ![Unknown Avatar Frame 1008](/images/a/avatarFrame_8.png) | [Unknown Avatar Frame 1008](/Avatars/Unknown Avatar Frame 1008/) | - |  |
-  | 94 | ![Unknown Avatar Frame 1016](/images/a/avatarFrame_16.png) | [Unknown Avatar Frame 1016](/Avatars/Unknown Avatar Frame 1016/) | - |  |
-  | 95 | ![Unknown Avatar Frame 1022](/images/a/avatarFrame_22.png) | [Unknown Avatar Frame 1022](/Avatars/Unknown Avatar Frame 1022/) | - |  |
-  | 96 | ![Unknown Avatar Frame 1024](/images/a/avatarFrame_24.png) | [Unknown Avatar Frame 1024](/Avatars/Unknown Avatar Frame 1024/) | - |  |
-  | 97 | ![Unknown Avatar Frame 1035](/images/a/avatarFrame_35.png) | [Unknown Avatar Frame 1035](/Avatars/Unknown Avatar Frame 1035/) | - |  |
-  | 98 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/Avatars/Unknown Avatar Frame 1066/) | - |  |
-  | 99 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/Avatars/Unknown Avatar Frame 1067/) | - |  |
-  | 100 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/Avatars/Unknown Avatar Frame 1069/) | - |  |
-  | 101 | ![Vines of Fortune](/images/a/avatarFrame_92.png) | [Vines of Fortune](/Avatars/Vines of Fortune/) | + | Vines of Fortune Avatar Frame |
-  | 102 | ![Warlord of the Sea](/images/a/avatarFrame_202.png) | [Warlord of the Sea](/Avatars/Warlord of the Sea/) | + | Lord of the Sea Avatar Frame |
-  | 103 | ![Warm Christmas](/images/a/avatarFrame_47.png) | [Warm Christmas](/Avatars/Warm Christmas/) | + | Warm X'mas Avatar Frame |
-  | 104 | ![Warrior](/images/a/avatarFrame_1.png) | [Warrior](/Avatars/Warrior/) | + | Competitor avatar frame |
-  | 105 | ![Wild Overlord](/images/a/avatarFrame_98.png) | [Wild Overlord](/Avatars/Wild Overlord/) | + | Wild Overlord Avatar Frame |
-  | 106 | ![Will of the Gods](/images/a/avatarFrame_30.png) | [Will of the Gods](/Avatars/Will of the Gods/) | + | Will of the Gods Avatar Frame |
+  | 70 |  | [Raging Northern Wind](/Avatars/Raging Northern Wind/) | + | Raging Northern Wind Avatar Frame |
+  | 71 | ![Rampart](/images/a/avatarFrame_12.png) | [Rampart](/Avatars/Rampart/) | - | Rampart avatar frame |
+  | 72 | ![Righteous Justice](/images/a/avatarFrame_74.png) | [Righteous Justice](/Avatars/Righteous Justice/) | + | Righteous Justice Avatar Frame |
+  | 73 | ![Ruler of Earth](/images/a/avatarFrame_40.png) | [Ruler of Earth](/Avatars/Ruler of Earth/) | + | Ruler of Earth Avatar Frame |
+  | 74 | ![Ruler of Flames](/images/a/avatarFrame_39.png) | [Ruler of Flames](/Avatars/Ruler of Flames/) | + | Ruler of Flames Avatar Frame |
+  | 75 | ![Ruler of Frost](/images/a/avatarFrame_38.png) | [Ruler of Frost](/Avatars/Ruler of Frost/) | + | Ruler of Frost Avatar Frame |
+  | 76 | ![Ruler of Sky](/images/a/avatarFrame_41.png) | [Ruler of Sky](/Avatars/Ruler of Sky/) | + | Ruler of Sky Avatar Frame |
+  | 77 | ![Ruler of Void](/images/a/avatarFrame_42.png) | [Ruler of Void](/Avatars/Ruler of Void/) | + | Ruler of Void Avatar Frame |
+  | 78 | ![Semi-annual Celebration](/images/a/avatarFrame_50.png) | [Semi-annual Celebration](/Avatars/Semi-annual Celebration/) | + | Semi-annual Celebration Exclusive Avatar Frame |
+  | 79 | ![Shadow of Beast](/images/a/avatarFrame_79.png) | [Shadow of Beast](/Avatars/Shadow of Beast/) | + | Shadow of Beast Avatar Frame |
+  | 80 | ![Shadow of Ghosts](/images/a/avatarFrame_78.png) | [Shadow of Ghosts](/Avatars/Shadow of Ghosts/) | - | Shadow of Ghosts Avatar Frame |
+  | 81 |  | [Shadow of Ice Kingdom Dragon](/Avatars/Shadow of Ice Kingdom Dragon/) | - | Shadow of Ice Kingdom Dragon Avatar Frame |
+  | 82 | ![Social Butterfly](/images/a/avatarFrame_31.png) | [Social Butterfly](/Avatars/Social Butterfly/) | - |  |
+  | 83 | ![Soul of Earth](/images/a/avatarFrame_53.png) | [Soul of Earth](/Avatars/Soul of Earth/) | - | Soul of Earth Avatar Frame |
+  | 84 | ![Spell Master](/images/a/avatarFrame_10.png) | [Spell Master](/Avatars/Spell Master/) | + | Master Magician avatar frame |
+  | 85 | ![Sphinx's Secrets](/images/a/avatarFrame_25.png) | [Sphinx's Secrets](/Avatars/Sphinx's Secrets/) | + | Riddle of the Sphinx Avatar Frame |
+  | 86 | ![Starry Lovers' Bridge](/images/a/avatarFrame_27.png) | [Starry Lovers' Bridge](/Avatars/Starry Lovers' Bridge/) | - | Starry Lovers' Bridge avatar frame |
+  | 87 | ![Stronghold](/images/a/avatarFrame_4.png) | [Stronghold](/Avatars/Stronghold/) | - | Stronghold avatar frame |
+  | 88 | ![Tactical Commander](/images/a/avatarFrame_20.png) | [Tactical Commander](/Avatars/Tactical Commander/) | + | Tactical Commander avatar frame |
+  | 89 | ![The Moor](/images/a/avatarFrame_70.png) | [The Moor](/Avatars/The Moor/) | + | Calamity of the Moor Avatar Frame |
+  | 90 | ![Thunder Rage](/images/a/avatarFrame_57.png) | [Thunder Rage](/Avatars/Thunder Rage/) | + | Thunder Rage Avatar Frame |
+  | 91 | ![Tower](/images/a/avatarFrame_5.png) | [Tower](/Avatars/Tower/) | - | Tower avatar frame |
+  | 92 | ![Treasure Collector](/images/a/avatarFrame_19.png) | [Treasure Collector](/Avatars/Treasure Collector/) | + | Treasure Collector avatar frame |
+  | 93 | ![Unknown Avatar Frame 1007](/images/a/avatarFrame_7.png) | [Unknown Avatar Frame 1007](/Avatars/Unknown Avatar Frame 1007/) | - |  |
+  | 94 | ![Unknown Avatar Frame 1008](/images/a/avatarFrame_8.png) | [Unknown Avatar Frame 1008](/Avatars/Unknown Avatar Frame 1008/) | - |  |
+  | 95 | ![Unknown Avatar Frame 1016](/images/a/avatarFrame_16.png) | [Unknown Avatar Frame 1016](/Avatars/Unknown Avatar Frame 1016/) | - |  |
+  | 96 | ![Unknown Avatar Frame 1022](/images/a/avatarFrame_22.png) | [Unknown Avatar Frame 1022](/Avatars/Unknown Avatar Frame 1022/) | - |  |
+  | 97 | ![Unknown Avatar Frame 1024](/images/a/avatarFrame_24.png) | [Unknown Avatar Frame 1024](/Avatars/Unknown Avatar Frame 1024/) | - |  |
+  | 98 | ![Unknown Avatar Frame 1035](/images/a/avatarFrame_35.png) | [Unknown Avatar Frame 1035](/Avatars/Unknown Avatar Frame 1035/) | - |  |
+  | 99 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/Avatars/Unknown Avatar Frame 1066/) | - |  |
+  | 100 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/Avatars/Unknown Avatar Frame 1067/) | - |  |
+  | 101 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/Avatars/Unknown Avatar Frame 1069/) | - |  |
+  | 102 | ![Vines of Fortune](/images/a/avatarFrame_92.png) | [Vines of Fortune](/Avatars/Vines of Fortune/) | + | Vines of Fortune Avatar Frame |
+  | 103 | ![Warlord of the Sea](/images/a/avatarFrame_202.png) | [Warlord of the Sea](/Avatars/Warlord of the Sea/) | + | Lord of the Sea Avatar Frame |
+  | 104 | ![Warm Christmas](/images/a/avatarFrame_47.png) | [Warm Christmas](/Avatars/Warm Christmas/) | + | Warm X'mas Avatar Frame |
+  | 105 | ![Warrior](/images/a/avatarFrame_1.png) | [Warrior](/Avatars/Warrior/) | + | Competitor avatar frame |
+  | 106 | ![Wild Overlord](/images/a/avatarFrame_98.png) | [Wild Overlord](/Avatars/Wild Overlord/) | + | Wild Overlord Avatar Frame |
+  | 107 | ![Will of the Gods](/images/a/avatarFrame_30.png) | [Will of the Gods](/Avatars/Will of the Gods/) | + | Will of the Gods Avatar Frame |

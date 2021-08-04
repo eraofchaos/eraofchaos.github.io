@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 27 - 27-11 Everlasting"
 permalink: /Main Story/Chapter 27_11/
 excerpt: "Chapter 27 - 11. Era of Chaos  Main Story - Chapter 27_11. 27-11 Everlasting"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 27_11.md"
 toc: false

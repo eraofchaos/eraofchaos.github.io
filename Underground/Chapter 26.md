@@ -2,7 +2,7 @@
 title: "Underground - Chapter 26 Sound of Fate"
 permalink: /Underground/Chapter 26/
 excerpt: "Chapter 26 Sound of Fate. Era of Chaos  Underground - Chapter 26. Sound of Fate"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 26.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Ranger -  Heroes"
 permalink: /heroes/Profession Ranger/
 excerpt: "Era of Chaos Profession Ranger. Profession Ranger. List of Profession  in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Profession Ranger"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusive - Sword (Pikeman)"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Sword. Sword. Era of Chaos Exclusive Sword. Pikeman Exclusive."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Pikeman Sword.md"
 toc: false

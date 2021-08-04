@@ -2,7 +2,7 @@
 title: "Main Story - Chapter 29 - 29-12 The Green Dragon's Cliff"
 permalink: /Main Story/Chapter 29_12/
 excerpt: "Chapter 29 - 12. Era of Chaos  Main Story - Chapter 29_12. 29-12 The Green Dragon's Cliff"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 29_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 19 - 19-1 Iron and Blood"
 permalink: /Underground/Chapter 19_1/
 excerpt: "Chapter 19 - 1. Era of Chaos  Underground - Chapter 19_1. 19-1 Iron and Blood"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 19_1.md"
 toc: false

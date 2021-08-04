@@ -2,7 +2,7 @@
 title: "Underground - Chapter 22 The Road Home"
 permalink: /Underground/Chapter 22/
 excerpt: "Chapter 22 The Road Home. Era of Chaos  Underground - Chapter 22. The Road Home"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 22.md"
 toc: false

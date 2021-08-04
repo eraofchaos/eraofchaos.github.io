@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusive Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Era of Chaos Exclusive Stronghold. Exclusive Stronghold. List of Exclusive Stronghold in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Exclusive Stronghold"
 toc: false
@@ -24,5 +24,5 @@ classes: wide
   | 5  | [Roc](/units/Roc/) | [Arcane Chant](/Exclusive/Roc Arcane Chant/) | - | Charge | [Arcane Chant Token](/Items/con_915/) | - |
   | 6  | [Cyclops](/units/Cyclops/) | [Long Bow](/Exclusive/Cyclops Long Bow/) | + | Charge | [Long Bow Token](/Items/con_914/) | - |
   | 7  | [Behemoth](/units/Behemoth/) | [Bloodthirsty Spirit](/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Support | [Bloodthirsty Spirit Token](/Items/con_982/) | [Bloodthirsty Spirit Special Skin](/Items/con_650/) |
-  | 8  | [Berserker](/units/Berserker/) | [Berserker's Axe](/Exclusive/Berserker Berserker's Axe/) | - | Support | [Berserker's Axe Token](/Items/con_983/) | [Berserker's Axe Special Skin](/Items/con_651/) |
+  | 8  | [Berserker](/units/Berserker/) | [Berserker's Axe](/Exclusive/Berserker Berserker's Axe/) | + | Support | [Berserker's Axe Token](/Items/con_983/) | [Berserker's Axe Special Skin](/Items/con_651/) |
   | 9  | [Troll](/units/Troll/) | - | - | - | none | none |

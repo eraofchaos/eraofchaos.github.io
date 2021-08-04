@@ -2,7 +2,7 @@
 title: "Carrion Crown"
 permalink: /equipment/Carrion Crown/
 excerpt: "Era of Chaos Carrion Crown. Carrion Crown"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Carrion Crown.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Underground - Chapter 18 - 18-4 Dragon's Doubt"
 permalink: /Underground/Chapter 18_4/
 excerpt: "Chapter 18 - 4. Era of Chaos  Underground - Chapter 18_4. 18-4 Dragon's Doubt"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: en
 ref: "Chapter 18_4.md"
 toc: false
